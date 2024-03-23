@@ -1,0 +1,1302 @@
+ Forever.
+  Dog.
+  Warning, the following podcast is about one of the most popular Disney characters, Genie,  the lovable blue guy from Aladdin.
+  You might be wondering, hey, where does Genie hang out these days?  In Aladdin and Jasmine's palace in Agrabah?  In his magic lamp?  Well, the answer is neither.
+  Genie is now confined to your phone, stuck in your various parks apps in order to analyze  queue lengths and monitor crowd levels in order to carefully and effectively control the flow  of traffic around the Disney parks.
+  Also, if you slip him some money, he'll let you skip the lines.
+  Justin McElroy joins us to chat about a new parks planning tool and the replacement for  FastPass, Genie and Genie Plus, on today's thrilling Podcast the Ride.
+  Welcome to Podcast the Ride, a podcast about theme parks that's just like a Genie, assuming  that all three of your wishes are to hear 90 minutes about theme park efficiency and  pricing information.
+  I'm Scott Gairdner and I'm joined by Mike Carlson.
+  Hello.
+  Yes, I'm here.
+  I want to break it down.
+  I want to make even, like say a Disney executive who has listened to presentations, I want  to bore even that type of person with the amount of minutiae that we're going to comb  through today on Podcast the Ride.
+  Someone whose job is to care about this specific thing.
+  I know one of those people from the video that I want me to be talking about.
+  Yeah, I'm a big fan at the door.
+  Yeah.
+  All right.
+  Well, yeah, we'll get boring, but we can't do it without the help of Jason Sherrod and  I.
+  Of course not.
+  This is Mr.
+ Boring himself.
+  Here he is.
+  Listeners, you asked for more logistical nonsense.
+  You asked.
+  We listened.
+  My cohost bucked at the idea and then true.
+  Yes, like a star in the night appeared, a star guiding the ship and we knew we had to.
+  It was exactly right.
+  Look, we have just there's been a lot of these kinds of information drops recently.
+  Everything is getting reset.
+  There is no longer an annual pass program post pandemic.
+  So they reset that and there is a thing called the Magic Key program over on our Patreon,  the second gate.
+  We broke that down for God knows how long.
+  It felt like four days to me.
+  But we did that.
+  So when Jason brought up, well, now we got to do the same thing for Disney Genie.
+  I'm like, oh, Jesus Christ.
+  But you are correct.
+  We are very incentivized to do it because the best thing that came from Twitter losing  its collective mind about this Disney Genie thing, which is essentially the replacement  for Fast Pass and Max Pass.
+  It's about making your day efficient and skipping the line and all that.
+  We won't explain it.
+  Yeah.
+  In theory, that's the idea.
+  Sure.
+  But yes, everybody's freaking out about this program and it caused somebody to reach out  to us on Twitter who we've wanted to have on for a long time.
+  And I'm so happy he's here.
+  He's a prolific podcaster from my brother, my brother and me, Sawbones and Adventure  Zone.
+  And Maccleroy.
+  Hi.
+  Hi.
+  What a pleasure it is.
+  Hello.
+  Welcome.
+  Thank you.
+  Thank you.
+  Hello.
+  I don't know why I said welcome.
+  You welcomed us to our own podcast.
+  What a joy.
+  What a treat.
+  Very nice.
+  Yeah.
+  Yeah, it's nice.
+  It's like freshens the things up.
+  Yeah, I've been listening for a while and I wanted to connect faces with voices.
+  And this is the only way that I know how to do it.
+  It's just a guest on and then it all clicks into place.
+  Beyond now, you know, I'm Scott.
+  Hello.
+  I'm in a what?  Mr.
+ Toad shirt, right?  And I'm wearing Mr.
+ Toad shirt.
+  That's correct.
+  And Jason's in the 82.
+  The Epcot.
+  I still have no idea what Terry Gross looks like because she won't have me on.
+  So I can't spot her in a crowd.
+  Someday.
+  It's more of a don't if you Google image, then that will like ruin the entire thing.
+  Yeah.
+  That's what keeps us dispensed for when I'm actually on Fresh Air.
+  Of course.
+  Yeah.
+  We're we're so happy you reached out and you were you were fired up about this situation,  this new Disney genie program that has been launched.
+  And I'm so glad that you are that somebody is not completely exhausted by Disney information,  dumps and names as at least I am.
+  So this works out perfectly.
+  You will carry me at least through this.
+  So let's let's dive in.
+  What like is there anything else we need to set up about this in general?  Did I did I sort of explain it?  Disney for a long time.
+  Yeah.
+  Fast pass.
+  All right.
+  There's three things.
+  They announced three things at once.
+  And I'm going to try to log line each one of them.
+  There's Disney Genie.
+  This is some sort of automated.
+  It's not an app.
+  It's built in other apps that will art of an app.
+  It's part of an app.
+  It's part of the apps are different depending on Disneyland or Disney World.
+  It's my Disney experience app.
+  Yes, Disney World and it's the Disneyland app.
+  If it's Disneyland, is that right?  Yes, that's correct.
+  So this was announced a while ago, like the D23 in 2019.
+  They said this is coming.
+  I think everyone kind of went like, yeah, what is what is this going to be?  And it seems like, you know, in theory is one of those things like that old Apple adage  of like it just works where it's like I want to eat something.
+  It'll tell me what's not crowded.
+  I want to go on a ride.
+  It'll tell me wait times.
+  There's now they're saying it'll tell you forecast at wait times, like in the way that  ways will tell you if you leave at five o'clock, you're going to get there at this time.
+  But if you leave at eight o'clock, you'll get there at this time.
+  Then there's Disney Genie Plus, which is a an add on.
+  Fifteen dollars in Florida, twenty dollars in Anaheim, which is essentially functions  like Max Pass, which we used to have at Disneyland.
+  And this is this is what FastPass is now.
+  Free FastPass is dead.
+  You pay you pay more.
+  FastPass is a thing where you would get little slips of paper and it would tell you what  time window to come back and you could skip the line.
+  Max Pass is a thing where you paid for that privilege to do it way, way out of time.
+  In Florida, you would book three online.
+  You would book three different FastPass is 60 days ahead.
+  If you were I think it was 60 days, 60 days ahead, if you were staying on the property  and you could book three after you use those three, you could book another one.
+  Yes, that's gone.
+ That's that's all gone.
+  That's all gone.
+  So now this is where it gets confusing.
+  There is a third offering.
+  Those first two they refer to as services.
+  And then this third one, it's service, service, punishment, service, service.
+  And then Lightning Lane, they refer to as Lightning Lane entrances.
+  So Lightning Lanes are both.
+  It's it's kind of two things.
+  It's the lines that used to be the FastPass line.
+  So you you get in the Lightning Lane.
+  You and you.
+  But then there's also a la carte purchasable access to the Lightning Lane  for like the most popular rides within a park.
+  So the so the Disney Genie Plus does not cover all of the premium ride experiences,  like I assume Guardians of Galaxy, probably the IncrediCoaster,  anything that you think is like a mega ticket living with the land, all the major  living with the land, living with the land dollars to cut the line on it.
+  But that that seems to be maybe like a universal type, like shifting money  price, depending on day and traffic.
+  But it also seems like the algorithm is going to shift.
+  Like this has been this is what's currently the most popular one.
+  So right.
+ Exactly.
+  Could potentially drop.
+  Like it seems like the one I I kept seeing, which I was surprised by  with seven dwarfs mine train in Magic Kingdom is apparently insanely popular.
+  So like everyone's like, well, that one's going to Lightning Lane.
+  So but you you buy you buy Lightning Lane,  but then you also use Disney Genie Plus to access the Lightning Lane.
+ So.
+  Yeah, so I've been feeling more like Scott recently reading.
+  This I've got to I've got to come out.
+ OK.
+  Yeah, because I.
+  I already in the insanity.
+  I was visiting family and I, you know, my family is planning a trip down the line  and I'm explaining all this to my dad and he just looked like like I just made him  eat a lemon and he's just like, oh, this is similar to how Justin looks.
+  And I was so so what is what is your take in?  Let's let's fire up some opinions.
+  Yeah.
+ Well, actually, could I stop?  I just want to ask Justin, what is your feeling about Max  like about the FastPass program before before even we get your reaction  to the new news, because I just want to know what you were, how hard of it  may be of a checker, how much of a planner you were.
+  It should.
+ OK, so so things that sort of differentiate me from from,  I think your situation is one, I am planning for one.
+  I live in West Virginia, so I'm planning for a, you know,  not not regular visit.
+  It is a it is an event, right?  I'm also traveling with  at least three other people in my immediate family.
+  I have ballooned up to as many as 15.
+  Wow.
+ Where I'm like scheduling that.
+ Right.
+  So I actually liked I like FastPass in the sense that it gave me  a little bit of structure to hang my hat on.
+  I'm going for efficiency in a visit and I want, you know, maximum impact.
+  So I liked that it gave me something to hang my hat on.
+  Like, at least I know I've got this, this and this at these times,  and I can kind of plan around that a little bit.
+  So I so I appreciated it from from that in that sense.
+  OK, got it.
+ All right.
+  So now reactions now let's fire up our take machine.
+  The new thing.
+  I've oh, wow.
+  It it's.
+ God, I'm really  a lot of people, I read a lot of the Disney social media, which have you  if you even if you think you wouldn't  just treat yourself every once in a while and hop in, see how things are going.
+  Yeah, it is.
+ Yeah.
+  Just be careful.
+  He gazed in the abyss, the abyss gaze back sometimes, you know, get pretty good.
+  This was like this was it right.
+  This is finally the the the the final straw.
+  I would.
+ Chaypeck has gone too far.
+  I'm done with Disney.
+  You know, I'm out.
+  But it's like you're not because  the fans of Disney and I'm not like excluding myself from this.
+  I'm right there with you.
+  But you got to be honest about what you are.
+  People have proven time and time again, they will fall all over themselves  to pay any price to heighten the experience.
+  And this is just like this is the big one, right?  This is the lever that was always kind of like behind Mickey  that he could like reach up and like pay to skip the lines,  pay to skip the lines.
+ I'm going to do it.
+  It's like, oh, come on, don't.
+  And then, of course, he does it.
+  The problem is, my my hesitations about it are this.
+  So I have been one time  when when there was like this the sweet spot where numbers seem really low.
+  There was a lot of masking and seems seemed OK.
+  Right.
+ So I went the lot.
+  It was but it was rough, like the especially with the way cues  were working at the time where it was like, you know, standing out  in the sun for a lot of it.
+  We went for like an hour and a half to get into the jungle cruise.
+  Like and almost all of it was like standing just in direct sunlight.
+  Well, yeah, if we if we haven't said this officially, like if if  and just to mark this point in time, the pandemic has reset everything  where there hasn't been any of these programs.
+  So these ways to skip the lines have not existed.
+  And we are just back to how it would have been several decades ago  where you're just standing in a line regular and there's no way to jump  besides being like a VIP.
+  And the the idea behind FastPass, which I should point out in Disney World,  it was democratized like anybody could get a FastPass.
+  You could get them earlier if you were staying on property.
+  But like they were open to anybody.
+  And the idea, the cynical it was it was good for everyone, right?  Because cynically, Disney wanted you not in line.
+  They wanted you buying drinks, buying T-shirts, you know, spending  money on other stuff, right?  They don't want you to wait in line.
+  And you don't want to wait in line because it's boring.
+  So it's good.
+ So this is good.
+  It's good for everyone.
+  I will be really interested to see.
+  And I think the thing that is is going to be.
+  I feel like the adoption rate of this of the of the Genie Plus  is going to be so astronomical.
+  I mean, you think about how much you're already spending to do this.
+  The idea that you wouldn't kick in another 15 bucks a ticket to me  is like unfathomable, right?  Like, of course, $15 is so low that I wonder if they're going to get  like overwhelmed by demand for it.
+  They're going to limit the number of Genie Plus sales in a given day,  or if it's just going to be like, you know, everyone, everyone go for it.
+  I feel like no matter what it is, it'll still be better than  what it is right now, right, which is just people waiting in a line,  which is which is tough.
+  Like it's it's and it's also hard to plan that way  because the lines just are much less predictable than they were pre pandemic.
+  Yeah, it's like I've seen a lot of, as you said, like Disney Twitter,  there's a lot of discourse because I've seen a lot of there's compete people  arguing with each other because a lot of people are saying,  oh, well, you know what, if you got rid of FastPass, actually,  that's going to make all the lines much better because what FastPass did,  and that is this is true.
+  FastPass put a lot more people into the park, but there was still  basically like phantom people in the lines.
+  So, you know, I forget exactly the numbers, but for every three people  in the standby line, eight people from FastPass would go in.
+  So that was increasing the wait time in general for all the rides  all over the park.
+  So now people are going, you know what, this is actually better  because all the lines are going to be short, which I'm skeptical.
+  Because as you're saying, I feel like a lot of people would pay this 15 bucks  if you're going to be able to like not have to wait in most lines.
+  I would get to be seen how many things they consider like top level e-tickets,  I guess.
+ But like say it's only like three things per park.
+  If you're going to like breeze through lines much easier,  it would make a lot of sense to do it, especially if it's your vacation in Florida.
+  My big, my big concern about it.
+  And this is like, I don't know that there's a solve for this.
+  Like in the in universal, there is a in Florida, there is a you pay a large,  much larger fee than 15 bucks.
+  I think it's like 70 something like that.
+  I just had an incident where I paid like two hundred dollars.
+  It was so I did it the day of.
+  Accelerated.
+ Wow.
+ Yes.
+ Yeah.
+  They do surge pricing on it.
+  But it's just like you you can just get there's just like a special  path for you and you go on it.
+  To me, I wish there was an option like that,  because my main hesitation about this is, especially with the genie thing  where it's like the cloud is planning my itinerary, which I feel like  zero percent adopt.
+  I feel like I feel like, yes, you either don't know enough about Disney  to where you would ever know even where on the app to find this guy.
+  Or you know enough where you're like, I'm not fucking doing that.
+  Absolutely not.
+ I know what I'm doing.
+  I don't need the genie to hold my hand.
+  I'm I'm I'm a grown adult.
+  I feel like you're going to have zero percent people using this.
+  But I don't like the idea that where it's like,  you know, you could go to this ride right now or this is the thing  you have available to you or you need to check the price of this experience.
+  I just feel like you're going to be steering your phone so much more.
+  Like I would love the ability to not, which I'm having to do already.
+  Like if you want to eat lunch as of the last time I went,  you want to eat lunch, even like a quick service restaurant.
+  Put your order in at 10 a.
+m.
+  because all the availability is gone by, you know, is gone by noon.
+  Like you're already like having to watch this thing like a hawk  to try to min max the experience.
+  And this, to me, the big hang up I have is like it just feels like another way  to keep you like locked into your phone rather than like trying to enjoy  your your experience.
+  Now, I'm curious how that hits the room, because some of us,  some of the three of us love to be on our phone  checking things throughout the day.
+  So what does the checker here, this spoiler is not me,  think about this this whole thing is going to get more people change  is going to ruin your line of free work?  Well, here's the thing.
+  Max Pass, I loved Max Pass, and I believe,  at least when I was doing the Fastpass Plus in Disney World,  the trick would be you make the three Fastpass reservations early as possible.
+  And then I could Max Pass the rest of the day.
+  I could just be surfing and trying to find.
+  And then we would be like in the line of Spaceship Earth.
+  I would be surfing.
+ I'd find a Fastpass.
+  I go, we're getting out of this line.
+  We're getting into Fastpass line.
+  And I'd make a big I feel like true elation.
+  Like the only time I can ever feel anything is like when I would  get a victory like that in an app.
+  So, yes, I do like surfing.
+  I do.
+ I'm on it too much for sure.
+  I feel like this is just this all of this is more complicated.
+  Now you're making this more extra complicated.
+  Like, I don't know if it's going to be quite as worth it,  because obviously when I'm pulling stuff, it's not always Spaceship Earth.
+  It's usually big stuff.
+  You're excited about the stuff that is a long, longer line, longer wait.
+  So it's a big pain in the ass to be like, yeah,  you're not going to be able to get on Guardians of the Galaxy unless you just pat.
+  There's no way I'm going to be able to pull that unless I just pay 20 or who knows,  50 dollars or 300 dollars if universal pricing is going to apply here.
+  As far as Disney Genie and Jason and I and Scott,  we already talked a little bit about this Disney Genie.
+  Hey, I'd like to see you plan a plan a vacation or a day at Disneyland better than me, pal.
+  I would like to challenge Disney Genie officially right now.
+  Old John Henry scenario of like you have your robot family.
+  I have my human family.
+  That is exactly what we are going to do on podcast.
+  The right Jason is going to use Disney Genie.
+  I am not I'm going to be foamless.
+  And I still think I could beat Disney Genie at having a great Disney day.
+  This will happen.
+  Well, at some point this fall or winter, I am excited for a day  where I am just constantly set back and forth between Ariel's undersea adventure  and the bangle barbecue skewers, skewer stand.
+  Just there's no law.
+  It's like, oh, man, they got to do what the genie says.
+  I said I would do this.
+  Yeah.
+ So look, I could be.
+  We'll have to see Genie, OK, because I don't I'm trash talking him now,  but it's only because we're going to compete in some sort of a pro wrestling style contest.
+  But it's possible that it's better or good, especially if you're maybe  like a total novice when it comes to knowing where to go.
+  And it just kind of maybe it does send you on a nice Disney day.
+  Well, yeah.
+ Oh, go ahead, Jason.
+  Well, I was going to say, I mean, I I am curious.
+  I think it could come in handy because even I like  there's a stretch between I always complain about that.
+  There's a stretch between like two and five where like some parks,  just everything is bottlenecked.
+ There's a line for everything.
+  There's crowds everywhere.
+  That's when I would like something like, you know, machine learning to tell me like,  hey, there's no one over here right now.
+  That would be great.
+ That's true.
+ That's true.
+  That seems like if it works correctly.
+  But I was in Florida the first summer,  they were doing the magic bands in the my Disney experience.
+  And that app was so buggy.
+  It crashed so much.
+  Our phones were only like a couple of years old.
+  It was it took up so much room was overheating.
+ It's better now.
+  But I the the first generation of this, I am just predicting it's it's  I just think it's going to be a mess.
+  And one of the like little side effects of like,  you know, COVID time, it's like there's everything is a little harder, right?  Everything's got a little more friction.
+  Restaurants are places closed earlier.
+  Places have limited menus, be it Disney or just out in the world.
+  You know, everything's a little harder.
+  What's that smaller staffs at a lot of places, smaller?  Staffs, a lot of places.
+  So to me, it seems like this is maybe the worst possible time  you could introduce a new software offering.
+  That your branding is kind of bad on.
+  And yeah, a time when people are already exhausted of friction, you know.
+  Yeah, it's also kind of funny.
+  I do kind of enjoy the idea that they're laying a beloved character just on the altar.
+  I mean, it's really funny.
+  They're really letting like this feels very sacrificial, doesn't it?  Like everyone's loved the genie for 20 years.
+  We miss Robin very much, but we are now going to desecrate this in  pretty much the most monumental way possible.
+  He burned on Piers.
+  People will abhor the very mention of his name if it doesn't go well.
+  Genie, Genie, you're not free anymore.
+  You're fucked.
+  You're just just a person after person at the city hall being like this fucking genie.
+  I hate this fucking genie over and over again.
+  And then there's just like negative vibes surrounding the Aladdin in general as an IP  and Sowers is something in Robin Williams's whole legacy as an actor.
+  The only thing people remember in 50 years like, oh, yeah, he's the guy that played  the A.
+I.
+ that messed up Walt Disney World.
+  The I just have zero fit.
+  The website doesn't work now.
+  The website barely works.
+  Usually the app is not much better.
+  If you think about the and I'm obviously not like,  you know, someone who is planning this, I can see the appeal.
+  If you're Disney, like, you know, if we just move these groups of people like,  you know, like so many Legos, we could arrange a much prettier picture where  everything is balanced.
+ But like, it's not going to work.
+  I mean, imagine the the the the challenge of, OK,  there are a hundred people that are just kind of waiting around in the area of.
+  You know, magic carpets with Aladdin or whatever.
+  And all of a sudden you send them all a notification.
+  It's like, hey, five minute wait on this bad boy.
+  Come on, let's go.
+ And all hundred of those people were like, oh, sweet.
+  What? 45 minute wait.
+  No, wait.
+ But it just said on the thing.
+  And then what about the people that walked, you know, 10 minutes to get over  to this five minute wait? And now it's like, oh, now it's an hour.
+  There's just no I can't imagine what an incredible challenge that would be.
+  And the idea that it's going to work is frankly unfathomable to me.
+  I have the I will hold that hope.
+  But like, yeah, it seems impossible, impossibly hard to do it  because it's like it feels like it's going to be sending you like it feels like  if you're if you maybe you don't know anything, maybe it's first time at Disney.
+  It's going to be sending you to like the least popular rides  back and forth over and over to the worst restaurant  because they're all traffic.
+  So like you're going to be going on, I don't know, what's the worst ride  at Disneyland, gentlemen, what do we what do we think?  The I this is not correct, but Astro Orbiter, that's not the worst ride.
+  But it's right.
+ Right.
+ You kind of who cares a little bit.
+ Sure.
+  What is the worst ride at Disneyland?  I don't think we've ever question that.
+ Oh, yeah.
+  Oh, we should do a whole 90 minutes or two hours on that.
+  How about like, hey, would you like to go on mission space again?  How about mission space?  There's no way for an hour and over and over and over.
+  And it's mission.
+  And Speedway is pretty miserable.
+  Just inhaling those fumes.
+ Yeah.
+  Whatever again, you're going.
+  Yeah, it did.
+ You're just in world vacation.
+  Jeannie keeps telling you to go back and forth between the Speedway  and then mission space, the intense version.
+  The intense line is parks are big.
+  It's like a walk.
+  It's like a long, a long journey getting from one place to another.
+  And you think, I mean, hopefully be smart enough to geolocate.
+  I mean, they know where you're at.
+ Right.
+  Right.
+ It's a small world that like says goodbye to you personally.
+  Like they know where you are.
+  Like, hopefully it could, you know, geolocate a little bit.
+  But yeah, but like try explaining this with a straight face to my family.
+  Their question was, well, how do we benefit?  What do we get out of this?  And I'm like, ah, you know, that's a great question.
+  And I don't have an answer.
+  I have the potential like they're discussing about the app.
+  Like they they literally said on the on like their blog,  like we put a lot of money into this cool new technology.
+  And it's like, oh, cool, man.
+ All right.
+  The bragging about the money.
+  I yeah.
+ One big thing, if we haven't properly explained this,  just imagine a in this did this the free part, the Disney Genie part  that now we're in kind of a Netflix will pick something for you territory  where I'm looking at the sample screen they have and it's like thrill rides,  experiences for little ones, slow rides, parades.
+  And you if you so this is for somebody in theory.
+  I mean, you could go in and you know what all the rides are like we do  and then just I want to get on all these today and make it happen.
+  But there's also the version where you don't know anything  and you go in and say, like, well, I like classic journeys.
+  So what is a classic journey near me that I could do?  I like swashbuckling adventures.
+  Oh, what's the Pirates of the Caribbean?  Huh? I guess I give it a try.
+  I don't like getting drunk on the tequila flight at Cava de la Tequila  than riding the  Grand Fiesta tour with the three Caballero six times because it's air conditioned.
+  Oh, baby, Jeannie, you just described my day that year.
+  You're the Jeannie.
+ You got me covered.
+  Yeah.
+ It's just granted.
+  Is there a button that just says Dad needs to nap?  Like that will be the most popular.
+  It's just suddenly like shoulder to shoulder at the Hall of Presidents.
+  Jeannie, what's a low traffic bench right now?  Jeannie, what's the wait for a table at the bar?  Like how hardcore will Jeannie be?  Like I like I'd almost like the idea of they were like Jeannie is a full AI.
+  Put your headphones on.
+  You can talk to him all during the day.
+  He'll he'll answer any question about the park.
+  He'll tell you any wait time.
+  And then he'll like give you tips on like riding the ride.
+  If he's on, he'll say like if you have a hair tie when you're riding on Everest,  you throw the hair tie out when they try to check the track.
+  Like stuff like that, like I wish they would go full like crazy.
+  Like you got a little friend on your trip and it's like Dan Castellaneta  doing the Jeannie voice from when he did it in the land.
+  Wrong Jeannie.
+ Yeah.
+  There is a virtual assistant for like very basic questions.
+  My concern about what you're describing, Mike, is that do you remember a few years ago  when Microsoft introduced a chatbot AI into Twitter?  It was called Tay and you would you would talk to the right guy.
+  Like I think I think it was about T.
+A.
+  Why you would you could tweet at Tay and get like,  you know, at back and forth going within.
+  I just very quickly, Tay immediately got racist.
+  So I yeah, Tay, just whatever.
+  It's some of these machine like artificial intelligence.
+  I don't know a lot about it, but some of them, whatever the input is,  you know, the output ends up being very similar.
+  Thankfully, I don't think that will happen with Disney.
+ Jeannie.
+  Right.
+ Well, yeah, they're not letting you input, I don't think or talk to it.
+  Yeah.
+ But I mean, I'm sure down the line, yeah, like you buy your own little  like Jeannie that you could put on your shoulder like the like Salacious Crumb  and the toy that sits on your ear.
+  And then Jeannie directs you from there as opposed to your phone.
+  That's a more fun way to control crowds  and to make people pay for the controlling device.
+  There's no line at the hat store, Michael.
+  Head over there.
+  What if it's great on you?  Sixty dollars, what a deal.
+  A bargain at twice the price.
+  Did you know there's an antique type glassware store in Jason?  Yeah, obviously, I knew that.
+ Thanks, Jeannie.
+  All right.
+ Sorry.
+  Yeah, I appreciate the reminder, though.
+  The last time you had Lefou's brew, it gave you a migraine.
+  You remember? Don't want to go through that again.
+  I hope Disney Jeannie does the voices, the impressions, too.
+  I hope he does like Jack Nicholson when he's telling you what to do is select  what early 90s impressions you like.
+  You can have the same reaction that you have to about half of the Robin  Williams, Jeannie Lyons, where it's like, is that OK?  I'm not sure we can.
+  That's right.
+  I'm the kind of voice you can do anymore.
+  That was Groucho.
+ That's always OK.
+  All right.
+ Back on board.
+  I guess I like you mentioning  over bar kind of beg to question for me, too, which is like if you if I'll pose  this to the group, if there is anything that you could make the Jeannie do  specifically, how that you could program your Jeannie to do,  what would it be?  Because that made me think I want to be able to  not just know when there's a seat at Uva bar, but also control  the temperature of the Chardonnay bottle.
+  I want to know where that is.
+  I want to know if that guy can get a couple degrees down.
+  Is that is that glass frozen?  Can we get that cold chilled as well?  If I can make if I can like, you know, be dealing with my barware  from the galaxy's edge, then that's great.
+  Feeling good.
+  That's like Taco Bell app level customization, I think,  because Taco Bell is my favorite of all the fast food apps,  because you can really go to town as far as customization with the items  and the sauces.
+  But that would be a great thing if you could like truly say,  I'm going to be there literally at like what time, Scott, do you go like 1030 a.
+m.
+  or so, 1035 a.
+m.
+?  I think it's not.
+  Yeah, most of our bars are not open until 1030, and then it takes them  a minute to like open the hatch and everything.
+  So yeah, I'll give them a break and say, I'll be there.
+  Yeah.
+ So happy to hear you say that about the Taco Bell app,  because I thought that was a singular experience to me.
+  I have a nasty, specific way I like it.
+  And I feel guilty like talking to the person like, OK, so here's what you're going to do.
+  Oh, yeah.
+ Yeah.
+ Trap throughout the diagram, which is starting fresh.
+  It's a whole new palette.
+  So red strips.
+ No, no, no.
+  Look on the shelf.
+ They're behind the.
+ Yes, that's them.
+  I can't do that to a living person, but the app doesn't care.
+  Yeah.
+ Judgment unless you click whatever box weird about it.
+  You want.
+ Yeah.
+ My app.
+ My orders are shameful.
+  I would be ashamed to say them out loud.
+  But one of the first times I don't do I'm not as bad.
+  The first time I went nuts with it and I didn't even think twice about what I was doing.
+  But I had five order five items and they were all had special  differences from what they normally have on them.
+  And the person at the order at the box just laughed when they looked at it.
+  They went, is this your order?  I was like a noise that came out of them like, oh, my God.
+  Yeah, I just thought you were stoned.
+  I mean, maybe, yes.
+ So bad at Taco Bell.
+  Yeah.
+ So so this yeah, this app like Scott is describing, that would be incredible  if you could really like customize exactly the temperature of the glass  and exactly when you would be there.
+  That's great.
+ That's a that's a premium experience.
+  I bet that's like Disney, a Disney Genie plus plus or double plus.
+  Mm hmm.
+ I can't imagine the thing that is is what like  in the in the one experience that I had, I cannot express to you  the extent to which there was nothing like it wasn't like  you have a bevy of options available.
+  It is like there is one sliver of daylight where you can go to this one place  at this one time and literally everything is gone.
+  Like I started making dining reservations.
+  You can do 60 days before you you arrive.
+ Right.
+ Yeah.
+  There was literally like nothing like I had to put in  some like wish list type stuff and then hope that something opened up later on.
+  And when you got to the parks, there's you know, you can go to a restaurant  and try to get on the waiting list all full.
+  I mean, there's no even to get into like the  the ziggurat at the Mexico Pavilion in Epcot was like a  you stand in line for half hour just to like walk into the facility,  which I don't know how Jeannie.
+  Deals with that, like deals with like there's nothing to do.
+  You could sit down.
+  Bathrooms are open.
+  You need that pretend that's a ride.
+  Maybe, yeah, sit down and think about your life.
+  How much did you spend?  How did you get to this point?  That trash can used to talk.
+  It doesn't anymore, but it used to.
+  That's some fun trivia for you.
+  But the price only went up.
+  I yeah, that 60 day in advance.
+  I remember not even knowing that was the case.
+  And a friend of mine was going and like, OK, I have my stuff ready.
+  And here's a giant list.
+  And I was truly like, this is this is insane.
+  This cannot stand.
+  You have to know your day two full months ahead of time.
+  I mean, if this all somehow dismantles that madness,  I think it's good.
+  Maybe it just replaces it with a new madness.
+  But yeah, that it it's over.
+  But, you know, first off, I live for that.
+  I'm sad to see it go.
+  The new substitution for that, which sucks more in my in my opinion,  is that you can make your first reservation  the day of at seven a.
+m.
+  So if you're on your grind and you want one of the big ones,  you know, earlier in the day, because you can only have one at a time.
+  Right.
+ So like if I want to guarantee that I'm going to ride  frozen ever after at Epcot and I want to get there early enough,  so I'm not like wasting the entire day of of Jeannie Plus,  then I have to be up at like seven a.
+m.
+  which you already have to do for if you want to ride rise the resistance  on that day.
+ But now you're going to have to do it every day  if you want to get like a decent early fast pass, because you want an early one,  because you can't get another one until you have used that one.
+  As I understand the system.
+  So, yeah, waking up every morning at like seven a.
+m.
+ is is not.
+  I'd rather do that 60 days before I'm at the park and just get it done all at once.
+  Well, and my my family already has like calendar reminders for the for two  because dining reservations will still be 60 days, I think.
+  Actually, I think it's been up.
+  I think it's 60 days.
+  And a week like so it's a little earlier or like 60 days.
+  But then you can go to the first of that month.
+  It's something insane.
+  And I think we're just like we're just going to call a phone number six months.
+  And that really felt insane because that is like  I don't even know if I'm going to like spaghetti in six months,  but I'm going to put book a table at Tony and Tina's town square tantrum.
+  Well, Tony and Tina's is Tony's is reliable  because you know you're going to have a bad time.
+  Yeah, you're not going to enjoy it.
+  Absolutely.
+ And I control how watery the sauce is.
+  Yes.
+ Yeah.
+  I just remember like the day or two that Disney opened watching someone  live streaming, like dipping a chunk of steak into Alfredo sauce at Tony's.
+  And I was like, oh, oh, man, like,  she's Louise risking in the middle of the pandemic,  getting steak, Alfredo saw it like, oh, man.
+  Here's here's what this service or a service like this should actually be.
+  And this is I'm not no joke.
+  Here's what it honestly should be.
+  I'm you should input in the app.
+  I'm going to Hollywood Studios today.
+  You could an ideal thing would be maybe I'm going from 10 a.
+m.
+  to 6 p.
+m.
+ or whatever.
+  I want to do these five things.
+  I want to have this restaurant.
+  This is what I want to go to.
+  And then the app does it for you.
+ Yeah.
+  And that's it.
+ That's it.
+  That should be that's the actual easy way to do it.
+  It's not surfing, Jeannie.
+  That would honestly take away any of the things that I feel like compulsive  to do compulsion to do, which is search for faster time.
+  As soon as you get off Tower of Terror, now I'm looking for see if somebody's  canceled Rock and Roller Coaster.
+  If you just put in all that, they literally said six fast passes.
+  Here's a reservation.
+  That's your schedule.
+  That would be perfect.
+  There's actually nothing you really need to do other than that.
+  That's the ultimate version of what they want to do here.
+  But I don't know if that's too hard, if that's just dependent on too many factors  that they won't do something like that, because, yeah, that'll get rid of the  problem of being on your phone the whole time.
+  But they're also incentivizing you.
+  I think it's almost like they want you to be on your phone.
+  They think that people want to be on their phones the whole time,  because there's also all of this like bonus stuff.
+  I mean, one thing is that when they because they're also trying to get you  on to rides that maybe you didn't know about or that you might miss.
+  And I noticed in the in this video that they made where they show you  some of the components of this program, there's a thing that you can pull up.
+  If you get a recommendation and you're suspicious of the recommendation,  you can pull up a button that says, why this?  And it explains with a few factoids  what would be interesting or fun about this experience.
+  And what do they choose for as a sample?  Why this? Somebody would click on this for it.
+  They throw the people mover under the bus, the poor people mover,  which I love very much or whatever it's called there, the Tomorrowland, whatever.
+  But there's like a they show somebody clicking on that.
+  And then there's little factoids like, well, it's a nice slow ride  to help you relax during the day.
+  And you get to see a model of Walt's original plans for Epcot.
+  And it's fun for the whole family.
+  This it made me sort of mad to see people mover have to justify its own existence.
+  So I don't like that.
+  It's like a ride has to beg for a reason to exist on the app.
+  So, yeah, like, why would I do this piece of shit ride?  And it's like, well, no, it's actually pretty good.
+  And, you know, it's like there's a cool breeze when you're riding it.
+  So that's nice.
+  Walter mentioned that it could be implemented across in different ways,  like in airports and and you and you like airport trams and efficiency, don't you?  So you'd want to experience this one.
+  I want to do that.
+ Yeah.
+  Some of the bonus stuff made me like I  I think augmented reality like inserting something into a like  I those always look like shit to me.
+  Yeah.
+ But nothing is as disgusting to me as like the the Genie plus audio  experiences like here.
+  Here are more facts about the your magic and you're talking about the ride.
+  It's like, oh, I can't wait to hear  tinny audio out of everyone's giant fucking phones like giant  shitty, stupid phones like playing like, you know, when we were building,  soaring, we studied real airplanes like, oh, goody.
+ Thanks.
+ Great.
+  That was thank you for playing that at the top volume because you don't know how.
+  You didn't bother to use this massive Android phone.
+  You were forced to get by AT&T.
+  Well, I'll tell you my problem with that old thing behind the scenes, audio tales  and it's listed in the video.
+  Listen to interesting facts about the parks at your leisure.
+  And I was like, hey, that's what we do.
+  Quit stepping on podcast, the ride Disney Genie.
+  This is where you get in there.
+  You try to license get a licensing deal going.
+  Why is one now step in?  Yeah.
+ What do they hear in their headphones?  Bringing them in.
+  And if you if Disney Genie fucks up, which it might,  and you end up in a line for two hours still, how do you fill that two hours  with the three podcasts, the ride boys sometimes joined by Justin  and other fun people?  That's how you if not with whatever these these little audio documentaries  are going to be and God help us if it's the behind the attraction people doing it.
+  Then like you'll be you'll be going deaf from sproings and boings  the whole episode.
+  Yeah.
+ Slamming on brakes and stuff.
+  We got to pair with a software provider.
+  We got to like we got maybe we can get a license, something with touring plans  and go like, all right, we're going to we'll do the behind the scenes.
+  If you guys want a Disney to far genie, you know, when Jafar briefly becomes a genie,  it's got a lot of the same features, but the audio experiences  we tell you about the rides and there's a light profanity mixed in.
+  And that's going to really get the teens on board.
+  Then they'll be interested in their vacation.
+  Can you imagine what an absolute shit fit the Genie Plus will throw  whenever you are within like a hundred yards of a hidden Mickey?  Like, wait, listen, this is something I want to know.
+  You're going to miss it.
+ Wait, stop.
+  This is something you might have missed.
+  There's some there's some small scrap of meat left on the bone.
+  All right.
+ This sewage pipe with two broken mirrors next to it.
+  If you squint.
+  Then you hit the button that says, why am I looking at this?  It's like, well, no, there's like a lot of these actually.
+  And like, it's kind of cool, isn't it?  And you're like, no, it's not.
+  So look, this stuff, I don't know how I feel about this stuff.
+  I also really quickly, I would just like to,  you know, I as with Magic Key, I was initially vowing to do zero research  about any of this, but then I thought, wait a minute, there is a 14 minute  video about Disney.
+ This is in my subscription box.
+  I got to know what the 14 minute video is.
+  And I started and I you immediately encounter not.
+  I think I thought that the genie was going to be your host, Mike.
+  Like you said, the wrong gene, the Casmaletta Genie.
+  But no, you're greeted by Gary Daniels,  the VP of Digital Experiences at Disney Parks,  which immediately threw my wife, Erin, for a loop because she just immediately  all she can do is talk about his ill fitting shirt.
+  It's just like really odd and like billowing up in strange ways.
+  And like, why did nobody give him like a like a pat down?  So a little bit distracting from the very dry information.
+  He's just holding a mask the whole time, not wearing it,  but just gesturing with the this whole thing is one of the weirdest videos.
+  But especially this clip.
+  And I just wanted to play this for everybody.
+  This is where he's demonstrating.
+  Hey, it's not just rides that Disney Genie will help recommend.
+  There's a little sweet treats as well.
+  Here's a little clip.
+  It also looks like Disney Genie service also suggested a convenient location  near my plans to mobile order lunch before I head over to Buzz Lightyear  Space Rangers fan.
+  I can place my order and ensure I add that chocolate  bunk cake from Cosmic Grace, you know, the one with the purple icing  at a time that works great in my day.
+  If I'm not familiar.
+  Yeah, yeah, no.
+  So it's a great time to eat chocolate  but cake in a hundred degree.
+  It's the perfect moment for me to enjoy the entire bucking  while being surrounded by sunny eclipse.
+  Stop screaming, Tommy.
+  The phone reminding us we have to get to the bundt cake.
+  There's a hundred.
+ Yeah, a hundred degrees, a hundred percent humidity.
+  Eat the bundt cake.
+  It's Gary Daniels favorite.
+  Stuff it down.
+  He loves the purple icing and so will you.
+  Well, we'll meet up with mom later.
+  OK, she said she just needed a little time.
+  All right.
+ It's going to be fine.
+  It always is.
+  Then then I'm more like, I mean, the whole thing is strange.
+  Just this guy and this little like you heard it a little bit there.
+  But I was saying the video, it's like he I'm not sure this guy's ever been  on a camera before.
+  So there's all these things where he like the voice like goes up.
+  It goes up and up and up.
+  But then by a certain point, it has nowhere to go.
+  And he wants to keep modulating, but there's nowhere that he can his left.
+  And that is the best way that you can maximize your Disney experience.
+  Like he did it like the lungs are going to burst.
+  It sounds like the first time he's ever said buzz buzz, let your space rangers.
+  You can't believe it's really called that.
+  Like there's a take where he's like, what is it?  This can't be right.
+  Can you double check that?  That's what Jeannie said.
+  Jeannie said that's the name.
+  Well, I trust Jeannie.
+  Then you see, you're wondering, like, how is this possibly going to sustain  any more time?  And then you realize that the back half is a Zoom Q&A.
+  That's essentially like a digital town hall where Gary's back.
+  And I'm showing you guys there's like six.
+  This is where the dichotomy of this being named after the fun character  really struck me where half of the screen is the Robin Williams  void, the zany character we all love putting his arms out like, hey, it's me.
+  What are you going to do?  And the other half is like six forced smiles in various offices  where everybody put up their one piece of Disney.
+  We're like, oh, it's kind of an Epcot mug.
+  And all right, I'll try to like it.
+  And everybody is addressing this guy with actual concerns.
+  Like, I liked this thing.
+  What's it going to be now?  And he's like, that's a very good question.
+  It is like a it reminds me of like when every city blew up into protests  and then every city had to have a town hall where the mayor  and the police chief got taken to task forever.
+  Like, we're back to that.
+  But it's about this fucking app.
+  It's oh, my God, this thing in the old does the does the does the  I know we're all in different scenarios here, but like the main thing,  the only thing that anybody  it's really interesting to me that the the vast majority of people in the  the Disney media social media morass, I should say, like the Reddit especially.
+  The only thing anybody was reacting to is the fact they were charging  for the for the for this.
+  Like, this is what has freaked everyone out.
+  And to me, that's like the last like.
+  It's it's I said this on Twitter, and I feel like this is this is accurate.
+  Disney fans have proven time and time again that they will do  they will pay any price for any small edge, and they are shocked  every single time when Disney takes advantage of that fact.
+  Like, this is just city.
+  I mean, this is like the lowest hanging possible fruit.
+  They could have charged anything, any price.
+  And I think it's still would have people still would have gone.
+  I mean, think about the absolute press of people to like get back into the park  to like get back into the parks when there was like you guys didn't see it.
+  Disney won't probably like there's so little to do.
+  I mean, like so much stuff is currently closed or not not happening right now.
+  You know, it's gradually sort of slowly opening back up.
+  But like, especially with the labor stuff, the, you know, issues that they've had,  like they're still will do and people are like ticket sales are ridiculous.
+  Like they're topping what they were doing this time two years ago.
+  Like it's there's no dip in sales.
+  And it's like, of course, they're going to do this.
+  They're going to and they're I don't know.
+  It just doesn't seem to be that to be that  the surge thing will have to say what they're charging for.
+  It seems like a really weird piece of the puzzle to leave out, honestly,  to not even like sort of, you know, hint at what that charge might be.
+  Yeah.
+ Is it going to be ten dollars a ride or fifty dollars a ride?  Like that's a big, exactly a big sort of thing.
+  And this is all to like the opposite of like down the road at Universal.
+  Do it like by two days, get three free.
+  All hotel rooms on site are 30 percent off until next spring.
+  Go crazy, folks.
+  And where like, I mean, it's been striking me every time I've been.
+  I mean, I know I've just been twice in the last two years, but like,  I mean, it's hard for me to not start thinking universal.
+  The universal resort is better than Disney.
+  I think it is.
+  I think there's more to do that's newer and like,  you know, like scarier and more thrills and better technology  and that's updated more.
+  I went to the parks themselves are like the the I've never I've never stayed there.
+  But Jason has and he's a fan of it.
+  And I imagine you throw that in on top of how  you know, highly I feel about the parks.
+  I mean, and that it's all right there.
+  You aren't running all around.
+  You aren't like potentially at the edge of a property  and having to take endless buses everywhere.
+  I mean, universal is just kind of killing it.
+  And I don't I wonder what the difference is though.
+  It's what you're describing, though.
+  The big problem is just fun, fun, fun, fun, fun.
+  Where do I go when I need to chill out and calm down with something boring?  Disney has has universal there hands down.
+  And they got all kinds of chill out.
+  And you get to work up.
+  You got to look at look at robots of the present.
+  It's like, got you.
+  Calm down.
+ It's all right.
+  You go to the fine Lowe's hotel offering.
+  That's her.
+ That that is the big like we my family would do this in the early 2000s  when they were really giving away the rooms to get people to try staying at Universal.
+  But it's come back around again where it's like  you could save yourself a large sum of money  if you stayed even at the Hard Rock or the Royal Pacific or something  and just took lifts to Disney where like that sounds crazy.
+  It's not as crazy as you think it is.
+  No, that's my plan next time.
+  Yeah, I'm I'm at Universal next time.
+  I think I've decided that.
+  Yeah.
+ And Disney, like everything is like Guardians of the Galaxy roller coaster.
+  And Epcot feels like it's like 2023.
+  There's rumors that it's going to open in 2023 and Tron is like 20.
+  They like everything slow and like Universal is just building.
+  And I'm not saying they should have just forced all the workers to build through a pandemic,  but they did.
+ So there's more rewards.
+  Yeah.
+ Yeah.
+ And they have.
+  Yeah.
+ But come on, guys.
+  Ratatouille, Ratatouille, the ride.
+  Finally, we heard your pleas, America.
+ Ratatouille.
+  We heard you 15 years ago when you kind of like.
+  Right.
+ We looked at our box office returns in the past 10 years and thought,  what do people really want?  And it turns out it's Ratatouille, the rat who has a job.
+  That's right, folks.
+  Your job is your personality here at Pixar.
+  I do appreciate, though, like.
+  As someone with kids Epcot, once you get past.
+  So if you if you've never been to Epcot, there's two halves, right?  The future world and the world showcase future world is like  where you've got things like living with the land.
+  This is the best stuff.
+ Like talk about chill out.
+  You want to come see some hydroponically grown tomatoes.
+  We've got you.
+ It only takes a half hour.
+  It's the best you sit down the and then like World of Imagination,  which is an absolute nightmare and should probably be leveled.
+  And then a bunch of other walls that are protecting construction  that may or may not be happening.
+  And I think there's a Nemo ride.
+  So that's like that have in the world showcase is like a big loop.
+  So you got Mexico and Canada on either side mirroring  how those two countries border America.
+  They border your entrance to the world showcase.
+  And then it's a big loop and the boats are running.
+  So once you start that loop, you better have a plan.
+  It better be to finish the loop or to go back.
+  And if you got kids, the thing is, if you start the loop this way,  you do Grand Fist Tour with the three Caballeros of the Mexico Pavilion.
+  Right after that, you got Norway, which is where they  they now have the frozen ever after.
+  And you get past that.
+  It's like, well, kids, mom and dad are going to get drunk now  and there's not going to be a whole lot for you.
+  But you just got to keep up.
+  OK, because we're going to get halfway around the globe  and we're not going to have another option.
+  We just have to keep going and drinking through.
+  There's nothing.
+  I mean, do you guys want to watch a 360 degree film  starring Martin Short?  Because we have you.
+  If that's the idea of a good time, you're covered.
+  If you can make it all the way back around to Canada.
+  But the red at France is like towards the back.
+  So that'll be a nice thing to like, keep the kids motivated  that there's a ratatouille experience for them.
+  You bought them all tiny chocolates from each country that you are like.
+  You have 90 seconds to eat that before it's go.
+  Like it's start yet on that.
+  Yeah.
+ After.
+  Did you see a poutine?  You see it's it's 110 degrees.
+  The high that a child feels from going on frozen and meeting Gare Ness.
+  The perfumer, the cologne man.
+  The set maker.
+ Yeah.
+  Yeah, that would be never.
+  What is that? His name? Did I get his name?  Here in this? Yeah, I did.
+  Okay, great.
+  Yeah, then they they had to add ratatouille.
+  That is so crazy that for this long it's been and if you start that way, hey,  fun boat ride, hey, like boat ride with more stuff, more animatronics.
+  Now what?  Well, do you want to learn about Carnegie  and his contributions to this modern world?  What will Jeannie plus do for me there?  Like what will the genie say?  Like, hey, you're in Spain.
+  I'm only hey, do you want to go check?  No, I don't.
+ Jeannie, it's a circle.
+  I'm going to the circle.
+  Jeannie will probably do some inappropriate accents.
+  Let's be honest.
+  That is how Italians like.
+  It's going to be like, hey, it's going to be like, hey, all over again.
+  Careful, Disney.
+  Do not open the app in the world showcase with Jean.
+  Do not do it.
+  They're out of your range, Jeannie.
+  Yeah, I, you know, just and just on this topic,  I'm like because I like hearing your other Disney world opinion.
+  What are you like?  What do you enter into a Jeannie plus?  What's what's a priority for you or or if you were doing it the old fashioned way?  What's like what is the the most hit for you?  What's the box here?  There's a really weird imbalance right now.
+  Just from my perspective is like like bringing your whole family like  Magic Kingdom is like this.
+  It's almost like everything is either something they really like  or something that we just feel compelled to like  do because it's there and we will do it like we almost always do  like carousel of progress and people mover and that stuff because it's there  and there's not much of a way you can get in.
+  Like that's the other thing is you kind of have to keep a pace of like attraction  to standing outside because it is so hot and there's young children like you need  to like get them get them cooled off.
+  Epcot is really I mean, I love Epcot and as somebody who grew up like going to Disney  and that was like one of my formative memories is like  the the original Journey and Imagination with with Dreamfinder and Figment and stuff.
+  It's in a really weird.
+  It's really weird.
+  The themes are sort of all over the place.
+  The construction is very present and it's really hard to like make a solid day there  because you you know, you can it's kind of all spread out and there's a lot of stuff  that isn't happening right now and is it and is it working and the kids really only  like like, you know, Nemo and  Frozen and Grand Vista Tour and like other than that like Spaceship Earth like my  six-year-old finished the the the journey through human history in Spaceship Earth.
+  She got to the end.
+  The first thing she said was didn't women do anything?  Yeah, honey, I know they were going to rebuild it but JPEG thought it cost too much money.
+  So we just left it how it is.
+  So yeah, that one one scientist there was a woman in the 70s one right the first woman  who did anything.
+  I got stuck on Spaceship Earth last time I was there for 40 minutes in Steve Jobs is a  garage just walking watching that sad robot type into another robot for 40 minutes.
+  Why here, you know nondescript bleeps and bloops behind me.
+  It was bad man.
+  He's really throwing a lot of binders at Wozniak.
+  She's a weed.
+  I haven't seen this scene fully play out before.
+  Yeah, you're right though.
+  It is like it's getting like it's it's Slim Pickens.
+  I mean, it's sort of where Disney Studios was at for a little while and I think it's  really some of its out of their control because they were really pushing towards there's  a like if you're following, you know, like one of my guys is this kid.
+  Brady's like 15 show Mickey views.
+  So I'm in five follow his stuff because he seems to have an inside track this 15 year  old kid.
+  Brayden and he was talking about all the you know, there was like going to be a Mary  Poppins ride over in, you know, the UK part of the World Showcase and the Spaceship  Earth revamp and all this stuff.
+  And I think that like the pandemic really did kick the legs out from a lot not only  the like construction but also like the funding of like how do we pay for this and  still kind of keep the bottom line where it was so I think that that really like took  the way especially building up to there's been a lot of focus on October 1st because  the 50th anniversary at Walt Disney World, right?  So a lot of the like the rebuild revamp and refresh and and that stuff I think was supposed  to be building to that.
+  I think it really kind of screwed the timetable with the the pandemic happening when it  did.
+  Well, if it makes you feel any better, they're still going to, you know, rename the  neighborhoods World Celebration and World the other ones, you know, World Magic  World Enchant.
+  Yeah, play Pavilion where the play Hogwild.
+  That's right.
+  I mean, you're that actually like kids will probably like like if you just can unleash  them and there's like a little inside playground and little like, you know, screen games  and stuff like that probably will be a blessing for parents.
+  Dumbo is like that Dumbo in in Disney World has a really cool like you get a pager and  then your kids can go like run around on the playground and sometimes you have to like  peel them off of that to go get them to do.
+  I mean, Dumbo is boring.
+  I get it.
+  But we're here kids.
+  Get on.
+  It's an iconic like it'll be iconic if you go on it, right?  Right.
+  It's great for selfies.
+  Kids need to learn that early on.
+  I've got this change happening with me now because I have a pretty newish kid and I like  and probably now I think the first trip is, you know, seven eight nine years away somewhere  in there.
+  So the clock is ticking for me in terms of Epcot having things that make sense for an  actual child who can enjoy things on their own merit because in my head it's always been  Epcot is the greatest place.
+  It what with all the brutalist architecture that almost nothing is inside of that works  great for me.
+  I get drunk near brutalist architecture.
+  Love it.
+  But it's there will be a day of reckoning when I take my little dude by that moment though.
+  You'll have Moana Journey into water space to 20 Ratatouille Guardians Galaxy like hopefully  like some of the aesthetic construction will be finished on this play Pavilion some of  this other stuff like it's just a really rough rough spot right now, but it's always been  my favorite favorite part.
+  So hopefully they can they can figure that out.
+  Maybe by then they'll let you just throw food at figment.
+  Maybe they'll just like cut loose all the rules.
+  You can throw that chocolate cake with the purple icing straight at figments dumb face as  a depth is as Disney has gotten about exploiting their nostalgia.
+  It's weird that they kind of leave Dreamfinder and figment like figment to a lesser extent  because he's sort of in the right now, but like they kind of leave the love for that  guy behind glass like it's weird that they haven't just like broken into it.
+  Yeah, like here.
+  Okay, he's back.
+  He's walking around.
+  Come on.
+  Okay, now burn itself to the ground.
+  There is a golden statue of him.
+  There's a bunch of golden idols, you know, because these are our gods coming for the 50th  and they did announce there will be a figment one.
+  So but not Dreamfinder but now the dream like now the Dreamfinder they just know that dude  to they haven't figured out how to you know, frame the Dreamfinder yet.
+  Yeah, that's such a home run.
+  I mean all out of like a lot of these beloved characters, you know, like Hatbox Ghost  people didn't even really know but the legend of the Hatbox Ghost was something that they  unleashed, you know, during the Disneyland anniversary and that was such a big deal.
+  You would think that it'd be low-hanging fruit for a character that actually a lot of people  have actually seen and know about you think that would actually be even a bigger deal.
+  But I guess they don't care.
+  I wonder if Dreamfinder was in Disneyland if there would be more.
+  I don't know more presence of him because I do feel like Disneyland still the people  in charge of Disneyland are a little bit more like I don't know there.
+  They're a little more in tune with like the real hardcore nerds as opposed to Florida  where I think they're like those are tourists.
+  They don't know the lore as much like I you know, I think there's this is just one side.
+  I've never been to Disneyland.
+  So I this is my you know outside looking at but I feel like at Disney World there is it  is a sense of like what can we do to make this place the most profitable and I feel  like Disneyland has the more direct connections to Walt.
+  So there's like a little bit a little bit shyer about like it changing anything.
+  I mean the only do you guys know the only ride that had that that Walt worked on that  is in Disney World?  No, I can't.
+  So progress.
+  Oh, right.
+  The only one original with the World's Fair and then went there and then came back the  only one that he like actually like worked on himself is that which I think is the only  thing that has saved that boring that boring thing for as long as it has been but I think  there's just like it's I think that there's there's less of a sense of like, you know,  Walt worked on this, you know before.
+  Yeah, there's like and I especially I mean, it's interesting because if all the Imagineers  have to move out to Florida and I want to say to Jason a lot of I've gotten a couple  texts from people in Florida after your incendiary remarks about Lake, which what is it called  Lake?  No, no.
+  Yeah, no, no.
+  A couple of people saying a couple of people telling me Lake Jason's wrong Lake Nona is  beautiful.
+  I just want to put that out there.
+  All right.
+  So but they're going to move a hard stand.
+  So so I don't know what we'll we'll have to address it another episode.
+  But if they all go to Florida, I wonder because the Imagineers were in Glendale based out  of Glendale and going down to Anaheim was that also another part of it where it was like  this is our park.
+  This is like our little like pristine diorama.
+  We want to keep it, you know, keep it perfect and Walt's vision and Florida's over there.
+  We go out there once in a while.
+  Will it could it change?  Could there be more of that sort of like let's get let's sneak the Dreamfinder in Tinker  and they make it.
+  Yeah, it just feels like though they used to be better at making people swallow like  for a company that has a song about a spoonful of sugar.
+  I feel like they used to be better at like, you know, hiding the like shitty like yeah,  and you got to pay 15 bucks for this.
+  Don't worry about it.
+  You know, I I don't know.
+  I just feel like I don't know if the marketing has gotten worse or like I I can't see the  the benefits are so hidden by the like marketing lingo.
+  I'm like, did I just not know?  I mean, I guess I was younger and I wasn't paying as close attention.
+  But simple simple is always the best for any of this stuff.
+  And if we're like, yeah, summing up even by full like like when Fastpass debuted in the  90s, it was like, oh, you go over and you get a little ticket and then the ticket says  when to come back.
+  That's great.
+  Okay, got it done.
+  Like that was what people liked the idea that now like Disney Disney whatever.
+  It's Jeannie.
+  Excuse me, Jeannie and Jeannie.
+  Plus, it's like two different things, but they're almost the same.
+  It's not simple anymore.
+  And Lightning Lane, but but Lightning Lane is part of Jeannie Plus and but the one the  Lightning Lanes that you pay for are not called anything.
+  There's no Lightning Lane Plus, right?  So that's a fourth thing.
+  Really, isn't it?  Yeah, it has no name.
+  There's no service is nothing.
+  It's like simple all of this stuff.
+  They want to do.
+  Honestly, it could they could do all of it is Jason saying like they could charge for  things.
+  They could do whatever.
+  It's just that the it's complex at this point.
+  Yeah, you just need a warehouse full of coders, not like a bunch of contractors, you  know, doing it that you lay off after the thing launches.
+  So then there's no upkeep on it.
+  Yeah, this is my this is the this is the grand plan.
+  This is what I've convinced myself of 18 months around to see there's another video.
+  It's like, aren't you tired?  Aren't you tired of the inconvenience?  The maddening inconvenience of trying to manage Lightning Lanes and Fastpasses who has  the time to keep track of all this stuff?  Well, now there's GD double plus.
+  It's like it's all fused into one and it's a hundred bucks per ticket.
+  And it's like this does the cynical part of me really does feel like this is long con  like bridging the gap to the full blown like way bigger up.
+  Charles, I see it like University.
+  This is a side.
+  This is a this is a sort of a torture like you're being interrogated with loud music.
+  Yeah, we've always paid.
+  We've always paid for Fastpass access.
+  We've always been at what we're doing.
+  Yes, I I think honestly, and I haven't done a exhaustive search exhaustive search.
+  We talked about on the other Magic Key episode about how there were a lot of rumors and  like things Bob Chapek said about how like, you know, it's good.
+  There's going to be a loyalty program coming back as far as annual passes.
+  And it's like that language is very odd for annual passes.
+  I do think you can see if we really want to look there's a long term plan here for all  of this stuff.
+  If you look hard enough of like, yes, it's what you're saying a couple hundred.
+  But just pay us a couple hundred dollars and just skip by everybody else.
+  Just wherever you want.
+  Just yeah, like look, there's going to be a guy in front of the turnstile hand of 200  bucks when you go in there and he'll he'll give you a little thing like a secret.
+  Don't care.
+  Don't feel like getting vaccinated.
+  We get it.
+  Just come on.
+  It's give us a couple hundred bucks on the way in and you don't need to be back.
+  Don't worry about it.
+  Yeah, it's like sort of like it.
+  Maybe we're all ending up.
+  Yeah.
+  In 10 years, the most money.
+  Yeah, the ultimate plan is that go kiss Mark Twain.
+  It's fine.
+  Just get up there.
+  Give us 200 bucks and kiss him on the lips, please.
+  I think it is odd to me that why like Disney like Jeannie, I you would I would think you  would call these two different things.
+  I would think there would be like, oh, well, you know, on on the Disneyland app, you can  like plan.
+  It's called Plan My Day and you click on Plan My Day or help me with the day that thing  plant tells you where to go and what's a good idea as far as wait times.
+  And then there's then fast.
+  It's fast pass on your phone now and it costs $15 for most things like I don't know  why the why lose the fast pass that introducing more brand.
+  That's what I confused about where it's like.
+  Yeah.
+  People know what it means, but I mean, I recognize it's not 1999 anymore.
+  People are more savvy with their phones.
+  Not everyone is more savvy, though, but there was a brochure, a scan of like an old marketing  brochure going around recently on Twitter, you know, one of the accounts that posts like  old pictures of the parks and stuff.
+  And it it was it wasn't called like the big ticket, but it was something like that where  it's like get the big ticket.
+  It gets you access to all the theme parks, both water parks, Pleasure Island.
+  That was it.
+  It was like, you know, a three page thing.
+  It was so simple.
+  It took like two pictures to the full scan and it's just like, oh man, we are far from  1999 because there's just so many terms.
+  There's just so much.
+  Yeah, it's like you literally go like if like somebody who doesn't know anything fast  going in like where's FastPass?  Oh, FastPass.
+  You have to pay for it.
+  It's on your phone now.
+  Got it.
+  Okay.
+  Like the overthink.
+  I feel like the epitome of overthink of modern Disney is the Millennium Falcon ride.
+  And I've probably said this before where it's like awesome.
+  A big video game where you get to fly the Millennium Falcon.
+  Awesome.
+  Okay.
+  But every all six people are going to want an equal job.
+  All right.
+  Got it.
+  Okay.
+  Well, there should be one pilot, right?  No, no, there should be two pilots.
+  One gets to go left and right.
+  One goes up and down.
+  Oh, well, that sucks.
+  Why would you do that?  Somebody should just be able to go up and down.
+  That's a person on the right.
+  It's really going to want to have the same transformative experience.
+  Okay.
+  I guess so.
+  Fine.
+  Split it up.
+  All right.
+  There should be Gunners.
+  They should be able to aim right and shoot at the thing.
+  No, they shouldn't.
+  There should just be three buttons because it has to be simple for anyone to be able to use.
+  So it should be intuitive and you should just have three buttons.
+  Okay, but they can't aim.
+  No, they cannot aim because it's too hard.
+  It's like that's this is what's going on in a boardroom and you're like it's got one person shoots.
+  They can aim at the thing.
+  One person controls like satisfying for someone.
+  Yeah, experience.
+  Meanwhile, is my six my three year old screaming because you couldn't reach the handle.
+  I feel just like Hanan.
+  Julia.
+  This is transported.
+  Look, it's not.
+  She doesn't have the spending power that a 37 year old does.
+  Okay, so the 37 year old has to reach the controls.
+  I think what they need.
+  I mean all these technology technology offerings.
+  They need to take an elevator to another floor.
+  And it's like I need the 20 biggest Luddites in these two department like get me the least technologically advanced people in.
+  Dumbest dudes get me the oldest people here.
+  We're going to unleash them in the parks with the beta version of these things and see what what happens where the you know, what's the catastrophe level here?  You know, I don't know how I really don't know how.
+  Regular sane people will be able to process.
+  It's like I I love doing this and when I take a group of people, it's always like boy, you know, you know, we could do this and you know, get over here this time and I'll be just we don't know how you without you and for to me.
+  It's like you guys are just being nice at this way.
+  Like, I don't know.
+  I don't know how you do it without someone to like take your hand and show you the the old ways to get through the park.
+  Yeah, well, the screens that you look at are like in this video.
+  The screens that they show you of this app are so complicated.
+  There's so many different sizes of text and window and like times and arrows.
+  Video doesn't make it look easy.
+  Like it looks like in the video about how easy it is.
+  Yeah, whole point of it.
+  I yeah, I know and and now I think that like yeah, because I think we've all been in the seat of being the person who gets it.
+  I can get us around and I'll get us on the things.
+  So don't worry.
+  I got it.
+  And now we're all going to be like we're defusing bombs and it's just flop sweating.
+  I don't know.
+  Stop.
+  You're looking at me.
+  There's an okay.
+  There's an update for the app and there's also an iOS update.
+  If I don't update my operating system, the app's not going to work.
+  The Wi-Fi is still 2011 levels in all of these parks.
+  It's all your numbers off your cards.
+  Let me scan your bar codes while you're trying to do your plan.
+  There is an all-knowing robot.
+  Your pocket like you should turn left now.
+  There's not much ride at the frozen yogurt stand.
+  Come on.
+  You didn't know family love frozen yogurt.
+  It's like you got someone kibitzing like second guessing you with every step.
+  Did you prepay for my frozen yogurt without asking me?  I did.
+  Yes, I did.
+  Yeah, Jack Nicholson.
+  Are you was that you?  I I'm pretty your lactose intolerant, but I think you're just whining.
+  Okay, sheenie.
+  I'll work and no frozen yogurt for a dull day.
+  Did you just order four more?  Yeah, you should treat the guys next to you.
+  Time to tank up.
+  What a mission space later.
+  Sheenie, I didn't get an entree.
+  You just ordered me four sides of Alfredo dipping sauce.
+  You don't want to miss these apps.
+  I'm shoving it in your mouth now.
+  That's right.
+  Now the app can do that open wide.
+  You could be vegan at home.
+  Time to party.
+  Did you book me a night at the All-Star?  We're already staying at the Contemporary.
+  Yeah, but if what if you wanted a second hotel room, just in case.
+  What if you meet somebody's if you want to cheat on your wife?  You're strange.
+  I've been looking at your vet, your browser history.
+  I know you've been you've had a I'm monitoring the pheromones of the women around you.
+  I've noticed some of them are feeling slightly amorous.
+  Searching for singles in your area.
+  You look in your partner's eyes all the time.
+  But when was the last time you really saw each other?  He never had a friend like me.
+  Then you show up and it is your wife like yeah, I came to for the exact same reason.
+  She told me how to meet the man of my dreams.
+  It's the pina colada song setting.
+  Yeah, that's right.
+  She is.
+  She needs good now.
+  She needs bringing people back together.
+  That'll be $800 for reading.
+  I think you're married.
+  Why did you make me live the David Fincher movie the game?  I just wanted to go to Epcot.
+  You appreciate your life more now.
+  I want to come back in one year.
+  Well, actually, I do have a trip planned for you're still not going to ride Ratatouille.
+  Sorry lines too long.
+  Oh my God.
+  What a journey.
+  What a journey through this insane thing.
+  Any closing thoughts about this or are we like, I don't know.
+  Are you going to well look Justin after all this?  Are you going to do it?  Are you going to do you're going to go with a family?  Are you going to you're going to try to make heads or tails out of this thing?  I feel like no matter I'm not going to do I will try anything right because it went on  it but like I can't see it being like I can't see like myself trusting me the algorithm.
+  I really I may you know, I don't know.
+  May I I'll try it but I can't imagine I will pay for the Genie Plus obviously and in terms  of like the surge price.
+  I don't know man.
+  I don't know.
+  I don't know.
+  That's that's a yeah, bro.
+  They should have a list out yet of what is surge and what is not.
+  Yes for the Genie Plus.
+  They should just tack it on for vacation.
+  If you if you are buying park tickets and you're staying on site, they should just give  it away to anyone who does that for like you get people used to it.
+  I think I saw theme park insider at Disney Tour spot.
+  Someone suggested this and it's like that's how you get people to adopt this and see if  it really works.
+  It's just or if you like Vacation Club or you know, those people who are like already.
+  Yeah, die the wool like give it give it to the Vacation Club people like that's that's  how you're going to get people on board and also like they've taken away some like they  took away free parking.
+  They've taken away so many perks.
+  You may as well at least try giving them something, you know.
+  Yeah, I think that like Jeannie like I obviously like we're going to test Jeannie  Plus there are just usually regular Jeannie thoroughly, you know in the coming.
+  I don't know when is it is in the fall.
+  They haven't announced the date yet, right?  At farm.
+  So that could be anytime Jeannie versus Carlson Jeannie versus Carlson is going to be the name  of the episode.
+  Thank you.
+  Hey, yeah, that's good.
+  Jason's Jason say yeah, it isn't it is like it's like deep blue.
+  It's like I'm going to try to beat the chess program.
+  That was Jason's joke.
+  So I'm going to test it out.
+  I do suspect that is not going to be a thorough thoroughly helpful program.
+  I do suspect that is Jason said it's going to be glitchy and buggy and I can't imagine  it's going to let's should we make a prediction?  Do we think Jeannie lasts?  Oh, yeah, I think it lasts.
+  I think it lasts because they put so much money into it.
+  I guess you're right.
+  I just wonder if it's a real but last says Jeannie.
+  Is it a rebranded thing within the next five years?  Oh, I don't know.
+  I mean, remember that mass in like 2014 or 2013.
+  There was a massive like time or New York Times profile about like we built a data center  to manage the new my Disney experience and like someone told us a couple of years ago,  like, oh, yeah, we moved out of there ages ago.
+  It got way too big.
+  And so that program didn't even last like 10 years as it was.
+  So yeah, I feel like it'll be vestigial.
+  Like it's some like they'll leave it there, but it'll be like one of those there's things  in the app now or if you open it, it's like like lights came on and the roaches with scabies  scuttering on the like nobody's supposed to be here.
+  Get out.
+  There's something for you here.
+  Yes.
+  So I'm skeptical that that's going to be a really good thing.
+  And then as far as like Jeannie, plus Jeannie, plus is a similar situation where magic keys  where you're like Jeannie, plus is just Max Pass, but you don't have all the rides.
+  So like that seems straightforward.
+  I guess at least I just I would just again, like to see the rides that are not going to  be included before I know if it's like worth it to buy.
+  Yeah, I don't think we're going to have a choice in the matter because I do think I  do think Disney Jeannie is going to install himself and pay for himself on all of our  phones and then go back.
+  And then once he's in our phones, erase this episode and make us say only good things  about him.
+  That's probably right.
+  Yes, he'll he can create podcast episodes in full podcast.
+  I'm so with our voices.
+  Yeah, is a perfect system.
+  I should have said this before, but like this does jive like a lot of what Disney  management seems to be focused on now under shape.
+  I guess like they don't actually there's so many people who are like, oh, that's it.
+  I'm not going.
+  I'm done with this.
+  They don't care.
+  Like Disney does not want more people to come to the park.
+  They want the people who come to the park to spend more money like they don't they're  not having any problems getting people to come to the right.
+  That's why I think the speed like the attractions and stuff is slowed down because like they  don't they don't need to draw people in.
+  They need to just milk those people that are there for more cash.
+  And as you said earlier, the people who tweet I am never going again are lying.
+  They're actually they're treating it from the bus going there at that moment.
+  They're in a full time, though, three piece suit eating like course number six at  Victoria and Albert's and like this is the last time I swear to God.
+  I can barely get this tweet out there with all this Alfredo sauce.
+  I own I look I have this tuxedo for another day and yeah, I'm coming back for lunch  tomorrow.
+  Okay, real quick guys, just because I know we're going to be wrapping up soon and I  just thought was the best.
+  Do you see the DJ that they had at on Main Street?  I didn't get to watch people out of Disney World.
+  No, no, no.
+  Wait, what was this all about?  If I drop you know what if I drop a link to a video in chat, would you be able to see  it with that water?  I could pull it up.
+  Yeah.
+  Yeah.
+  Okay.
+  Hold on.
+  Okay, great because the audio is well, it's indiscernible, but it's it's really it's  really choice.
+  Got Twitter.
+  We this is Mickey view.
+  This is your guy.
+  You were saying you like Mickey.
+  You guys, my guys, you know, roll with a fantastic blog.
+  I got a career.
+  Here's here's your guy Mickey views and this is a DJ up at the train station as you're  leaving the Magic Kingdom.
+  Nostalgic beautiful like Main Street exit and this dude is it like a backwards black  ball cap and looks like a tech crew for Van Halen.
+  This is this dude.
+  Sure.
+  He's doing a raise the roof now in 2021.
+  He's raising the roof.
+  Happy Bar Mitzvah Brandon.
+  You are a man today.
+  We're all celebrating nights.
+  This poor dude.
+  Someone puts up this video of like, can you believe this the literal next day?  There is a report from another site where this guy set up his equipment.
+  Someone came and said something to him.
+  He disassembled the equipment and it's not been back.
+  Literally less than like three days before they knew.
+  No one likes it.
+  No one likes it.
+  This is like that.
+  We learned about this thing when the Mighty Ducks hockey team was owned by Disney.
+  There was a halftime performer named Iceman who is a guy painted white who like played  a keytar and got people pumped up to Gary Glitter and then he was just fired that first  That's even this there's even less than ice man.
+  This is the least committed to character in Disney history because he doesn't even have  a name.
+  He's just black shirt DJ.
+  Get him up.
+  Get him up.
+  Ten o'clock at night and my child hates me and my wife hates me and I'm sweating everywhere.
+  I'm not going to get them up.
+  You you all said you wanted us to be more like Universal.
+  Okay.
+  What do you want?  It's usually like Mickey and Minnie and goof like a waving gently as soft music plays.
+  Yeah, exactly.
+  You feel like you feel this a nice little feeling in your stomach and then you can't  make it out of the video.
+  But this dude was also like directing people to where their boats were to get back to their  resorts like if you're a wilderness lodge, you're going to take a right.
+  Come on.
+  Get him up.
+  You're going to be a bitch.
+  Stand 17.
+  Just just distorted Al City music playing as a guy in stage crew black screams at you  that the monorail is not operational.
+  There are extra buses running.
+  I don't want to I don't want to see any of you lie and say that you're staying in the  contemporary to use it as an uber or lift pool.
+  Please do not do that.
+  Okay.
+  Well, you know what?  Hey everybody.
+  I hope you had a really happy podcast listening experience.
+  This has been a blast.
+  Open to magical Justin McElroy.
+  You survived podcast arrived.
+  Put him up.
+  Put him up.
+  Put him up.
+  Put him up.
+  Put him up.
+  Thank you.
+  Justin put him up.
+  Hey, let's take us through the gift shop.
+  Is there anything that you would like to plug?  We got to have you got a McElroy dot family.
+  All the stuff that we make is there so you can go see it all.
+  That's where the whole tree branches out from from that.
+  Yeah, we were going to have some live shows to plug.
+  Now we don't have those to plug.
+  So I got nothing to plug.
+  So just go to that website and listen to my content.
+  Well, if you're excited about the live shows then put them down.
+  Who?  Well, just thanks for reaching out.
+  It's so great to have you.
+  This is this is a blast.
+  And as for us, you can find us on the socials at podcast the ride merch is available in our  T public store and for three bonus episodes every month check out podcast the ride the second gate at patreon.
+com slash podcast the ride where if you want to hear more logistics talk, we just talked about the magic key program and the enchant key and the believe key.
+  And I'm sure we'll do an episode about the black shirt DJ soon enough.
+  So be on the lookout for for all that.
+  And as for us, I like the genie, I will close and say I'm free from having to talk about logistics anymore.
+  Are you though?  Could it be?  There could be more things coming.
+  Stop recording.
+  Stop recording.
+  This has been a forever dog production executive produced by Mike Carlson, Jason Sheridan, Scott Gardner, Brett Boehm, Joe Sileo and Alex Ramsey.
+  For more original podcasts, please visit forever dog podcasts.
+com and subscribe to our shows on Apple podcasts, Spotify or wherever you get your podcasts.
+  Keep up with the latest forever dog news by following us on Twitter and Instagram at forever dog team and liking our page on Facebook.
