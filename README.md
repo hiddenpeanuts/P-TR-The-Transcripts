@@ -12,6 +12,8 @@ StoryToolkitAI is designed to integrate transcripts & captions into video-editin
 
 ## Structure & Use
 
+Use the search bar way up at the top of the screen to search. You may need to create a github account.
+
 The _Transcripts_ folder has the raw transcripts. Search through them there.
 
 The _Timestamps_ folder has .srt subtitle files. This is useful for finding when in an episode something was said.
