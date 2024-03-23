@@ -1,0 +1,1960 @@
+ Five, four, three, two, one.
+  Welcome to a podcast, The Ride,  that I have been building up to my entire life.
+  I'm Scott Gardner and joined by Mike Carlson  and Jason Sheridan, hey fellas.
+  Hi.
+  Yeah, there's a nervous energy in the room  that this is gonna even go well.
+  Pressure's on, pressure's on.
+  I've been thinking about it,  but that can't be where I come from.
+  I have to come from a place of enjoyment.
+  Yes.
+  Because when I realized that this podcast  was potentially the outlet for me to talk about  this area of fascination that I've had forever,  which is Fry's Electronics,  when it all came together, of course,  this is where I can finally,  because I didn't know, there was one point in time  where I thought, should I try to make a documentary  where I go to every single Fry's  and explore the theme of every single Fry's?  That doesn't seem like a good idea.
+  Sort of a My Date with Drew, following your journey.
+  Oh, absolutely, and it'd be cute as hell.
+  Yeah.
+  It's a super, super watered down, super size me,  where I don't get unhealthy or learn any of that.
+  I just waste a lot of time.
+  But it's this, this is where I put it,  and I'm ready for it.
+  I think the documentary, though, still could happen.
+  I think, well, maybe there's more interest in it now,  but I'm gonna have to do it quick,  because I don't know how much time these stores have left.
+  If anyone on the Patreon has a bunch of money  to make documentaries, and they wanna fund this,  please contact us soon.
+  Yeah.
+  Look at you, Kevin Perger.
+  Oh yeah, he's a documentary funder.
+  That's right, that can be number two,  after the HALIX one we're in that's on the way.
+  So let me ask, because the long and short,  Fry's Electronics, chain of electronics stores,  I was unfamiliar with until,  I had lived out here for a few years.
+  There's one by the Burbank Airport,  and I used to work over there,  I used to work at a post house,  and some of the engineers, that was sort of like,  their go-to place for cables or components,  and then sometimes I think of, they're just like,  oh, I'm gonna treat myself at lunch, I'll go to Fry's.
+  Because it's-  I don't know if I call that a treat, but sure.
+  Well, I think for engineers, that is a treat.
+  Oh, to like, to peruse and do all of that.
+  To peruse.
+  Look at the wires and the circuitry.
+  Because yes, it is an electronics store,  but it's sort of more in the radio shack area,  components is a perfect word.
+  It's like, yeah, it's like boards, and yeah.
+  It reminded me of, like, I feel very safe there.
+  I'm like, oh, this is so fun,  it's like being back in the 90s,  and like, we didn't really know what home computers were,  and every, ooh, what's that, what's that?  Yeah, and a place where you would go get Wired Magazine,  and where Wired Magazine would be prominently featured.
+  And the Bible was Wired Magazine,  in the hallowed halls of a Fry's.
+  A new issue of the good word.
+  But you were getting at a specific point,  or you're just like, refreshing it,  what you knew about it before you got to Los Angeles.
+  Yeah, and my experience, I went there,  I think about a year, year and a half ago,  because I was told, like, oh,  because I said something like,  I have a printer, it's kind of old,  but I need to print some stuff,  but I wanna buy a new cartridge.
+  And they were like, oh, if you have the old one,  take the Fry's, they'll refill it.
+  Okay.
+  Which they did, and that lasted, that kinda worked.
+  Right, right.
+  It kind of works.
+  The printer is on its last legs, granite,  but I feel like it went through that refilling  pretty quickly.
+  Well, let me be clear, as a store,  Fry's is a horrible store.
+  Yeah.
+  Maybe I shouldn't say that if I wanna get in good with them  to do the documentary.
+  I have a scratch horrible,  it leaves some things to be desired.
+  My experience is that everything that I've ever bought  from there has not worked.
+  And that is usually like $8 items,  it'll be like, you know how there's like the red  and yellow sound cables, and you know,  what if I needed a wire that put that into a single stereo?  Oh, they have a part at Fry's, okay, sounds good.
+  Try it at home, nothing happens.
+  I need to go somewhere else and get a real one.
+  I've never, hard drives I've gotten just fizzled immediately,  never worked once.
+  Almost every product I've ever gotten from there  didn't even, didn't break, it just never worked.
+  I'm trying to think, cause I think I bought fans,  like USB fans, there's a indie wrestling show out here  called PWG, and in the summer months,  there's a thing called the Battle of Los Angeles,  and it's three days, and it used to be that you would wait  in this receipt of parking lot in the oppressive heat.
+  So I was so prepared this year,  I went and got a bunch of USB fans,  and I went to Fry's to get them,  and they didn't know what I was talking about.
+  And then I did finally find a few,  I bought them and they did not work.
+  They wouldn't work with,  because I was gonna put them on like a battery,  like a iPhone battery, the external battery.
+  Oh yeah, and then keep that going the whole time  that you're there, three days.
+  And they didn't work, and I had to buy them off Amazon,  I think.
+  So your experience is zero, mine's zero, Jason's kind of.
+  Well, we had a podcast related one,  where we were, you and I went there,  because we have these mic stands now.
+  We've had them for a while.
+  We were trying to brag, but.
+  Hate to brag.
+  We do have stands.
+  We're like, I forget, we might've eaten lunch,  or, but we're, you were like, oh, let's,  I think I'll run to Fry's, try to find some mic stands.
+  And they had a mic stand.
+  They did not have three identical ones.
+  They did not have three priced reasonably.
+  I think there was one and it was weird.
+  They had like one and it was like $100 or something.
+  Yeah.
+  It was a single mic stand.
+  It'd be possible to find item, a microphone stand.
+  This, because I think also, and maybe once in a while,  I start going, you shouldn't order from Amazon.
+  We should just go to a store and get it.
+  It's easier.
+  You're supporting the business.
+  Amazon shouldn't have any more of our money.
+  And then we went to Fry's and it was impossible.
+  And there was like a $15 mic stand on Amazon  that is the one, or the ones we're using.
+  Yes, and there's things that you would maybe get  from Best Buy, but that, if something you think  is covered by Best Buy, go to Best Buy  and Best Buy will be fine.
+  If you, if it would only be at Fry's,  you're kind of screwed,  because there's a very good chance you'll buy that thing.
+  It just won't work at all.
+  Yeah.
+  So why would we be talking about an electronics store  where not one item you buy works  and they don't even have microphone stands?  Because this is maybe the best themed chain store  that exists.
+  And there, I guess there's other things that are themed.
+  I, you know, obviously restaurants,  your rainforest cafes and whatever.
+  I can't think of another example of a, not nationwide chain,  but a chain that is all over the country  with many, many locations where everyone  has a distinct theme.
+  And it's not even crappy often.
+  It's not even just like they put up some flowers  and that's supposed to feel like Hawaii or something.
+  Some of these places have aggressive theming,  massive show pieces.
+  There's, I would argue there is theming in Fry's  that is in some places better than like original  California adventure.
+  Yeah.
+  There is a feature of the Burbank one  that once I was inside of it, I was like, oh my God.
+  I was shocked.
+  Yes.
+  Like I was shocked.
+  Some of it is melting.
+  Some of it is very good.
+  And the Thousand Oaks one is-  Or is it Canoga Park, I believe you're thinking of.
+  That's the one by where I grew up.
+  That was my home one.
+  I don't want to spoil that theme.
+  No, I think-  If you're building to it.
+  Well, maybe it's a good place to get into it a little.
+  I imagine we'll talk the most about Canoga Park  and Burbank, but this is probably where my obsession  started because one of these opened in the 90s,  very close to where I grew up.
+  And okay, we're gonna go to this store.
+  Okay, sounds boring.
+  I guess we got to walk in.
+  And the initial like check-in tunnel  is an Alice in Wonderland flipped on its side rabbit hole.
+  It is an entirely like,  would you call it a vertical perspective?  It's like you are going down a rabbit hole.
+  So there's chandeliers hanging the wrong way.
+  There's mirrors on the ceiling.
+  It looks like you're going down.
+  And it would be a perfectly acceptable set to be in a ride.
+  It's legitimately very well done.
+  And beyond that, the entire store is this very well done  Alice in Wonderland theme with massive hulking statues  of not even Disney style.
+  It's very like old Lewis Carroll line drawing,  like creepy as hell.
+  Massive statues.
+  There's like dozens of them of many, many characters  from Alice in Wonderland, Jabberwockies, like everything.
+  Playing cards.
+  People, the cards painting the bushes,  scary Mad Hatter.
+  The queen of hearts.
+  Yeah, yeah.
+  So you've been in that one.
+  I have been in there.
+  Yeah, I ended up in there once and I saw there was fries  and I went low, let me see what the theming was.
+  This is ages ago.
+  That's how long you would like suggest it like that.
+  And I went in and I was like, oh my God.
+  It's crazy, right?  It's crazy.
+  You don't see stuff like that just in some big box store.
+  Like truly, it's not maybe a lot of the stuff  in fries isn't theme park level, but it is.
+  Okay, you know those, the mini golf courses  at Disney World, your Fantasia Gardens.
+  I would argue that at least this Alice in Wonderland  one in Canuckle Park, if that's what the theming was,  if it was a bunch of those statues around  in like a mini golf course, you'd be like,  this is incredible.
+  We gotta take pictures of everything.
+  This is so well done.
+  I have no information about why these stores are so good.
+  Who did all of this stuff?  Was it like former Imagineer people?  It's at least also maybe the level of like the haunts,  like the knots haunts that are shockingly well done.
+  They're a little like rough around the edges  and put together with tape, but pretty great  for something that's only up temporarily.
+  I don't know.
+  I don't know who did the, why are these stores this way?  Yeah, it's a good, we probably,  I don't wanna say Fries II coming eventually,  but we probably could do some more investigative journalism  and figure it out.
+  Yeah, maybe we should have.
+  Because it's not readily available.
+  I'm just, there's plenty for this Fries part one.
+  Sure, well, and I'll tease right now,  there will be a reason to do a Fries II  and we'll get to that at the end.
+  Stay tuned at the end.
+  There's a little bit of a cliffhanger coming.
+  But yes, you're right.
+  We should have thought ahead and gone,  was it like recently laid off Imagineers  who had to get it out?  Was it people who wanted to do it DIY,  rough and tumble style, just get their hands dirty again?  Yeah, I mean, it takes, look, it takes a while.
+  I've been chasing some McGruff leads here for months now  for McGruff II.
+  Some of these episodes are in the queue for a while.
+  I try, yeah.
+ It's not for nothing.
+  You gotta keep digging.
+  You gotta keep, as my dad says in the newspaper,  you gotta keep pulling the threads.
+  You gotta keep on the story.
+  Your dad a journalist, I don't know much we've said.
+  Yes.
+  You really get to like maybe use some lessons from him.
+  Yes.
+ In the show.
+  Yeah, he'll send some stuff once in a while.
+  If I mentioned I'm looking for a certain thing,  certain address, although I already have an address.
+  Oh.
+ I have to write a letter is what I'm saying.
+  I've tried email a lot.
+  This is intriguing.
+  I've tried a lot of email.
+  You're not allowed to say more  about what letter you have to write.
+  I have to get in contact with the guy who wrote the songs,  the McGruff songs, and I know where he lives, I think.
+  Oh my God.
+  And it's not from weird,  and this is what my dad had nothing to do with it.
+  I just look up in the white pages.
+  Okay.
+  Yeah.
+  And I said, I don't think I can,  I don't think this guy's checking his email.
+  Don't get addresses on the dark web.
+  Make sure you do it legally.
+  It was legally.
+  Use your compact computer, you bought it at a frond.
+  So.
+  Whitepages.
+com, do it the right way.
+  I'm gonna write a handwritten letter, I think.
+  Which might be the only way,  that might be the medium that he shows respect.
+  He's not wasting his time on Twitter.
+  He wrote some of the greatest songs of all time.
+  Why is he leaving his DMs open?  Yeah, he shouldn't.
+  Yeah.
+  Well, so we gotta do that next.
+  Let's discover who did these.
+  While we're talking about the Woodland Hills one,  let me just try, if I remember anything else.
+  One of the craziest things,  there is a knight fighting an airborne Jabberwocky.
+  I didn't read it, the Jabberwocky's not in the movie,  not in the Disney one, so I had to look up,  is that what that is, this crazy fanged beast  with big dragon wings, and it's terrifying.
+  I'll post some photos, but they created  this really crazy monster that is perpetually airborne.
+  And then the rest of it's all great.
+  It's all hedges, it's like black and white checkered floor.
+  The caterpillar is crazy.
+  Right, right.
+  Cheshire cats, there's a frog with a powdered wig.
+  Can't be mad at that.
+  No, no.
+  Well, it's just next to, you know,  like a, either like, it's a bunch of washer dryers  or like a, you know, like a pack of like Lipton Ice tees  that they haven't unwrapped,  that they just like left all of the plastic on.
+  A pallet.
+ Yeah, a pallet,  that's the word, yeah, yeah.
+  I would also say that with the level of creepiness,  Mike, you know what I'm talking about,  some of the stuff in this one is kind of like the,  especially the downstairs of San Rio Puroland.
+  Oh yeah.
+  Where there's some like kind of ghastly horrifying  uncanny valley kind of statues.
+  Yeah, yeah, and their little cottages.
+  Yes, yeah.
+  A giant Alice sobbing.
+  Jesus.
+  She's got her head in her hands, covering her eyes, crying.
+  Oh, you know what they have also with Alice?  They have the house, the little cottage  that her arms are bursting out of,  and you can walk through the middle of that,  and that is a little tunnel where you can test car stereos.
+  You know, the car, like what we,  you know those little plates that you have installed  that connect to your MP3 player?  That's what they sell.
+  Like the most easily stealable stereos that exist.
+  This is still, and so this is also a dimension  of what's crazy about going to a Fry's  is the locked in time aspect.
+  So many of them have like a huge CD  and it says audio CDs or like video software,  things that are not exactly how we frame things anymore.
+  The Burbank one, you go into a UFO  for the like testing room with a theater,  like a big theater, to like see how good this projector  audio setup is.
+  And when I was there last week,  well first off you could enter from two sides  and one sides had a lot of tower speakers,  which I don't think has been,  that hasn't been in fashion as far as I know for,  if I'm being generous, five years  might have been the end of that.
+  If you're building a great like 2001 hi-fi system,  if you want, if you're like looking to support  your non HD big screen TV,  yeah.
+  If you want to, if the thing that Needles is on  in Back to the Future 2,  if you're making one of those setups.
+  But if you went the main entrance of the Flying Saucer,  you enter this theater room and they were playing,  I believe it was Cars 3.
+  Okay, reasonably recent.
+  I was gonna say that is at least a movie in the last decade.
+  The aspect ratio was not recent.
+  It was not, like it was a big screen  and it did not take up much of it.
+  Was it four three?  No, it was widescreen, but it stopped.
+  Like there was a lot of wall on either side.
+  It did not strike, it was not like where you have to go in  with the remote and click like source, picture view,  theater, four by three, 16 by not.
+  Like they had not done that correctly.
+  They have these, okay.
+  So most fries have what they say on the door  is a presentation room.
+  And it is like, it is truly a demonstration of  exactly what you're describing,  where you need to do so many settings  and where you have like seven remotes.
+  And the presentation rooms are all like that.
+  The remotes are all splayed out.
+  It's like a mini movie theater with like probably eight  in a row and then three rows maybe.
+  And the remotes are just scattered everywhere.
+  There's just loose wires.
+  There's wires connecting to speakers  that aren't there anymore.
+  Sometimes there'll be like a faded poster  that's like avatar or one that I went to has  like a framed photo that's just like 150 faces  all from the Star Wars prequels.
+  It's just like, here's Hayden and here's Natalie  and all of the characters.
+  There was one, the one that I went to in Vegas,  I went to a fries in Vegas.
+  I took time out of a Vegas trip.
+  This one, I looked in the back of the projection room  and there was no projector in the spot  where there should have been.
+  And it was just like a little container of potpourri.
+  It was just like a bunch of pine cones and shit.
+  I didn't even see the remotes  because it was pitch black in that room.
+  Besides the image, this is news to me.
+  There were remotes in there.
+  But what I did see when I was exiting  was this display of earmuffs, earmuffs for your baby.
+  So earmuffs.
+  Earmuffs.
+  So, and I was like, oh, is this a health thing?  And I'm like, no, this is just literally  if you want to bring your baby,  comfort your child.
+  Bring your baby to a concert.
+  Yeah, voices can be heard,  but everything will be much less loud.
+  The child seems to enjoy the earmuffs.
+  I don't believe it.
+  Oh, of course.
+  Yeah, so baby would keep on a massive thing on their head.
+  Studio monitor headphones, yeah.
+  That makes them, that muffles all the sound around them.
+  Fry's, I think is a good place to go  if you fail on Shark Tank  and you fail on all any other sub CNBC way  to get that guy.
+  QVC didn't accept you home shopping.
+  Fry's will.
+  There's all kinds of bizarre.
+  They will carry almost any product.
+  Yeah, including just like, you know, kites.
+  I got kites.
+  Bugles.
+  The snack.
+  Any snack.
+  Oh yeah, yeah, sorry.
+  I should have, because they might carry instruments.
+  They do have musical instruments as well.
+  They have some instruments.
+  But they also just have funions and like circus peanuts.
+  An upsetting amount, like convenience store level  amount of snacks.
+  Yeah.
+  In a really long like impulse by IELTS.
+  Fry's is always, they're built to hold 30 people  in the checkout line.
+  Yeah.
+  And typically you will go and see one person, zero people.
+  Perhaps in the entire store.
+  This is really, this didn't used to be the case.
+  A couple of years ago, it wasn't this way as much,  but mainly you will like walk around a Fry's  and see no one.
+  And probably not see items on the shelves.
+  If you do a Google News on Fry's,  a lot of places are going, what's going on?  Are they closed or not?  How can a store stay open  that has like 75% empty aisles?  One of the things I liked about,  they closed the Fuddruckers in Burbank,  which is very sad.
+  Yeah.
+  I know Scott's not a fan,  but I was a big fan of the fact that when you'd walk  in there, it felt like I was five years old  in Schomburg, Illinois.
+  The music was the same.
+  They hadn't changed a thing on the wall.
+  The only difference is Burbank has a tonight show booth.
+  Yeah.
+  Which is great.
+  It's a beautiful downtown Burbank.
+  Beautiful downtown Burbank.
+  But I liked that about it, is like felt you,  like you went back in time.
+  It's the same way with Fry's,  except more like there's an apocalypse happened  or something.
+  Oh yes.
+  It's been rooted, everything feels like the quickie mart  with the hurricane chow.
+  Yes.
+  Where cat is crossed out and it says,  hurricane chow.
+  You can imagine a scenario where like,  you're one of the last people on earth  when you're in a Fry's.
+  Yeah.
+  Yeah.
+  And you can only live off of.
+  Funyuns, Bugles.
+  Fax machine ink.
+  Fax machine ink.
+  That's the nutritional value of fax machine ink.
+  There's gotta be some protein in that.
+  Now, hold on one second,  because the Burbank one is area 51 themed.
+  Yes.
+  And we haven't mentioned the Atomic Cafe.
+  Yeah.
+  The restaurant that's inside.
+  So did you also have a stint at the Atomic?  Did you eat?  I wasn't sure if you would eat.
+  I didn't eat.
+  I did.
+  Well here, you go first.
+  I'll explain my experience.
+  Just to say the Burbank theme,  you're right, it's area 51 theme,  but it's also really what it is.
+  Yeah.
+  You're inside a B movie.
+  Right.
+  You're in a bad 50s sci-fi movie  where aliens have landed  and they've caused things to be gigantic.
+  Yeah.
+  So there's flying saucers.
+  There's huge ants.
+  Giants.
+  That is really the crazy thing.
+  There's massive ants everywhere.
+  A bunch of them, so many of them.
+  There's Jeeps that were demolished  and blown up down the center.
+  They had to bring these huge artillery vehicles in  and then torch them through the middle.
+  There's mannequins of soldiers crying  like they're about to get disintegrated.
+  There's amazing tableaus in this entire thing.
+  I mean, the very first thing that happened is I walked in  and was immediately startled by the statue  of a young newsboy.
+  Holding a newspaper.
+  Oh!  I thought it was a person and I was like, oh!  You were staring yourself in the mirror.
+  I was looking.
+  And I'll tell you this, as kind of a fries expert,  and I'll give you my full stats in a little while,  you can tell if the fries is gonna be good  based on that entry tunnel.
+  As with my childhood one that kept me interested  my whole life, that Alice going on the rabbit hole,  it's amazing already.
+  That paper boy is right away.
+  Right away.
+  So if you don't see something cool  in that first 10 feet,  you could probably skip the rest of the fries.
+  But with Kanoka Park and Burbank,  they're hitting you right off the bat.
+  Yeah, I think it's,  and the customer service is supposed to be  like a facade of a gas station,  like a 50s gas station.
+  And then the checkout is a diner.
+  Right.
+  So there's like, you know, egg specials and everything.
+  Sadly, you can't have the egg specials.
+  But as you were saying, if you go to the back corner,  there is a full cafe.
+  You can have lunch in the fries.
+  With real neon.
+  That was what impressed me.
+  Real neon signs.
+  It buzzes.
+  It buzzes loud.
+  It buzzes loud.
+  Like it's the real deal.
+  And there are Cadillacs that you can sit in  with what appears to be the original seats  because you sink below the table.
+  Like not exactly thought out.
+  Playing on a giant projection screen,  I had to watch it for a few minutes  and then search some specifics.
+  Playing the famous B movie,  This Island Earth when I was there.
+  The main film in Mystery Science Theater, The Movie.
+  The movie.
+  The theatrical release movie.
+  Whoa.
+  So this, if this sounds familiar at all,  the Disney World Sci-Fi Drive-In.
+  Yeah.
+  It's, they have a miniature one of those  in this awful electronics store.
+  And it's pretty good.
+  Yes.
+  It's good.
+  There's three cars.
+  It's very, it's all very well done.
+  How, who's going to eat here?  Okay.
+ Well, so here's what happened to me.
+  So I looked it up.
+  It's not, it's one of those unclaimed places on Yelp,  which either means the restaurant's gonna be really good  or something's up.
+  It was the latter.
+  So one of the few pictures was a sign saying  Cafe Hours, 9 a.
+m.
+ to 7 p.
+m.
+  I found this in the middle of the day.
+  And I was like, okay, it's a few minutes before three.
+  I will swing by and get a late lunch or a snack  or whatever they have.
+  I walked in at 310 to be greeted by a sign  that said Cafe Hours, 11 to 3.
+  And when I went, hey, are you still open?  The woman was surprised to see me.
+  I went, oh no, we're closed.
+  So the next day I went back at two and I was served.
+  I did eat.
+  How many people were there eating?  The first day there was one man who had finished,  like looked like a sandwich and a cup of coffee.
+  Okay.
+  The second day there was me.
+  You were the one man.
+  I was the one man.
+  They have one man a day that eats at this cafe.
+  In four hours.
+  In four hours.
+  Scott, did you order anything?  What did you have?  I ordered a smoothie.
+  Okay.
+  I did not have hard food.
+  What did you have?  Did you have hard food?  I had a, I had an iced coffee and a slice of lemon cake.
+  Wonderful.
+  And I gotta say, pretty good.
+  I was surprised.
+  I also have to say that I enjoyed the smoothie very much.
+  Shockingly large smoothie menu.
+  I was gonna say, what is it basically the gist of the menu?  A smoothie, some desserts.
+  Can you get a sandwich?  Smoothies, like club sandwiches, like one breakfast.
+  Like it said breakfast burrito, breakfast quesadilla.
+  I wasn't sure.
+  When I asked for half and half with the coffee,  they gave me coffee mate.
+  They gave me the red cab coffee mate, sweet and cream.
+  I was like, oh, do you have milk instead?  I don't.
+  The answer is no.
+  They did.
+  They did.
+  They do have a coffee menu.
+  The iced coffee wasn't the worst I've ever had.
+  It was fine.
+  It was kind of, you know.
+  But who is this?  Why do they have a diner in here?  No, who are people doing such exhaustive?  I didn't know this existed until a few months.
+  I didn't know that I've been in that fries  a couple of handful of times.
+  I didn't know this even existed.
+  So you probably thought it was like theming,  like a fake little diner, but it's a real diner.
+  Cause it's off to, it's way in the corner.
+  It's off to the side.
+  So I must've seen it from afar and went, oh, that's fun.
+  It's behind like huge shelves.
+  Like it's by where they store shit,  which none of the fries really cover  where the storage very well.
+  Yes.
+  And they just, as I've said,  they just leave loose pallets out everywhere.
+  It's like a Sam's club, like a shitty looking Sam's club.
+  Yes.
+ Yeah, yeah, yeah.
+  When I looked to my right, I could see the other Cadillacs.
+  And when I looked to my left,  I could see an entire aisle of Aquafina 24 pack bottles.
+  Like the longest row I have ever seen of one item.
+  I was next to like a display case for Red Bull  that was empty.
+  Also an empty display case for something,  some drink that has Guarana,  like it's you know, a weird new,  like the natural energy thing.
+  So much emptiness as said.
+  Now there's also some things to say about the smoothies  because again, as I've said,  well, here, let me just get this out of the way now.
+  As I said, months, probably like over a year ago,  we said maybe fries could be an episode.
+  And I was already pretty fries versed,  but in the time since then,  I have made a point of going to as many fries as possible.
+  And now at this point,  I've been to eight of the nine fries  in the Southern California area,  including in San Diego County.
+  And I've been to one in Las Vegas.
+  So I've got a lot of fries to compare contrast.
+  Now, you know, you're in a really good one.
+  You've really hit the mother load if there is a cafe  and all of the cafes are different.
+  There's like a NASA themed one  where it's called Cafe Canaveral  or this one's the Atomic Cafe.
+  Yeah, but no matter what the theme is,  the smoothies are always themed after rock and roll.
+  I'll read some of the items,  Shunk Berry, Yogurt a Friend,  I guess after the Carole King,  Peach Boys, the same pun as in Food Rocks, Epcot.
+  One is called, and again, I've seen this in another state.
+  I saw this in Nevada and at the Atomic Cafe,  Hawaiian Webbing Song.
+  And the ingredients don't give you a clue why it's webbing.
+  I'm like, is there some like, is there pollen,  well, the bees don't make webs.
+  I honestly don't know why webbing,  but it's not a typo, I don't think,  or it's a typo that's standardized at every fries.
+  The drink that I had was called Peachy Paul and Mango.
+  Does that mean Peter, Paul and Mary?  But then when you see Paul and Mango,  you think of Paul and Ringo, but Peachy isn't,  but Peachy also doesn't sound like Peter.
+  No, but it's got a P.
+  Yeah, I guess it's Peter, Paul and Mary.
+  It's Peachy something and Mango?  Peachy Paul and Mango.
+  Peachy Paul?  Paul, they didn't change that word.
+  I was gonna say, wait, wait.
+  Paul.
+  Peachy Paul and Mango.
+  Chunk Berry still, none of it really works.
+  Peach Boys, and then I'm drinking one item.
+  It's gotta be multiple, you can call it a Peach Boy.
+  You can't call it the Peach Boys  because there's one singular item, the drink.
+  Yeah, it's as if they made one.
+  Yeah, because if you make multiple versions.
+  I should also mention on the way out,  it seems fitting that you mentioned  the aliens made everything bigger  because I picked up something to share with my lady friend.
+  I got this big muffin.
+  This muffin was so big.
+  It was a really big one, $1.
+99.
+  Didn't you bring part of this muffin to a record one time?  Were you still eating the muffin?  That was a different muffin.
+  A different muffin.
+  It was also a very large muffin though.
+  We commented on it.
+  That was like the standard Trader Joe's muffin.
+  This was a big muffin, only $1.
+99.
+  So a fair value, had an electronic store style price tag  in front of it.
+  Did they have to take it off like it was liquor?  No, just on the display.
+  Buying a video.
+  Just on the display.
+  It was like buying a video game.
+  You had to take a slip.
+  They get it out of the jewel case.
+  This cinnamon streusel muffin was pretty good too.
+  The lemon cake also good.
+  There's some bougie cafes that I've gone to in Los Angeles.
+  Gotten a baked good and been like, this is stale.
+  This has been sitting in the freezer cake.
+  This stuff was better than some of that.
+  Weird.
+  Will you stop off at Fry's now to get a baked good?  Maybe, probably.
+  I wanna go back.
+  I might go for a under smithy.
+  And get a sandwich.
+  It might be the cheapest club sandwiches at Burbank.
+  Should they convert mostly to selling muffins and smoothies?  Just every row.
+ Nationwide.
+  For these many square feet is just all muffins now.
+  Fry's muffins.
+  Fry's is now pivoting to muffins.
+  And the screening room is.
+  Muffin based.
+  I'm not sure how yet.
+  While they're playing a video of a rotating muffin.
+  Oh boy.
+  Okay.
+  The greatest film.
+  When you add this up,  this one has the presentation room.
+  So you can go sit and watch like a scene.
+  I've been to Fry's where they were playing  just like all of Bumblebee.
+  You're just watching the full movie Bumblebee.
+  Sometimes they just do snippets of scenes.
+  One time I just sat and watched the full T-Rex attack  from Jurassic Park.
+  And that one was a very well done theater.
+  Like the sound was great.
+  The picture quality was great.
+  The settings were right.
+  And there was another family in there doing the same thing.
+  We're just watching Jurassic Park on the big screen.
+  On a random Saturday.
+  It was lovely.
+  Great scene.
+  So this one has the presentation room.
+  But also you can sit in the drive in  and watch a classical sci-fi.
+  The people behind the counter,  when I walked up it said like, do not detect video.
+  I asked, do you ever put that on?  And they were like, oh, is it not on?  Sure.
+  And they put on the movie for me.
+  Hey, great.
+  And I sat and watched Earth versus the Flying Saucers.
+  They're switching it up.
+  It's not always the same thing.
+  No.
+  And they told me sometimes they play like  just a bunch of trailers.
+  Yeah.
+ Yeah.
+  The woman working there was great.
+  I mean, she was very nice.
+  And yeah, I really enjoyed it.
+  I would definitely go back to Shane.
+  The hours are so short on it.
+  I mean.
+  I guess if you're like running,  if you are a home theater installer  and you're picking up some components  and you need a bite to eat, this is fine.
+  There's office parks around.
+  Are you a home theater installer  who needs a bite to eat?  I wish, when I worked around the corner,  I wish I realized there was a restaurant there.
+  Cause like every now and then I was like,  I just kind of want a plain sandwich.
+  Well, you know what?  It's a very industrial area where you're,  there's not a lot of choices.
+  That's right.
+  Especially that, yeah, if we can get the word out,  maybe we can help save this thing.
+  If you work in the North Burbank area,  go frequent the fries.
+  Because I am worried about all of these.
+  They are starting to go.
+  I'll say we're recording this in early February.
+  I'm not sure when we're putting it out,  but even if we put it out in two days,  like half of these could be gone.
+  But it kind of looked like this like two years ago.
+  It's been a long time.
+  That is also the thing too.
+  Do they just own the land?  And there was my question.
+  Do you have an answer for that?  Maybe they can just stay open.
+  I saw that the Anaheim one has been bought  by another company.
+  Like they bought the land,  but they aren't kicking the fries out yet.
+  They're just like getting the jump on owning the land.
+  So that maybe is a little example.
+  Maybe we'll start seeing the land go.
+  And then when places can figure out  what they're going to build there,  then that's the end of fries.
+  How are they making any money?  Oh, there's another corner of the Burbank one  that I forgot about.
+  They have a very robust office supply section.
+  And like I used to, you know,  talking about trying to not use Amazon so much.
+  I used to like go to a few like mom and pop stationary stores  for like pens or notepads.
+  And then you could also buy stuff individually  if you didn't want like a pack of 10, you know,  legal pads or whatever.
+  And a lot of those have closed down,  but like fries still has a lot of the like,  do you just need one of something?  Here's a variety.
+  You know, a lot of, there's less staples now.
+  There's less office depots now.
+  Circuit cities are gone.
+  I don't know how fries is sticking around,  but I'm glad for things like that.
+  Yeah.
+  Now I was thinking like,  oh, I've been thinking about like swapping out the memory  on my laptop.
+  And I try to like, well, if I wonder a little,  I'll find that section in fries.
+  And I got tired of looking before I found it.
+  And I was also like, I don't know.
+  Cause this aisle says component, this aisle says memory,  but there's nothing in it.
+  There's nothing in any of them.
+  I saw an aisle in one that was all Nintendo branded.
+  It's big, bright, you know, cardboard pieces  that have peach and Donkey Kong and all the smiling faces.
+  And there are no games.
+  It is only the display.
+  Nintendo, here's your place for Nintendo.
+  And not one game could be found.
+  A lot of Sobe style beverages,  a lot of like elaborate glass.
+  Oh yeah.
+  But it's like.
+  That have been there for seemingly over a decade.
+  I, yeah.
+  Or as you said Scott,  Gourwanna stuff when that was going to never.
+  Like I don't, it's a mystery.
+  I love it.
+  I kind of, I love it.
+  There is like, so,  the mysteries of LA of which there are many,  like get less and less every year.
+  There's very few places that are just,  you can walk into and just wander  and have a bizarre fun time.
+  When I was thinking about doing this episode,  I thought how, how much I,  every time I go to a Frisbee,  I'm reminded of a part of a movie that I like very much,  which is the, the Brady Bunch movie.
+  The Brady Bunch movie with live action.
+  It's a show is live action as well.
+  The, the very first movie where the,  the family's kind of down and Gary Cole is Mike Brady says,  put on your Sunday best gang.
+  We're going to Sears and then set to it's a sunshine day.
+  They have a big romp in Sears and just have a blast  and look at everything and dance around.
+  This is how it is every time Aaron and I,  my wife, Aaron and I go to a Frisbee.
+  We look, we look at the theming and the theming is fun,  but that's only part of it.
+  The rest is like, what bizarre items do we have?  There was one time where we found like a refrigerator  that you could draw on.
+  Like you, I don't know, like you can write your note,  but we were just like, I don't know,  let's draw a little like cat pictures on this thing.
+  And then you'll open the fridge and there'll be something  in there that doesn't belong.
+  One time at my favorite fry, I'll go, I'll, I'll say now,  the best fries that I've been to,  maybe I won't even say which one it is,  but the most fun we had at fries was when we were perusing  refrigerators and then opened a fridge that had a Jake  Paul month calendar inside.
+  Why is it in the fridge?  What's happening?  And I think that same one,  there were a bunch of wine glasses that were branded  for Tempur-Pedic, like the mattress company.
+  Tempur-Pedic wine glasses.
+  Also, so many of the nine stores that I've been to  have had just empty shelf, empty shelf, empty shelf,  then huge full shelf teaming with Will Smith Genies.
+  Tons of Will Smith Genies.
+  The one I gave out at the live shows.
+  That one.
+  Yeah, yeah.
+  I didn't even put together, yeah, you didn't even realize  there was the fries connection there.
+  Yeah.
+  They have so many of these.
+  The last one we went into, we like hit all the butt,  their chest buttons at once.
+  They're all just like, you ain't never got it.
+  You ain't never had it, you ain't never, you ain't,  you could do shit like that.
+  Yeah.
+  You're playing with the toys.
+  They also, oh, bizarre magazines I wrote down  at the same, one of the fries I went to,  among the magazines they had,  Ukulele Magazine and then American Waterfowler.
+  This is where print media has come to have its last gas.
+  Waterfowler.
+  Like duck hunting, I guess.
+  Yeah, I was gonna say, is that what that is?  Like we're reviewing the new whistles for this year.
+  The new decoys.
+  I heard there's a new duck blind I wanted to check out.
+  So the book aisle was not what I was,  the book aisle was a mix of like sheet music books,  technical guides.
+  There's a lot of sheet music.
+  There may be like one or two non-fiction or fiction,  but like I don't.
+  We were in, when we were there for the music stand,  we were in the music area and there's like sheet music,  like two different types of Casio keyboards.
+  And then like.
+  John Kerry's reporting for duty or whatever.
+  Like some, there was definitely some like odd non-fiction  book that was like out of place.
+  Oh, I see, like, yeah, yeah.
+  I was gonna say profiles and courage.
+  Is that Obama's book?  General Wesley Clark's.
+  Profiles and Courage, I believe is John Kennedy's book.
+  What's the Obama one I'm thinking of?  Yeah, right, he writes too.
+  I can't remember.
+  This is where, yeah, if you're wondering where like,  there's like the Dennis Rodman's Bad As I Wanna Be book.
+  An original sitting there still from.
+  If you're a president's brother who wrote a children's book,  wondering where it was distributed.
+  Billy Carter's book, children's book.
+  There's also a lot of them that have,  you know, they have big signs that say compact discs.
+  You will no longer find any of those.
+  I will say, I recall as a kid that Fry's was a good place  to find CDs.
+  Really specifically, I remember Fry's carrying  the most obscure Beck album, Stereopathic Soulmanure.
+  Wow.
+  An album that is not even on Spotify today  that I think is a little hard to find.
+  I was a huge Beck fan and like, here, really?  Like it's like this album of oddities and like,  so they had like carry deep cut music at one point in time.
+  Now, it's mostly empty vinyl shelves.
+  Again, I'm glad I checked several.
+  Several Fry's had a bunch of very expensive vinyls  of mystical, wait, what's the song?  What's the ass song?  Shake your ass, watch yourself.
+  Watch yourself, yeah, yeah, yeah.
+  Like $20 vinyl of an album that is so old  that it has a guest appearance from Snoop Doggy Dog  as opposed to Snoop Dogg.
+  Well, they are their new,  because you know, they reprint these vinyls.
+  Yeah, I assume it was a reprint.
+  A reprint.
+  Why, who needs, I don't understand getting music  on vinyl from like 2000, because that was not the medium.
+  I can see getting a nice vinyl of Fleetwood Mac  where it's like, that's the medium it was distributed in,  but why would you want a vinyl of Baby One More Time?  That was never the way it was released.
+  Yes, it's a good point.
+  Maybe though you wanna hear Baby One More Time  with the little needle at the top and a little crackle.
+  Maybe that actually makes it special.
+  I don't know, I'm just-  It makes you feel like Britney,  you can imagine that Britney Spears was like Billie Holiday.
+  Yeah, maybe it's sort of that's the idea.
+  I don't know, I'm just guessing.
+  Not real music unless there's a crackle.
+  You got a little crackle and then it breaks.
+  You ever heard of this old, I forget,  you know, real Americana singer  and the name of Britney Spears?  Now, now, now.
+  Like that's better, I think.
+  The old lady dropped it in the water at the end.
+  That part on vinyl, that just really sparkles.
+  Oh yeah.
+  You feel like you're listening to a 60s comedy album.
+  It's very new art.
+  It was funny before, but now.
+  So yeah, look, it's a blast.
+  They're all a blast.
+  And I mean, especially the one,  if you're listening to this in the LA area,  you gotta go to the Burbank one,  go sit in the drive-in,  go make sure the Atomic Cafe doesn't go out of business.
+  I really love the Canoga Park one too.
+  But if you guys are down,  I'd like to go in reverse order of my favorites.
+  Yeah, yeah.
+  Well, counting down.
+  Like a Casey Kasem style countdown.
+  Yeah, yeah, yeah.
+  Although I don't have the number ready to go.
+  Now, actually, let me also say,  there's plenty that I haven't gotten to.
+  As I said, Southern California I've covered.
+  I haven't been to NorCal.
+  I haven't been to Texas.
+  There's a few of them there.
+  Oh my God, there's so many.
+  There's a ton.
+  There's so many.
+  I know some of the other themes.
+  Phoenix, it's an Aztec temple.
+  Tempe, Arizona.
+  It's golf.
+  Everything looks like golf holes.
+  Ancient Egypt, the Wild West, the Mayans.
+  Milton, Georgia.
+  The store's themed after the history of Milton, Georgia.
+  There was a Downers Grove one,  which I never even,  I don't think we ever went to in Illinois,  but that says regional history.
+  It was just about.
+  Now, that's where you gotta watch out.
+  Some of them, I have that in the category  of essentially themeless.
+  Fisher, Indiana.
+  Wilsonville, I'm not sure what state that's in.
+  Renton, Washington.
+  These are themeless and they are dead to me.
+  Yeah, if you look it up.
+  I do not care.
+  How dare you?  You should have tried like your brothers  in Austin, Texas or San Marcos, California.
+  Mike, also you were saying  before I get into the specific ones,  you brought up this piece of history  that they essentially merged with another store.
+  Yeah, so there was a company called Tandy who,  let me see here.
+  Many internal corporate philosophies at Disney theme parks  were borrowed by this company.
+  What?  Which they basically to boil down all of this information,  they opened up a crazy electronics store  called Incredible Universe.
+  Jason, did you see any of this?  No.
+  Incredible Universe is, and I'll show you the photo then.
+  Incredible Universe was like a fries,  but maybe even more ambitious.
+  There were McDonald's inside the Incredible Universe.
+  And let me show you, Jason, can you see that?  I don't have a big picture.
+  What time period are we talking here?  Mid 90s.
+  Yeah.
+  Oh, okay.
+  There were two test stores that were very profitable  and then they opened like 17 and it was just an insane flop.
+  Okay.
+  It went down so fast and they sold the couple  that were working two fries.
+  Yes, and one of the ones that I experienced  in the San Diego proper location,  I could tell used to be an Incredible Universe.
+  Right.
+  I was immersed in this stuff enough.
+  And that one had, let me remember, let me find the photo.
+  Oh yeah, that one you walk in and there's this huge marquee  that says the big show and a lot of real neon on it.
+  It's pretty jaw-dropping.
+  Another one that says music theater  and it's a neon sign that looks a lot like old Disney,  the neon armadillo.
+  Right.
+  And this one mostly was unthemed and mostly sucked,  but getting the vibe of Incredible Universe was exciting.
+  Incredible Universe also had daycare facilities for shoppers.
+  Whoa.
+  Huge showrooms for displaying and demonstrating products  and the Tandy company, which I was talking about,  eventually they bought Radio Shack.
+  Oh, okay.
+  That's why the Tandy kind of rings a bell to me.
+  Tandy.
+  And they have other holdings.
+  I think Incredible Universe also had like karaoke booths.
+  You could record your own CD inside the store.
+  Their pictures are, the pictures honestly look very similar  to like a Fuddruckers too.
+  Yeah.
+  Neon, as you were saying, like a lot of neon.
+  Clashy, too many aesthetics.
+  Yeah.
+  There's one I'm thinking of, have you seen it,  there's like an illustration of everything you can do in it  and it looks like Where's Waldo.
+  I don't think I have seen that.
+  There's so much to do.
+  Again, Brady Bunch and Sears,  you could go spend five hours potentially  at an Incredible Universe.
+  Yes, I admire the ambition.
+  Yeah.
+  But it is fucked up.
+  Clearly.
+  They don't have the staying power of the Fries franchise.
+  Oh, here it is.
+  It's like a drawn map, like a theme park map.
+  Yes, yeah, yeah.
+  Are there any details on that that you can note?  Yeah, it's a small machine.
+  I don't think I'm making up that you could do karaoke  in this store.
+  It's a small picture.
+  Let me see if I can find a bigger, oh, here it is.
+  Yeah, this is what it is.
+  I love the vibe of the picture.
+  Right?  It looks like a theme, but that looks like something  advertising, you know, Universal Florida.
+  Yeah, okay, it says, how about some popcorn or juji fruits?  In our home theater room,  you'll feel like you're at the movies.
+  These rooms are filled with all the best audio  and video technology,  so you can just sit down and experience the products.
+  There's an area here that says, game never over, dude.
+  And it's like arcade games.
+  Yes.
+  You feel like you would have hung out here all day.
+  Oh yeah.
+  Yeah.
+  Auto, oh, they had a place where they would install  stereo stuff into your car.
+  Sure, a lot of Best Buy's have that still.
+  All right, don't put it down.
+  Well, no, I'm just kidding.
+  Just kidding.
+  We can make, yeah, Scott's right, karaoke booth,  or I guess butcher their favorite songs  while starring in a music video.
+  What?  By the way, if some famous producer makes you a star,  we want our cut.
+  You see, you and your mom could have reprised  your crotch grab and duet.
+  Yeah, I was, yeah, they didn't open one,  I don't think, in Illinois.
+  Tandy ran Computer City too,  which was later sold to CompUSA.
+  I kinda remember Computer City.
+  I don't know if I do.
+  Or maybe it's just generic enough  that they all used to sound like this.
+  Everywhere used to be like these places.
+  Yeah.
+  Tandy had like Incredible Universe, Computer City,  The Edge in electronics, McDuff Electron,  like all of these chains that are just like nothing to us.
+  The people dedicated their lives to.
+  The Edge.
+  It's just dust to us.
+  It lives to The Edge.
+  There's a stage here in the drawing  where two cheerleaders are dancing.
+  What?  And there's a big video screen behind and it says,  where all the cool stuff happens,  this is where the giant screen display is  and the occasional live performance and prize giveaway.
+  And sometimes there's a clown running around  making balloon animals.
+  No, fuck off.
+  Get out of here.
+  No.
+  Cool.
+  Who knows what else?  Well, I'm pretty sure somebody actually does.
+  Very irreverent.
+  There's another moment in The Simpsons  in the episode where they go to the try and save  to get a photo.
+  And they're all,  Bart wants to get in and out of there  because it's where he like stole the video game.
+  Yes.
+  But all the Simpsons have things they wanna do.
+  And Marge says, we're gonna have a great time.
+  That's what these stores feel like.
+  Like the family is gonna hang for,  when does this happen anywhere in the world now?  The family's just gonna hang at a store.
+  Maybe like a new Whole Foods where you can like drink.
+  That's the only thing I can think of.
+  Yeah, that might be the more modern equivalent.
+  I mean, we used to go to,  there was a retail store called Venture in the Midwest.
+  I'm sure I've talked about on the show before.
+  I don't remember Venture.
+  Did you have Venture?  I don't think it was the West Coast.
+  We didn't have Venture, no.
+  Venture though, was where we went before Target was around.
+  Target didn't come in until I was maybe 10 or 11,  We had Jane's Way and Caldor,  like all these smaller scales.
+  What are those, James?  Caldor.
+  But we used to, we would go,  my grandmother would come over.
+  She had a discount on Wednesday's Adventure.
+  We would go and like eat a grilled cheese sandwich  at the tiny little cafe in Venture.
+  And they would sell like, they would have Ices,  cheap stale popcorn, and they would make you a grilled cheese.
+  So we would like make a little day or night of it,  whatever, I guess.
+  And yeah, I remember eating grilled cheese in a Venture.
+  It's where you would go,  so your parents could run some, get like some stuff.
+  And if you do enough,  if you get the kids walking around the store a bunch  and you get them some snacks,  then they will be tired when they go home.
+  They will like, it is a place to wear out children.
+  Strategy, yeah.
+  And every time you'd go to Venture,  there was a chance if I cried hard enough,  I could get a toy, because Venture had toys.
+  And I don't think I threw a fit every time,  but I did once in a while.
+  But I found some of the best Ninja Turtles in Venture.
+  That one of the greatest moments of my life  is finding April O'Neill figure.
+  I must have been five years old, five or six years old.
+  She was the hardest one to find.
+  They don't make as many female characters,  at least they didn't.
+  They probably have changed it a little bit.
+  Impossible to find.
+  I remember I'm walking down the aisle towards the checkout  and I'd already checked the Ninja Turtle aisle  and I looked and I saw a face down Ninja Turtle toy  and I had a feeling.
+  I could feel it in my stomach.
+  I could feel it.
+  And I turned it over and it was April  and I was so thrilled.
+  Like Venture from that point on, I think was extra magical.
+  So there has always been part of the retail tradition  in America.
+  I didn't realize Fry's was gonna open up this bigger thing  of how much I liked hanging out in stores.
+  Not any, some could, I have dreadful memories of like,  where we gotta go to Mervyn's, go to Mervyn's.
+  Some of them were so boring and it didn't help  when they named it Mervyn's California.
+  That didn't do anything to change the vibe.
+  You put a cool font on it, doesn't fool me.
+  Mervyn's California is still boring old Mervyn's.
+  But the right store where you could make a day of it,  I missed this a lot.
+  There's almost nowhere but, yeah.
+  The war, like the dark wood and the cafe smells of a board.
+  Like even the first few years I lived out here,  if I was, I would go to Borders, like.
+  Beautiful venture there.
+  Venture black and white, like zebra,  like diagonal zebra stripes.
+  Cause the Virgin Mega store.
+  Oh yeah.
+  Virgin Mega store is worth taking time out  of your Disney World trip.
+  What a treat, incredible.
+  I bought blood sugar sex magic there.
+  I missed, why don't, why aren't there listening stations now?  Why aren't there rows of 35 oddly nice headphones?  Fry's has headphone testing stations.
+  Cause I did do that.
+  Oh.
+  I bought some nice headphones a couple of years ago  and I did, I don't think I actually learned anything  from the ones I tried at Fry's.
+  But they did have them there.
+  They had them, they're carrying out the tradition.
+  They're carrying some of that.
+  Let me say something else that Fry's has,  and I've never seen this in person,  and I can't imagine when this ever occurs.
+  But in theory, on the right day,  and if there is an event going on,  you could say hello to your old friend, Charlie Chip.
+  We know him, Charlie Chip.
+  The mascot who is outside of all the Fry's,  he's on the signage.
+  He is a big yellow rectangular creature.
+  And no, he is not SpongeBob SquarePants.
+  He's not a sponge.
+  He is a computer chip, obviously.
+  And well, the store is themed,  also his costumes are themed.
+  I found the website of the place that made the suit.
+  So here he's a cowboy.
+  Here he's like the creature from the Black Lagoon.
+  He's an old prospector.
+  The old prospector is my favorite one.
+  Wow.
+  He's the Mad Hatter from my hometown one.
+  He's a rocker with a big triangle guitar.
+  He's in a train.
+  He's in a little conductor's uniform.
+  Charlie Choo Choo.
+  He's an Aztec guy.
+  Yeah.
+  I love Charlie Chip and he's a golfer, an astronaut.
+  He's had so many jobs.
+  Charlie Chip rules.
+  And Jason, if you weren't already endeared to him,  when I Googled image Charlie Chip,  look, save the date for a hot dog and a Pepsi for 50 cents.
+  50 cents, that's Costco prices, wow.
+  From Charlie Chip to you as he doffs his top hat  and his fancy uniform.
+  I love Charlie Chip.
+  There appears to be plush too.
+  What?  There appears to be a Charlie Chip plush.
+  I can't find it on eBay.
+  I don't know if they sold them in stores at one point,  but it does exist.
+  There's gonna be a lot of viewer homework.
+  So to our Facebook or Twitter,  if you've ever met Charlie Chip, please,  if you have a plush, send us a photo.
+  Look at Charlie Chip's plush.
+  Not to be confused with Charles Chips,  the chips that come in a tin can.
+  No, that's totally different.
+  I think my grandmother did have Charles Chips.
+  Charles Chips was my father.
+  I'm Charlie Chip.
+  Please, not Mr.
+ Chips  and not Charles Entertainment Cheese.
+  No.
+  There's plenty, there's a lot,  who also wears like a hat and a suit.
+  So that's all the big picture stuff.
+  I think maybe now I could kind of store by store it.
+  And I don't have a lot except for the final one,  my favorite one.
+  Also, if you're in the LA area,  you may have been to the Manhattan Beach location.
+  That one's nice.
+  It's like sort of like Island Hawaii themed.
+  And this one is nice because it has a little like  outdoor patio in the center of the store  with a little lake with a koi and turtles in it.
+  There's several fries that have creatures  that live in the fries.
+  They get to spend their entire life in the fries.
+  Lucky animals.
+  Yeah.
+  It's a great place to live.
+  It's covered in dirty hoses and pond skimmers.
+  There's like a really dusty bench  that doesn't seem made for anyone to sit in.
+  And if you did, it would shatter immediately.
+  When you're in this little like island zone,  you can see through the window behind shelves  and just see all the shit that's fallen back there.
+  See like old mist CDs that no one's removed.
+  And then once it fell in 98.
+  This was the fries where I noticed that some,  at least this fries sells pepper spray  out of an aisle where they loose,  they dubbed the larger category heat guns.
+  Can you buy a Taser at a fries?  I think maybe.
+  Maybe.
+  You'd have to call that a heat gun.
+  Like so cops, you know where to go.
+  I bet Charlie Chip has worn a cop uniform at some point.
+  Can you get a 3D printer that could print a plastic gun?  I don't think so because I think 3D printers are too new.
+  Too new.
+  So thank God they aren't participating  in this wave of 3D printer violence  that affects the solid.
+  That's good.
+  I was going up the list, Fountain Valley,  which is in Orange County off the four or five.
+  This one's named after ancient Rome.
+  So there's all kinds of marble statues in it,  beautiful statue work and those, you know,  like amazing murals.
+  It's all very well done.
+  Too much hubris for that one.
+  Too much metaphor.
+  The ancient Rome, like is there a neurofiddle?  Like, you know, that one is.
+  Doomed to fall.
+  Doomed to fall.
+  Now this is the fries where I discovered  that there is an item that we haven't talked about  that they sell and that is bizarre fragrances.
+  They, there are huge aisles where you could just wander  forever and look item by item at bizarre made in China  and seemingly named in China fragrances.
+  Allow me to read some of the names  that I've seen over the years.
+  Four Lady Classic.
+  Hello Pretty.
+  Gold number one.
+  Okay, so cool.
+  Most of that is in lowercase.
+  Okay, so cool.
+  Super army for man.
+  Man cool.
+  Best orange.
+  Bravery for man.
+  What?  Popular sport.
+  And that one did, I recall,  have a little football player silhouette on it.
+  Popular sport.
+  Popular sport.
+  If you're a football player looking for a fragrance  to sort of cover up your sweat, try popular sport.
+  Black Intense.
+  Bravo Extreme.
+  This one in all caps says, bros.
+  And then in smaller font, inspired by Hugo Boss.
+  It's not a Hugo Boss product.
+  No.
+  It's inspired by a company.
+  Inspired by.
+  How do you spell that?  Was it B-R-O-S-S?  B-R-O-S-S.
+  Bros?  Bros.
+  That's so unpleasant to hear.
+  Bros.
+  It's bros.
+  That's like, so could you sell RC Cola  and it says inspired by Pepsi?  Yeah.
+  Like that's allowed.
+  I guess you could.
+  In the ripoff game.
+  It's like when you see a generic product  in like a Target or something  and in real fine print it says like.
+  Check the ingredients.
+  Yeah.
+  Active ingredients similar to Advil or whatever.
+  Oh, it's like the generic from CVS or whatever.
+  They don't say inspired by Tylenol.
+  Like when you go to see the generic like Safeway cereal  and it's like magic gems  and then it doesn't say inspired by Lucky Charms.
+  Shorms.
+  Lucky Shorms.
+  Yeah, that's better equivalent obviously for this.
+  The.
+  Blessed Shorms.
+  Blessed Shorms.
+  Leprechaun's bounty.
+  For us, I mean, we could do this for all the cereals.
+  Flakes.
+  Floakes.
+  Floakes.
+  They're grr-okay.
+  Cheerios are like.
+  Cheerios.
+  Choro.
+  Chumios.
+  Not really like chums.
+  Two friends.
+  Fruit Loops.
+  Fruips.
+  Fruips, yeah, that's what you see.
+  Fruips is easy.
+  Count Chocula.
+  Chonk.
+  Chonk.
+  Chonk is good.
+  Yummy Mummy.
+  Yum.
+  Yummy Mummy's a real one.
+  Really?  Yeah, yeah, yeah.
+  Yummy Mummy's.
+  I was just laughing at Yummy Mummy.
+  You didn't see it's a funny name.
+  I think it does just honestly make me laugh.
+  Yummy Mummy.
+  What flavor is Yummy Mummy?  The same as the other Monster cereals essentially  except for Count Chocula.
+  Not like, and then we got Boo Berry too.
+  Boo Berry.
+  There's Fruit Brute as well.
+  Yummy Mummy and Fruit Brute are the lesser known  of the Monsters.
+  Which is the Frankenstein?  Frankenberry.
+  That's Frankenberry, oh right.
+  The three, the Trinity is Frankenberry,  Count Chocula, Boo Berry,  but then the lesser known are Yummy Mummy and Fruit Brute.
+  And of course the crunch back of Notre Dame.
+  That's very good.
+  Here I'm almost done.
+  Yeah, exactly.
+  777VIPMen, which for some reason  says under it, you are exalted.
+  What?  These are so bizarre.
+  And then one that is a perfect cologne  either for if you are this person  or if you're looking to snag a knight  with one of our, the biggest heroes  in Podcasts that Ride World, CEO Knight.
+  If you're looking for a cologne you can put on  to make a very special gentleman say hello.
+  Try CEO Knight.
+  Good day with Mr.
+ Eisner.
+  Okay, moving up the list, Vegas.
+  I'm happy to say the last time I was in Vegas  that we called a lift from the Flamingo Margaritaville  to Fry's Electronics.
+  What a day, living my best life.
+  How many minutes?  And I had a Landshark Lager loaded up  to enjoy the fries with.
+  How many minutes away?  It's pretty quick.
+  It's not that far from the strip.
+  And it's near the mall that has one of those weird,  which one, GameWorks or one of those odd arcade chains  that they didn't take off.
+  GameWorks or Dave and Busters, something like that.
+  I think it's a GameWorks.
+  Yeah, that's all I grew up with.
+  You pass by, if you're driving to Vegas from California,  you do see it right before you get to the strip.
+  Oh, yeah, I'm sure I've seen it.
+  I always wanted to do it every time.
+  Again, this podcast opened up now.
+  I can go, it's justified.
+  We went and had a great time.
+  It was bizarre to have to explain to Aaron's parents  who we were with, like, wait, what are you doing?  They went in the car.
+  They didn't, no, they didn't go with us.
+  But they just asked like,  so what are you guys up to today?  Well, you see, these electronic stores are so bad  that they are funny, you see.
+  Oh, you know what's something I forgot to say is that  I've always found it a little confusing,  the way the logo is where it says fries huge  and electronics really small.
+  And I think it's like above the-  It is above.
+  So I, for maybe over a decade,  called this place Electronic Fries.
+  I had it reversed.
+  And I, I mean, that works just as well,  but I think I said out loud a lot of times  without being corrected.
+  Yeah, can we go to Electronic Fries?  So the Vegas one, the inside,  there's not a lot to talk about  except for the potpourri in the projection booth.
+  But the outside's really nice.
+  It's a big slot machine.
+  The barricades that stop a truck  from driving into the store are big stacks of quarters.
+  That's a lot of fun.
+  And inside it's just like photos of Vegas history,  like Evil Knievel jumping over the mountain.
+  And a good way to have some fun off the strip  if you don't feel like firing guns  or the other stuff that people do during the day in Vegas.
+  Liberace.
+  I'd like to.
+  Would you go to Michael Jackson's house?  The Bazaar house, as Eva clarified.
+  A man takes you to, a man has champagne in his limo  and takes you to Michael Jackson's house.
+  Get in.
+  Oh.
+  I honestly am contemplating a quick jaunt  to go see Aerosmith in two weeks in Vegas.
+  Wait, now you saw the Grammys, did you not?  That's not their fault.
+  That was an audio mix problem.
+  What do you mean?  That was a mix problem, I believe.
+  Not a problem with the greatest rock and roll band  of all time.
+  What is, one episode you're telling me  that his skin looks perfect.
+  The next you're telling me  the Grammys performance wasn't their fault.
+  What is this Aerosmith defense?  I don't think that the performance was their fault.
+  I think they couldn't hear.
+  It was a real important though.
+  Were they on the rotating Lil Nas X stage  that I just missed?  There was a room, they forgot to go to that room.
+  How'd they go to the room?  Hey, they're banging on the door.
+  Come see us.
+  Mason Ramsey, the yodeling kid locked us in here.
+  The arrows also, going to see Aerosmith  is also if I can figure out,  if we can figure out a way to get free tickets.
+  Well, listeners.
+  Well, I'm not, there's a few things I'm exploring.
+  Oh, I see.
+  Yeah.
+  I'm writing a letter to Steven Tyler, handwritten.
+  I got his address.
+  I like how this is stationary.
+  Yeah.
+  Just real letter based now.
+  Claiming that you're his son.
+  It's another Liv Tyler situation.
+  Yeah, he just have to pay up.
+  He doesn't even want to go through it.
+  Two tickets will shut me up, sir.
+  You don't even have to meet me after.
+  Yeah.
+  Though I'd let ya.
+  Yeah, if you would drape a scarf  from your mic stand on to me during the performance.
+  Like it to bless me.
+  We'll ravel you up.
+  Yeah.
+  My next favorite one is the city of industry.
+  The theme is industry.
+  Yes.
+  Yes.
+  There's big gears.
+  There's huge bolts on the outside.
+  Yeah.
+  Wonderful.
+  And then inside there's like big 1800s tech.
+  It kind of looks like the journey  to the center of the earth ride.
+  It's very exciting.
+ Gears and steampunk.
+  Yeah, yeah.
+  If you're a steampunk and you want to do some like  cool photos, go check out the prize  and check out the city of industry in general.
+  This was one that had a great toy selection.
+  Toys that no child would ever want.
+  One that I saw was from a brand of toy called Yellies.
+  And the specific, I don't know what Yellies means.
+  I guess they make a sound if you touch them.
+  But the, I don't remember this.
+  I just took a photo that the specific Yellie  I was looking at was named Toofy Spooder.
+  So if you want to give your child a Toofy Spooder  and then have him like wait to see if then  you're just playing a prank  and you're going to give him the real toy.
+  I've looked up Yellies.
+  Fluffer Puff is one.
+  Yellies Peaks is one I believe.
+  Yellies Clutzers.
+  Yellies Clutzers, Toofy Spooder.
+  Bo Dangles is one.
+  Mr.
+ Bo Dangles.
+  Mr.
+ Bo Dangles.
+  Here's Toofy Spooder.
+  I see Toofy Spooder right here.
+  Only one left in stock, order now.
+  Yeah.
+  There's one child who's been brainwashed into thinking  what Kyle's movie Brigsby Bear he thinks.
+  Oh right, yes.
+  There's only one piece of entertainment  and it's Yellies and Toofy Spooder.
+  Toofy Spooder is the only character.
+  Parents are listening to this going like  you idiots, Yellies were like the tickle me  Elmo of last year, you morons.
+  People are so mad for not knowing Yellies.
+  You would know, the Toofies, I barely  survived the Toofy Spooder phenomenon of 2017.
+  Did we mention the?  Uncut Gems, there's a Toofy Spooder that's diamond encrusted.
+  I got a Toofy Spooder, it blinks.
+  I originated this shit.
+  Houston, Texas's entryway is oil derricks.
+  Oil.
+  There will be blood ass entryway.
+  Rach Ross Perot visited, he'd be so happy.
+  The Austin, Texas one is a huge piano.
+  It's for contributing the music scene there.
+  Not all the entrances are great and sometimes  there's a theme that's great beyond that.
+  We forgot to say about the Burbank one,  UFO crashing out of it.
+  Yes, very good.
+  This thing just belongs in City Walk.
+  Yeah.
+  It's total City Walk style.
+  Yeah.
+  They also had a toy in City of Industry called Pooperooz.
+  These are toys that poop prizes.
+  There's another little toy inside if you squeeze.
+  Let me look it up, Pooperooz.
+  Pooperooz.
+  I just found something called FurReal.
+  FurReal friends, Ricky, the trick loving interactive plush  pet toy.
+  Trick loving.
+  Sorry, what am I looking at?  Pooperooz.
+  Pooperooz.
+  P-O-O-P.
+  Not Toofy Spoodler.
+  Pooperooz is not Toofy Spoodler.
+  Toofy Spoodler is not a Pooperooz.
+  Toofy Spoodler is a Yelly.
+  Pooperooz, squishy surprise pooping pet and toy toilet.
+  Styles may vary.
+  Toilet.
+  Yeah, you can get a toilet with this character.
+  Look at, she's coming out of the toilet.
+  She lives in the toilet?  Jason, look.
+  She lives in the toilet.
+  Wow.
+  Pooperooz.
+  And just to be.
+  Mattel makes Pooperooz.
+  Whoa.
+  Oh, look at this.
+  This is a glammed up toilet.
+  This is a pink sparkly toilet.
+  Yeah, we got sparkles all over that thing.
+  My Jay Leno is my Sandler.
+  Yeah.
+  Yeah.
+  Mattel Pooperooz, squishy surprise pooping pet and toy  toilet assortment.
+  I want to clarify that, again, on these shelves  that there were as many Toofy Spooders and as many Pooperooz  as there were Will Smith genies.
+  Exactly the same amount of stock.
+  Oh, there's also a toy called Lockstars.
+  That is a toy where it's like locks that have faces.
+  What if your favorite locks came to life?  Lockstars.
+  Oh my god, no.
+  All right, Lockstars.
+  Lockstars.
+  We got to get all of these guys.
+  Not Rockstars, Lockstars, which is good.
+  All right, I've found.
+  I'm going to dunk all these in some CEO love or like,  gentlemen today or Mr.
+ Yes.
+  Big time number one.
+  Big time number one.
+  Pooperooz makes Lockstars.
+  Seven great times.
+  Midnight man.
+  Download the collector's list for Lockstars  from the Hasbro website.
+  So these are all like names.
+  Do the Lockstars have names?  That's what I'm looking for.
+  Oh yeah, please.
+  We got to know.
+  Oh, this is in a different language.
+  They're just locks.
+  List of, no.
+  There's definitely some angry bird times.
+  Teach your kid to love locks.
+  Yeah, that's a thing they need.
+  Locks and toilets.
+  Lockstars, I can't find their names.
+  Now I look forward to going to the bathroom  because I think I'm giving a gift to my favorite Pooperooz.
+  Pooperooz, it says also Pooperooz Surprise-arooz,  which are blind figures.
+  So you don't know what Pooperooz you're buying  and what toilet they come with.
+  The toilets are different.
+  This is a gold toilet.
+  Oh, and you scoop out their shit.
+  Okay, so here's what happens.
+  Sorry, what is a Pooperooz?  A Pooperooz lives in the toilet and shits?  Pooperooz lives, okay, so this is like a bunny Pooperooz  with a little pink wig on.
+  And then once you take the bunny out,  you take a little scooper and you clean up the bunny shit  from the gold toilet.
+  Gold toilet?  So like a Liberace toilet.
+  I guess he would have that  or he would have the pink sparkly toilet.
+  So the Pooperooz also poop.
+  Yes.
+  They are, they live in a toilet and probably eat poop,  but then poop out the poop as poop.
+  But one of those is a toilet with a face.
+  Is a toilet a Pooperooz  or is that just the housing of a Pooperooz?  I think it's the housing of a Pooperooz,  but the toilet is sentient and likes getting pooped in.
+  Nom nom nom.
+  So this is Pooperooz.
+  Like our droid invention, P-O-O-P.
+  Yes, like the droid, the bathroom droid  that we had Mace Windu take a shit in.
+  Pooperooz.
+ He says delicious.
+  He thinks you messed a Windu.
+  Family of whimsically cute squishy pooping pets.
+  This Pooperooz multipack  comes with two original Pooperooz figures,  a sheep and a dog and one surprise baby Pooperooz figure.
+  There are two possible baby figures for each set.
+  Unbox your Pooperooz family pack  to see which baby Pooperooz pet will be yours.
+  Includes a mini toilet that hides  two magical dissolving paper packages  with your Pooperooz pet baby themed foods inside.
+  Feed your Pooperooz pets, then squeeze to help them go.
+  Oh my God.
+  So they eat food, they shit in a special toilet  that is sentient that can talk and winks at you.
+  Nom nom nom.
+  And then you clean up the toilet.
+  So the toilet is not actually hooked up to plumbing.
+  You're the one who scoops it out as if it was cat litter.
+  Oh yeah, oh great.
+  So if you don't like that toilets  make their own poop go away with water  and you wish you could fish poop out of toilets.
+  Okay, here's a storage case for your Pooperooz.
+  In a briefcase?  Your toilet briefcase.
+  All right, yes, well I've been working very hard  on the presentation and I think you're going to  invest a lot in our company if I could just,  oh no, I took the Pooperoo briefcase.
+  My God damn son screwed me again.
+  I left it in a cab.
+  My toilet briefcase in a cab.
+  Moving on.
+  I'm sorry, I shouldn't have made this a drug deal  where there's three million dollars in a briefcase  but he took the Pooperooz.
+  Yeah that's.
+  All right Hasbro quarterly earnings call.
+  Moving on from the Star Wars unit.
+  Heading into the Pooperoo unit.
+  We're seeing record sales.
+  This is, I do like this a lot.
+  Get some Pooperooz.
+  So I may have to start getting some Pooperooz.
+  I cannot find the names of the lock stars but I don't know.
+  How would you name a lock star?  I'm Kenneth Key.
+  I'm Kenneth Keyhole.
+  There's no themes when you're dealing with locks.
+  Yeah.
+  There's no facets.
+  I'm a Connie combination.
+  Lock star names.
+  Mickey metal.
+  Mickey metal is pretty good.
+  This elsewhere, besides toys,  this particular fries had a price tag printing machine  that was just printing into oblivion with the tag.
+  Just a big ribbon of tag piling up.
+  I feel like maybe now it just is engulfed the entire store.
+  No one stops it.
+  If you open the door,  he would just get flooded by one single giant price tag ribbon.
+  And maybe most notably in the cool vinyl section,  this fries had a vinyl of the essential R Kelly.
+  Still, I checked the date.
+  This was the month after Surviving R Kelly aired  and they were featuring it huge.
+  Buy your R Kelly guys.
+  Load up before it's illegal to do this.
+  Yeah.
+  Incredible.
+  R Kelly right next to Toofy's, Spooders and Pooperoo's.
+  This is the place.
+  So that's my number three.
+  I'm down to two more.
+  Atlantis is the theme of my second favorite,  which is in San Marcos, California.
+  And I credit a listener to the show,  and forgive me, I don't recall your name offhand  if you're listening now,  but somebody after our Christmas show was like,  I know you guys wanna talk about fries.
+  You have to go check out the,  say this one, it's like near Carlsbad,  themed after Atlantis.
+  And in fact, it inspired a trip there.
+  And I took, like we ended up going to Coronado Island  with partially thinking,  oh, and then we can go see the remaining fries  for this episode.
+  Oh my God.
+  This one, yeah.
+  Oh yes.
+  This is a lot of information to get, isn't it?  This one, as I said, the rule of thumb is,  is there anything good in the entrance area?  When you walk into this store, there are two soldiers.
+  There are soldiers in the war for Atlantis.
+  They are like standing in tubes.
+  They're being preserved like by amniotic fluid  so that they can fight, protect Atlantis one day.
+  They look like storm troopers mixed with like  sea diver helmets, like old, like, you know,  20,000 leagues into the sea helmets.
+  And they have armor that is made of turtle shells  and scorpions.
+  Like this is like Atlantis world building.
+  They thought like, what would an Atlantis soldier uniform  look like?  Well, they'd protect themselves with big turtle shells.
+  That's awesome.
+  That's legitimately awesome.
+  That is great.
+  Yeah.
+  Then above you, you look and there's a huge chariot  made out of shells made out of like a big cone shell.
+  It looks like something King Triton would be in.
+  Again, this one, incredible art design.
+  It's so great.
+  The chandeliers are made of shells.
+  There's a language that they made up  like the Indiana Jones adventure.
+  Wow, really?  Yeah, I think so.
+  If you like, you can kind of read the English  if you look close, but if they had decoders like that, right.
+  A language in a store.
+  There's giant aquariums all over the thing.
+  And they say like the fries fish.
+  Thank you for not tapping on the wall.
+  There's like a, there's so many fish that live in this one.
+  This one has a little cafe with an aquarium window outside  and there are eels in it.
+  There's eels that live right outside.
+  I took a video where I just panned from an eel  over to a Pepsi machine that no one's taken a Pepsi from  in four months.
+  Wow.
+  But that's a cafe.
+  That's a cafe, yes.
+  There's a cafe in that one, okay.
+  Which I don't think is named anything fun  even though it's Atlantis.
+  But like, the set design in this one,  this one has like, forgive me,  I don't know the technical term,  but you know like the old electricity conductor  where it's kind of rabbit ears and then like,  zzzz, like single bolts are shooting up and out of it.
+  There's a couple of those that are huge  and plaques that tell you the history of those.
+  Some of this fries genuinely looks like a lower budget  Tokyo Disney Sea.
+  That is how it feels.
+  Yeah.
+  I can't even, we need to know who made these.
+  We have to figure that out.
+  Yeah, yeah.
+  Because they tried, they really tried.
+  They had to like, Atlantis doesn't write itself.
+  We don't really, there's no firm movie  that is the Atlantis movie and they figured it out.
+  I would wanna watch the movie that is like this store.
+  I'm gonna text Doug Barnes and see if he knows.
+  Good idea, yes.
+  Theme park insiders.
+  He might, yeah, yeah, yeah, yeah.
+  That's a very good call.
+  Also this one you can buy a flash drive  that looks like a minion.
+  Oh yeah, that's nice.
+  So that's fun and helpful.
+  Was it listener Beedy who told you about Fries  who gave us the record albums after Christmas?  Yes, yes, who gave us presents, yes.
+  Yes, very nice.
+  Okay, there you go, yeah.
+  Yeah.
+  Well, yeah, if you're listening.
+  Thank you, shout out again for those presents.
+  Thank you for inspiring a fun trip.
+  And yeah, this was what you were totally right.
+  It was totally worth making the trip for.
+  Yeah.
+  It was great.
+  This one's wonderful.
+  I went looking for pictures of this Fries  and found a message board for people  into something called Mermaiding.
+  And that appears to be living their lives  or being mermaid enthusiasts.
+  And well, this will keep me up,  but they seem very excited to find out  about the Atlantis Fries.
+  You Jesus.
+  Oh no.
+  It's like a place where they can go live.
+  Don't judge what, don't judge.
+  I think they're just gonna go hang.
+  I mean, I guess if I can support steampunks  taking photos of the industry one,  then I should be happy for the mermaid-ers.
+  Sure, mermaid-ers.
+  And if we're gonna support the pooperoo's  and all these other alternative lifestyles.
+  There's a ton of,  there's room for specific fetishists  within the fries community.
+  I assume, yeah, there's humans that are like,  kind of pooperoo's, like they're living,  like furry versions of pooperoo's,  where they poop in a toilet with a face  and then scoop it out  and don't send it to the sewer system.
+  I'm not a person, I'm a little pooperoo.
+  To play in the toilet all day.
+  Oh man.
+  We need to dress up as pooperoo's.
+  If Fries was really smart,  they would start catering to that market  and selling gigantic toilets  that people could live in and pretend to be pooperoo's.
+  And of course make them gold.
+  Each giant gold toilet costs $50,000.
+  The placement of the big aquarium in the Atlantis Fries  makes it seem like that is the brain trust.
+  Like this collection of coral and fish and eels are like,  this is, we must protect,  we must protect the brain trust, the council.
+  It's like the Citadel, yes.
+  That's where the Justice League lives.
+  Yeah.
+ Yes.
+  And so you'd cut to board meetings there  with like a Neptune guy and then a huge turtle who speaks.
+  They're going after the coral.
+  The coral wall won't be strong enough.
+  They'll chip away at it.
+  Just throw out the HD DVD players.
+  Blue Ray won that battle years ago.
+  We never know, it could come back around.
+  It's not going to come back around.
+  It's not like a laser discs or cassettes.
+  There's no enthusiast.
+  Silence.
+  And then a Triton guy like whips a big line of seaweed.
+  Watch.
+  I will not have this insolence here in the presentation room.
+  So that brings us to my absolute favorite one.
+  And counting down all the way to number one.
+  And we're finally here,  the number one of the themed fries countdown.
+  And they really had to bring it in the backyard  of Disneyland, Anaheim, California.
+  The pressure was on and they did not disappoint.
+  The Anaheim fries,  it's not going to sound like the greatest thing  once I say it, but it is like a NASA space station.
+  And it's just very well done.
+  There's big satellites.
+  It has cafe, canaveral,  where of course you could buy rock music themed smoothies.
+  There's like little toy space shuttles  that are going along tracks that just like go back and forth  and you can watch those for a while.
+  The theater is inside a huge space shuttle.
+  They have Apple think different posters still.
+  Classic.
+  This is the one where he opened a refrigerator  and a Jake Paul calendar was inside.
+  So, I mean, none of that sounds that great in and of itself,  but here is why it's my favorite fries.
+  There is a sign and the sign says,  launch your own space shuttle.
+  What are you talking about?  What does that mean?  Then you look under the sign and there is like  a giant half space command car.
+  I don't know spaceships well enough to describe,  but it's almost like just to the capsule parts  that the Apollo 13 astronauts have to land in  is the big triangular thing.
+  It's like one of those sliced down the middle  and there's a little set of stairs  and you can walk inside of it.
+  And it's a full console unit with like computers  and buttons that you can push.
+  I think it's a photo of Neil Armstrong.
+  And you go in there and like, wow, this is cool.
+  And then a little video starts.
+  And the video is, so it's just like kind of some like  space doodads, a little like asteroid shapes whizzing by.
+  And then a man appears in a little frame  and he's in an orange astronaut jumpsuit.
+  And he's very flat and pleasant, just like the most like,  you know, kind of by the numbers guy.
+  And he says, welcome to mission control.
+  We need you on our team.
+  Your role as our new flight director means  that you are directly in command  of today's space shuttle launch.
+  Our launch sequence has begun.
+  So prepare to press that red button  directly in front of you.
+  You turn and look, there is a red button  and it starts flashing.
+  Press the red button.
+  And we're like, what, what does this do?  And then we look around the bigger store  and the same video is playing on a huge screen  projected like over by the checkout aisle.
+  And now pressure is on.
+  What do you mean?  I have to launch the space shuttle myself.
+  You're like, you're not sure when to press it.
+  And then finally it starts telling you,  oh, okay, you press the red button.
+  And then you turn and you look  and you see a video of a spaceship launching  from a top of the Anaheim fries.
+  Specifically, it is the one that you are in  and you recognize it.
+  And then beautiful Apollo 13 music plays.
+  It's all very stirring.
+  There's a space launch and you did it.
+  You did it yourself.
+  It's very similar to Blue 32's alien spacecraft  taking off from the MGM Grand.
+  From the, yeah, composite it into the MGM Grand  where you are.
+  It's all so wonderful.
+  It's like an interactive experience.
+  They need you.
+  Let me play you a little bit of this video  just to get a sense of the guy  and just kind of the vibe of the graphics.
+  It's small where you guys are, but take a look.
+  Welcome to mission control.
+  We need you on our team.
+  Your role as our new flight director  means that you are directly in.
+  So I don't know who this guy is.
+  I don't know if he works in the store or something,  but it's, what this guy got to do essentially is my dream.
+  This is a pre-ride video  that plays in a really specific location  all day constantly on a loop.
+  And it can only be seen at the Anon Fros.
+  It feels so much like the Warbird and Soren intro  or something.
+  And I just love that this is there.
+  It's exactly my dream.
+  You go into some boring store  and there's a video that plays that is only there.
+  And the only thing I don't like about it  is that I'm not in it.
+  I am so jealous of this.
+  I want to be the flight,  the guy directing you to press the red button.
+  It would make me so happy.
+  There's no reason it should be me.
+  Why would it be me?  I'm not really an actor.
+  I didn't know the people making this at the time.
+  I don't know when it was made.
+  I don't know if it was made 15 years ago or two years ago,  but I really want to be in this video.
+  So here's what I did.
+  You put yourself in the video.
+  I put myself in the video.
+  Now allow me to explain what exactly I mean by that.
+  And I'll pull out the second screen  so that you guys can see.
+  What I'm about to show you.
+  Fries does seem like a place  that would still have a lot of ads  about the second screen experience.
+  A thing the media was trying to really catch on  eight or 10 years ago that did not stick.
+  It's happening with this  because we now, you the listener,  are gonna have to go to our Twitter  so that you can see a clip of this.
+  So what I'm gonna show you guys,  the clip that I just showed you of that fellow,  I have recreated to a T.
+  Oh my God.
+  Welcome to mission control.
+  I need you on our team.
+  Your role is our new flight director.
+  I'll let it play for a minute.
+  The man of today's space shuttle launch.
+  Our launch sequence has begun.
+  So prepare to press that red button  directly in front of you.
+  And proceed to mission STS-10.
+  Good luck.
+  And have a good flight.
+  So I rented a space suit to do this.
+  Wow, wow.
+  It happened to be once I got it and put it on  by just sheer coincidence,  the exact same space suit that he was wearing.
+  Really?  I don't know if it was rented from the same costume place  or if it's just a standard issue space suit costume,  but it was exactly it.
+  And I filmed this by myself  in front of green fabric in my apartment.
+  How long?  Wow.
+  How long, all of it to take to put together?  I'm not sure.
+  I've been shipping away at it slowly.
+  I filmed it a really long time ago.
+  Wow.
+  And then I've tried to prioritize, you know,  like actual work.
+  That would have generated a massive amount of income,  hopefully.
+  Or some income.
+  I've tried to do things that have not been  at a financial or time loss to me.
+  Yeah.
+  So it took me, but a month or so ago,  I picked it up and I recreate.
+  So we'll post a side by side,  but this is exactly the,  I do motion graphics too.
+  I recreated the frame and I tried to recreate the delivery.
+  I didn't like put a bunch of stank on it.
+  I even tried takes where I was a little more,  we need you and blah.
+  And then I realized, no, no, no,  I gotta be like that guy.
+  I have to do exactly what he did.
+  That's the charm of it.
+  Yeah, yes.
+  He's not showy.
+  He's not putting on some like sweaty performance  and that's what I tried to do as well.
+  So where does that leave us now?  What I now have to go do.
+  Yes, I'm sure I'm thinking the same thing,  but yes, continue.
+  I have this produced.
+  And I also, I didn't show you this,  but I have all of the components up  through the space launch part as well.
+  The opening logo with the Charlie chip.
+  I've been spending my time very wisely.
+  Wow.
+  This is a second gate episode too.
+  I, yes.
+  Spine the paywall.
+  I, the reason to do all of this is none.
+  It's just for my, you know.
+  Hey, I get it.
+  It's for my, I feel like I have an opening here.
+  Disney's not gonna put me in something.
+  Universal's not gonna put,  I don't think even a Bush Gardens  is gonna put me in a video.
+  Right.
+  This feels like my chance to give people instructions  in a specific place to do a specific thing  and be seen on a loop all day, every day.
+  But first I have to do one thing.
+  I have to go talk to someone at the Anaheim fries  and get them to play this.
+  Yes.
+  Now I don't know who that person is.
+  The website lists, you know,  an official general manager you can call.
+  I'm gonna, I'm just gonna go and suss it out  and see who I can talk to.
+  You, I'm trying to think here.
+  Is there any scenario where the manager  doesn't start hitting the panic button?  Like in a casino or a bank?  Well, you know, it's really, I mean, what,  so let's play this out.
+  I go in and you know, maybe important context  is that I've thought through like,  why would they just for no reason  take out the video that they already have?  And potentially, I don't know who that guy is  in the original one.
+  Right.
+  The employee could be like the CEO of fries.
+  I don't know.
+  Yeah.
+  So the stakes could be, yeah, I don't know.
+  I think it is an actual fry family.
+  So that guy could be a fry.
+  Right.
+  In which case, I don't think I have any chance  of overturning him.
+  No.
+  But if he's like a manager who perhaps even left in a huff  and was like a problem,  then maybe they've been looking to get rid of him.
+  I don't know.
+  I truly have no information on that.
+  What is your approach?  Are you gonna send a letter first?  Are you gonna go with person?  Are you gonna wear a suit?  Or just a shirt and tie?  Or casual?  Dear Mr.
+ McGruff.
+  I think, well, I think I'm gonna call,  I need to come up with a reason,  like what is the shorthand for why I need to speak  to the general manager?  I don't know that offhand.
+  I'll figure that out.
+  I'll just say, like, maybe I can say like,  I'm a vendor and I'm interested in,  no, I shouldn't say I'm trying to sell a product.
+  I don't really know.
+  That initial approach, I'm not totally sure.
+  But why does the store need to change out this video  and put me in it?  I'll tell you why.
+  The old version was not 4K HD,  which the new video is.
+  I finally, people have been begging for it.
+  I've finally taken the Anaheim launch sequence  and rendered it in the best format we have, 4K.
+  And this is an electronics store.
+  They need to be cutting edge, right?  They need this thing to be in 4K.
+  Is the TV monitor they're using 4K capable?  Probably not, no.
+  It's like, it's a projector  and then it's like a little tiny screen inside of a space.
+  But I still think it's gonna look sharper.
+  It's gonna look nicer.
+  So I just, because I'm a local and I'm a fan of the store,  just on spec, I wanted to recreate this presentation in 4K.
+  And because the original actor wasn't available to me,  I decided to step in for myself.
+  I recast the part.
+  I think that you should say all of that,  all the things you just said, all that information,  you should run into the fries yelling,  where is the manager with the computer open  and just start yelling that at the manager  and playing off of your computer.
+  I could add that I have a heat gun  that I purchased at a fries.
+  I would not yell I have a gun of any kind.
+  I would ease all my anger on the urgency.
+  The footage is 4K now,  but I didn't have the original actor.
+  So I pulled myself in the footage.
+  Take a look at the footage.
+  Let's do this now.
+  Let's go change out the footage.
+  Let's talk followers.
+  Here's the number of followers you have on the internet.
+  Here's the number I have.
+  I can boost the followers.
+  How many followers does Fries have on Twitter?  Let's flip that up.
+  I thought we were competing even.
+  I read that Fries, it took them a while  to get into the online game.
+  Yeah, their website has been weak.
+  Yeah, it's real bad.
+  Yes.
+  So I don't even know.
+  I don't see.
+  They don't have a fun snarky.
+  35.
+6K followers.
+  Damn it.
+  Yeah, but we had six that.
+  But they haven't posted since Black Friday.
+  Oh my God.
+  Oh my God.
+  Well, look, when we post this,  they're gonna see Twitter activity  like they haven't seen in forever.
+  That's true.
+  They're gonna be shocked at the numbers.
+  Just like when we gave Eisner the podcast, The Ride Bump.
+  Yes.
+  One of his most active tweets was our video.
+  Right.
+  And this video could do the same thing for Fries.
+  And we got acknowledged on the other one.
+  And I think we could get acknowledged here.
+  I think you're right.
+  Oh, some controversy in the replies.
+  Oh, at Fries?  Yeah.
+  Oh no.
+  Bernie Bros.
+  Fries Bros.
+  At Gravis Lizard says,  in case you missed it,  we now know why Fries Electronics is a ghost town.
+  They're trying to convert to a consignment model  because they can't or won't pay for merchandise.
+  Apparently this is what Best Buy and Walmart do.
+  And Fries vendors haven't bit yet.
+  And Fries replied,  Hi Gravis.
+  We are adding vendors every week and stock along with it.
+  We appreciate any patience and support  during this transition.
+  So, you know, I don't know what Axe,  this Gravis has to grind.
+  I don't know what his deal is, but.
+  They did respond.
+  He was a little negative and he got their attention.
+  But that was mid December  and it's been radio silence ever since,  even in the replies.
+  It's time to liven up the Twitter.
+  It's time to give their social media something to do.
+  Yes.
+  I don't want to do some approach that's angry.
+  I don't want people demanding that I be in the thing.
+  What I'm going to do, I'm going to post this.
+  And if you're listening to this  and you want to watch my video  and just comment something nice, like,  wow, cool vid.
+  Boy, people would flip out if they saw this.
+  Yeah.
+  Excellent work, astronaut sir.
+  Yeah.
+  Just say something nice and that like,  you enjoyed it and I seem cool.
+  Yeah.
+  And then they'll see so much positive reaction  and I'll have like a, you know,  like when a, how it's always a good idea  to cast somebody who's big on social media in a movie.
+  Yeah, yeah.
+  That's kind of what I'd be getting here.
+  It makes the movie better.
+  It always does.
+  And all of the followers, all,  if you put a Vine star in your movie,  all the followers are going to go see the movie, for sure.
+  And that's what I think could happen.
+  I think I could even propose that, you know,  I'm actually a host of a podcast  and we've got a pretty big following.
+  And I think I could promise,  and it's people who are often in Anaheim  going to Disneyland.
+  Right.
+  And I think I could promise that if we, you know,  say you did some kind of events to now, you know,  officially unveil the new video,  we could get probably a lot of our listeners to come  and spend some money in the store  to get some, to get a peachy Paul and mango  at Cafe Canaveral.
+  Or a broken USB fan.
+  Yeah.
+  Yeah, catering's taken care of.
+  Or, you know, get a,  buy a cologne called like,  the number one city gentleman.
+  Pooper, or a poopable.
+  What is it called?  The Poopadillies.
+  No.
+  Pooperooz.
+  Pooperooz.
+  I said Pooperooz.
+  But what was the first one?  The Yellies.
+  The Yellies.
+  The Yellies are not Pooperooz.
+  There's probably a cologne called like, Pooh opposite.
+  If you want to smell like the opposite of poo.
+  Right.
+  Good poo.
+  So go buy some Pooperooz, buy some Pooh opposite.
+  I think if there was gonna,  this is a great chance for them to do an event,  to drum up interest in the store.
+  I know the podcast thread fans are loyal and positive,  and you're gonna come see your old pal Scott  make his debut on the big screen.
+  He'll come out, right?  I can't wait to see you there.
+  I think they will.
+  And then we all, when this happens,  all of us together, what will we be doing?  We'll be having fun in a store together.
+  Yeah.
+  It's incredible universe and it's 1996 and we're having fun.
+  We're having a real experience in person.
+  We're living our fries story.
+  Right.
+ Wow.
+  There will be zero clowns though.
+  No clowns.
+  Unfortunately.
+  Yeah, yeah, yeah.
+  Unless I pay out of pocket for that.
+  And there are one of you guys who wants to dress up.
+  I'll dress up.
+  Oh, okay.
+  All right.
+  You and Jason will do it too.
+  Carlson the clown.
+  I mean, we could also invite an old friend named Choco, but.
+  No, wait a minute.
+  Okay.
+  Cancel the clowns.
+  No clowns.
+  I'll say this.
+  If the fries doesn't want to play ball,  I say, fuck them.
+  And we'll find a store that will play this video.
+  Will play this space.
+  So they don't have to be space themed.
+  Yeah.
+ It doesn't matter.
+  Yeah.
+  We'll find like a TJ Maxx with like a break room TV.
+  And that'll be enough, I think.
+  We'll get everyone out to the TJ Maxx.
+  Did you mean broken TV?  You feel like.
+  No, I meant break room TV.
+  Like a thing in the back that they wheel around  and they haven't upgraded that in 25 years.
+  Yeah.
+  That's fine.
+  Or play it on the, you know, the little TV  at a checkout counter at a supermarket.
+  I don't care.
+  Gas station radio network.
+  Yes.
+  That's always been a dream.
+  Gas station radio.
+  Yeah.
+  Why have we all just settled into  that it's only Seth Meyers clips?  Like we could be providing quality content  for gas station TVs all the time.
+  So what do you guys think I have a shot?  It's a good question.
+  I think that if you could get to someone  in the Fry's company that is interested  on a creative level.
+  If it's just the general manager,  I'm a bit skeptical that they're going to  even know how to do what you're proposing.
+  I don't know that they can even access the machine.
+  That's what I'm saying.
+  Yeah, that's a concern I have.
+  You may have to go up to a higher level  in the Fry's company.
+  Yeah.
+  Cause I would imagine this stuff breaks down  once in a while.
+  I mean, oftentimes it seems like they don't fix it.
+  So maybe they don't have a handy man to repair things.
+  Probably one guy works all the Fry's.
+  Yeah, one guy who works all the Fry's.
+  But if you can get some, I think maybe you shoot  for a higher level, you shoot for a Fry's PR even.
+  Yeah.
+  And you see if you can get in that way is because,  cause yes, going up to the general manager  who just wants to go home might be tough.
+  And it doesn't want to deal like somebody  who buys a television shows for networks.
+  All they want to do is not do any work.
+  Yes.
+  So they're going to pass immediately.
+  And it's exactly the same thing.
+  They want to be lazy.
+  They just want to like check who's working on Sunday.
+  Yeah, that could be trouble.
+  So maybe, yeah, maybe try to go up the corporate ladder  a little bit and don't feel, and look, I think, you know,  you don't have to be humble about this podcast.
+  Yeah.
+  Exaggerate.
+  Yeah, juice it up.
+  How many people listen?  Now's the time.
+  Yeah, we've said numbers that are like,  you can stretch things to where the number million is used.
+  We've had a million downloads in 2019, over.
+  Wow.
+  That's true.
+  You know, a million downloads in 2019.
+  So we could be looking at,  we get a million new shoppers for this.
+  Hey, you guys know that Wired magazine you sell?  Guess who's been in it.
+  Okay.
+  We've been in this.
+  This podcast has been featured in your own,  we've been in your store already.
+  Own magazine.
+  Right under your own noses.
+  We've been here.
+  We hope to someday sell vinyls.
+  Our music career is on the rise.
+  You still have that GQ-ish from two years ago  where we are in a list.
+  Could we just go to the owner of a fries  and like have a little USB drive and say like,  we're selling our podcast in fries now?  Well, if they're a consignment model,  at least consignment, you just put it on the shelf  and no one makes money until it sells.
+  Right, so that's what I'm saying.
+  So we could put like 10,  we'll put like the first year of podcast,  the ride on little drives.
+  That's a great idea with our logo.
+  Yeah.
+  Oh wow.
+  This is an angle no podcast is thinking of.
+  Yes.
+ Selling in stores.
+  It's like country music still sells CDs.
+  You gotta go to the right stores  and sell the physical media.
+  Wow, podcast the ride season four.
+  Right.
+  Yeah, wow.
+  You'll buy the seasons on the little flash drive.
+  This is where the like, which one's on?  Oh yeah, Hershey Park with Susser.
+  This is a classic season.
+  I gotta buy this one.
+  We could do commentary on the episodes,  we could do special features.
+  Interactive menus.
+  Interactive menus.
+  Second screen experience.
+  It's gonna be a real second screen experience.
+  The making of Scott's Anaheim launch video.
+  Yes.
+  Unused takes, outtakes,  moments where I was just cracking myself up.
+  Production notes.
+  And written notes.
+  Yeah, credits.
+  Read all of our,  I missed that from DVDs.
+  Read everyone's credits.
+  Oh yeah.
+  Jason Sheridan, the circle.
+  Yeah.
+  This is great.
+  Well, okay, so this is maybe even a bigger.
+  This is a saga.
+  And it's in and of itself.
+  Collectively have a bigger,  this could be the start of having a bigger presence.
+  Spaghet's the Ride could be the primary podcast  of Prize Electronics.
+  Yeah.
+  And it doesn't close tomorrow.
+  If they aren't entitled,  the Anaheim store might be closed  by the time this comes out.
+  We might want to put this out soon.
+  I also, yeah, maybe we should probably rush it.
+  I also, the last time I went to the store,  in order to film the exterior shots,  so I could do my new comp of the,  my 4K comp of the shuttle taking off.
+  The last time I went to the fries,  they were not playing this video.
+  So I could be up against the issue  of they don't do it anymore.
+  Yeah.
+  That's true.
+  Yes.
+  And again, I'm really worried about who this guy is.
+  Who was in it to begin with?  Right.
+  Who was in the heir to the Fry's fortune?  You would take it just being played once,  and then back to the regular person.
+  Absolutely.
+  Oh my God.
+  If we could say a time,  and all of my friends and family and listeners  are going to come and watch,  the pride that I would feel.
+  A pilgrimage.
+  Yeah.
+  To the Fry's Anaheim.
+  Right next to Disneyland.
+  Then everybody goes there after.
+  Right.
+  It's the best day we ever had.
+  And then we recreate a video,  a Disney ride video,  and see if we can sneak it on something.
+  Sure.
+  Yeah.
+  Well, that's that's step.
+  Yeah.
+  If we can get this one working.
+  We've met a few ride operators.
+  I wonder if anyone's like, you know,  there's just a VCR drive.
+  If I put it in there,  I could kind of switch a wire.
+  It's us.
+  We say one of us is saying high speed roller coaster type  ride in the dark.
+  No one notices.
+  Oh hell yeah.
+  I mean, that's good.
+  Wait a minute.
+  This video is too crisp.
+  This hasn't been played the 10,000 times.
+  Yeah.
+  Lost color as it's gone.
+  Okay.
+  So that look, that's my fries journey.
+  So now clearly fries two needs to happen.
+  Yes.
+  Because I need to begin this saga.
+  I need to see if I can successfully get this thing played  or if I don't.
+  Right.
+  You know, hopefully things go the way that we want it to.
+  Hopefully the stores don't close.
+  And in a perfect world,  we'll see you at the launch of fries launch,  fries Anaheim launch mission two.
+  Starring Scott Gardner.
+  Wow.
+  I can't imagine what would get in the way of this happening.
+  I can't wait to see you there.
+  Hopefully before the summer, hopefully it's in 2020.
+  This is a good goal to set for the year.
+  Yeah.
+  Sure.
+  Yeah.
+  Huh.
+  Yeah.
+  Figure out your carpools now.
+  Who are you going to ride with?  The store's going to be packed.
+  It's going to be, you know.
+  We have most people in a fries in 20 years.
+  In all of them.
+  By the way, that's the hardest thing to do.
+  I know.
+  I think 10 people would do it.
+  So we'll see you.
+  You survived podcast, the ride.
+  Thanks guys for walking down fries.
+  That's great.
+  Empty memory lanes.
+  There was too much in this episode, honestly.
+  It could, this could have been split in and of itself,  but now as I said, you guys help with my journey.
+  Go say nice things on the Twitter.
+  Let's get fries talking and see you at the launch.
+  Yeah.
+  Three, two, one.
