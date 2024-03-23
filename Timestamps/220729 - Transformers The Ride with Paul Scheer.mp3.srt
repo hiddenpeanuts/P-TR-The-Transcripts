@@ -1,0 +1,7420 @@
+1
+00:00:00,000 --> 00:00:05,000
+Forever, dog.
+
+2
+00:00:05,000 --> 00:00:09,000
+Warning, the following podcast is full of heated discussion,
+
+3
+00:00:09,000 --> 00:00:13,000
+heated wheel rubber, and hearts being heated up
+
+4
+00:00:13,000 --> 00:00:16,000
+after receiving warm praise from a robot.
+
+5
+00:00:16,000 --> 00:00:19,000
+Basically, things get heated as Paul Scheer returns
+
+6
+00:00:19,000 --> 00:00:25,000
+to talk Transformers the Ride 3D on today's podcast, The Ride.
+
+7
+00:00:30,000 --> 00:00:49,000
+Welcome to Podcast The Ride, the theme park podcast
+
+8
+00:00:49,000 --> 00:00:54,000
+where it takes a 30-foot tall robot to conquer our fear of intimacy.
+
+9
+00:00:54,000 --> 00:00:57,000
+I'm Scott Gardner, joined by Jason Sheridan.
+
+10
+00:00:57,000 --> 00:01:00,000
+As you started that sentence, I was like,
+
+11
+00:01:00,000 --> 00:01:02,000
+is he going to say intimacy?
+
+12
+00:01:02,000 --> 00:01:05,000
+Because that's what I would say, fear of intimacy.
+
+13
+00:01:05,000 --> 00:01:09,000
+Well, it's one of the big areas of conversation today for a big ride,
+
+14
+00:01:09,000 --> 00:01:13,000
+and that was a joke mainly aimed at Mike Carlson, host number three.
+
+15
+00:01:13,000 --> 00:01:17,000
+Yeah, I think this is...correct me if I'm wrong, listeners,
+
+16
+00:01:17,000 --> 00:01:20,000
+but the idea of intimacy on a ride started from a discussion
+
+17
+00:01:20,000 --> 00:01:23,000
+of this particular theme park attraction.
+
+18
+00:01:23,000 --> 00:01:24,000
+No question.
+
+19
+00:01:24,000 --> 00:01:25,000
+Yeah.
+
+20
+00:01:25,000 --> 00:01:26,000
+Yes.
+
+21
+00:01:26,000 --> 00:01:28,000
+Which is something we're going to have to loop our guest.
+
+22
+00:01:28,000 --> 00:01:33,000
+There's a lot of like mythology, tons of mythology happening.
+
+23
+00:01:33,000 --> 00:01:36,000
+That's what I was thinking about with this topic.
+
+24
+00:01:36,000 --> 00:01:40,000
+This is a ride that has had a vice grip on this podcast
+
+25
+00:01:40,000 --> 00:01:43,000
+since the very beginning.
+
+26
+00:01:43,000 --> 00:01:47,000
+Some of the hottest takes, some of the longest running debates.
+
+27
+00:01:47,000 --> 00:01:52,000
+It has just always been a presence despite not having an episode of its own
+
+28
+00:01:52,000 --> 00:01:53,000
+until now.
+
+29
+00:01:53,000 --> 00:01:56,000
+The name of this ride is Transformers the Ride.
+
+30
+00:01:56,000 --> 00:02:02,000
+It is at Universal Studios Parks Worldwide, Hollywood, Orlando, and the others.
+
+31
+00:02:02,000 --> 00:02:05,000
+And we're here. We're here to do it.
+
+32
+00:02:05,000 --> 00:02:08,000
+And I think that we needed not just a big guest,
+
+33
+00:02:08,000 --> 00:02:11,000
+but somebody who can sort of like...what's the word?
+
+34
+00:02:11,000 --> 00:02:12,000
+Mediator?
+
+35
+00:02:12,000 --> 00:02:14,000
+Yeah, or arbitrary. Mediator is correct.
+
+36
+00:02:14,000 --> 00:02:17,000
+Because there's so much here to go over.
+
+37
+00:02:17,000 --> 00:02:20,000
+We need an outsider to help us parse all of it,
+
+38
+00:02:20,000 --> 00:02:21,000
+but of course not an outsider.
+
+39
+00:02:21,000 --> 00:02:25,000
+He's joined us many times, but for the first time in a long time
+
+40
+00:02:25,000 --> 00:02:28,000
+from how did this get made from his Twitch channel Friend Zone,
+
+41
+00:02:28,000 --> 00:02:32,000
+the optimist prime of comedy podcasting, it's Paul Scheer.
+
+42
+00:02:32,000 --> 00:02:33,000
+Hi, Paul.
+
+43
+00:02:33,000 --> 00:02:40,000
+I am honored to really be blessed with this episode.
+
+44
+00:02:40,000 --> 00:02:42,000
+This is an important episode.
+
+45
+00:02:42,000 --> 00:02:46,000
+And it is, you know, for me, a ride that I have a lot of opinions on,
+
+46
+00:02:46,000 --> 00:02:48,000
+a lot of theories about.
+
+47
+00:02:48,000 --> 00:02:50,000
+And I can't wait.
+
+48
+00:02:50,000 --> 00:02:54,000
+I don't even want to give you an idea of what I think about this
+
+49
+00:02:54,000 --> 00:02:56,000
+until the conversation really starts,
+
+50
+00:02:56,000 --> 00:02:58,000
+because I know where some of you fall on this.
+
+51
+00:02:58,000 --> 00:03:01,000
+So I would like to, you know, I'd like to...
+
+52
+00:03:01,000 --> 00:03:04,000
+I don't want to sway the boat either way
+
+53
+00:03:04,000 --> 00:03:06,000
+before the conversation properly gets started.
+
+54
+00:03:06,000 --> 00:03:07,000
+Yeah, yeah, I know.
+
+55
+00:03:07,000 --> 00:03:10,000
+Like, neither...we shouldn't all tip it too much.
+
+56
+00:03:10,000 --> 00:03:14,000
+And I hope that's not what I'm doing by just by diving into this.
+
+57
+00:03:14,000 --> 00:03:16,000
+But there...look, I'm so excited, Paul,
+
+58
+00:03:16,000 --> 00:03:19,000
+that you could join us for Transformers specifically,
+
+59
+00:03:19,000 --> 00:03:23,000
+because in my mind, you were the only guest who could do it,
+
+60
+00:03:23,000 --> 00:03:25,000
+because there's a bit of a history here.
+
+61
+00:03:25,000 --> 00:03:28,000
+And I don't know if you recall the history.
+
+62
+00:03:28,000 --> 00:03:31,000
+And I'm going to open a wound, but I'd say it's mainly a wound for me.
+
+63
+00:03:31,000 --> 00:03:33,000
+I think this is my wound.
+
+64
+00:03:33,000 --> 00:03:35,000
+I don't know if you know what I'm talking about.
+
+65
+00:03:35,000 --> 00:03:36,000
+I think I do.
+
+66
+00:03:36,000 --> 00:03:38,000
+And I want to hear it...
+
+67
+00:03:38,000 --> 00:03:40,000
+I want to hear it, like, maybe from a different perspective.
+
+68
+00:03:40,000 --> 00:03:42,000
+And that's really where I think...
+
+69
+00:03:42,000 --> 00:03:44,000
+I don't think I could explain it to someone else.
+
+70
+00:03:44,000 --> 00:03:47,000
+So I think that I understand it in my heart.
+
+71
+00:03:47,000 --> 00:03:49,000
+Yeah, let's rush him on this shit.
+
+72
+00:03:49,000 --> 00:03:51,000
+Yeah, yeah, yeah.
+
+73
+00:03:51,000 --> 00:03:54,000
+And I'd be curious to hear it from yours, too,
+
+74
+00:03:54,000 --> 00:03:56,000
+and how you had to discover this.
+
+75
+00:03:56,000 --> 00:04:00,000
+It really goes to the roots of Podcast The Ride, the very beginning.
+
+76
+00:04:00,000 --> 00:04:03,000
+And actually, even before that, it goes back to the Dough Boys,
+
+77
+00:04:03,000 --> 00:04:06,000
+to your first appearance on The Dough Boys, whenever this was.
+
+78
+00:04:06,000 --> 00:04:09,000
+The episode was Bubba Gumps, I believe.
+
+79
+00:04:09,000 --> 00:04:10,000
+Yes, yeah.
+
+80
+00:04:10,000 --> 00:04:15,000
+So you were on Dough Boys, and in my memory...
+
+81
+00:04:15,000 --> 00:04:18,000
+And let me italicize that in my notes.
+
+82
+00:04:18,000 --> 00:04:20,000
+And so let me italicize that out loud.
+
+83
+00:04:20,000 --> 00:04:22,000
+This is in my memory.
+
+84
+00:04:22,000 --> 00:04:26,000
+What you had said, what I thought you had said about Transformers The Ride,
+
+85
+00:04:26,000 --> 00:04:28,000
+is that it was your favorite ride.
+
+86
+00:04:28,000 --> 00:04:30,000
+This is what I thought.
+
+87
+00:04:30,000 --> 00:04:35,000
+Well, let's date it of when I said it.
+
+88
+00:04:35,000 --> 00:04:38,000
+2017, unless I'm wrong?
+
+89
+00:04:38,000 --> 00:04:46,000
+Let's just say it's pre-Star Wars, it's pre-Rise, it's pre-Spiderman The Ride.
+
+90
+00:04:46,000 --> 00:04:51,000
+It is, and I believe, the way that I said it.
+
+91
+00:04:51,000 --> 00:04:56,000
+And again, maybe I didn't use it to all, you know, whatever.
+
+92
+00:04:56,000 --> 00:04:58,000
+I'm not trying to step back from it.
+
+93
+00:04:58,000 --> 00:05:00,000
+But I did believe at that point,
+
+94
+00:05:00,000 --> 00:05:06,000
+it is one of the most technologically advanced best rides, hands down.
+
+95
+00:05:06,000 --> 00:05:07,000
+That's how I always felt.
+
+96
+00:05:07,000 --> 00:05:12,000
+That, to me, was the evolution of the perfect ride,
+
+97
+00:05:12,000 --> 00:05:16,000
+because it had 3D elements, it was moving through on a track,
+
+98
+00:05:16,000 --> 00:05:22,000
+but it also used screens, it wasn't exclusively screen-based.
+
+99
+00:05:22,000 --> 00:05:25,000
+So I felt like there were a lot of elements.
+
+100
+00:05:25,000 --> 00:05:26,000
+I was like, more of that.
+
+101
+00:05:26,000 --> 00:05:30,000
+And that is coming off of my belief before that,
+
+102
+00:05:30,000 --> 00:05:32,000
+that from Islands of Adventure,
+
+103
+00:05:32,000 --> 00:05:37,000
+Spider-Man The Ride was my favorite new class of ride.
+
+104
+00:05:37,000 --> 00:05:39,000
+Again, I'm talking about new class of ride.
+
+105
+00:05:39,000 --> 00:05:42,000
+Not like the best ride, my favorite ride,
+
+106
+00:05:42,000 --> 00:05:46,000
+but if that's the future, I want to be on that.
+
+107
+00:05:46,000 --> 00:05:50,000
+I want to see more track rides that involve a lot of things.
+
+108
+00:05:50,000 --> 00:05:54,000
+Now, we're going to have a different conversation because of Rise.
+
+109
+00:05:54,000 --> 00:05:59,000
+I've been to Japan to go on some rides there.
+
+110
+00:05:59,000 --> 00:06:00,000
+I've had some different experiences.
+
+111
+00:06:00,000 --> 00:06:01,000
+That's pretty bad.
+
+112
+00:06:01,000 --> 00:06:05,000
+The evolution of the ride has grown, but I have some theories.
+
+113
+00:06:05,000 --> 00:06:09,000
+But yes, I would say you're pretty right.
+
+114
+00:06:09,000 --> 00:06:11,000
+I wasn't saying it wasn't like...
+
+115
+00:06:11,000 --> 00:06:14,000
+Mr. Toad's might be my go-to answer for that.
+
+116
+00:06:14,000 --> 00:06:17,000
+Or like Haunted Mansion in the grand scheme of things.
+
+117
+00:06:17,000 --> 00:06:20,000
+But that's not talking about personal connection.
+
+118
+00:06:20,000 --> 00:06:22,000
+This is more from a technological standpoint.
+
+119
+00:06:22,000 --> 00:06:25,000
+Great. It's what's blowing you away right then and there.
+
+120
+00:06:25,000 --> 00:06:29,000
+And I absolutely agree from a technical standpoint, it is incredible.
+
+121
+00:06:29,000 --> 00:06:32,000
+It is a perfectly valid answer.
+
+122
+00:06:32,000 --> 00:06:37,000
+Again, the shame is on me here because what I recalled was you saying
+
+123
+00:06:37,000 --> 00:06:40,000
+it is definitively your favorite ride or the best ride
+
+124
+00:06:40,000 --> 00:06:43,000
+or something definitive like that.
+
+125
+00:06:43,000 --> 00:06:46,000
+And then we start recording our show.
+
+126
+00:06:46,000 --> 00:06:49,000
+And one of the first episodes, I don't remember what, maybe it was with Mitch,
+
+127
+00:06:49,000 --> 00:06:51,000
+but I think this conversation came up.
+
+128
+00:06:51,000 --> 00:06:55,000
+And I, in the episode, say, oh yeah, I remember Paul saying that.
+
+129
+00:06:55,000 --> 00:06:57,000
+Like, oh boy, I don't know about that.
+
+130
+00:06:57,000 --> 00:07:03,000
+I was all shitty and snarky, dismissive about that opinion.
+
+131
+00:07:03,000 --> 00:07:06,000
+And then I filed that away, put it in a drawer,
+
+132
+00:07:06,000 --> 00:07:09,000
+forgot that anyone would hear this ever.
+
+133
+00:07:09,000 --> 00:07:12,000
+Because this I believe was before the show started coming out.
+
+134
+00:07:12,000 --> 00:07:17,000
+So I'm like, oh no, certainly no one will ever hear that, let alone Paul himself.
+
+135
+00:07:17,000 --> 00:07:23,000
+Then I think as soon as the episode comes out, you DM me and say,
+
+136
+00:07:23,000 --> 00:07:28,000
+I feel like I must have had a caveat for saying Transformers is the best ride.
+
+137
+00:07:28,000 --> 00:07:30,000
+So there it is. So yeah, there it is.
+
+138
+00:07:30,000 --> 00:07:33,000
+And then I just gave you the exact same response.
+
+139
+00:07:33,000 --> 00:07:36,000
+Yes, yes, completely. It's very consistent.
+
+140
+00:07:36,000 --> 00:07:40,000
+So I at this point go beet red because two things are happening.
+
+141
+00:07:40,000 --> 00:07:43,000
+One, I'm very excited that you are listening to the show.
+
+142
+00:07:43,000 --> 00:07:47,000
+Ideal person. We are so honored and have always been honored to have you involved in the show.
+
+143
+00:07:47,000 --> 00:07:49,000
+And so that's great.
+
+144
+00:07:49,000 --> 00:07:57,000
+So Paul's listening and he heard me being shitty about a perfectly valid opinion and getting it a little wrong.
+
+145
+00:07:57,000 --> 00:08:00,000
+So this is a thing that I felt bad about for five years.
+
+146
+00:08:00,000 --> 00:08:02,000
+You probably forgot about it entirely. I have not.
+
+147
+00:08:02,000 --> 00:08:04,000
+This has been right.
+
+148
+00:08:04,000 --> 00:08:07,000
+100 percent. I mean, I've been on the show multiple times.
+
+149
+00:08:07,000 --> 00:08:10,000
+We've seen each other socially. No, I don't care.
+
+150
+00:08:10,000 --> 00:08:12,000
+Look, we skydive together.
+
+151
+00:08:12,000 --> 00:08:16,000
+That's a brotherhood that you can't undo when you indoor sky together.
+
+152
+00:08:16,000 --> 00:08:18,000
+We fly together. I fly.
+
+153
+00:08:18,000 --> 00:08:21,000
+Brotherhood of fake flying. City walk. Yes.
+
+154
+00:08:21,000 --> 00:08:24,000
+All I'll say is this.
+
+155
+00:08:24,000 --> 00:08:35,000
+If anyone was going to give me shit about my theme park opinions, I welcome it from the three of you.
+
+156
+00:08:35,000 --> 00:08:37,000
+Like here. Here. Thank you.
+
+157
+00:08:37,000 --> 00:08:41,000
+I take me to task. I will have a defense for it.
+
+158
+00:08:41,000 --> 00:08:49,000
+I will. But I don't you know, I appreciate a theme park in and you know, we've we've been there.
+
+159
+00:08:49,000 --> 00:08:53,000
+We've been there on the opening day of Rise of the Resistance.
+
+160
+00:08:53,000 --> 00:08:55,000
+We have done it. We've like I'm there.
+
+161
+00:08:55,000 --> 00:08:57,000
+I'm not I'm not a fair weather fan.
+
+162
+00:08:57,000 --> 00:09:01,000
+I'm not a person who's like, oh, when I was a kid, I liked it or I like bringing my kids to it.
+
+163
+00:09:01,000 --> 00:09:06,000
+No, I'm there. But I will take I will take my lumps.
+
+164
+00:09:06,000 --> 00:09:12,000
+And if properly given and I feel like I just wanted to make sure that you knew it didn't think less of me.
+
+165
+00:09:12,000 --> 00:09:20,000
+Not not remotely and especially because again, these are my lumps to get because I went and listened to the episode in question.
+
+166
+00:09:20,000 --> 00:09:23,000
+And you do in fact say this is not best. This is not definitive.
+
+167
+00:09:23,000 --> 00:09:31,000
+What you are what is posed to you is to make a mount theme park more and to put different attractions on the mount theme park.
+
+168
+00:09:31,000 --> 00:09:33,000
+And Transformers is the first thing out of your mouth.
+
+169
+00:09:33,000 --> 00:09:36,000
+That's what's like exciting you right now. But you get you say, Mr.
+
+170
+00:09:36,000 --> 00:09:39,000
+Toad, you say Goliath, I believe at Six Flags.
+
+171
+00:09:39,000 --> 00:09:44,000
+OK, it's a healthy and in a list of four, this is it is not what I defined it as.
+
+172
+00:09:44,000 --> 00:09:47,000
+And even if it was, why should that be a problem?
+
+173
+00:09:47,000 --> 00:09:50,000
+Although this is interesting because that's that. Wow.
+
+174
+00:09:50,000 --> 00:09:54,000
+It's I don't even remember that. But now that you bring it up, what did it?
+
+175
+00:09:54,000 --> 00:09:59,000
+First of all, I will say this again when it was recorded, we got to put that into context.
+
+176
+00:09:59,000 --> 00:10:06,000
+But secondly, where it was recorded or where our food was eaten, which was Universal City Walk.
+
+177
+00:10:06,000 --> 00:10:11,000
+So I'm also coming off of Bubba Gump. That's where we're there.
+
+178
+00:10:11,000 --> 00:10:15,000
+You know, I'm thinking about things of of that nature.
+
+179
+00:10:15,000 --> 00:10:24,000
+I will also say, you know, truth be told, I find Universal Theme Park rides to be lackluster.
+
+180
+00:10:24,000 --> 00:10:28,000
+And in an effort to throw a bone.
+
+181
+00:10:28,000 --> 00:10:32,000
+That's where that's where I threw it. That's where I threw it to that ride.
+
+182
+00:10:32,000 --> 00:10:36,000
+And again, I still feel very strongly about that ride. I really like that ride a lot.
+
+183
+00:10:36,000 --> 00:10:44,000
+But if I'm trying to be equal in creating this Mount Rushmore, I don't want to just be I don't want to be one corporation.
+
+184
+00:10:44,000 --> 00:10:48,000
+I want to spread it around multiple corporations. That's why Goliath makes the list.
+
+185
+00:10:48,000 --> 00:10:51,000
+Yeah, you really did. You did your due diligence. They all they all got on there.
+
+186
+00:10:52,000 --> 00:11:03,000
+They all got on the mount. I should also say just for the record in listening to the conversation that continued that you and Mitch go on the record as not liking the Johnny Depp robot while Weiger defends it.
+
+187
+00:11:03,000 --> 00:11:08,000
+So I just want to know while we're digging through old podcast episodes.
+
+188
+00:11:08,000 --> 00:11:14,000
+I remember the date. Yes, this is important.
+
+189
+00:11:14,000 --> 00:11:24,000
+And look, and I'll say this, regardless of how I feel about Johnny Depp, I still feel the same way about the animatronic in the sense that it dates it.
+
+190
+00:11:24,000 --> 00:11:32,000
+Like, and the one thing that Disney has with very few rides is a timelessness to it.
+
+191
+00:11:32,000 --> 00:11:40,000
+And all of a sudden you're popping in, you know, a at one point a worldwide giant celebrity.
+
+192
+00:11:40,000 --> 00:11:44,000
+I felt it cheapens it. It cheapens it a bit like, do we need it?
+
+193
+00:11:44,000 --> 00:11:48,000
+Do we do we need to know that that's a Jack Sparrow adventure? I don't think so.
+
+194
+00:11:48,000 --> 00:11:56,000
+No, I mean, now, meanwhile, you put the Kraken in there, you're whatever the hell that the squid face guy, I'm all in for that because that is timeless.
+
+195
+00:11:56,000 --> 00:12:01,000
+Good face guy is timeless to me. That feels more more universal.
+
+196
+00:12:01,000 --> 00:12:05,000
+That's a piratey kind of a thing. Well, I'm not tied to like one guy.
+
+197
+00:12:05,000 --> 00:12:12,000
+I think it's tricky when you get into one actor because it does rely on that actor not being like, you know, weird.
+
+198
+00:12:12,000 --> 00:12:16,000
+What could happen? What could happen? What could happen?
+
+199
+00:12:16,000 --> 00:12:23,000
+Yeah, I would say if we're going to go on a larger scale conversation, is pirates the cursed ride?
+
+200
+00:12:23,000 --> 00:12:34,000
+I mean, you know, we go from this idea that, you know, it's the one that's been the most revamped and changed and at a certain point wasn't even going to be in Florida.
+
+201
+00:12:34,000 --> 00:12:36,000
+But, you know, people like we want that pirates ride.
+
+202
+00:12:36,000 --> 00:12:46,000
+We were we were going to build this like kind of larger in the mountain coaster that was going to take us through more problematic areas of our history of the United States.
+
+203
+00:12:46,000 --> 00:12:52,000
+But, you know, but but that there is a curse nature to the pirates, right?
+
+204
+00:12:52,000 --> 00:13:00,000
+That's interesting. The most. Yeah, it does keep running into and curses of like accidents and the water being toxic.
+
+205
+00:13:00,000 --> 00:13:02,000
+There's like all kinds of level of curse.
+
+206
+00:13:02,000 --> 00:13:06,000
+Yeah, overloaded now and then like way too many boats.
+
+207
+00:13:06,000 --> 00:13:10,000
+So like the end of the ride, you're just getting slammed by the boat behind you.
+
+208
+00:13:10,000 --> 00:13:14,000
+The worst. Yeah, the Black Pearl was cursed and the ride was cursed.
+
+209
+00:13:14,000 --> 00:13:16,000
+Yeah. Okay.
+
+210
+00:13:16,000 --> 00:13:20,000
+Now, let me say that because there's a little bit more that comes out of this.
+
+211
+00:13:20,000 --> 00:13:23,000
+I'm very excited that we're going to the tape. We're going deep.
+
+212
+00:13:23,000 --> 00:13:24,000
+Yeah. Okay.
+
+213
+00:13:24,000 --> 00:13:35,000
+Okay. Yeah, this is to go into the archaeology of the DM's a little more here is now as we as we patch up old wounds and thank you for making me feel better about my early episode.
+
+214
+00:13:35,000 --> 00:13:39,000
+Yeah, never feel badly about that. I wish you would have would approach me sooner.
+
+215
+00:13:39,000 --> 00:13:40,000
+Oh, geez. Okay.
+
+216
+00:13:40,000 --> 00:13:44,000
+Glad it's glad it's out in the open. But now I'm worried. But I think we have to.
+
+217
+00:13:44,000 --> 00:13:49,000
+But I'm fearful that we're going to open up a new a new wound scar.
+
+218
+00:13:49,000 --> 00:13:54,000
+And when I say something that you said soon after and here we go.
+
+219
+00:13:54,000 --> 00:14:04,000
+Also, just re road Spidey Transformers is better that I stand by as someone who once thought that Spidey was one of the best.
+
+220
+00:14:04,000 --> 00:14:08,000
+Yes. Now I now at this point I fear for the opinions of Jason Sheridan.
+
+221
+00:14:08,000 --> 00:14:11,000
+Well, well, well, here we go.
+
+222
+00:14:11,000 --> 00:14:16,000
+Because I have been critical of this ride in that it is.
+
+223
+00:14:16,000 --> 00:14:20,000
+I have always thought of it as lesser than Spider-Man.
+
+224
+00:14:20,000 --> 00:14:25,000
+You know, Spider-Man, an opening day attraction at Islands of Adventure.
+
+225
+00:14:25,000 --> 00:14:31,000
+So we're clocking it at 1999 and this opens over a decade later.
+
+226
+00:14:31,000 --> 00:14:40,000
+And while it does have a number of upgrades, it hits a lot of the same beats almost of the ride.
+
+227
+00:14:40,000 --> 00:14:49,000
+It hits a lot of very similar moments with characters that are not like my dear friend, Spider-Man characters that I don't.
+
+228
+00:14:49,000 --> 00:14:52,000
+I'm like, what are these characters personalities?
+
+229
+00:14:52,000 --> 00:14:58,000
+And it was only digging into this ride has this happens a lot on the show.
+
+230
+00:14:58,000 --> 00:15:06,000
+I dig into a ride and it grows on me if I'm kind of indifferent to it or skeptical of it because a lot of the Q videos for this ride.
+
+231
+00:15:06,000 --> 00:15:09,000
+I'm like, OK, this is what this character's deal is.
+
+232
+00:15:09,000 --> 00:15:14,000
+And OK, they're setting up this big set piece like this big moment in the ride.
+
+233
+00:15:14,000 --> 00:15:18,000
+It makes a little more sense now.
+
+234
+00:15:18,000 --> 00:15:23,000
+That said, I was racking my brain because I was a Transformers kid.
+
+235
+00:15:23,000 --> 00:15:30,000
+I had Transformers toys growing up and I could not remember any storylines from the show.
+
+236
+00:15:30,000 --> 00:15:42,000
+The only thing that stuck out in my mind was the CG one from the later 90s called Beast Wars that takes place entirely in barren landscapes because CG was very expensive.
+
+237
+00:15:42,000 --> 00:15:43,000
+Right. I remember this.
+
+238
+00:15:43,000 --> 00:15:45,000
+Oh, I see. So it always had to be deserts.
+
+239
+00:15:45,000 --> 00:15:48,000
+Yeah. So and they were animals. They were like prehistoric animals.
+
+240
+00:15:48,000 --> 00:16:02,000
+So kind of makes sense like dinosaur age and then being like a 13, 14 year old too smart for my own good renting the Transformers movie and going like, hey, you know, this was Orson Welles last picture before he died.
+
+241
+00:16:02,000 --> 00:16:07,000
+He was Omicron, the big planet one that was Omicron.
+
+242
+00:16:07,000 --> 00:16:09,000
+The name was Omicron, I think, right?
+
+243
+00:16:09,000 --> 00:16:11,000
+I think so. Yeah.
+
+244
+00:16:11,000 --> 00:16:12,000
+Wow. Can't remember the year.
+
+245
+00:16:12,000 --> 00:16:14,000
+Remember the year.
+
+246
+00:16:14,000 --> 00:16:21,000
+Well, let's why don't maybe we all need to sort of address a little bit where we're coming at it from because can I ask one quick question?
+
+247
+00:16:21,000 --> 00:16:22,000
+Yeah. Yeah.
+
+248
+00:16:22,000 --> 00:16:28,000
+Because when was the last time you rode Spider-Man in Islands of Adventure?
+
+249
+00:16:28,000 --> 00:16:36,000
+I want to put that down too because that is, you know, I was I believe when I recorded that fresh off of Islands of Adventure.
+
+250
+00:16:36,000 --> 00:16:39,000
+Sorry. That's my by the way. Not to step on that. But Mike is saying it's not Omicron.
+
+251
+00:16:39,000 --> 00:16:40,000
+It's not Omicron.
+
+252
+00:16:40,000 --> 00:16:41,000
+It's not Omicron.
+
+253
+00:16:41,000 --> 00:16:42,000
+What is it called?
+
+254
+00:16:42,000 --> 00:16:43,000
+Unicron.
+
+255
+00:16:43,000 --> 00:16:44,000
+Close.
+
+256
+00:16:44,000 --> 00:16:50,000
+That's the next Christmas while I'll be sick with them.
+
+257
+00:16:50,000 --> 00:16:54,000
+Yeah. Well, all right. That's a strain of the thing.
+
+258
+00:16:54,000 --> 00:16:56,000
+Yes. That's why I was hung up on it.
+
+259
+00:16:56,000 --> 00:16:59,000
+It's a letter in the out. Isn't it a letter in the letter?
+
+260
+00:16:59,000 --> 00:17:01,000
+Yeah, it is a letter.
+
+261
+00:17:01,000 --> 00:17:04,000
+Who can remember all the strains now?
+
+262
+00:17:04,000 --> 00:17:06,000
+OK. Yes. Last time on Spider-Man.
+
+263
+00:17:06,000 --> 00:17:12,000
+We were the three of us were down there in 2019 and that was the last time I read that.
+
+264
+00:17:12,000 --> 00:17:17,000
+Because here's my just and I know that we're not this is not a definitive argument between the two.
+
+265
+00:17:17,000 --> 00:17:20,000
+But I want to put a couple of not even caveats.
+
+266
+00:17:20,000 --> 00:17:26,000
+Spider-Man the ride at Islands of Adventure has shown its age.
+
+267
+00:17:26,000 --> 00:17:29,000
+And I think that that's what I was what I was feeling.
+
+268
+00:17:29,000 --> 00:17:32,000
+There's a certain we talk about timelessness and stuff like that.
+
+269
+00:17:32,000 --> 00:17:34,000
+When I got on that ride, I had so much excitement.
+
+270
+00:17:34,000 --> 00:17:36,000
+I love this one.
+
+271
+00:17:36,000 --> 00:17:41,000
+And I walked there and I had one of those fast passes, but I didn't even need it because it was empty.
+
+272
+00:17:41,000 --> 00:17:45,000
+Meanwhile, the Hulk ride, which has been redone, they kind of redid the inside.
+
+273
+00:17:45,000 --> 00:17:55,000
+Now we all know all the backdrop of why Marvel Islands of Adventure can only be in the Fox cartoon world of like the early 90s.
+
+274
+00:17:55,000 --> 00:17:56,000
+But yeah, sure. Generic.
+
+275
+00:17:56,000 --> 00:17:57,000
+But right. Yeah.
+
+276
+00:17:57,000 --> 00:18:02,000
+So, you know, I go there really looking forward like, oh, my gosh, I can't wait.
+
+277
+00:18:02,000 --> 00:18:06,000
+And it's empty. And I walk right on.
+
+278
+00:18:06,000 --> 00:18:12,000
+And I was like, oh, it just it felt like it hit it showed its age.
+
+279
+00:18:12,000 --> 00:18:15,000
+And there's something about that, that like maybe screen rides might be shown.
+
+280
+00:18:15,000 --> 00:18:21,000
+And this is going to be curious to see, like, will screen rides start to show their age a little bit more as we move forward?
+
+281
+00:18:21,000 --> 00:18:25,000
+Like, you know, will there be a moment where it's like, oh, we've gotten better definition.
+
+282
+00:18:25,000 --> 00:18:27,000
+We've gotten better movement.
+
+283
+00:18:27,000 --> 00:18:32,000
+We've gotten, you know, because the real big thing with Spider-Man, the ride is a similar thing that you with Transformers was the drop, right?
+
+284
+00:18:32,000 --> 00:18:38,000
+Where Spider-Man kind of catches you with the web and then pulls you up and you feel like you're you're going up the side of a building.
+
+285
+00:18:38,000 --> 00:18:40,000
+I remember that being mind blowing.
+
+286
+00:18:40,000 --> 00:18:45,000
+Like when I saw that, I was like, forget about Disney Islands of Adventure.
+
+287
+00:18:45,000 --> 00:18:48,000
+That's where it's at. This is a better theme park.
+
+288
+00:18:48,000 --> 00:18:52,000
+I'm all on board. Yeah. Anyway, that but I didn't feel that way.
+
+289
+00:18:52,000 --> 00:18:57,000
+Post Transformers arrived. When was your when did you do Spider-Man last?
+
+290
+00:18:57,000 --> 00:19:02,000
+I did Spider-Man last. My kid is turning.
+
+291
+00:19:02,000 --> 00:19:06,000
+I remember it very specifically. My kid is turning six this week.
+
+292
+00:19:06,000 --> 00:19:10,000
+So I did it six years ago.
+
+293
+00:19:10,000 --> 00:19:12,000
+I did it right after he was born.
+
+294
+00:19:12,000 --> 00:19:19,000
+I happened to be down in Orlando and I had half a day and I bought that crazy pass so I could ride everything.
+
+295
+00:19:19,000 --> 00:19:22,000
+Everything. Yeah. Universal.
+
+296
+00:19:22,000 --> 00:19:28,000
+I think at that point, Fast and Furious was not open as a singular ride nor was the Tonight Show.
+
+297
+00:19:28,000 --> 00:19:35,000
+So I've missed those two. But so it was right before the Tonight Show opening up about a week before and and before Fast and Furious.
+
+298
+00:19:35,000 --> 00:19:38,000
+I got to do everything else. But what's the date here?
+
+299
+00:19:38,000 --> 00:19:42,000
+Is this before? Because do you know that Spider-Man had the like the read?
+
+300
+00:19:42,000 --> 00:19:45,000
+They did do like a CGI.
+
+301
+00:19:45,000 --> 00:19:49,000
+They made it. What is the changes? It's 4K. It's a little bit like elevated.
+
+302
+00:19:49,000 --> 00:19:52,000
+Yeah. OK. There has been but I don't remember the year on that.
+
+303
+00:19:52,000 --> 00:19:55,000
+Do you know, Jason? Does anybody know? I'm going to look right now.
+
+304
+00:19:55,000 --> 00:20:00,000
+That might have been earlier than you think. That might have been like 2012, 2014. OK. OK.
+
+305
+00:20:00,000 --> 00:20:05,000
+Yeah. Jimmy Fallon Ride opened in 2017.
+
+306
+00:20:05,000 --> 00:20:10,000
+OK. So I believe. Wait. So is that? Yeah.
+
+307
+00:20:10,000 --> 00:20:12,000
+That works out. So it was before Jimmy found.
+
+308
+00:20:12,000 --> 00:20:17,000
+So I'm writing this before pre-Tonight Show the ride.
+
+309
+00:20:17,000 --> 00:20:21,000
+I think it's 10 years ago that it was upgraded a little before. OK.
+
+310
+00:20:21,000 --> 00:20:28,000
+This might be an issue that you're finding even beyond that or that something is like unsatisfying about the generic nature of of that.
+
+311
+00:20:28,000 --> 00:20:32,000
+It could also be. And look, I also put a lot up to it.
+
+312
+00:20:32,000 --> 00:20:38,000
+Like I've never seen Dumb and Dumber again because I enjoyed it so much that I feel like if I saw it again, I wouldn't laugh as hard.
+
+313
+00:20:38,000 --> 00:20:44,000
+So like there are certain elements where you build up something so much in your your memory or your I like it so much.
+
+314
+00:20:44,000 --> 00:20:51,000
+You know, there's never I feel like there's never like a real like first time again and sometimes on these rides like my first time on Rise of the Resistance.
+
+315
+00:20:51,000 --> 00:20:56,000
+Like if I could bottle that, I'll never feel that way again on Rise.
+
+316
+00:20:56,000 --> 00:21:02,000
+But the first time I wrote that, it was like stunning and mind boggling.
+
+317
+00:21:03,000 --> 00:21:08,000
+If I never wrote it again, it would be I mean, it still is epic in every single way.
+
+318
+00:21:08,000 --> 00:21:13,000
+But that memory will never be like that memory is I remember that.
+
+319
+00:21:13,000 --> 00:21:17,000
+And that's why I felt about Spider-Man. And then when I wrote it on again, I was like, OK, I see the scene.
+
+320
+00:21:17,000 --> 00:21:21,000
+Let me throw out a theory here about Spider-Man versus Transformers.
+
+321
+00:21:21,000 --> 00:21:23,000
+And I don't actually know if this is true or not.
+
+322
+00:21:23,000 --> 00:21:30,000
+But I believe you get as a person, as a person who's in the ride vehicle, I believe you get your ass kicked a lot more on Transformers.
+
+323
+00:21:30,000 --> 00:21:34,000
+Yes, I think you are getting just a shit kicked out of you the whole time on that ride.
+
+324
+00:21:34,000 --> 00:21:42,000
+So I feel like once you go to Transformers and you go back on Spider-Man, if you're not enjoying the spider visuals and the Sinister Six, you are going to go.
+
+325
+00:21:42,000 --> 00:21:46,000
+Well, what's the deal? I'm used to a certain level of of handling.
+
+326
+00:21:46,000 --> 00:21:51,000
+Well, this is what I'm talking about. It's it's not like the iPhone 8 was bad.
+
+327
+00:21:51,000 --> 00:21:58,000
+But now when you have the iPhone 13, I'm used to some of the features there and I'm going to be a little bit upset.
+
+328
+00:21:58,000 --> 00:22:01,000
+It's not that the iPhone 8 was bad. It's just time has passed.
+
+329
+00:22:01,000 --> 00:22:04,000
+And I can appreciate the iPhone 8.
+
+330
+00:22:04,000 --> 00:22:10,000
+Well, you know, some of us are still rocking an iPhone 8 and some of us still like Spider-Man better.
+
+331
+00:22:10,000 --> 00:22:14,000
+You know, this is I have something to say about what Mike just said.
+
+332
+00:22:14,000 --> 00:22:24,000
+And this might be key to where all our opinions land, because if I haven't established and why I was a shitty five years ago is because I'm not the biggest fan of this ride.
+
+333
+00:22:24,000 --> 00:22:27,000
+And Mike, what you just said, you're that your ass getting kicked.
+
+334
+00:22:27,000 --> 00:22:30,000
+I don't like that. I don't want that.
+
+335
+00:22:30,000 --> 00:22:33,000
+I prefer a little smoother.
+
+336
+00:22:33,000 --> 00:22:39,000
+And to me, the just like caustic bumping all around is not a virtue.
+
+337
+00:22:39,000 --> 00:22:42,000
+It's not a good thing. Point of clarification.
+
+338
+00:22:42,000 --> 00:22:48,000
+When you say you're getting your ass kicked, you're talking about real world getting jumbled around, getting bumped around, not storyline wise.
+
+339
+00:22:48,000 --> 00:22:51,000
+No, I'm talking about the Decepticons.
+
+340
+00:22:51,000 --> 00:22:58,000
+No, you're getting you're getting the vehicle itself and the ride itself is shaking you and like vibrating you.
+
+341
+00:22:58,000 --> 00:23:00,000
+You're getting bumped around.
+
+342
+00:23:00,000 --> 00:23:04,000
+And if you're really paying attention, you're your back is slamming into a hard piece of plastic over and over again.
+
+343
+00:23:04,000 --> 00:23:06,000
+And it happens a lot more on Transformers.
+
+344
+00:23:06,000 --> 00:23:08,000
+And I love it.
+
+345
+00:23:08,000 --> 00:23:20,000
+And now maybe we should just and we don't have to move on from any arguments, but we are deep into an episode or a little too deep without having said that Mike has said this part of why we need you, Paul, is that Mike has started to say,
+
+346
+00:23:20,000 --> 00:23:21,000
+a couple things.
+
+347
+00:23:21,000 --> 00:23:25,000
+Well, I mean, you've always been a huge proponent of this ride.
+
+348
+00:23:25,000 --> 00:23:26,000
+Yes.
+
+349
+00:23:26,000 --> 00:23:34,000
+But what it has morphed into recently is the possibility that Transformers, the ride is better than Rise of the Resistance.
+
+350
+00:23:34,000 --> 00:23:38,000
+I have this is I'm not again, I'm going to hold my tongue here.
+
+351
+00:23:38,000 --> 00:23:40,000
+I want to hear some thoughts.
+
+352
+00:23:40,000 --> 00:23:43,000
+I'm not going to come out with a response to that.
+
+353
+00:23:43,000 --> 00:23:44,000
+But that's interesting.
+
+354
+00:23:44,000 --> 00:23:46,000
+And I did not know that.
+
+355
+00:23:46,000 --> 00:23:50,000
+Now, can I can I bring up one thing about Transformers as well?
+
+356
+00:23:50,000 --> 00:23:51,000
+Yeah, please.
+
+357
+00:23:51,000 --> 00:23:52,000
+Of course.
+
+358
+00:23:52,000 --> 00:23:57,000
+One of the things about Transformers to me that is so effective.
+
+359
+00:23:57,000 --> 00:24:01,000
+And I've said this and I'm sorry if I said this on your show before.
+
+360
+00:24:01,000 --> 00:24:04,000
+It is my favorite Transformers film.
+
+361
+00:24:04,000 --> 00:24:08,000
+Like, I don't think you're going to find a disagreement.
+
+362
+00:24:08,000 --> 00:24:28,000
+OK, so I so for me to go on a ride of a franchise that the feature film in which a feature film world that I hate besides Bumblebee, which I thought was very good, where I go on it and then leave a fan of the franchise.
+
+363
+00:24:28,000 --> 00:24:30,000
+That's also giving me bonus points.
+
+364
+00:24:30,000 --> 00:24:37,000
+Yeah, that's also bringing me like I have to equate that in like the you know, and when I'm weighing my opinion here, like I'm not going to go on a ride.
+
+365
+00:24:37,000 --> 00:24:39,000
+Like I'm not going in loving it.
+
+366
+00:24:39,000 --> 00:24:40,000
+Star Wars.
+
+367
+00:24:40,000 --> 00:24:46,000
+I love so it's going to be very you have to do very little to make me fall more in love.
+
+368
+00:24:46,000 --> 00:24:47,000
+I'm going to I'm already there.
+
+369
+00:24:47,000 --> 00:24:49,000
+I'm already I want to see these characters.
+
+370
+00:24:49,000 --> 00:24:50,000
+I want to go there.
+
+371
+00:24:50,000 --> 00:24:51,000
+Transformers.
+
+372
+00:24:51,000 --> 00:24:53,000
+I'm like, and I leave.
+
+373
+00:24:53,000 --> 00:24:55,000
+I'm like, wow, I completely agree.
+
+374
+00:24:55,000 --> 00:24:58,000
+I have barely seen two Transformers movies.
+
+375
+00:24:58,000 --> 00:25:03,000
+I've been forced one time for charity to watch a Transformers.
+
+376
+00:25:03,000 --> 00:25:07,000
+I have seen the first one and this this will date it.
+
+377
+00:25:07,000 --> 00:25:20,000
+I mean, it's not that long after it came out, but I remember getting the DVD envelope in the mail from early days Netflix or I guess not that early because it's like late 2000s, mid 2000s.
+
+378
+00:25:20,000 --> 00:25:29,000
+I have one it recently to not necessarily watch all of them, but watch the weirder ones later where like Anthony Hopkins.
+
+379
+00:25:29,000 --> 00:25:32,000
+Yeah, Anthony Hopkins is in there talking about Transformers.
+
+380
+00:25:32,000 --> 00:25:36,000
+There's some moment where like I always talk.
+
+381
+00:25:36,000 --> 00:25:37,000
+I've heard about this.
+
+382
+00:25:37,000 --> 00:25:41,000
+I've seen this clip, but like Stanley Tucci is some sort of weirdo scientist.
+
+383
+00:25:41,000 --> 00:25:42,000
+Oh, it's too.
+
+384
+00:25:42,000 --> 00:25:43,000
+Chis loose.
+
+385
+00:25:43,000 --> 00:25:44,000
+He's insane.
+
+386
+00:25:44,000 --> 00:25:45,000
+He's insane.
+
+387
+00:25:45,000 --> 00:25:52,000
+At some point, he's drinking a bag of a Chinese bag of milk like a company from there.
+
+388
+00:25:52,000 --> 00:25:54,000
+Like weird forced product placement.
+
+389
+00:25:54,000 --> 00:25:57,000
+Yeah, first product placement because these movies are huge in China.
+
+390
+00:25:57,000 --> 00:25:59,000
+But yeah, I haven't seen it.
+
+391
+00:25:59,000 --> 00:26:04,000
+And then I heard people go in the reaction to Bumblebee being like, this is pretty good.
+
+392
+00:26:04,000 --> 00:26:05,000
+I was surprised.
+
+393
+00:26:05,000 --> 00:26:06,000
+It's pretty good.
+
+394
+00:26:06,000 --> 00:26:07,000
+That seemed like the vibe.
+
+395
+00:26:07,000 --> 00:26:09,000
+People said about Bumblebee.
+
+396
+00:26:09,000 --> 00:26:21,000
+Bumblebee to me is one of those rare films where it's not Michael Bay directed and it's it's sort of just a coming of age story that happens to have a robot in it.
+
+397
+00:26:22,000 --> 00:26:27,000
+Like so there are some things about it that you're like, oh, I like this story.
+
+398
+00:26:27,000 --> 00:26:29,000
+I like this actress.
+
+399
+00:26:29,000 --> 00:26:31,000
+John Cena is also in it.
+
+400
+00:26:31,000 --> 00:26:35,000
+You know, so it is I just bought in.
+
+401
+00:26:35,000 --> 00:26:41,000
+And there are elements of the first Transformers when I rewatch it a little bit with, you know, Shia LaBeouf.
+
+402
+00:26:41,000 --> 00:26:42,000
+I'm like, OK, his parents are funny.
+
+403
+00:26:42,000 --> 00:26:43,000
+There are elements.
+
+404
+00:26:43,000 --> 00:26:47,000
+It's just I never really connected to that franchise.
+
+405
+00:26:47,000 --> 00:27:00,000
+I will say that, yeah, it is it it seems to be so easy to make it yet so hard, but yet the ride gives me the visceral thing that I want.
+
+406
+00:27:00,000 --> 00:27:05,000
+So it's like you've delivered the thing that I want to see in movies.
+
+407
+00:27:05,000 --> 00:27:08,000
+Why is it so hard to make what I just experienced a movie?
+
+408
+00:27:08,000 --> 00:27:09,000
+I don't know.
+
+409
+00:27:09,000 --> 00:27:11,000
+Maybe the movie should only be four minutes.
+
+410
+00:27:11,000 --> 00:27:12,000
+I don't know.
+
+411
+00:27:12,000 --> 00:27:18,000
+Or you have to get every Transformers movie has to be experienced in one of the four D or the whatever, which I'm all for.
+
+412
+00:27:18,000 --> 00:27:23,000
+Now, I'm not I'm here to be a moderator, a mediator.
+
+413
+00:27:23,000 --> 00:27:28,000
+I would love to hear, you know, Mike, your opinion.
+
+414
+00:27:28,000 --> 00:27:34,000
+Well, like, give me give me your top three reasoning, you know, your top three reasons of of the rise versus Transformers.
+
+415
+00:27:34,000 --> 00:27:41,000
+I do want to just I want to just dig into it because I want to make sure it's not just a bombastic opinion, you know, because I know you're very much like the Tucker Carlson of this show.
+
+416
+00:27:41,000 --> 00:27:44,000
+Just because of the last name.
+
+417
+00:27:44,000 --> 00:27:47,000
+For sure. That's a part of it.
+
+418
+00:27:47,000 --> 00:27:54,000
+Do we need to maybe go over the context a little of you guided like this is your argument to make.
+
+419
+00:27:54,000 --> 00:28:07,000
+I think maybe one thing you don't know, Paul, is that Mike not only enjoys the ride, there is a deep well of emotion that has been discussed on the show many times that comes from the ending of the ride.
+
+420
+00:28:07,000 --> 00:28:09,000
+Is this an appropriate time for you to explain?
+
+421
+00:28:09,000 --> 00:28:12,000
+Oh, yeah. I mean, we worry of no structure here.
+
+422
+00:28:12,000 --> 00:28:23,000
+So, of course, what I realized when we were talking about Transformers once is that moments on rides that I really like a perfect example of is the end with Optimus Prime.
+
+423
+00:28:23,000 --> 00:28:27,000
+He explains and I think I incorrectly said what it was.
+
+424
+00:28:27,000 --> 00:28:30,000
+I think I said something along the lines of like, I'm proud of you.
+
+425
+00:28:30,000 --> 00:28:33,000
+I guess that's the feeling that you leave with.
+
+426
+00:28:33,000 --> 00:28:35,000
+Yeah, you leave like he's.
+
+427
+00:28:35,000 --> 00:28:36,000
+I'm very proud of you.
+
+428
+00:28:36,000 --> 00:28:47,000
+And he says your bravery is like, there's a nice long, heavy beat there for a theme park ride that's usually throwing stuff at you.
+
+429
+00:28:47,000 --> 00:28:57,000
+You sit there. He really takes his time to get down to your level and he shoves his giant robot head, what feels like two feet away from you.
+
+430
+00:28:57,000 --> 00:28:59,000
+And he delivers this speech and it feels good to me.
+
+431
+00:28:59,000 --> 00:29:00,000
+I really like it.
+
+432
+00:29:00,000 --> 00:29:09,000
+And I would compare it to something like on Star Tours when in the new version of Star Tours, when C3PO kind of looks at everybody and says like, it looks like we've just joined the Rebel Alliance.
+
+433
+00:29:09,000 --> 00:29:11,000
+And there's like a good heavy beat there.
+
+434
+00:29:11,000 --> 00:29:18,000
+And you get to feel like emotion, which doesn't often happen on a theme park ride, which is bombarding you with stimuli.
+
+435
+00:29:18,000 --> 00:29:24,000
+So I have now after talking about this, I don't know what you would say, fetishized.
+
+436
+00:29:24,000 --> 00:29:25,000
+I'm not sure exactly.
+
+437
+00:29:25,000 --> 00:29:32,000
+Well, it's become this phrase of the moment of intimacy has been haunting the show for a long time.
+
+438
+00:29:32,000 --> 00:29:36,000
+And I maybe built it up in my head and not experienced it for a while.
+
+439
+00:29:36,000 --> 00:29:38,000
+And because I think this came up during pandemic.
+
+440
+00:29:38,000 --> 00:29:42,000
+So then pandemics over ish and I finally get to go on it.
+
+441
+00:29:42,000 --> 00:29:51,000
+So for the first time since this all came up and I go on the ride and what I see is like big robot like leaning in weird like, oh, blah, blah, blah, blah.
+
+442
+00:29:51,000 --> 00:29:52,000
+And then you move it.
+
+443
+00:29:52,000 --> 00:29:59,000
+I found it inexplicable that you would have emotion for this moment that this somehow is to you.
+
+444
+00:29:59,000 --> 00:30:07,000
+You think of this as like a watershed, like a song, if you will, in the history of rides.
+
+445
+00:30:07,000 --> 00:30:13,000
+It feels so long, though, compared to like the pace I'm used to on the ride.
+
+446
+00:30:13,000 --> 00:30:15,000
+It feels long in my mind.
+
+447
+00:30:15,000 --> 00:30:19,000
+I know it's probably seconds that it is a little stretch out more.
+
+448
+00:30:19,000 --> 00:30:20,000
+It is a little stretch out more.
+
+449
+00:30:20,000 --> 00:30:22,000
+And we should say this is a longer.
+
+450
+00:30:22,000 --> 00:30:27,000
+This is like over four minutes, which in theme park terminology, that's pretty long.
+
+451
+00:30:27,000 --> 00:30:30,000
+But I'm kind of I get where my is coming from.
+
+452
+00:30:30,000 --> 00:30:32,000
+Scott, I get where you come.
+
+453
+00:30:32,000 --> 00:30:33,000
+You're coming from.
+
+454
+00:30:33,000 --> 00:30:39,000
+Because one of my big criticisms from with Transformers is that if you're talking about Paul, you're talking about Spider-Man aging.
+
+455
+00:30:39,000 --> 00:30:47,000
+Well, I feel like Transformers started aging well as soon as they like cut like it started aging as soon as they cut the ribbon.
+
+456
+00:30:47,000 --> 00:31:02,000
+Like maybe I just haven't written it at good times, but it feels like the footage has always been smeary and has it's like when we saw like one of the Avengers movies and like this light bulb in the projector is burning out.
+
+457
+00:31:02,000 --> 00:31:07,000
+I can't tell what's going on in some big moments.
+
+458
+00:31:07,000 --> 00:31:09,000
+You know, it doesn't help for me either.
+
+459
+00:31:09,000 --> 00:31:11,000
+And this is entirely this is an effect of the pandemic.
+
+460
+00:31:11,000 --> 00:31:18,000
+One of the worst effects of the pandemic, you might say, is that going on this ride and masks do not mix because you got glasses on.
+
+461
+00:31:18,000 --> 00:31:19,000
+It's crazy.
+
+462
+00:31:19,000 --> 00:31:22,000
+It's just it's already hard to make out what's going on.
+
+463
+00:31:22,000 --> 00:31:24,000
+That's the first time I experienced Spider-Man.
+
+464
+00:31:24,000 --> 00:31:28,000
+The new ride, the one in California Adventure.
+
+465
+00:31:28,000 --> 00:31:31,000
+Yeah, I experienced it that way.
+
+466
+00:31:31,000 --> 00:31:37,000
+And I need to I need to go back on because I feel like I did not.
+
+467
+00:31:37,000 --> 00:31:38,000
+It was fine.
+
+468
+00:31:38,000 --> 00:31:39,000
+Yeah, right.
+
+469
+00:31:39,000 --> 00:31:41,000
+Yeah, that's where we've landed.
+
+470
+00:31:41,000 --> 00:31:42,000
+Admittedly, I don't know.
+
+471
+00:31:42,000 --> 00:31:44,000
+I'm not sure if you I hope you get past fine.
+
+472
+00:31:44,000 --> 00:31:46,000
+Everybody should like everything.
+
+473
+00:31:46,000 --> 00:31:50,000
+But sure, that's I mean, that's the hope.
+
+474
+00:31:50,000 --> 00:31:53,000
+So our greatest wish coloring my perception a little.
+
+475
+00:31:53,000 --> 00:32:05,000
+I did watch some ride throughs from opening day where like the the vlogger was clearly universal gave them media elements where it's like, here's the footage, not in 3D and full resolution.
+
+476
+00:32:05,000 --> 00:32:08,000
+God, and it looks much better.
+
+477
+00:32:08,000 --> 00:32:09,000
+It looks great.
+
+478
+00:32:09,000 --> 00:32:18,000
+I mean, the Transformers have always looked a little CG, but in good shots, it kind of adds to their alienness or their unrealness.
+
+479
+00:32:18,000 --> 00:32:20,000
+And that is a compliment.
+
+480
+00:32:20,000 --> 00:32:21,000
+I will pay them.
+
+481
+00:32:21,000 --> 00:32:23,000
+Let me ask you this, Paul.
+
+482
+00:32:23,000 --> 00:32:27,000
+Do you when when Mike describes this moment, do you recall this moment?
+
+483
+00:32:27,000 --> 00:32:28,000
+Does this resonate?
+
+484
+00:32:28,000 --> 00:32:31,000
+Does the moment of intimacy land with you?
+
+485
+00:32:31,000 --> 00:32:34,000
+One thousand percent.
+
+486
+00:32:34,000 --> 00:32:35,000
+Wow.
+
+487
+00:32:35,000 --> 00:32:36,000
+One thousand percent.
+
+488
+00:32:36,000 --> 00:32:38,000
+And and and you know why?
+
+489
+00:32:38,000 --> 00:32:43,000
+Because as you started to describe it, it brought me back to that moment.
+
+490
+00:32:43,000 --> 00:32:56,000
+It brought me back to that that ending moment where I do believe again, a character I don't care for a character I have no emotional attachment to.
+
+491
+00:32:56,000 --> 00:33:00,000
+It feels like it acknowledges the journey that we just had.
+
+492
+00:33:00,000 --> 00:33:02,000
+Right. We did just have a journey.
+
+493
+00:33:02,000 --> 00:33:06,000
+I don't know if I did anything, but I do like being thanked.
+
+494
+00:33:06,000 --> 00:33:10,000
+I do like you know, I like that the there's a nice moment there.
+
+495
+00:33:10,000 --> 00:33:18,000
+And I think maybe what I'm experiencing also in the sounds now I'm going to maybe sound equally as silly.
+
+496
+00:33:18,000 --> 00:33:31,000
+But the majesty of seeing this face up close, a true like what would it be like to look Optimus Prime in the eyes?
+
+497
+00:33:31,000 --> 00:33:36,000
+Right. So it's like it is eye contact, which is the most hard eye contact.
+
+498
+00:33:36,000 --> 00:33:38,000
+That's yes. Long eye contact.
+
+499
+00:33:38,000 --> 00:33:40,000
+That's intimacy does.
+
+500
+00:33:40,000 --> 00:33:42,000
+So we got that in the eyes.
+
+501
+00:33:42,000 --> 00:33:52,000
+But then it's also like, wow, this same moment, just like soaring where it's like I am taking in something I've never really experienced on this level.
+
+502
+00:33:52,000 --> 00:33:57,000
+Wow. Like I like it's it's majesty, it's intimacy.
+
+503
+00:33:57,000 --> 00:34:00,000
+And, you know, somebody said this to me the other day.
+
+504
+00:34:00,000 --> 00:34:03,000
+We all like the gravy, which is, you know, everyone likes a compliment.
+
+505
+00:34:03,000 --> 00:34:07,000
+And this is this character is saying because of us.
+
+506
+00:34:07,000 --> 00:34:09,000
+Right. We've succeeded.
+
+507
+00:34:09,000 --> 00:34:15,000
+So we're getting three very large things that I think all in the pyramid of things that humans need.
+
+508
+00:34:15,000 --> 00:34:18,000
+We're just not getting food, but everything else is attended to.
+
+509
+00:34:18,000 --> 00:34:20,000
+Perfect. I mean, a perfect way to describe it.
+
+510
+00:34:20,000 --> 00:34:22,000
+Much better than I could have even said it.
+
+511
+00:34:22,000 --> 00:34:25,000
+And like you think of others times, even writes, I love like Guardians of the Galaxy.
+
+512
+00:34:25,000 --> 00:34:27,000
+Chris Prentice goes, thanks, everybody.
+
+513
+00:34:27,000 --> 00:34:29,000
+And that's it. That's it.
+
+514
+00:34:29,000 --> 00:34:31,000
+That's like so informal.
+
+515
+00:34:31,000 --> 00:34:33,000
+He didn't get right up on top of you and like looking in the eye.
+
+516
+00:34:33,000 --> 00:34:35,000
+Well, Dave Bautista kind of ribs you.
+
+517
+00:34:35,000 --> 00:34:37,000
+That's funny. I like that.
+
+518
+00:34:37,000 --> 00:34:39,000
+I love that. I think that's a funny little joke he says at the end.
+
+519
+00:34:39,000 --> 00:34:41,000
+Why are you thanking them? He goes, they didn't do anything.
+
+520
+00:34:41,000 --> 00:34:43,000
+That's funny. That is funny. Yeah.
+
+521
+00:34:43,000 --> 00:34:46,000
+But, you know, once in a while.
+
+522
+00:34:46,000 --> 00:34:48,000
+That's a fling. This is low.
+
+523
+00:34:48,000 --> 00:34:50,000
+This is a low scene is low.
+
+524
+00:34:50,000 --> 00:34:52,000
+Yeah, it kind of is. It kind of is.
+
+525
+00:34:52,000 --> 00:34:56,000
+Why don't I feel what either of you are feeling?
+
+526
+00:34:56,000 --> 00:34:59,000
+I don't get it at all. I think you're upset by the ride.
+
+527
+00:34:59,000 --> 00:35:02,000
+I think you've been beaten up and you don't like the feeling of getting beaten up.
+
+528
+00:35:02,000 --> 00:35:05,000
+So you're sort of zoned out. Maybe you're zoned out and you're not locked in.
+
+529
+00:35:05,000 --> 00:35:08,000
+Or maybe it's maybe lost me to where it's not going to win me back.
+
+530
+00:35:08,000 --> 00:35:10,000
+Right. With that moment.
+
+531
+00:35:10,000 --> 00:35:12,000
+Or your heart isn't open.
+
+532
+00:35:12,000 --> 00:35:15,000
+If you're I figured I was putting myself up for that.
+
+533
+00:35:15,000 --> 00:35:19,000
+This was that the only other conclusion would be that it's an emotional blockage.
+
+534
+00:35:19,000 --> 00:35:21,000
+Emotional blockage. I'm closed off.
+
+535
+00:35:21,000 --> 00:35:23,000
+Jason's blocked too, though, if this is the case.
+
+536
+00:35:23,000 --> 00:35:28,000
+I am a little blocked, but in my defense, it's more like I honestly forgot the DMs.
+
+537
+00:35:28,000 --> 00:35:32,000
+Sometimes I forget the moment of intimacy discussions.
+
+538
+00:35:32,000 --> 00:35:36,000
+Like I get so into reading about the ride and watching videos in history.
+
+539
+00:35:36,000 --> 00:35:39,000
+I forget our own lore. Jason, you're about the research.
+
+540
+00:35:39,000 --> 00:35:41,000
+We know this. You're about the research.
+
+541
+00:35:41,000 --> 00:35:43,000
+Too analytical. I'm a book idiot.
+
+542
+00:35:43,000 --> 00:35:47,000
+And so I just read so many books.
+
+543
+00:35:47,000 --> 00:35:52,000
+I wish I could see over all the books in my house.
+
+544
+00:35:52,000 --> 00:35:56,000
+I buy books. I'm slow at reading books, but I buy them.
+
+545
+00:35:56,000 --> 00:35:58,000
+I'm right with you.
+
+546
+00:35:58,000 --> 00:35:59,000
+They haunt me.
+
+547
+00:35:59,000 --> 00:36:03,000
+So basically what I'm saying is sometimes I'm Mr.
+
+548
+00:36:03,000 --> 00:36:08,000
+McGooing my way through the podcast where I'm like a Mack truck is speeding by me.
+
+549
+00:36:08,000 --> 00:36:10,000
+And I'm just like going about my day.
+
+550
+00:36:10,000 --> 00:36:12,000
+Nice weather we're having.
+
+551
+00:36:12,000 --> 00:36:15,000
+Has it gotten you there? Did like the magical?
+
+552
+00:36:15,000 --> 00:36:20,000
+I was very enamored with the descriptions that both Mike and Paul gave.
+
+553
+00:36:20,000 --> 00:36:23,000
+Does that help? Are you now feeling the moment of intimacy?
+
+554
+00:36:23,000 --> 00:36:29,000
+So would you say it's comparable to when Spider-Man gets on the hood of the vehicle
+
+555
+00:36:29,000 --> 00:36:32,000
+and you're like staring this guy you love in the face?
+
+556
+00:36:32,000 --> 00:36:34,000
+He's your best friend.
+
+557
+00:36:34,000 --> 00:36:36,000
+It's not even close to Spider-Man.
+
+558
+00:36:36,000 --> 00:36:38,000
+It's not even close to me. I don't even like Spider-Man.
+
+559
+00:36:38,000 --> 00:36:40,000
+I'm saying it's close in the same.
+
+560
+00:36:40,000 --> 00:36:42,000
+It's getting closer.
+
+561
+00:36:42,000 --> 00:36:46,000
+You're recognizing the idea I'm saying when you look at Spider-Man in the eyes.
+
+562
+00:36:46,000 --> 00:36:48,000
+He's very close to you on that ride.
+
+563
+00:36:48,000 --> 00:36:50,000
+He's not quite as close as Optimus is though.
+
+564
+00:36:50,000 --> 00:36:52,000
+No, Optimus gets a little in your zone.
+
+565
+00:36:52,000 --> 00:36:54,000
+Optimus pushes. He's in your comfort zone.
+
+566
+00:36:54,000 --> 00:36:56,000
+He pushes past like your.
+
+567
+00:36:56,000 --> 00:36:58,000
+Well, let me throw one thing at you.
+
+568
+00:36:58,000 --> 00:37:06,000
+I believe the Spider-Man, and it's going to be a very, I mean, I know I'm opening myself up for a lot of criticism here,
+
+569
+00:37:06,000 --> 00:37:14,000
+but the Spider-Man in the Spider-Man ride, the old one is of the cartoon variety, right?
+
+570
+00:37:14,000 --> 00:37:17,000
+It is of the Fox animation style.
+
+571
+00:37:17,000 --> 00:37:23,000
+It is. And I granted Optimus Prime is also CGI, but there is an intimacy.
+
+572
+00:37:23,000 --> 00:37:25,000
+You know, we talk about the uncanny valley.
+
+573
+00:37:25,000 --> 00:37:28,000
+I think that Optimus Prime actually is not that.
+
+574
+00:37:28,000 --> 00:37:32,000
+And I think that maybe Spider-Man, you are maybe having that thing, right?
+
+575
+00:37:32,000 --> 00:37:38,000
+I don't know if I can connect to a cartoon like that, but I can connect to this.
+
+576
+00:37:38,000 --> 00:37:40,000
+A mask with no facial feed.
+
+577
+00:37:40,000 --> 00:37:43,000
+The difficulties of masks is not just that it makes rides worse.
+
+578
+00:37:43,000 --> 00:37:47,000
+It's that you don't understand the emotion on Spider-Man's face.
+
+579
+00:37:47,000 --> 00:37:50,000
+Yeah, Peter really should reveal himself to you at the end of the ride.
+
+580
+00:37:50,000 --> 00:37:56,000
+You should say, by the way, but they can't write, pulls the thing up and then he gets in everyone's face and says, thank you.
+
+581
+00:37:56,000 --> 00:37:58,000
+I love you.
+
+582
+00:37:58,000 --> 00:38:00,000
+Why? Why? Two kisses.
+
+583
+00:38:00,000 --> 00:38:02,000
+A little kiss, an Italian style kiss.
+
+584
+00:38:02,000 --> 00:38:05,000
+Sure. And then, yeah, moves on.
+
+585
+00:38:05,000 --> 00:38:07,000
+That would be more.
+
+586
+00:38:07,000 --> 00:38:09,000
+I am. As we're talking, I am.
+
+587
+00:38:09,000 --> 00:38:14,000
+I'm taking a look here at the 4K ride through of of Spider-Man.
+
+588
+00:38:14,000 --> 00:38:20,000
+It's a little more time like not timeless, but a little less glued to any one thing.
+
+589
+00:38:20,000 --> 00:38:26,000
+And the way that the videos in the line are kind of in the style of the Fox cartoon,
+
+590
+00:38:26,000 --> 00:38:32,000
+which is probably the Spider-Man iteration that made the biggest impression on me as a child.
+
+591
+00:38:32,000 --> 00:38:37,000
+Of course. Probably still how I hear the voice in my head, even more so than the movies.
+
+592
+00:38:37,000 --> 00:38:42,000
+So my view is colored by that fact.
+
+593
+00:38:42,000 --> 00:38:49,000
+And look, and by the way, like, yes, but it's still a cartoon and there's something about it like and I know that again,
+
+594
+00:38:49,000 --> 00:38:54,000
+it's the difference to me of I enjoy Monsters Inc.
+
+595
+00:38:54,000 --> 00:39:02,000
+The ride, probably more than Men in Black, the ride, because Men in Black, the ride, they're cartooning humans.
+
+596
+00:39:02,000 --> 00:39:07,000
+Whereas like, whereas the Monsters Inc.
+
+597
+00:39:07,000 --> 00:39:11,000
+Ride, we're like, it's the same kind of ride that you're kind of experiencing.
+
+598
+00:39:11,000 --> 00:39:14,000
+Like these things are popping out and they're they're going through this old town square.
+
+599
+00:39:14,000 --> 00:39:17,000
+I mean, I guess you're shooting at one of those things, but I don't know.
+
+600
+00:39:17,000 --> 00:39:19,000
+There's a man like I don't I don't know.
+
+601
+00:39:19,000 --> 00:39:22,000
+I think Spider-Man is, you know, he's hanging down in front of you at the end.
+
+602
+00:39:22,000 --> 00:39:24,000
+He's looking at you. Sure. He's muscular.
+
+603
+00:39:24,000 --> 00:39:27,000
+He's big, but he's there's no moment there.
+
+604
+00:39:27,000 --> 00:39:30,000
+It's a shushed off moment. You know, let me throw this out there.
+
+605
+00:39:30,000 --> 00:39:33,000
+Spider-Man on the hood. OK, he's not as close as he should be.
+
+606
+00:39:33,000 --> 00:39:35,000
+He's not revealing his human face to you.
+
+607
+00:39:35,000 --> 00:39:39,000
+But also, he's like a guy you know and you're friendly with.
+
+608
+00:39:39,000 --> 00:39:41,000
+And it's great to see him. Right. Of course.
+
+609
+00:39:41,000 --> 00:39:42,000
+He's going to thank you. Of course.
+
+610
+00:39:42,000 --> 00:39:46,000
+You can thank you. And he's going to be casual because he's your buddy and he's going to see you next week.
+
+611
+00:39:46,000 --> 00:39:48,000
+OK, Optimus Prime. It's basically like God is telling you.
+
+612
+00:39:48,000 --> 00:39:50,000
+You did a great job. His voice. Amen.
+
+613
+00:39:50,000 --> 00:39:53,000
+This is this is as close as you can get to.
+
+614
+00:39:53,000 --> 00:39:56,000
+I mean, I mean, yeah, God royalty.
+
+615
+00:39:56,000 --> 00:40:01,000
+This is this is a bigger deal. Peter Cullen's voice is the greatest, deepest voice.
+
+616
+00:40:01,000 --> 00:40:05,000
+You would imagine that the father would they call him the father. Right.
+
+617
+00:40:05,000 --> 00:40:08,000
+That's what he would sound like. He would have.
+
+618
+00:40:08,000 --> 00:40:12,000
+Yes, his head would be giant and perhaps look blue and say this.
+
+619
+00:40:12,000 --> 00:40:15,000
+This is going to seem this is going to be heresy to some people.
+
+620
+00:40:15,000 --> 00:40:17,000
+I think all these voice actors are amazing.
+
+621
+00:40:17,000 --> 00:40:20,000
+And of course, they absolutely are. Peter Cullen's great.
+
+622
+00:40:20,000 --> 00:40:22,000
+It's Frank Walker on the ride. His Megatron.
+
+623
+00:40:22,000 --> 00:40:24,000
+And it's great. It's great voices and great performances.
+
+624
+00:40:24,000 --> 00:40:28,000
+But here's this is one thing I realized that is holding me back from loving this ride.
+
+625
+00:40:28,000 --> 00:40:31,000
+There's a lot of confusion on my end about various things.
+
+626
+00:40:31,000 --> 00:40:32,000
+And I didn't grow up with this.
+
+627
+00:40:32,000 --> 00:40:34,000
+I don't know the difference between Autobots and Decepticons.
+
+628
+00:40:34,000 --> 00:40:38,000
+I do now. I like stared at it. I figured it out. Right.
+
+629
+00:40:38,000 --> 00:40:42,000
+But the ride doesn't really help me. It's just I don't know which one's good and which one's bad.
+
+630
+00:40:42,000 --> 00:40:50,000
+One thing that doesn't help me is that like, OK, Optimus Prime is like, I'm Optimus Prime and Megatron is like, I'm Megatron.
+
+631
+00:40:50,000 --> 00:40:54,000
+Like you're we're like seven degrees apart. Right.
+
+632
+00:40:54,000 --> 00:40:58,000
+Like these are not the one is good. One's the epitome of good.
+
+633
+00:40:58,000 --> 00:41:02,000
+One's the epitome of evil. And but they say the voices sound too similar.
+
+634
+00:41:02,000 --> 00:41:11,000
+I think so. And then and mainly mainly just visually, I was thinking like it would help me if the characters would if they would wear like jerseys.
+
+635
+00:41:11,000 --> 00:41:21,000
+I think they need jerseys. So you want a little patch, maybe, like a like a little like like the red patches mean that they're bad guys.
+
+636
+00:41:21,000 --> 00:41:24,000
+Blue patches. They're good. Yes. Something like lightsabers.
+
+637
+00:41:24,000 --> 00:41:30,000
+Yes. A color coordination, because there's long sections of this ride where I don't know who's good and who's bad.
+
+638
+00:41:30,000 --> 00:41:35,000
+And maybe that's good. Maybe you would consider that like, you know, a cinematic gray area.
+
+639
+00:41:36,000 --> 00:41:41,000
+Well, sure, I was going to say is not Macduff that far removed from Macbeth.
+
+640
+00:41:41,000 --> 00:41:43,000
+Is Iago that different from Othello?
+
+641
+00:41:43,000 --> 00:41:46,000
+You know, you and your books.
+
+642
+00:41:46,000 --> 00:41:52,000
+I couldn't disagree more Megatron gray.
+
+643
+00:41:52,000 --> 00:41:54,000
+Optimus blue and red.
+
+644
+00:41:54,000 --> 00:41:56,000
+He stands much more heroic.
+
+645
+00:41:56,000 --> 00:41:58,000
+Megatron is kind of hunched.
+
+646
+00:41:58,000 --> 00:41:59,000
+I get him in the cartoon more.
+
+647
+00:41:59,000 --> 00:42:05,000
+But in the in this in the filmic depiction, it's all just like metal to me.
+
+648
+00:42:05,000 --> 00:42:07,000
+It's all just gears and metal.
+
+649
+00:42:07,000 --> 00:42:10,000
+Yes. And so I agree with you.
+
+650
+00:42:10,000 --> 00:42:17,000
+What I think where I I'm not looking for, you know, a hardcore story.
+
+651
+00:42:17,000 --> 00:42:21,000
+I just need to understand where against this person there against that one.
+
+652
+00:42:21,000 --> 00:42:32,000
+I'm not I agree at the root of your issue, but I'm not debating whether or not Transformers makes any sense more than do I understand what's going on in the ride and in the ride?
+
+653
+00:42:32,000 --> 00:42:33,000
+I certainly do.
+
+654
+00:42:33,000 --> 00:42:35,000
+Really? OK. Yes.
+
+655
+00:42:35,000 --> 00:42:38,000
+Well, I don't why am I why am I not again?
+
+656
+00:42:38,000 --> 00:42:44,000
+Is this is this another case where my heart is not and also do I have an ally in this in Jason?
+
+657
+00:42:44,000 --> 00:42:46,000
+Do you understand what's happening in this?
+
+658
+00:42:46,000 --> 00:43:00,000
+Well, I do understand what's happening, and I'm going to credit that to the original ride character, Evac, who has a little more personality than the other characters, who's a little more a little more of a human.
+
+659
+00:43:00,000 --> 00:43:01,000
+He's a little more human.
+
+660
+00:43:01,000 --> 00:43:13,000
+Yeah, he's very he's competent, but he's in a little over his head and he's got to do some crazy stuff to like survive this in the way that like
+
+661
+00:43:14,000 --> 00:43:22,000
+I don't I didn't really connect with Wheely until I saw the ride video and realized it was Tom Kenny doing it.
+
+662
+00:43:22,000 --> 00:43:28,000
+You know, I didn't have to do extra research about why should I be scared of Star Scream?
+
+663
+00:43:28,000 --> 00:43:30,000
+Well, Star Scream turns into a jet. That's kind of obvious.
+
+664
+00:43:30,000 --> 00:43:33,000
+Well, that's yeah, he's awesome. He doesn't turn into a pickup truck.
+
+665
+00:43:33,000 --> 00:43:35,000
+He turns into a fucking fighter pilot.
+
+666
+00:43:35,000 --> 00:43:37,000
+He's cool. At the end, he does. He goes shoot soft.
+
+667
+00:43:37,000 --> 00:43:38,000
+Remember that? Yeah.
+
+668
+00:43:38,000 --> 00:43:39,000
+But this is another one of my things.
+
+669
+00:43:39,000 --> 00:43:42,000
+Like I was trying to do the math. OK, I was trying to get him straight.
+
+670
+00:43:42,000 --> 00:43:47,000
+Side swipe is good, but Star Scream is bad.
+
+671
+00:43:47,000 --> 00:43:51,000
+Yes. Ratchet is good, but Ravage is bad.
+
+672
+00:43:51,000 --> 00:43:56,000
+I'll admit this. I get Megatron and Star Scream confused.
+
+673
+00:43:56,000 --> 00:44:01,000
+OK, yeah. I do get some of the Decepticons confused because they're all fairly gray.
+
+674
+00:44:01,000 --> 00:44:07,000
+I'm hearing these names and I'm ultimately like dropping out.
+
+675
+00:44:07,000 --> 00:44:10,000
+I don't know. And only because I'm like, I don't know.
+
+676
+00:44:10,000 --> 00:44:13,000
+I have no idea. It's like I didn't.
+
+677
+00:44:13,000 --> 00:44:18,000
+I know until I started jotting down off a Wikipedia, I had no clue what any of this was.
+
+678
+00:44:18,000 --> 00:44:24,000
+And that to me is, again, the problem with the movie and everything like that.
+
+679
+00:44:25,000 --> 00:44:28,000
+It's just fighting robots.
+
+680
+00:44:28,000 --> 00:44:35,000
+And then some of them are, one looks like a jet, the other one looks like a helicopter, one looks like an ambulance, one is a corvette.
+
+681
+00:44:35,000 --> 00:44:41,000
+I don't know. All I know is that I got a job to do.
+
+682
+00:44:41,000 --> 00:44:44,000
+I got a job to do and I'm going to be there.
+
+683
+00:44:44,000 --> 00:44:46,000
+So you don't get caught up in the details.
+
+684
+00:44:46,000 --> 00:44:50,000
+Maybe I'm too. I'm trying to figure it out too much and I should just go along for the ride.
+
+685
+00:44:50,000 --> 00:44:57,000
+Well, this is I'm so glad because this is where I was going to segue to, which is we're talking about two different experiences.
+
+686
+00:44:57,000 --> 00:45:01,000
+Right. I can say to you, I love Fast and Furious.
+
+687
+00:45:01,000 --> 00:45:03,000
+Right. I think that that is a great film.
+
+688
+00:45:03,000 --> 00:45:06,000
+I also love Jackie Brown.
+
+689
+00:45:06,000 --> 00:45:08,000
+Right. Jackie Brown is a great film.
+
+690
+00:45:08,000 --> 00:45:10,000
+They're very different films.
+
+691
+00:45:10,000 --> 00:45:16,000
+I don't watch Jackie Brown when I want to see Fast and Furious and vice versa.
+
+692
+00:45:16,000 --> 00:45:18,000
+And I believe we got to treat these rights.
+
+693
+00:45:18,000 --> 00:45:20,000
+I'm going back to Rise of the Resistance.
+
+694
+00:45:20,000 --> 00:45:25,000
+Rise of the Resistance is not a thrill ride like Transformers.
+
+695
+00:45:25,000 --> 00:45:31,000
+I would even argue you can't even put them on the same level because, A, we don't have glasses.
+
+696
+00:45:31,000 --> 00:45:33,000
+We're not in 3D.
+
+697
+00:45:33,000 --> 00:45:36,000
+We're in a much more built up world.
+
+698
+00:45:36,000 --> 00:45:40,000
+This is a three dimensional.
+
+699
+00:45:40,000 --> 00:45:43,000
+There's so much going on in that.
+
+700
+00:45:43,000 --> 00:45:51,000
+I almost feel like the comparison of the two is like, you know, it's like, oh, my gosh.
+
+701
+00:45:51,000 --> 00:45:53,000
+I mean, I'm hard.
+
+702
+00:45:53,000 --> 00:45:54,000
+I'm hard pressed.
+
+703
+00:45:54,000 --> 00:45:57,000
+Even think of an insulting comparison.
+
+704
+00:45:57,000 --> 00:45:59,000
+I am macking me in ET.
+
+705
+00:45:59,000 --> 00:46:05,000
+You know, it's like, let's, you know, I think so in my mind, they're two very different experiences.
+
+706
+00:46:05,000 --> 00:46:08,000
+So I go on Transformers, not expecting to follow a plot.
+
+707
+00:46:08,000 --> 00:46:10,000
+I'm just like, get me from one place to the next.
+
+708
+00:46:10,000 --> 00:46:12,000
+I'm falling. I'm flying and I'm driving.
+
+709
+00:46:12,000 --> 00:46:13,000
+I'm going slow and going high.
+
+710
+00:46:13,000 --> 00:46:16,000
+I'm going low and rise.
+
+711
+00:46:16,000 --> 00:46:18,000
+I'm like, let me let me take this in.
+
+712
+00:46:18,000 --> 00:46:19,000
+What am I supposed to be feeling?
+
+713
+00:46:19,000 --> 00:46:20,000
+What are the story points?
+
+714
+00:46:20,000 --> 00:46:21,000
+What are the emotions?
+
+715
+00:46:21,000 --> 00:46:24,000
+Now where I think, you know, what Mike is saying is very valid.
+
+716
+00:46:24,000 --> 00:46:28,000
+Transformers has a cake and eat it too, which is at the end they go.
+
+717
+00:46:28,000 --> 00:46:29,000
+Oh, by the way, this is actually an emotional ride.
+
+718
+00:46:29,000 --> 00:46:34,000
+You were supposed to care about this and we're going to send you on your way and you're like, oh, I do feel love.
+
+719
+00:46:34,000 --> 00:46:36,000
+So they're leaving you at that moment.
+
+720
+00:46:36,000 --> 00:46:38,000
+Like, hey, who cares if the rest of the movie was good at the end?
+
+721
+00:46:38,000 --> 00:46:41,000
+We told you we gave you something and you're going to latch onto that.
+
+722
+00:46:41,000 --> 00:46:42,000
+You're going to walk out the door happy.
+
+723
+00:46:42,000 --> 00:46:46,000
+So I think that, you know, Transformers is very smart in trying to do that.
+
+724
+00:46:46,000 --> 00:46:48,000
+It's not like the mummy, the mummy straight up thrill ride.
+
+725
+00:46:48,000 --> 00:46:51,000
+Mummy, it's like, you fly in and out.
+
+726
+00:46:51,000 --> 00:46:53,000
+Is there a story I don't know?
+
+727
+00:46:53,000 --> 00:46:55,000
+I don't know. I barely.
+
+728
+00:46:55,000 --> 00:46:58,000
+So anyway, that's all I'm going to say is I think it's I think that they're very true.
+
+729
+00:46:58,000 --> 00:46:59,000
+They're two different rides.
+
+730
+00:46:59,000 --> 00:47:03,000
+So I almost find Mike's idea insulting to compare.
+
+731
+00:47:03,000 --> 00:47:04,000
+Well, that's fair.
+
+732
+00:47:04,000 --> 00:47:10,000
+I mean, I would say that the great Roger Ebert would say about films that you have to judge a film based on what the people are saying.
+
+733
+00:47:10,000 --> 00:47:15,000
+Based on what the people were trying to do and what they achieved, what the goal was.
+
+734
+00:47:15,000 --> 00:47:25,000
+And when I talk about Transformers versus Rise of the Resistance, I'm thinking about did they accomplish what they are trying to do, what they're showing me.
+
+735
+00:47:25,000 --> 00:47:31,000
+And also, did they provide me the feeling I would get that I would want from seeing the movie?
+
+736
+00:47:31,000 --> 00:47:34,000
+Is it the ultimate version of it?
+
+737
+00:47:34,000 --> 00:47:39,000
+And I would say like an Indiana Jones is the almost like ultimate version of Indiana Jones.
+
+738
+00:47:39,000 --> 00:47:40,000
+Sure. I buy that's pretty.
+
+739
+00:47:40,000 --> 00:47:43,000
+I agree with everything that you said.
+
+740
+00:47:43,000 --> 00:47:44,000
+Transformers is the ultimate.
+
+741
+00:47:44,000 --> 00:47:45,000
+I mean, look, we're talking about it now.
+
+742
+00:47:45,000 --> 00:47:48,000
+So I may as well just get I have some slides I've prepared as well.
+
+743
+00:47:48,000 --> 00:47:53,000
+So, Brett, if you would put up the slide one, please.
+
+744
+00:47:53,000 --> 00:47:55,000
+So so yeah.
+
+745
+00:47:55,000 --> 00:47:58,000
+So so when I'm talking about that, obviously, I know they're two different ride systems.
+
+746
+00:47:58,000 --> 00:48:03,000
+That one is actually obviously like almost a decade newer.
+
+747
+00:48:03,000 --> 00:48:06,000
+Let's describe some things for the just listeners.
+
+748
+00:48:06,000 --> 00:48:08,000
+But go to the forever.
+
+749
+00:48:08,000 --> 00:48:11,000
+YouTube, if you want to see it is Transformers better than Rise of the Resistance.
+
+750
+00:48:11,000 --> 00:48:18,000
+And you there's the statue, the thinker, the thinker is on the in the first line, pondering the great questions of man.
+
+751
+00:48:18,000 --> 00:48:20,000
+Exactly. So so yeah.
+
+752
+00:48:20,000 --> 00:48:25,000
+So so if we're just judging, oh, yeah, technological advancement or whatever, that that's not that's out the window.
+
+753
+00:48:25,000 --> 00:48:34,000
+I'm really assessing as a person who's seen some Transformers and has seen a lot of Star Wars did these two things.
+
+754
+00:48:34,000 --> 00:48:38,000
+Which one accomplishes the mission more than again?
+
+755
+00:48:38,000 --> 00:48:41,000
+I haven't said definitively what I believe.
+
+756
+00:48:41,000 --> 00:48:43,000
+This is why the focus up here.
+
+757
+00:48:43,000 --> 00:48:45,000
+So you're just asking questions.
+
+758
+00:48:45,000 --> 00:48:47,000
+I'm just asking. I got Tucker Carlson type.
+
+759
+00:48:47,000 --> 00:48:48,000
+I'm just asking questions.
+
+760
+00:48:48,000 --> 00:48:49,000
+Just yeah.
+
+761
+00:48:49,000 --> 00:48:50,000
+Just putting it out there.
+
+762
+00:48:50,000 --> 00:48:54,000
+Some people have said some people are saying you should try to do the face throughout this.
+
+763
+00:48:54,000 --> 00:48:55,000
+The flustered like.
+
+764
+00:48:55,000 --> 00:48:56,000
+So is it better?
+
+765
+00:48:56,000 --> 00:48:57,000
+Is it?
+
+766
+00:48:57,000 --> 00:48:58,000
+Is it?
+
+767
+00:48:59,000 --> 00:49:05,000
+By the way, I think that what you're saying, I just want before we even go forward, I want to say that I'm excited for this.
+
+768
+00:49:05,000 --> 00:49:07,000
+I'm going to look at this with a very open mind.
+
+769
+00:49:07,000 --> 00:49:08,000
+OK, great.
+
+770
+00:49:08,000 --> 00:49:10,000
+We've been in the trenches too much.
+
+771
+00:49:10,000 --> 00:49:11,000
+That's why we needed Paul.
+
+772
+00:49:11,000 --> 00:49:12,000
+OK, we're all sick.
+
+773
+00:49:12,000 --> 00:49:13,000
+We're annoyed with each other.
+
+774
+00:49:13,000 --> 00:49:16,000
+We're all worth sweating in the garage hour after hour.
+
+775
+00:49:16,000 --> 00:49:18,000
+Paul can help clarify.
+
+776
+00:49:18,000 --> 00:49:19,000
+Right. So so yeah.
+
+777
+00:49:19,000 --> 00:49:22,000
+So basically my mission statement, I've kind of already said.
+
+778
+00:49:22,000 --> 00:49:25,000
+But yeah, I'm judging these two.
+
+779
+00:49:25,000 --> 00:49:28,000
+Do they accomplish what they have set out to accomplish?
+
+780
+00:49:28,000 --> 00:49:32,000
+And do I feel satisfied by what they do?
+
+781
+00:49:32,000 --> 00:49:38,000
+I feel satisfied in my experience of experiencing the movie, the franchise, the IP.
+
+782
+00:49:38,000 --> 00:49:40,000
+All right. So let's go to slide two, please.
+
+783
+00:49:40,000 --> 00:49:45,000
+OK, first of all, let's talk characters here.
+
+784
+00:49:45,000 --> 00:49:51,000
+Now, Rise of the Resistance is a long, much longer ride.
+
+785
+00:49:51,000 --> 00:49:59,000
+Much more detailed, much much more varied experience because you obviously there's multiple pre shows.
+
+786
+00:49:59,000 --> 00:50:01,000
+The queue is very long.
+
+787
+00:50:01,000 --> 00:50:10,000
+But I would say that when you look at the number of characters that appear on Rise of the Resistance, there are a lot less than on Transformers.
+
+788
+00:50:10,000 --> 00:50:13,000
+Now, Michael, please read some of these slides for our folks.
+
+789
+00:50:13,000 --> 00:50:14,000
+Oh, yeah, yeah.
+
+790
+00:50:14,000 --> 00:50:17,000
+Some of the great characters I didn't say great.
+
+791
+00:50:17,000 --> 00:50:19,000
+I didn't say great.
+
+792
+00:50:19,000 --> 00:50:21,000
+Never did I say words in his mouth.
+
+793
+00:50:21,000 --> 00:50:22,000
+All right.
+
+794
+00:50:22,000 --> 00:50:29,000
+I'm listening to someone who at this point does not seem insane at this point.
+
+795
+00:50:29,000 --> 00:50:33,000
+Right now, even though the thought to me is an insane comparison.
+
+796
+00:50:33,000 --> 00:50:40,000
+And but no, I'm the insane one for putting great thinking that great might never say great.
+
+797
+00:50:40,000 --> 00:50:41,000
+Never say great.
+
+798
+00:50:41,000 --> 00:50:48,000
+Again, we know at this point that you have a hard time parsing out what people are saying, what they mean.
+
+799
+00:50:48,000 --> 00:50:49,000
+I got it.
+
+800
+00:50:49,000 --> 00:50:50,000
+I got it back off.
+
+801
+00:50:50,000 --> 00:50:51,000
+I got it back off.
+
+802
+00:50:51,000 --> 00:50:59,000
+Media Matters is going to put up Scott Gardner page up and go to go to task if he says if he has a word to some sentence I'm trying to say.
+
+803
+00:50:59,000 --> 00:51:11,000
+Well, also, I mean, there's going to be a Mike Carlson part of that, too, because you have clearly not ranked important like General Moore Showers very low on your list compared to EVAC and Optimus Prime.
+
+804
+00:51:11,000 --> 00:51:12,000
+Obviously, they're going to be first.
+
+805
+00:51:12,000 --> 00:51:15,000
+But I feel like General Moore Showers should get a little more credit.
+
+806
+00:51:15,000 --> 00:51:16,000
+This is not a ranked list.
+
+807
+00:51:16,000 --> 00:51:17,000
+And I'll read it real quick.
+
+808
+00:51:17,000 --> 00:51:18,000
+Transformers.
+
+809
+00:51:18,000 --> 00:51:33,000
+We have EVAC, Optimus Prime, Bumblebee, Side Swipe, Megatron, Bone Cruncher, Ironhide, Wheelie, Ratchet, Ravage, Starscream, Grindr, Sideways, General Moore Showers, and Theodore Stallworth, who, of course, is in the pre-show and explains what's going on.
+
+810
+00:51:33,000 --> 00:51:34,000
+Yeah.
+
+811
+00:51:34,000 --> 00:51:40,000
+Now, Grindr, of course, he's only in the first ride for a second because he looks at his big robot phone and he goes, oh, I'm sorry, I got to go.
+
+812
+00:51:40,000 --> 00:51:42,000
+Actually, someone messaged me.
+
+813
+00:51:42,000 --> 00:51:45,000
+He is the app Grindr come to life is what you're saying.
+
+814
+00:51:45,000 --> 00:51:46,000
+Yeah.
+
+815
+00:51:46,000 --> 00:51:48,000
+He is the hookup app Grindr.
+
+816
+00:51:48,000 --> 00:51:57,000
+And on Rise, we have Finn, Rey, Poe, BB-8, Hux, General Hux, Kylo Ren, Lieutenant Beck, Nine Numb, and some Stormtroopers.
+
+817
+00:51:57,000 --> 00:51:59,000
+And it's like a good number of Stormtroopers.
+
+818
+00:51:59,000 --> 00:52:03,000
+A good number of Stormtroopers that are all mannequins.
+
+819
+00:52:03,000 --> 00:52:04,000
+They're all static.
+
+820
+00:52:04,000 --> 00:52:06,000
+A couple of them wake up in the room.
+
+821
+00:52:06,000 --> 00:52:07,000
+A couple of them wake up.
+
+822
+00:52:07,000 --> 00:52:11,000
+So, OK, there's a lot more characters already with Transformers.
+
+823
+00:52:11,000 --> 00:52:18,000
+Also, I'm trying to take my bias out about this being the newer three and not anything even against the newer three.
+
+824
+00:52:18,000 --> 00:52:22,000
+I obviously would like all nine movies to be represented, but that's not even what I'm talking about.
+
+825
+00:52:22,000 --> 00:52:28,000
+I feel these characters, once you even get out of the queue, once you get out of Beck's ship, you don't see them a lot.
+
+826
+00:52:28,000 --> 00:52:38,000
+You see some Kylo you see a lot of, but they're not as prevalent in the experience as Transformers, which constantly has a giant robot in your face.
+
+827
+00:52:38,000 --> 00:52:40,000
+You're constantly interacting with them.
+
+828
+00:52:40,000 --> 00:52:43,000
+Did you count the character that is on your car?
+
+829
+00:52:43,000 --> 00:52:44,000
+Talk about intimacy.
+
+830
+00:52:44,000 --> 00:52:45,000
+Oh, you're right.
+
+831
+00:52:45,000 --> 00:52:46,000
+I'm sorry.
+
+832
+00:52:46,000 --> 00:52:47,000
+There we go.
+
+833
+00:52:47,000 --> 00:52:48,000
+I'm sorry.
+
+834
+00:52:48,000 --> 00:52:49,000
+I'm talking.
+
+835
+00:52:49,000 --> 00:52:50,000
+I'm saying it.
+
+836
+00:52:50,000 --> 00:52:51,000
+There is a character in your car and that's intimacy.
+
+837
+00:52:51,000 --> 00:52:52,000
+That's true.
+
+838
+00:52:52,000 --> 00:52:53,000
+He's like Eve.
+
+839
+00:52:53,000 --> 00:52:55,000
+I mean, look, is it a rip off of Evac?
+
+840
+00:52:55,000 --> 00:52:56,000
+A little bit.
+
+841
+00:52:56,000 --> 00:52:57,000
+Just a little bit.
+
+842
+00:52:57,000 --> 00:52:58,000
+Take media.
+
+843
+00:52:58,000 --> 00:53:00,000
+Straight to media matters with you.
+
+844
+00:53:00,000 --> 00:53:01,000
+All right.
+
+845
+00:53:01,000 --> 00:53:02,000
+Continue this charade.
+
+846
+00:53:02,000 --> 00:53:03,000
+Let's go to slide three.
+
+847
+00:53:03,000 --> 00:53:04,000
+I think it's slide three.
+
+848
+00:53:04,000 --> 00:53:05,000
+So what happens on Rise?
+
+849
+00:53:05,000 --> 00:53:07,000
+OK, you walk through the dirty line.
+
+850
+00:53:07,000 --> 00:53:09,000
+You chat with Ray and BB8.
+
+851
+00:53:09,000 --> 00:53:11,000
+You walk outside into the elements.
+
+852
+00:53:11,000 --> 00:53:12,000
+Lieutenant Beck ship part.
+
+853
+00:53:12,000 --> 00:53:13,000
+You see his smiling face.
+
+854
+00:53:13,000 --> 00:53:14,000
+You see all the stormtroopers.
+
+855
+00:53:14,000 --> 00:53:15,000
+They're all mannequins.
+
+856
+00:53:15,000 --> 00:53:16,000
+They're all standing there.
+
+857
+00:53:16,000 --> 00:53:17,000
+It's kind of cool.
+
+858
+00:53:17,000 --> 00:53:18,000
+You see so many.
+
+859
+00:53:18,000 --> 00:53:19,000
+There's sheer volume.
+
+860
+00:53:19,000 --> 00:53:20,000
+OK.
+
+861
+00:53:20,000 --> 00:53:21,000
+There's 20 mannequins.
+
+862
+00:53:21,000 --> 00:53:28,000
+What I would like to offer up, Mike, I believe that if you are presenting this argument,
+
+863
+00:53:28,000 --> 00:53:31,000
+you cannot be presenting bias.
+
+864
+00:53:31,000 --> 00:53:32,000
+You are the great thinker.
+
+865
+00:53:32,000 --> 00:53:33,000
+All right.
+
+866
+00:53:33,000 --> 00:53:34,000
+You're right.
+
+867
+00:53:34,000 --> 00:53:35,000
+You're right.
+
+868
+00:53:35,000 --> 00:53:36,000
+You're not walking into a room of mannequins.
+
+869
+00:53:36,000 --> 00:53:37,000
+You're walking into an impressive loading dock.
+
+870
+00:53:38,000 --> 00:53:41,000
+Many stormtroopers and one of the biggest screens you've ever seen.
+
+871
+00:53:41,000 --> 00:53:44,000
+We don't make tend to think screens are a virtue.
+
+872
+00:53:44,000 --> 00:53:46,000
+That vista into space is so grand.
+
+873
+00:53:46,000 --> 00:53:49,000
+It's a jaw dropper.
+
+874
+00:53:49,000 --> 00:53:50,000
+I saw your jaw.
+
+875
+00:53:50,000 --> 00:53:51,000
+We were all four of us were there.
+
+876
+00:53:51,000 --> 00:53:52,000
+We saw the jaw.
+
+877
+00:53:52,000 --> 00:53:53,000
+I will say this.
+
+878
+00:53:53,000 --> 00:53:56,000
+Lieutenant Beck part is my favorite part of the whole ride.
+
+879
+00:53:56,000 --> 00:54:02,000
+Seeing Lieutenant Beck getting up close, getting up in his face is what I like.
+
+880
+00:54:02,000 --> 00:54:04,000
+And you saw me probably do it at the time.
+
+881
+00:54:04,000 --> 00:54:07,000
+You mean to a real figure that you're in a room with?
+
+882
+00:54:07,000 --> 00:54:09,000
+Well, I said that's my favorite part.
+
+883
+00:54:09,000 --> 00:54:12,000
+I agree that he is in there, but that's not even the part of the main part of the ride.
+
+884
+00:54:12,000 --> 00:54:13,000
+OK.
+
+885
+00:54:13,000 --> 00:54:14,000
+OK.
+
+886
+00:54:14,000 --> 00:54:15,000
+So then you wait in the line a while.
+
+887
+00:54:15,000 --> 00:54:16,000
+It's more line.
+
+888
+00:54:16,000 --> 00:54:18,000
+You crane your neck to some bucks and carlo.
+
+889
+00:54:18,000 --> 00:54:20,000
+I didn't see you row real long.
+
+890
+00:54:20,000 --> 00:54:28,000
+This is a very, you know, if I'm here, I watch a lot of court TV.
+
+891
+00:54:28,000 --> 00:54:30,000
+I would say objection, your honor.
+
+892
+00:54:30,000 --> 00:54:38,000
+This is this is, you know, I would say something more legal, but I would say at this point, you're you're you're you're creating a false narrative.
+
+893
+00:54:38,000 --> 00:54:39,000
+OK, I will.
+
+894
+00:54:39,000 --> 00:54:44,000
+You're clear. You're purposefully presenting negative versions of this.
+
+895
+00:54:44,000 --> 00:54:54,000
+This is if you want to present the facts, present the facts, but you cannot be painting it with any sort of, you know, any sort of brush because you're losing me on this.
+
+896
+00:54:55,000 --> 00:54:56,000
+Which part got you?
+
+897
+00:54:56,000 --> 00:55:01,000
+Because I'm sorry, I stopped to point out that you wrote evac ripoff in the text.
+
+898
+00:55:01,000 --> 00:55:04,000
+What was it? Oh, what were you red flagging specifically?
+
+899
+00:55:04,000 --> 00:55:08,000
+Training your neck to see like there's no issue.
+
+900
+00:55:08,000 --> 00:55:10,000
+They're like, you got to go.
+
+901
+00:55:10,000 --> 00:55:20,000
+It's like like the high screens on the transformer ride, which are sometimes your vision is blocked by the severe side of the vehicle that you are often pressed up right against.
+
+902
+00:55:20,000 --> 00:55:23,000
+But you I always go front row, so I've never actually experienced that.
+
+903
+00:55:23,000 --> 00:55:31,000
+Well, Mike, I'm going to say I the ride, the evac style vehicle that doesn't bump me bump for me.
+
+904
+00:55:31,000 --> 00:55:32,000
+That doesn't rub me the wrong way.
+
+905
+00:55:32,000 --> 00:55:41,000
+But I'm seeing I'm not seeing you mention that Rises Resistance involves an elevator segment.
+
+906
+00:55:41,000 --> 00:55:45,000
+Transformers also involves a secret elevator segment.
+
+907
+00:55:45,000 --> 00:55:53,000
+And the the one of the guys overseeing the Star Wars stuff, Scott Trowbridge, yes, was involved in the amazing adventures with Spider-Man.
+
+908
+00:55:53,000 --> 00:55:55,000
+So an elevator man.
+
+909
+00:55:55,000 --> 00:55:57,000
+Yeah, he's an elevator man.
+
+910
+00:55:57,000 --> 00:56:00,000
+That's a well, I'll say I have thoughts about the elevator.
+
+911
+00:56:00,000 --> 00:56:03,000
+Yeah, I'll finish reading this and I will take any bias.
+
+912
+00:56:03,000 --> 00:56:05,000
+I will I will rephrase everything to make it sound.
+
+913
+00:56:05,000 --> 00:56:07,000
+I think you need to come in with your plan.
+
+914
+00:56:07,000 --> 00:56:11,000
+I think you can flag it when he feels the.
+
+915
+00:56:11,000 --> 00:56:12,000
+All right.
+
+916
+00:56:12,000 --> 00:56:13,000
+All right.
+
+917
+00:56:13,000 --> 00:56:14,000
+Give us your dad.
+
+918
+00:56:14,000 --> 00:56:15,000
+Yeah.
+
+919
+00:56:15,000 --> 00:56:16,000
+Pretend you're at the belly room.
+
+920
+00:56:16,000 --> 00:56:17,000
+All right.
+
+921
+00:56:17,000 --> 00:56:18,000
+Five at midnight.
+
+922
+00:56:18,000 --> 00:56:19,000
+You know.
+
+923
+00:56:19,000 --> 00:56:20,000
+OK.
+
+924
+00:56:20,000 --> 00:56:21,000
+Yeah.
+
+925
+00:56:21,000 --> 00:56:22,000
+So OK.
+
+926
+00:56:22,000 --> 00:56:27,000
+The right the evac ripoff vehicle and on the debt dirty floor that has all the lines on it from the other.
+
+927
+00:56:27,000 --> 00:56:29,000
+There's a hole in the wall and it opens.
+
+928
+00:56:29,000 --> 00:56:30,000
+Yes.
+
+929
+00:56:30,000 --> 00:56:31,000
+That is technically what happens.
+
+930
+00:56:31,000 --> 00:56:35,000
+I am not going to stop it at every point.
+
+931
+00:56:35,000 --> 00:56:36,000
+OK.
+
+932
+00:56:36,000 --> 00:56:38,000
+I'll stop it when I feel like it's egregious.
+
+933
+00:56:38,000 --> 00:56:39,000
+OK.
+
+934
+00:56:39,000 --> 00:56:48,000
+At that point, you know, two stormtroopers see you and you hear them shoot at you for a little while, which is.
+
+935
+00:56:48,000 --> 00:56:49,000
+What do you mean?
+
+936
+00:56:49,000 --> 00:56:50,000
+There's a hole in the wall.
+
+937
+00:56:50,000 --> 00:56:52,000
+There's a lighter to shoot at you.
+
+938
+00:56:52,000 --> 00:56:56,000
+It's things walls that you don't know are screens that become screens.
+
+939
+00:56:56,000 --> 00:56:57,000
+Is it that point?
+
+940
+00:56:57,000 --> 00:56:58,000
+I think that's later.
+
+941
+00:56:58,000 --> 00:56:59,000
+It's more than meets the eye.
+
+942
+00:56:59,000 --> 00:57:02,000
+Such I mean, you are losing your audience.
+
+943
+00:57:02,000 --> 00:57:03,000
+You're losing your audience.
+
+944
+00:57:03,000 --> 00:57:04,000
+Like, here's what I would say.
+
+945
+00:57:04,000 --> 00:57:05,000
+Right.
+
+946
+00:57:05,000 --> 00:57:06,000
+OK.
+
+947
+00:57:06,000 --> 00:57:07,000
+Go ahead.
+
+948
+00:57:07,000 --> 00:57:08,000
+You can.
+
+949
+00:57:08,000 --> 00:57:09,000
+I mean, like, I'm just trying.
+
+950
+00:57:09,000 --> 00:57:26,000
+I'm trying to help you present your because you can't you can't look at us and say one of the most impressive new rides of all time from a technological storytelling perspective is this.
+
+951
+00:57:26,000 --> 00:57:31,000
+Yeah, like you're treating it like, well, I mean, they got this gunky junky thing.
+
+952
+00:57:31,000 --> 00:57:37,000
+Now, if you're talking about smugglers run, I may have I could say, OK, yeah, maybe it's a little bit more.
+
+953
+00:57:37,000 --> 00:57:50,000
+You know, the actual ride doesn't really have that much, but there's got a lot of you can't you cannot shit on the literally the world building and the and the the ride itself is top notch.
+
+954
+00:57:50,000 --> 00:57:51,000
+It is top notch.
+
+955
+00:57:52,000 --> 00:57:56,000
+But you are really ripping this ride as if you're open.
+
+956
+00:57:56,000 --> 00:58:03,000
+Like, it's like you remember when you get like those Sonic pops like from from an ice cream truck and the image of the Sonic pop is so amazing.
+
+957
+00:58:03,000 --> 00:58:05,000
+Oh, I can't wait to eat the Sonic pop and you open it up.
+
+958
+00:58:05,000 --> 00:58:09,000
+It's like a melted Sonic or a melted Donatello.
+
+959
+00:58:09,000 --> 00:58:12,000
+Like, yes, that's you know, that's how you're describing this ride.
+
+960
+00:58:12,000 --> 00:58:15,000
+Like, it's like it's always the milk that it's it's never achieved.
+
+961
+00:58:15,000 --> 00:58:16,000
+Then you can't do that.
+
+962
+00:58:16,000 --> 00:58:17,000
+OK.
+
+963
+00:58:17,000 --> 00:58:18,000
+All right.
+
+964
+00:58:18,000 --> 00:58:19,000
+Well, OK.
+
+965
+00:58:19,000 --> 00:58:26,000
+Then you go by squint and you can see Finn Robot and he's like 25 feet away because he's really hard.
+
+966
+00:58:26,000 --> 00:58:27,000
+You got to poke the guy next to you.
+
+967
+00:58:27,000 --> 00:58:29,000
+He is kind of wedged in there and you really only.
+
+968
+00:58:29,000 --> 00:58:30,000
+He's hidden. It's a fun little.
+
+969
+00:58:30,000 --> 00:58:31,000
+All right.
+
+970
+00:58:31,000 --> 00:58:32,000
+I'll stay. OK. OK.
+
+971
+00:58:32,000 --> 00:58:33,000
+We're almost done. We're almost done.
+
+972
+00:58:33,000 --> 00:58:34,000
+We're almost done.
+
+973
+00:58:34,000 --> 00:58:35,000
+It's supposed to be wedged.
+
+974
+00:58:35,000 --> 00:58:36,000
+It's a hiding.
+
+975
+00:58:36,000 --> 00:58:37,000
+He's hiding.
+
+976
+00:58:37,000 --> 00:58:38,000
+He's not in the open.
+
+977
+00:58:38,000 --> 00:58:39,000
+He gets shot.
+
+978
+00:58:39,000 --> 00:58:40,000
+You get blasted to pieces.
+
+979
+00:58:40,000 --> 00:58:42,000
+It is a cost cutting statue.
+
+980
+00:58:42,000 --> 00:58:43,000
+We're almost done.
+
+981
+00:58:43,000 --> 00:58:44,000
+It is a statue.
+
+982
+00:58:44,000 --> 00:58:45,000
+OK.
+
+983
+00:58:45,000 --> 00:58:46,000
+So then you.
+
+984
+00:58:46,000 --> 00:58:47,000
+How many animatronics are in Transformers?
+
+985
+00:58:47,000 --> 00:58:48,000
+Go.
+
+986
+00:58:48,000 --> 00:58:49,000
+I don't say the amount.
+
+987
+00:58:49,000 --> 00:58:53,000
+Well, it did cost 100 million versus the half a billion dollars it took to build.
+
+988
+00:58:53,000 --> 00:58:54,000
+Jason's still wedging the facts.
+
+989
+00:58:54,000 --> 00:58:55,000
+Right.
+
+990
+00:58:55,000 --> 00:58:56,000
+There is a.
+
+991
+00:58:56,000 --> 00:58:57,000
+There's panic setting over you.
+
+992
+00:58:57,000 --> 00:58:58,000
+If I don't get the facts.
+
+993
+00:58:58,000 --> 00:59:01,000
+Look, we all have our little things we like.
+
+994
+00:59:01,000 --> 00:59:02,000
+He gets shot.
+
+995
+00:59:02,000 --> 00:59:03,000
+OK.
+
+996
+00:59:03,000 --> 00:59:05,000
+You get shot up by the AT&T if you're lucky.
+
+997
+00:59:05,000 --> 00:59:07,000
+If not, like there's another.
+
+998
+00:59:07,000 --> 00:59:08,000
+You get shot kind of again.
+
+999
+00:59:08,000 --> 00:59:10,000
+But you want to get shot by that ATT.
+
+1000
+00:59:10,000 --> 00:59:11,000
+ATAT.
+
+1001
+00:59:11,000 --> 00:59:12,000
+Excuse me.
+
+1002
+00:59:12,000 --> 00:59:13,000
+Then Kylo.
+
+1003
+00:59:13,000 --> 00:59:14,000
+I misspelled it as Kyle.
+
+1004
+00:59:14,000 --> 00:59:17,000
+Kyle kind of chases you.
+
+1005
+00:59:17,000 --> 00:59:18,000
+And that's cool.
+
+1006
+00:59:18,000 --> 00:59:19,000
+I mean, you see the bridge, you see the robot.
+
+1007
+00:59:19,000 --> 00:59:21,000
+There is a robot of Hux and Kyle there.
+
+1008
+00:59:21,000 --> 00:59:22,000
+And that's Kyle.
+
+1009
+00:59:22,000 --> 00:59:23,000
+Everyone looks at me like Kyle.
+
+1010
+00:59:23,000 --> 00:59:24,000
+And then you get to the big gun room.
+
+1011
+00:59:24,000 --> 00:59:25,000
+And I will say this.
+
+1012
+00:59:25,000 --> 00:59:26,000
+I love the big gun room.
+
+1013
+00:59:26,000 --> 00:59:27,000
+Big gun room is huge fan of the big gun room.
+
+1014
+00:59:27,000 --> 00:59:28,000
+My second favorite part of the ride other than the Lieutenant Beck stuff.
+
+1015
+00:59:28,000 --> 00:59:29,000
+The big gun part.
+
+1016
+00:59:29,000 --> 00:59:30,000
+Awesome.
+
+1017
+00:59:30,000 --> 00:59:31,000
+This is the moment where you can shit on Rise.
+
+1018
+00:59:31,000 --> 00:59:34,000
+And you go, gun room, while impressive, seemingly is the part of the ride that never works and
+
+1019
+00:59:34,000 --> 00:59:35,000
+then you go, oh, I'm going to go to the big gun room.
+
+1020
+00:59:35,000 --> 00:59:36,000
+And you go, oh, I'm going to go to the big gun room.
+
+1021
+00:59:36,000 --> 00:59:37,000
+And you go, oh, I'm going to go to the big gun room.
+
+1022
+00:59:38,000 --> 00:59:39,000
+And that's the moment where you can shit on Rise.
+
+1023
+00:59:39,000 --> 00:59:47,000
+And you go, gun room, while impressive, seemingly is the part of the ride that never works and
+
+1024
+00:59:47,000 --> 00:59:50,000
+always breaks down and breaks the entire thing.
+
+1025
+00:59:50,000 --> 00:59:51,000
+That gun room is...
+
+1026
+00:59:51,000 --> 00:59:52,000
+Is that it?
+
+1027
+00:59:52,000 --> 00:59:53,000
+Is that why it closes so often?
+
+1028
+00:59:53,000 --> 00:59:54,000
+I don't think I knew that.
+
+1029
+00:59:54,000 --> 01:00:00,240
+Yeah, that gun room is the source of all issues in Rise from what I understand.
+
+1030
+01:00:00,240 --> 01:00:04,520
+I believe there's a story about when they were first testing that room, one of the guns
+
+1031
+01:00:04,520 --> 01:00:09,520
+was a little off and hit the wall and shook the building.
+
+1032
+01:00:09,520 --> 01:00:11,520
+That's how strong those guns are.
+
+1033
+01:00:11,520 --> 01:00:15,520
+I will say this in your defense, to your point.
+
+1034
+01:00:15,520 --> 01:00:19,520
+You're talking about fulfilling the intention of the people who made the ride.
+
+1035
+01:00:19,520 --> 01:00:23,520
+The intention was for Rise of the Resistance to be open a lot.
+
+1036
+01:00:23,520 --> 01:00:26,520
+They have not necessarily made good on that intention.
+
+1037
+01:00:26,520 --> 01:00:27,520
+That's true.
+
+1038
+01:00:27,520 --> 01:00:29,520
+So, yeah, the big gun part is awesome.
+
+1039
+01:00:29,520 --> 01:00:32,520
+At that point, you really got battle damage on the wall, which I do like.
+
+1040
+01:00:32,520 --> 01:00:37,520
+Then you see Kyle again, the Kyle robot, and he gets blown up.
+
+1041
+01:00:37,520 --> 01:00:38,520
+That's cool.
+
+1042
+01:00:38,520 --> 01:00:39,520
+Hopefully that's working.
+
+1043
+01:00:39,520 --> 01:00:40,520
+Also, that's another issue, I think.
+
+1044
+01:00:40,520 --> 01:00:45,520
+Luckily, they have the fix, which is the screens, which is a good, smart thing to do.
+
+1045
+01:00:45,520 --> 01:00:52,520
+That scene shares a little with the Transformers ride in that it's kind of hard to tell what
+
+1046
+01:00:52,520 --> 01:00:54,520
+the fuck is going on.
+
+1047
+01:00:54,520 --> 01:00:55,520
+It's kind of a nod.
+
+1048
+01:00:55,520 --> 01:00:56,520
+It's a ripoff.
+
+1049
+01:00:56,520 --> 01:00:57,520
+It's kind of a nod.
+
+1050
+01:00:57,520 --> 01:00:58,520
+It's kind of a nod.
+
+1051
+01:00:58,520 --> 01:00:59,520
+A mode or B mode.
+
+1052
+01:00:59,520 --> 01:01:00,520
+It's smeary.
+
+1053
+01:01:00,520 --> 01:01:01,520
+Yeah, that's true.
+
+1054
+01:01:01,520 --> 01:01:05,520
+So then you go and you get in the little pod, and it's the screen part where you're flying
+
+1055
+01:01:05,520 --> 01:01:11,520
+down, and then you go outside, which is cool, and you see Beck again, who's my guy.
+
+1056
+01:01:11,520 --> 01:01:12,520
+It's impressive that you're outside.
+
+1057
+01:01:12,520 --> 01:01:13,520
+We talked about this before.
+
+1058
+01:01:13,520 --> 01:01:14,520
+It's impressive that you're outside and the thing goes in.
+
+1059
+01:01:14,520 --> 01:01:19,520
+You're delivered right to the ... Pinpoint accuracy to your gate, where you step off
+
+1060
+01:01:19,520 --> 01:01:25,520
+in awe, all four people in this discussion, in awe of what they just experienced.
+
+1061
+01:01:25,520 --> 01:01:26,520
+100%.
+
+1062
+01:01:26,520 --> 01:01:27,520
+Now, I will say this.
+
+1063
+01:01:27,520 --> 01:01:28,520
+I'm going to go out.
+
+1064
+01:01:28,520 --> 01:01:29,520
+I've heard your argument.
+
+1065
+01:01:30,520 --> 01:01:31,520
+I'm not going to jump in right yet.
+
+1066
+01:01:31,520 --> 01:01:34,520
+We have more to say, but I'm going to say this.
+
+1067
+01:01:34,520 --> 01:01:41,520
+If we are just talking about what ride works the best, I will say hands down, Transformers,
+
+1068
+01:01:41,520 --> 01:01:46,520
+day and night, there is no comparison.
+
+1069
+01:01:46,520 --> 01:01:50,520
+Transformers is a better functioning ride.
+
+1070
+01:01:50,520 --> 01:01:59,520
+As I have been on Rise of the Resistance probably five or six times, and easily three
+
+1071
+01:01:59,520 --> 01:02:03,520
+or four of those times, it has shut down in the middle of the ride.
+
+1072
+01:02:03,520 --> 01:02:07,520
+I'll say this too.
+
+1073
+01:02:07,520 --> 01:02:11,520
+I've been to Disneyland a lot of times since the ride opened, and there are a lot of days,
+
+1074
+01:02:11,520 --> 01:02:17,520
+most days, I would say, where I don't feel like doing the hassle of getting on that ride,
+
+1075
+01:02:17,520 --> 01:02:22,520
+of maybe losing a bunch of time, to waiting in a line where then it gets shut down.
+
+1076
+01:02:22,520 --> 01:02:26,520
+There are downsides to deciding today is a Rise of the Resistance.
+
+1077
+01:02:26,520 --> 01:02:30,520
+I went to Florida and I had the same issue.
+
+1078
+01:02:30,520 --> 01:02:37,520
+We got on, we got in there, we did the whole thing, and it died midway through.
+
+1079
+01:02:37,520 --> 01:02:42,520
+I was down in Florida last fall with my family, tried multiple times.
+
+1080
+01:02:42,520 --> 01:02:46,520
+They had just stopped the, like the week before we were there, they just stopped the virtual
+
+1081
+01:02:46,520 --> 01:02:51,520
+queue, so we got there at early park opening, went to get in line, ride shut down.
+
+1082
+01:02:51,520 --> 01:02:59,520
+Another day, tried, and that day, tried to buy the $15 whatever Genie Plus add-on.
+
+1083
+01:02:59,520 --> 01:03:03,520
+Too many people doing it at 7 a.m.
+
+1084
+01:03:03,520 --> 01:03:05,520
+Freaking out.
+
+1085
+01:03:05,520 --> 01:03:08,520
+Put it in the cart, went to check out, gone from the cart.
+
+1086
+01:03:08,520 --> 01:03:09,520
+Error messages.
+
+1087
+01:03:09,520 --> 01:03:12,520
+So my girlfriend and I have ridden it.
+
+1088
+01:03:12,520 --> 01:03:19,520
+My dad and brother who do not live next to Disney Park, have not, didn't get to it.
+
+1089
+01:03:19,520 --> 01:03:21,520
+That's rough.
+
+1090
+01:03:21,520 --> 01:03:22,520
+That's rough.
+
+1091
+01:03:22,520 --> 01:03:27,520
+Look, if I, okay, I'll drop 50% of the, I'll drop 50% of the K-Fab real quick here.
+
+1092
+01:03:27,520 --> 01:03:31,520
+If we're also talking about, okay, this is the ultimate Star Wars ride.
+
+1093
+01:03:31,520 --> 01:03:34,520
+This is how it was always presented, and that's no bullshit.
+
+1094
+01:03:34,520 --> 01:03:38,520
+That's how it was like, this is the ultimate number one thing, Star Wars ride.
+
+1095
+01:03:38,520 --> 01:03:40,520
+You're going to get to experience Star Wars.
+
+1096
+01:03:40,520 --> 01:03:44,520
+And it's like, the queue I feel like builds you up perfectly.
+
+1097
+01:03:44,520 --> 01:03:47,520
+You get exactly sort of that experience that you would want.
+
+1098
+01:03:47,520 --> 01:03:51,520
+But I do, and I've said this before on the ride, on podcasts, the ride.
+
+1099
+01:03:51,520 --> 01:03:53,520
+I've said that I don't, I feel like the big trick.
+
+1100
+01:03:53,520 --> 01:03:55,520
+And what's the name of that show?
+
+1101
+01:03:55,520 --> 01:03:57,520
+It's around, it's on things.
+
+1102
+01:03:57,520 --> 01:03:59,520
+Wherever you get your podcasts.
+
+1103
+01:03:59,520 --> 01:04:00,520
+The Forever Dog now?
+
+1104
+01:04:00,520 --> 01:04:02,520
+Forever Dog.
+
+1105
+01:04:02,520 --> 01:04:07,520
+Is that the big trick of the ride is scope, and that's kind of it.
+
+1106
+01:04:07,520 --> 01:04:12,520
+As far as like, if you're actually under siege, you're getting shot up by stormtroopers.
+
+1107
+01:04:12,520 --> 01:04:17,520
+You're not getting sort of the visceral thrills that you're getting on Indiana Jones because of the ride vehicle.
+
+1108
+01:04:17,520 --> 01:04:18,520
+The ride vehicle is very smooth.
+
+1109
+01:04:18,520 --> 01:04:26,520
+So I kind of feel like if you were going to do a thing where you explore a big Star Destroyer, I do want more character stuff.
+
+1110
+01:04:26,520 --> 01:04:31,520
+If I'm not going to get jostled by blasts, if I'm not going to get attacked by probe droids,
+
+1111
+01:04:31,520 --> 01:04:36,520
+or if like stuff is not going to happen to me like on Indiana Jones where you're constantly, like your body is in terror.
+
+1112
+01:04:36,520 --> 01:04:38,520
+I, first of all, I disagree with that.
+
+1113
+01:04:38,520 --> 01:04:41,520
+I've talked to so many people about Indiana Jones.
+
+1114
+01:04:41,520 --> 01:04:47,520
+Now I, I don't know about you guys, I've never stared into the eye on the Indiana Jones.
+
+1115
+01:04:47,520 --> 01:04:48,520
+Really? Wow.
+
+1116
+01:04:48,520 --> 01:04:49,520
+I've had a normal ride.
+
+1117
+01:04:49,520 --> 01:04:50,520
+I've had a very normal ride through caves.
+
+1118
+01:04:50,520 --> 01:04:51,520
+Oh, it's just regular.
+
+1119
+01:04:51,520 --> 01:04:55,520
+People are talking about a much more intense experience.
+
+1120
+01:04:55,520 --> 01:04:56,520
+We've always gone through the right door.
+
+1121
+01:04:56,520 --> 01:04:58,520
+You guys know, you guys have not had that experience?
+
+1122
+01:04:58,520 --> 01:05:01,520
+It's a totally, yeah, I know.
+
+1123
+01:05:01,520 --> 01:05:03,520
+The lights are off and it's, there's lasers.
+
+1124
+01:05:03,520 --> 01:05:04,520
+Very smooth.
+
+1125
+01:05:04,520 --> 01:05:05,520
+Yeah, very smooth ride.
+
+1126
+01:05:05,520 --> 01:05:06,520
+You've done the Jurassic.
+
+1127
+01:05:06,520 --> 01:05:07,520
+You're always boring anyway.
+
+1128
+01:05:07,520 --> 01:05:08,520
+Yeah.
+
+1129
+01:05:08,520 --> 01:05:09,520
+You've done the Jurassic Park.
+
+1130
+01:05:09,520 --> 01:05:10,520
+Like you guys, yeah.
+
+1131
+01:05:10,520 --> 01:05:11,520
+Wow, that's crazy.
+
+1132
+01:05:11,520 --> 01:05:16,520
+Here's what I'll say about the Star Wars experience, right?
+
+1133
+01:05:16,520 --> 01:05:22,520
+If we're going to, without getting into a larger Star Wars conversation, feel free to dispute this,
+
+1134
+01:05:22,520 --> 01:05:26,520
+but I'm just saying like I don't need to break down the prequels and all that bullshit.
+
+1135
+01:05:26,520 --> 01:05:34,520
+But the idea of Star Wars ultimately on some level is you get sucked up, you get trapped, you got to get out.
+
+1136
+01:05:34,520 --> 01:05:35,520
+Right?
+
+1137
+01:05:35,520 --> 01:05:37,520
+Like that's like that is Star Wars one.
+
+1138
+01:05:37,520 --> 01:05:41,520
+Like that is Star Wars number one in the prequels.
+
+1139
+01:05:41,520 --> 01:05:44,520
+That is Star Wars number one in the in the sequels.
+
+1140
+01:05:44,520 --> 01:05:45,520
+Like right.
+
+1141
+01:05:45,520 --> 01:05:46,520
+And that's what it gives you.
+
+1142
+01:05:46,520 --> 01:05:48,520
+It gives you the generic.
+
+1143
+01:05:48,520 --> 01:05:53,520
+Yes, Kyle is there, but it gives you a pretty generic idea.
+
+1144
+01:05:53,520 --> 01:05:56,520
+Like if you want it to be the Death Star, it's the Death Star.
+
+1145
+01:05:56,520 --> 01:05:59,520
+You know, you get, you get brought in.
+
+1146
+01:05:59,520 --> 01:06:02,520
+We see familiar characters from a bunch of different worlds,
+
+1147
+01:06:02,520 --> 01:06:06,520
+but it doesn't set itself in like a time frame.
+
+1148
+01:06:06,520 --> 01:06:10,520
+It's not like, OK, this is post rise.
+
+1149
+01:06:10,520 --> 01:06:17,520
+This, you know, I think it can be enjoyed ultimately as an evergreen experience for the most part.
+
+1150
+01:06:17,520 --> 01:06:20,520
+Yes, Ray is there. Yes, Kylo Ren is there.
+
+1151
+01:06:20,520 --> 01:06:26,520
+But the experience, the ride that you're getting is the most Star Wars type of experience,
+
+1152
+01:06:26,520 --> 01:06:28,520
+which is we all want to go to the Death Star.
+
+1153
+01:06:28,520 --> 01:06:30,520
+We want to be captured by stormtroopers.
+
+1154
+01:06:30,520 --> 01:06:31,520
+We're getting all that.
+
+1155
+01:06:31,520 --> 01:06:32,520
+We don't have Darth Vader.
+
+1156
+01:06:32,520 --> 01:06:33,520
+Would it be better at Darth Vader?
+
+1157
+01:06:33,520 --> 01:06:35,520
+Yeah, sure.
+
+1158
+01:06:35,520 --> 01:06:40,520
+Sure. But, you know, but at the same time, what Darth Vader and Kylo Ren are giving me,
+
+1159
+01:06:40,520 --> 01:06:43,520
+if you change the mask, it would be the same ride.
+
+1160
+01:06:43,520 --> 01:06:46,520
+Ultimately, it is missing a central component of Star Wars,
+
+1161
+01:06:46,520 --> 01:06:52,520
+which is British character actors from the ages of very young to very, very old.
+
+1162
+01:06:52,520 --> 01:06:55,520
+Yes, that is could use some very old.
+
+1163
+01:06:55,520 --> 01:07:00,520
+I mean, I'd love an old CG Grand Moff Tark, deep faked Grand Moff Tark.
+
+1164
+01:07:00,520 --> 01:07:03,520
+I'd love that. I mean, yeah, we can do it. We can build it.
+
+1165
+01:07:03,520 --> 01:07:08,520
+We want to do it. But yeah, so like, I guess really what if I was plussing that ride up
+
+1166
+01:07:08,520 --> 01:07:13,520
+after I've been on it a couple of times, it's like, then I would go, OK, you go into like a room,
+
+1167
+01:07:13,520 --> 01:07:19,520
+a little room and like raise there and she summons an old Jedi master and it's like Yoda or it's Luke.
+
+1168
+01:07:19,520 --> 01:07:22,520
+Like, I feel like it's missing some of this warmth that I want to feel.
+
+1169
+01:07:22,520 --> 01:07:25,520
+It's missing some of the intimacy. I know it's about scope.
+
+1170
+01:07:25,520 --> 01:07:28,520
+So if we're not, if it's just because there's a limitation on the vehicle
+
+1171
+01:07:28,520 --> 01:07:35,520
+and we're not going to get a crazy sort of like a fight or flight response that our bodies give you on Transformers,
+
+1172
+01:07:35,520 --> 01:07:40,520
+I do want a couple scenes where I feel the different feelings of Star Wars,
+
+1173
+01:07:40,520 --> 01:07:43,520
+not just sort of the scope of being on a Star Destroyer.
+
+1174
+01:07:43,520 --> 01:07:48,520
+And it can be with Rey. It can be with the other ones, Finn and Poe.
+
+1175
+01:07:48,520 --> 01:07:51,520
+It could be any of those characters. It doesn't need to be with my guys.
+
+1176
+01:07:51,520 --> 01:07:56,520
+It doesn't need to be with Dexter Jettster, even though, of course, I would like that the best.
+
+1177
+01:07:56,520 --> 01:07:59,520
+Do you want you want Han to say I know to you?
+
+1178
+01:07:59,520 --> 01:08:04,520
+Do I want to kiss Han and have him say I'll say I love you?
+
+1179
+01:08:04,520 --> 01:08:06,520
+And he says, I know. Yes, I do want that.
+
+1180
+01:08:06,520 --> 01:08:10,520
+But yes, so that's I guess that's really what I feel.
+
+1181
+01:08:10,520 --> 01:08:14,520
+It's only kind of giving you one slice of Star Wars on the actual ride.
+
+1182
+01:08:14,520 --> 01:08:17,520
+I'm not getting emotional. I swear my voice just cracked.
+
+1183
+01:08:17,520 --> 01:08:20,520
+Just giving you one slice of Star Wars on the actual ride.
+
+1184
+01:08:20,520 --> 01:08:24,520
+And you're missing a lot of the other stuff that I like from Star Wars that you could have put in there
+
+1185
+01:08:24,520 --> 01:08:27,520
+because the ride is such not a direct thrill ride.
+
+1186
+01:08:27,520 --> 01:08:32,520
+I feel like you could have put in more moments of warmth and intimacy.
+
+1187
+01:08:32,520 --> 01:08:37,520
+The things that I like from Star Wars, the train training or or calling upon the history of the Jedi.
+
+1188
+01:08:37,520 --> 01:08:39,520
+That's what I'm trying to say.
+
+1189
+01:08:39,520 --> 01:08:41,520
+I'm going to say this now, too.
+
+1190
+01:08:41,520 --> 01:08:44,520
+I think I'm sorry that I'm saying I should I'll shut up.
+
+1191
+01:08:44,520 --> 01:08:46,520
+No, no, no, no.
+
+1192
+01:08:46,520 --> 01:08:52,520
+I believe that the idea of Galaxy's Edge, right?
+
+1193
+01:08:52,520 --> 01:09:02,520
+This outpost is that every experience when put together would give you the whole of the Star Wars experience.
+
+1194
+01:09:02,520 --> 01:09:06,520
+So Smuggler's Run is very specific. It's very different than Rise.
+
+1195
+01:09:06,520 --> 01:09:10,520
+I believe that there are other out. You can build a droid.
+
+1196
+01:09:10,520 --> 01:09:11,520
+You can build a lightsaber.
+
+1197
+01:09:11,520 --> 01:09:18,520
+So all in all, this is not a world in which we're getting three pirates.
+
+1198
+01:09:18,520 --> 01:09:21,520
+Well, like we've been the past. We've had one ride, right?
+
+1199
+01:09:21,520 --> 01:09:27,520
+One ride and that ride kind of has to encompass everything here.
+
+1200
+01:09:27,520 --> 01:09:29,520
+Like Transformers, one ride has to encompass everything.
+
+1201
+01:09:29,520 --> 01:09:36,520
+This has the ability to be like this is just yet one flavor because part of your job in the Star Wars universe might just be being captured.
+
+1202
+01:09:36,520 --> 01:09:39,520
+One might be building a lightsaber. One might be building a droid.
+
+1203
+01:09:39,520 --> 01:09:44,520
+One might be running a you know, getting some mining equipment back, whatever it is.
+
+1204
+01:09:44,520 --> 01:09:47,520
+You know, so I think there is that element to it that I think you can't fault.
+
+1205
+01:09:47,520 --> 01:09:51,520
+I think that's by design. Yeah, I mean, I think I agree.
+
+1206
+01:09:51,520 --> 01:09:58,520
+I hear I agree with what you're saying. It is, though, like I mean, maybe it's just because like I heard they're canceling maybe the Galaxy's Edge in Paris.
+
+1207
+01:09:58,520 --> 01:10:06,520
+There's a rumor of that happening. So part of me feels like this was the shot at the half a billion dollar Star Wars.
+
+1208
+01:10:06,520 --> 01:10:09,520
+Right. And don't get me wrong. It is obviously really great.
+
+1209
+01:10:09,520 --> 01:10:14,520
+I still haven't decided if I think it's better or worse than Transformers, but obviously it's really great.
+
+1210
+01:10:14,520 --> 01:10:16,520
+It's really impressive. I like a lot of it.
+
+1211
+01:10:16,520 --> 01:10:21,520
+Mr. Carlson, Mr. Carlson, I'd like to hear some of your arguments in favor.
+
+1212
+01:10:21,520 --> 01:10:23,520
+Well, we're going to get there right one second after I finish.
+
+1213
+01:10:23,520 --> 01:10:27,520
+But now I feel like once I feel like maybe this was it.
+
+1214
+01:10:27,520 --> 01:10:35,520
+This was the shot we had. And I feel like and I feel like only 99 percent of the audience likes it.
+
+1215
+01:10:35,520 --> 01:10:38,520
+Well, that's a they really blew it with that one.
+
+1216
+01:10:38,520 --> 01:10:40,520
+I'm just saying I think I make some valid points.
+
+1217
+01:10:40,520 --> 01:10:42,520
+And obviously it's a great ride.
+
+1218
+01:10:42,520 --> 01:10:48,520
+But if it's the be all end all Star Wars ride, I feel like there's something I would approve.
+
+1219
+01:10:48,520 --> 01:11:00,520
+Take away Star Wars. Just say, I wish one of them is it because I do believe this to be true.
+
+1220
+01:11:00,520 --> 01:11:07,520
+I believe it is one of the best rides like just technological.
+
+1221
+01:11:07,520 --> 01:11:10,520
+I didn't say I didn't say it was it. I didn't say it wasn't.
+
+1222
+01:11:10,520 --> 01:11:13,520
+What these little things you pull. I never I don't know.
+
+1223
+01:11:13,520 --> 01:11:16,520
+I wash my hands. Follow the tape. Oh my. Look at the tape.
+
+1224
+01:11:16,520 --> 01:11:20,520
+Look at the tape. Whatever this is, it's so annoying to me.
+
+1225
+01:11:20,520 --> 01:11:23,520
+I know. Read the transcripts. That's part of the show.
+
+1226
+01:11:23,520 --> 01:11:27,520
+I do this on the show to get a rise. You can't rise or resist.
+
+1227
+01:11:27,520 --> 01:11:34,520
+Your your issue is, while it is one of the best rides ever.
+
+1228
+01:11:34,520 --> 01:11:37,520
+Yes, it is not fulfilling the promise of Star Wars.
+
+1229
+01:11:37,520 --> 01:11:44,520
+So hence Transformers might be because it's fulfilling the promise of Transformers.
+
+1230
+01:11:44,520 --> 01:11:47,520
+Yes, yes, because the bar is so low it's on the floor.
+
+1231
+01:11:47,520 --> 01:11:51,520
+You could just step over it. Maybe you've never seen the bar.
+
+1232
+01:11:51,520 --> 01:11:56,520
+Maybe you didn't know the bar existed or doesn't ever had interest in looking at the bar.
+
+1233
+01:11:56,520 --> 01:12:04,520
+Right. Yes, exactly. And to get and to give you like one, I'll give you like a piece of my like where I fall on the other side.
+
+1234
+01:12:04,520 --> 01:12:08,520
+The mistake was, I think.
+
+1235
+01:12:08,520 --> 01:12:19,520
+Not of being so hard and fast with no Darth Vader, no Chewbacca, no, you know, these these rules that they made for Galaxy's Edge.
+
+1236
+01:12:19,520 --> 01:12:23,520
+I thought was actually a very dumb move, and they've now retconned that a little bit.
+
+1237
+01:12:23,520 --> 01:12:32,520
+I think some of these rides suffer from living in this world of post Vader, post Han.
+
+1238
+01:12:32,520 --> 01:12:36,520
+Like that's probably the biggest error of Star Wars land.
+
+1239
+01:12:36,520 --> 01:12:38,520
+Like in my in my mind, it did.
+
+1240
+01:12:38,520 --> 01:12:40,520
+And it did no favors to the right.
+
+1241
+01:12:40,520 --> 01:12:50,520
+I think when we saw leaked footage or footage, excuse me, art of the original crazy ticket they were going to build in tomorrow land of Star Wars, which had like a day go by swamp scene.
+
+1242
+01:12:51,520 --> 01:12:57,520
+And then there was a death star scene like it felt like, OK, that's like the greatest hits Star Wars ride.
+
+1243
+01:12:57,520 --> 01:12:58,520
+And then you start to go.
+
+1244
+01:12:58,520 --> 01:13:02,520
+But is that just the Avatar boat ride?
+
+1245
+01:13:02,520 --> 01:13:09,520
+Could be. That's something you saw as an adult that was never close to getting built.
+
+1246
+01:13:09,520 --> 01:13:10,520
+Right. Right. 40 years ago.
+
+1247
+01:13:10,520 --> 01:13:15,520
+But the vibe was, oh, that is the ultimate ride. That is the ultimate Star Wars ride.
+
+1248
+01:13:15,520 --> 01:13:18,520
+I guess so. That's that's what I'm saying.
+
+1249
+01:13:18,520 --> 01:13:20,520
+For you there. That's interesting.
+
+1250
+01:13:20,520 --> 01:13:21,520
+Yes, sure.
+
+1251
+01:13:21,520 --> 01:13:28,520
+There was also the hypothetical plans before Disney bought Star Wars where it's like, OK, there's going to be a desert section.
+
+1252
+01:13:28,520 --> 01:13:30,520
+There's going to be a hoth section.
+
+1253
+01:13:30,520 --> 01:13:41,520
+And like when they were going to try to cram it into tomorrow land at Disneyland, it's like, all right, we're going to plant a bunch of trees here and have a high speed speeder bike chase as if you're on Endor.
+
+1254
+01:13:41,520 --> 01:13:46,520
+Right. And they'll put the Falcon above the land and you can walk through it.
+
+1255
+01:13:46,520 --> 01:13:49,520
+Right. Let me say this before we get to and we'll get to the next slide.
+
+1256
+01:13:49,520 --> 01:13:56,520
+But since I suspect that it is it is it's possible to me that it could be full of nonsense.
+
+1257
+01:13:56,520 --> 01:14:02,520
+So let me say a real argument in this dry delineation of Rise of the Resistance.
+
+1258
+01:14:02,520 --> 01:14:05,520
+And I'm going to go back to what Paul said and take Star Wars out of it.
+
+1259
+01:14:05,520 --> 01:14:10,520
+It is a ride where there's a lot there's a ride in the line.
+
+1260
+01:14:10,520 --> 01:14:15,520
+There's like tons of steps to it and like role playing with the cast members and all this stuff.
+
+1261
+01:14:15,520 --> 01:14:26,520
+And then what you say as screen ride part is where your trackless vehicle drives itself into a simulator, which performs a drop.
+
+1262
+01:14:26,520 --> 01:14:32,520
+Now, here's a real argument that I wanted to make to you because I did Transformers the other day.
+
+1263
+01:14:32,520 --> 01:14:41,520
+And I hear your point about like you get maybe more visceral movements and thrills and stuff out of Transformers and maybe can't argue with that.
+
+1264
+01:14:41,520 --> 01:14:48,520
+But in terms of I think you're underrating the rise up to the level of the ad ads and then the drop at the end.
+
+1265
+01:14:48,520 --> 01:15:01,520
+I genuinely don't think and I think if you were somehow able to do them one after the other, I genuinely don't think that there's a single thrill in Transformers as much as big as the drop towards the end.
+
+1266
+01:15:01,520 --> 01:15:06,520
+I really do believe that for me, because I know there's elevator and you go up in that.
+
+1267
+01:15:06,520 --> 01:15:08,520
+But it's not as good as Spider-Man.
+
+1268
+01:15:08,520 --> 01:15:11,520
+I don't think in terms of a big drop at the end for me.
+
+1269
+01:15:11,520 --> 01:15:14,520
+That's that's my I think you can't discount.
+
+1270
+01:15:14,520 --> 01:15:16,520
+I think you're underrating.
+
+1271
+01:15:16,520 --> 01:15:18,520
+There's not a lot of thrills, but you're underrating a little bit of thrills on that.
+
+1272
+01:15:18,520 --> 01:15:20,520
+Here's how I feel about it, too.
+
+1273
+01:15:20,520 --> 01:15:25,520
+Like I and look, it's very easy to kind of figure out how all these things are done.
+
+1274
+01:15:25,520 --> 01:15:30,520
+If you want, I treat rise like a magic trick that I don't want revealed.
+
+1275
+01:15:30,520 --> 01:15:31,520
+I don't want to know.
+
+1276
+01:15:31,520 --> 01:15:35,520
+I'm sure I could really overly think about it and discover it.
+
+1277
+01:15:35,520 --> 01:15:53,520
+But I truly feel and even when it's broken down, a sense of awe, like there is a there are there are all moments, all inspiring moments in that ride that Transformers simply does not have that no ride before rise has had.
+
+1278
+01:15:53,520 --> 01:15:55,520
+Ultimately, in my opinion, the scope.
+
+1279
+01:15:55,520 --> 01:15:56,520
+Yeah, that's what I was saying before.
+
+1280
+01:15:56,520 --> 01:15:57,520
+The scope of rise.
+
+1281
+01:15:57,520 --> 01:16:02,520
+Yes, is probably there's no other comparison.
+
+1282
+01:16:02,520 --> 01:16:05,520
+Anything that has sort of that while environment.
+
+1283
+01:16:05,520 --> 01:16:06,520
+Yeah, right.
+
+1284
+01:16:06,520 --> 01:16:08,520
+I mean, I guess any when you come in in the temple.
+
+1285
+01:16:08,520 --> 01:16:15,520
+Yeah, there's a that's a it's like, like, India is an upgrade of haunted mansion on some level.
+
+1286
+01:16:15,520 --> 01:16:16,520
+Right.
+
+1287
+01:16:16,520 --> 01:16:19,520
+Like I'm just saying, like in a very bare bones scenario that you switch it out.
+
+1288
+01:16:19,520 --> 01:16:23,520
+India's dinosaur, which was already at Animal Kingdom.
+
+1289
+01:16:23,520 --> 01:16:24,520
+Or I guess the opposite.
+
+1290
+01:16:24,520 --> 01:16:25,520
+That's the other way.
+
+1291
+01:16:25,520 --> 01:16:26,520
+Yeah.
+
+1292
+01:16:26,520 --> 01:16:27,520
+But yeah.
+
+1293
+01:16:27,520 --> 01:16:28,520
+But whatever.
+
+1294
+01:16:28,520 --> 01:16:31,520
+It's like it is just a track ride that you're going through.
+
+1295
+01:16:31,520 --> 01:16:32,520
+It's cool.
+
+1296
+01:16:32,520 --> 01:16:33,520
+It's big.
+
+1297
+01:16:33,520 --> 01:16:34,520
+It's indie.
+
+1298
+01:16:34,520 --> 01:16:36,520
+But I don't get anything from Indiana Jones on that ride.
+
+1299
+01:16:36,520 --> 01:16:40,520
+I don't feel like the all the fun of Indiana Jones.
+
+1300
+01:16:40,520 --> 01:16:41,520
+It's fun.
+
+1301
+01:16:41,520 --> 01:16:42,520
+I don't get a person.
+
+1302
+01:16:42,520 --> 01:16:44,520
+Obviously, there's no personality because not Harrison Ford.
+
+1303
+01:16:44,520 --> 01:16:47,520
+And the guy does his voice is like, Get out of here.
+
+1304
+01:16:47,520 --> 01:16:50,520
+Well, you know, it's like it's just say it's a huff and a gruff.
+
+1305
+01:16:50,520 --> 01:16:55,520
+And you know, you get from from what's his face from Sala, you know, but yes.
+
+1306
+01:16:55,520 --> 01:16:56,520
+Yeah, for sure.
+
+1307
+01:16:56,520 --> 01:16:57,520
+That's pre show.
+
+1308
+01:16:57,520 --> 01:16:58,520
+That's pre show.
+
+1309
+01:16:58,520 --> 01:16:59,520
+Right.
+
+1310
+01:16:59,520 --> 01:17:03,520
+I would say, though, Indy is not a warm guy, so I'm not looking for the same warmth from
+
+1311
+01:17:03,520 --> 01:17:04,520
+India.
+
+1312
+01:17:04,520 --> 01:17:13,520
+But well, if Mutt, if the Transformers version of Pirates Johnny Depp, if Mutt was hanging
+
+1313
+01:17:13,520 --> 01:17:18,520
+from the ball in front of the ball now because they installed it during Crystal Skull.
+
+1314
+01:17:18,520 --> 01:17:21,520
+Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa.
+
+1315
+01:17:21,520 --> 01:17:25,520
+Oh, and they were playing like rock around the clock and he's combing his hair.
+
+1316
+01:17:25,520 --> 01:17:27,520
+Yeah, sure, sure, sure.
+
+1317
+01:17:27,520 --> 01:17:28,520
+So get to this.
+
+1318
+01:17:28,520 --> 01:17:29,520
+Get to this.
+
+1319
+01:17:29,520 --> 01:17:30,520
+We'll just go to the next slide.
+
+1320
+01:17:30,520 --> 01:17:31,520
+Yeah, that's fine.
+
+1321
+01:17:31,520 --> 01:17:32,520
+That's all we can go through it.
+
+1322
+01:17:32,520 --> 01:17:33,520
+I look it's fine.
+
+1323
+01:17:33,520 --> 01:17:34,520
+We don't have to believe this point.
+
+1324
+01:17:34,520 --> 01:17:35,520
+No, no, no.
+
+1325
+01:17:35,520 --> 01:17:39,520
+Oh, no, no, you will go beef beef this one quickly.
+
+1326
+01:17:39,520 --> 01:17:40,520
+I'll go quickly.
+
+1327
+01:17:40,520 --> 01:17:41,520
+I'll go.
+
+1328
+01:17:41,520 --> 01:17:42,520
+What happened on Transformers?
+
+1329
+01:17:42,520 --> 01:17:45,520
+You can learn from the great Theodore Stallworth and then Bumblebee fights Megatron.
+
+1330
+01:17:45,520 --> 01:17:46,520
+He grabs the all spark.
+
+1331
+01:17:46,520 --> 01:17:47,520
+It's so very exciting.
+
+1332
+01:17:47,520 --> 01:17:52,520
+You head into the city at a frenetic pace and then Optimus like roll out and it's awesome.
+
+1333
+01:17:52,520 --> 01:17:53,520
+You're rolling.
+
+1334
+01:17:53,520 --> 01:17:54,520
+You feel like you're rolling.
+
+1335
+01:17:54,520 --> 01:17:55,520
+That's hang on.
+
+1336
+01:17:55,520 --> 01:17:56,520
+Get that word out of there.
+
+1337
+01:17:56,520 --> 01:17:59,520
+You didn't put words like that in the first description.
+
+1338
+01:17:59,520 --> 01:18:00,520
+You can't.
+
+1339
+01:18:00,520 --> 01:18:01,520
+You're not allowed to say.
+
+1340
+01:18:01,520 --> 01:18:02,520
+OK, OK, OK.
+
+1341
+01:18:02,520 --> 01:18:03,520
+Roll out.
+
+1342
+01:18:03,520 --> 01:18:07,520
+Roll out is one of the few Transformers things that I do know.
+
+1343
+01:18:07,520 --> 01:18:10,520
+Yeah, that is one of the things that I have no problem with that.
+
+1344
+01:18:10,520 --> 01:18:11,520
+It's the word awesome.
+
+1345
+01:18:11,520 --> 01:18:14,520
+You are putting your opinions into this.
+
+1346
+01:18:14,520 --> 01:18:15,520
+OK, fair enough.
+
+1347
+01:18:15,520 --> 01:18:17,520
+So you fight Megatron going through the city.
+
+1348
+01:18:17,520 --> 01:18:19,520
+Now, this is a good question.
+
+1349
+01:18:19,520 --> 01:18:22,520
+I will say Megatron is the one with the blades or is that Starscream?
+
+1350
+01:18:22,520 --> 01:18:23,520
+I think it's Megatron, right?
+
+1351
+01:18:23,520 --> 01:18:24,520
+He's got the blades.
+
+1352
+01:18:24,520 --> 01:18:25,520
+You're asking the wrong people.
+
+1353
+01:18:25,520 --> 01:18:27,520
+You don't even know the right thing you're saying is better.
+
+1354
+01:18:27,520 --> 01:18:28,520
+You know, you can't.
+
+1355
+01:18:28,520 --> 01:18:31,520
+Well, whoever has the blades, it's thrilling going that close to the blades.
+
+1356
+01:18:31,520 --> 01:18:32,520
+You sort of slow down.
+
+1357
+01:18:32,520 --> 01:18:38,520
+I also I don't want to get too far off topic here, but and get out of your flow here.
+
+1358
+01:18:38,520 --> 01:18:40,520
+But like, OK, we just breeze past all spark.
+
+1359
+01:18:40,520 --> 01:18:41,520
+This is one of the biggest.
+
+1360
+01:18:41,520 --> 01:18:42,520
+What the fuck is the all spark?
+
+1361
+01:18:42,520 --> 01:18:43,520
+Who fucking cares about the all spark?
+
+1362
+01:18:43,520 --> 01:18:44,520
+Are you invested in the old?
+
+1363
+01:18:44,520 --> 01:18:47,520
+It's like a McGuff that I love the all spark.
+
+1364
+01:18:47,520 --> 01:18:48,520
+I do.
+
+1365
+01:18:48,520 --> 01:18:49,520
+I do legitimately.
+
+1366
+01:18:49,520 --> 01:18:50,520
+OK, Fabe, whatever.
+
+1367
+01:18:50,520 --> 01:18:51,520
+I'd love the all spark.
+
+1368
+01:18:51,520 --> 01:18:52,520
+Why?
+
+1369
+01:18:52,520 --> 01:18:53,520
+Why?
+
+1370
+01:18:53,520 --> 01:18:54,520
+I've been on the ride so many times.
+
+1371
+01:18:54,520 --> 01:18:56,520
+But why did you love it the first time?
+
+1372
+01:18:56,520 --> 01:18:57,520
+I didn't say I loved it the first time.
+
+1373
+01:18:57,520 --> 01:19:00,520
+I mean, Evac and theater.
+
+1374
+01:19:00,520 --> 01:19:02,520
+So we're at the end of the podcast.
+
+1375
+01:19:02,520 --> 01:19:03,520
+Paul.
+
+1376
+01:19:03,520 --> 01:19:04,520
+Paul, what do you think of the all?
+
+1377
+01:19:04,520 --> 01:19:05,520
+What do you think of the fucking all spark?
+
+1378
+01:19:05,520 --> 01:19:06,520
+You like the all spark.
+
+1379
+01:19:06,520 --> 01:19:07,520
+McGuffin, who's the fucking all spark?
+
+1380
+01:19:07,520 --> 01:19:08,520
+I mean, I love the all spark.
+
+1381
+01:19:08,520 --> 01:19:09,520
+I love the all spark.
+
+1382
+01:19:09,520 --> 01:19:10,520
+I love the all spark.
+
+1383
+01:19:10,520 --> 01:19:11,520
+What do you think of the fucking all spark?
+
+1384
+01:19:11,520 --> 01:19:12,520
+You like the all spark.
+
+1385
+01:19:12,520 --> 01:19:14,520
+McGuffin, who cares what the all spark is?
+
+1386
+01:19:14,520 --> 01:19:15,520
+I got to grab the thing.
+
+1387
+01:19:15,520 --> 01:19:16,520
+It's fun to say.
+
+1388
+01:19:16,520 --> 01:19:20,520
+Yeah, he might as well say you must protect the Maltese Falcon.
+
+1389
+01:19:20,520 --> 01:19:22,520
+You must protect the Infinity Gauntlet.
+
+1390
+01:19:22,520 --> 01:19:23,520
+Yeah.
+
+1391
+01:19:23,520 --> 01:19:25,520
+But you said you love what's one thing.
+
+1392
+01:19:25,520 --> 01:19:28,520
+Give me one specific about the all spark.
+
+1393
+01:19:28,520 --> 01:19:29,520
+The name of it.
+
+1394
+01:19:29,520 --> 01:19:31,520
+I like saying the name of it because I've been on the ride so many times.
+
+1395
+01:19:31,520 --> 01:19:32,520
+All spark.
+
+1396
+01:19:32,520 --> 01:19:33,520
+And he says all spark.
+
+1397
+01:19:33,520 --> 01:19:35,520
+It's all couched in the amount of time.
+
+1398
+01:19:35,520 --> 01:19:37,520
+He said you must protect my toilet.
+
+1399
+01:19:37,520 --> 01:19:39,520
+I would say toilets great.
+
+1400
+01:19:39,520 --> 01:19:42,520
+It's completely in the context of the ride that I like this phrase.
+
+1401
+01:19:42,520 --> 01:19:43,520
+Okay.
+
+1402
+01:19:43,520 --> 01:19:44,520
+Like who?
+
+1403
+01:19:44,520 --> 01:19:45,520
+I understand what you're saying.
+
+1404
+01:19:45,520 --> 01:19:46,520
+It has a cool name.
+
+1405
+01:19:46,520 --> 01:19:47,520
+It doesn't mean it.
+
+1406
+01:19:47,520 --> 01:19:49,520
+But it's like you can't say I like the all spark.
+
+1407
+01:19:49,520 --> 01:19:50,520
+It's like that's a thing like.
+
+1408
+01:19:50,520 --> 01:19:52,520
+Well, you could say you love it.
+
+1409
+01:19:52,520 --> 01:19:56,520
+But you could say you like the Maltese Falcon and who gives a shit about that?
+
+1410
+01:19:56,520 --> 01:20:00,520
+But doesn't this is a thing genuinely that pulls me out of the ride.
+
+1411
+01:20:00,520 --> 01:20:02,520
+I think I do need to care about the goal.
+
+1412
+01:20:02,520 --> 01:20:06,520
+If I don't understand what the goal is and what the all spark does,
+
+1413
+01:20:06,520 --> 01:20:09,520
+and I have to watch like a bunch of pre show videos to get it.
+
+1414
+01:20:09,520 --> 01:20:10,520
+That's all it is.
+
+1415
+01:20:10,520 --> 01:20:16,520
+It's like a little nuclear like a nuclear battery that could be in the wrong hands could be devastating to the world.
+
+1416
+01:20:16,520 --> 01:20:22,520
+And in the right hands, my monkey brain is sort of like I'm just like, okay, it's a battery.
+
+1417
+01:20:22,520 --> 01:20:24,520
+And these robots need batteries.
+
+1418
+01:20:24,520 --> 01:20:27,520
+I like this argument.
+
+1419
+01:20:27,520 --> 01:20:28,520
+This makes sense to me.
+
+1420
+01:20:28,520 --> 01:20:36,520
+But if you're asking me to care and for stakes to matter, I think I do need to understand and care about the all spark.
+
+1421
+01:20:36,520 --> 01:20:38,520
+OK, and I have not.
+
+1422
+01:20:38,520 --> 01:20:40,520
+No one has made me do it.
+
+1423
+01:20:40,520 --> 01:20:41,520
+It's a little battery.
+
+1424
+01:20:41,520 --> 01:20:48,520
+Well, I mean, it is protected in a nest facility, which, by the way, stands for non biological extraterrestrial species treaty.
+
+1425
+01:20:48,520 --> 01:20:49,520
+That's true.
+
+1426
+01:20:49,520 --> 01:20:57,520
+Yeah, well, now I mean, yeah, this is another thing that I want to bring up because now I'm like now I'm getting into a few things that I feel like I always thought.
+
+1427
+01:20:57,520 --> 01:21:02,520
+The promise of the premise of these screen rights was that they would be rebooted every five years.
+
+1428
+01:21:02,520 --> 01:21:03,520
+Right.
+
+1429
+01:21:03,520 --> 01:21:11,520
+Like, and that's what they've done to a certain extent with Star Wars, the ride stars, star tours and to great success, in my opinion.
+
+1430
+01:21:11,520 --> 01:21:15,520
+But why aren't we doing this?
+
+1431
+01:21:15,520 --> 01:21:16,520
+Why aren't we?
+
+1432
+01:21:16,520 --> 01:21:17,520
+Why aren't we upgrading these rides?
+
+1433
+01:21:17,520 --> 01:21:19,520
+Why aren't we changing some features?
+
+1434
+01:21:19,520 --> 01:21:21,520
+Why aren't we having a rotating screen?
+
+1435
+01:21:21,520 --> 01:21:22,520
+Why is it so hard?
+
+1436
+01:21:23,520 --> 01:21:29,520
+You know, on these rides, they're primarily screen based that we can't just, you know, every five years, swap them out.
+
+1437
+01:21:29,520 --> 01:21:34,520
+And so to me, Rise is an art piece and it's a locked in art piece.
+
+1438
+01:21:34,520 --> 01:21:35,520
+You can't change it.
+
+1439
+01:21:35,520 --> 01:21:36,520
+There's no screen.
+
+1440
+01:21:36,520 --> 01:21:39,520
+There are screens, but they're used to the effect of like you're not wearing 3D glasses.
+
+1441
+01:21:39,520 --> 01:21:40,520
+You're in an environment.
+
+1442
+01:21:40,520 --> 01:21:43,520
+You have transported yourself to a world.
+
+1443
+01:21:43,520 --> 01:21:45,520
+This I am at a cool 3D movie.
+
+1444
+01:21:45,520 --> 01:21:46,520
+I'm at a 4DX show.
+
+1445
+01:21:46,520 --> 01:21:49,520
+And this is me talking about as a fan of this ride.
+
+1446
+01:21:49,520 --> 01:21:52,520
+It's the best 4DX ride I've ever been on.
+
+1447
+01:21:52,520 --> 01:21:55,520
+I didn't like Jurassic Park, the new one, the reboot.
+
+1448
+01:21:55,520 --> 01:22:00,520
+But I saw the first one in 4DX and it made that experience 10 times better.
+
+1449
+01:22:00,520 --> 01:22:06,520
+I said to people like when they said I hated that first movie, I was like, well, see it in 4DX because at least you're feeling a girl on a ride.
+
+1450
+01:22:06,520 --> 01:22:08,520
+And that's and that's sometimes what you need.
+
+1451
+01:22:08,520 --> 01:22:09,520
+Yeah, that makes sense.
+
+1452
+01:22:09,520 --> 01:22:14,520
+Yeah, they should be able to like put new robots in here and there.
+
+1453
+01:22:14,520 --> 01:22:15,520
+At least in the background.
+
+1454
+01:22:15,520 --> 01:22:16,520
+Something.
+
+1455
+01:22:16,520 --> 01:22:17,520
+It's like, how hard is it to do that?
+
+1456
+01:22:17,520 --> 01:22:19,520
+Like you've already built the infrastructure.
+
+1457
+01:22:19,520 --> 01:22:24,520
+Like I can't imagine that film in the programming is that intense.
+
+1458
+01:22:24,520 --> 01:22:27,520
+Yeah, like that is like cost prohibitive.
+
+1459
+01:22:27,520 --> 01:22:32,520
+I think, yeah, like with Star Tour, they have to I will give Star Tour credit because they have changed.
+
+1460
+01:22:32,520 --> 01:22:33,520
+They've put new stuff in.
+
+1461
+01:22:33,520 --> 01:22:35,520
+It took a long time.
+
+1462
+01:22:35,520 --> 01:22:36,520
+Yeah, they now do it.
+
+1463
+01:22:36,520 --> 01:22:39,520
+But that was the promise of the premise back then, too.
+
+1464
+01:22:39,520 --> 01:22:40,520
+It was like, OK, we're going to keep on.
+
+1465
+01:22:40,520 --> 01:22:42,520
+We're always going to add new things.
+
+1466
+01:22:42,520 --> 01:22:43,520
+You'll never know what you're going to get.
+
+1467
+01:22:43,520 --> 01:22:44,520
+Like that's what we want.
+
+1468
+01:22:44,520 --> 01:22:47,520
+I mean, that's that's the re the rewatch ability.
+
+1469
+01:22:47,520 --> 01:22:49,520
+That's like, you know, it's like I love going on these rides.
+
+1470
+01:22:49,520 --> 01:22:55,520
+But like but if you're doing a screen thing, that's should be part of it is like, oh, we can change it up.
+
+1471
+01:22:55,520 --> 01:22:58,520
+We can we can make these elements feel different.
+
+1472
+01:22:58,520 --> 01:23:05,520
+It would be fun if they could do like a full cartoon style Transformers overlay where you go on and it looks just like the old cartoon or something like that.
+
+1473
+01:23:05,520 --> 01:23:06,520
+I think that would do.
+
+1474
+01:23:06,520 --> 01:23:08,520
+I think I would all it's all it would take for me.
+
+1475
+01:23:08,520 --> 01:23:09,520
+Is that true?
+
+1476
+01:23:09,520 --> 01:23:10,520
+I think so.
+
+1477
+01:23:10,520 --> 01:23:12,520
+I genuinely don't like it aesthetically.
+
+1478
+01:23:12,520 --> 01:23:13,520
+That's a big, big thing.
+
+1479
+01:23:13,520 --> 01:23:17,520
+Maybe I haven't vocalized that holds me back because I don't like the movies aesthetically.
+
+1480
+01:23:17,520 --> 01:23:19,520
+Yeah, I just see a bunch of gears.
+
+1481
+01:23:19,520 --> 01:23:21,520
+I read I recognize that.
+
+1482
+01:23:21,520 --> 01:23:25,520
+I'm sure you'll say some good stuff about when you go into the mouth of Grindr.
+
+1483
+01:23:25,520 --> 01:23:27,520
+Oh, that's a Devastator.
+
+1484
+01:23:27,520 --> 01:23:28,520
+Devastator.
+
+1485
+01:23:28,520 --> 01:23:29,520
+All right.
+
+1486
+01:23:29,520 --> 01:23:30,520
+Yeah, Devastator is trying to get you in his mouth.
+
+1487
+01:23:30,520 --> 01:23:36,520
+I wrote he's specifically a Constructicon, which is a subdivision of the other types of Transformers.
+
+1488
+01:23:36,520 --> 01:23:37,520
+Constructicon.
+
+1489
+01:23:37,520 --> 01:23:40,520
+Yeah, I think it looks silly when you're looking at all the gears.
+
+1490
+01:23:40,520 --> 01:23:47,520
+That looks like you're in a like the video that plays before the movie starts in like a Lowe's theater in 2003.
+
+1491
+01:23:47,520 --> 01:23:52,520
+Maria Menudo should be welcome to the portal.
+
+1492
+01:23:52,520 --> 01:23:56,520
+I both agree with what you're saying, but I also love it.
+
+1493
+01:23:56,520 --> 01:24:00,520
+And I love it when you're in like vibrating and they're rocking your spine.
+
+1494
+01:24:00,520 --> 01:24:04,520
+See that this is what I hate about this because I like Transformers around.
+
+1495
+01:24:04,520 --> 01:24:05,520
+You're making me argue against it.
+
+1496
+01:24:05,520 --> 01:24:08,520
+And I think the more I think about it, the more I'm like, well, this is dumb.
+
+1497
+01:24:08,520 --> 01:24:09,520
+It is dumb.
+
+1498
+01:24:09,520 --> 01:24:11,520
+But it is a fun ride.
+
+1499
+01:24:11,520 --> 01:24:12,520
+It's like a water.
+
+1500
+01:24:12,520 --> 01:24:15,520
+It's like it's like me overanalyzing a water slide.
+
+1501
+01:24:15,520 --> 01:24:17,520
+Right. I'm like, oh, that was a fun water side.
+
+1502
+01:24:17,520 --> 01:24:19,520
+But if I'm starting to think about it, well, is it that great?
+
+1503
+01:24:19,520 --> 01:24:21,520
+This is that and this is this.
+
+1504
+01:24:21,520 --> 01:24:26,520
+But like where Star Wars is going to hold up to any sort of it's going to it's going to hold water.
+
+1505
+01:24:26,520 --> 01:24:27,520
+Let me bring you back. OK.
+
+1506
+01:24:27,520 --> 01:24:28,520
+I think you'll agree with me on this.
+
+1507
+01:24:28,520 --> 01:24:36,520
+All right. So when there's a fistfight in this ride between the robots, you feel every punch and I'm not no bullshit.
+
+1508
+01:24:36,520 --> 01:24:47,520
+Like as a kid, when you're playing with toys or as an adult in his 30s, you're playing with toys and you're making the sound effects and you're going like you like kind of desire to feel the impact.
+
+1509
+01:24:47,520 --> 01:24:53,520
+And this is like on one of the only rides where you're watching fights and it feels like you can feel the reverberations of the robots.
+
+1510
+01:24:53,520 --> 01:24:55,520
+And it's a gun vehicle based.
+
+1511
+01:24:55,520 --> 01:24:57,520
+It's my body slamming.
+
+1512
+01:24:57,520 --> 01:25:01,520
+But like every impact is so like, well, sound affected.
+
+1513
+01:25:01,520 --> 01:25:04,520
+And I feel like you feel every fight.
+
+1514
+01:25:04,520 --> 01:25:05,520
+It's like raging bull.
+
+1515
+01:25:05,520 --> 01:25:08,520
+You feel the impact of the of the punches.
+
+1516
+01:25:08,520 --> 01:25:09,520
+I will grant you that.
+
+1517
+01:25:09,520 --> 01:25:18,520
+And I'll grant that that some of the big moments in this ride, I do like despite not knowing a lot about the characters being that attached to them.
+
+1518
+01:25:18,520 --> 01:25:22,520
+Like I do like going through Devastator because it's like a gag I recognize from Cartoon.
+
+1519
+01:25:22,520 --> 01:25:23,520
+Yes.
+
+1520
+01:25:23,520 --> 01:25:28,520
+Character gets eaten by a lion or character gets eaten comes out the other side like Ace Ventura.
+
+1521
+01:25:28,520 --> 01:25:30,520
+You know, or a classic.
+
+1522
+01:25:30,520 --> 01:25:32,520
+I don't quite understand.
+
+1523
+01:25:32,520 --> 01:25:34,520
+I think the AllSpark is very powerful.
+
+1524
+01:25:34,520 --> 01:25:35,520
+Is it unlimited power?
+
+1525
+01:25:35,520 --> 01:25:37,520
+I think that might be the guffin element.
+
+1526
+01:25:37,520 --> 01:25:44,520
+So like when Evac says no more running and you know, you kill Megatron, it's the old trick of like you want it so much.
+
+1527
+01:25:44,520 --> 01:25:45,520
+Have it.
+
+1528
+01:25:45,520 --> 01:25:50,520
+And like the character like shoves the crystal in the other character's brain or something.
+
+1529
+01:25:50,520 --> 01:25:54,520
+And he pushes through his chest and you feel the impact of it.
+
+1530
+01:25:54,520 --> 01:25:59,520
+And it's like it's all if you're a kid who played with this, although I, by the way, not a Transformers kid.
+
+1531
+01:25:59,520 --> 01:26:00,520
+Wow.
+
+1532
+01:26:00,520 --> 01:26:04,520
+All this never owned a never owned a Transformers in my life.
+
+1533
+01:26:04,520 --> 01:26:10,520
+Scott, do you know that Transformers was one of the things where it's like this was a toy line first and they re-engineered that.
+
+1534
+01:26:10,520 --> 01:26:12,520
+Not only that, I was wondering that.
+
+1535
+01:26:12,520 --> 01:26:23,520
+Yeah, it was a character from like two Japanese toy lines that they kind of repackaged for American audiences and then kind of gradually came up between the cartoon and the comic books.
+
+1536
+01:26:23,520 --> 01:26:26,520
+Came up with characters and names and expanded and stuff.
+
+1537
+01:26:26,520 --> 01:26:33,520
+Very similar to, you know, the G.I. Joe cartoon toys of the 80s and 90s were very given to.
+
+1538
+01:26:33,520 --> 01:26:46,520
+Not to plug my own thing, but when I did my Marvel 616 doc, I spoke to the gentleman they brought in to kind of I did it all about brute force, which was the idea to do a toy line into a comic book.
+
+1539
+01:26:46,520 --> 01:26:52,520
+And to it was basically a toy line reverse engineered into a bigger IP.
+
+1540
+01:26:52,520 --> 01:27:00,520
+And I talked to the definitive Transformers writer and then we had like a giant section about that that I would love to have gotten out there, but it was totally off topic.
+
+1541
+01:27:00,520 --> 01:27:02,520
+But yeah, it's amazing.
+
+1542
+01:27:02,520 --> 01:27:12,520
+Like this guy named the majority of trans like everything that we know about Transformers is because this guy was assigned this is a British Marvel writer who just is like, you got to take on this thing.
+
+1543
+01:27:12,520 --> 01:27:17,520
+And he really has created most of it just because of it was the only work you could get.
+
+1544
+01:27:17,520 --> 01:27:20,520
+Wow. Yeah, it's so it's so fun.
+
+1545
+01:27:20,520 --> 01:27:24,520
+Like there's that Masters of the Universe documentary that's on there for was on Netflix, at least probably still is.
+
+1546
+01:27:24,520 --> 01:27:29,520
+And it's just a bunch of people sitting around office going as a skeleton bad guy, Skeletor.
+
+1547
+01:27:29,520 --> 01:27:31,520
+OK, his name is Skeletor.
+
+1548
+01:27:31,520 --> 01:27:35,520
+Meanwhile, cut to now and it's just like he's hyper analyzing every bit of it.
+
+1549
+01:27:35,520 --> 01:27:38,520
+I think like this thing of wanting to get punched.
+
+1550
+01:27:38,520 --> 01:27:39,520
+I don't want it.
+
+1551
+01:27:39,520 --> 01:27:40,520
+That doesn't.
+
+1552
+01:27:40,520 --> 01:27:41,520
+That's not fun to me.
+
+1553
+01:27:41,520 --> 01:27:43,520
+And I think this is just one of those.
+
+1554
+01:27:43,520 --> 01:27:48,520
+This is just opinion because you so many times bring up like I want my douchey Vegas pool party.
+
+1555
+01:27:48,520 --> 01:27:49,520
+Oh, I love it.
+
+1556
+01:27:49,520 --> 01:27:50,520
+Yeah.
+
+1557
+01:27:50,520 --> 01:27:52,520
+And I don't understand that one either.
+
+1558
+01:27:52,520 --> 01:27:54,520
+I think those are very similar.
+
+1559
+01:27:54,520 --> 01:28:05,520
+I just I can speak Mike on this because I agree with I there are there are things that I like, but you can't compare the two.
+
+1560
+01:28:05,520 --> 01:28:11,520
+Like, I mean, it's like you can't compare like a private island and a Vegas pool party.
+
+1561
+01:28:11,520 --> 01:28:14,520
+It's like one is they're very different experiences.
+
+1562
+01:28:14,520 --> 01:28:18,520
+And so I know that like I got in trouble with this with Weiger when I was on Doughboys.
+
+1563
+01:28:18,520 --> 01:28:32,520
+I feel like that's maybe I haven't been on Doughboys because I made a mention about like can't even really talk about pizza that's coming out of the oven because when you have real pizza that we know what it tastes like, everything is we got to judge it in a different degree.
+
+1564
+01:28:32,520 --> 01:28:34,520
+But but I feel like this is a part of the thing, too.
+
+1565
+01:28:34,520 --> 01:28:47,520
+It's like you can say like I could say to you, I would write I prefer to ride Transformers after a night of Halloween Horror Nights over rise because it like it captures a moment, a mood and excitement.
+
+1566
+01:28:47,520 --> 01:28:49,520
+You know, and rise.
+
+1567
+01:28:49,520 --> 01:28:52,520
+And it may not be like a ride that I want to do like three times in a day.
+
+1568
+01:28:52,520 --> 01:28:53,520
+Splash Mountain.
+
+1569
+01:28:53,520 --> 01:28:56,520
+I may want to do like three times like that, you know, but that's a different thing.
+
+1570
+01:28:56,520 --> 01:29:02,520
+All I would say to that is like is that as a kid playing Star Wars, a big part of it was X-wing TIE fighter.
+
+1571
+01:29:02,520 --> 01:29:06,520
+You're in the thing and like something would get, you know, you pretend stormtroopers were shooting, you get blown away.
+
+1572
+01:29:06,520 --> 01:29:16,520
+Like I feel like it would go a long way if they had just had a part where you get shot by a big laser cannon and the vehicle like spins out, hits into the wall or something and then keeps going.
+
+1573
+01:29:16,520 --> 01:29:24,520
+There's like some sort of just base level kid desires that I don't feel are necessarily fulfilled on Rise of the Resistance.
+
+1574
+01:29:24,520 --> 01:29:26,520
+Like you get you're getting shot at by lasers.
+
+1575
+01:29:26,520 --> 01:29:28,520
+You're never feeling the impact of it.
+
+1576
+01:29:28,520 --> 01:29:31,520
+You're never having that moment of when you're a kid and you're doing it.
+
+1577
+01:29:31,520 --> 01:29:33,520
+You should get in like Star Tours and even on the Millennium Falcon.
+
+1578
+01:29:33,520 --> 01:29:34,520
+You got the magic.
+
+1579
+01:29:34,520 --> 01:29:38,520
+You got the magic of how did I walk from the outside and now I'm inside the star thing.
+
+1580
+01:29:38,520 --> 01:29:39,520
+That's great, too.
+
+1581
+01:29:39,520 --> 01:29:40,520
+Turn around.
+
+1582
+01:29:40,520 --> 01:29:42,520
+I see all the coming out of the same door.
+
+1583
+01:29:42,520 --> 01:29:44,520
+You got the I'm flying up.
+
+1584
+01:29:44,520 --> 01:29:47,520
+You're you're in you're going back out into space.
+
+1585
+01:29:47,520 --> 01:29:50,520
+You're coming out like there's all that whole thing is magic tricks.
+
+1586
+01:29:50,520 --> 01:29:51,520
+Yeah, for sure.
+
+1587
+01:29:51,520 --> 01:29:53,520
+I'm just saying again, ultimate experience.
+
+1588
+01:29:53,520 --> 01:30:02,520
+I think if I'm analyzing what I'm looking for, it's something like that, that you're getting more on Transformers where you're getting that kid, the thing when you're smashing your action figures together.
+
+1589
+01:30:02,520 --> 01:30:09,520
+And I feel like, yeah, if it's like that's the thing, I think that it felt like it was a little bit missing for me on the first ride or when I still ride.
+
+1590
+01:30:09,520 --> 01:30:10,520
+Let's let you finish.
+
+1591
+01:30:10,520 --> 01:30:12,520
+Let's finish out the list here.
+
+1592
+01:30:12,520 --> 01:30:15,520
+Let's let's do the argument and then let's all make a fighting robots.
+
+1593
+01:30:15,520 --> 01:30:17,520
+I talked about that Starscream turns into a jet.
+
+1594
+01:30:17,520 --> 01:30:18,520
+It's awesome.
+
+1595
+01:30:18,520 --> 01:30:20,520
+Oh, the office building when you swing in the office building.
+
+1596
+01:30:20,520 --> 01:30:21,520
+Love it.
+
+1597
+01:30:21,520 --> 01:30:24,520
+The first time I ever swung in the office building, I thought that ruled.
+
+1598
+01:30:24,520 --> 01:30:26,520
+Let me say that was something I learned about this.
+
+1599
+01:30:26,520 --> 01:30:28,520
+You know, who thought of this, you know, his idea.
+
+1600
+01:30:28,520 --> 01:30:29,520
+This was I don't.
+
+1601
+01:30:29,520 --> 01:30:31,520
+Steven Spielberg.
+
+1602
+01:30:31,520 --> 01:30:33,520
+That was his contribution.
+
+1603
+01:30:33,520 --> 01:30:34,520
+And it's pretty great.
+
+1604
+01:30:34,520 --> 01:30:35,520
+It's pretty it's awesome.
+
+1605
+01:30:35,520 --> 01:30:36,520
+The first time I did it every time I go in.
+
+1606
+01:30:36,520 --> 01:30:37,520
+Still, I know the trick.
+
+1607
+01:30:37,520 --> 01:30:41,520
+Obviously, that's not really doing that, but it still is so effective and such a fun
+
+1608
+01:30:41,520 --> 01:30:45,520
+difference from Spider-Man that takes Spider-Man stuff to next level.
+
+1609
+01:30:45,520 --> 01:30:49,520
+And then, yeah, Evac is a great little underdog character.
+
+1610
+01:30:49,520 --> 01:30:51,520
+He says, no more running.
+
+1611
+01:30:51,520 --> 01:30:53,520
+And it's so you really feel for him.
+
+1612
+01:30:53,520 --> 01:30:56,520
+I'm not sure why he's so I guess I know why he's so strained when he's speaking, but
+
+1613
+01:30:56,520 --> 01:31:00,520
+because he's under attack and original theme park character to great.
+
+1614
+01:31:00,520 --> 01:31:02,520
+And then we live that for that.
+
+1615
+01:31:02,520 --> 01:31:05,520
+And then again, this big punch, it's so satisfying in the way that you play with
+
+1616
+01:31:05,520 --> 01:31:06,520
+toys.
+
+1617
+01:31:06,520 --> 01:31:08,520
+You punch them all spark into Megatron.
+
+1618
+01:31:08,520 --> 01:31:09,520
+It's amazing.
+
+1619
+01:31:09,520 --> 01:31:10,520
+It's not awesome.
+
+1620
+01:31:10,520 --> 01:31:11,520
+It's amazing.
+
+1621
+01:31:11,520 --> 01:31:12,520
+And then you fall.
+
+1622
+01:31:12,520 --> 01:31:13,520
+Bumblebee catches you, which is a great effect.
+
+1623
+01:31:13,520 --> 01:31:16,520
+But yes, we've seen that Star Wars Spider-Man.
+
+1624
+01:31:16,520 --> 01:31:19,520
+So and then Optimus tells you that your bravery saved the planet.
+
+1625
+01:31:19,520 --> 01:31:20,520
+You cry.
+
+1626
+01:31:20,520 --> 01:31:24,520
+You see Megatron's corpse and you cry again.
+
+1627
+01:31:24,520 --> 01:31:30,520
+Either however you land on this issue, you have to applaud Mike for putting this together.
+
+1628
+01:31:30,520 --> 01:31:31,520
+I agree.
+
+1629
+01:31:31,520 --> 01:31:35,520
+But that that said, Paul, I think you need to like it.
+
+1630
+01:31:35,520 --> 01:31:40,520
+Do you have any sort of final judgments to make now that this has been laid out?
+
+1631
+01:31:43,520 --> 01:31:49,520
+When I first heard the opinion that Mike had, I thought it was outlandish.
+
+1632
+01:31:49,520 --> 01:31:57,520
+I thought it was completely baseless in hearing his very skewed judgment of both rides.
+
+1633
+01:31:57,520 --> 01:32:01,520
+And I think he should open himself to a more proper presentation.
+
+1634
+01:32:01,520 --> 01:32:04,520
+How come you didn't say a thing to him about I didn't say you should?
+
+1635
+01:32:04,520 --> 01:32:06,520
+By the way, I did say it quietly to the mic.
+
+1636
+01:32:06,520 --> 01:32:08,520
+Say it loud and annoying.
+
+1637
+01:32:08,520 --> 01:32:11,520
+I didn't say it was I didn't say that you're still calm.
+
+1638
+01:32:11,520 --> 01:32:12,520
+Say it.
+
+1639
+01:32:12,520 --> 01:32:13,520
+Spike your voice at Paul.
+
+1640
+01:32:13,520 --> 01:32:14,520
+Go.
+
+1641
+01:32:14,520 --> 01:32:17,520
+Oh, I didn't say I said Transformers is better there.
+
+1642
+01:32:17,520 --> 01:32:18,520
+OK.
+
+1643
+01:32:18,520 --> 01:32:19,520
+What did you say?
+
+1644
+01:32:19,520 --> 01:32:20,520
+What are we arguing?
+
+1645
+01:32:20,520 --> 01:32:21,520
+What did you say?
+
+1646
+01:32:21,520 --> 01:32:23,520
+I'm saying we're just exploring the idea that it is.
+
+1647
+01:32:23,520 --> 01:32:24,520
+Oh, OK.
+
+1648
+01:32:24,520 --> 01:32:26,520
+And just asking questions.
+
+1649
+01:32:26,520 --> 01:32:30,520
+Tucker, I mean, Mike Carlson to quote the Terminator to ride.
+
+1650
+01:32:30,520 --> 01:32:32,520
+And so the battle continues.
+
+1651
+01:32:32,520 --> 01:32:33,520
+Yeah.
+
+1652
+01:32:33,520 --> 01:32:55,520
+So what I would say is this in hearing the overview, I think it really crystallized for me in the last few minutes, which is what you are looking for in the ride, which is so I think if we're looking for a technological ride, build idea.
+
+1653
+01:32:55,520 --> 01:33:01,520
+We we I'm going to say there's no there's no there's no equal to rise.
+
+1654
+01:33:01,520 --> 01:33:07,520
+But if we're looking for like a thrill ride, a true thrill ride, I agree.
+
+1655
+01:33:07,520 --> 01:33:10,520
+I like getting put into that giant pencil sharpener.
+
+1656
+01:33:10,520 --> 01:33:13,520
+I like shoving that all spark into that head.
+
+1657
+01:33:13,520 --> 01:33:17,520
+You know, I think there are some really fun, visceral moments there.
+
+1658
+01:33:17,520 --> 01:33:23,520
+And I go back to my original theory, which is like I love Fast and Furious, but I also love Jackie Brown.
+
+1659
+01:33:23,520 --> 01:33:24,520
+They're very different movies.
+
+1660
+01:33:24,520 --> 01:33:27,520
+They both give me certain things that I'm looking for.
+
+1661
+01:33:27,520 --> 01:33:29,520
+I think for Mike, what you're saying is.
+
+1662
+01:33:30,520 --> 01:33:41,520
+The kid in you is more activated from Transformers, and then it ends with this emotional wallop and not saying that you like Transformers, just saying that, like the idea of like a kid playing with giant robots.
+
+1663
+01:33:41,520 --> 01:33:43,520
+And that's at the end of the day, I feel that same way.
+
+1664
+01:33:43,520 --> 01:33:45,520
+Like I walk off that ride ago.
+
+1665
+01:33:45,520 --> 01:33:46,520
+This is the best Transformers thing.
+
+1666
+01:33:46,520 --> 01:33:47,520
+Why can't they make the movies like that?
+
+1667
+01:33:47,520 --> 01:33:49,520
+There's an emotional wallop.
+
+1668
+01:33:49,520 --> 01:33:50,520
+There's a thrill.
+
+1669
+01:33:50,520 --> 01:33:51,520
+There's an adventure to it.
+
+1670
+01:33:51,520 --> 01:33:52,520
+Undisputed, unequivocal.
+
+1671
+01:33:52,520 --> 01:33:53,520
+That is true.
+
+1672
+01:33:53,520 --> 01:33:56,520
+And I think Rise is different.
+
+1673
+01:33:56,520 --> 01:34:00,520
+I think Rise is incomparable to any other ride.
+
+1674
+01:34:00,520 --> 01:34:02,520
+But I don't think it.
+
+1675
+01:34:02,520 --> 01:34:07,520
+I don't think it packs the thrill ride punch, but I don't think that that's wrong.
+
+1676
+01:34:07,520 --> 01:34:08,520
+I think it.
+
+1677
+01:34:08,520 --> 01:34:09,520
+I think it is.
+
+1678
+01:34:09,520 --> 01:34:11,520
+An awe inspiring.
+
+1679
+01:34:11,520 --> 01:34:13,520
+I'm not awe inspired by Transformers.
+
+1680
+01:34:13,520 --> 01:34:14,520
+I had fun on Transformers.
+
+1681
+01:34:14,520 --> 01:34:15,520
+I want to write it again.
+
+1682
+01:34:15,520 --> 01:34:16,520
+It's Splash Mountain.
+
+1683
+01:34:16,520 --> 01:34:17,520
+Star Wars.
+
+1684
+01:34:17,520 --> 01:34:18,520
+I'll talk about it.
+
+1685
+01:34:18,520 --> 01:34:19,520
+I'll talk about it.
+
+1686
+01:34:19,520 --> 01:34:20,520
+Star Wars.
+
+1687
+01:34:20,520 --> 01:34:23,520
+I'll talk about and say that's the best ride I've ever been on.
+
+1688
+01:34:23,520 --> 01:34:29,520
+And that like maybe I'm not adding that much clarity to it, but I think there are rooms.
+
+1689
+01:34:29,520 --> 01:34:32,520
+There is room to have that opinion, but I think it needs to be couched in a very specific
+
+1690
+01:34:32,520 --> 01:34:34,520
+way to what he's saying.
+
+1691
+01:34:34,520 --> 01:34:35,520
+Does that make sense?
+
+1692
+01:34:35,520 --> 01:34:36,520
+It does make sense.
+
+1693
+01:34:36,520 --> 01:34:38,520
+I think that's I think you're right.
+
+1694
+01:34:38,520 --> 01:34:39,520
+Yeah.
+
+1695
+01:34:39,520 --> 01:34:41,520
+Mike, what's your opinion after all that?
+
+1696
+01:34:41,520 --> 01:34:44,520
+What's your opinion on this issue?
+
+1697
+01:34:44,520 --> 01:34:45,520
+Let's see here.
+
+1698
+01:34:45,520 --> 01:34:55,520
+So after all of this is said and done, Brett, could you put up the next slide up, but then
+
+1699
+01:34:55,520 --> 01:34:57,520
+quickly put the next slide up?
+
+1700
+01:34:57,520 --> 01:34:58,520
+Oh boy.
+
+1701
+01:34:58,520 --> 01:34:59,520
+Oh.
+
+1702
+01:34:59,520 --> 01:35:05,520
+Could you like Brett, could you actually go to the next, reverse it, go to the one before?
+
+1703
+01:35:05,520 --> 01:35:07,520
+And now to the last one.
+
+1704
+01:35:07,520 --> 01:35:08,520
+Okay.
+
+1705
+01:35:08,520 --> 01:35:09,520
+What's happening?
+
+1706
+01:35:09,520 --> 01:35:11,520
+By the way, that's Finn in the distance there.
+
+1707
+01:35:11,520 --> 01:35:12,520
+You can see him.
+
+1708
+01:35:12,520 --> 01:35:13,520
+What's happened?
+
+1709
+01:35:13,520 --> 01:35:14,520
+What's happened?
+
+1710
+01:35:14,520 --> 01:35:19,520
+Are you saying that Mike, in a way you agree with me that that both rides win?
+
+1711
+01:35:19,520 --> 01:35:28,520
+I think that both rides win if you take the IP out of of Star Wars.
+
+1712
+01:35:28,520 --> 01:35:30,520
+I think that was a good.
+
+1713
+01:35:30,520 --> 01:35:36,520
+I think that was a very good argument for Star Wars because I'm connected to Star Wars.
+
+1714
+01:35:36,520 --> 01:35:37,520
+I have a lot of emotions.
+
+1715
+01:35:37,520 --> 01:35:42,520
+And if I'm looking for a very specific thing, I'm either looking for character moments,
+
+1716
+01:35:42,520 --> 01:35:44,520
+I'm looking for moments on Star Wars, I'm looking for certain things.
+
+1717
+01:35:44,520 --> 01:35:45,520
+Yes, you're right.
+
+1718
+01:35:45,520 --> 01:35:49,520
+I'm putting too much of myself in it and not looking at it just as a big scope ride.
+
+1719
+01:35:49,520 --> 01:35:53,520
+Would you say the real winners were the friends we made along the way?
+
+1720
+01:35:53,520 --> 01:35:59,520
+Brett, could you quickly type up a slide that says both rides are equally good?
+
+1721
+01:35:59,520 --> 01:36:01,520
+Now, I want to say one thing.
+
+1722
+01:36:01,520 --> 01:36:04,520
+I because now my children are downstairs.
+
+1723
+01:36:04,520 --> 01:36:05,520
+I can hear them.
+
+1724
+01:36:05,520 --> 01:36:06,520
+Sorry.
+
+1725
+01:36:06,520 --> 01:36:07,520
+All means.
+
+1726
+01:36:07,520 --> 01:36:09,520
+Yeah, I will say this.
+
+1727
+01:36:09,520 --> 01:36:16,520
+I brought my youngest who is five years old at that point, five turning six on this ride.
+
+1728
+01:36:16,520 --> 01:36:18,520
+Rise of the Resistance.
+
+1729
+01:36:18,520 --> 01:36:21,520
+And it broke down, of course.
+
+1730
+01:36:21,520 --> 01:36:26,520
+And he was very scared, frightened out of his mind at every given point.
+
+1731
+01:36:26,520 --> 01:36:30,520
+Now, this is a kid who's written has written soaring.
+
+1732
+01:36:30,520 --> 01:36:32,520
+He has written pirates.
+
+1733
+01:36:32,520 --> 01:36:35,520
+He's written Haunted Mansion, frightened out of his mind.
+
+1734
+01:36:35,520 --> 01:36:43,520
+When the ride breaks down, he turns to me, bursts out in tears and says, Kylo Ren is going to kill us.
+
+1735
+01:36:43,520 --> 01:36:58,520
+And to me, you may not be getting some of that thrill, but I believe the ride is giving you a much darker, darker thing because he thought Kylo Ren had effectively like that.
+
+1736
+01:36:58,520 --> 01:36:59,520
+The ride and broken down.
+
+1737
+01:36:59,520 --> 01:37:01,520
+Kylo rented one.
+
+1738
+01:37:01,520 --> 01:37:03,520
+He had stopped our car and now he was here to kill us.
+
+1739
+01:37:03,520 --> 01:37:14,520
+So much so that when the ride attendants took us out, he was not trusting them at all, thinking they were part of the show, which I totally understand in many respects.
+
+1740
+01:37:14,520 --> 01:37:21,520
+So I do think on a certain level, and we're talking about IP and all that sort of stuff, I think it is giving people a thrill.
+
+1741
+01:37:21,520 --> 01:37:24,520
+My kid that youngest had never even seen Star Wars.
+
+1742
+01:37:24,520 --> 01:37:27,520
+So he's coming into it the same way I'm coming into Transformers.
+
+1743
+01:37:27,520 --> 01:37:29,520
+You know, so there's that there is a thrill.
+
+1744
+01:37:29,520 --> 01:37:33,520
+There is definitely a thrill, a thrill of death, which is a thrill.
+
+1745
+01:37:33,520 --> 01:37:40,520
+And then he turned to you and went, Papa, what is his mismanagement of the House of Gucci mean for the company for high fashion?
+
+1746
+01:37:40,520 --> 01:37:42,520
+Only Tom Ford can save them.
+
+1747
+01:37:46,520 --> 01:37:49,520
+You know, I think we're talking emotional wallops.
+
+1748
+01:37:49,520 --> 01:37:51,520
+I think this episode has been full of them.
+
+1749
+01:37:51,520 --> 01:37:58,520
+I think this has been a fascinating conversation like like giant robots all grappling for the AllSpark.
+
+1750
+01:37:58,520 --> 01:38:01,520
+And Paul, thank you for joining us and having it with us.
+
+1751
+01:38:01,520 --> 01:38:07,520
+I think it's settled other than we'll probably get into this debate about seven more times.
+
+1752
+01:38:07,520 --> 01:38:11,520
+But for now, Paul Scheer, you survived podcast the ride.
+
+1753
+01:38:11,520 --> 01:38:13,520
+Thank you so much for giving us appreciate.
+
+1754
+01:38:13,520 --> 01:38:14,520
+I appreciate it.
+
+1755
+01:38:14,520 --> 01:38:15,520
+Can I say one more thing?
+
+1756
+01:38:15,520 --> 01:38:26,520
+Just as we cap it off and I know I'm doing my own leave, you can stay at the win or you can stay at the Hard Rock Casino, right?
+
+1757
+01:38:26,520 --> 01:38:28,520
+It's all a matter of what you want.
+
+1758
+01:38:28,520 --> 01:38:35,520
+They might be now my I might be dated because I don't know if any of that is good.
+
+1759
+01:38:35,520 --> 01:38:41,520
+What I remember, Vegas Hard Rocks coming back, taking over the Mirage and Virgin Hotels is running their own property.
+
+1760
+01:38:41,520 --> 01:38:42,520
+They're all proper.
+
+1761
+01:38:42,520 --> 01:38:44,520
+OK, so all I'll say is this.
+
+1762
+01:38:44,520 --> 01:38:51,520
+I think that we're talking about two icons, two of the best people to do it.
+
+1763
+01:38:51,520 --> 01:38:58,520
+Both of these rides in many respects and it does simply make them fight each other for supremacy.
+
+1764
+01:38:58,520 --> 01:39:00,520
+It may not be the best thing.
+
+1765
+01:39:00,520 --> 01:39:06,520
+We may just have to we may have to live on the Mount theme park more or whatever that was.
+
+1766
+01:39:06,520 --> 01:39:10,520
+I just appreciate that all these presidents have done something good.
+
+1767
+01:39:10,520 --> 01:39:16,520
+So so what you're saying is that the problem really is pitting them against each other and comparison and comparing them.
+
+1768
+01:39:16,520 --> 01:39:20,520
+An idea that was thought up by Mike Carlson and therefore Mike is wrong.
+
+1769
+01:39:20,520 --> 01:39:21,520
+Put it my side, Brett.
+
+1770
+01:39:21,520 --> 01:39:22,520
+Mike is wrong.
+
+1771
+01:39:22,520 --> 01:39:23,520
+Oh, you don't have it.
+
+1772
+01:39:23,520 --> 01:39:24,520
+OK, sorry.
+
+1773
+01:39:24,520 --> 01:39:25,520
+Well, it is wrong.
+
+1774
+01:39:25,520 --> 01:39:27,520
+We can put it in a post is wrong.
+
+1775
+01:39:27,520 --> 01:39:29,520
+Actually, Brett, I do have something to bring up.
+
+1776
+01:39:29,520 --> 01:39:33,520
+Can you pull up the thing that just says sign because we're not exiting through the gift shop today.
+
+1777
+01:39:33,520 --> 01:39:34,520
+We're doing it.
+
+1778
+01:39:34,520 --> 01:39:39,520
+Transformers, the ride style, because at the end you see a scary stencil that says Ropp and Ropp.
+
+1779
+01:39:39,520 --> 01:39:44,520
+Is retail opportunity all spark level for section two.
+
+1780
+01:39:44,520 --> 01:39:47,520
+So Paul Scheer, let's exit through the Ropp.
+
+1781
+01:39:47,520 --> 01:39:49,520
+Is there anything you would like to plug?
+
+1782
+01:39:49,520 --> 01:39:52,520
+No, just listen to how this get made and unspooled.
+
+1783
+01:39:52,520 --> 01:39:55,520
+We have some fun episodes coming up with some very big guest stars.
+
+1784
+01:39:55,520 --> 01:39:56,520
+So I'd be blessed.
+
+1785
+01:39:56,520 --> 01:39:57,520
+Well, a thrill to have you.
+
+1786
+01:39:57,520 --> 01:39:58,520
+Thank you so much.
+
+1787
+01:39:58,520 --> 01:39:59,520
+Pleasure.
+
+1788
+01:39:59,520 --> 01:40:03,520
+So I do want to say my one favorite discovery about this ride.
+
+1789
+01:40:03,520 --> 01:40:04,520
+Real quick.
+
+1790
+01:40:04,520 --> 01:40:05,520
+All right.
+
+1791
+01:40:05,520 --> 01:40:06,520
+It's very quick.
+
+1792
+01:40:06,520 --> 01:40:12,520
+I alluded to it before we started recording the actor so upset about the general.
+
+1793
+01:40:12,520 --> 01:40:17,520
+The actor, Glenn Moore, shower, who plays General Moore shower.
+
+1794
+01:40:17,520 --> 01:40:18,520
+Very weird.
+
+1795
+01:40:18,520 --> 01:40:19,520
+They used his real last name.
+
+1796
+01:40:19,520 --> 01:40:23,520
+He's the Secret Service agent in the TV show 24.
+
+1797
+01:40:23,520 --> 01:40:26,520
+I he's very good in this ride.
+
+1798
+01:40:26,520 --> 01:40:28,520
+How little I think a know of these movies.
+
+1799
+01:40:28,520 --> 01:40:30,520
+I thought it was an original ride character.
+
+1800
+01:40:30,520 --> 01:40:32,520
+He's in most of the movies.
+
+1801
+01:40:32,520 --> 01:40:44,520
+There is a moment where the Transformer Wheely interrupts and maybe some of the finest theme park delivery delivery of a line that's very silly, but said very seriously.
+
+1802
+01:40:44,520 --> 01:40:48,520
+He says to him, this better be critical, Wheely.
+
+1803
+01:40:48,520 --> 01:40:51,520
+And I just was delighted by that.
+
+1804
+01:40:51,520 --> 01:40:54,520
+That kind of made my day when I saw that.
+
+1805
+01:40:54,520 --> 01:40:55,520
+Well, you've heard it.
+
+1806
+01:40:55,520 --> 01:40:56,520
+You heard it here.
+
+1807
+01:40:56,520 --> 01:40:58,520
+Does anyone have June's number?
+
+1808
+01:40:58,520 --> 01:41:00,520
+Let's call June and get Paul back on.
+
+1809
+01:41:00,520 --> 01:41:07,520
+Tell those kids to hold their fucking horses for a minute and let's get that mixture.
+
+1810
+01:41:07,520 --> 01:41:09,520
+Here's the critical wheelie.
+
+1811
+01:41:09,520 --> 01:41:13,520
+It helps that wheelie is Tom Kenny doing like a Brooklyn guy accent.
+
+1812
+01:41:13,520 --> 01:41:14,520
+That's what he should say.
+
+1813
+01:41:14,520 --> 01:41:16,520
+That's what he should have said to his kids.
+
+1814
+01:41:16,520 --> 01:41:17,520
+Whatever he had to Lee.
+
+1815
+01:41:17,520 --> 01:41:19,520
+I hope this is critical, Wheely.
+
+1816
+01:41:21,520 --> 01:41:25,520
+Well, I hope this episode was critical for the listeners.
+
+1817
+01:41:25,520 --> 01:41:26,520
+Really?
+
+1818
+01:41:26,520 --> 01:41:28,520
+I really.
+
+1819
+01:41:28,520 --> 01:41:29,520
+I really.
+
+1820
+01:41:29,520 --> 01:41:39,520
+All our little wheelie and for all our little wheelies out there in the audience, you can find us on the socials at podcast the ride where I think we have to do the polls.
+
+1821
+01:41:39,520 --> 01:41:44,520
+Transformers or Spider-Man and Transformers or rise of the.
+
+1822
+01:41:44,520 --> 01:41:45,520
+Yes, we do.
+
+1823
+01:41:45,520 --> 01:41:46,520
+I'm so curious.
+
+1824
+01:41:46,520 --> 01:41:49,520
+I'm very curious.
+
+1825
+01:41:49,520 --> 01:41:56,520
+I won't try to lead it any further because it's possible that people will try to vote the other way to fuck me.
+
+1826
+01:41:56,520 --> 01:41:58,520
+Hey, I'm not telling them what to do.
+
+1827
+01:41:58,520 --> 01:42:00,520
+They should listen to this episode before.
+
+1828
+01:42:00,520 --> 01:42:01,520
+I mean, obviously they will.
+
+1829
+01:42:01,520 --> 01:42:02,520
+Maybe they will or maybe they won't.
+
+1830
+01:42:02,520 --> 01:42:04,520
+But they they should listen.
+
+1831
+01:42:04,520 --> 01:42:05,520
+We should.
+
+1832
+01:42:05,520 --> 01:42:12,520
+OK, so what we should do is do a poll first before we post the episode and a poll after and see who's been swayed.
+
+1833
+01:42:12,520 --> 01:42:17,520
+I to be honest, not me, but maybe some of the audience.
+
+1834
+01:42:17,520 --> 01:42:19,520
+Maybe we don't know.
+
+1835
+01:42:19,520 --> 01:42:25,520
+People who weren't being specifically scolded and finger wagged at in the room during it.
+
+1836
+01:42:25,520 --> 01:42:26,520
+We don't know.
+
+1837
+01:42:26,520 --> 01:42:27,520
+We'll see.
+
+1838
+01:42:27,520 --> 01:42:28,520
+The battle continues.
+
+1839
+01:42:28,520 --> 01:42:29,520
+The battle continues.
+
+1840
+01:42:29,520 --> 01:42:30,520
+The battle continues.
+
+1841
+01:42:30,520 --> 01:42:33,520
+Merch is available in our R.O.P. on T. Public and for three bonus episodes every month.
+
+1842
+01:42:33,520 --> 01:42:39,520
+Check out podcast the ride, the second gate or our new tier club three, where we end every episode with a moment of intimacy.
+
+1843
+01:42:39,520 --> 01:42:44,520
+Allah Optimus Prime, the most heart wrenching moment in all of theme park fiction.
+
+1844
+01:42:44,520 --> 01:42:48,520
+You'll find all of that at Patreon dot com slash podcast the ride.
+
+1845
+01:42:48,520 --> 01:42:51,520
+Mike, I feel like you got to you got to end it.
+
+1846
+01:42:51,520 --> 01:42:53,520
+This has been your time to shine.
+
+1847
+01:42:53,520 --> 01:42:56,520
+What do you want the listener to leave with?
+
+1848
+01:42:56,520 --> 01:43:01,520
+I want them to leave with an open heart and an open mind.
+
+1849
+01:43:01,520 --> 01:43:04,520
+And I want them to assess things they thought they knew.
+
+1850
+01:43:04,520 --> 01:43:12,520
+And I want them to re re-examine every aspect of their life when it comes to ranking IP base rides.
+
+1851
+01:43:12,520 --> 01:43:19,520
+I want I want to leave and get open heart surgery rather than discuss any of this again.
+
+1852
+01:43:19,520 --> 01:43:21,520
+OK, fair enough.
+
+1853
+01:43:21,520 --> 01:43:22,520
+OK, we're agreed.
+
+1854
+01:43:22,520 --> 01:43:23,520
+Bye.
+
+1855
+01:43:52,520 --> 01:43:58,520
+Twitter and Instagram at Forever Dog Team and liking our page on Facebook.
+

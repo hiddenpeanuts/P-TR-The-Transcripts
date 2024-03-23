@@ -1,0 +1,7616 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,080 --> 00:00:22,400
+Welcome to Podcast The Ride,
+
+3
+00:00:22,400 --> 00:00:25,640
+the second gate, hyperspace hoopla edition.
+
+4
+00:00:25,640 --> 00:00:27,800
+My name is Mike Carlson.
+
+5
+00:00:27,800 --> 00:00:29,720
+Joining me as always, Jason Sheridan.
+
+6
+00:00:29,720 --> 00:00:30,560
+Hi.
+
+7
+00:00:30,560 --> 00:00:31,440
+And Scott Garner.
+
+8
+00:00:31,440 --> 00:00:34,000
+That's right, and I'm gonna let you steer the ship here
+
+9
+00:00:34,000 --> 00:00:38,200
+because this is something I wasn't aware of
+
+10
+00:00:38,200 --> 00:00:42,800
+and you did this to us, so the blood's on your hands.
+
+11
+00:00:42,800 --> 00:00:43,640
+Okay, yeah.
+
+12
+00:00:43,640 --> 00:00:46,040
+So teach us how to dougie, Mike.
+
+13
+00:00:46,040 --> 00:00:47,560
+Teach us how to dougie.
+
+14
+00:00:47,560 --> 00:00:50,400
+So okay, so I actually, the first time,
+
+15
+00:00:50,400 --> 00:00:53,920
+I think I've seen clips of this and not known what it was,
+
+16
+00:00:53,920 --> 00:00:56,440
+but I think on one of our social media things,
+
+17
+00:00:56,440 --> 00:00:59,640
+maybe Facebook and apologies to the person,
+
+18
+00:00:59,640 --> 00:01:02,640
+I think someone did suggest this months ago
+
+19
+00:01:02,640 --> 00:01:05,960
+and in the back of my mind, I was like, hmm, hmm, okay.
+
+20
+00:01:05,960 --> 00:01:08,400
+And then I was just looking through YouTube,
+
+21
+00:01:08,400 --> 00:01:11,400
+probably searching, I don't think I searched Star Wars,
+
+22
+00:01:11,400 --> 00:01:13,360
+but it pops up because of the algorithm.
+
+23
+00:01:13,360 --> 00:01:16,560
+And one of these showed up and I finally watched it
+
+24
+00:01:16,560 --> 00:01:18,320
+and I went, oh, we have to.
+
+25
+00:01:18,320 --> 00:01:19,480
+This is a thing we have to do.
+
+26
+00:01:19,480 --> 00:01:21,280
+So I do remember someone mentioning it,
+
+27
+00:01:21,280 --> 00:01:23,760
+but I did not actually see it in earnest
+
+28
+00:01:23,760 --> 00:01:25,400
+until a couple of weeks ago.
+
+29
+00:01:25,400 --> 00:01:27,160
+And with the Rise of Skywalker.
+
+30
+00:01:27,160 --> 00:01:29,720
+Rise of Skywalker, always good to time stuff.
+
+31
+00:01:29,720 --> 00:01:30,560
+Days away.
+
+32
+00:01:30,560 --> 00:01:31,720
+Days away at this point.
+
+33
+00:01:31,720 --> 00:01:32,960
+With Rise of Resistance.
+
+34
+00:01:32,960 --> 00:01:33,920
+Oh yeah, ours coming.
+
+35
+00:01:33,920 --> 00:01:36,720
+Open, Rise of Resistance open and us,
+
+36
+00:01:36,720 --> 00:01:38,360
+we could look, we're not, we can't do,
+
+37
+00:01:38,360 --> 00:01:40,440
+we're just in Orlando, we're not gonna go back.
+
+38
+00:01:40,440 --> 00:01:44,720
+We'll wait till it's, we'll get to it when it's in LA.
+
+39
+00:01:44,720 --> 00:01:46,880
+Yeah. We will.
+
+40
+00:01:46,880 --> 00:01:48,120
+It's killing me though.
+
+41
+00:01:49,320 --> 00:01:51,560
+I've had a couple things spoiled for me.
+
+42
+00:01:51,560 --> 00:01:53,200
+I know. Without even looking.
+
+43
+00:01:53,200 --> 00:01:56,680
+Everybody's suddenly like, okay, so videos everywhere.
+
+44
+00:01:56,960 --> 00:02:00,640
+Twitter would know, like maybe some of us would like to,
+
+45
+00:02:00,640 --> 00:02:02,440
+and YouTube is just set up in such a way
+
+46
+00:02:02,440 --> 00:02:04,880
+that if you're holding on the thumbnail for a second,
+
+47
+00:02:04,880 --> 00:02:05,720
+it just starts playing.
+
+48
+00:02:05,720 --> 00:02:07,720
+So we're like, ah, get it away.
+
+49
+00:02:07,720 --> 00:02:11,080
+And pictures of, people just post pictures of robots.
+
+50
+00:02:11,080 --> 00:02:13,240
+It was disappointing to learn the robots.
+
+51
+00:02:13,240 --> 00:02:14,440
+Yeah. Bummer.
+
+52
+00:02:14,440 --> 00:02:17,800
+I think there's still some stuff I don't know, hopefully.
+
+53
+00:02:17,800 --> 00:02:19,840
+We know the ride is very long.
+
+54
+00:02:19,840 --> 00:02:22,320
+Yeah. So as much as I think I've seen
+
+55
+00:02:22,320 --> 00:02:25,840
+too many show scenes or pictures of show scenes,
+
+56
+00:02:25,840 --> 00:02:29,280
+I'm very excited because it sounds like it's 12, 15,
+
+57
+00:02:29,280 --> 00:02:31,800
+18 minutes, depending on how long things are.
+
+58
+00:02:31,800 --> 00:02:33,240
+And I don't know if you saw this,
+
+59
+00:02:33,240 --> 00:02:34,240
+and I know this is not a spoiler,
+
+60
+00:02:34,240 --> 00:02:37,080
+but the way the ride is set up,
+
+61
+00:02:37,080 --> 00:02:40,520
+different rooms have additional scene type things
+
+62
+00:02:40,520 --> 00:02:42,520
+and dialogue if you get stuck in.
+
+63
+00:02:42,520 --> 00:02:45,720
+So say there's a loading issue on the ride
+
+64
+00:02:45,720 --> 00:02:48,120
+and you get stuck in one of the rooms for a little while,
+
+65
+00:02:48,120 --> 00:02:49,920
+there's extra stuff.
+
+66
+00:02:49,920 --> 00:02:51,720
+Whoa. So you don't kind of just get stalled.
+
+67
+00:02:51,720 --> 00:02:53,240
+Like if it's pirates at the end
+
+68
+00:02:53,240 --> 00:02:55,720
+and you're just hitting boats, it's not like that.
+
+69
+00:02:56,600 --> 00:02:57,920
+There would be like additional things that might happen
+
+70
+00:02:57,920 --> 00:03:00,520
+or like dialogue from the pirates in that scenario.
+
+71
+00:03:00,520 --> 00:03:02,880
+I'm gonna say, I think this come up for,
+
+72
+00:03:02,880 --> 00:03:06,080
+the way they have been running pirates for like a decade
+
+73
+00:03:06,080 --> 00:03:07,280
+drives me insane.
+
+74
+00:03:07,280 --> 00:03:09,920
+Like I hate how many boats are in there.
+
+75
+00:03:09,920 --> 00:03:11,240
+Not Japan, I think.
+
+76
+00:03:11,240 --> 00:03:12,600
+Well, I can do it in Japan.
+
+77
+00:03:12,600 --> 00:03:13,440
+I bet it's not in Japan.
+
+78
+00:03:13,440 --> 00:03:16,120
+I'm sure it's very well organized in Japan.
+
+79
+00:03:16,120 --> 00:03:16,960
+Yeah.
+
+80
+00:03:16,960 --> 00:03:20,280
+But the whole ride is faster a little bit in Japan.
+
+81
+00:03:21,160 --> 00:03:22,640
+Yeah, but in case you know what we're talking about,
+
+82
+00:03:22,640 --> 00:03:26,000
+for pirates, basically there's a backup at the end
+
+83
+00:03:26,000 --> 00:03:28,520
+before you go back up the lift hill to get off the boat
+
+84
+00:03:28,520 --> 00:03:30,960
+where just boats smash into each other.
+
+85
+00:03:30,960 --> 00:03:32,160
+Slam into each other and.
+
+86
+00:03:32,160 --> 00:03:34,120
+It's amazing with all the concern of it,
+
+87
+00:03:34,120 --> 00:03:36,320
+like kind of quality of guest experience,
+
+88
+00:03:36,320 --> 00:03:38,360
+how much that you just watch people who don't know
+
+89
+00:03:38,360 --> 00:03:41,120
+that's gonna happen get really flustered and upset.
+
+90
+00:03:41,120 --> 00:03:41,960
+Yeah.
+
+91
+00:03:41,960 --> 00:03:44,120
+And they put these big like whatever plastic,
+
+92
+00:03:44,120 --> 00:03:44,960
+whatever their cushions.
+
+93
+00:03:44,960 --> 00:03:46,880
+Bumpers. Bumpers on the end of the boats.
+
+94
+00:03:46,880 --> 00:03:49,360
+And they just, you literally get like smashed into
+
+95
+00:03:49,520 --> 00:03:53,000
+and do smashing into people 10 times.
+
+96
+00:03:53,000 --> 00:03:55,960
+Like while big show scenes are happening around you,
+
+97
+00:03:55,960 --> 00:03:57,480
+while you're supposed to be looking around you.
+
+98
+00:03:57,480 --> 00:04:00,400
+At the end when the pirates are drunkenly firing cannons
+
+99
+00:04:00,400 --> 00:04:03,200
+and guns at you, you're getting assaulted
+
+100
+00:04:03,200 --> 00:04:06,000
+by different boats at the end.
+
+101
+00:04:06,000 --> 00:04:09,320
+So yeah, that does not happen on Rise of the Resistance.
+
+102
+00:04:09,320 --> 00:04:11,000
+Hopefully not. I've been told.
+
+103
+00:04:12,440 --> 00:04:16,680
+So this is, you know, what with the most cutting edge
+
+104
+00:04:16,720 --> 00:04:20,160
+Star Wars, the most like 2019, 2020 Star Wars experience
+
+105
+00:04:20,160 --> 00:04:24,160
+now coming to the park and process of being put in the parks.
+
+106
+00:04:25,320 --> 00:04:27,480
+We're gonna harken back to a very different time
+
+107
+00:04:27,480 --> 00:04:29,040
+that wasn't that long ago.
+
+108
+00:04:29,040 --> 00:04:30,880
+No. When they were a little more fast
+
+109
+00:04:30,880 --> 00:04:32,040
+and loose with these.
+
+110
+00:04:32,040 --> 00:04:33,240
+Yes. Properties.
+
+111
+00:04:33,240 --> 00:04:35,840
+So this is for the most part
+
+112
+00:04:35,840 --> 00:04:38,320
+before the Disney Lucasfilm sale.
+
+113
+00:04:38,320 --> 00:04:40,440
+Right before. Which I think is very important.
+
+114
+00:04:40,440 --> 00:04:45,440
+This was a part of, just to be very specific,
+
+115
+00:04:45,880 --> 00:04:47,680
+cause I seemingly love to do this.
+
+116
+00:04:47,680 --> 00:04:50,760
+This ran from 2006 to 2013.
+
+117
+00:04:50,760 --> 00:04:52,360
+2013 was the last year.
+
+118
+00:04:52,360 --> 00:04:53,880
+Real blowout year too.
+
+119
+00:04:53,880 --> 00:04:54,920
+I mean, we'll get to it.
+
+120
+00:04:54,920 --> 00:04:57,360
+They had upgraded them to the bigger stage.
+
+121
+00:04:57,360 --> 00:04:59,520
+At that point there's running jokes.
+
+122
+00:04:59,520 --> 00:05:01,400
+There's running characters.
+
+123
+00:05:02,680 --> 00:05:06,920
+And Star Wars Weekends goes back to the late 90s.
+
+124
+00:05:06,920 --> 00:05:08,560
+You guys ever go to one of these?
+
+125
+00:05:08,560 --> 00:05:09,360
+No. Never.
+
+126
+00:05:09,360 --> 00:05:12,360
+I went in 1999, I think.
+
+127
+00:05:15,960 --> 00:05:20,240
+And I waited two hours to get Jeremy Bullock's autograph.
+
+128
+00:05:20,240 --> 00:05:21,280
+Yeah, Boba Fett.
+
+129
+00:05:21,280 --> 00:05:23,680
+Boba Fett, the man underneath Boba Fett.
+
+130
+00:05:23,680 --> 00:05:25,040
+I didn't know who that was.
+
+131
+00:05:25,040 --> 00:05:29,680
+He's also an Imperial officer in another scene.
+
+132
+00:05:29,680 --> 00:05:31,120
+We saw. Where you see his face.
+
+133
+00:05:31,120 --> 00:05:35,080
+I have seen Jeremy Bullock speak at Comic-Con in Chicago.
+
+134
+00:05:35,080 --> 00:05:37,480
+It was the Men Behind the Masks tour.
+
+135
+00:05:37,480 --> 00:05:42,240
+It was him, Peter Mayhew, who it was, shoot, I'm thinking,
+
+136
+00:05:42,280 --> 00:05:45,440
+oh, David Prowse, who was Vader.
+
+137
+00:05:45,440 --> 00:05:47,720
+Anthony Hopkins, The Silence of the Lands.
+
+138
+00:05:47,720 --> 00:05:49,840
+Anthony Hopkins, Behind the Mask.
+
+139
+00:05:50,880 --> 00:05:53,560
+And it was, oh, the gentleman passed away.
+
+140
+00:05:53,560 --> 00:05:54,400
+He was R2-D2.
+
+141
+00:05:54,400 --> 00:05:55,520
+Come on, help me out here.
+
+142
+00:05:55,520 --> 00:05:56,480
+Kenny Baker.
+
+143
+00:05:56,480 --> 00:05:57,320
+Kenny Baker, thank you.
+
+144
+00:05:57,320 --> 00:05:58,280
+It was the four of them.
+
+145
+00:05:58,280 --> 00:06:01,760
+So I have witnessed Mr. Bullock in the flesh.
+
+146
+00:06:01,760 --> 00:06:04,720
+Now he was on stage, like at the opening ceremonies,
+
+147
+00:06:04,720 --> 00:06:06,120
+it was him and Carrie Fisher,
+
+148
+00:06:06,120 --> 00:06:08,640
+but her autograph session filled up immediately.
+
+149
+00:06:08,640 --> 00:06:09,480
+Okay, sure.
+
+150
+00:06:09,480 --> 00:06:10,320
+But he was very nice.
+
+151
+00:06:10,320 --> 00:06:11,960
+But you still waited two hours for him.
+
+152
+00:06:12,800 --> 00:06:14,160
+We got tickets and waited two hours.
+
+153
+00:06:14,160 --> 00:06:17,000
+He signed one for me and one for my buddy back home,
+
+154
+00:06:17,000 --> 00:06:17,880
+headshots.
+
+155
+00:06:17,880 --> 00:06:19,320
+Do you still have it?
+
+156
+00:06:19,320 --> 00:06:21,600
+Yes, I definitely have it somewhere.
+
+157
+00:06:21,600 --> 00:06:24,680
+So Star Wars Weekends, these events that they do,
+
+158
+00:06:24,680 --> 00:06:27,120
+where they announce upcoming Star Wars stuff,
+
+159
+00:06:27,120 --> 00:06:29,640
+and there's people from the franchise who appear.
+
+160
+00:06:30,880 --> 00:06:35,680
+And as part of it, this special,
+
+161
+00:06:37,720 --> 00:06:41,920
+musical celebration event, essentially.
+
+162
+00:06:42,960 --> 00:06:46,080
+It got topical by the end.
+
+163
+00:06:46,080 --> 00:06:47,120
+Kind of topical.
+
+164
+00:06:47,120 --> 00:06:49,080
+Pop culture-wise, it was topical.
+
+165
+00:06:49,080 --> 00:06:53,360
+Like I would say 2010 to 2013,
+
+166
+00:06:53,360 --> 00:06:57,600
+especially 2012 and 2013 was very heavily
+
+167
+00:06:57,600 --> 00:06:59,880
+the songs of the time.
+
+168
+00:06:59,880 --> 00:07:01,880
+And revisiting some of that music,
+
+169
+00:07:01,880 --> 00:07:05,080
+I truly felt like, what a simpler time.
+
+170
+00:07:05,080 --> 00:07:06,680
+That was not that long ago.
+
+171
+00:07:06,680 --> 00:07:07,920
+What a simpler era.
+
+172
+00:07:07,920 --> 00:07:09,960
+But really, I think you could call this
+
+173
+00:07:09,960 --> 00:07:14,960
+the kind of, I'm trying to think the D&D grid.
+
+174
+00:07:17,400 --> 00:07:20,760
+If Bill and Ted is chaotic evil,
+
+175
+00:07:20,760 --> 00:07:24,200
+this is neutral or good.
+
+176
+00:07:24,200 --> 00:07:25,240
+This is chaotic good, you're saying?
+
+177
+00:07:25,240 --> 00:07:26,560
+This is chaotic good.
+
+178
+00:07:26,560 --> 00:07:27,400
+I like it.
+
+179
+00:07:27,400 --> 00:07:29,040
+I think it's very charming.
+
+180
+00:07:29,040 --> 00:07:31,280
+I think it's very harmless.
+
+181
+00:07:31,280 --> 00:07:32,120
+It's very fun.
+
+182
+00:07:32,120 --> 00:07:34,480
+What is it that I feel like we need to get out?
+
+183
+00:07:34,480 --> 00:07:36,400
+Just literally, what's the blurb of it?
+
+184
+00:07:36,400 --> 00:07:38,040
+It is literally, I mean, I don't know.
+
+185
+00:07:38,040 --> 00:07:39,440
+It's not gonna be more than a couple.
+
+186
+00:07:39,440 --> 00:07:40,840
+It's more than a sentence.
+
+187
+00:07:40,840 --> 00:07:43,040
+But it's basically, there's two characters
+
+188
+00:07:43,040 --> 00:07:47,200
+that are hosting some sort of a live performance show.
+
+189
+00:07:47,200 --> 00:07:48,520
+And then there's generally a narrative
+
+190
+00:07:48,520 --> 00:07:49,800
+that happens during it.
+
+191
+00:07:49,800 --> 00:07:51,680
+And all the Star Wars characters come out
+
+192
+00:07:51,680 --> 00:07:53,040
+and dance to modern music.
+
+193
+00:07:53,040 --> 00:07:53,880
+It's a dance off.
+
+194
+00:07:53,880 --> 00:07:56,280
+It's a dance off, dance show, dance performance.
+
+195
+00:07:56,280 --> 00:07:57,680
+The bulk of it is a dance off
+
+196
+00:07:57,680 --> 00:08:02,680
+that is usually seemingly like Dark Side versus good.
+
+197
+00:08:04,480 --> 00:08:07,240
+The character sometimes will dance to a modern song
+
+198
+00:08:07,280 --> 00:08:10,880
+that might slightly relate to whatever the relationship is
+
+199
+00:08:10,880 --> 00:08:12,480
+in the Star Wars movies.
+
+200
+00:08:13,360 --> 00:08:14,920
+And we'll get to the later ones.
+
+201
+00:08:14,920 --> 00:08:19,560
+But like for instance, Padme and Lord Vader
+
+202
+00:08:19,560 --> 00:08:22,880
+dancing to Trouble by Taylor Swift.
+
+203
+00:08:22,880 --> 00:08:25,200
+I knew you were trouble when you walked in.
+
+204
+00:08:25,200 --> 00:08:27,720
+I don't know if it's quite the perfect song for them,
+
+205
+00:08:27,720 --> 00:08:29,400
+but that's the general idea.
+
+206
+00:08:29,400 --> 00:08:34,320
+It's really a big Jimmy Fallon lip sync battle
+
+207
+00:08:34,320 --> 00:08:36,200
+with all Star Wars characters.
+
+208
+00:08:36,200 --> 00:08:39,240
+Because they are not performing the songs.
+
+209
+00:08:39,240 --> 00:08:42,120
+It's not a Beetlejuice Graveyard review
+
+210
+00:08:42,120 --> 00:08:44,680
+where they're performing them as the characters.
+
+211
+00:08:44,680 --> 00:08:47,640
+It is all lip sync and dance off.
+
+212
+00:08:47,640 --> 00:08:49,480
+There's a little narrative depending on,
+
+213
+00:08:49,480 --> 00:08:50,800
+and then they go a little bit,
+
+214
+00:08:50,800 --> 00:08:53,680
+one of them ends up being sort of the emperor takes over
+
+215
+00:08:53,680 --> 00:08:55,120
+in later years.
+
+216
+00:08:55,120 --> 00:08:57,400
+So there's a little narrative that they would,
+
+217
+00:08:57,400 --> 00:08:58,720
+they definitely expand the show
+
+218
+00:08:58,720 --> 00:09:00,560
+because the show basically starts out
+
+219
+00:09:00,560 --> 00:09:04,320
+and they're kind of closer to the Star Tours.
+
+220
+00:09:04,320 --> 00:09:07,720
+There's a smaller stage next to Star Tours.
+
+221
+00:09:07,720 --> 00:09:11,920
+And then in 2011, they got upgraded to the big stage.
+
+222
+00:09:11,920 --> 00:09:13,360
+You've seen some of this, I assume.
+
+223
+00:09:13,360 --> 00:09:15,680
+This is the original location.
+
+224
+00:09:15,680 --> 00:09:18,200
+It's right by Star Tours, pretty modest size.
+
+225
+00:09:18,200 --> 00:09:19,920
+Boy, this blew up.
+
+226
+00:09:19,920 --> 00:09:22,000
+I've only seen the bigger stages.
+
+227
+00:09:22,000 --> 00:09:23,120
+So this became-
+
+228
+00:09:23,120 --> 00:09:25,680
+This is where I saw Leia and Bullock,
+
+229
+00:09:27,400 --> 00:09:28,800
+Fisher and Bullock,
+
+230
+00:09:28,800 --> 00:09:32,080
+kicking off Star Wars weekends in smaller stage.
+
+231
+00:09:32,080 --> 00:09:34,320
+So yeah, they start on a smaller stage
+
+232
+00:09:34,320 --> 00:09:36,560
+and you can tell that there's just not quite
+
+233
+00:09:36,560 --> 00:09:40,400
+as many characters and the scale is obviously not as big.
+
+234
+00:09:40,400 --> 00:09:43,240
+Well, because what you find as these things go on,
+
+235
+00:09:43,240 --> 00:09:44,800
+like in what you're watching,
+
+236
+00:09:44,800 --> 00:09:47,240
+there's our hosts of the show
+
+237
+00:09:47,240 --> 00:09:48,800
+and then like Luke and Leia came out
+
+238
+00:09:48,800 --> 00:09:51,200
+and there's storm troopers and characters you'd expect.
+
+239
+00:09:51,200 --> 00:09:52,040
+And that was Kit Fisto, by the way.
+
+240
+00:09:52,040 --> 00:09:52,880
+That was Kit Fisto.
+
+241
+00:09:52,880 --> 00:09:54,680
+One of the running jokes of it.
+
+242
+00:09:54,680 --> 00:09:57,160
+They say, Kit Fisto comes out and they go,
+
+243
+00:09:57,160 --> 00:09:59,920
+Kit Fisto, he never comes out.
+
+244
+00:09:59,960 --> 00:10:04,880
+And it's a joke in that you just repeat it so many times.
+
+245
+00:10:04,880 --> 00:10:08,040
+The people who see it every year know it's going to come.
+
+246
+00:10:08,040 --> 00:10:09,360
+I guess it's more of a reference.
+
+247
+00:10:09,360 --> 00:10:10,200
+There's Django.
+
+248
+00:10:10,200 --> 00:10:12,120
+That's Django Fett right there
+
+249
+00:10:12,120 --> 00:10:14,960
+because he has his blue and a silver outfit.
+
+250
+00:10:14,960 --> 00:10:17,160
+What's amazing about this thing as it goes on
+
+251
+00:10:17,160 --> 00:10:20,760
+is that like, boys, every character represented,
+
+252
+00:10:20,760 --> 00:10:24,240
+there is such a vast array of performers
+
+253
+00:10:24,240 --> 00:10:27,880
+and like deep cut people from Star Wars Universe
+
+254
+00:10:27,880 --> 00:10:29,800
+all singing and dancing, not singing, but dancing.
+
+255
+00:10:30,680 --> 00:10:31,760
+It all gets deeper too as it goes too
+
+256
+00:10:31,760 --> 00:10:32,600
+because there's a ton.
+
+257
+00:10:32,600 --> 00:10:34,880
+Like Kit Fisto in year one is pretty crazy.
+
+258
+00:10:34,880 --> 00:10:36,080
+That's pretty obscure.
+
+259
+00:10:36,080 --> 00:10:40,040
+Oh yeah, the assassin from episode two.
+
+260
+00:10:40,040 --> 00:10:42,040
+Oh, Wessel.
+
+261
+00:10:42,040 --> 00:10:42,880
+What's her name?
+
+262
+00:10:42,880 --> 00:10:44,120
+Zam?
+
+263
+00:10:44,120 --> 00:10:45,000
+I wrote it down.
+
+264
+00:10:45,000 --> 00:10:46,280
+I always forget her name.
+
+265
+00:10:47,200 --> 00:10:48,720
+Zam Wessel.
+
+266
+00:10:48,720 --> 00:10:51,400
+The assassin, you know, Scott from Attack of the Clones.
+
+267
+00:10:51,400 --> 00:10:52,240
+Yeah, of course.
+
+268
+00:10:52,240 --> 00:10:53,080
+They go through Coruscant.
+
+269
+00:10:53,080 --> 00:10:53,920
+Yeah.
+
+270
+00:10:53,920 --> 00:10:54,760
+Yes, yeah.
+
+271
+00:10:54,760 --> 00:10:56,720
+The prequels are good now, I agree.
+
+272
+00:10:56,720 --> 00:10:58,760
+And I know for sure who that character is
+
+273
+00:10:58,760 --> 00:11:00,640
+and I don't need to restay the Zam.
+
+274
+00:11:00,640 --> 00:11:01,800
+Zam Wessel.
+
+275
+00:11:01,800 --> 00:11:03,320
+Zam Wessel, of course.
+
+276
+00:11:03,320 --> 00:11:04,160
+It was good.
+
+277
+00:11:04,160 --> 00:11:05,000
+Zam is good!
+
+278
+00:11:06,200 --> 00:11:07,760
+That's what we're supposed to be doing, right?
+
+279
+00:11:07,760 --> 00:11:08,880
+Zam Wessel is good.
+
+280
+00:11:08,880 --> 00:11:11,640
+Obviously, I have taken the podcaster mantle
+
+281
+00:11:11,640 --> 00:11:13,640
+where we've all agreed that the prequels are very good.
+
+282
+00:11:13,640 --> 00:11:14,480
+That's right.
+
+283
+00:11:14,480 --> 00:11:15,880
+And that's me and I'm part of it.
+
+284
+00:11:15,880 --> 00:11:16,840
+That's right.
+
+285
+00:11:16,840 --> 00:11:18,080
+And there's gonna be a lot of those characters
+
+286
+00:11:18,080 --> 00:11:19,920
+that are good showing up.
+
+287
+00:11:19,920 --> 00:11:22,200
+You know, we've gone on and on about what this is
+
+288
+00:11:22,200 --> 00:11:24,840
+and then various, and then I turn and look at the screen
+
+289
+00:11:24,840 --> 00:11:27,920
+and it's like Chewbacca doing YMCA.
+
+290
+00:11:27,920 --> 00:11:29,960
+Yes, so okay, so my first thought,
+
+291
+00:11:29,960 --> 00:11:32,480
+I watched a little bit of maybe this first one.
+
+292
+00:11:32,480 --> 00:11:33,960
+Oh, I watched like six of these.
+
+293
+00:11:33,960 --> 00:11:35,120
+Oh no, I watched six too.
+
+294
+00:11:35,120 --> 00:11:35,960
+Yeah, okay.
+
+295
+00:11:35,960 --> 00:11:37,240
+I'm saying though that.
+
+296
+00:11:37,240 --> 00:11:38,280
+Me too.
+
+297
+00:11:38,280 --> 00:11:39,120
+Sure, yeah.
+
+298
+00:11:39,120 --> 00:11:40,080
+It's fine, it's fine.
+
+299
+00:11:40,080 --> 00:11:42,080
+I'm saying that I initially was like,
+
+300
+00:11:42,080 --> 00:11:44,800
+okay, so their characters are,
+
+301
+00:11:44,800 --> 00:11:48,840
+these are original Park-specific Star Wars characters.
+
+302
+00:11:48,840 --> 00:11:52,320
+Snig and Oopla, a male and a female.
+
+303
+00:11:53,400 --> 00:11:56,320
+So it's- Conveniently named to rhyme with Oopla, clearly.
+
+304
+00:11:56,320 --> 00:11:57,280
+Very convenient.
+
+305
+00:11:57,280 --> 00:12:02,280
+And they are like hosting some sort of, you know, like-
+
+306
+00:12:02,600 --> 00:12:06,480
+What do you think it's gonna be before problems happen?
+
+307
+00:12:06,480 --> 00:12:08,960
+It's like the Emperor comes and they seem surprised.
+
+308
+00:12:08,960 --> 00:12:12,600
+Like what do you think, it's like when Mr. Show starts
+
+309
+00:12:12,600 --> 00:12:13,440
+and they're making one show
+
+310
+00:12:13,440 --> 00:12:15,360
+but then a character interrupts and what's this?
+
+311
+00:12:15,360 --> 00:12:16,200
+Right.
+
+312
+00:12:16,200 --> 00:12:19,760
+Like what do you think Snig and Oopla are starting to do?
+
+313
+00:12:19,760 --> 00:12:21,280
+Honestly, it's like, and this is gonna be
+
+314
+00:12:21,280 --> 00:12:24,840
+a real modern reference, it's like a Steven Eady
+
+315
+00:12:24,840 --> 00:12:28,760
+off the strip Vegas show, Steven Eady,
+
+316
+00:12:28,760 --> 00:12:30,800
+where like performers would open up for Sinatra.
+
+317
+00:12:30,800 --> 00:12:31,640
+Oh yes, yeah.
+
+318
+00:12:31,640 --> 00:12:34,200
+Well let's say Donnie and Marie who just ended their run
+
+319
+00:12:34,200 --> 00:12:36,280
+at the Flamingo after 11 years.
+
+320
+00:12:36,280 --> 00:12:37,120
+Yeah.
+
+321
+00:12:37,120 --> 00:12:38,400
+A lot of emotions in the air.
+
+322
+00:12:38,400 --> 00:12:41,080
+The, but like something where, you know,
+
+323
+00:12:41,080 --> 00:12:44,080
+yeah, it's a fun little variety show in Star Wars world
+
+324
+00:12:44,080 --> 00:12:46,880
+and then maybe some extra characters might pop in.
+
+325
+00:12:46,880 --> 00:12:47,720
+Yes.
+
+326
+00:12:47,720 --> 00:12:50,480
+But they're surprised to the extent to which
+
+327
+00:12:50,480 --> 00:12:54,560
+all of the dynamics and fights all play out
+
+328
+00:12:54,560 --> 00:12:56,800
+during the fun variety show.
+
+329
+00:12:56,800 --> 00:13:00,760
+Yeah, so they have a lot of like dumb jokes and puns
+
+330
+00:13:00,760 --> 00:13:05,760
+and I first, I was like, this is kind of bad, okay.
+
+331
+00:13:06,440 --> 00:13:08,040
+But we'll still talk about it.
+
+332
+00:13:08,040 --> 00:13:11,520
+And then especially these early ones that have such a scale
+
+333
+00:13:11,520 --> 00:13:15,600
+and then by the end of 2012, 2013,
+
+334
+00:13:15,600 --> 00:13:18,560
+there are some big moments, some big surprises.
+
+335
+00:13:18,560 --> 00:13:19,400
+Yeah.
+
+336
+00:13:19,400 --> 00:13:21,520
+And I was like, this is good I guess.
+
+337
+00:13:21,520 --> 00:13:23,520
+They hit their stride and then they immediately
+
+338
+00:13:23,520 --> 00:13:24,360
+got canceled.
+
+339
+00:13:24,360 --> 00:13:25,200
+Yes.
+
+340
+00:13:25,200 --> 00:13:29,040
+In fact, at Star Wars Weekends 2014, they said,
+
+341
+00:13:29,040 --> 00:13:31,920
+oh, Snig and Oopla have been frozen in carbonite.
+
+342
+00:13:31,920 --> 00:13:33,160
+That's why they weren't here.
+
+343
+00:13:33,160 --> 00:13:34,640
+That's so grim.
+
+344
+00:13:34,640 --> 00:13:35,480
+Like that's so.
+
+345
+00:13:35,480 --> 00:13:36,320
+Yeah it is.
+
+346
+00:13:36,320 --> 00:13:37,480
+But it implies they could come back.
+
+347
+00:13:37,480 --> 00:13:38,320
+It doesn't imply they could come back.
+
+348
+00:13:38,320 --> 00:13:39,520
+It does.
+
+349
+00:13:39,520 --> 00:13:43,440
+Did you, do you know the end Scott of the 2013 one?
+
+350
+00:13:43,440 --> 00:13:45,920
+I don't know the years off end.
+
+351
+00:13:45,920 --> 00:13:49,280
+The 2013 one is the PS there is a wonderful vintage.
+
+352
+00:13:49,280 --> 00:13:52,040
+There is a big reveal at the end of 2013
+
+353
+00:13:52,040 --> 00:13:55,480
+that I am so delighted by.
+
+354
+00:13:55,480 --> 00:13:56,600
+You probably know what I'm talking about.
+
+355
+00:13:56,600 --> 00:13:59,960
+I just don't know how to, like I saw a lot of dancing
+
+356
+00:13:59,960 --> 00:14:02,160
+and I can't put a year, I can't associate a year
+
+357
+00:14:02,160 --> 00:14:03,000
+with a year.
+
+358
+00:14:03,000 --> 00:14:05,920
+Well there's two, there were two moments in 2013
+
+359
+00:14:05,920 --> 00:14:07,840
+that I was applauding for.
+
+360
+00:14:07,840 --> 00:14:09,680
+It's like a coda to the whole show.
+
+361
+00:14:09,680 --> 00:14:11,160
+Whatever these are.
+
+362
+00:14:11,160 --> 00:14:12,000
+Oh yeah, yeah.
+
+363
+00:14:12,000 --> 00:14:13,480
+For all this build up.
+
+364
+00:14:13,480 --> 00:14:14,320
+It is.
+
+365
+00:14:14,320 --> 00:14:15,680
+Oh yeah, you know what's gonna deliver.
+
+366
+00:14:15,680 --> 00:14:16,520
+It's great.
+
+367
+00:14:16,520 --> 00:14:17,360
+You know what has to deliver.
+
+368
+00:14:17,360 --> 00:14:19,400
+So there was three times I marked out
+
+369
+00:14:19,400 --> 00:14:20,240
+that I popped to watch this.
+
+370
+00:14:20,240 --> 00:14:21,360
+There's stuff I really like.
+
+371
+00:14:21,360 --> 00:14:22,560
+I'm just saying that there was one thing
+
+372
+00:14:22,560 --> 00:14:24,880
+that was very unexpected that happened at the end.
+
+373
+00:14:24,880 --> 00:14:26,960
+Kind of a fitting ending.
+
+374
+00:14:26,960 --> 00:14:27,800
+Oh yeah.
+
+375
+00:14:27,800 --> 00:14:29,240
+Kind of a fitting ending.
+
+376
+00:14:29,240 --> 00:14:30,920
+Oh yes, very poetic.
+
+377
+00:14:30,920 --> 00:14:32,360
+You know what these feel like to me
+
+378
+00:14:32,360 --> 00:14:35,160
+from watching them is it feels like a,
+
+379
+00:14:35,160 --> 00:14:37,640
+it's like a high school rally.
+
+380
+00:14:37,640 --> 00:14:39,040
+The way that high school rallies,
+
+381
+00:14:39,040 --> 00:14:41,320
+at least at my school were kind of like,
+
+382
+00:14:41,320 --> 00:14:42,560
+it's the day when people say,
+
+383
+00:14:42,560 --> 00:14:44,200
+when people are snooty about sketch comedy
+
+384
+00:14:44,200 --> 00:14:46,520
+and like it's not skits, it's sketches.
+
+385
+00:14:46,520 --> 00:14:50,200
+Skits is the epitome of what rallies are.
+
+386
+00:14:50,240 --> 00:14:52,120
+And where there are this like meandering,
+
+387
+00:14:52,120 --> 00:14:56,000
+some of it is, you know, the football team
+
+388
+00:14:56,000 --> 00:14:58,360
+dancing to the Spice Girls and some of the like.
+
+389
+00:14:58,360 --> 00:14:59,920
+They have a cheerleader outfit on,
+
+390
+00:14:59,920 --> 00:15:01,880
+which is what I think would happen at our school.
+
+391
+00:15:01,880 --> 00:15:02,720
+Yeah.
+
+392
+00:15:02,720 --> 00:15:03,920
+The football players would have a cheerleader,
+
+393
+00:15:03,920 --> 00:15:06,080
+the cheerleader outfits on and people would like
+
+394
+00:15:06,080 --> 00:15:07,440
+melt down because of that.
+
+395
+00:15:07,440 --> 00:15:09,840
+And at the time I remember we were like, this sucks.
+
+396
+00:15:09,840 --> 00:15:12,600
+This could be a little, if this were written better.
+
+397
+00:15:12,600 --> 00:15:13,440
+You push your glasses up.
+
+398
+00:15:13,440 --> 00:15:16,520
+But the audience for those rallies on board.
+
+399
+00:15:16,520 --> 00:15:19,800
+The audience for hyperspace, blah, blah, blah, on board.
+
+400
+00:15:20,360 --> 00:15:23,440
+The microphone on all of the recorded versions of this.
+
+401
+00:15:23,440 --> 00:15:25,160
+And there are a lot on YouTube.
+
+402
+00:15:25,160 --> 00:15:27,720
+The microphones are struggling on the cameras
+
+403
+00:15:27,720 --> 00:15:29,360
+because there's so much screaming.
+
+404
+00:15:29,360 --> 00:15:30,200
+Yes.
+
+405
+00:15:30,200 --> 00:15:31,960
+People are losing their shit.
+
+406
+00:15:31,960 --> 00:15:35,320
+There was the moment I'm talking about at the end of 2013,
+
+407
+00:15:35,320 --> 00:15:37,560
+someone yells next to the guy in the camera.
+
+408
+00:15:37,560 --> 00:15:40,200
+Oh my God.
+
+409
+00:15:40,200 --> 00:15:41,840
+So loudly.
+
+410
+00:15:41,840 --> 00:15:42,680
+It's so funny.
+
+411
+00:15:42,680 --> 00:15:44,160
+Is it fucking Gangnam Style?
+
+412
+00:15:44,160 --> 00:15:45,000
+What is it?
+
+413
+00:15:45,000 --> 00:15:45,840
+No, no, Gangnam Style.
+
+414
+00:15:45,840 --> 00:15:46,680
+Well that's right before it.
+
+415
+00:15:46,680 --> 00:15:47,520
+Don't worry.
+
+416
+00:15:47,520 --> 00:15:48,360
+That's right before it.
+
+417
+00:15:48,360 --> 00:15:49,180
+Don't worry.
+
+418
+00:15:49,340 --> 00:15:50,180
+I want a best of this.
+
+419
+00:15:50,180 --> 00:15:53,740
+When all the characters started doing Gangnam Style.
+
+420
+00:15:53,740 --> 00:15:55,260
+I will guarantee that you will like it.
+
+421
+00:15:55,260 --> 00:15:57,180
+You will certainly think I'm building it up too much.
+
+422
+00:15:57,180 --> 00:15:58,620
+But I will guarantee you'll like it.
+
+423
+00:15:58,620 --> 00:15:59,460
+Okay.
+
+424
+00:15:59,460 --> 00:16:00,300
+Yeah.
+
+425
+00:16:00,300 --> 00:16:01,140
+I will guarantee that.
+
+426
+00:16:01,140 --> 00:16:02,020
+So how do we begin?
+
+427
+00:16:02,020 --> 00:16:03,100
+How do we dissect this?
+
+428
+00:16:03,100 --> 00:16:04,420
+So I'll say this.
+
+429
+00:16:04,420 --> 00:16:06,020
+Basically I think what happened is,
+
+430
+00:16:06,020 --> 00:16:07,900
+and this is, you could see it happen at the park.
+
+431
+00:16:07,900 --> 00:16:10,100
+So Disney buys Lucasfilm in 2012.
+
+432
+00:16:10,100 --> 00:16:11,700
+This has another year.
+
+433
+00:16:11,700 --> 00:16:14,540
+And then it's sort of the mandate of like,
+
+434
+00:16:14,540 --> 00:16:17,420
+no fun for Star Wars anymore.
+
+435
+00:16:17,420 --> 00:16:18,780
+There's that robot.
+
+436
+00:16:19,380 --> 00:16:20,740
+It's the best decision anyone ever made.
+
+437
+00:16:20,740 --> 00:16:21,580
+Yeah.
+
+438
+00:16:21,580 --> 00:16:22,400
+Cause they discontinued,
+
+439
+00:16:22,400 --> 00:16:23,820
+they had those Muppet Star Wars characters
+
+440
+00:16:23,820 --> 00:16:25,540
+in the park toys and stuff.
+
+441
+00:16:25,540 --> 00:16:28,500
+And it was a lot of like maybe sillier things.
+
+442
+00:16:28,500 --> 00:16:29,420
+Cars Star Wars.
+
+443
+00:16:29,420 --> 00:16:34,420
+I have a Guido and Luigi as R2-D2 and C3PO.
+
+444
+00:16:34,820 --> 00:16:35,740
+And I think when they bought it,
+
+445
+00:16:35,740 --> 00:16:37,620
+it was like no more fun.
+
+446
+00:16:37,620 --> 00:16:39,700
+Cause there's no reason in a theme park
+
+447
+00:16:39,700 --> 00:16:41,420
+this couldn't have still been happening.
+
+448
+00:16:41,420 --> 00:16:43,540
+Like this isn't, you know, fine.
+
+449
+00:16:43,540 --> 00:16:45,340
+Don't put a movie out about the Hyperspace.
+
+450
+00:16:45,340 --> 00:16:48,580
+Also this, there's so many costumes in this.
+
+451
+00:16:49,380 --> 00:16:51,500
+It's such an intensive costuming
+
+452
+00:16:51,500 --> 00:16:54,700
+and they have to get all these dancers.
+
+453
+00:16:54,700 --> 00:16:59,700
+This only ran for like nine or 10 nights a year.
+
+454
+00:16:59,860 --> 00:17:00,700
+Yeah.
+
+455
+00:17:00,700 --> 00:17:04,420
+So once a night, this was how the night would end.
+
+456
+00:17:04,420 --> 00:17:07,840
+That is a running joke that like imperial regulations
+
+457
+00:17:07,840 --> 00:17:11,260
+require the show to wrap up by 8 p.m.
+
+458
+00:17:11,260 --> 00:17:12,500
+Like.
+
+459
+00:17:12,500 --> 00:17:13,460
+I mean, look, they should,
+
+460
+00:17:13,460 --> 00:17:15,620
+they put it over at the California Adventure stage.
+
+461
+00:17:15,620 --> 00:17:16,460
+Yes.
+
+462
+00:17:16,460 --> 00:17:17,300
+Yeah, sure.
+
+463
+00:17:17,540 --> 00:17:18,620
+Maybe it will.
+
+464
+00:17:18,620 --> 00:17:21,780
+You know, there's some sillier stuff on Mandalorian now.
+
+465
+00:17:21,780 --> 00:17:23,200
+Maybe we're slowly.
+
+466
+00:17:23,200 --> 00:17:24,700
+I think as soon as Kennedy's out,
+
+467
+00:17:24,700 --> 00:17:25,900
+we're getting silly again.
+
+468
+00:17:25,900 --> 00:17:26,740
+Maybe.
+
+469
+00:17:26,740 --> 00:17:27,580
+I hope, I hope.
+
+470
+00:17:27,580 --> 00:17:28,420
+It's possible.
+
+471
+00:17:28,420 --> 00:17:29,240
+Silly, yeah.
+
+472
+00:17:29,240 --> 00:17:31,240
+And then release the hashtag
+
+473
+00:17:31,240 --> 00:17:35,720
+release the bug main Han Solo comedy sketches.
+
+474
+00:17:35,720 --> 00:17:36,780
+Wherever they are.
+
+475
+00:17:36,780 --> 00:17:37,620
+Yeah, yeah.
+
+476
+00:17:37,620 --> 00:17:38,860
+Can you explain that to the audience again?
+
+477
+00:17:38,860 --> 00:17:42,180
+I, before Star Wars decided it couldn't be funny,
+
+478
+00:17:42,180 --> 00:17:44,760
+there was an officially mandated YouTube sketch series
+
+479
+00:17:44,760 --> 00:17:47,400
+that a lot of guests on this show were part of.
+
+480
+00:17:47,400 --> 00:17:51,280
+And it included the casting of bug main as Han Solo.
+
+481
+00:17:51,280 --> 00:17:53,040
+And I don't know where it can be seen.
+
+482
+00:17:53,040 --> 00:17:54,200
+I don't think he knows.
+
+483
+00:17:54,200 --> 00:17:55,920
+I don't think anyone, if anyone listening,
+
+484
+00:17:55,920 --> 00:17:56,760
+if anyone's listening,
+
+485
+00:17:56,760 --> 00:17:59,720
+it was like an editor on it or something, please.
+
+486
+00:17:59,720 --> 00:18:02,560
+But yeah, hashtag release bug main Han Solo.
+
+487
+00:18:02,560 --> 00:18:03,760
+That's our Snyder cut.
+
+488
+00:18:03,760 --> 00:18:05,600
+Yes, much more important.
+
+489
+00:18:05,600 --> 00:18:06,440
+Yeah, yeah.
+
+490
+00:18:06,440 --> 00:18:07,280
+And it's gonna be a,
+
+491
+00:18:07,280 --> 00:18:09,080
+it's gonna be a tidal wave when Ben Affleck
+
+492
+00:18:09,080 --> 00:18:10,040
+tweets about that.
+
+493
+00:18:10,040 --> 00:18:11,200
+Oh.
+
+494
+00:18:11,200 --> 00:18:12,040
+There's a whole season.
+
+495
+00:18:12,040 --> 00:18:14,480
+I can see it by the way in that happening in 2020.
+
+496
+00:18:15,200 --> 00:18:17,760
+Not even like it's stopping my day that much.
+
+497
+00:18:17,760 --> 00:18:18,840
+Being like, huh.
+
+498
+00:18:18,840 --> 00:18:19,680
+Wow.
+
+499
+00:18:19,680 --> 00:18:21,200
+Okay, well, yeah, of course I guess.
+
+500
+00:18:21,200 --> 00:18:23,240
+He just ran into him and he heard about it.
+
+501
+00:18:23,240 --> 00:18:24,080
+Jeez crazy.
+
+502
+00:18:24,080 --> 00:18:25,400
+Well, I gotta go get gas.
+
+503
+00:18:25,400 --> 00:18:26,640
+Yeah.
+
+504
+00:18:26,640 --> 00:18:29,880
+Ben Affleck tweeting about the Han Solo played by bug main.
+
+505
+00:18:29,880 --> 00:18:31,360
+Yeah, okay, cool.
+
+506
+00:18:31,360 --> 00:18:32,680
+I think I've mentioned before,
+
+507
+00:18:32,680 --> 00:18:34,640
+there's a whole season of television
+
+508
+00:18:34,640 --> 00:18:36,200
+called Star Wars Detours.
+
+509
+00:18:36,200 --> 00:18:37,040
+Oh yeah, yeah, yeah.
+
+510
+00:18:37,040 --> 00:18:37,880
+I believe it is.
+
+511
+00:18:37,880 --> 00:18:41,240
+Stop Motion from Stupid Buddy who make robot chicken.
+
+512
+00:18:41,240 --> 00:18:42,800
+Like, Stop Motion Star Wars.
+
+513
+00:18:42,800 --> 00:18:43,640
+And that got canned as well.
+
+514
+00:18:43,640 --> 00:18:44,460
+That got canned.
+
+515
+00:18:45,460 --> 00:18:46,660
+There was specials, but there was a whole season.
+
+516
+00:18:46,660 --> 00:18:47,500
+I don't know if people know this,
+
+517
+00:18:47,500 --> 00:18:50,740
+there was this Han Solo comedy movie being made
+
+518
+00:18:50,740 --> 00:18:54,580
+by like some of the best comedy directors in the world.
+
+519
+00:18:54,580 --> 00:18:56,780
+And it got canned and they got fired.
+
+520
+00:18:56,780 --> 00:18:58,500
+I'm not sure what happened to it after that.
+
+521
+00:18:58,500 --> 00:19:01,100
+But like, you know those guys who every movie they make
+
+522
+00:19:01,100 --> 00:19:04,220
+is a massive, mass genre defying hit.
+
+523
+00:19:04,220 --> 00:19:05,580
+Those, they were gonna, Lord and Miller,
+
+524
+00:19:05,580 --> 00:19:07,500
+they were gonna make a Han Solo comedy.
+
+525
+00:19:07,500 --> 00:19:08,380
+And I don't know what happened.
+
+526
+00:19:08,380 --> 00:19:11,820
+I mean, release, is there a release of Lord and Miller cut?
+
+527
+00:19:11,820 --> 00:19:12,900
+I mean, they never made a cut maybe.
+
+528
+00:19:12,900 --> 00:19:13,740
+I'm not sure it's possible.
+
+529
+00:19:14,300 --> 00:19:15,580
+But there's 80%, there's like,
+
+530
+00:19:15,580 --> 00:19:17,200
+they shot 80% of the movie.
+
+531
+00:19:17,200 --> 00:19:20,100
+Oh, and they did film like all of the jokes.
+
+532
+00:19:20,100 --> 00:19:21,620
+So those are shot.
+
+533
+00:19:21,620 --> 00:19:22,900
+That's what I wanna see.
+
+534
+00:19:22,900 --> 00:19:23,740
+Yeah.
+
+535
+00:19:23,740 --> 00:19:25,540
+Is whatever all that footage was.
+
+536
+00:19:25,540 --> 00:19:26,380
+They exist.
+
+537
+00:19:26,380 --> 00:19:29,420
+Yeah, unless every single time Lawrence Kesden
+
+538
+00:19:29,420 --> 00:19:31,140
+walked in front of the camera and,
+
+539
+00:19:31,140 --> 00:19:33,980
+no, no, no, no, don't use it.
+
+540
+00:19:33,980 --> 00:19:36,140
+She shakes the camera so it's un-usable.
+
+541
+00:19:36,140 --> 00:19:38,260
+Grading papers for his USC class.
+
+542
+00:19:38,260 --> 00:19:40,860
+Like, stop making me come down here so much.
+
+543
+00:19:40,860 --> 00:19:41,700
+I have to teach.
+
+544
+00:19:41,700 --> 00:19:43,380
+Stick to my dialogue.
+
+545
+00:19:44,020 --> 00:19:46,420
+Stick to the dialogue in the script.
+
+546
+00:19:46,420 --> 00:19:48,420
+Which is supposedly what the issue was,
+
+547
+00:19:48,420 --> 00:19:50,980
+is they wanted to punch that dialogue up.
+
+548
+00:19:50,980 --> 00:19:52,820
+No, no, no.
+
+549
+00:19:52,820 --> 00:19:56,900
+Stick to the, I am a Solo traveler.
+
+550
+00:19:56,900 --> 00:20:00,020
+Star Wars has no jokes cut to jokes,
+
+551
+00:20:00,020 --> 00:20:02,540
+lots of jokes in New Hope.
+
+552
+00:20:02,540 --> 00:20:05,100
+No, no, no, George didn't want them.
+
+553
+00:20:05,100 --> 00:20:06,980
+They, somebody made them put it in.
+
+554
+00:20:06,980 --> 00:20:08,840
+Excuse me, there's jokes.
+
+555
+00:20:08,840 --> 00:20:11,740
+They fly now, okay?
+
+556
+00:20:11,740 --> 00:20:12,580
+They fly now.
+
+557
+00:20:13,420 --> 00:20:14,420
+They fly now.
+
+558
+00:20:14,420 --> 00:20:18,700
+They fly now, which was a clip that was released,
+
+559
+00:20:18,700 --> 00:20:21,060
+again, we have not seen Rise of Skywalker.
+
+560
+00:20:21,060 --> 00:20:24,780
+Jet packs, not an unusual sight in the Star Wars universe.
+
+561
+00:20:24,780 --> 00:20:27,900
+Kind of been canon for a while.
+
+562
+00:20:27,900 --> 00:20:31,420
+Like, the Mandalorians have jet packs.
+
+563
+00:20:31,420 --> 00:20:32,620
+Boba Fett has a jet pack.
+
+564
+00:20:32,620 --> 00:20:33,460
+Yeah, not a structure.
+
+565
+00:20:33,460 --> 00:20:35,940
+Like, I don't quite understand why these characters
+
+566
+00:20:35,940 --> 00:20:39,860
+were so shocked at like, suddenly someone has a jet pack.
+
+567
+00:20:39,860 --> 00:20:41,460
+I don't, that was a little.
+
+568
+00:20:41,460 --> 00:20:44,860
+I don't even, that's less my issue and more that we're like,
+
+569
+00:20:44,860 --> 00:20:48,740
+letting like, you know, scrubs type delivery of,
+
+570
+00:20:48,740 --> 00:20:53,260
+of alt-y lines into the Star Wars franchise.
+
+571
+00:20:53,260 --> 00:20:55,580
+I know I'm saying I want Star Wars to be fun again,
+
+572
+00:20:55,580 --> 00:20:58,580
+but maybe not that type of fun.
+
+573
+00:20:58,580 --> 00:21:00,140
+We want it to be, okay, yes.
+
+574
+00:21:00,140 --> 00:21:03,860
+We want it to be a dance battle fun.
+
+575
+00:21:03,860 --> 00:21:04,700
+Yeah.
+
+576
+00:21:04,700 --> 00:21:08,100
+We want it to be Lord and Miller riff fun.
+
+577
+00:21:08,100 --> 00:21:09,580
+We can approve the type of fun
+
+578
+00:21:09,580 --> 00:21:11,500
+and as much, as much bug main as possible.
+
+579
+00:21:11,500 --> 00:21:14,620
+And as much bug main Han Solo.
+
+580
+00:21:14,620 --> 00:21:16,340
+I mean, who doesn't want that?
+
+581
+00:21:17,260 --> 00:21:20,580
+So, yeah, so basically they stopped this.
+
+582
+00:21:20,580 --> 00:21:22,340
+They still do these big fan events.
+
+583
+00:21:22,340 --> 00:21:25,140
+They still have all the actors out and everyone likes it.
+
+584
+00:21:25,140 --> 00:21:27,500
+And they, they do plenty of serious stuff too.
+
+585
+00:21:27,500 --> 00:21:30,020
+They do a pretty cool show where they show clips
+
+586
+00:21:30,020 --> 00:21:30,840
+from the movies.
+
+587
+00:21:30,840 --> 00:21:32,740
+Did you see that while we were there?
+
+588
+00:21:32,740 --> 00:21:36,140
+Or where they, they show like, it's a projection show.
+
+589
+00:21:36,140 --> 00:21:37,820
+Oh, I saw some of that.
+
+590
+00:21:37,820 --> 00:21:38,660
+It's kind of fun.
+
+591
+00:21:38,660 --> 00:21:39,500
+It's like, you know.
+
+592
+00:21:39,500 --> 00:21:41,660
+I was weaving Toy Story Land during that.
+
+593
+00:21:41,660 --> 00:21:44,220
+And like, pyro is so close to you.
+
+594
+00:21:44,220 --> 00:21:47,420
+They don't block off where like massive pyro is going off.
+
+595
+00:21:47,420 --> 00:21:48,700
+Yeah, it's really nuts.
+
+596
+00:21:48,700 --> 00:21:51,300
+Yeah, we were on the Toy Story.
+
+597
+00:21:51,300 --> 00:21:54,180
+We were on Slinky Dog when that was happening
+
+598
+00:21:54,180 --> 00:21:55,460
+or what, right after it happened.
+
+599
+00:21:55,460 --> 00:21:56,300
+I think so.
+
+600
+00:21:56,300 --> 00:21:57,860
+We were walking through like just smoke.
+
+601
+00:21:57,860 --> 00:21:58,700
+Smoke, yeah.
+
+602
+00:21:58,700 --> 00:21:59,860
+Yeah, yeah.
+
+603
+00:21:59,860 --> 00:22:01,660
+But the show, I saw the show last time I was there
+
+604
+00:22:01,660 --> 00:22:04,420
+and it is fun and they do plenty of fun.
+
+605
+00:22:04,420 --> 00:22:06,700
+Captain Phasma walking down the street is fun.
+
+606
+00:22:06,700 --> 00:22:07,740
+All that stuff is fun.
+
+607
+00:22:07,740 --> 00:22:12,700
+So, so yeah, anyway, they, they said no more Snig and Hoopla
+
+608
+00:22:12,700 --> 00:22:13,540
+and it's a tragedy.
+
+609
+00:22:13,540 --> 00:22:16,540
+So they did it for a few years
+
+610
+00:22:16,540 --> 00:22:20,140
+and it starts pretty modestly as Scott was saying.
+
+611
+00:22:20,140 --> 00:22:24,900
+I think sums up best in 2008 is YMCA with Ewok,
+
+612
+00:22:24,900 --> 00:22:29,140
+with an Ewok, the Rancor Keeper, Stormtrooper
+
+613
+00:22:29,140 --> 00:22:30,780
+and maybe another Ewok.
+
+614
+00:22:30,780 --> 00:22:31,620
+I forgot.
+
+615
+00:22:31,620 --> 00:22:32,820
+Now this is all fine.
+
+616
+00:22:32,820 --> 00:22:34,080
+Like, you know, good for you.
+
+617
+00:22:34,080 --> 00:22:34,920
+Go for it.
+
+618
+00:22:34,920 --> 00:22:38,800
+I don't quite understand why you would watch that happen
+
+619
+00:22:38,800 --> 00:22:42,720
+and go like, yes, hell yes.
+
+620
+00:22:42,720 --> 00:22:43,560
+I like, I.
+
+621
+00:22:43,560 --> 00:22:46,440
+Well, it is fun to see Chewbacca dance.
+
+622
+00:22:46,440 --> 00:22:47,280
+Yeah.
+
+623
+00:22:47,280 --> 00:22:48,800
+I think it's the juxtaposition.
+
+624
+00:22:48,800 --> 00:22:51,000
+The early seasons, they were really leaning on that.
+
+625
+00:22:51,000 --> 00:22:55,440
+Yeah, and YMCA is not, I've never loved YMCA.
+
+626
+00:22:55,440 --> 00:22:58,880
+I sort of always sort of been an annoying wedding song.
+
+627
+00:22:58,880 --> 00:23:02,000
+Oh, you better believe my wedding do not playlist was.
+
+628
+00:23:02,000 --> 00:23:02,920
+Oh yeah, yeah.
+
+629
+00:23:02,920 --> 00:23:03,760
+That's.
+
+630
+00:23:03,920 --> 00:23:05,040
+Very detailed.
+
+631
+00:23:05,040 --> 00:23:06,680
+Never have I been so concerned
+
+632
+00:23:06,680 --> 00:23:09,200
+about the crafting of a document.
+
+633
+00:23:09,200 --> 00:23:11,600
+Yeah, no, I can respect that.
+
+634
+00:23:11,600 --> 00:23:12,440
+There's a lot.
+
+635
+00:23:12,440 --> 00:23:14,360
+While I love my family, we will not be,
+
+636
+00:23:14,360 --> 00:23:16,160
+there will be no we are family.
+
+637
+00:23:16,160 --> 00:23:17,000
+We are family, yeah.
+
+638
+00:23:17,000 --> 00:23:17,820
+Yes.
+
+639
+00:23:17,820 --> 00:23:19,740
+I'll tell them that on my own time.
+
+640
+00:23:19,740 --> 00:23:22,040
+I used to say no Casper slide at these events,
+
+641
+00:23:22,040 --> 00:23:24,080
+type of events, but I'm a little bit looser
+
+642
+00:23:24,080 --> 00:23:25,360
+on the Casper slide these days.
+
+643
+00:23:25,360 --> 00:23:26,200
+I don't know why.
+
+644
+00:23:26,200 --> 00:23:27,880
+Wait, is that that to the left?
+
+645
+00:23:27,880 --> 00:23:29,120
+Yeah, I do.
+
+646
+00:23:29,120 --> 00:23:32,880
+I got to do that on a boat in New York and I'm blessed.
+
+647
+00:23:32,880 --> 00:23:33,720
+Yeah, that's not.
+
+648
+00:23:33,720 --> 00:23:34,560
+Yeah, I'm okay with them.
+
+649
+00:23:34,560 --> 00:23:35,920
+They used to play that at like school dance.
+
+650
+00:23:35,920 --> 00:23:38,480
+They'd play YMCA at school dances and I go this, why?
+
+651
+00:23:38,480 --> 00:23:39,880
+Why are we doing this?
+
+652
+00:23:39,880 --> 00:23:42,600
+I don't hate, it's just the song I don't like that much.
+
+653
+00:23:42,600 --> 00:23:44,080
+I don't dislike it, but then I don't,
+
+654
+00:23:44,080 --> 00:23:45,920
+it's not fun to do, whatever.
+
+655
+00:23:45,920 --> 00:23:48,600
+Anyway, so yes, I don't know why Chewbacca doing that.
+
+656
+00:23:48,600 --> 00:23:50,360
+Yeah, well obviously though,
+
+657
+00:23:50,360 --> 00:23:52,660
+they didn't want even though a single Buffett song
+
+658
+00:23:52,660 --> 00:23:54,080
+I can go along with is Finns,
+
+659
+00:23:54,080 --> 00:23:55,560
+where you give which involves a dance.
+
+660
+00:23:55,560 --> 00:23:56,400
+Yes.
+
+661
+00:23:56,400 --> 00:23:57,440
+That gives me a lot of joy.
+
+662
+00:23:57,440 --> 00:23:58,560
+Funny you bring up Buffett
+
+663
+00:23:58,560 --> 00:24:00,480
+because there's a gag in one of these.
+
+664
+00:24:00,480 --> 00:24:01,480
+Because there's a running joke
+
+665
+00:24:01,480 --> 00:24:03,520
+that the Cantina band comes out
+
+666
+00:24:03,520 --> 00:24:06,800
+and the only song they know is the Cantina song.
+
+667
+00:24:06,800 --> 00:24:07,640
+Oh yes, yeah.
+
+668
+00:24:07,640 --> 00:24:11,240
+And there's one where they do start to play Margaritaville
+
+669
+00:24:11,240 --> 00:24:13,040
+and then switch to the Cantina song.
+
+670
+00:24:13,040 --> 00:24:18,040
+They do a Johnny Carson style, what's the bit?
+
+671
+00:24:18,400 --> 00:24:19,240
+Stump the band.
+
+672
+00:24:19,240 --> 00:24:20,080
+Stump the band and they,
+
+673
+00:24:20,080 --> 00:24:22,160
+so they'll take suggestions from the audience
+
+674
+00:24:22,160 --> 00:24:25,320
+and then throw it to Figrin Dan and yeah,
+
+675
+00:24:25,320 --> 00:24:27,080
+then they just play the ones.
+
+676
+00:24:28,080 --> 00:24:31,000
+And they play the Johnny Carson theme.
+
+677
+00:24:31,000 --> 00:24:31,840
+Okay.
+
+678
+00:24:31,840 --> 00:24:32,680
+When the segment happens too,
+
+679
+00:24:32,680 --> 00:24:33,520
+which I think is funny.
+
+680
+00:24:33,520 --> 00:24:34,360
+Nice.
+
+681
+00:24:34,360 --> 00:24:35,240
+Because I don't know how,
+
+682
+00:24:35,240 --> 00:24:37,080
+he had been off the air for how many years?
+
+683
+00:24:37,080 --> 00:24:38,160
+Oh, in the show?
+
+684
+00:24:38,160 --> 00:24:39,000
+Yes.
+
+685
+00:24:39,000 --> 00:24:40,400
+I missed, I didn't even pick up on that.
+
+686
+00:24:40,400 --> 00:24:42,840
+Yeah, you're right.
+
+687
+00:24:42,840 --> 00:24:44,520
+Yeah, they play it and it's like.
+
+688
+00:24:44,520 --> 00:24:46,120
+Well, they still have to make it read
+
+689
+00:24:46,120 --> 00:24:49,240
+because the Leno Tonight Show had no,
+
+690
+00:24:49,240 --> 00:24:50,680
+it was just kind of general.
+
+691
+00:24:50,680 --> 00:24:53,520
+Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan,
+
+692
+00:24:53,520 --> 00:24:57,240
+like it had no, you could not hum a Leno theme.
+
+693
+00:24:57,240 --> 00:24:58,760
+Yeah, why is that?
+
+694
+00:24:58,760 --> 00:24:59,600
+That's weird.
+
+695
+00:24:59,600 --> 00:25:02,640
+Similar to SNL, SNL, like, okay, sing the SNL song.
+
+696
+00:25:02,640 --> 00:25:06,600
+Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan, Dan,
+
+697
+00:25:06,600 --> 00:25:07,440
+like what is this?
+
+698
+00:25:07,440 --> 00:25:08,480
+There was no melody.
+
+699
+00:25:08,480 --> 00:25:09,440
+Yeah, yeah, yeah.
+
+700
+00:25:09,440 --> 00:25:11,560
+Yeah, whereas like Conan, you can.
+
+701
+00:25:11,560 --> 00:25:14,160
+There was a Conan song, Fallon has a song.
+
+702
+00:25:14,160 --> 00:25:17,680
+Letterman I remember, the light show theme I remember.
+
+703
+00:25:17,680 --> 00:25:19,520
+Thick of the Night has a song.
+
+704
+00:25:19,520 --> 00:25:20,360
+Uh-huh.
+
+705
+00:25:21,040 --> 00:25:21,880
+Make a point of saying.
+
+706
+00:25:21,880 --> 00:25:22,720
+Yeah.
+
+707
+00:25:22,720 --> 00:25:23,560
+It was a wonderful song.
+
+708
+00:25:23,560 --> 00:25:24,760
+I remember the Craig Ferguson one
+
+709
+00:25:24,760 --> 00:25:26,600
+because I always remember he wrote it
+
+710
+00:25:26,600 --> 00:25:28,640
+so he could get the money every night.
+
+711
+00:25:28,640 --> 00:25:29,480
+That's really smart.
+
+712
+00:25:29,480 --> 00:25:31,320
+Which is a smart trick.
+
+713
+00:25:31,320 --> 00:25:32,160
+So canny.
+
+714
+00:25:32,160 --> 00:25:33,520
+Gryphon has that trick too, I think.
+
+715
+00:25:33,520 --> 00:25:36,920
+Isn't it possible, did Johnny Carson have a writing credit
+
+716
+00:25:36,920 --> 00:25:38,360
+on his theme?
+
+717
+00:25:38,360 --> 00:25:39,200
+Very possible.
+
+718
+00:25:39,200 --> 00:25:40,040
+I think he may have.
+
+719
+00:25:40,040 --> 00:25:41,680
+Yeah, because they would just also add that.
+
+720
+00:25:41,680 --> 00:25:44,080
+I think Conan co-wrote, or Conan sort of co-wrote
+
+721
+00:25:44,080 --> 00:25:45,920
+the TBS Conan's, I don't think it's the same one
+
+722
+00:25:45,920 --> 00:25:47,800
+they use now, but when I was there.
+
+723
+00:25:47,800 --> 00:25:48,640
+Uh-huh.
+
+724
+00:25:48,640 --> 00:25:51,280
+Like he, it was a guitar riff of his or something.
+
+725
+00:25:51,280 --> 00:25:53,200
+Yeah, that makes sense.
+
+726
+00:25:53,200 --> 00:25:55,040
+The dun dun dun dun dun dun dun dun.
+
+727
+00:25:55,040 --> 00:25:55,880
+That one, yeah.
+
+728
+00:25:55,880 --> 00:25:57,240
+Yeah.
+
+729
+00:25:57,240 --> 00:25:59,520
+But I mean that weird funny business,
+
+730
+00:25:59,520 --> 00:26:01,680
+like Dolly Parton, Elvis wanted to sing
+
+731
+00:26:01,680 --> 00:26:02,520
+I Will Always Love You,
+
+732
+00:26:02,520 --> 00:26:06,280
+but they insisted on putting Elvis's name on the publishing,
+
+733
+00:26:06,280 --> 00:26:07,320
+so she said no.
+
+734
+00:26:07,320 --> 00:26:08,240
+Oh.
+
+735
+00:26:08,240 --> 00:26:10,640
+So she wanted Elvis to sing that song,
+
+736
+00:26:10,640 --> 00:26:12,560
+but she was like, I don't want you to,
+
+737
+00:26:12,560 --> 00:26:13,560
+you didn't write the song,
+
+738
+00:26:13,560 --> 00:26:15,200
+you should not get the publishing.
+
+739
+00:26:15,200 --> 00:26:17,880
+So they said no, and obviously a very good decision
+
+740
+00:26:17,880 --> 00:26:19,400
+because Whitney Houston would go on
+
+741
+00:26:19,400 --> 00:26:21,480
+and make billions of dollars with her version,
+
+742
+00:26:21,480 --> 00:26:22,960
+and she didn't take publishing.
+
+743
+00:26:22,960 --> 00:26:25,360
+Prince and Kiss, he was like mostly not in the room
+
+744
+00:26:25,360 --> 00:26:27,000
+when Kiss happened, like the band,
+
+745
+00:26:27,000 --> 00:26:29,440
+like the bass player was messing around.
+
+746
+00:26:29,440 --> 00:26:31,000
+And he took it back.
+
+747
+00:26:31,000 --> 00:26:32,000
+Right, isn't that the story?
+
+748
+00:26:32,000 --> 00:26:32,840
+I think so, yeah, yeah.
+
+749
+00:26:32,840 --> 00:26:34,920
+Where like they made a very cool version of Kiss,
+
+750
+00:26:34,920 --> 00:26:36,440
+and he wasn't that into it, and then he heard it,
+
+751
+00:26:36,440 --> 00:26:37,360
+and he was like, oh shit,
+
+752
+00:26:37,360 --> 00:26:38,960
+and then he just stole it back from them.
+
+753
+00:26:38,960 --> 00:26:40,800
+He like left for an hour, they made it cool,
+
+754
+00:26:40,800 --> 00:26:43,200
+and like uh-oh, I'd like to be on that again.
+
+755
+00:26:43,200 --> 00:26:45,360
+Yeah, so yeah, anyway.
+
+756
+00:26:45,360 --> 00:26:46,200
+Anyway.
+
+757
+00:26:47,200 --> 00:26:48,040
+Jason, what were you saying?
+
+758
+00:26:48,040 --> 00:26:50,840
+Oh, I was trying to, were we on a specific year?
+
+759
+00:26:50,840 --> 00:26:51,680
+2008, 2008.
+
+760
+00:26:51,680 --> 00:26:53,720
+Okay, 2008.
+
+761
+00:26:53,720 --> 00:26:56,760
+Very broad, I mean there's Footloose,
+
+762
+00:26:56,760 --> 00:26:59,560
+performed by Chewie and Ajaahwa.
+
+763
+00:26:59,560 --> 00:27:01,200
+There's a Girls Just Wanna Have Fun
+
+764
+00:27:01,200 --> 00:27:04,560
+with Leia Padme and Zam Wessel, the bounty hunter.
+
+765
+00:27:04,560 --> 00:27:06,160
+That's fun, yeah.
+
+766
+00:27:06,160 --> 00:27:08,720
+Vader and Stormtroopers do Thriller.
+
+767
+00:27:08,720 --> 00:27:11,000
+You see, these are a little bit more like general,
+
+768
+00:27:11,000 --> 00:27:11,840
+like they're not as-
+
+769
+00:27:11,840 --> 00:27:14,200
+Ages eight to 80 references, you know.
+
+770
+00:27:14,200 --> 00:27:16,320
+Yeah, so like people are gonna like Vader
+
+771
+00:27:16,320 --> 00:27:18,360
+and Thriller and stuff, but it's not connected
+
+772
+00:27:18,360 --> 00:27:20,320
+maybe to the characters, like is it just because they're
+
+773
+00:27:20,320 --> 00:27:21,920
+scary?
+
+774
+00:27:21,920 --> 00:27:24,600
+Kind of luchantientually, because yeah,
+
+775
+00:27:24,600 --> 00:27:26,560
+they're doing the scary dance.
+
+776
+00:27:26,560 --> 00:27:31,400
+Oh, YMCA2, they do Yoda, it's Y-O-D-A, I believe, right?
+
+777
+00:27:31,400 --> 00:27:32,400
+Well, I like that.
+
+778
+00:27:37,880 --> 00:27:39,720
+And then there, it's also, which is funny,
+
+779
+00:27:39,720 --> 00:27:42,240
+because it's on the, I think we talked about it before,
+
+780
+00:27:42,280 --> 00:27:45,240
+there's that Star Wars Connect game, the dancing game,
+
+781
+00:27:45,240 --> 00:27:47,360
+where it's I'm Han Solo instead of-
+
+782
+00:27:47,360 --> 00:27:50,960
+Boy, I loved, when I went down that rabbit hole after,
+
+783
+00:27:50,960 --> 00:27:52,200
+I was very delighted.
+
+784
+00:27:52,200 --> 00:27:54,240
+And there is also a YMCA parody in that,
+
+785
+00:27:54,240 --> 00:27:56,120
+which is Empire Today.
+
+786
+00:27:56,120 --> 00:27:59,640
+It's like, boy, I'd like to be in Empire Today.
+
+787
+00:28:00,520 --> 00:28:01,360
+Which is-
+
+788
+00:28:01,360 --> 00:28:03,000
+You can't do hand signals for that.
+
+789
+00:28:03,000 --> 00:28:05,960
+No, but that was the thing they went with.
+
+790
+00:28:05,960 --> 00:28:09,320
+So yeah, so this first one is like, I was like, yeah,
+
+791
+00:28:09,320 --> 00:28:12,560
+okay, I didn't love it.
+
+792
+00:28:12,560 --> 00:28:13,840
+Would you say that's right?
+
+793
+00:28:13,840 --> 00:28:15,520
+I think that's right.
+
+794
+00:28:15,520 --> 00:28:19,320
+2010 was the year that I saw where they started to have
+
+795
+00:28:19,320 --> 00:28:21,120
+a little more fighting watch 2009.
+
+796
+00:28:21,120 --> 00:28:23,200
+We can't do every year, let me just,
+
+797
+00:28:24,560 --> 00:28:28,000
+MC Hammer can't touch this in 2009 with Vader.
+
+798
+00:28:28,000 --> 00:28:33,000
+And then they introduced Ahsoka Tano and Aura Singh,
+
+799
+00:28:33,040 --> 00:28:37,160
+who are other characters who do Pisces Girls.
+
+800
+00:28:37,160 --> 00:28:39,280
+I don't know any of the things you just said.
+
+801
+00:28:40,240 --> 00:28:43,600
+Well, I always mispronounce her name
+
+802
+00:28:43,600 --> 00:28:44,880
+because I have not seen the Clone Wars
+
+803
+00:28:44,880 --> 00:28:46,400
+and don't yell at me because I will watch them
+
+804
+00:28:46,400 --> 00:28:48,240
+now that we can watch them all.
+
+805
+00:28:48,240 --> 00:28:50,560
+Ahsoka Tano, who people are saying
+
+806
+00:28:50,560 --> 00:28:54,560
+Brie Larson is gonna play, but she's like a hero character.
+
+807
+00:28:54,560 --> 00:28:56,960
+Is this the character, there was a character who came up
+
+808
+00:28:56,960 --> 00:28:58,920
+when I was watching these with Aaron and she said,
+
+809
+00:28:58,920 --> 00:29:01,200
+who's the Sphinx?
+
+810
+00:29:01,200 --> 00:29:02,800
+Yes. Kind of red and white.
+
+811
+00:29:02,800 --> 00:29:04,960
+Yes, yes. Is this the Sphinx?
+
+812
+00:29:05,200 --> 00:29:10,200
+She is, I think Obi-Wan's other apprentice, is that right?
+
+813
+00:29:10,360 --> 00:29:12,000
+Or kind of an apprentice level.
+
+814
+00:29:12,000 --> 00:29:13,960
+She's a learner to Anakin Skywalker.
+
+815
+00:29:13,960 --> 00:29:15,200
+Oh, she's Anakin's apprentice.
+
+816
+00:29:15,200 --> 00:29:18,240
+Yeah, so she has like kind of a Sphinx-y kind of a thing.
+
+817
+00:29:19,240 --> 00:29:22,920
+So she's a Jedi and yeah, so they danced the song
+
+818
+00:29:22,920 --> 00:29:25,320
+Pisces Girl, which I had to look up.
+
+819
+00:29:25,320 --> 00:29:26,160
+What was that?
+
+820
+00:29:26,160 --> 00:29:27,280
+Hold on, let me find it.
+
+821
+00:29:27,280 --> 00:29:28,680
+Yeah, I don't know that one.
+
+822
+00:29:30,120 --> 00:29:31,360
+Let me find this.
+
+823
+00:29:32,320 --> 00:29:34,440
+There were songs I had to really look up.
+
+824
+00:29:34,480 --> 00:29:37,600
+It's amazing how much you forget.
+
+825
+00:29:39,160 --> 00:29:40,560
+It's like that song. I can't find it.
+
+826
+00:29:40,560 --> 00:29:43,200
+That like, we're gonna light it up.
+
+827
+00:29:43,200 --> 00:29:45,720
+I guess I know I could not place that
+
+828
+00:29:45,720 --> 00:29:49,560
+because the Tio Cruz has not been as omnipresent
+
+829
+00:29:49,560 --> 00:29:53,280
+of a person as that song is, which is everywhere.
+
+830
+00:29:54,720 --> 00:29:59,720
+When we were on the Talking Simpsons podcast,
+
+831
+00:30:00,160 --> 00:30:03,040
+which is out or coming out,
+
+832
+00:30:03,040 --> 00:30:06,560
+we talked about Wright said Fred's I'm Too Sexy.
+
+833
+00:30:06,560 --> 00:30:09,880
+And I meant to say like, yeah, I'm too sexy.
+
+834
+00:30:09,880 --> 00:30:12,920
+I don't think that's still a reference used.
+
+835
+00:30:12,920 --> 00:30:16,840
+I don't think anyone thinks about the phrase
+
+836
+00:30:16,840 --> 00:30:19,200
+Wright said Fred though.
+
+837
+00:30:19,200 --> 00:30:20,680
+I think it's kind of removed.
+
+838
+00:30:20,680 --> 00:30:22,240
+It's taken on a life of its own.
+
+839
+00:30:22,240 --> 00:30:24,320
+Some songs outlive the band.
+
+840
+00:30:24,320 --> 00:30:27,280
+Yeah, it's very trivia who the band was.
+
+841
+00:30:28,200 --> 00:30:29,640
+Yeah, okay, let's just go to 2010.
+
+842
+00:30:29,640 --> 00:30:33,040
+2010 is when they start to like play.
+
+843
+00:30:33,040 --> 00:30:35,040
+Okay, Uncle Owen and Aunt Beru
+
+844
+00:30:35,040 --> 00:30:38,120
+dancing to doing Burning Down the House.
+
+845
+00:30:38,120 --> 00:30:42,000
+That's dark. That's a pretty solid joke.
+
+846
+00:30:42,000 --> 00:30:45,560
+So that's sneaking one by.
+
+847
+00:30:45,560 --> 00:30:47,240
+So like, you can't be mad at that.
+
+848
+00:30:47,240 --> 00:30:50,480
+This is where the Margaritaville Cantina joke happens.
+
+849
+00:30:50,480 --> 00:30:52,160
+The Johnny Carson thing.
+
+850
+00:30:52,160 --> 00:30:53,880
+There's the one I was,
+
+851
+00:30:53,880 --> 00:30:57,080
+Rancor Keeper does You Know You Want Me.
+
+852
+00:30:57,080 --> 00:30:58,640
+Like, you know you want me.
+
+853
+00:31:00,120 --> 00:31:01,760
+And I think that's sort of like,
+
+854
+00:31:01,760 --> 00:31:04,680
+he's not in the best shape, that's the joke.
+
+855
+00:31:04,680 --> 00:31:06,880
+Which is not, of course, the best joke.
+
+856
+00:31:06,880 --> 00:31:09,600
+Or like the Rancor wants him, like wants to eat him.
+
+857
+00:31:09,600 --> 00:31:10,520
+Maybe. Maybe.
+
+858
+00:31:10,520 --> 00:31:11,720
+But the Rancor doesn't want,
+
+859
+00:31:11,720 --> 00:31:14,400
+no, the Rancor doesn't want to eat the Rancor Keeper.
+
+860
+00:31:14,400 --> 00:31:15,440
+He's his friend.
+
+861
+00:31:15,440 --> 00:31:16,400
+But he eats him.
+
+862
+00:31:16,400 --> 00:31:18,520
+No, no, Rancor Keeper, you're thinking of the
+
+863
+00:31:18,520 --> 00:31:21,800
+of the Gamorrian Guard who gets eaten in Jedi.
+
+864
+00:31:21,800 --> 00:31:23,680
+Oh, the Keeper, okay, yes.
+
+865
+00:31:23,680 --> 00:31:24,800
+The Keeper who cries at the,
+
+866
+00:31:24,800 --> 00:31:27,040
+so in Return of the Jedi, Luke and,
+
+867
+00:31:27,040 --> 00:31:28,640
+you've seen Return of the Jedi.
+
+868
+00:31:28,640 --> 00:31:31,120
+The Gamorrian Guard and Luke fall in front of Jabba
+
+869
+00:31:31,120 --> 00:31:32,280
+in Return of the Jedi.
+
+870
+00:31:32,280 --> 00:31:33,440
+Yeah, I know it's Gamorrian,
+
+871
+00:31:33,440 --> 00:31:34,280
+of course I know it's Gamorrian Guard.
+
+872
+00:31:34,280 --> 00:31:35,120
+The green tusk.
+
+873
+00:31:35,120 --> 00:31:36,800
+The green guy with the like kind of pig nose.
+
+874
+00:31:36,800 --> 00:31:37,640
+Yeah, Gamorrian Guard.
+
+875
+00:31:37,640 --> 00:31:38,480
+Gamorrian Guard.
+
+876
+00:31:38,480 --> 00:31:40,800
+And the Rancor is that giant monster
+
+877
+00:31:40,800 --> 00:31:43,720
+and it eats the Gamorrian Guard and Luke kills it.
+
+878
+00:31:43,720 --> 00:31:46,960
+And then that kind of bigger dude with the headdress
+
+879
+00:31:46,960 --> 00:31:50,680
+and the open chest cries because his Rancor is dead.
+
+880
+00:31:50,680 --> 00:31:52,160
+Luke kills the Rancor.
+
+881
+00:31:52,160 --> 00:31:53,160
+And that's the Rancor Keeper.
+
+882
+00:31:53,160 --> 00:31:56,040
+2010, this one is real close.
+
+883
+00:31:56,040 --> 00:31:58,000
+They were right in front of the stage.
+
+884
+00:31:58,000 --> 00:31:59,600
+Yeah, so there's a.
+
+885
+00:31:59,600 --> 00:32:01,040
+And that's the people who filmed these.
+
+886
+00:32:01,040 --> 00:32:01,880
+Yeah, there's the Sphinx.
+
+887
+00:32:01,880 --> 00:32:02,720
+Sam Wessel.
+
+888
+00:32:03,600 --> 00:32:04,440
+That's Material Girl.
+
+889
+00:32:04,440 --> 00:32:06,320
+There's Aura Singh who is also a bounty hunter.
+
+890
+00:32:06,320 --> 00:32:07,800
+She has the long hair.
+
+891
+00:32:08,720 --> 00:32:09,560
+There are.
+
+892
+00:32:09,560 --> 00:32:10,400
+No.
+
+893
+00:32:10,400 --> 00:32:11,220
+Tusken Raiders.
+
+894
+00:32:11,220 --> 00:32:13,240
+Tusken Raiders are dancing support for Material Girl.
+
+895
+00:32:13,240 --> 00:32:14,080
+Yes, like a.
+
+896
+00:32:14,080 --> 00:32:14,900
+They're backup dancers.
+
+897
+00:32:14,900 --> 00:32:15,920
+The back of an SNL sketch.
+
+898
+00:32:15,920 --> 00:32:18,080
+Who's kind of leading.
+
+899
+00:32:18,080 --> 00:32:19,440
+That's Queen Amidala.
+
+900
+00:32:19,440 --> 00:32:20,280
+Queen Amidala.
+
+901
+00:32:20,280 --> 00:32:22,080
+In front, it could be one of her decoys, honestly.
+
+902
+00:32:22,080 --> 00:32:25,360
+But the whole number she kind of leads Material Girl.
+
+903
+00:32:25,360 --> 00:32:26,360
+Yeah. Yeah.
+
+904
+00:32:26,360 --> 00:32:29,000
+Mixed with like old like 70s Leia.
+
+905
+00:32:29,000 --> 00:32:30,800
+Yeah, so see, original Star Wars
+
+906
+00:32:30,800 --> 00:32:33,120
+white costume Leia is dancing.
+
+907
+00:32:33,120 --> 00:32:35,440
+And eventually Amidala becomes.
+
+908
+00:32:36,560 --> 00:32:38,600
+Amidala in the white like.
+
+909
+00:32:38,600 --> 00:32:39,440
+The Attack of the Clones.
+
+910
+00:32:39,440 --> 00:32:41,720
+Attack of the Clones action gear.
+
+911
+00:32:41,720 --> 00:32:44,180
+Not that like big Queen gear.
+
+912
+00:32:44,180 --> 00:32:46,480
+Right, so yeah, so they're getting,
+
+913
+00:32:46,480 --> 00:32:49,440
+they're getting, you know, they're getting saucier maybe.
+
+914
+00:32:49,440 --> 00:32:50,760
+They're getting a little.
+
+915
+00:32:50,760 --> 00:32:51,600
+Some of these jokes are.
+
+916
+00:32:51,600 --> 00:32:55,080
+Chewie as Axel and the Ewok as Slash.
+
+917
+00:32:55,080 --> 00:32:57,800
+Yeah, so that is this year, right?
+
+918
+00:32:57,800 --> 00:32:59,320
+Yeah, that's this year.
+
+919
+00:32:59,320 --> 00:33:02,840
+And then they're always using Figurine Dan and the modal.
+
+920
+00:33:02,840 --> 00:33:04,160
+They're always in the show.
+
+921
+00:33:04,160 --> 00:33:05,800
+I forget, let's just open this.
+
+922
+00:33:05,800 --> 00:33:10,800
+There's a whole.
+
+923
+00:33:11,280 --> 00:33:12,440
+We could have just done a watch along
+
+924
+00:33:12,440 --> 00:33:13,520
+with one of these, honestly.
+
+925
+00:33:13,520 --> 00:33:15,520
+Oopla gets most of the good lines.
+
+926
+00:33:15,520 --> 00:33:18,120
+Sneeg is the theme park archetype
+
+927
+00:33:18,120 --> 00:33:21,480
+of like a man who is yells in your face.
+
+928
+00:33:21,480 --> 00:33:22,440
+He just yells.
+
+929
+00:33:22,440 --> 00:33:24,120
+And they're different performers each year.
+
+930
+00:33:24,120 --> 00:33:26,320
+Sometimes they're the same people.
+
+931
+00:33:26,320 --> 00:33:28,040
+They are not always the same.
+
+932
+00:33:28,040 --> 00:33:28,880
+Yeah.
+
+933
+00:33:28,880 --> 00:33:32,600
+I will say I did not watch one second of these two.
+
+934
+00:33:32,600 --> 00:33:36,000
+No offense to anyone who played these people.
+
+935
+00:33:36,000 --> 00:33:38,480
+I don't think I cared about the banter
+
+936
+00:33:38,480 --> 00:33:40,240
+between Sneeg and Oopla.
+
+937
+00:33:40,240 --> 00:33:41,080
+Right.
+
+938
+00:33:41,080 --> 00:33:43,520
+Well, the banter didn't really get,
+
+939
+00:33:43,520 --> 00:33:46,640
+it got a lot more fleshed out as time went on.
+
+940
+00:33:46,640 --> 00:33:48,080
+And the costumes got better too.
+
+941
+00:33:48,080 --> 00:33:49,680
+This is the Kesha song.
+
+942
+00:33:50,680 --> 00:33:52,640
+Blah, no, no, no, this is Lady Gaga.
+
+943
+00:33:52,640 --> 00:33:53,480
+Yeah, yeah.
+
+944
+00:33:54,800 --> 00:33:56,840
+Tell telephone.
+
+945
+00:33:56,840 --> 00:33:58,040
+It was a huge hit.
+
+946
+00:33:58,040 --> 00:33:58,880
+Yeah.
+
+947
+00:33:58,880 --> 00:34:01,720
+And the FIG and the mode, the Wasse Isley Cantina band
+
+948
+00:34:01,720 --> 00:34:06,160
+are doing not well choreographed dances to it.
+
+949
+00:34:06,160 --> 00:34:09,600
+Still fun to see them with their fun heads.
+
+950
+00:34:09,600 --> 00:34:12,720
+No, wait, I did hear some blah, blah, blah.
+
+951
+00:34:12,720 --> 00:34:13,560
+Tis not back.
+
+952
+00:34:13,560 --> 00:34:14,920
+But blah, blah, blah.
+
+953
+00:34:14,920 --> 00:34:15,760
+That was like a Kesha.
+
+954
+00:34:15,760 --> 00:34:17,320
+There's a lot of Kesha in all these.
+
+955
+00:34:17,320 --> 00:34:20,920
+You forget how like everywhere Kesha son,
+
+956
+00:34:20,920 --> 00:34:23,760
+not just TikTok, but the was the one blow
+
+957
+00:34:23,760 --> 00:34:25,280
+this place about to blow.
+
+958
+00:34:28,120 --> 00:34:28,960
+Beat it.
+
+959
+00:34:28,960 --> 00:34:31,360
+So Darth Vader is dancing to beat it.
+
+960
+00:34:32,120 --> 00:34:34,560
+Which like, I like that.
+
+961
+00:34:34,560 --> 00:34:35,400
+I do like that.
+
+962
+00:34:35,400 --> 00:34:37,360
+I mean, I can't deny.
+
+963
+00:34:37,360 --> 00:34:39,280
+And they're a little more polished.
+
+964
+00:34:39,280 --> 00:34:40,680
+Them doing the dance is good.
+
+965
+00:34:40,680 --> 00:34:43,880
+I don't know how it relates again to the character, but.
+
+966
+00:34:43,880 --> 00:34:45,480
+He wants the. Oh, he's got the glove.
+
+967
+00:34:45,480 --> 00:34:48,560
+He wants, you know, Luke to beat it.
+
+968
+00:34:48,560 --> 00:34:50,440
+He just grabbed his dick to beat it.
+
+969
+00:34:51,400 --> 00:34:54,800
+This is the last year, 2010, that they're on the smallest stage.
+
+970
+00:34:54,800 --> 00:34:57,320
+2011, they got upgraded to the big stage.
+
+971
+00:34:57,320 --> 00:35:01,160
+And it was sure like people knew like this show can't be contained on the small stage
+
+972
+00:35:01,160 --> 00:35:02,000
+any longer.
+
+973
+00:35:02,000 --> 00:35:06,960
+Storyline wise, the emperor lends the money to get the bigger stage.
+
+974
+00:35:06,960 --> 00:35:08,680
+That is established in 2011.
+
+975
+00:35:08,680 --> 00:35:10,280
+Explain they make it part of the.
+
+976
+00:35:10,280 --> 00:35:11,480
+I like that too.
+
+977
+00:35:11,480 --> 00:35:15,720
+And in 2011, that's where you get teach me how to Dougie
+
+978
+00:35:16,360 --> 00:35:17,560
+Luke's in this one.
+
+979
+00:35:17,560 --> 00:35:20,000
+And there is a Skywalker incest joke.
+
+980
+00:35:20,000 --> 00:35:22,080
+A minute. Yes, yes, yes.
+
+981
+00:35:22,080 --> 00:35:27,000
+So here's the huge stage in front of Grauman's, which has the sorcerer's
+
+982
+00:35:27,000 --> 00:35:28,480
+hat still in front of it.
+
+983
+00:35:28,480 --> 00:35:32,360
+Yes, you can see the sorcerer's hat in the video behind the stage.
+
+984
+00:35:32,440 --> 00:35:35,000
+It's just like in the hand to on the left.
+
+985
+00:35:35,000 --> 00:35:37,680
+Now we're now on a multi layer stage.
+
+986
+00:35:37,680 --> 00:35:41,360
+It's double decker like big pod doors.
+
+987
+00:35:41,360 --> 00:35:43,040
+Snaggen, OOP, was hyperspace.
+
+988
+00:35:43,040 --> 00:35:47,600
+So Laughinplace.com for posting this one and perhaps some of the others.
+
+989
+00:35:47,600 --> 00:35:52,480
+And like we got we get like figure it figuring Dan and the modal nodes to teach me how to
+
+990
+00:35:52,480 --> 00:35:54,720
+do. They're the ones who do teach me how to Dougie.
+
+991
+00:35:54,720 --> 00:35:58,080
+And then there's some let me get to the here.
+
+992
+00:35:58,080 --> 00:36:00,320
+Let me get to the section with the emperor.
+
+993
+00:36:00,320 --> 00:36:02,960
+So the emperor, let's see.
+
+994
+00:36:02,960 --> 00:36:03,520
+And they sing.
+
+995
+00:36:03,520 --> 00:36:08,640
+Oh, yeah, we should have mentioned that they do like lyrics to the famous Star Wars.
+
+996
+00:36:08,880 --> 00:36:12,640
+Lyrics to the famous Star Wars theme disco version.
+
+997
+00:36:13,680 --> 00:36:15,040
+So that's fun when it's.
+
+998
+00:36:15,040 --> 00:36:17,760
+And they switch explains what the show is.
+
+999
+00:36:17,760 --> 00:36:22,160
+Yes. So this one has the emperor and his guards, which are the guys in the red.
+
+1000
+00:36:24,560 --> 00:36:28,880
+And the emperor gets just gets hamier as these last three years go on.
+
+1001
+00:36:28,880 --> 00:36:35,600
+The emperor. Yes, the emperor turns into like an old genie or an old, you know, one of the
+
+1002
+00:36:36,240 --> 00:36:38,800
+characters from the theme park.
+
+1003
+00:36:40,560 --> 00:36:42,720
+He says we got mad skills.
+
+1004
+00:36:42,720 --> 00:36:44,000
+Yo, so that's here.
+
+1005
+00:36:44,000 --> 00:36:48,480
+I'm actually thank you for saying that, Scott, because I'm about to go to the mad skills.
+
+1006
+00:36:48,480 --> 00:36:52,240
+Yo part of the emperor when he dances.
+
+1007
+00:36:52,800 --> 00:36:54,640
+OK, so it's like the mad skill.
+
+1008
+00:36:54,640 --> 00:36:55,360
+Oh, it just happened.
+
+1009
+00:36:57,520 --> 00:37:00,800
+So this one is maybe my least favorite emperor performance.
+
+1010
+00:37:00,800 --> 00:37:02,160
+This is just back in black.
+
+1011
+00:37:03,120 --> 00:37:04,080
+And he's like.
+
+1012
+00:37:05,280 --> 00:37:08,320
+Just sort of like using his cane as a microphone.
+
+1013
+00:37:08,320 --> 00:37:15,040
+Yeah, some years the songs had themes like one once one year, the theme was all the songs are in
+
+1014
+00:37:15,040 --> 00:37:19,040
+three D to honor the release of Phantom Menace 3D.
+
+1015
+00:37:19,600 --> 00:37:22,240
+It's just very aggro in your face songs.
+
+1016
+00:37:22,240 --> 00:37:23,920
+One year it was 80 stuff.
+
+1017
+00:37:23,920 --> 00:37:28,240
+This seems like if they just put me in an emperor costume by the old Greedo has come out
+
+1018
+00:37:28,240 --> 00:37:29,680
+with Django and Boba Fett.
+
+1019
+00:37:29,680 --> 00:37:33,440
+This is like if they put a robe on me and we're like here, go dance to back in black
+
+1020
+00:37:33,440 --> 00:37:34,320
+with your cane.
+
+1021
+00:37:34,880 --> 00:37:36,880
+It doesn't look very rehearsed.
+
+1022
+00:37:36,880 --> 00:37:40,080
+So and then Darth Maul makes an appearance, which is very exciting.
+
+1023
+00:37:40,080 --> 00:37:41,040
+People going nuts.
+
+1024
+00:37:41,040 --> 00:37:42,640
+He gets a pyro.
+
+1025
+00:37:42,640 --> 00:37:44,320
+She gets huge pyro.
+
+1026
+00:37:45,440 --> 00:37:46,000
+Darth Maul.
+
+1027
+00:37:46,000 --> 00:37:52,160
+And then he comes out and he is like good at lightsabering and.
+
+1028
+00:37:53,920 --> 00:37:56,480
+People are losing their minds and then.
+
+1029
+00:37:56,480 --> 00:38:01,760
+You got to go to the go to the clip here of 2011 and watch him like barely do any dancing
+
+1030
+00:38:01,760 --> 00:38:03,280
+and then get his lightsaber back.
+
+1031
+00:38:04,320 --> 00:38:06,080
+He's good at twirling the lightsaber.
+
+1032
+00:38:06,080 --> 00:38:07,680
+He's good at twirling the lightsaber.
+
+1033
+00:38:08,160 --> 00:38:12,480
+So 2011 we get Ewoks wearing slash his top hat.
+
+1034
+00:38:13,280 --> 00:38:17,440
+We get playing drums on stormtroopers heads, which is fun because the Ewoks do that at
+
+1035
+00:38:17,440 --> 00:38:18,640
+the end of Return of the Jedi.
+
+1036
+00:38:18,640 --> 00:38:21,120
+Yeah, which is a nice little callback.
+
+1037
+00:38:21,920 --> 00:38:23,440
+We get like Joan Jett stuff.
+
+1038
+00:38:23,440 --> 00:38:24,640
+There's an Avril Lavigne.
+
+1039
+00:38:24,640 --> 00:38:26,480
+I never heard called Goodbye Lullaby.
+
+1040
+00:38:27,680 --> 00:38:29,040
+Wow, I was she there was.
+
+1041
+00:38:29,040 --> 00:38:34,160
+I mean, this was a single, but her song What the Hell was the factors in and like these
+
+1042
+00:38:34,160 --> 00:38:38,960
+Latter Day Avril songs didn't really register with me, but I guess at the time they're
+
+1043
+00:38:38,960 --> 00:38:40,480
+like, all right, what's on the charts?
+
+1044
+00:38:40,960 --> 00:38:44,320
+Yeah, I guess I would be interested to know if there's any interviews with people who
+
+1045
+00:38:44,320 --> 00:38:47,120
+put these shows together, what their process was.
+
+1046
+00:38:48,080 --> 00:38:51,840
+I just say it's crazy that this is gone.
+
+1047
+00:38:52,080 --> 00:38:58,240
+It's crazy that this is gone now because I think we're at the point where it has been
+
+1048
+00:38:58,240 --> 00:39:01,600
+like over 40 years since A New Hope.
+
+1049
+00:39:01,600 --> 00:39:07,280
+So this is the time where people would be it starts to make sense to like, OK, we've
+
+1050
+00:39:07,280 --> 00:39:08,160
+had decades.
+
+1051
+00:39:08,160 --> 00:39:10,560
+We can do a decent critical analysis.
+
+1052
+00:39:11,120 --> 00:39:18,640
+We have the historical context like we can start to it's yeah, let's let's have a little
+
+1053
+00:39:18,640 --> 00:39:19,040
+fun with it.
+
+1054
+00:39:19,040 --> 00:39:23,120
+Let's make fun of it like Disney lighten up like I think that's what I like about the
+
+1055
+00:39:23,120 --> 00:39:24,160
+Mandalorian.
+
+1056
+00:39:24,160 --> 00:39:26,560
+It's like there's sillier costumes.
+
+1057
+00:39:26,560 --> 00:39:30,560
+I have ideas at the end, but I have some ideas of the show comes back.
+
+1058
+00:39:30,560 --> 00:39:33,200
+Oh, I have so many ideas for 2019.
+
+1059
+00:39:34,960 --> 00:39:36,480
+So so yeah, we'll go here.
+
+1060
+00:39:36,480 --> 00:39:41,600
+But like some other highlights real quick because yeah, I think we all agree that like
+
+1061
+00:39:41,600 --> 00:39:43,280
+let's this is so this is 2012.
+
+1062
+00:39:44,720 --> 00:39:47,520
+Vader dancing to Pitbull International Love.
+
+1063
+00:39:48,960 --> 00:39:51,360
+And also this is Alien Ant Farm part of it.
+
+1064
+00:39:51,360 --> 00:39:52,800
+There's like a medley of songs.
+
+1065
+00:39:53,840 --> 00:39:58,320
+Oh yeah, Alien Ant Farm smooth criminal is dance to it.
+
+1066
+00:39:58,320 --> 00:40:01,200
+One of these, which is such a funny choice.
+
+1067
+00:40:01,200 --> 00:40:08,480
+Now I will say I like this Chewie comes out to LMFAO.
+
+1068
+00:40:08,480 --> 00:40:13,600
+They're all dressed as LMFAO and the robot from LMFAO.
+
+1069
+00:40:13,600 --> 00:40:18,000
+C3PO has the metal the square robot head from the music video at one.
+
+1070
+00:40:18,000 --> 00:40:21,040
+And I will say I unironically like this.
+
+1071
+00:40:21,040 --> 00:40:21,840
+What year is this?
+
+1072
+00:40:21,840 --> 00:40:23,120
+This is 2012.
+
+1073
+00:40:23,120 --> 00:40:25,600
+Okay, 2012 is when it starts to heat up.
+
+1074
+00:40:26,720 --> 00:40:27,280
+2012.
+
+1075
+00:40:27,280 --> 00:40:31,920
+So Vigor and Dan and the modal nodes have like cool stretch pants on now.
+
+1076
+00:40:32,880 --> 00:40:35,760
+Not costume appropriate stretch pants at a certain point.
+
+1077
+00:40:35,760 --> 00:40:39,600
+So yeah, C3PO has yes, you just said that.
+
+1078
+00:40:39,600 --> 00:40:42,880
+R2D2 has a wig on his head over in the corner.
+
+1079
+00:40:43,440 --> 00:40:44,000
+I like that.
+
+1080
+00:40:45,200 --> 00:40:46,240
+Scott's coming around now.
+
+1081
+00:40:46,240 --> 00:40:46,720
+Lay it out.
+
+1082
+00:40:46,720 --> 00:40:47,360
+Lay it out.
+
+1083
+00:40:47,360 --> 00:40:48,000
+A wig.
+
+1084
+00:40:48,000 --> 00:40:48,880
+Slave Lay is out.
+
+1085
+00:40:48,880 --> 00:40:49,840
+Slave outfits.
+
+1086
+00:40:50,480 --> 00:40:53,280
+Padme in the cool white outfit with the Padme.
+
+1087
+00:40:53,280 --> 00:40:54,720
+And she's shaking her butt.
+
+1088
+00:40:56,080 --> 00:40:58,960
+This is getting going here, this show at this point.
+
+1089
+00:41:00,720 --> 00:41:03,680
+And Chewie's hair is so big.
+
+1090
+00:41:03,680 --> 00:41:06,480
+And it does have, it's certainly in the audience, it has the feeling of
+
+1091
+00:41:07,040 --> 00:41:09,440
+all the people in the audience know the performers.
+
+1092
+00:41:10,240 --> 00:41:12,720
+There does feel an extra level of energy probably because-
+
+1093
+00:41:12,720 --> 00:41:14,640
+It's why it's so high school for that reason.
+
+1094
+00:41:14,640 --> 00:41:15,440
+Yes, for sure.
+
+1095
+00:41:15,440 --> 00:41:17,200
+That's why I have the toughest time with this.
+
+1096
+00:41:18,080 --> 00:41:22,160
+I'm flashing to, because I was the one who didn't know anyone in the high school rallies
+
+1097
+00:41:22,160 --> 00:41:24,080
+because I wasn't friends with anyone who did sports.
+
+1098
+00:41:25,520 --> 00:41:27,440
+I 2012-
+
+1099
+00:41:27,440 --> 00:41:31,440
+Well, when it comes back and one of us are in the show and you can go and see us do it,
+
+1100
+00:41:31,440 --> 00:41:33,440
+then you will have that energy surge.
+
+1101
+00:41:33,440 --> 00:41:34,880
+Like, I know, I know Jason.
+
+1102
+00:41:36,160 --> 00:41:37,040
+They really start to-
+
+1103
+00:41:37,040 --> 00:41:38,160
+Jason's playing Vigor and Dan.
+
+1104
+00:41:38,880 --> 00:41:43,280
+We've in the movie lines in this one as like gags or punch lines.
+
+1105
+00:41:43,280 --> 00:41:46,960
+But I think what I like about this compared to like Bill and Ted,
+
+1106
+00:41:46,960 --> 00:41:50,480
+where it's like the butt of the joke is-
+
+1107
+00:41:51,520 --> 00:41:52,240
+Gay people.
+
+1108
+00:41:52,240 --> 00:41:54,960
+Gay people, women, minorities, the disabled.
+
+1109
+00:41:54,960 --> 00:41:57,360
+The butt of the joke in this is Star Wars.
+
+1110
+00:41:57,360 --> 00:42:01,200
+Like it kind of acknowledges, there's using the lines as jokes.
+
+1111
+00:42:01,200 --> 00:42:02,720
+Like it's kind of silly.
+
+1112
+00:42:02,720 --> 00:42:04,160
+It's kind of ridiculous.
+
+1113
+00:42:04,160 --> 00:42:05,360
+We can laugh at it.
+
+1114
+00:42:05,360 --> 00:42:06,640
+Yeah, there's no victim.
+
+1115
+00:42:06,640 --> 00:42:09,760
+People having a good time, audience having a good time at the end of a day.
+
+1116
+00:42:09,760 --> 00:42:14,240
+And I give George credit too for like signing off on it.
+
+1117
+00:42:14,880 --> 00:42:19,920
+This kicks ass that Vader dances to a song with the lyrics, Annie, are you okay?
+
+1118
+00:42:20,640 --> 00:42:22,080
+And he is Anakin Skywalker.
+
+1119
+00:42:22,080 --> 00:42:24,320
+Oh, see, you can't be mad at that.
+
+1120
+00:42:24,320 --> 00:42:26,320
+Annie, are you okay?
+
+1121
+00:42:26,320 --> 00:42:26,820
+Fine.
+
+1122
+00:42:31,520 --> 00:42:33,120
+And that it's the alien ant farm.
+
+1123
+00:42:33,120 --> 00:42:35,840
+One of the funniest reference to make in 2012.
+
+1124
+00:42:35,840 --> 00:42:36,640
+It should have been.
+
+1125
+00:42:36,640 --> 00:42:37,200
+You're right, Scott.
+
+1126
+00:42:37,200 --> 00:42:39,600
+The punch up on it is Watto should have been singing.
+
+1127
+00:42:40,240 --> 00:42:41,040
+Annie, are you okay?
+
+1128
+00:42:42,880 --> 00:42:46,160
+Now this one also, there are sketches in 2012 that happened.
+
+1129
+00:42:46,800 --> 00:42:47,920
+Pre-filmed.
+
+1130
+00:42:47,920 --> 00:42:50,640
+Pre-filmed Emperor sketches.
+
+1131
+00:42:50,640 --> 00:42:53,280
+We don't need to recap any of the jokes or what happens.
+
+1132
+00:42:53,280 --> 00:42:54,240
+Just know that like.
+
+1133
+00:43:00,240 --> 00:43:00,740
+Yeah.
+
+1134
+00:43:01,520 --> 00:43:05,680
+He's just punching like kind of a punching bag or whatever you call that toy.
+
+1135
+00:43:05,680 --> 00:43:06,960
+The inflatable toy of Vader.
+
+1136
+00:43:07,840 --> 00:43:08,560
+That's the Emperor.
+
+1137
+00:43:09,360 --> 00:43:12,960
+So this year, yes, this is the year when you really make a case for it
+
+1138
+00:43:12,960 --> 00:43:15,120
+being a mainstay in the Disney perks forever.
+
+1139
+00:43:15,120 --> 00:43:17,120
+Yes. And they start a running joke.
+
+1140
+00:43:17,120 --> 00:43:21,440
+It only goes for two years, but it's essentially the Paul Rudd, Mac and Me joke.
+
+1141
+00:43:21,440 --> 00:43:25,120
+Where the show ends with the clip of Vader.
+
+1142
+00:43:26,080 --> 00:43:29,120
+Vader walks the Emperor off stage and then it plays the clip of him
+
+1143
+00:43:29,120 --> 00:43:32,640
+tossing him down the Death Star hole.
+
+1144
+00:43:32,640 --> 00:43:33,760
+Which is fun.
+
+1145
+00:43:34,320 --> 00:43:34,820
+Fun.
+
+1146
+00:43:34,820 --> 00:43:35,320
+Fun.
+
+1147
+00:43:35,940 --> 00:43:38,420
+So then this is the year we're mentioning.
+
+1148
+00:43:41,300 --> 00:43:43,860
+So Vader and Padme are dancing.
+
+1149
+00:43:43,860 --> 00:43:48,020
+Which is strange because Padme never met Vader.
+
+1150
+00:43:48,500 --> 00:43:50,180
+Well, right, Anakin is.
+
+1151
+00:43:50,180 --> 00:43:50,680
+Yes.
+
+1152
+00:43:51,300 --> 00:43:51,940
+So it is the guy.
+
+1153
+00:43:51,940 --> 00:43:54,340
+That's who's in there, but she's never seen this suit before.
+
+1154
+00:43:54,340 --> 00:43:56,660
+She died before there was a suit to see.
+
+1155
+00:43:56,660 --> 00:44:00,980
+Yes, but I guess it would probably be worse if it was like no legs Anakin dancing.
+
+1156
+00:44:00,980 --> 00:44:01,700
+Yeah, yeah, yeah.
+
+1157
+00:44:02,660 --> 00:44:07,860
+But this exists in a multiverse where all Star Wars possibilities are on the table.
+
+1158
+00:44:07,860 --> 00:44:08,660
+Everything's on the table.
+
+1159
+00:44:08,660 --> 00:44:13,780
+Yeah, this is including the possibility of one of Snake's lines this year.
+
+1160
+00:44:13,780 --> 00:44:17,620
+He says, give it up for Star Wars.
+
+1161
+00:44:18,980 --> 00:44:19,940
+Who's what?
+
+1162
+00:44:19,940 --> 00:44:22,820
+Snake yells, give it up for Star Wars.
+
+1163
+00:44:22,820 --> 00:44:24,660
+Oh, I wrote that down too.
+
+1164
+00:44:25,780 --> 00:44:27,780
+Well, because apparently that seems to happen.
+
+1165
+00:44:27,780 --> 00:44:30,420
+I wrote down a sequence of events every day.
+
+1166
+00:44:30,420 --> 00:44:31,700
+I'm shuffling.
+
+1167
+00:44:31,700 --> 00:44:33,540
+Boom explosion.
+
+1168
+00:44:33,540 --> 00:44:35,380
+Give it up for Star Wars.
+
+1169
+00:44:36,740 --> 00:44:40,580
+People freaking out after every day I'm shuffling.
+
+1170
+00:44:40,580 --> 00:44:42,580
+That could only happen in 2012.
+
+1171
+00:44:42,580 --> 00:44:47,140
+Well, and Figran, Dan and the modal nodes dance to a medley of songs,
+
+1172
+00:44:47,140 --> 00:44:52,820
+including a song that I know only as Oh, sometimes I get a feeling.
+
+1173
+00:44:53,460 --> 00:44:54,900
+I don't know the name of that.
+
+1174
+00:44:54,900 --> 00:44:57,700
+Oh, sometimes I get a feeling.
+
+1175
+00:44:58,500 --> 00:44:59,700
+I get a feeling.
+
+1176
+00:45:01,700 --> 00:45:02,980
+I have no idea the name of the song.
+
+1177
+00:45:02,980 --> 00:45:04,260
+I have no idea who sings it.
+
+1178
+00:45:04,260 --> 00:45:04,980
+I can't find it.
+
+1179
+00:45:04,980 --> 00:45:05,780
+I don't know what this is.
+
+1180
+00:45:06,340 --> 00:45:07,460
+I'm sure you've heard it.
+
+1181
+00:45:07,460 --> 00:45:08,260
+Is that a Vici song?
+
+1182
+00:45:09,140 --> 00:45:09,640
+Maybe.
+
+1183
+00:45:10,660 --> 00:45:13,460
+Yeah, I also didn't know who did that, but I know the song very well.
+
+1184
+00:45:14,740 --> 00:45:17,300
+Boba Fett dances to moves like Jagger.
+
+1185
+00:45:18,100 --> 00:45:18,980
+Is that 2012?
+
+1186
+00:45:18,980 --> 00:45:19,540
+2012.
+
+1187
+00:45:19,540 --> 00:45:20,260
+Okay, yeah, yeah.
+
+1188
+00:45:21,380 --> 00:45:23,300
+Kip Fisto dances to Party Rock.
+
+1189
+00:45:24,740 --> 00:45:26,180
+Yeah, and Soka.
+
+1190
+00:45:26,180 --> 00:45:27,220
+Yeah, they do Party Rock.
+
+1191
+00:45:28,580 --> 00:45:31,540
+Yeah, so we could have had it all was the Vader Padme.
+
+1192
+00:45:32,340 --> 00:45:32,900
+And then they also-
+
+1193
+00:45:32,900 --> 00:45:34,180
+Rollin' in the deep.
+
+1194
+00:45:34,180 --> 00:45:37,460
+Yeah, they always have a song that's about their push and pull,
+
+1195
+00:45:37,460 --> 00:45:40,020
+like about the torment of the relationship.
+
+1196
+00:45:41,540 --> 00:45:43,700
+A lot of sexual energy there.
+
+1197
+00:45:44,260 --> 00:45:47,460
+Yes, and then 2012 is where the Emperor does-
+
+1198
+00:45:48,420 --> 00:45:50,340
+Do you know 2012's Emperor performance?
+
+1199
+00:45:51,140 --> 00:45:51,640
+Nope.
+
+1200
+00:45:52,020 --> 00:45:54,260
+All right, I'll show it to Scott if he hasn't seen it before.
+
+1201
+00:45:55,460 --> 00:45:56,900
+It's a real sort of fake out.
+
+1202
+00:45:57,700 --> 00:46:02,420
+So they start out with the Justice intro to D-A-N-C-E.
+
+1203
+00:46:02,980 --> 00:46:04,420
+This is the 3D year.
+
+1204
+00:46:04,420 --> 00:46:06,020
+All these songs are very in your face.
+
+1205
+00:46:07,460 --> 00:46:11,940
+So Emperor comes out, he drops his cane, he throws the hood off,
+
+1206
+00:46:11,940 --> 00:46:17,620
+he's got like a bucket hat, and then does Mama Said Knock You Out.
+
+1207
+00:46:19,140 --> 00:46:21,220
+Is this one of the ones that I'm supposed to-
+
+1208
+00:46:21,220 --> 00:46:22,340
+No, no, I don't like this.
+
+1209
+00:46:22,340 --> 00:46:24,100
+I think this one's funny because it's bad.
+
+1210
+00:46:24,100 --> 00:46:28,500
+So there's a difference on my spectrum level of what I like and why I like it.
+
+1211
+00:46:28,500 --> 00:46:29,780
+So this one I think is bad.
+
+1212
+00:46:30,660 --> 00:46:31,160
+But it is-
+
+1213
+00:46:32,500 --> 00:46:34,180
+It's better than the ACDC one.
+
+1214
+00:46:34,180 --> 00:46:36,340
+So they're getting there with the Emperor's thing.
+
+1215
+00:46:36,340 --> 00:46:38,020
+Because you know, they're workshopping this every year.
+
+1216
+00:46:38,820 --> 00:46:41,620
+The end of this year, when they're saying good nights,
+
+1217
+00:46:41,620 --> 00:46:43,780
+they're playing Tonight We Are Young.
+
+1218
+00:46:45,380 --> 00:46:47,940
+Oh, sometimes I get a feeling comes back.
+
+1219
+00:46:47,940 --> 00:46:49,620
+We are young.
+
+1220
+00:46:49,620 --> 00:46:54,580
+One of the years ends with that whatever the fuck song that-
+
+1221
+00:46:54,580 --> 00:46:56,980
+I belong with you, you belong with me.
+
+1222
+00:46:56,980 --> 00:46:58,260
+Oh yeah, The Lumineers.
+
+1223
+00:46:58,260 --> 00:46:58,900
+That's what that is.
+
+1224
+00:46:58,900 --> 00:47:00,180
+That's The Lumineers.
+
+1225
+00:47:00,180 --> 00:47:02,660
+Hey, ho, hey, ho.
+
+1226
+00:47:04,740 --> 00:47:10,020
+But people just put up their lighters for cell phones and just sway earnestly.
+
+1227
+00:47:10,020 --> 00:47:12,420
+And the Star Wars content is kind of done.
+
+1228
+00:47:12,420 --> 00:47:14,580
+People are just earnestly digging that song.
+
+1229
+00:47:15,220 --> 00:47:18,180
+Which I can't understand why you would sit there.
+
+1230
+00:47:19,140 --> 00:47:24,740
+Darth Vader is gone and I'm just going to sway my phone to I belonged with you.
+
+1231
+00:47:24,740 --> 00:47:28,340
+Everyone had an experience together and they're all just sort of celebrating.
+
+1232
+00:47:28,340 --> 00:47:30,180
+They needed to come down together.
+
+1233
+00:47:30,180 --> 00:47:34,340
+This is the finale, after everyone bows at the end of 2012.
+
+1234
+00:47:34,340 --> 00:47:37,940
+This is the one where Darth Maul comes out and dances a little.
+
+1235
+00:47:37,940 --> 00:47:43,220
+And then there's some explosions and people are psyched.
+
+1236
+00:47:43,220 --> 00:47:44,020
+People love it.
+
+1237
+00:47:44,020 --> 00:47:44,580
+People love it.
+
+1238
+00:47:44,580 --> 00:47:45,780
+Okay, so that's 2013.
+
+1239
+00:47:45,780 --> 00:47:52,500
+The final year of this and again, they're hitting their stride hard here.
+
+1240
+00:47:53,700 --> 00:47:55,460
+Let's see, Jason, you have highlights as well?
+
+1241
+00:47:55,460 --> 00:47:55,960
+Yeah.
+
+1242
+00:47:56,420 --> 00:48:03,780
+So 2012 established to not just the Vader throwing down, but 2012 hit the joke about
+
+1243
+00:48:03,780 --> 00:48:05,700
+this show must be over by 8 p.m.
+
+1244
+00:48:05,700 --> 00:48:07,220
+That's when the park closes.
+
+1245
+00:48:07,220 --> 00:48:11,540
+2013 starts off with its own crawl.
+
+1246
+00:48:13,140 --> 00:48:14,580
+An exclusive crawl.
+
+1247
+00:48:14,900 --> 00:48:16,100
+Exclusive crawl.
+
+1248
+00:48:16,100 --> 00:48:17,620
+Exclusive to this show.
+
+1249
+00:48:18,180 --> 00:48:18,900
+Do you have it?
+
+1250
+00:48:19,540 --> 00:48:20,340
+No, I don't have it written down.
+
+1251
+00:48:20,340 --> 00:48:21,380
+I have it transcribed.
+
+1252
+00:48:22,340 --> 00:48:27,140
+Last year, the evil Emperor Palpatine once again crushed the party and tried to destroy
+
+1253
+00:48:27,140 --> 00:48:29,620
+Snegan Upla's hyperspace hoopla.
+
+1254
+00:48:29,620 --> 00:48:35,940
+After quote, bring in the pain, yo, it looked as if it was the end of the hoopla.
+
+1255
+00:48:35,940 --> 00:48:40,740
+With some quick thinking, Upla showed Darth Vader an incriminating video of the emperor
+
+1256
+00:48:40,740 --> 00:48:42,740
+and a Vader punching bag.
+
+1257
+00:48:42,820 --> 00:48:46,180
+Embarrassed, the emperor admitted defeat and made his exit.
+
+1258
+00:48:46,180 --> 00:48:51,140
+As the emperor was about to vow his return, Vader grabbed the emperor and tossed him down
+
+1259
+00:48:51,140 --> 00:48:53,220
+a ridiculously long chasm.
+
+1260
+00:48:53,220 --> 00:48:57,060
+With the emperor gone, peace was once again restored to the galaxy.
+
+1261
+00:48:57,620 --> 00:49:01,860
+So full Star Wars, yellow text, Starfield crawl.
+
+1262
+00:49:01,860 --> 00:49:02,420
+Yeah, fine.
+
+1263
+00:49:02,420 --> 00:49:04,500
+Saying that very long.
+
+1264
+00:49:04,500 --> 00:49:06,580
+Important because if you didn't know the story.
+
+1265
+00:49:06,580 --> 00:49:06,980
+Yes.
+
+1266
+00:49:06,980 --> 00:49:07,540
+Why would they?
+
+1267
+00:49:07,540 --> 00:49:08,340
+Why would they?
+
+1268
+00:49:08,340 --> 00:49:13,060
+Yeah, you wouldn't know what's happening or why Chewie was shaking his butt.
+
+1269
+00:49:14,900 --> 00:49:17,700
+So they, oh, there's a, I wrote on one of this.
+
+1270
+00:49:17,700 --> 00:49:19,300
+So the emperor has a bigger presence.
+
+1271
+00:49:19,300 --> 00:49:20,820
+Is this the year where the emperor takes over?
+
+1272
+00:49:21,380 --> 00:49:23,780
+Yes, this is where it's Palpatine's hoopla.
+
+1273
+00:49:23,780 --> 00:49:29,620
+And he says if I had a dollar for every time Vader threw me down a ridiculously long chasm.
+
+1274
+00:49:29,620 --> 00:49:32,020
+I'd have money for a third Death Star, he says.
+
+1275
+00:49:32,660 --> 00:49:34,260
+And then he says, blinged out.
+
+1276
+00:49:34,260 --> 00:49:42,100
+This is, I'm like, I feel like an alternate title for the film that's coming out this
+
+1277
+00:49:42,100 --> 00:49:46,980
+week or next, I forget when we're putting this up, but the, you could call it episode
+
+1278
+00:49:46,980 --> 00:49:49,380
+nine, uh, Palpatine's hoopla.
+
+1279
+00:49:49,380 --> 00:49:51,380
+Oh, that's good.
+
+1280
+00:49:51,380 --> 00:49:53,060
+He may have a hoopla in the new movie.
+
+1281
+00:49:53,060 --> 00:49:53,860
+We don't know.
+
+1282
+00:49:53,860 --> 00:49:59,060
+They revealed that title at Comic-Con and everybody like, there's just a, like a, like
+
+1283
+00:49:59,060 --> 00:50:00,740
+5,000 people all together go, huh?
+
+1284
+00:50:01,700 --> 00:50:04,900
+Return, Star Wars returned to the fair.
+
+1285
+00:50:04,900 --> 00:50:07,060
+Two people would know it.
+
+1286
+00:50:08,420 --> 00:50:11,780
+It's like, and now it's playing a snaggin' hoopla.
+
+1287
+00:50:12,820 --> 00:50:16,500
+Uh, who are the two most famous actors that are in Star Wars?
+
+1288
+00:50:16,500 --> 00:50:22,340
+The listeners to this might know that, we may already know if hoopla returns for the
+
+1289
+00:50:22,340 --> 00:50:24,340
+final battle of the franchise.
+
+1290
+00:50:24,340 --> 00:50:25,460
+Oh yeah, that's a good point.
+
+1291
+00:50:25,460 --> 00:50:30,580
+I am hoping rise of Skywalker is like the end of the, the Fellini movie eight and a
+
+1292
+00:50:30,580 --> 00:50:34,820
+half, where just all of the characters from the guys life comes back and they all just
+
+1293
+00:50:34,820 --> 00:50:36,820
+kind of walk in a conga line.
+
+1294
+00:50:36,820 --> 00:50:39,460
+I guess essentially that's what the ending of end game is.
+
+1295
+00:50:39,460 --> 00:50:42,820
+So like, why not make it the end of the end of a life aquatic?
+
+1296
+00:50:42,820 --> 00:50:44,500
+Like they all just take a big walk.
+
+1297
+00:50:44,500 --> 00:50:45,540
+Yeah.
+
+1298
+00:50:45,540 --> 00:50:46,340
+Ocean's 11.
+
+1299
+00:50:47,620 --> 00:50:47,940
+Yeah.
+
+1300
+00:50:47,940 --> 00:50:49,540
+This bow.
+
+1301
+00:50:49,540 --> 00:50:50,660
+Everybody takes a walk.
+
+1302
+00:50:51,220 --> 00:50:56,740
+So yeah, we got, uh, Vader and Greedo fight for your right to party.
+
+1303
+00:50:56,740 --> 00:51:01,700
+Uh, stormtroopers play an off key version of the Cantina song and everyone booze.
+
+1304
+00:51:01,700 --> 00:51:05,380
+And then the real Cantina band comes out and shows them how it's done.
+
+1305
+00:51:05,380 --> 00:51:06,180
+Yes.
+
+1306
+00:51:06,180 --> 00:51:10,740
+Uh, then there's, this is another chewy, oh man, we're going to get an ad.
+
+1307
+00:51:10,740 --> 00:51:13,140
+Uh, there's a chewy dance off again.
+
+1308
+00:51:13,140 --> 00:51:15,300
+It's they knew what worked last time.
+
+1309
+00:51:15,300 --> 00:51:20,420
+They went with, uh, uh, another like high energy chewy, uh, dancing.
+
+1310
+00:51:20,420 --> 00:51:21,780
+But it's a different song.
+
+1311
+00:51:21,780 --> 00:51:23,780
+We of course, we're looking at an ad for Richard.
+
+1312
+00:51:23,780 --> 00:51:24,740
+It's an ad for Richard Jule.
+
+1313
+00:51:24,740 --> 00:51:25,140
+Yeah.
+
+1314
+00:51:25,140 --> 00:51:27,380
+I'm looking forward to the, to Julepla.
+
+1315
+00:51:28,660 --> 00:51:29,540
+So here goes.
+
+1316
+00:51:29,540 --> 00:51:30,500
+Richard Julepla.
+
+1317
+00:51:31,860 --> 00:51:35,220
+So chewy dancing to hey, uh, Jason, is this one of your favorite moments from all of this?
+
+1318
+00:51:35,220 --> 00:51:36,580
+I think this is pretty great.
+
+1319
+00:51:36,580 --> 00:51:37,780
+Jason, if you just got missed it.
+
+1320
+00:51:37,780 --> 00:51:40,740
+This song is 10 years old at this point.
+
+1321
+00:51:40,740 --> 00:51:42,820
+Jason had his hands in the air.
+
+1322
+00:51:42,820 --> 00:51:43,620
+You missed it, Scott.
+
+1323
+00:51:44,740 --> 00:51:46,500
+He was celebrating.
+
+1324
+00:51:46,500 --> 00:51:48,980
+He's got a crown on and sunglasses.
+
+1325
+00:51:48,980 --> 00:51:49,540
+It's fun.
+
+1326
+00:51:50,020 --> 00:51:51,460
+Can you recreate that for a video?
+
+1327
+00:51:51,460 --> 00:51:52,180
+Oh yeah.
+
+1328
+00:51:52,180 --> 00:51:52,980
+Great.
+
+1329
+00:51:52,980 --> 00:51:57,380
+Whoever it seems like it might be the same chewy from 2012 and 2013.
+
+1330
+00:51:57,380 --> 00:51:57,940
+Maybe it was same.
+
+1331
+00:51:58,580 --> 00:52:01,780
+And then look at the Scott, the Ewok is playing a guitar with a beret.
+
+1332
+00:52:02,420 --> 00:52:04,340
+You can't be mad at that.
+
+1333
+00:52:04,340 --> 00:52:05,140
+And there's the drum.
+
+1334
+00:52:05,140 --> 00:52:06,820
+There's a stormtrooper helmet drums.
+
+1335
+00:52:07,460 --> 00:52:09,300
+You can't be mad at us at an Ewok.
+
+1336
+00:52:09,300 --> 00:52:12,340
+He's he's all over to the right there and they've cut him out of frame.
+
+1337
+00:52:12,340 --> 00:52:14,100
+I can't be mad.
+
+1338
+00:52:14,100 --> 00:52:15,540
+I'm not mad.
+
+1339
+00:52:15,540 --> 00:52:16,900
+I wouldn't say I'm mad.
+
+1340
+00:52:16,900 --> 00:52:17,400
+No.
+
+1341
+00:52:17,400 --> 00:52:19,140
+Uh, there he is.
+
+1342
+00:52:19,140 --> 00:52:20,260
+He's got a guitar.
+
+1343
+00:52:20,260 --> 00:52:21,780
+He's playing guitar with a beret on.
+
+1344
+00:52:21,780 --> 00:52:23,700
+Oh, here's some beautiful ladies.
+
+1345
+00:52:23,700 --> 00:52:25,220
+The Sphinx.
+
+1346
+00:52:25,220 --> 00:52:26,740
+Uh, Leia and her mother.
+
+1347
+00:52:28,500 --> 00:52:30,340
+In their most sexy modes.
+
+1348
+00:52:30,340 --> 00:52:30,580
+Yes.
+
+1349
+00:52:30,580 --> 00:52:34,660
+When you get together and your sexiest outfit as does your mother.
+
+1350
+00:52:34,660 --> 00:52:36,180
+Now that is a Fellini move.
+
+1351
+00:52:37,300 --> 00:52:40,580
+You and your mother are the same age and you're both very attractive.
+
+1352
+00:52:41,220 --> 00:52:41,380
+Yeah.
+
+1353
+00:52:41,380 --> 00:52:42,500
+And then there's here, you see him?
+
+1354
+00:52:42,500 --> 00:52:44,500
+He's got the beret playing guitar with sunglasses.
+
+1355
+00:52:44,500 --> 00:52:45,140
+He's like that.
+
+1356
+00:52:45,140 --> 00:52:45,460
+Yeah.
+
+1357
+00:52:45,460 --> 00:52:46,020
+Yeah, that's great.
+
+1358
+00:52:46,660 --> 00:52:50,100
+And the Figuring Dan and the modal nodes are all in little hats and they're like up,
+
+1359
+00:52:50,100 --> 00:52:51,940
+up on the stairs there.
+
+1360
+00:52:51,940 --> 00:52:52,820
+Like this, this thing is.
+
+1361
+00:52:52,820 --> 00:52:53,940
+They're blowing it out.
+
+1362
+00:52:53,940 --> 00:52:57,700
+This show is, you know, this is at its peak right here.
+
+1363
+00:52:57,700 --> 00:52:58,260
+OOPLA.
+
+1364
+00:52:58,260 --> 00:53:01,860
+And then this year, right around here, OOPLA says you can't be Sidious.
+
+1365
+00:53:02,820 --> 00:53:03,300
+Right?
+
+1366
+00:53:03,300 --> 00:53:03,540
+Yes.
+
+1367
+00:53:03,540 --> 00:53:04,340
+Like Darth Sidious.
+
+1368
+00:53:04,340 --> 00:53:05,140
+I don't like that.
+
+1369
+00:53:05,140 --> 00:53:06,180
+I don't like as much.
+
+1370
+00:53:06,180 --> 00:53:07,060
+I don't know.
+
+1371
+00:53:07,060 --> 00:53:08,020
+I don't dislike it.
+
+1372
+00:53:08,020 --> 00:53:11,460
+I just don't like it as much as so let me ask, let me guess Jason, what your second,
+
+1373
+00:53:12,100 --> 00:53:16,420
+I'm going to play what I think your second favorite moment is from 2013.
+
+1374
+00:53:17,140 --> 00:53:17,380
+Yeah.
+
+1375
+00:53:18,500 --> 00:53:18,900
+Let me just.
+
+1376
+00:53:19,700 --> 00:53:21,140
+It's kind of tied.
+
+1377
+00:53:21,140 --> 00:53:21,700
+Okay.
+
+1378
+00:53:21,700 --> 00:53:24,100
+It's the smaller number.
+
+1379
+00:53:24,820 --> 00:53:26,660
+Is it involves C3PO?
+
+1380
+00:53:27,540 --> 00:53:29,700
+I forget what the 3PO one is.
+
+1381
+00:53:29,700 --> 00:53:32,740
+C3PO does the Harlem Shake.
+
+1382
+00:53:32,740 --> 00:53:34,260
+Well, that is very good.
+
+1383
+00:53:34,260 --> 00:53:34,500
+Yeah.
+
+1384
+00:53:34,500 --> 00:53:35,300
+If you have that.
+
+1385
+00:53:36,500 --> 00:53:37,940
+Well, if that's not your moment.
+
+1386
+00:53:37,940 --> 00:53:41,300
+I mean, no, see 3PO doing the Harlem Shake, actually the audience,
+
+1387
+00:53:41,300 --> 00:53:44,260
+that is a good example of the audience going crazy.
+
+1388
+00:53:44,260 --> 00:53:48,420
+And that is staged pretty well because he comes out and you think he's kind of stiff,
+
+1389
+00:53:48,420 --> 00:53:49,940
+but then he starts to move.
+
+1390
+00:53:49,940 --> 00:53:50,820
+We don't have to go see.
+
+1391
+00:53:50,820 --> 00:53:52,660
+They built in a little more.
+
+1392
+00:53:52,660 --> 00:53:56,820
+No, my favorite is I think the Jawas and the Tuscan Raiders number.
+
+1393
+00:53:57,940 --> 00:53:59,140
+Here comes 3PO.
+
+1394
+00:54:00,020 --> 00:54:01,140
+This is something different.
+
+1395
+00:54:01,140 --> 00:54:01,700
+I think.
+
+1396
+00:54:01,700 --> 00:54:02,740
+Yeah, this is not the Harlem Shake.
+
+1397
+00:54:02,740 --> 00:54:03,300
+This is not.
+
+1398
+00:54:03,940 --> 00:54:04,660
+I screwed up.
+
+1399
+00:54:04,660 --> 00:54:05,460
+What were you saying, Jason?
+
+1400
+00:54:05,460 --> 00:54:06,100
+Sorry.
+
+1401
+00:54:06,100 --> 00:54:08,660
+Oh, the Jawas and the Tuscan Raiders number.
+
+1402
+00:54:08,660 --> 00:54:09,700
+I think is probably the best.
+
+1403
+00:54:09,700 --> 00:54:10,660
+And what's that song again?
+
+1404
+00:54:11,140 --> 00:54:11,940
+It's Thrift Shop.
+
+1405
+00:54:15,940 --> 00:54:18,820
+It's the scavengers are dancing to Thrift Shop.
+
+1406
+00:54:18,820 --> 00:54:21,060
+I'm so glad it's not 2013 anymore.
+
+1407
+00:54:21,940 --> 00:54:22,740
+No, it is good.
+
+1408
+00:54:22,740 --> 00:54:23,540
+Jason's right.
+
+1409
+00:54:23,540 --> 00:54:25,220
+What is what's is it?
+
+1410
+00:54:25,220 --> 00:54:25,780
+Lobot?
+
+1411
+00:54:25,780 --> 00:54:26,340
+What's his name?
+
+1412
+00:54:26,340 --> 00:54:27,860
+Lobot from the club city.
+
+1413
+00:54:27,860 --> 00:54:28,100
+Yeah.
+
+1414
+00:54:28,100 --> 00:54:29,940
+Unrolls like a DJ booth.
+
+1415
+00:54:29,940 --> 00:54:34,420
+The only way I'd approve is if it was Greedo leading it and they call when he came out,
+
+1416
+00:54:34,420 --> 00:54:35,940
+they called him McClunklemore.
+
+1417
+00:54:35,940 --> 00:54:40,020
+We could write the show in an hour.
+
+1418
+00:54:40,020 --> 00:54:40,660
+The new show.
+
+1419
+00:54:40,660 --> 00:54:41,460
+I know.
+
+1420
+00:54:41,460 --> 00:54:42,340
+3PO coming.
+
+1421
+00:54:42,340 --> 00:54:43,060
+Give us this one.
+
+1422
+00:54:43,060 --> 00:54:44,340
+Give us Bill and Ted.
+
+1423
+00:54:44,340 --> 00:54:46,180
+This is what we're dying to do.
+
+1424
+00:54:46,180 --> 00:54:46,680
+Yeah.
+
+1425
+00:54:49,620 --> 00:54:51,780
+This is one of the lesser parts of it.
+
+1426
+00:54:51,780 --> 00:54:53,220
+I forget this is like a Pink song.
+
+1427
+00:54:54,660 --> 00:54:57,060
+The biggest thing I had was going back and going, what is this song?
+
+1428
+00:54:58,100 --> 00:55:02,260
+Is Pink's song or is this even the same song with that set like so raise your glass.
+
+1429
+00:55:02,260 --> 00:55:05,060
+And then I don't remember what a different sign.
+
+1430
+00:55:05,060 --> 00:55:08,180
+Pink has a blockbuster hit every year.
+
+1431
+00:55:08,180 --> 00:55:08,340
+Yeah.
+
+1432
+00:55:08,340 --> 00:55:13,380
+Pink is for 17 years with like no scandals.
+
+1433
+00:55:13,380 --> 00:55:14,500
+She's got a family.
+
+1434
+00:55:14,500 --> 00:55:15,860
+It's no scandals.
+
+1435
+00:55:16,500 --> 00:55:17,460
+No, there is a profile.
+
+1436
+00:55:18,580 --> 00:55:20,660
+Well, you're like a low key way.
+
+1437
+00:55:20,660 --> 00:55:20,980
+Yes.
+
+1438
+00:55:20,980 --> 00:55:21,480
+Yeah.
+
+1439
+00:55:23,540 --> 00:55:25,460
+So Bounty Hunter's dancing.
+
+1440
+00:55:25,460 --> 00:55:27,540
+Yeah, this is the bounty hunter number song.
+
+1441
+00:55:28,740 --> 00:55:29,540
+This was a big song.
+
+1442
+00:55:30,740 --> 00:55:31,380
+I think so.
+
+1443
+00:55:31,380 --> 00:55:35,860
+And they're doing this sort of swim.
+
+1444
+00:55:35,860 --> 00:55:36,100
+Yeah.
+
+1445
+00:55:36,980 --> 00:55:39,060
+Go to the can you find the Harlem Shake?
+
+1446
+00:55:40,100 --> 00:55:42,100
+You remember what part of the show it is in?
+
+1447
+00:55:43,140 --> 00:55:43,780
+Good time.
+
+1448
+00:55:44,580 --> 00:55:46,740
+This is now in 2013.
+
+1449
+00:55:46,740 --> 00:55:50,660
+You have to remember this isn't what every TV show was always.
+
+1450
+00:55:50,660 --> 00:55:55,300
+It is a good point because this is someone I know and a song I know.
+
+1451
+00:55:55,300 --> 00:55:55,540
+Look.
+
+1452
+00:55:56,100 --> 00:55:56,420
+Yes.
+
+1453
+00:55:57,700 --> 00:56:00,100
+Yeah, I can't find the just from looking at this.
+
+1454
+00:56:01,060 --> 00:56:03,700
+Yeah, this is everyone does Gangnam Style.
+
+1455
+00:56:03,700 --> 00:56:04,820
+This kicks ass.
+
+1456
+00:56:04,820 --> 00:56:06,020
+This is probably the best part.
+
+1457
+00:56:06,020 --> 00:56:07,140
+Kid Fisto.
+
+1458
+00:56:07,140 --> 00:56:09,140
+There are so many characters on stage.
+
+1459
+00:56:09,140 --> 00:56:12,260
+There's two dozen people on stage doing the horsey dance.
+
+1460
+00:56:12,260 --> 00:56:13,540
+The horsey dance.
+
+1461
+00:56:13,540 --> 00:56:17,140
+Well, you also within this have Leia dancing to Gangnam Style,
+
+1462
+00:56:17,140 --> 00:56:22,020
+which is exactly what happens in Nick Weiger's Funny or Die classic Gungan Style.
+
+1463
+00:56:22,020 --> 00:56:22,580
+Gungan Style.
+
+1464
+00:56:22,580 --> 00:56:28,340
+His deconstructionist, his adaptation of Funny or Die, of the internet videos.
+
+1465
+00:56:28,980 --> 00:56:32,580
+Featuring also an amazing performance by Ryan Perez.
+
+1466
+00:56:32,580 --> 00:56:34,980
+It's a very excellent acting performance.
+
+1467
+00:56:34,980 --> 00:56:35,300
+Yes.
+
+1468
+00:56:35,300 --> 00:56:36,980
+Please, if you haven't seen Gungan Style.
+
+1469
+00:56:40,260 --> 00:56:41,220
+The sexy lady.
+
+1470
+00:56:41,220 --> 00:56:41,940
+The sexy Leia.
+
+1471
+00:56:41,940 --> 00:56:42,980
+The sexy Leia.
+
+1472
+00:56:42,980 --> 00:56:44,180
+Weiger changed it too.
+
+1473
+00:56:44,180 --> 00:56:44,660
+Yeah.
+
+1474
+00:56:44,660 --> 00:56:50,260
+What we're watching basically is what Weiger does in the first act of Gungan Style before
+
+1475
+00:56:50,260 --> 00:56:51,140
+it takes the turn.
+
+1476
+00:56:51,140 --> 00:56:51,380
+100%.
+
+1477
+00:56:51,380 --> 00:56:53,780
+He was making earnest type or space.
+
+1478
+00:56:53,780 --> 00:56:56,100
+Once again, let's hear it for Star Wars.
+
+1479
+00:56:56,100 --> 00:56:57,700
+Let's hear it for Star Wars.
+
+1480
+00:56:58,340 --> 00:57:02,820
+They know, all these characters know that what they're doing is Star Wars.
+
+1481
+00:57:02,820 --> 00:57:03,300
+Yes.
+
+1482
+00:57:03,300 --> 00:57:06,820
+In this reality, it was just a whole bunch of Star Wars.
+
+1483
+00:57:06,820 --> 00:57:07,540
+Yeah.
+
+1484
+00:57:07,540 --> 00:57:10,900
+It turns out the true Star Wars were the friends we made along the way.
+
+1485
+00:57:10,900 --> 00:57:13,780
+Are we ready for the last thing or do you have one other one,
+
+1486
+00:57:13,780 --> 00:57:14,500
+Highlight, you want to bring up?
+
+1487
+00:57:14,500 --> 00:57:15,300
+I'm ready.
+
+1488
+00:57:15,300 --> 00:57:16,420
+I know Scott's ready.
+
+1489
+00:57:16,420 --> 00:57:16,980
+Oh, no.
+
+1490
+00:57:17,700 --> 00:57:21,700
+I think the, see, try and find the thrift shops not too far back.
+
+1491
+00:57:23,220 --> 00:57:24,660
+It's going to be hard because I can't.
+
+1492
+00:57:24,660 --> 00:57:26,740
+Let me, I'll pull it up on my iPad.
+
+1493
+00:57:26,740 --> 00:57:30,180
+Jason is going to be like scouring thrift shops for cool clothes.
+
+1494
+00:57:30,180 --> 00:57:32,100
+Jason is insisting on thrift shop.
+
+1495
+00:57:32,100 --> 00:57:35,060
+I wrote just on, I love Kit Fisto doing Gangnam Style.
+
+1496
+00:57:36,260 --> 00:57:37,460
+Darth Malta is too legit.
+
+1497
+00:57:37,460 --> 00:57:38,660
+She was sure putting on a shirt.
+
+1498
+00:57:40,020 --> 00:57:43,300
+Darth Malta is too legit to quit, which is good.
+
+1499
+00:57:43,300 --> 00:57:48,180
+But of course the Emperor Vader throws him down the hole again.
+
+1500
+00:57:48,180 --> 00:57:52,660
+And I'm assuming that would have been like a running joke for years if this had kept
+
+1501
+00:57:52,660 --> 00:57:53,620
+going for years.
+
+1502
+00:57:54,180 --> 00:57:55,940
+I'll tease the end moment right now.
+
+1503
+00:57:55,940 --> 00:57:58,740
+This song is something I had to look up.
+
+1504
+00:57:58,740 --> 00:58:01,620
+Feel this moment Pitbull featuring Christina Aguilera.
+
+1505
+00:58:02,180 --> 00:58:02,660
+Yeah, what?
+
+1506
+00:58:02,660 --> 00:58:03,540
+I don't know.
+
+1507
+00:58:03,540 --> 00:58:04,820
+Which is a huge hit.
+
+1508
+00:58:04,820 --> 00:58:05,380
+A huge hit.
+
+1509
+00:58:05,380 --> 00:58:06,180
+I believe a huge hit.
+
+1510
+00:58:06,180 --> 00:58:07,060
+I've heard it, but I didn't.
+
+1511
+00:58:07,060 --> 00:58:07,860
+I had to look it up.
+
+1512
+00:58:07,860 --> 00:58:11,060
+I had to like Google a couple lyrics that I was hearing.
+
+1513
+00:58:11,700 --> 00:58:12,740
+I think Jason, it's okay.
+
+1514
+00:58:12,740 --> 00:58:16,900
+We're going to post that clip later and I just want to show Scott so we can get to our future.
+
+1515
+00:58:16,900 --> 00:58:22,020
+Thrift shop from the Tuscan Raiders and Jawas and 3PO doing Harlem Shake.
+
+1516
+00:58:22,020 --> 00:58:23,620
+It's a simpler time.
+
+1517
+00:58:23,620 --> 00:58:24,580
+The show ends.
+
+1518
+00:58:25,540 --> 00:58:26,740
+The show ends.
+
+1519
+00:58:28,820 --> 00:58:30,980
+And then there's a little bit of a surprise here.
+
+1520
+00:58:33,060 --> 00:58:34,420
+Oh my god.
+
+1521
+00:58:34,420 --> 00:58:36,580
+It's Mickey Mouse dressed as a Jedi.
+
+1522
+00:58:37,220 --> 00:58:38,100
+Blinking Mickey.
+
+1523
+00:58:38,820 --> 00:58:39,140
+So.
+
+1524
+00:58:39,780 --> 00:58:40,260
+Wait, why?
+
+1525
+00:58:40,260 --> 00:58:40,980
+Hold on.
+
+1526
+00:58:40,980 --> 00:58:41,300
+Hold on.
+
+1527
+00:58:44,180 --> 00:58:45,460
+And now he's dancing.
+
+1528
+00:58:45,460 --> 00:58:46,260
+Right.
+
+1529
+00:58:46,260 --> 00:58:47,540
+The audience loses their mind.
+
+1530
+00:58:47,540 --> 00:58:49,060
+This is not the video.
+
+1531
+00:58:49,060 --> 00:58:49,780
+A different video.
+
+1532
+00:58:49,780 --> 00:58:51,940
+A guy goes, oh my god.
+
+1533
+00:58:51,940 --> 00:58:54,020
+Why would you say oh my god?
+
+1534
+00:58:54,980 --> 00:58:56,020
+Because this has never happened.
+
+1535
+00:58:56,020 --> 00:58:57,300
+Or in Disneyland.
+
+1536
+00:58:57,300 --> 00:58:58,820
+If this happened on the street.
+
+1537
+00:59:00,420 --> 00:59:05,220
+If we were walking around Galaxy's Edge in Batuu and we saw Mickey roaming around in a Jedi
+
+1538
+00:59:05,220 --> 00:59:07,700
+costume, I think we'd all go, hey, sure.
+
+1539
+00:59:07,700 --> 00:59:08,660
+I think we'd all be very excited.
+
+1540
+00:59:08,660 --> 00:59:11,220
+This is like Carson gave the nod.
+
+1541
+00:59:11,220 --> 00:59:15,460
+Mickey wasn't in any of the other years, but he's like the big reveal.
+
+1542
+00:59:15,460 --> 00:59:18,100
+This is like the after the credits Nick Fury scene.
+
+1543
+00:59:18,100 --> 00:59:21,060
+People are worked up in a lather at this point from the show.
+
+1544
+00:59:21,860 --> 00:59:26,260
+If they're going to get even a little bit more of a piece of fun, which is Mickey,
+
+1545
+00:59:26,260 --> 00:59:28,100
+they're going to lose their minds.
+
+1546
+00:59:28,100 --> 00:59:30,740
+So that's why that guy yelled, oh my god.
+
+1547
+00:59:31,540 --> 00:59:32,660
+He was so jacked.
+
+1548
+00:59:33,460 --> 00:59:34,740
+And then Mickey danced.
+
+1549
+00:59:34,740 --> 00:59:36,420
+And then Mickey danced and then that's it.
+
+1550
+00:59:36,420 --> 00:59:37,460
+That was the end of 2013.
+
+1551
+00:59:37,460 --> 00:59:39,700
+And the end of the hyperspace hoopla.
+
+1552
+00:59:39,700 --> 00:59:40,500
+Rest in peace.
+
+1553
+00:59:41,140 --> 00:59:44,660
+Hyperspace hoopla for now at least.
+
+1554
+00:59:45,220 --> 00:59:48,660
+But I think we all independently, we did not agree to do this.
+
+1555
+00:59:48,660 --> 00:59:50,180
+No, we knew this.
+
+1556
+00:59:50,180 --> 00:59:51,460
+I'm glad nobody was left out.
+
+1557
+00:59:51,460 --> 00:59:52,500
+I cannot wait.
+
+1558
+00:59:52,500 --> 00:59:53,620
+Yeah, we did not.
+
+1559
+00:59:53,620 --> 00:59:56,900
+We did not say, hey, we better have some pitches for future hyperspace hoopla.
+
+1560
+00:59:56,900 --> 00:59:57,540
+But obviously.
+
+1561
+00:59:57,540 --> 00:59:58,340
+Yeah.
+
+1562
+00:59:58,340 --> 01:00:03,220
+So I just wrote it in my notes as 2019 hyperspace hoopla.
+
+1563
+01:00:03,220 --> 01:00:04,980
+I think most of mine would work with that.
+
+1564
+01:00:05,620 --> 01:00:07,620
+I was a little more evergreen with my piece.
+
+1565
+01:00:07,620 --> 01:00:08,500
+Okay, sure.
+
+1566
+01:00:08,500 --> 01:00:11,620
+Yeah, well, you know, everybody throw them in as you see fit.
+
+1567
+01:00:12,340 --> 01:00:17,060
+I mean, this isn't like, not to start just with like one we can just agree on.
+
+1568
+01:00:17,060 --> 01:00:22,820
+And it's not the most clever thing, but the Billie Eilish, the bad guy, you know, Captain
+
+1569
+01:00:22,820 --> 01:00:25,060
+Phasma that works with a lot of people.
+
+1570
+01:00:25,060 --> 01:00:28,500
+That's an easy one to plug villainess into.
+
+1571
+01:00:28,500 --> 01:00:29,000
+Sure.
+
+1572
+01:00:30,020 --> 01:00:31,300
+I'm going to start big here.
+
+1573
+01:00:33,300 --> 01:00:36,580
+Somebody's playing Princess Leia, General Leia.
+
+1574
+01:00:37,140 --> 01:00:41,700
+And obviously two stagehands come out, hook wires to her.
+
+1575
+01:00:41,700 --> 01:00:46,340
+She flies across the stage as a medley of Fiverr Fighting Superman
+
+1576
+01:00:46,340 --> 01:00:48,260
+and three doors down Kryptonite plays.
+
+1577
+01:00:48,260 --> 01:00:51,460
+And she supermans around the stage like she does in Last Jedi.
+
+1578
+01:00:52,100 --> 01:00:53,460
+I mean, that's going to bring down the house.
+
+1579
+01:00:53,460 --> 01:00:54,100
+That's great.
+
+1580
+01:00:54,100 --> 01:00:54,600
+Sure.
+
+1581
+01:00:55,380 --> 01:00:59,060
+I went more 2019, like top 40.
+
+1582
+01:01:00,100 --> 01:01:06,180
+Rey comes out with Finn and Poe and she's like pushing each one away to thank you next.
+
+1583
+01:01:07,060 --> 01:01:08,500
+It's the Ariana Grande song.
+
+1584
+01:01:08,500 --> 01:01:09,140
+Thank you.
+
+1585
+01:01:09,140 --> 01:01:15,220
+Well, I also have a thank you next, but it's with Kathleen Kennedy and all the directors.
+
+1586
+01:01:15,220 --> 01:01:16,260
+Oh, that's good.
+
+1587
+01:01:17,140 --> 01:01:17,780
+That's good.
+
+1588
+01:01:20,820 --> 01:01:24,820
+I want to go a little more off the beaten track for the indie rock crowd.
+
+1589
+01:01:25,540 --> 01:01:30,100
+Rose Tico and her late sister come out and dance to a Hame song.
+
+1590
+01:01:31,300 --> 01:01:32,900
+Maybe I want you back.
+
+1591
+01:01:32,900 --> 01:01:33,460
+Sure.
+
+1592
+01:01:33,460 --> 01:01:33,700
+Yeah.
+
+1593
+01:01:33,700 --> 01:01:35,300
+That's really morbid.
+
+1594
+01:01:36,820 --> 01:01:37,620
+This one is dead.
+
+1595
+01:01:37,620 --> 01:01:38,580
+Jesus.
+
+1596
+01:01:38,580 --> 01:01:39,780
+Oh, I didn't even think I was.
+
+1597
+01:01:39,780 --> 01:01:40,280
+She was a bar.
+
+1598
+01:01:42,020 --> 01:01:42,580
+What's the one?
+
+1599
+01:01:42,580 --> 01:01:43,620
+That's going to be sad.
+
+1600
+01:01:44,580 --> 01:01:45,300
+I guess.
+
+1601
+01:01:46,660 --> 01:01:47,780
+Some of them are bittersweet.
+
+1602
+01:01:48,500 --> 01:01:49,940
+The we are young at the end.
+
+1603
+01:01:49,940 --> 01:01:53,940
+Anakin essentially kills Padme and they dance to like womanizer.
+
+1604
+01:01:53,940 --> 01:01:55,300
+She dies of a broken heart.
+
+1605
+01:01:55,300 --> 01:01:56,500
+Yeah. And who caused that?
+
+1606
+01:01:57,380 --> 01:01:57,940
+That's true.
+
+1607
+01:01:57,940 --> 01:01:59,460
+But also maybe she just had a weak heart.
+
+1608
+01:02:00,500 --> 01:02:01,140
+You don't know.
+
+1609
+01:02:01,140 --> 01:02:02,420
+She might have had a condition before.
+
+1610
+01:02:02,420 --> 01:02:05,620
+They just are also by the way, the doctor at the end of the prequels are just like,
+
+1611
+01:02:05,620 --> 01:02:10,420
+yeah, she died of a broken heart or he's like, she just didn't want to live anymore.
+
+1612
+01:02:10,420 --> 01:02:11,540
+And they're like, oh, okay.
+
+1613
+01:02:12,180 --> 01:02:14,500
+Like if that happened now, wouldn't you be like, wait a minute.
+
+1614
+01:02:14,500 --> 01:02:16,900
+That's what happened to R2D2 in Force Awakens.
+
+1615
+01:02:16,900 --> 01:02:17,620
+That is what happened.
+
+1616
+01:02:17,620 --> 01:02:20,660
+He's too sad to do funny things in this movie.
+
+1617
+01:02:22,820 --> 01:02:25,860
+Let me bring it to some some park stuff, some Galaxy's Edge stuff.
+
+1618
+01:02:25,860 --> 01:02:26,500
+Oh yeah.
+
+1619
+01:02:26,500 --> 01:02:27,460
+Hondo? Any Hondo?
+
+1620
+01:02:27,460 --> 01:02:27,860
+I don't.
+
+1621
+01:02:28,420 --> 01:02:32,100
+You know, I don't have a Hondo idea, but actually I don't even know what character to put this with.
+
+1622
+01:02:32,100 --> 01:02:37,780
+But you got to do a Lizzo and they blame it on Moof Juice.
+
+1623
+01:02:37,780 --> 01:02:41,700
+I think that we have to get the Podraisers involved.
+
+1624
+01:02:41,700 --> 01:02:43,780
+We have to get Team Topagaly's involved.
+
+1625
+01:02:43,780 --> 01:02:47,140
+Juan Sandage, Subulba, Little Anakin.
+
+1626
+01:02:47,140 --> 01:02:52,500
+We got to have a child break dancer and they can do a little bit of a medley of like cake,
+
+1627
+01:02:52,500 --> 01:02:55,380
+the distance, Highway to the Danger Zone.
+
+1628
+01:02:55,380 --> 01:03:00,900
+Let's like, let's, you know, we can really any road song, Highway 61 by Bob Dylan.
+
+1629
+01:03:01,780 --> 01:03:03,300
+You got to go for the kit.
+
+1630
+01:03:04,260 --> 01:03:07,220
+So let's update the Run DMC reference.
+
+1631
+01:03:07,220 --> 01:03:10,260
+Let's have Finn and Poe do Run the Jewels.
+
+1632
+01:03:10,260 --> 01:03:11,220
+Okay.
+
+1633
+01:03:11,220 --> 01:03:12,500
+Yeah, yeah, yeah.
+
+1634
+01:03:12,500 --> 01:03:13,060
+Absolutely.
+
+1635
+01:03:13,060 --> 01:03:21,220
+I don't know what song it is, but you get, you know, you, oh, this is a, this could just be with
+
+1636
+01:03:21,220 --> 01:03:22,740
+with actual ships.
+
+1637
+01:03:22,740 --> 01:03:26,580
+It's actual ships and they come out like, but you'd have to build costumes of the ships and
+
+1638
+01:03:26,580 --> 01:03:33,220
+they're or the planes and they're wearing, you know, the, the, the, the, the, the, the, the, the,
+
+1639
+01:03:33,780 --> 01:03:38,180
+you know, like wig, like curly wigs and tassel jackets.
+
+1640
+01:03:38,180 --> 01:03:41,780
+And then you come out and you call them Rebel Van Fleet.
+
+1641
+01:03:43,140 --> 01:03:43,460
+Nice.
+
+1642
+01:03:44,260 --> 01:03:44,740
+Hell yeah.
+
+1643
+01:03:44,740 --> 01:03:45,300
+I like that.
+
+1644
+01:03:45,940 --> 01:03:46,900
+That's good.
+
+1645
+01:03:46,900 --> 01:03:50,420
+Ray and Kylo, Fix You by Coldplay.
+
+1646
+01:03:51,380 --> 01:03:51,940
+Ray wants to fix.
+
+1647
+01:03:51,940 --> 01:03:57,060
+That's their, that's their like song of, you know what, was it, was this, did these years not line
+
+1648
+01:03:57,060 --> 01:04:00,020
+up? How did they not do somebody I used to know?
+
+1649
+01:04:00,980 --> 01:04:01,780
+That's like a guy.
+
+1650
+01:04:01,780 --> 01:04:02,820
+That is shocking.
+
+1651
+01:04:02,980 --> 01:04:05,940
+I didn't see it, but maybe we missed that, but I didn't see it.
+
+1652
+01:04:05,940 --> 01:04:07,540
+My one for that slot.
+
+1653
+01:04:07,540 --> 01:04:09,700
+That's also the Weiger of Batman.
+
+1654
+01:04:09,700 --> 01:04:10,100
+I used to know.
+
+1655
+01:04:10,100 --> 01:04:11,300
+A bad, the other one Batman.
+
+1656
+01:04:11,300 --> 01:04:11,860
+I used to know.
+
+1657
+01:04:11,860 --> 01:04:12,500
+Yeah.
+
+1658
+01:04:12,500 --> 01:04:15,860
+Vader and Padme do Shape of You by Ed Sheeran.
+
+1659
+01:04:16,580 --> 01:04:17,220
+Sure.
+
+1660
+01:04:17,940 --> 01:04:25,060
+Oh, you know, isn't there the current like, wait, is that what's the Kamiya?
+
+1661
+01:04:25,780 --> 01:04:27,140
+The Kamiya Kabeo song.
+
+1662
+01:04:27,780 --> 01:04:28,420
+Yeah, I forget.
+
+1663
+01:04:28,420 --> 01:04:29,620
+There's a duet right now.
+
+1664
+01:04:29,620 --> 01:04:30,100
+Yes.
+
+1665
+01:04:30,100 --> 01:04:31,140
+That'd be the one I'm saying.
+
+1666
+01:04:31,540 --> 01:04:33,620
+Like her boyfriend, not boyfriend.
+
+1667
+01:04:33,620 --> 01:04:34,120
+Yeah.
+
+1668
+01:04:34,420 --> 01:04:34,740
+Yeah.
+
+1669
+01:04:34,740 --> 01:04:35,860
+I just learned.
+
+1670
+01:04:35,860 --> 01:04:38,820
+Han and Kylo, First Cut is the deepest.
+
+1671
+01:04:40,740 --> 01:04:41,220
+That's good.
+
+1672
+01:04:41,940 --> 01:04:43,220
+That's a good reference.
+
+1673
+01:04:43,220 --> 01:04:46,420
+You're sticking with early 2000s with the.
+
+1674
+01:04:46,420 --> 01:04:48,500
+Yeah, it's the cover of First Cut is the deepest.
+
+1675
+01:04:48,500 --> 01:04:48,900
+Yes.
+
+1676
+01:04:48,900 --> 01:04:49,380
+Yeah.
+
+1677
+01:04:49,380 --> 01:04:54,260
+What about our most important 2019 musical dance sensation,
+
+1678
+01:04:54,260 --> 01:04:58,740
+General Leia and Admiral Hodo do the Mayor Pete dance.
+
+1679
+01:05:02,100 --> 01:05:05,940
+I think she was about fucking civility and thinking things through and all that.
+
+1680
+01:05:05,940 --> 01:05:06,340
+Sure, yeah.
+
+1681
+01:05:08,020 --> 01:05:10,980
+Bob Iger and George Lucas, Sorry by Justin Bieber.
+
+1682
+01:05:12,180 --> 01:05:16,900
+George Lucas, of course, famously upset that Bob Iger threw his outlines out that they,
+
+1683
+01:05:16,900 --> 01:05:20,340
+he felt betrayed by Bob Iger and Disney after he sold to them.
+
+1684
+01:05:20,900 --> 01:05:23,860
+So Justin Bieber's, is it too late now to say sorry?
+
+1685
+01:05:25,540 --> 01:05:29,540
+Ivan Iger, Iger and Kathleen Kennedy do Big Banks Hate Lil Banks.
+
+1686
+01:05:30,340 --> 01:05:31,220
+What is that song?
+
+1687
+01:05:31,220 --> 01:05:32,740
+Big Banks Hate Lil Banks.
+
+1688
+01:05:33,300 --> 01:05:34,580
+Big Banks Hate Lil Banks.
+
+1689
+01:05:34,580 --> 01:05:36,980
+This is a radio sensation.
+
+1690
+01:05:36,980 --> 01:05:37,460
+Really?
+
+1691
+01:05:37,460 --> 01:05:37,620
+Yeah.
+
+1692
+01:05:37,620 --> 01:05:39,220
+Jason knows the cool stuff.
+
+1693
+01:05:39,220 --> 01:05:39,620
+So young.
+
+1694
+01:05:39,620 --> 01:05:40,500
+Jason's so young.
+
+1695
+01:05:41,620 --> 01:05:42,900
+This one's omnipresent.
+
+1696
+01:05:43,700 --> 01:05:50,580
+Let me dovetail it into, if you had three younger versions of Hondo Anaka,
+
+1697
+01:05:50,580 --> 01:05:55,620
+like the Onakas brothers and they do Smuggler instead of Sucker.
+
+1698
+01:05:55,620 --> 01:05:56,340
+That's good.
+
+1699
+01:05:56,340 --> 01:05:56,740
+That's good.
+
+1700
+01:05:56,740 --> 01:05:57,460
+I like that.
+
+1701
+01:05:57,460 --> 01:05:58,180
+Yep.
+
+1702
+01:05:58,180 --> 01:06:01,700
+Dexter Jettster, Arlo Guthrie's Alice's Restaurant.
+
+1703
+01:06:04,340 --> 01:06:06,500
+So that's a 19 minute.
+
+1704
+01:06:06,500 --> 01:06:11,540
+19 minute Dexter Jettster, Arlo Guthrie's Alice's Restaurant.
+
+1705
+01:06:11,540 --> 01:06:15,460
+I gotta say, me and my nerd friends in high school thought that song was very funny.
+
+1706
+01:06:15,460 --> 01:06:18,180
+I've always been befuddled by that song.
+
+1707
+01:06:19,620 --> 01:06:20,500
+Look it up everyone.
+
+1708
+01:06:20,500 --> 01:06:21,460
+I'm sure everyone will listen to it.
+
+1709
+01:06:21,460 --> 01:06:23,380
+I think I've avoided it actively.
+
+1710
+01:06:23,380 --> 01:06:23,700
+Yes.
+
+1711
+01:06:24,660 --> 01:06:28,900
+A bunch of rebel pilots do whatever it takes by Imagine Dragons.
+
+1712
+01:06:34,820 --> 01:06:39,380
+If you want to get the song Circles in, I'm just all about amending these names.
+
+1713
+01:06:39,380 --> 01:06:42,660
+You do this song Circles with Post Mandalorian.
+
+1714
+01:06:44,420 --> 01:06:44,980
+That's good.
+
+1715
+01:06:45,940 --> 01:06:47,540
+You're doing more dialogue stuff too.
+
+1716
+01:06:47,540 --> 01:06:50,580
+I mean I want to give Oopla stuff to do.
+
+1717
+01:06:50,980 --> 01:06:56,980
+There's probably R. Kelly obviously is a monster, but Ignition, maybe like when they,
+
+1718
+01:06:56,980 --> 01:07:01,700
+like we're the spark that'll ignite the fire in the alliance.
+
+1719
+01:07:01,700 --> 01:07:02,660
+Firework?
+
+1720
+01:07:02,660 --> 01:07:03,700
+Oh then Firework.
+
+1721
+01:07:03,700 --> 01:07:03,940
+Yeah.
+
+1722
+01:07:03,940 --> 01:07:04,500
+Maybe that's Firework.
+
+1723
+01:07:04,500 --> 01:07:06,020
+That's gotta be in there somewhere.
+
+1724
+01:07:06,020 --> 01:07:10,580
+Portugal the man, feel it still, parentheses rebel just for kicks.
+
+1725
+01:07:10,580 --> 01:07:12,260
+Oh rebel just for kicks man.
+
+1726
+01:07:12,260 --> 01:07:13,140
+Oh that's what that's.
+
+1727
+01:07:13,140 --> 01:07:14,180
+How is that not?
+
+1728
+01:07:14,180 --> 01:07:14,820
+Oh that's good.
+
+1729
+01:07:14,820 --> 01:07:15,860
+It's a bunch of rebel people.
+
+1730
+01:07:15,860 --> 01:07:16,420
+That's good.
+
+1731
+01:07:16,420 --> 01:07:16,980
+Yeah, yeah, yeah.
+
+1732
+01:07:17,620 --> 01:07:18,260
+I have one.
+
+1733
+01:07:18,900 --> 01:07:20,180
+This is a bring down the house.
+
+1734
+01:07:20,980 --> 01:07:25,620
+It's Chewie and Maz Kanata usher make love in this club.
+
+1735
+01:07:26,420 --> 01:07:26,820
+That's good.
+
+1736
+01:07:26,820 --> 01:07:28,980
+Because Maz Kanata is horny for Chewbacca.
+
+1737
+01:07:28,980 --> 01:07:29,700
+Oh yeah.
+
+1738
+01:07:29,700 --> 01:07:33,380
+So there's going to be like they're on stage together and then that starts playing and
+
+1739
+01:07:33,380 --> 01:07:35,140
+it's very, people whoop and holler.
+
+1740
+01:07:35,140 --> 01:07:38,980
+Do you think they'll consummate in this, in episode nine?
+
+1741
+01:07:38,980 --> 01:07:42,500
+JJ has promised a lot of storylines being wrapped up.
+
+1742
+01:07:42,500 --> 01:07:47,060
+So I do think we will see Chewie and Maz Kanata.
+
+1743
+01:07:47,060 --> 01:07:47,220
+Yeah.
+
+1744
+01:07:47,220 --> 01:07:50,020
+In the first Star Wars sex scene ever.
+
+1745
+01:07:51,540 --> 01:07:54,740
+I've got two, I'm stuck, I'm really stuck.
+
+1746
+01:07:54,740 --> 01:07:54,980
+Sure.
+
+1747
+01:07:56,420 --> 01:07:59,700
+This is for obviously for the Mandalorian and Baby Yoda.
+
+1748
+01:07:59,700 --> 01:08:01,700
+Yeah we don't got Baby Yoda covered yet.
+
+1749
+01:08:02,500 --> 01:08:08,020
+The given, the big crowd pleaser would be Old Town Road.
+
+1750
+01:08:08,740 --> 01:08:10,980
+Ah yeah sure.
+
+1751
+01:08:10,980 --> 01:08:12,980
+But I think the better song.
+
+1752
+01:08:12,980 --> 01:08:14,260
+When they're like on the road.
+
+1753
+01:08:14,260 --> 01:08:15,380
+They're on the road.
+
+1754
+01:08:15,860 --> 01:08:18,580
+They're sort of not, they're like a surprising match.
+
+1755
+01:08:19,460 --> 01:08:24,260
+That's why I think the better song though is Kenny Chesney's Get Along.
+
+1756
+01:08:24,820 --> 01:08:28,660
+Because the first lyrics get along, get along, get along.
+
+1757
+01:08:28,660 --> 01:08:30,980
+We got a long, long way to go.
+
+1758
+01:08:31,620 --> 01:08:33,140
+And so I feel like.
+
+1759
+01:08:33,140 --> 01:08:35,300
+But is that going to bring down the house?
+
+1760
+01:08:35,300 --> 01:08:36,340
+I think that.
+
+1761
+01:08:36,340 --> 01:08:38,500
+Old Town Road is very big.
+
+1762
+01:08:38,500 --> 01:08:41,780
+Old Town Road I think is probably the bigger.
+
+1763
+01:08:41,780 --> 01:08:46,900
+And there's probably some intermingling of Baby Yoda and Baby Shark.
+
+1764
+01:08:47,620 --> 01:08:48,420
+Oh yeah.
+
+1765
+01:08:48,420 --> 01:08:48,740
+Yes.
+
+1766
+01:08:48,740 --> 01:08:49,700
+I'm not sure what it is.
+
+1767
+01:08:49,700 --> 01:08:52,100
+I think you can give Baby Yoda multiple things to do.
+
+1768
+01:08:53,540 --> 01:08:56,660
+In fact alternate version, it could be the the Yodas Brothers.
+
+1769
+01:08:57,540 --> 01:09:00,420
+And he wants to suffer like a pacifier.
+
+1770
+01:09:01,220 --> 01:09:01,780
+That's good.
+
+1771
+01:09:03,060 --> 01:09:04,820
+Yeah Old Town Road have to be in.
+
+1772
+01:09:04,820 --> 01:09:06,340
+I think that's the closer.
+
+1773
+01:09:06,340 --> 01:09:08,900
+It's good to know what you're building too.
+
+1774
+01:09:08,900 --> 01:09:09,940
+It's definitely the closer.
+
+1775
+01:09:11,780 --> 01:09:12,740
+Yeah do you have any?
+
+1776
+01:09:12,740 --> 01:09:13,860
+I'm out of my.
+
+1777
+01:09:13,860 --> 01:09:14,900
+I think I'm out.
+
+1778
+01:09:16,340 --> 01:09:16,980
+Yeah.
+
+1779
+01:09:16,980 --> 01:09:18,740
+I mean I was very satisfied.
+
+1780
+01:09:18,740 --> 01:09:21,380
+That was a real pleasure to come up with new ones.
+
+1781
+01:09:21,380 --> 01:09:25,860
+I would love to be take some meetings and be involved in bringing this back.
+
+1782
+01:09:25,860 --> 01:09:26,740
+Take some meetings.
+
+1783
+01:09:26,740 --> 01:09:27,620
+Take some meetings.
+
+1784
+01:09:27,620 --> 01:09:31,940
+Well as Star Wars is allowed to be fun again, yeah.
+
+1785
+01:09:31,940 --> 01:09:32,180
+Yeah.
+
+1786
+01:09:32,180 --> 01:09:34,500
+It's time.
+
+1787
+01:09:34,500 --> 01:09:39,220
+I mean that they have to know also that that Old Town Road lip sync.
+
+1788
+01:09:39,860 --> 01:09:43,220
+You're talking 12 million views on YouTube.
+
+1789
+01:09:43,220 --> 01:09:43,460
+Yeah.
+
+1790
+01:09:44,660 --> 01:09:50,100
+I mean they want, they're looking for things to absorb crowds and move crowds elsewhere.
+
+1791
+01:09:50,100 --> 01:09:54,020
+So I understand maybe it's not, it doesn't like Star Wars is only in Disneyland,
+
+1792
+01:09:54,020 --> 01:09:56,340
+but move put this somewhere else you know.
+
+1793
+01:09:57,060 --> 01:09:57,540
+Why not?
+
+1794
+01:09:58,100 --> 01:09:58,740
+Like tour it.
+
+1795
+01:10:01,060 --> 01:10:03,140
+Yeah do 12 nights at the Stable Center.
+
+1796
+01:10:03,140 --> 01:10:03,380
+Yeah.
+
+1797
+01:10:03,380 --> 01:10:04,500
+They do Disney on ice.
+
+1798
+01:10:05,060 --> 01:10:06,420
+Hyperspace Hoopla on ice.
+
+1799
+01:10:07,140 --> 01:10:07,460
+Sure.
+
+1800
+01:10:07,940 --> 01:10:08,660
+Yeah.
+
+1801
+01:10:08,660 --> 01:10:10,020
+Yeah you maybe kind of limit.
+
+1802
+01:10:10,020 --> 01:10:11,940
+Some of those things are hard to do.
+
+1803
+01:10:11,940 --> 01:10:12,340
+Yeah that's true.
+
+1804
+01:10:12,340 --> 01:10:17,860
+Although we watched, I guess we watched ice skaters do Gangnam Style at Knott's Berry
+
+1805
+01:10:17,860 --> 01:10:19,380
+for a long time ago.
+
+1806
+01:10:19,380 --> 01:10:20,020
+Do a club.
+
+1807
+01:10:20,020 --> 01:10:21,140
+The step is hard but.
+
+1808
+01:10:21,780 --> 01:10:24,500
+Snoopy on ice skates did Gangnam Style.
+
+1809
+01:10:24,500 --> 01:10:24,900
+Yeah.
+
+1810
+01:10:24,900 --> 01:10:25,460
+Yeah.
+
+1811
+01:10:25,460 --> 01:10:26,580
+So if he can do it.
+
+1812
+01:10:26,580 --> 01:10:27,300
+If he can do it.
+
+1813
+01:10:28,100 --> 01:10:29,060
+Well maybe you're right.
+
+1814
+01:10:29,060 --> 01:10:30,100
+Maybe it's a club tour.
+
+1815
+01:10:30,100 --> 01:10:31,940
+Maybe it's just a smaller venue.
+
+1816
+01:10:31,940 --> 01:10:32,980
+More intimate.
+
+1817
+01:10:32,980 --> 01:10:33,460
+Intimate.
+
+1818
+01:10:34,180 --> 01:10:35,220
+You get involved.
+
+1819
+01:10:35,220 --> 01:10:35,700
+Largo.
+
+1820
+01:10:36,340 --> 01:10:36,900
+It's a Largo show.
+
+1821
+01:10:36,900 --> 01:10:38,820
+Yeah it's a Largo acoustic show.
+
+1822
+01:10:38,820 --> 01:10:41,220
+You know it's just John Mayer and a guitar.
+
+1823
+01:10:41,220 --> 01:10:43,300
+It's not John Mayer and Dead and Friends.
+
+1824
+01:10:43,300 --> 01:10:43,460
+You know.
+
+1825
+01:10:43,460 --> 01:10:44,580
+Amy Mann is there.
+
+1826
+01:10:45,700 --> 01:10:45,780
+Yeah.
+
+1827
+01:10:45,780 --> 01:10:46,820
+Paul F. Tompkins.
+
+1828
+01:10:46,820 --> 01:10:47,140
+Sure.
+
+1829
+01:10:47,140 --> 01:10:48,260
+Everybody would want to.
+
+1830
+01:10:48,260 --> 01:10:49,220
+And Kit Fisko.
+
+1831
+01:10:49,220 --> 01:10:51,940
+It's Amy Mann, Paul F. Tompkins, Kit Fisko.
+
+1832
+01:10:51,940 --> 01:10:52,980
+John Bryan.
+
+1833
+01:10:52,980 --> 01:10:53,060
+John Bryan.
+
+1834
+01:10:53,060 --> 01:10:55,380
+A surprise appearance from John Bryan.
+
+1835
+01:10:56,580 --> 01:10:56,820
+Yeah.
+
+1836
+01:10:57,540 --> 01:10:58,100
+No way.
+
+1837
+01:10:58,740 --> 01:11:00,100
+Look this has to come back.
+
+1838
+01:11:00,100 --> 01:11:03,700
+So please if you work in Disney just please.
+
+1839
+01:11:03,700 --> 01:11:04,500
+Yeah we can scale.
+
+1840
+01:11:04,500 --> 01:11:06,500
+We've proved we can scale it for any venue.
+
+1841
+01:11:07,300 --> 01:11:09,060
+Yeah we'll make it work for whoever wants it.
+
+1842
+01:11:09,060 --> 01:11:10,180
+And whichever characters.
+
+1843
+01:11:11,380 --> 01:11:12,420
+Doesn't matter.
+
+1844
+01:11:12,420 --> 01:11:12,820
+Great.
+
+1845
+01:11:12,820 --> 01:11:14,900
+Well so we'll see you in 2020.
+
+1846
+01:11:14,900 --> 01:11:19,300
+This is a good like sort of let's like plant this seed and then hopefully
+
+1847
+01:11:20,420 --> 01:11:24,020
+at the end of the year we're I don't know when the weekends happen.
+
+1848
+01:11:24,020 --> 01:11:25,540
+I say the end of 2020.
+
+1849
+01:11:25,540 --> 01:11:26,020
+I don't know.
+
+1850
+01:11:26,020 --> 01:11:28,020
+When is Star Wars weekends?
+
+1851
+01:11:28,740 --> 01:11:30,980
+I don't know if they're doing it anymore though.
+
+1852
+01:11:30,980 --> 01:11:31,620
+Oh really?
+
+1853
+01:11:31,620 --> 01:11:32,260
+I thought they were.
+
+1854
+01:11:32,260 --> 01:11:33,220
+All things done?
+
+1855
+01:11:33,220 --> 01:11:34,740
+No they have like a whole little.
+
+1856
+01:11:34,740 --> 01:11:35,220
+I'm pretty sure.
+
+1857
+01:11:35,300 --> 01:11:36,500
+It's just different.
+
+1858
+01:11:36,500 --> 01:11:38,260
+What's that convention they do?
+
+1859
+01:11:39,060 --> 01:11:41,940
+Oh well that's just like their Star Wars D23 thing.
+
+1860
+01:11:41,940 --> 01:11:42,740
+Yeah.
+
+1861
+01:11:42,740 --> 01:11:44,260
+Star Wars weekends.
+
+1862
+01:11:44,260 --> 01:11:46,580
+Yeah I guess I guess they sort of they do a different thing.
+
+1863
+01:11:46,580 --> 01:11:50,420
+I don't think they call it Star Wars weekends anymore but it's they still do like a fan thing.
+
+1864
+01:11:51,380 --> 01:11:56,020
+Whenever it is just when we're like you know so in the thick of it and like running like okay
+
+1865
+01:11:56,020 --> 01:12:02,740
+we got to do it again okay Yoda Mandalorian back on her ones and we're stressed out about it and
+
+1866
+01:12:02,740 --> 01:12:07,780
+then I'll turn to you guys and go remember when this was now the stress is eating us alive but
+
+1867
+01:12:07,780 --> 01:12:12,100
+this was like what we dreamed of months ago on the podcast and now we're here.
+
+1868
+01:12:12,100 --> 01:12:14,260
+We're on the big stage and we're doing it.
+
+1869
+01:12:14,260 --> 01:12:16,660
+You have to reset our thinking about it.
+
+1870
+01:12:16,660 --> 01:12:18,180
+Got the rancor in the back.
+
+1871
+01:12:18,180 --> 01:12:19,700
+Lanspeeder is attached.
+
+1872
+01:12:19,700 --> 01:12:24,660
+Jason has a figure in Dan head that he's about to put on
+
+1873
+01:12:25,540 --> 01:12:27,220
+because he's about to play figure in Dan.
+
+1874
+01:12:27,780 --> 01:12:28,280
+Yeah.
+
+1875
+01:12:29,060 --> 01:12:30,420
+He's getting his legs warmed up.
+
+1876
+01:12:30,420 --> 01:12:42,740
+Lando and L3-37 are gearing up for their romantic duet and they and like yeah like they're
+
+1877
+01:12:42,740 --> 01:12:47,300
+they're practicing like getting all up on each other and we're going like we made this happen.
+
+1878
+01:12:47,300 --> 01:12:49,220
+Yeah all of me right.
+
+1879
+01:12:53,860 --> 01:12:57,060
+The Leia thing too with the wire work I was thinking was going to be kind of a slower thing
+
+1880
+01:12:57,060 --> 01:12:59,780
+so she could do Cirque du Soleil stuff while she's up in the air flying.
+
+1881
+01:12:59,780 --> 01:13:00,980
+Oh that's good Superman.
+
+1882
+01:13:00,980 --> 01:13:01,480
+Yeah.
+
+1883
+01:13:01,780 --> 01:13:03,300
+So yeah.
+
+1884
+01:13:03,300 --> 01:13:03,800
+Great.
+
+1885
+01:13:04,420 --> 01:13:04,920
+Anyway.
+
+1886
+01:13:05,300 --> 01:13:05,860
+We'll be there.
+
+1887
+01:13:05,860 --> 01:13:06,740
+We'll see you there.
+
+1888
+01:13:06,740 --> 01:13:07,380
+Wave to us.
+
+1889
+01:13:08,740 --> 01:13:13,540
+Yeah hey keep keep listening to we got we got a little more coming this month for
+
+1890
+01:13:14,260 --> 01:13:18,580
+podcast read the second gate stay tuned lots of fun coming in 2020.
+
+1891
+01:13:20,260 --> 01:13:21,220
+That'll do it.
+
+1892
+01:13:21,220 --> 01:13:24,580
+And enjoy your new year doing the Harlem Shake.
+
+1893
+01:13:25,460 --> 01:13:26,580
+As you do every year.
+
+1894
+01:13:26,580 --> 01:13:28,580
+As I do every day.
+
+1895
+01:13:29,540 --> 01:13:32,340
+Or right at midnight we do the Harlem.
+
+1896
+01:13:33,620 --> 01:13:38,420
+I would like to promise the listener that I will try to find a video of you doing Gangnam Style
+
+1897
+01:13:38,420 --> 01:13:43,220
+because I have it I have a video of it from you you started doing it like three years after it was
+
+1898
+01:13:43,220 --> 01:13:46,500
+out so I will try to find it and post it for the news.
+
+1899
+01:13:46,500 --> 01:13:49,860
+I was like well this is how it goes and you're like that's not what it looks like.
+
+1900
+01:13:50,500 --> 01:13:52,420
+I was like no this is how you do it.
+
+1901
+01:13:53,060 --> 01:13:55,140
+I'll try to find it I think I have it somewhere.
+
+1902
+01:13:55,140 --> 01:13:56,420
+All right goodbye.
+
+1903
+01:13:56,420 --> 01:13:57,940
+Bye bye.
+
+1904
+01:13:58,580 --> 01:13:58,699
+you
+

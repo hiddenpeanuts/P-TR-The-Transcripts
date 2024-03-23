@@ -1,0 +1,5232 @@
+1
+00:00:00,000 --> 00:00:01,000
+Forever.
+
+2
+00:00:01,000 --> 00:00:02,000
+Dog.
+
+3
+00:00:02,000 --> 00:00:12,820
+Warning, the following podcasts may contain live notes, large steel orders, an inside reference
+
+4
+00:00:12,820 --> 00:00:17,740
+made canon, and just the right amount of bananas to be funny.
+
+5
+00:00:17,740 --> 00:00:22,620
+All this plus Evan Susser and Van Robichaud return to talk about their work developing
+
+6
+00:00:22,620 --> 00:00:29,060
+Universal Studios' new ride, Illumination's VillainCon Minion Blast.
+
+7
+00:00:29,060 --> 00:00:52,600
+On today's podcast, The Ride.
+
+8
+00:00:52,600 --> 00:00:57,860
+Welcome to Podcast The Ride, a podcast about theme parks where today we finally interrogate
+
+9
+00:00:58,020 --> 00:01:01,500
+the bastards who dared replace Shrek 4D.
+
+10
+00:01:01,500 --> 00:01:06,180
+I'm Scott Gardner, barely keeping it together in front of these fools, but at least we're
+
+11
+00:01:06,180 --> 00:01:07,660
+here, we're here with a purpose for them.
+
+12
+00:01:07,660 --> 00:01:08,820
+Mike Carlson, what do you think?
+
+13
+00:01:08,820 --> 00:01:12,620
+I'm here, I'm clenching my fists, just I want to hit somebody.
+
+14
+00:01:12,620 --> 00:01:16,660
+We trapped them, we've been all nice leading up to this, but now we get to let it all out.
+
+15
+00:01:16,660 --> 00:01:17,660
+Jason Sheridan.
+
+16
+00:01:17,660 --> 00:01:20,660
+I can't even look at them.
+
+17
+00:01:20,660 --> 00:01:24,260
+Even though I very much enjoyed this new attraction.
+
+18
+00:01:24,260 --> 00:01:25,260
+It doesn't matter.
+
+19
+00:01:25,660 --> 00:01:29,340
+An American classic went away for it.
+
+20
+00:01:29,340 --> 00:01:31,980
+I guess I'll give an actual introduction.
+
+21
+00:01:31,980 --> 00:01:35,020
+We can go backwards and make you guys villains again if you want.
+
+22
+00:01:35,020 --> 00:01:38,780
+But genuinely, been looking forward to this episode for a long time.
+
+23
+00:01:38,780 --> 00:01:39,780
+You know what?
+
+24
+00:01:39,780 --> 00:01:45,180
+I feel like a lot of guests on this show, people we have on the show are funny friends,
+
+25
+00:01:45,180 --> 00:01:48,820
+people from the world of comedy, but I think there's a kind of guest we'd like to have
+
+26
+00:01:48,820 --> 00:01:54,060
+more which is the people who actually work on the attractions who put these things together.
+
+27
+00:01:54,060 --> 00:02:00,740
+And today, these guest categories have finally merged and we're so excited to have you guys
+
+28
+00:02:00,740 --> 00:02:01,740
+together.
+
+29
+00:02:01,740 --> 00:02:05,980
+They wrote for Brooklyn Nine-Nine, they wrote the feature film Fist Fight, and most importantly
+
+30
+00:02:05,980 --> 00:02:11,660
+today, writers of Illumination's villain con minion blast, Evan Susser and Van Roba show.
+
+31
+00:02:11,660 --> 00:02:12,660
+Hello, folks.
+
+32
+00:02:12,660 --> 00:02:13,660
+Hey, how's it going?
+
+33
+00:02:13,660 --> 00:02:14,660
+Good to be here.
+
+34
+00:02:14,660 --> 00:02:19,660
+It's all smooth since you became a quiet storm show.
+
+35
+00:02:20,260 --> 00:02:23,260
+We're in a theme park celebrities these days.
+
+36
+00:02:23,260 --> 00:02:26,700
+You gotta regulate the energy.
+
+37
+00:02:26,700 --> 00:02:32,180
+I was a little nervous you guys would be honest about the Shrek 4D of it all, but I do want
+
+38
+00:02:32,180 --> 00:02:39,180
+to say I consider this all delayed revenge against Shrek 4D for taking out Alfred Hitchcock.
+
+39
+00:02:39,180 --> 00:02:41,180
+Amen, bro.
+
+40
+00:02:41,180 --> 00:02:46,420
+So you as a child, or I don't know when it happened, a teen, I forget when the change
+
+41
+00:02:46,420 --> 00:02:47,420
+occurred.
+
+42
+00:02:47,420 --> 00:02:51,940
+You were like waiting, somebody needs to take a shot and that's gotta be me.
+
+43
+00:02:51,940 --> 00:02:52,940
+But anyway, go on.
+
+44
+00:02:52,940 --> 00:02:53,940
+Okay, sure.
+
+45
+00:02:53,940 --> 00:02:57,540
+I know we didn't just talk about it.
+
+46
+00:02:57,540 --> 00:02:59,020
+That was a last year thing, right?
+
+47
+00:02:59,020 --> 00:03:01,660
+So I don't know the timeline.
+
+48
+00:03:01,660 --> 00:03:05,540
+Well congratulations, you slayed the beast.
+
+49
+00:03:05,540 --> 00:03:10,860
+The Alfred Hitchcock experience had a great rear window section where they had little
+
+50
+00:03:10,860 --> 00:03:11,860
+screens.
+
+51
+00:03:11,860 --> 00:03:12,860
+Yes.
+
+52
+00:03:13,300 --> 00:03:16,540
+You could look through binoculars.
+
+53
+00:03:16,540 --> 00:03:20,860
+From across the way, the optimal place to do it was raised up on the second level.
+
+54
+00:03:20,860 --> 00:03:23,340
+I'm a big fan of that, very formative in my mind.
+
+55
+00:03:23,340 --> 00:03:28,700
+Like a perv simulation where you could be a pervert like Alfred was.
+
+56
+00:03:28,700 --> 00:03:33,720
+I was a very excited seven or eight year old trying to find the murderer and I'm like that's
+
+57
+00:03:33,720 --> 00:03:36,780
+just a lady undressing, where is the crime?
+
+58
+00:03:36,780 --> 00:03:38,500
+I've gotta keep sweeping.
+
+59
+00:03:38,500 --> 00:03:39,780
+You were upset.
+
+60
+00:03:39,780 --> 00:03:42,700
+No interest in that.
+
+61
+00:03:43,540 --> 00:03:49,140
+I was just gonna say it's exciting to be here in all the time that we were working on the
+
+62
+00:03:49,140 --> 00:03:55,740
+ride, thinking about how is it going to be enjoyed by the podcast The Ride Crew?
+
+63
+00:03:55,740 --> 00:03:58,420
+All of the things that you guys discuss each week.
+
+64
+00:03:58,420 --> 00:04:04,140
+I was imagining waking up at night saying, oh no, what are they gonna say?
+
+65
+00:04:04,140 --> 00:04:06,140
+How are they gonna say, how are they gonna bless it up?
+
+66
+00:04:06,140 --> 00:04:09,700
+Are we blessing it up how they wanted it to be blessed up?
+
+67
+00:04:09,700 --> 00:04:12,540
+Do they want to burn it to the ground for insurance money, a premise they haven't said
+
+68
+00:04:12,540 --> 00:04:15,540
+in many years?
+
+69
+00:04:15,540 --> 00:04:22,420
+No seriously, I think that it was a true thrill and it's exciting to be talking about it with
+
+70
+00:04:22,420 --> 00:04:23,420
+you guys.
+
+71
+00:04:23,420 --> 00:04:24,420
+Yeah, jeez.
+
+72
+00:04:24,420 --> 00:04:27,740
+I've really been looking forward to it for a long time, to finally triangulate all this
+
+73
+00:04:27,740 --> 00:04:30,700
+and to get down there and experience it.
+
+74
+00:04:30,700 --> 00:04:34,700
+We weren't immediately on the ball, but this hasn't been open for too long.
+
+75
+00:04:34,700 --> 00:04:35,700
+This opened in August.
+
+76
+00:04:36,700 --> 00:04:42,380
+We did a soft opening in August and then it's been open now for a few months.
+
+77
+00:04:42,380 --> 00:04:46,540
+It's great, you guys are pretty good, pretty on the ball as far as getting down there,
+
+78
+00:04:46,540 --> 00:04:48,660
+organizing a whole Orlando trip just to do it.
+
+79
+00:04:48,660 --> 00:04:50,980
+I myself have not been since it's open.
+
+80
+00:04:50,980 --> 00:04:56,140
+I was there pre-open when it was up and running, but not open to the public yet.
+
+81
+00:04:56,140 --> 00:04:59,780
+But I've never ridden it with a live audience or anything like that.
+
+82
+00:04:59,780 --> 00:05:02,060
+So you guys are ahead of me.
+
+83
+00:05:02,060 --> 00:05:03,620
+I think they're loving it.
+
+84
+00:05:03,620 --> 00:05:06,140
+I sensed good vibes.
+
+85
+00:05:06,140 --> 00:05:10,220
+No one was revolting or putting their guns down and looking at their phone.
+
+86
+00:05:10,220 --> 00:05:11,860
+I felt a lot of engagement.
+
+87
+00:05:11,860 --> 00:05:16,460
+Yeah, I mean there's so much to ask you guys about.
+
+88
+00:05:16,460 --> 00:05:23,700
+I don't like, should we just go back to the beginning, which I guess in this case is that
+
+89
+00:05:23,700 --> 00:05:29,500
+you've been, you've done stuff with illumination for a long time now.
+
+90
+00:05:29,500 --> 00:05:35,100
+So you've been in their world and in Minion World specifically.
+
+91
+00:05:35,100 --> 00:05:36,100
+Was that the beginning?
+
+92
+00:05:36,100 --> 00:05:41,300
+I know there's been shorts, there's been ads, I forget your entire Union filmography.
+
+93
+00:05:41,300 --> 00:05:49,100
+Our illumination experience has started with working on a Minions short called Minions
+
+94
+00:05:49,100 --> 00:05:50,100
+Scouts.
+
+95
+00:05:50,100 --> 00:05:56,300
+It's available on Netflix under the Minions and More Volume 1 compilation.
+
+96
+00:05:56,300 --> 00:05:59,500
+Which weirdly has Shrek 4D on it too, just to pad it out.
+
+97
+00:05:59,500 --> 00:06:04,060
+It's one of the and mores, sure.
+
+98
+00:06:04,060 --> 00:06:10,420
+And then we did some commercials for them featuring the Minions.
+
+99
+00:06:10,420 --> 00:06:18,300
+We worked on an aborted Super Bowl halftime commercial for Minions 2, The Rise of Gru,
+
+100
+00:06:18,300 --> 00:06:21,220
+that did not come to fruition.
+
+101
+00:06:21,220 --> 00:06:25,860
+No fault of ours, I hope.
+
+102
+00:06:26,860 --> 00:06:33,540
+And then we got an email about, it was kind of not specific, and said, oh they have people
+
+103
+00:06:33,540 --> 00:06:37,660
+at illumination have another thing, would you be interested in talking?
+
+104
+00:06:37,660 --> 00:06:42,420
+And assuming, oh maybe it's another short, maybe it's a commercial, didn't know.
+
+105
+00:06:42,420 --> 00:06:48,300
+And then we heard Theme Park Ride and our eyes lit up because it seemed exciting.
+
+106
+00:06:48,300 --> 00:06:54,700
+And initially, Van, maybe you will, my kind of understanding was that we were being brought
+
+107
+00:06:54,700 --> 00:07:00,860
+on specifically just to do kind of the pre-show video that you would watch.
+
+108
+00:07:00,860 --> 00:07:06,180
+And through kind of elbowing our way in, we managed to ride this thing all the way through
+
+109
+00:07:06,180 --> 00:07:14,100
+and become a part of both the entire ride and also the Minion Cafe and the whole thing.
+
+110
+00:07:14,100 --> 00:07:19,460
+Which was a really fun experience as far as people who grew up going to Theme Parks.
+
+111
+00:07:19,460 --> 00:07:24,340
+Yeah, both big fans, not even just people we've had on the show because we know you.
+
+112
+00:07:24,340 --> 00:07:29,900
+You're both a big theme park people and Van like an old Epcot head, I feel.
+
+113
+00:07:29,900 --> 00:07:31,420
+And universal, clearly.
+
+114
+00:07:31,420 --> 00:07:33,460
+No, yeah, I jumped at the opportunity.
+
+115
+00:07:33,460 --> 00:07:36,780
+Look, I'm going to back up a little bit just to give the real behind the scenes and tell
+
+116
+00:07:36,780 --> 00:07:41,660
+just the shortest version of the real story, so to speak.
+
+117
+00:07:41,660 --> 00:07:42,660
+Oh wow.
+
+118
+00:07:42,660 --> 00:07:43,660
+Evan's lies.
+
+119
+00:07:43,660 --> 00:07:51,980
+Evan and I, we've been a long time writing team, but a few years ago, we started to have
+
+120
+00:07:52,460 --> 00:07:56,360
+interests that diverged a little bit and we actually decided that we were going to go
+
+121
+00:07:56,360 --> 00:08:01,100
+our separate ways and start working on projects separately.
+
+122
+00:08:01,100 --> 00:08:06,060
+And we sent out an email to a lot of our contacts and people we'd been working with on projects
+
+123
+00:08:06,060 --> 00:08:09,060
+to explain this all to them, explain it was very amicable and that there were a few things
+
+124
+00:08:09,060 --> 00:08:10,300
+we're going to still work on together.
+
+125
+00:08:10,300 --> 00:08:16,900
+But moving forward, you kind of got to pick one or the other sort of a situation.
+
+126
+00:08:16,900 --> 00:08:21,060
+And the next day, one of the people we sent that email to was a person from Illumination
+
+127
+00:08:21,100 --> 00:08:28,100
+who emailed back about this project and very clearly had not read the emails from us saying
+
+128
+00:08:28,100 --> 00:08:30,100
+we were no longer working together.
+
+129
+00:08:30,100 --> 00:08:31,100
+Just a slight correction.
+
+130
+00:08:31,100 --> 00:08:35,460
+I don't think it was an email back, but it was an email basically sent the next day to
+
+131
+00:08:35,460 --> 00:08:40,020
+us, seemingly maybe inspired by the email, but clearly not read.
+
+132
+00:08:40,020 --> 00:08:42,980
+Inspired by seeing your names in an inbox.
+
+133
+00:08:42,980 --> 00:08:48,780
+And so we looked at each other and at the time it was, I think, proposed as like an
+
+134
+00:08:48,780 --> 00:08:50,380
+eight week job.
+
+135
+00:08:50,380 --> 00:08:55,140
+So then even before having the initial phone call, we had a discussion of like, well.
+
+136
+00:08:55,140 --> 00:08:57,420
+They were being very mysterious about what it even was.
+
+137
+00:08:57,420 --> 00:08:59,900
+And we were, and in the past we'd had good experiences.
+
+138
+00:08:59,900 --> 00:09:03,180
+And we said, ah, you know what, why not?
+
+139
+00:09:03,180 --> 00:09:08,900
+And also just to kind of, I think, prove to ourselves that it was amicable and that we
+
+140
+00:09:08,900 --> 00:09:09,900
+could get along.
+
+141
+00:09:09,900 --> 00:09:12,260
+We were like, why don't we just, you know, why not?
+
+142
+00:09:12,260 --> 00:09:15,660
+I believe the phrasing was one last heist.
+
+143
+00:09:15,660 --> 00:09:16,660
+Right.
+
+144
+00:09:16,660 --> 00:09:17,660
+Exactly.
+
+145
+00:09:18,620 --> 00:09:21,540
+And then we said, sure, let's let's have the initial thing.
+
+146
+00:09:21,540 --> 00:09:25,500
+And then when it was a theme park route and then so, yes, it extended in a very funny.
+
+147
+00:09:25,500 --> 00:09:29,180
+And so now we've been working together on theme park rides and illumination projects
+
+148
+00:09:29,180 --> 00:09:30,540
+for three and a half years.
+
+149
+00:09:30,540 --> 00:09:31,580
+Oh my God.
+
+150
+00:09:31,580 --> 00:09:32,580
+So your day.
+
+151
+00:09:32,580 --> 00:09:35,020
+So your breakup lasted for less than a day.
+
+152
+00:09:35,020 --> 00:09:36,020
+Yeah, pretty much.
+
+153
+00:09:36,020 --> 00:09:37,020
+Wow.
+
+154
+00:09:37,020 --> 00:09:38,020
+Wow.
+
+155
+00:09:38,020 --> 00:09:40,620
+We are, we are a hybrid team now and we do do solo work as well, which is actually a
+
+156
+00:09:40,620 --> 00:09:42,700
+difficult situation to get yourself into.
+
+157
+00:09:42,700 --> 00:09:44,860
+You really can only do it by accident.
+
+158
+00:09:44,860 --> 00:09:45,860
+Yes.
+
+159
+00:09:46,540 --> 00:09:48,940
+So any themed entertainment, it's, it's come to your duo.
+
+160
+00:09:48,940 --> 00:09:50,100
+I think we're pretty locked in for real.
+
+161
+00:09:50,100 --> 00:09:51,100
+You know what?
+
+162
+00:09:51,100 --> 00:09:52,100
+I don't know.
+
+163
+00:09:52,100 --> 00:09:53,100
+I don't even want to commit to that.
+
+164
+00:09:53,100 --> 00:09:54,100
+You know, I think that's that.
+
+165
+00:09:54,100 --> 00:09:55,100
+I think that's really just how it comes.
+
+166
+00:09:55,100 --> 00:09:58,620
+I think Van really impressed some of the people at Universal.
+
+167
+00:09:58,620 --> 00:10:07,700
+No, but I, it was a very funny way to, to come into the project.
+
+168
+00:10:07,700 --> 00:10:08,700
+I'll say that.
+
+169
+00:10:08,700 --> 00:10:09,700
+Yeah.
+
+170
+00:10:09,700 --> 00:10:10,700
+Wow.
+
+171
+00:10:10,700 --> 00:10:11,700
+Okay.
+
+172
+00:10:12,460 --> 00:10:17,420
+You immediately and then, and then enter a mysterious foggy world.
+
+173
+00:10:17,420 --> 00:10:18,420
+You don't know what you're dealing with.
+
+174
+00:10:18,420 --> 00:10:20,220
+You don't know what your deal is on the project.
+
+175
+00:10:20,220 --> 00:10:21,220
+Yeah.
+
+176
+00:10:21,220 --> 00:10:22,220
+Yeah.
+
+177
+00:10:22,220 --> 00:10:27,700
+And then, okay, so it's eight weeks initially and you think you're doing pre-show and what
+
+178
+00:10:27,700 --> 00:10:30,380
+do you know at that point?
+
+179
+00:10:30,380 --> 00:10:32,980
+Is Ride Premise established?
+
+180
+00:10:32,980 --> 00:10:37,340
+So at that point, I think that they had come in and from like the highest level, there
+
+181
+00:10:37,340 --> 00:10:40,820
+had been some agreement as far as what the attraction would be.
+
+182
+00:10:40,860 --> 00:10:44,500
+I think the, Van, maybe you remember some of these details better.
+
+183
+00:10:44,500 --> 00:10:47,740
+The idea, I think it was already that it was going to be VillainCon, that it was going
+
+184
+00:10:47,740 --> 00:10:54,060
+to be a convention and that you would be competing to join the Vicious Six, which all remained.
+
+185
+00:10:54,060 --> 00:10:58,460
+But beyond that, there was a lot of stuff that was not locked in.
+
+186
+00:10:58,460 --> 00:11:03,140
+Like the number of physical rooms that would be able to be spaces in the ride had been
+
+187
+00:11:03,140 --> 00:11:04,140
+locked down.
+
+188
+00:11:04,140 --> 00:11:05,140
+Basically the track layout.
+
+189
+00:11:05,140 --> 00:11:06,140
+Okay.
+
+190
+00:11:06,140 --> 00:11:07,140
+Okay.
+
+191
+00:11:07,140 --> 00:11:08,140
+Okay.
+
+192
+00:11:08,460 --> 00:11:13,180
+So it was still a bit of a mess, but then exactly what was happening in the specific
+
+193
+00:11:13,180 --> 00:11:18,340
+rooms that you would move through, that was still up in the air.
+
+194
+00:11:18,340 --> 00:11:25,100
+Which sort of characters were the character who was the primary character within that
+
+195
+00:11:25,100 --> 00:11:29,060
+space was somewhat locked in, but still flexible.
+
+196
+00:11:29,060 --> 00:11:32,740
+Like the idea of like it's roughly this amount, because you're dealing with the Vicious Six,
+
+197
+00:11:32,740 --> 00:11:37,300
+which is like a villain super group that comes from, that's from Minions 2, correct?
+
+198
+00:11:37,580 --> 00:11:38,580
+Yes.
+
+199
+00:11:38,580 --> 00:11:43,620
+And maybe there's the vague notion of like each one of them has a space, but you don't
+
+200
+00:11:43,620 --> 00:11:45,020
+know that breakdown or order.
+
+201
+00:11:45,020 --> 00:11:48,940
+Which also at the time, Minions 2 Rise of Gru had not come out yet.
+
+202
+00:11:48,940 --> 00:11:52,860
+So we saw the movie in advance, which also sometimes made this a little tricky because
+
+203
+00:11:52,860 --> 00:11:56,700
+understandably, you know, Illumination, these movies are very valuable.
+
+204
+00:11:56,700 --> 00:12:00,780
+And so they would occasionally give us like two hour windows where we could watch the
+
+205
+00:12:00,780 --> 00:12:05,640
+movie and then we would have to like frantically write notes because the idea is that you want
+
+206
+00:12:05,640 --> 00:12:08,000
+to be referencing things that these characters are doing.
+
+207
+00:12:08,000 --> 00:12:11,960
+Understand the characters, be able to write in their voice, but like had only been given
+
+208
+00:12:11,960 --> 00:12:16,560
+access to the movie one time for two hours and couldn't go back and reference anything.
+
+209
+00:12:16,560 --> 00:12:18,240
+And how rough of a state also.
+
+210
+00:12:18,240 --> 00:12:19,240
+No, it was pretty.
+
+211
+00:12:19,240 --> 00:12:21,440
+It was a delayed because of the pandemic movie.
+
+212
+00:12:21,440 --> 00:12:25,800
+So I think it was, I think every time we saw it had been finished, but it was being.
+
+213
+00:12:25,800 --> 00:12:28,480
+Oh, but you couldn't scrub back and forth.
+
+214
+00:12:28,480 --> 00:12:29,480
+No, right.
+
+215
+00:12:29,480 --> 00:12:30,480
+Exactly.
+
+216
+00:12:30,480 --> 00:12:31,480
+But was it remote?
+
+217
+00:12:31,480 --> 00:12:32,480
+You were watching it remotely?
+
+218
+00:12:32,600 --> 00:12:36,920
+But with the sort of like thrown together during the pandemic to remotely screen things,
+
+219
+00:12:36,920 --> 00:12:39,680
+barely functional systems, everyone in Hollywood ran off.
+
+220
+00:12:39,680 --> 00:12:40,680
+Oh, we did a similar thing.
+
+221
+00:12:40,680 --> 00:12:46,000
+We did a similar thing when we watched Jay and Silent Bob's reboot during the pandemic.
+
+222
+00:12:46,000 --> 00:12:47,000
+Equally.
+
+223
+00:12:47,000 --> 00:12:48,000
+Similar box office.
+
+224
+00:12:48,000 --> 00:12:49,000
+Yeah.
+
+225
+00:12:49,000 --> 00:12:51,480
+We, you mean I kind of avoided that particular zoom in.
+
+226
+00:12:51,480 --> 00:12:54,280
+Scott popped in for a second maybe.
+
+227
+00:12:54,280 --> 00:12:57,360
+And I was dismayed to find that I had not cleared the movie entirely.
+
+228
+00:12:57,360 --> 00:12:58,360
+Right.
+
+229
+00:12:58,360 --> 00:13:00,680
+There were still 10 minutes to go when I showed up.
+
+230
+00:13:00,680 --> 00:13:06,640
+Can I ask when you guys came on board, were they already set on the moving walkway element
+
+231
+00:13:06,640 --> 00:13:08,480
+and the shooter element?
+
+232
+00:13:08,480 --> 00:13:12,640
+Yes, there was, I believe, Finn.
+
+233
+00:13:12,640 --> 00:13:13,640
+Yeah.
+
+234
+00:13:13,640 --> 00:13:14,640
+Yeah, it was.
+
+235
+00:13:14,640 --> 00:13:15,640
+You were always going to be on a walkway.
+
+236
+00:13:15,640 --> 00:13:17,840
+The walkway was locked in.
+
+237
+00:13:17,840 --> 00:13:18,840
+And the blaster.
+
+238
+00:13:18,840 --> 00:13:20,080
+And the blaster element.
+
+239
+00:13:20,080 --> 00:13:23,720
+The like functionality of the blaster and the design of the blaster was not locked in.
+
+240
+00:13:23,720 --> 00:13:29,480
+And there were lots of discussions about that, that we were involved in.
+
+241
+00:13:29,760 --> 00:13:36,040
+Something that happened, which I think is what resulted in us being so involved was
+
+242
+00:13:36,040 --> 00:13:42,800
+early on there were just these all hands meetings every week with every department for the ride.
+
+243
+00:13:42,800 --> 00:13:44,120
+And we were at those meetings.
+
+244
+00:13:44,120 --> 00:13:45,120
+Yes.
+
+245
+00:13:45,120 --> 00:13:48,440
+And it would be interesting sometimes these meetings, because I think, you know, it's
+
+246
+00:13:48,440 --> 00:13:51,920
+a big project and you kind of don't know what's going to be most urgent.
+
+247
+00:13:51,920 --> 00:13:55,680
+So sometimes we would be on this meeting and it'd be like, okay, today we're talking all
+
+248
+00:13:55,680 --> 00:13:57,280
+about the pre-show video.
+
+249
+00:13:57,280 --> 00:14:02,600
+And it would, Van and I would be talking, you know, listening, you know, be very engaged.
+
+250
+00:14:02,600 --> 00:14:06,240
+And other times it would be like, okay, we need to talk about how much steel is being
+
+251
+00:14:06,240 --> 00:14:07,240
+ordered.
+
+252
+00:14:07,240 --> 00:14:10,480
+And we were just on these calls.
+
+253
+00:14:10,480 --> 00:14:14,520
+And through that process, we started to learn and get ideas.
+
+254
+00:14:14,520 --> 00:14:15,960
+About the steel.
+
+255
+00:14:15,960 --> 00:14:16,960
+About the steel.
+
+256
+00:14:16,960 --> 00:14:20,760
+But also there would be, there would be meetings about, you know, the blasters and how they
+
+257
+00:14:20,760 --> 00:14:21,980
+would be designed.
+
+258
+00:14:22,300 --> 00:14:26,180
+There was a whole discussion of that, you know, you want people to be holding onto the
+
+259
+00:14:26,180 --> 00:14:29,280
+blaster and not, you know, swinging them wildly.
+
+260
+00:14:29,280 --> 00:14:32,820
+So that was where it came from to have it designed to have two buttons on the blaster
+
+261
+00:14:32,820 --> 00:14:36,500
+so that there would be a reason to hold it with both hands.
+
+262
+00:14:36,500 --> 00:14:43,180
+And all of that kind of stuff, we started to kind of be exposed to every element of
+
+263
+00:14:43,180 --> 00:14:48,100
+theme park ride design, which was a very cool, you know, experience.
+
+264
+00:14:48,100 --> 00:14:53,060
+But also sometimes I found myself, you know, shaking my head, I do not know what is being
+
+265
+00:14:53,060 --> 00:14:54,060
+discussed.
+
+266
+00:14:54,060 --> 00:14:56,180
+I have no idea.
+
+267
+00:14:56,180 --> 00:15:01,540
+When you're also watching probably the triangulation of like, that there's illumination involved
+
+268
+00:15:01,540 --> 00:15:04,780
+and then universal functional people.
+
+269
+00:15:04,780 --> 00:15:08,240
+And that's something I always wonder about these things is like, is it just everybody
+
+270
+00:15:08,240 --> 00:15:13,980
+kind of like stepping forward and checking with each other about what's feasible constantly
+
+271
+00:15:14,060 --> 00:15:18,940
+and everybody like slowly moves towards the finish line because it's like, hey, yeah,
+
+272
+00:15:18,940 --> 00:15:22,340
+how do you write for spaces that aren't fully figured out?
+
+273
+00:15:22,340 --> 00:15:27,100
+Yeah, I mean, that was a complicated part of the project was it was a constantly moving
+
+274
+00:15:27,100 --> 00:15:31,980
+target, but you had to, no pun intended, about constantly moving.
+
+275
+00:15:31,980 --> 00:15:36,860
+But we did have to keep like revising it in sort of in all directions, like moving closer
+
+276
+00:15:36,860 --> 00:15:40,540
+and closer to what is the actual premise of these things going to be.
+
+277
+00:15:40,540 --> 00:15:45,260
+But then there would be like, you know, curveballs thrown where it's like there's actually another
+
+278
+00:15:45,260 --> 00:15:47,300
+section of the line now.
+
+279
+00:15:47,300 --> 00:15:51,060
+Or you know, this last room is good.
+
+280
+00:15:51,060 --> 00:15:54,380
+This room's gonna have two walls instead of one wall that are gonna have stuff on it.
+
+281
+00:15:54,380 --> 00:15:55,940
+And so suddenly you got to fill up.
+
+282
+00:15:55,940 --> 00:16:00,260
+So suddenly you've got to like, like redefine what would move around.
+
+283
+00:16:00,260 --> 00:16:03,540
+Maybe the space would be better for this character if it's gonna have two walls and things like
+
+284
+00:16:03,540 --> 00:16:04,540
+that.
+
+285
+00:16:04,540 --> 00:16:05,540
+Huh.
+
+286
+00:16:05,540 --> 00:16:08,100
+Because that was the thing that happened was so there were these spaces that were kind
+
+287
+00:16:08,180 --> 00:16:12,140
+of defined, but there was a sort of like a horse trading of what character would go in
+
+288
+00:16:12,140 --> 00:16:17,220
+what space to best suit the concept elements for that character.
+
+289
+00:16:17,220 --> 00:16:18,220
+Wow.
+
+290
+00:16:18,220 --> 00:16:22,420
+Like how long did it take where you were comfortable just like, I'm gonna take a big swing here.
+
+291
+00:16:22,420 --> 00:16:27,100
+Like how many meetings before you were like, it was, I wish I could find, I should have
+
+292
+00:16:27,100 --> 00:16:31,820
+looked up the email because there was, I think a few months in we took a big swing.
+
+293
+00:16:31,820 --> 00:16:34,820
+All right, Gru dies.
+
+294
+00:16:34,820 --> 00:16:36,820
+That's how it's.
+
+295
+00:16:37,060 --> 00:16:39,060
+Kevin kills Gru, okay.
+
+296
+00:16:39,060 --> 00:16:40,060
+Who's Kevin?
+
+297
+00:16:40,060 --> 00:16:41,060
+One of them.
+
+298
+00:16:41,060 --> 00:16:42,060
+Kevin the minion.
+
+299
+00:16:42,060 --> 00:16:43,060
+Oh, I gotta cut that one.
+
+300
+00:16:43,060 --> 00:16:44,060
+Kevin might have to cut that one.
+
+301
+00:16:44,060 --> 00:16:45,060
+Oh my goodness.
+
+302
+00:16:45,060 --> 00:16:48,740
+I think we just lost our job.
+
+303
+00:16:48,740 --> 00:16:52,780
+Just go straight to Van.
+
+304
+00:16:52,780 --> 00:17:02,500
+But there were, there was a point where I think we got comfortable with the level of
+
+305
+00:17:02,740 --> 00:17:06,460
+that was being both expected and allowed from us.
+
+306
+00:17:06,460 --> 00:17:12,860
+And we kind of started reshaping some big parts of the ride.
+
+307
+00:17:12,860 --> 00:17:17,900
+The entire part of the premise that Villain Con is being held in Orlando at Universal
+
+308
+00:17:17,900 --> 00:17:20,420
+Studios came from us.
+
+309
+00:17:20,420 --> 00:17:21,420
+Oh wow.
+
+310
+00:17:21,420 --> 00:17:27,740
+Oh wait, because okay, so Villain Con, I'm no expert in these movies at all, but Villain
+
+311
+00:17:27,980 --> 00:17:31,460
+Con came from the first minions, correct?
+
+312
+00:17:31,460 --> 00:17:33,340
+But that is also a period piece.
+
+313
+00:17:33,340 --> 00:17:34,340
+That's a period piece.
+
+314
+00:17:34,340 --> 00:17:35,340
+So that is in the 60s.
+
+315
+00:17:35,340 --> 00:17:38,180
+And it's being held, I believe it actually may be in Orlando or Florida.
+
+316
+00:17:38,180 --> 00:17:39,180
+Yeah, it's in Florida.
+
+317
+00:17:39,180 --> 00:17:40,180
+Okay.
+
+318
+00:17:40,180 --> 00:17:43,620
+I think it's in Florida, maybe not specifically Orlando.
+
+319
+00:17:43,620 --> 00:17:46,780
+It's set in the 60s.
+
+320
+00:17:46,780 --> 00:17:49,460
+And so that's 1960s Villain Con you see then.
+
+321
+00:17:49,460 --> 00:17:51,580
+Because that's pre-Gru.
+
+322
+00:17:51,580 --> 00:17:53,580
+That's pre the rise of Gru's rise.
+
+323
+00:17:54,420 --> 00:17:58,660
+So is Villain Con a place that the minions are going to like hunt out possible villains?
+
+324
+00:17:58,660 --> 00:17:59,660
+They're looking for a new boss.
+
+325
+00:17:59,660 --> 00:18:02,980
+Yes, and so they go there and that's where they meet Scarlet Overkill who becomes their
+
+326
+00:18:02,980 --> 00:18:05,020
+boss in the film for.
+
+327
+00:18:05,020 --> 00:18:06,020
+But Sandra Bullock?
+
+328
+00:18:06,020 --> 00:18:07,020
+Sandra Bullock.
+
+329
+00:18:07,020 --> 00:18:08,020
+Yes, okay, yeah, yeah.
+
+330
+00:18:08,020 --> 00:18:13,460
+So Villain Con exists, but now you have still more logic to work out and that you have to
+
+331
+00:18:13,460 --> 00:18:15,740
+get it up to 2023.
+
+332
+00:18:15,900 --> 00:18:24,340
+So I thought that the idea of, you know, people will hold conventions at the hotels, at the
+
+333
+00:18:24,340 --> 00:18:25,740
+theme parks and things like that.
+
+334
+00:18:25,740 --> 00:18:31,940
+And so I thought the idea that maybe the convention itself is being held at the theme park secretly
+
+335
+00:18:31,940 --> 00:18:38,820
+would add an extra element of fun for the young riders of the ride to feel like they're
+
+336
+00:18:38,820 --> 00:18:41,780
+really immersed in the experience and like double immersed.
+
+337
+00:18:41,820 --> 00:18:45,820
+Not only is it like there's a whole make believe inside, but you're like already in it when
+
+338
+00:18:45,820 --> 00:18:48,180
+you're at the park deciding to go.
+
+339
+00:18:48,180 --> 00:18:49,180
+Sure, sure.
+
+340
+00:18:49,180 --> 00:18:53,700
+And then, yes, so it is, I guess that's an important thing to note that Universal Studios
+
+341
+00:18:53,700 --> 00:18:56,340
+exists in the world of the ride.
+
+342
+00:18:56,340 --> 00:19:01,420
+You are transporting to a fully other world because there's jokes right away in the pre-show
+
+343
+00:19:01,420 --> 00:19:08,580
+about that and a funny thing, if I name check things, if everyone take credit, please, if
+
+344
+00:19:08,580 --> 00:19:15,060
+I bring something up, but they're pretty like good hit at Universal, a joke about how, wait,
+
+345
+00:19:15,060 --> 00:19:16,740
+oh, God, what is it?
+
+346
+00:19:16,740 --> 00:19:19,340
+It's about the parking.
+
+347
+00:19:19,340 --> 00:19:23,740
+It's a universal Orlando just got a lot more evil, which considering how much they pay
+
+348
+00:19:23,740 --> 00:19:25,540
+for parking is really saying something.
+
+349
+00:19:25,540 --> 00:19:33,060
+Yes, that was a joke that we wrote and which was funny, though, we wrote the joke and I'm
+
+350
+00:19:33,260 --> 00:19:38,820
+here looking at, you know, living in Hollywood and how much they charge for city walk parking.
+
+351
+00:19:38,820 --> 00:19:39,820
+Yeah, yeah.
+
+352
+00:19:39,820 --> 00:19:41,780
+And I looked up how much they charge for it in Orlando.
+
+353
+00:19:41,780 --> 00:19:42,780
+It's actually much cheaper.
+
+354
+00:19:42,780 --> 00:19:43,780
+I was curious.
+
+355
+00:19:43,780 --> 00:19:49,740
+A number I bought a bottle of water like at the cafe and I'm like, wow, very reasonable
+
+356
+00:19:49,740 --> 00:19:50,740
+down here in the park.
+
+357
+00:19:50,740 --> 00:19:51,740
+The joke was still worked.
+
+358
+00:19:51,740 --> 00:19:52,740
+Yeah.
+
+359
+00:19:52,740 --> 00:19:53,740
+Yes.
+
+360
+00:19:53,740 --> 00:19:54,740
+Yeah.
+
+361
+00:19:54,740 --> 00:19:57,620
+Because paying for parking when you're going to a theme park, I know they all do it, but
+
+362
+00:19:57,620 --> 00:19:59,660
+it feels ridiculous to have to do.
+
+363
+00:19:59,660 --> 00:20:00,660
+Yeah.
+
+364
+00:20:00,660 --> 00:20:01,660
+Yeah.
+
+365
+00:20:01,660 --> 00:20:02,660
+Hotels even now.
+
+366
+00:20:03,260 --> 00:20:06,300
+If the joke doesn't apply now, it will certainly apply in seven years.
+
+367
+00:20:06,300 --> 00:20:11,220
+But yeah, that we were like unsure how they would feel about that, but they actually they
+
+368
+00:20:11,220 --> 00:20:14,020
+like that at Universal and they were in for it.
+
+369
+00:20:14,020 --> 00:20:17,100
+And look, I am cool at Universal.
+
+370
+00:20:17,100 --> 00:20:20,800
+I'm all in favor for taking credit for a lot of things and I think we should continue to
+
+371
+00:20:20,800 --> 00:20:22,220
+keep doing that throughout this whole thing.
+
+372
+00:20:22,220 --> 00:20:28,260
+But I should say that it was a very collaborative process and a lot of people on all sides.
+
+373
+00:20:28,260 --> 00:20:31,660
+Universal Illumination had a lot of great ideas and people, it's not even like, it's
+
+374
+00:20:31,740 --> 00:20:35,620
+not like every funny thing that's in the thing came from us.
+
+375
+00:20:35,620 --> 00:20:36,940
+Everyone contributed all sorts of ideas.
+
+376
+00:20:36,940 --> 00:20:40,100
+I can't clarify anything you don't like about the ride.
+
+377
+00:20:40,100 --> 00:20:42,540
+Didn't come from me, may have come from everyone.
+
+378
+00:20:42,540 --> 00:20:43,540
+Right.
+
+379
+00:20:43,540 --> 00:20:48,260
+And they were also very open to like Van was saying, like, well, if you guys have any,
+
+380
+00:20:48,260 --> 00:20:53,820
+you know, ideas about how like, you know, the mechanical engineering should be done,
+
+381
+00:20:53,820 --> 00:20:54,820
+you know, feel free to chime in.
+
+382
+00:20:54,820 --> 00:20:55,820
+And I did.
+
+383
+00:20:55,820 --> 00:20:56,820
+Yeah.
+
+384
+00:20:56,820 --> 00:20:57,820
+Yes.
+
+385
+00:20:58,500 --> 00:21:01,020
+Yeah, I'm very involved in the app design.
+
+386
+00:21:01,020 --> 00:21:02,020
+Uh huh.
+
+387
+00:21:02,020 --> 00:21:04,340
+Yeah, the app is very detailed.
+
+388
+00:21:04,340 --> 00:21:10,380
+Like for one thing, I'll pay a compliment, it works.
+
+389
+00:21:10,380 --> 00:21:14,740
+Not always guarantee with theme park theme park based apps.
+
+390
+00:21:14,740 --> 00:21:22,860
+But I was reading like some theme park blog coverage of like, well, here's different things
+
+391
+00:21:22,860 --> 00:21:26,820
+you can get and here's different settings you can do and customize.
+
+392
+00:21:26,820 --> 00:21:31,900
+And I'm like, wow, I didn't even barely scratch the surface with the app integration.
+
+393
+00:21:31,900 --> 00:21:37,300
+Yeah, there was a lot of that a lot of time was spent kind of trying to figure out exactly
+
+394
+00:21:37,300 --> 00:21:43,260
+what the amount of depth of customization would be in the app and balancing that with
+
+395
+00:21:43,260 --> 00:21:47,300
+the ability to just go on the ride and play it without even really having the app.
+
+396
+00:21:47,300 --> 00:21:48,920
+Oh, sure.
+
+397
+00:21:48,920 --> 00:21:50,820
+And that was a tough balance to hit.
+
+398
+00:21:50,820 --> 00:21:55,740
+But I feel like there is a there's a deepness in the app if you get in there and try and
+
+399
+00:21:55,740 --> 00:21:56,740
+change the settings.
+
+400
+00:21:56,740 --> 00:21:59,700
+And Evan, I also wrote all of the copy in the app as well.
+
+401
+00:21:59,700 --> 00:22:00,700
+Oh, wow.
+
+402
+00:22:00,700 --> 00:22:01,700
+Wow.
+
+403
+00:22:01,700 --> 00:22:02,700
+Geez.
+
+404
+00:22:02,700 --> 00:22:06,260
+I have a question and not to be presumptuous until you had to do your podcast.
+
+405
+00:22:06,260 --> 00:22:08,340
+Should we explain what the ride is?
+
+406
+00:22:08,340 --> 00:22:09,340
+Yeah.
+
+407
+00:22:09,340 --> 00:22:10,340
+Yes, possibly.
+
+408
+00:22:10,340 --> 00:22:11,340
+Probably.
+
+409
+00:22:11,340 --> 00:22:13,220
+We've hinted at it to some extent.
+
+410
+00:22:13,220 --> 00:22:18,140
+But OK, so this is now and now it's like a quiz to make sure I understood.
+
+411
+00:22:18,140 --> 00:22:19,140
+If you would like.
+
+412
+00:22:19,140 --> 00:22:20,140
+Sure, absolutely.
+
+413
+00:22:20,140 --> 00:22:21,140
+Sure.
+
+414
+00:22:21,140 --> 00:22:27,260
+So the ride is that you are attending VillanCon to join the Vicious Six and VillanCon is kind
+
+415
+00:22:27,260 --> 00:22:29,300
+of like a Comic Con like event.
+
+416
+00:22:29,300 --> 00:22:36,520
+You wait in line, but except instead of comic book fans and vendors, it's all villains.
+
+417
+00:22:36,520 --> 00:22:41,460
+And so the Vicious Six, which is an editorial supergroup, is looking for their next member
+
+418
+00:22:41,460 --> 00:22:46,280
+and you get in line like you would if you were going to Comic Con, a convention.
+
+419
+00:22:47,280 --> 00:22:54,920
+very funny videos where it's kind of VNC, which is a villain news channel.
+
+420
+00:22:54,920 --> 00:22:55,920
+They're doing.
+
+421
+00:22:55,920 --> 00:23:00,960
+I'm going to step in because Evan is really just butchering.
+
+422
+00:23:00,960 --> 00:23:01,960
+He's flailing.
+
+423
+00:23:01,960 --> 00:23:02,960
+He said very funny.
+
+424
+00:23:02,960 --> 00:23:04,800
+He should have said extremely funny.
+
+425
+00:23:04,800 --> 00:23:07,520
+First of all, incredibly rewatchably perfectly funny.
+
+426
+00:23:07,520 --> 00:23:12,240
+But so, yes, so the the in the ride itself that you get on is a moving walkway blaster
+
+427
+00:23:12,240 --> 00:23:14,360
+attraction.
+
+428
+00:23:14,360 --> 00:23:20,480
+But there's a lot of fun leading up to that, which is based on the premise, you are at
+
+429
+00:23:20,480 --> 00:23:25,320
+VillanCon and you are in line for a specific experience that is being held at VillanCon.
+
+430
+00:23:25,320 --> 00:23:30,200
+And if you've ever been to Comic Con or any of these big conventions, it's all about lines,
+
+431
+00:23:30,200 --> 00:23:34,800
+which made it a great way to theme theme park because most of your ride, because most of
+
+432
+00:23:34,800 --> 00:23:37,900
+your time in a theme park ride is spent in a line.
+
+433
+00:23:37,900 --> 00:23:41,880
+And so you're really on the ride as soon as you're in the line, because part of the experience
+
+434
+00:23:41,880 --> 00:23:46,320
+of being at any convention and being at VillanCon is standing in those darn long lines.
+
+435
+00:23:46,320 --> 00:23:47,320
+Sure.
+
+436
+00:23:47,320 --> 00:23:48,320
+Yes.
+
+437
+00:23:48,320 --> 00:23:51,760
+But to make that experience a little more bearable, there are televisions throughout
+
+438
+00:23:51,760 --> 00:23:58,360
+that are playing a special VillanCon edition of the VNC, which is the Villain Network Channel,
+
+439
+00:23:58,360 --> 00:24:00,680
+which is sort of like CNN for villains.
+
+440
+00:24:00,680 --> 00:24:03,040
+It's from the Despicable Me universe.
+
+441
+00:24:03,040 --> 00:24:04,040
+Sure, sure.
+
+442
+00:24:04,040 --> 00:24:11,520
+And we were able to get the announcer voice actor who was the VillanCon network, like
+
+443
+00:24:12,160 --> 00:24:15,920
+newsman in the 1960s in the Minions film back.
+
+444
+00:24:15,920 --> 00:24:16,920
+Oh yes.
+
+445
+00:24:16,920 --> 00:24:17,920
+Who's very 60s style.
+
+446
+00:24:17,920 --> 00:24:20,160
+I mean, will we style him up to 70s-ish?
+
+447
+00:24:20,160 --> 00:24:22,160
+Yes, yes.
+
+448
+00:24:22,160 --> 00:24:24,040
+And he kind of sets the premise for you.
+
+449
+00:24:24,040 --> 00:24:25,040
+Oh wait, does he?
+
+450
+00:24:25,040 --> 00:24:26,040
+Oh, so the look changed.
+
+451
+00:24:26,040 --> 00:24:27,040
+You like, you used the...
+
+452
+00:24:27,040 --> 00:24:31,680
+Well no, in the 60s he is in the first Minions movie, he's in the 60s.
+
+453
+00:24:31,680 --> 00:24:35,560
+In the second movie you see him again, he's in a 70s look and we went with the 70s look.
+
+454
+00:24:35,560 --> 00:24:36,560
+Oh I see, okay.
+
+455
+00:24:36,560 --> 00:24:39,320
+Move him forward a little bit.
+
+456
+00:24:40,120 --> 00:24:45,040
+But he does also set off in the premise, he sets up that villains have come from around
+
+457
+00:24:45,040 --> 00:24:50,960
+the world and throughout time and they show some villains traveling through a time machine,
+
+458
+00:24:50,960 --> 00:24:56,760
+which does help address, we talked about this a little bit off air, that this is designed
+
+459
+00:24:56,760 --> 00:25:02,400
+to function canonically so that it can have taken place within the world of the films
+
+460
+00:25:02,400 --> 00:25:08,080
+and there is a time machine added so that villains who perhaps didn't contemporaneously
+
+461
+00:25:08,080 --> 00:25:12,680
+exist within the films can be featured within the villain con attraction.
+
+462
+00:25:12,680 --> 00:25:17,360
+Gosh, yes, because Minions, the first Minions is a prequel that goes way, way back, we're
+
+463
+00:25:17,360 --> 00:25:18,360
+dealing with dinosaurs and all that.
+
+464
+00:25:18,360 --> 00:25:20,360
+It goes back to the beginning of time essentially.
+
+465
+00:25:20,360 --> 00:25:21,360
+Yes, yeah.
+
+466
+00:25:21,360 --> 00:25:23,720
+So we have a long timeline to deal with.
+
+467
+00:25:23,720 --> 00:25:28,080
+So you figured out, because we were talking about how timeline is an issue in many, especially
+
+468
+00:25:28,080 --> 00:25:34,120
+recent theme park additions in areas, so you thought this through, what is the way to justify...
+
+469
+00:25:34,160 --> 00:25:37,800
+I'll be honest with you, the folks at Illumination were very concerned about making sure the
+
+470
+00:25:37,800 --> 00:25:43,400
+timeline was able to, at least if you squinted, match up and work.
+
+471
+00:25:43,400 --> 00:25:44,400
+Sure, sure.
+
+472
+00:25:44,400 --> 00:25:50,760
+Do you feel like you've now planted seeds for future Minions projects by adding to the
+
+473
+00:25:50,760 --> 00:25:52,840
+sort of canon in a way?
+
+474
+00:25:52,840 --> 00:25:56,760
+I can't really get into any detail on that, but actually the answer is yes.
+
+475
+00:25:56,760 --> 00:25:57,760
+Okay, great.
+
+476
+00:25:57,760 --> 00:26:03,960
+I did have the thought having just a few months ago watched Minions Rise of Gru and then doing
+
+477
+00:26:03,960 --> 00:26:07,720
+this ride going like, wow, the Vicious 6 looks great.
+
+478
+00:26:07,720 --> 00:26:09,600
+They've aged really nicely.
+
+479
+00:26:09,600 --> 00:26:10,600
+Yes, yes.
+
+480
+00:26:10,600 --> 00:26:12,640
+Probably villain technology.
+
+481
+00:26:12,640 --> 00:26:14,880
+They may have traveled by time machine.
+
+482
+00:26:14,880 --> 00:26:18,480
+So anyway, to continue with the ride description, you make your way through several versions
+
+483
+00:26:18,480 --> 00:26:19,960
+of the line.
+
+484
+00:26:19,960 --> 00:26:21,760
+We call it the queue, that's the internal...
+
+485
+00:26:21,760 --> 00:26:22,760
+That's what you say.
+
+486
+00:26:22,760 --> 00:26:23,760
+Yes.
+
+487
+00:26:23,760 --> 00:26:26,560
+Terminologies.
+
+488
+00:26:26,560 --> 00:26:30,200
+And you make it to, I believe, is it Q5?
+
+489
+00:26:30,200 --> 00:26:31,640
+I believe that's right.
+
+490
+00:26:31,640 --> 00:26:38,000
+Which is when you are able to walk out onto the VillainCon show floor.
+
+491
+00:26:38,000 --> 00:26:43,720
+But this implies, not to get into weeds, I guess, but you know the area.
+
+492
+00:26:43,720 --> 00:26:45,720
+Those are all coded in some way.
+
+493
+00:26:45,720 --> 00:26:46,720
+So we're like...
+
+494
+00:26:46,720 --> 00:26:50,120
+You're right in Q1, Q2.
+
+495
+00:26:50,120 --> 00:26:56,180
+And so in Q5, you get a little bit of free roaming ability.
+
+496
+00:26:56,180 --> 00:26:59,340
+You're walking around inside of a space that is built out to kind of look like you're seeing
+
+497
+00:26:59,340 --> 00:27:01,040
+booths at a convention.
+
+498
+00:27:01,040 --> 00:27:05,880
+So there are various vendors of villainous goods and services.
+
+499
+00:27:05,880 --> 00:27:10,900
+There's a malicious motors, which is sort of where villains get their getaway vehicles
+
+500
+00:27:10,900 --> 00:27:14,520
+and evil cars and whatnot from.
+
+501
+00:27:14,520 --> 00:27:19,320
+There's the Diabolique Boutique, which is sort of a fashion house for villains where
+
+502
+00:27:19,320 --> 00:27:24,160
+you might get your supervillainous costume made.
+
+503
+00:27:24,160 --> 00:27:25,640
+There is...
+
+504
+00:27:25,640 --> 00:27:26,880
+What is the pet store?
+
+505
+00:27:26,880 --> 00:27:28,720
+What is that?
+
+506
+00:27:28,720 --> 00:27:29,720
+That's called the...
+
+507
+00:27:30,240 --> 00:27:31,240
+Do I have...
+
+508
+00:27:31,240 --> 00:27:32,720
+Corrupt Companions, I believe.
+
+509
+00:27:32,720 --> 00:27:33,720
+Oh, that's good.
+
+510
+00:27:33,720 --> 00:27:34,720
+Yeah.
+
+511
+00:27:34,720 --> 00:27:35,720
+I remember that.
+
+512
+00:27:35,720 --> 00:27:37,240
+And that's your evil pet foods and whatnot.
+
+513
+00:27:37,240 --> 00:27:38,240
+Right, right.
+
+514
+00:27:38,240 --> 00:27:39,240
+Yeah, great.
+
+515
+00:27:39,240 --> 00:27:40,240
+Giant gator.
+
+516
+00:27:40,240 --> 00:27:41,240
+Yes, giant alligator.
+
+517
+00:27:41,240 --> 00:27:43,400
+Yeah, really good feature there.
+
+518
+00:27:43,400 --> 00:27:48,080
+And so just to pause on the explanation and just get into some more Evan and I, the most
+
+519
+00:27:48,080 --> 00:27:50,000
+important part.
+
+520
+00:27:50,000 --> 00:27:52,720
+I think that was my favorite part of the ride was...
+
+521
+00:27:52,720 --> 00:27:57,120
+We did work on a lot of the placemaking line stuff.
+
+522
+00:27:57,120 --> 00:28:03,800
+And so those booths, both concepting what some of them were, but then also the physical
+
+523
+00:28:03,800 --> 00:28:06,000
+objects that are in them.
+
+524
+00:28:06,000 --> 00:28:11,280
+Malicious Motors has a bunch of license plates up on the wall that say, like, too evil for
+
+525
+00:28:11,280 --> 00:28:13,640
+you kind of type things.
+
+526
+00:28:13,640 --> 00:28:17,560
+And we wrote all of the license plates and things like that.
+
+527
+00:28:17,560 --> 00:28:20,800
+And again, there were other people pitched on these things as well.
+
+528
+00:28:20,800 --> 00:28:23,400
+I'm flipping through a couple of things I grabbed pictures of.
+
+529
+00:28:23,640 --> 00:28:30,840
+And there's in the pet area, cans of corrupt delights, fiendishly flavorful.
+
+530
+00:28:30,840 --> 00:28:34,640
+And then it's different at bat food, scorpion food, vulture food.
+
+531
+00:28:34,640 --> 00:28:35,640
+Yeah.
+
+532
+00:28:35,640 --> 00:28:38,840
+So the process with a lot of that is we would get sent...
+
+533
+00:28:38,840 --> 00:28:44,000
+Our department at Universal would mock up a label.
+
+534
+00:28:44,000 --> 00:28:50,040
+And then that would get sent to us to revise the copy on, sometimes pitch a new, maybe
+
+535
+00:28:50,040 --> 00:28:54,000
+instead of bat food, it's this type of thing.
+
+536
+00:28:54,000 --> 00:28:59,680
+And so there was a ton of collaboration between us and the different departments at Universal
+
+537
+00:28:59,680 --> 00:29:00,680
+working on this stuff.
+
+538
+00:29:00,680 --> 00:29:08,000
+And Malicious Motors has a car console, a steering wheel, and buttons and gauges.
+
+539
+00:29:08,000 --> 00:29:13,200
+And that got sent back to us with somewhat generic what the gauges said.
+
+540
+00:29:13,200 --> 00:29:18,480
+And we changed them to be things like oil slick and more specific things.
+
+541
+00:29:18,520 --> 00:29:23,800
+So there's a lot of interesting places where there's quote unquote writing that you might
+
+542
+00:29:23,800 --> 00:29:26,560
+not expect on a ride.
+
+543
+00:29:26,560 --> 00:29:30,760
+What a dream to get to just fill out specifics.
+
+544
+00:29:30,760 --> 00:29:34,160
+And really specific assignments.
+
+545
+00:29:34,160 --> 00:29:38,080
+I think one of the biggest things like that is, and this is a...
+
+546
+00:29:38,080 --> 00:29:42,160
+You could not go on the attraction three times and not see it, but there is a map of the
+
+547
+00:29:42,160 --> 00:29:44,000
+VillainCon floor.
+
+548
+00:29:44,240 --> 00:29:45,440
+They have every...
+
+549
+00:29:45,440 --> 00:29:49,760
+Which is all these booths that you don't see, because the premise is that you are going
+
+550
+00:29:49,760 --> 00:29:53,640
+through this queue, you're going through a small portion of the show floor.
+
+551
+00:29:53,640 --> 00:29:56,280
+And you see a map that shows a much bigger portion of...
+
+552
+00:29:56,280 --> 00:29:59,840
+And it's all of the booths that you don't even get to see.
+
+553
+00:29:59,840 --> 00:30:01,200
+And there's little small things.
+
+554
+00:30:01,200 --> 00:30:03,840
+I think some of these, I'm saying, didn't necessarily make it, but it's like torture
+
+555
+00:30:03,840 --> 00:30:07,760
+chamber and just little things labeled like things that you might imagine would be at
+
+556
+00:30:07,760 --> 00:30:08,760
+a convention.
+
+557
+00:30:08,760 --> 00:30:11,160
+One I really like, false sense of security room.
+
+558
+00:30:11,160 --> 00:30:12,720
+That one was tough to get through.
+
+559
+00:30:12,720 --> 00:30:18,320
+There were some people who could not understand that joke, I think very fairly.
+
+560
+00:30:18,320 --> 00:30:19,320
+Yes.
+
+561
+00:30:19,320 --> 00:30:24,280
+I guess it's a good one to look at later.
+
+562
+00:30:24,280 --> 00:30:27,720
+When you're doing all this and you're writing all these jokes, do you literally...
+
+563
+00:30:27,720 --> 00:30:31,840
+Was there anything that you were surprised when you actually saw it?
+
+564
+00:30:31,840 --> 00:30:36,440
+Or was it literally everything like, yes, no, would you get emails that would list yes,
+
+565
+00:30:36,440 --> 00:30:38,440
+no on all your ideas?
+
+566
+00:30:38,440 --> 00:30:42,640
+Sometimes yes, but then other times you would get there when we got there like, oh wow,
+
+567
+00:30:43,560 --> 00:30:46,080
+yeah, some of the stuff did...
+
+568
+00:30:46,080 --> 00:30:49,240
+You never hear back about it, then it's just there.
+
+569
+00:30:49,240 --> 00:30:54,640
+So you're leaving this queue, you head in to go and get your blaster.
+
+570
+00:30:54,640 --> 00:31:00,880
+And there's a little area where there's these blasters that are on a conveyor belt.
+
+571
+00:31:00,880 --> 00:31:04,400
+To simplify it for people who may not be familiar, blaster is a word we use in the theme park
+
+572
+00:31:04,400 --> 00:31:08,400
+business because we don't want to say gun.
+
+573
+00:31:08,400 --> 00:31:09,400
+Things have changed.
+
+574
+00:31:10,160 --> 00:31:13,160
+Changed since they proposed a Dick Tracy ride where you have a Tommy gun.
+
+575
+00:31:13,160 --> 00:31:14,160
+Where you have a gun, yeah.
+
+576
+00:31:14,160 --> 00:31:17,160
+So a blaster which is not a gun.
+
+577
+00:31:17,160 --> 00:31:19,160
+Not remotely similar.
+
+578
+00:31:19,160 --> 00:31:20,160
+Not remotely similar.
+
+579
+00:31:20,160 --> 00:31:21,160
+No.
+
+580
+00:31:21,160 --> 00:31:24,440
+Everyone gets to pick one up and one of the things that's unique about this ride is that
+
+581
+00:31:24,440 --> 00:31:30,240
+unlike some similar attractions, the blaster is not attached to a ride vehicle.
+
+582
+00:31:30,240 --> 00:31:33,320
+There's no cord coming out of it, it's not mounted on anything.
+
+583
+00:31:33,320 --> 00:31:37,160
+You freely hold it, you pick it up and then you drop it back off.
+
+584
+00:31:37,920 --> 00:31:44,920
+So when you're on the ride, you can move around 360 degrees up and down and blast any direction.
+
+585
+00:31:44,920 --> 00:31:49,920
+So how is that calibrated so quickly?
+
+586
+00:31:49,920 --> 00:31:54,920
+I hadn't actually thought about how that worked until you mentioned it.
+
+587
+00:31:54,920 --> 00:32:03,240
+While they're on the conveyor belt, charging belt, that is when they get recalibrated and
+
+588
+00:32:03,320 --> 00:32:08,720
+re-centered to know what direction they're facing with the system.
+
+589
+00:32:08,720 --> 00:32:12,360
+There are sensors up in the ceiling.
+
+590
+00:32:12,360 --> 00:32:17,240
+I believe it uses ultra wideband radio, the same thing on iPhones where you can find your
+
+591
+00:32:17,240 --> 00:32:18,760
+keys now and it'll tell you where you are.
+
+592
+00:32:18,760 --> 00:32:21,760
+I also believe it's ultra wideband.
+
+593
+00:32:21,760 --> 00:32:27,440
+And then inside the blaster itself there are accelerometers and things that can get its
+
+594
+00:32:27,440 --> 00:32:29,640
+own orientation.
+
+595
+00:32:29,640 --> 00:32:32,840
+And so there are multiple systems getting the orientation of it and they all communicate
+
+596
+00:32:32,840 --> 00:32:35,120
+back and forth.
+
+597
+00:32:35,120 --> 00:32:39,600
+And that gives an orientation and position and angle of the blaster to the computers
+
+598
+00:32:39,600 --> 00:32:41,280
+that are controlling the screens.
+
+599
+00:32:41,280 --> 00:32:47,800
+For you, Van, was there ever any onboarding of wrapping your head around what all of this
+
+600
+00:32:47,800 --> 00:32:52,840
+is or is in the first conversation about this, are you like, yes, got it, I understand.
+
+601
+00:32:52,840 --> 00:32:59,160
+This is all just like, no one told me any of this, I had to figure all of it out.
+
+602
+00:32:59,160 --> 00:33:05,320
+I was given access to an internal wiki that explained all of this and I just on my own
+
+603
+00:33:05,320 --> 00:33:07,440
+read all of it.
+
+604
+00:33:07,440 --> 00:33:13,040
+There were these, to me, incredible diagrams explaining how all of the signals and messages
+
+605
+00:33:13,040 --> 00:33:16,520
+were sent to each other and where they were queued up within the system.
+
+606
+00:33:16,520 --> 00:33:21,800
+So it's possible that the typical writer on a thing like this may not dive into, may not
+
+607
+00:33:21,800 --> 00:33:24,800
+go on stealth missions to see documents that they were not specifically.
+
+608
+00:33:25,440 --> 00:33:31,600
+It came in handy as we were getting to the last phases of the ride and I myself, being
+
+609
+00:33:31,600 --> 00:33:35,320
+familiar with the technology, I had a sense of like, what could be changed at this point
+
+610
+00:33:35,320 --> 00:33:38,080
+and what's completely off the table.
+
+611
+00:33:38,080 --> 00:33:43,960
+And so we were pitching things like different sounds a blaster could make and things that
+
+612
+00:33:43,960 --> 00:33:48,040
+I, you know, the color that it showed when you were blasting a certain thing and things
+
+613
+00:33:48,040 --> 00:33:50,440
+that I knew were tweakable at this point in the process.
+
+614
+00:33:50,440 --> 00:33:51,440
+Wow.
+
+615
+00:33:52,080 --> 00:33:57,320
+Evan definitely had a technical knowledge and understanding that I think they were shocked
+
+616
+00:33:57,320 --> 00:33:59,480
+to discover in a writer.
+
+617
+00:33:59,480 --> 00:34:05,720
+I had the ride running in my office because I had enough of the existing technology they
+
+618
+00:34:05,720 --> 00:34:11,100
+were using for the ride already that I was able to run a version of the ride in my office
+
+619
+00:34:11,100 --> 00:34:12,680
+for Evan and I to like.
+
+620
+00:34:12,680 --> 00:34:13,680
+What does that mean?
+
+621
+00:34:13,680 --> 00:34:14,680
+What does that look like?
+
+622
+00:34:14,920 --> 00:34:22,960
+I brought both the energy and spirit and mind of a child to the process and was able to
+
+623
+00:34:22,960 --> 00:34:27,800
+just say, oh, wouldn't it be fun if you could blast really big?
+
+624
+00:34:27,800 --> 00:34:28,800
+Very helpful.
+
+625
+00:34:28,800 --> 00:34:29,800
+And you know what?
+
+626
+00:34:29,800 --> 00:34:31,680
+Sometimes that was valuable too.
+
+627
+00:34:31,680 --> 00:34:34,880
+And sometimes Van would say no, not possible at this point in the process.
+
+628
+00:34:34,880 --> 00:34:38,040
+You also picked up burgers once.
+
+629
+00:34:38,040 --> 00:34:43,880
+So you get your blaster and you walk onto a moving conveyor belt.
+
+630
+00:34:44,080 --> 00:34:49,400
+Sort of like the conveyor belts in an airport except this one can move around corners and
+
+631
+00:34:49,400 --> 00:34:50,400
+curve.
+
+632
+00:34:50,400 --> 00:34:55,360
+That's where I suddenly was because I think everybody was probably, you guys especially,
+
+633
+00:34:55,360 --> 00:34:58,680
+I would imagine, are wrapping your head around how is that going to work?
+
+634
+00:34:58,680 --> 00:35:01,720
+And once I saw the first corner bend, I'm like, oh, here we go.
+
+635
+00:35:01,720 --> 00:35:03,120
+All right, I get it.
+
+636
+00:35:03,120 --> 00:35:04,120
+That works really smoothly.
+
+637
+00:35:04,120 --> 00:35:06,400
+Can you all stand on spots too?
+
+638
+00:35:06,400 --> 00:35:08,600
+Can you explain to me how that works?
+
+639
+00:35:08,600 --> 00:35:11,880
+It's segmented.
+
+640
+00:35:11,880 --> 00:35:16,200
+It's in like a semi-circ, like crescent shaped segments that overlap.
+
+641
+00:35:16,200 --> 00:35:18,440
+And so that's how it's able to move.
+
+642
+00:35:18,440 --> 00:35:19,960
+But it is the same piece?
+
+643
+00:35:19,960 --> 00:35:22,200
+Like are we getting moved onto a different piece?
+
+644
+00:35:22,200 --> 00:35:26,120
+No, you're standing on the same piece that they just sort of are able to corner because
+
+645
+00:35:26,120 --> 00:35:29,800
+they're overlapping and there's a little more underneath and you don't really notice it.
+
+646
+00:35:29,800 --> 00:35:35,880
+But the floor underneath you slightly changes what piece of floor you're on.
+
+647
+00:35:35,880 --> 00:35:38,200
+You're illustrating things with your arms, which actually is very helpful.
+
+648
+00:35:38,280 --> 00:35:43,720
+But I'm going to ask you to do one more, which is what I'm on with the dot,
+
+649
+00:35:43,720 --> 00:35:47,560
+what do you know the shape of it if you were to take it out of the belt?
+
+650
+00:35:47,560 --> 00:35:55,320
+Yeah, it's like a half circle but a little bit of a crescent carve out on the straight end of it.
+
+651
+00:35:55,320 --> 00:35:57,320
+So slice a circle in half, you've got two halves.
+
+652
+00:35:57,880 --> 00:36:02,440
+But then carve out a little crescent on the inside.
+
+653
+00:36:02,440 --> 00:36:04,760
+Almost like a macaroni?
+
+654
+00:36:04,760 --> 00:36:06,600
+Yeah, it was like a macaroni piece.
+
+655
+00:36:07,320 --> 00:36:08,920
+Those are stacked on each other.
+
+656
+00:36:10,920 --> 00:36:15,160
+And so you're on that and then you're moving through different themed rooms,
+
+657
+00:36:15,160 --> 00:36:16,360
+themed to the Vicious Six.
+
+658
+00:36:20,040 --> 00:36:23,880
+The overall, when you get to that point, what is that within the premise of the convention?
+
+659
+00:36:23,880 --> 00:36:26,520
+Great, sure. So you're entering the Vicious Six challenge,
+
+660
+00:36:27,000 --> 00:36:33,000
+which is like a side event they're holding at Comic-Con that they've designed and put on.
+
+661
+00:36:33,000 --> 00:36:36,760
+See, the Vicious Six in Minions Rise of Gru kick out wild knuckles,
+
+662
+00:36:37,400 --> 00:36:40,600
+and so now they're down to the Vicious Five, so they need a new member.
+
+663
+00:36:41,400 --> 00:36:46,600
+In Minions Rise of Gru, you think that Young Gru might be the new member, it doesn't.
+
+664
+00:36:46,600 --> 00:36:47,800
+It doesn't work out.
+
+665
+00:36:47,800 --> 00:36:52,600
+So they're still in search of a new member, and so this could be you, the attendee of VillainCon.
+
+666
+00:36:52,600 --> 00:36:57,320
+And so it's sort of like if you go to Comic-Con and there's an activation for the new Godzilla movie,
+
+667
+00:36:57,320 --> 00:37:01,000
+and you go into a room and it seems like Godzilla's there or something.
+
+668
+00:37:01,640 --> 00:37:05,640
+It's that sort of experience being held at VillainCon where there's a sort of a separate
+
+669
+00:37:05,640 --> 00:37:08,600
+activation being put on by the Vicious Six.
+
+670
+00:37:08,600 --> 00:37:11,080
+And for them, it's because they're trying to recruit a new member.
+
+671
+00:37:11,080 --> 00:37:14,440
+They figure, where better than VillainCon, all the most villainous people are gathered.
+
+672
+00:37:15,240 --> 00:37:19,800
+And so you're being scored on your blaster, you're getting a score,
+
+673
+00:37:19,800 --> 00:37:25,000
+and that's all for them to judge whether or not you can become the next member of the Vicious Six.
+
+674
+00:37:25,000 --> 00:37:29,480
+Right. And you guys have worked on a Comic-Con activation as well.
+
+675
+00:37:29,480 --> 00:37:32,280
+Yes, the Brooklyn Nine-Nine Comic-Con activation.
+
+676
+00:37:33,240 --> 00:37:37,240
+And also the Detective Pikachu.
+
+677
+00:37:38,200 --> 00:37:41,560
+Unveiling of Detective Pikachu at Comic-Con New York.
+
+678
+00:37:41,560 --> 00:37:43,320
+I don't know if I know that. I don't think I knew that.
+
+679
+00:37:43,320 --> 00:37:46,600
+I believe that Ryan Reynolds was voicing Detective Pikachu.
+
+680
+00:37:46,600 --> 00:37:48,920
+You planned how to unveil Ryan Reynolds?
+
+681
+00:37:50,280 --> 00:37:51,240
+Dave Foley.
+
+682
+00:37:52,440 --> 00:37:55,800
+It was an insane one-day writers' room.
+
+683
+00:37:55,960 --> 00:37:59,320
+Legends of comedy. And I don't know if they used anyone's ideas.
+
+684
+00:37:59,320 --> 00:38:00,600
+I think they may not.
+
+685
+00:38:00,600 --> 00:38:01,480
+They may not.
+
+686
+00:38:01,480 --> 00:38:01,980
+Okay.
+
+687
+00:38:03,160 --> 00:38:07,320
+Well, and if we're, I'm sorry, you know, not to step too far off the moving walkway.
+
+688
+00:38:07,320 --> 00:38:11,400
+But if we're talking convention experience, Van, you've also, you've put together entire
+
+689
+00:38:11,960 --> 00:38:17,320
+conventions. You're one of the main architects of this ongoing convention called BugCon,
+
+690
+00:38:17,320 --> 00:38:22,680
+which is devoted to Bug Main, who is a hip hop artist slash cult leader.
+
+691
+00:38:23,160 --> 00:38:29,480
+And I feel like genuinely, it must, there must have been a lot of crossover between,
+
+692
+00:38:29,480 --> 00:38:33,560
+because BugCon is a pretty advanced technologically event.
+
+693
+00:38:33,560 --> 00:38:34,440
+There was a moment.
+
+694
+00:38:36,200 --> 00:38:38,520
+You essentially are almost doing solo.
+
+695
+00:38:38,520 --> 00:38:40,280
+That is where I don't think if you,
+
+696
+00:38:41,240 --> 00:38:43,320
+probably some people listening have been to BugCon.
+
+697
+00:38:43,320 --> 00:38:45,400
+If you haven't, and I hope there's a future BugCon,
+
+698
+00:38:47,320 --> 00:38:51,320
+it really is a technological, that you might think more people are involved in putting it
+
+699
+00:38:51,400 --> 00:38:55,960
+together than you very frazzled with a number of minions, you might say.
+
+700
+00:38:55,960 --> 00:39:01,160
+Yeah, but it is, I would say 80% me, 20% like a dozen other people.
+
+701
+00:39:02,440 --> 00:39:08,680
+And there was a moment where I was simultaneously working on VillainCon and BugCon 2022.
+
+702
+00:39:08,680 --> 00:39:09,180
+Wow.
+
+703
+00:39:09,880 --> 00:39:11,640
+I did, those projects did overlap.
+
+704
+00:39:13,000 --> 00:39:16,360
+But yeah, I have kind of become, I think,
+
+705
+00:39:17,080 --> 00:39:22,200
+entertainment's foremost expert on fake conventions, but that you can also attend.
+
+706
+00:39:23,560 --> 00:39:25,000
+Yes, yeah, yeah, yeah.
+
+707
+00:39:25,000 --> 00:39:26,760
+That are actual experiences.
+
+708
+00:39:26,760 --> 00:39:28,200
+Real fake conventions.
+
+709
+00:39:28,200 --> 00:39:34,840
+That are very, that I've like, both very rewarding, both the universal one and BugCon.
+
+710
+00:39:35,960 --> 00:39:41,080
+Not only that, you've also put rides together as part of these.
+
+711
+00:39:41,080 --> 00:39:43,320
+At the last BugCon, you specifically-
+
+712
+00:39:43,320 --> 00:39:44,920
+Yes, we did have Spacey Mountain.
+
+713
+00:39:44,920 --> 00:39:45,720
+Spacey Mountain.
+
+714
+00:39:45,720 --> 00:39:50,360
+Which is a terrifying trip through the career of Kevin Spacey.
+
+715
+00:39:51,800 --> 00:39:54,760
+Which was a, like, it was like a headset based experience.
+
+716
+00:39:54,760 --> 00:39:57,480
+Yes, it was a roller coaster simulator experience.
+
+717
+00:39:58,680 --> 00:40:03,160
+With a fully fleshed out track that actually, that moved along, that was perfectly set up.
+
+718
+00:40:03,160 --> 00:40:06,440
+Yes, you sat in a chair that moved around and encountered big Kevin Spaceys.
+
+719
+00:40:06,440 --> 00:40:07,480
+Air that blew at you and they were-
+
+720
+00:40:07,480 --> 00:40:10,440
+More advanced than this minions ride in a lot of ways.
+
+721
+00:40:10,440 --> 00:40:13,400
+In some ways, in other ways, less advanced.
+
+722
+00:40:14,200 --> 00:40:15,400
+I mean, I just think-
+
+723
+00:40:15,400 --> 00:40:16,120
+Well attended.
+
+724
+00:40:17,560 --> 00:40:23,240
+I just think universal, like, lucky that you would deign to participate and give them any of your knowledge.
+
+725
+00:40:23,240 --> 00:40:24,920
+Well, thank you, that's a high compliment.
+
+726
+00:40:24,920 --> 00:40:25,720
+I appreciate it.
+
+727
+00:40:27,320 --> 00:40:30,360
+Yeah, no, there was a surprising amount of overlap there.
+
+728
+00:40:31,160 --> 00:40:35,240
+Yeah, and between everything, because, I mean, listeners are picking this up,
+
+729
+00:40:35,240 --> 00:40:38,680
+but if you don't know Van or haven't heard Van on other podcasts, like,
+
+730
+00:40:38,680 --> 00:40:44,520
+yeah, your technological experiences, I don't know, how do you, what do you even call it exactly?
+
+731
+00:40:44,520 --> 00:40:48,840
+Because beyond, like, your app awareness and programming awareness.
+
+732
+00:40:48,840 --> 00:40:49,880
+I'm a bit of a polymath.
+
+733
+00:40:49,880 --> 00:40:50,680
+I think is what you mean.
+
+734
+00:40:50,680 --> 00:40:53,000
+Okay, yeah, I wouldn't have had that term at the ready, no.
+
+735
+00:40:53,000 --> 00:40:54,360
+So, all right, so you're a polymath.
+
+736
+00:40:55,160 --> 00:40:58,760
+But yeah, you know, so I went to college to be an engineer
+
+737
+00:40:58,760 --> 00:41:02,600
+and I quit engineering school the first week and switched to screenwriting.
+
+738
+00:41:04,280 --> 00:41:06,840
+But I've always had that engineering bug still.
+
+739
+00:41:08,040 --> 00:41:11,080
+And so it kind of became my hobby.
+
+740
+00:41:11,160 --> 00:41:14,120
+I kind of describe it as like, you'll hear that there's like an engineer
+
+741
+00:41:14,120 --> 00:41:15,880
+who dreams of one day writing a book.
+
+742
+00:41:16,680 --> 00:41:20,200
+I'm like a writer who dreams of one day engineering a complex system.
+
+743
+00:41:22,200 --> 00:41:25,880
+Which to some extent, you have to feel like this is one of the biggest accomplishments,
+
+744
+00:41:25,880 --> 00:41:26,920
+I would think.
+
+745
+00:41:26,920 --> 00:41:29,640
+Yeah, no, it was really thrilling to work on it.
+
+746
+00:41:29,640 --> 00:41:34,520
+It really ticked all the boxes a thing could tick for me.
+
+747
+00:41:35,880 --> 00:41:36,920
+When you're, sorry.
+
+748
+00:41:36,920 --> 00:41:37,560
+Go, no, please.
+
+749
+00:41:38,520 --> 00:41:41,480
+When you're on now another shooter ride,
+
+750
+00:41:41,480 --> 00:41:45,000
+are you trying to break down technologically what's happening?
+
+751
+00:41:45,880 --> 00:41:47,800
+Oh, excuse me, blasting?
+
+752
+00:41:47,800 --> 00:41:48,920
+A ride where you blast.
+
+753
+00:41:50,280 --> 00:41:51,720
+You don't hear about mass blasting.
+
+754
+00:41:53,320 --> 00:41:56,680
+I mean, for better or worse, I think the reason I was well suited for this
+
+755
+00:41:56,680 --> 00:41:59,480
+is that has not changed for me at all because that was already happening.
+
+756
+00:41:59,480 --> 00:42:00,680
+You were already breaking that down.
+
+757
+00:42:00,680 --> 00:42:03,800
+Yeah, I was already like, okay, so on Buzz Lightyear Blaster,
+
+758
+00:42:03,800 --> 00:42:06,600
+the reason it's attached is it's getting the coordinates of
+
+759
+00:42:06,600 --> 00:42:10,680
+where it's pointed at by how it's moving and things like that.
+
+760
+00:42:12,520 --> 00:42:17,240
+Okay, feel free to not answer this or generically answer it,
+
+761
+00:42:17,240 --> 00:42:22,200
+but I imagine that with you guys and other people in the process at Universal,
+
+762
+00:42:22,200 --> 00:42:27,640
+there must have been some, let's say, judgment or comparison
+
+763
+00:42:27,640 --> 00:42:32,200
+to other recent rides of the blasting variety.
+
+764
+00:42:32,200 --> 00:42:35,880
+You must have been kind of like comparing yourselves against maybe,
+
+765
+00:42:35,880 --> 00:42:39,400
+let's say, lesser versions of the genre.
+
+766
+00:42:39,400 --> 00:42:43,800
+There was a very exhausting ride that's somewhat similar,
+
+767
+00:42:44,440 --> 00:42:49,560
+and we were keen on not having our ride be quite so tiring on your arms
+
+768
+00:42:50,760 --> 00:42:53,480
+while also feeling like you aren't actually interacting with it,
+
+769
+00:42:53,480 --> 00:42:54,600
+but I won't go further.
+
+770
+00:42:57,240 --> 00:42:59,160
+And you want to feel like there's cause and effect,
+
+771
+00:42:59,160 --> 00:43:03,880
+like there's actual that you weren't just flailing around with no specific,
+
+772
+00:43:04,840 --> 00:43:09,560
+you didn't understand, which is a big challenge when you are not seated,
+
+773
+00:43:09,560 --> 00:43:11,240
+when you're holding a weapon.
+
+774
+00:43:12,440 --> 00:43:13,080
+Is that allowed?
+
+775
+00:43:13,080 --> 00:43:14,120
+Can I say weapons?
+
+776
+00:43:14,120 --> 00:43:14,520
+Weapons last.
+
+777
+00:43:14,520 --> 00:43:15,480
+Okay, just start it.
+
+778
+00:43:15,480 --> 00:43:18,680
+I'll say weapon.
+
+779
+00:43:18,680 --> 00:43:25,400
+But like, was there ever anyone trying to back up and say,
+
+780
+00:43:25,400 --> 00:43:33,080
+let's not do a weapon blaster that says weighty?
+
+781
+00:43:33,080 --> 00:43:35,960
+There were comparisons to other rides made as like,
+
+782
+00:43:35,960 --> 00:43:40,920
+we don't want to be like this or that, both because that is a problem,
+
+783
+00:43:40,920 --> 00:43:46,120
+but also I think out of like not wanting to be compared unfavorably.
+
+784
+00:43:46,120 --> 00:43:48,440
+Yeah, you want to distinguish yourself and do your own thing.
+
+785
+00:43:50,120 --> 00:43:55,960
+You don't want what's different about an attraction just to be the IP or characters.
+
+786
+00:43:55,960 --> 00:43:58,280
+You want it to feel like a different experience.
+
+787
+00:43:58,280 --> 00:43:58,920
+Sure.
+
+788
+00:43:58,920 --> 00:44:02,280
+One of the leads on the project had previously worked at Disney
+
+789
+00:44:02,280 --> 00:44:04,520
+and had worked on Toy Story Midway Mania.
+
+790
+00:44:04,520 --> 00:44:05,020
+Okay.
+
+791
+00:44:05,480 --> 00:44:07,240
+So we were all very positive about that one.
+
+792
+00:44:10,520 --> 00:44:13,320
+Was there ever an idea to not make it just a regular blaster,
+
+793
+00:44:13,320 --> 00:44:15,160
+like something weird like a sword or something?
+
+794
+00:44:15,160 --> 00:44:21,080
+No, it was pretty set on it was going to be a blaster throughout the whole process.
+
+795
+00:44:21,080 --> 00:44:23,720
+The big conversations with it had to do with like,
+
+796
+00:44:23,720 --> 00:44:26,200
+how much functionality would be on the blaster.
+
+797
+00:44:26,440 --> 00:44:26,940
+Right.
+
+798
+00:44:27,720 --> 00:44:33,960
+You know, there was a moment when you would have more ability with the blaster
+
+799
+00:44:33,960 --> 00:44:39,400
+to be like selecting different weapons and cycling through weapons and things like that,
+
+800
+00:44:39,400 --> 00:44:45,400
+but there was a concern about giving too much immediate on weapon depth,
+
+801
+00:44:45,400 --> 00:44:46,920
+excuse me, on blaster depth,
+
+802
+00:44:48,040 --> 00:44:51,720
+and that making any riders who are not familiar with
+
+803
+00:44:51,800 --> 00:44:55,800
+video games of that genre and things like that too confused.
+
+804
+00:44:55,800 --> 00:44:59,800
+And also you want people to be looking at the attraction and not the blaster.
+
+805
+00:44:59,800 --> 00:45:04,360
+Blasters have these great little screens on them that let you know what projectile you're using
+
+806
+00:45:04,360 --> 00:45:09,720
+and what your score is, but it's also like this pressure to, from ourselves,
+
+807
+00:45:09,720 --> 00:45:13,240
+don't use the screen too much because you don't want people staring down at the screen on their blaster,
+
+808
+00:45:13,240 --> 00:45:15,000
+which we could show whatever we want on,
+
+809
+00:45:15,000 --> 00:45:20,680
+but we'd like the action to be out in the big world around them where they're built out columns
+
+810
+00:45:21,480 --> 00:45:23,240
+and kids are already looking down at their screens.
+
+811
+00:45:23,240 --> 00:45:25,240
+You know what? I'm looking at screens on blasters.
+
+812
+00:45:25,880 --> 00:45:26,600
+There you go.
+
+813
+00:45:26,600 --> 00:45:31,160
+I think the blaster, I thought it was very satisfying to hold,
+
+814
+00:45:31,160 --> 00:45:36,520
+and it is larger than some other blaster based rides, but it is very light.
+
+815
+00:45:37,560 --> 00:45:41,560
+Yeah, I mean that was definitely a challenge is figuring out what,
+
+816
+00:45:41,560 --> 00:45:44,680
+because all of the stuff that you put into it can make it heavier,
+
+817
+00:45:44,680 --> 00:45:48,200
+so making it not too heavy, but also having the functionality that you want.
+
+818
+00:45:49,160 --> 00:45:49,800
+That's...
+
+819
+00:45:49,800 --> 00:45:52,440
+Evan wanted a soda dispenser cut for weight.
+
+820
+00:45:53,320 --> 00:45:55,720
+Dispensing tech was like the soda itself.
+
+821
+00:45:58,280 --> 00:46:01,800
+And then just to finish the walkthrough of the ride,
+
+822
+00:46:03,160 --> 00:46:05,880
+you do the Vicious Six challenge, and each member of the Vicious Six,
+
+823
+00:46:05,880 --> 00:46:08,680
+whether that be Strongholds, Vengeance, or Nunchuck,
+
+824
+00:46:08,680 --> 00:46:11,560
+they kind of have their own room that they've designed that they have
+
+825
+00:46:11,560 --> 00:46:15,800
+their own kind of unique way and challenges of how you can earn more points,
+
+826
+00:46:15,800 --> 00:46:16,680
+cause more destruction.
+
+827
+00:46:17,320 --> 00:46:22,600
+Concluding in, and this is a little bit of a tip to, you know,
+
+828
+00:46:23,240 --> 00:46:26,840
+my fandom of wrestling, which Carlson can relate to,
+
+829
+00:46:27,880 --> 00:46:31,080
+Bell Bottoms tells you a version of Ric Flair is to be the man,
+
+830
+00:46:31,080 --> 00:46:32,120
+you gotta be the man.
+
+831
+00:46:32,120 --> 00:46:33,800
+It's to be the best, you gotta be the best.
+
+832
+00:46:34,360 --> 00:46:39,640
+And as a surprise, all of the iconic villains from the Despicable Me
+
+833
+00:46:39,640 --> 00:46:44,280
+and Minions franchise, you discover, are also there in competition with you,
+
+834
+00:46:44,280 --> 00:46:49,960
+whether that is Scarlet Overkill, Brat, El Macho, Vector,
+
+835
+00:46:49,960 --> 00:46:54,680
+and they come in and it's a fun thing that if you're riding the ride multiple times,
+
+836
+00:46:54,680 --> 00:46:58,040
+you might have a different version of who you go up against.
+
+837
+00:46:58,040 --> 00:47:00,120
+Oh, who takes lead in the ride.
+
+838
+00:47:00,120 --> 00:47:04,360
+Right, okay, so the first time you go through, you might be finishing a battle
+
+839
+00:47:04,360 --> 00:47:08,680
+with Vector and then El Macho comes in, and then the next time you do it,
+
+840
+00:47:08,680 --> 00:47:10,040
+it might be Scarlet Overkill.
+
+841
+00:47:10,040 --> 00:47:13,080
+So that's a little bit of variation and you have a face off against,
+
+842
+00:47:13,960 --> 00:47:18,280
+iconic villain and you can either win or lose against that iconic villain.
+
+843
+00:47:19,720 --> 00:47:26,120
+And that battle is happening, it's gotten so intense that it's blasted out into
+
+844
+00:47:26,120 --> 00:47:30,200
+Universal Orlando and you can see some of the iconic universal landmarks,
+
+845
+00:47:31,160 --> 00:47:37,400
+which was a really fun, I think, idea that Van and I really liked and pushed for.
+
+846
+00:47:37,400 --> 00:47:41,960
+Yeah, this was, this seems like the, I don't know if we can give you,
+
+847
+00:47:41,960 --> 00:47:48,040
+you tell me if it's 100% credit for that idea, but certainly like that it ends at
+
+848
+00:47:48,040 --> 00:47:51,080
+the practical universal skyline seem like a real victory.
+
+849
+00:47:51,080 --> 00:47:53,400
+I don't know what the modest way to say yes is.
+
+850
+00:47:53,400 --> 00:48:03,480
+It took other important stakeholders saying yes, and that's arguably as valuable as our coming
+
+851
+00:48:03,480 --> 00:48:11,880
+up with the idea for it. And it also took heroic efforts and conversations with universal legal
+
+852
+00:48:11,960 --> 00:48:18,520
+about the ability to blast at universal properties and objects and what could and could not be
+
+853
+00:48:18,520 --> 00:48:21,320
+included. Shooting a fart gun at volcano bay.
+
+854
+00:48:23,320 --> 00:48:27,960
+Well, yeah, cause you get sort of say what's on that skyline. It felt, it was,
+
+855
+00:48:27,960 --> 00:48:34,920
+it felt validating for me as a fan of universal Orlando and like the grandeur of universal and
+
+856
+00:48:34,920 --> 00:48:38,840
+like how, because I think for all the, you know, we'll get into a lot of complaints about
+
+857
+00:48:39,480 --> 00:48:43,800
+city walk Orlando, but I think a real victory is the big lake or the big lagoon, whatever you
+
+858
+00:48:43,800 --> 00:48:50,040
+want to call it with kind of like the primary icons all there. It's the studio gate for universal
+
+859
+00:48:50,040 --> 00:48:56,360
+studios proper. It's what's the lighthouse Jason, I cannot remember the Ferros lighthouse based on
+
+860
+00:48:56,360 --> 00:49:02,200
+one of the wonders of the ancient world. Ferros lighthouse. I keep thinking fanos. It's not that.
+
+861
+00:49:02,280 --> 00:49:09,160
+No. And then, and then it's not there literally, but the, the volcano bay volcano is there. And
+
+862
+00:49:09,160 --> 00:49:15,160
+then of course, most importantly, tooth, some chocolate, emporium and the big smokestacks.
+
+863
+00:49:16,360 --> 00:49:24,280
+So those are all lined up and a fantastic backdrop for a scene and they, you can damage them, right?
+
+864
+00:49:24,280 --> 00:49:29,480
+I feel like I saw a video with like cracks on the, the universal globe is there.
+
+865
+00:49:30,440 --> 00:49:35,560
+Certain letters can be shot to unlock something. Whoa. Wow.
+
+866
+00:49:35,560 --> 00:49:37,160
+Little inside tip. Geez. Yeah.
+
+867
+00:49:37,880 --> 00:49:42,520
+Just trying to think what word that could apply to the franchise can be spelled with the letters in
+
+868
+00:49:42,520 --> 00:49:50,280
+universal. And you might get there. I can't, I need to take a minute to figure it out.
+
+869
+00:49:50,280 --> 00:49:55,560
+There was a cut for time plan for tooth. Some factory to be able to have a sort of a chocolate
+
+870
+00:49:55,560 --> 00:50:01,000
+explosion. Oh, wow. That was sadly, we just didn't have the like a bandwidth.
+
+871
+00:50:01,640 --> 00:50:07,160
+When we were told that tooth, some could be included, I really went in on wanting to
+
+872
+00:50:07,160 --> 00:50:13,240
+explore the tooth of mythology as a part of this ride. Of course, at a certain point was told,
+
+873
+00:50:13,240 --> 00:50:16,280
+you know, he did pitch replacing the vicious six with Jacques.
+
+874
+00:50:17,320 --> 00:50:18,840
+Wow. Wow. He did not.
+
+875
+00:50:18,840 --> 00:50:22,840
+Was there an idea that when you start shooting or excuse me, you start blasting a tooth, some
+
+876
+00:50:22,840 --> 00:50:25,080
+that Dr. Tooth, some like comes on and goes, please stop.
+
+877
+00:50:27,000 --> 00:50:29,080
+My home. I'm running a business here.
+
+878
+00:50:33,000 --> 00:50:35,640
+In fact, there are no people.
+
+879
+00:50:35,640 --> 00:50:38,280
+In fact, no people at all.
+
+880
+00:50:38,280 --> 00:50:39,400
+Very good point. Yeah.
+
+881
+00:50:39,400 --> 00:50:39,800
+As you think about it.
+
+882
+00:50:39,800 --> 00:50:43,240
+Yeah. All right. If we're going to do that, no people, no, no guests, no executives.
+
+883
+00:50:44,040 --> 00:50:48,920
+Jason, are you upset at the possibility that your beloved Ferris lighthouse could be damaged in
+
+884
+00:50:48,920 --> 00:50:53,880
+some way? Well, I mean, I was going to raise more of the objection that if you were going from
+
+885
+00:50:54,760 --> 00:51:01,400
+right to left, you would see the universal arches before to some. And yes, you see it.
+
+886
+00:51:01,400 --> 00:51:06,280
+But, you know, I figured if it passed legal, that was acceptable.
+
+887
+00:51:07,080 --> 00:51:07,800
+Yes, this was.
+
+888
+00:51:08,520 --> 00:51:14,760
+We did have to take some geographical liberties for layout reasons to preserve the illusion
+
+889
+00:51:15,080 --> 00:51:22,040
+that you were looking outside of a wall. There's essentially a concern with the parallax effect
+
+890
+00:51:22,040 --> 00:51:28,440
+as you move past these screens because they are two dimensional screens. But you want to be able
+
+891
+00:51:28,440 --> 00:51:35,240
+to maintain the depth illusion the entire time. And so the layout and arrangement of objects
+
+892
+00:51:35,240 --> 00:51:41,560
+on the screen is very carefully done so that it doesn't suddenly feel like what you're looking at
+
+893
+00:51:41,560 --> 00:51:46,440
+what you're looking at isn't it doesn't have depth in the right way.
+
+894
+00:51:46,440 --> 00:51:49,240
+And I was the big one bringing up the parallax concern.
+
+895
+00:51:49,240 --> 00:51:51,400
+Yeah, I was kind of figured it was a parallax.
+
+896
+00:51:51,400 --> 00:51:53,240
+You call it the parallax concern?
+
+897
+00:51:53,240 --> 00:51:53,740
+Yeah.
+
+898
+00:51:55,240 --> 00:52:00,280
+Scott, you mentioned concern about two from being destroyed. The good news is when you get to the
+
+899
+00:52:00,280 --> 00:52:05,160
+next, which is called the kiss good night, which is a term that I had not heard where Bell Bottom
+
+900
+00:52:05,160 --> 00:52:09,240
+tells you, hey, you did a good job. You unfortunately, because it hasn't happened yet,
+
+901
+00:52:09,240 --> 00:52:14,360
+no one's made the vicious six, but you can get back and try again. But you can see behind her
+
+902
+00:52:14,360 --> 00:52:21,000
+that robots are putting back together all of the damage at the park. So that when you do the ride
+
+903
+00:52:21,000 --> 00:52:28,200
+again and you discover that it has not all been destroyed, it's built into the story.
+
+904
+00:52:28,920 --> 00:52:32,760
+What happened that it's being reconstructed. But if you do go outside the building,
+
+905
+00:52:32,760 --> 00:52:35,240
+I think you'll see a little bit of damage that has been done.
+
+906
+00:52:35,240 --> 00:52:42,120
+That's fascinating. Wow. Yeah, kiss good night. That's a good bit of terminology that you,
+
+907
+00:52:42,120 --> 00:52:46,120
+because we've talked about that as like a, I've heard that reference as a Disney thing,
+
+908
+00:52:46,120 --> 00:52:49,000
+where all the characters wave to you. Yeah, at the end of the night.
+
+909
+00:52:49,000 --> 00:52:53,640
+But specific rides, there is this desire to like give you one more little moment.
+
+910
+00:52:53,640 --> 00:52:58,360
+Yes. And I will say when we were down there testing out the ride and riding it over and
+
+911
+00:52:58,360 --> 00:53:06,520
+over again for two hours, they have an employee that is there. And I saw an employee who had only
+
+912
+00:53:06,520 --> 00:53:11,400
+been there for two hours, but could say the whole kiss good night word for word, because he heard
+
+913
+00:53:11,400 --> 00:53:17,320
+it over and over and over. So that was a unique experience. You don't think that when you write
+
+914
+00:53:17,320 --> 00:53:21,880
+something that someone was going to have to listen to it. I think that the origin of the term is
+
+915
+00:53:22,680 --> 00:53:28,120
+when John Lester was in charge of the Disney park. Upon exiting every meeting,
+
+916
+00:53:28,120 --> 00:53:32,040
+you would have to give him a kiss good night. He was really committed. He's the first one in
+
+917
+00:53:32,040 --> 00:53:35,720
+the morning and he insisted on being the last one to leave. The last one to leave the park.
+
+918
+00:53:36,680 --> 00:53:43,880
+This is for everyone. Okay, so you just referred to, Evan, you just referred to like
+
+919
+00:53:43,880 --> 00:53:47,880
+going down there, getting to test. Now here's the, I would like to get into the portion where
+
+920
+00:53:48,600 --> 00:53:53,560
+you guys make us jealous. Make us jealous of access and cool things. I mean already the
+
+921
+00:53:53,560 --> 00:54:00,200
+fact that you had a version of this in your office. What is it like, what springs to mind when I say
+
+922
+00:54:00,200 --> 00:54:05,880
+like some part of the process that you got to do and had early access to that where we would,
+
+923
+00:54:06,680 --> 00:54:08,840
+you know, nerd-gasm about it. I mean I hope we've covered it already.
+
+924
+00:54:08,840 --> 00:54:16,360
+That's right. We were getting to do it. So first of all, I was able to enter for a meeting
+
+925
+00:54:17,320 --> 00:54:23,160
+Universal Hollywood through Walters Gate. Oh yeah. Oh yeah. Yeah. I mean we've drawn Walters Gate.
+
+926
+00:54:23,160 --> 00:54:28,920
+We walked through it. So that was my day. Every day was that for me. Yeah, that's good. I'm not
+
+927
+00:54:28,920 --> 00:54:32,760
+saying it's that good. I'm just saying we have to. That's all I'm saying. A funny thing that
+
+928
+00:54:32,760 --> 00:54:36,760
+happened early on was to test a version of the ride before it was up and running in my office.
+
+929
+00:54:38,680 --> 00:54:43,480
+We tested it at Universal City Walk in one of the theaters. Now we're talking. Yeah. Wow.
+
+930
+00:54:43,560 --> 00:54:50,200
+Wow. It got like, they hooked it all up so that we could use a temporary blaster that was built
+
+931
+00:54:50,200 --> 00:54:55,240
+out of like pipes. Oh my god. Yeah, that's great. Wow. And so that the levels could be
+
+932
+00:54:56,040 --> 00:55:02,280
+shown at the actual scale that they were going to be on the ride. Wow. Wow. Oh, so they're not even
+
+933
+00:55:03,800 --> 00:55:07,480
+necessarily using the entire screen. No. They're like showing exactly what it will be. Exactly.
+
+934
+00:55:07,480 --> 00:55:12,840
+So each level would be shown in different sizes. Geez. That's cool. That's really cool. And knowing
+
+935
+00:55:12,840 --> 00:55:18,600
+that like, you know, for anyone who thinks that City Walk is, I don't know, mundane or something,
+
+936
+00:55:19,400 --> 00:55:24,200
+that there's, you know, magic like that could be happening around any corner. Yeah. Wow. And then
+
+937
+00:55:24,200 --> 00:55:28,920
+you got, you made it down to Florida. Yes. I was there on there twice. I think Evan was there once.
+
+938
+00:55:30,120 --> 00:55:36,920
+The first time I got to go when the ride was mid construction. And so the demolition of Shrek
+
+939
+00:55:37,800 --> 00:55:43,320
+was complete except for a few, you know, like a donkey ear here and there, you know.
+
+940
+00:55:45,240 --> 00:55:53,160
+Gingerbread bits. And the rooms had kind of been like cordoned off and sketched out and they were
+
+941
+00:55:53,160 --> 00:55:59,880
+starting to put up some of the giant fake marble columns for one of the rooms. But it was like,
+
+942
+00:56:00,600 --> 00:56:04,600
+the whole place was kind of half constructed and that was a really cool experience to be inside of
+
+943
+00:56:04,600 --> 00:56:15,160
+a ride as it was coming together like that. Yeah. And then they took us to the, like basically the
+
+944
+00:56:15,160 --> 00:56:23,560
+universal R and D lab where they were working on the ride outside of that. And what was very funny
+
+945
+00:56:23,560 --> 00:56:30,200
+was right next to us, someone was testing a new iteration of the Harry Potter wands.
+
+946
+00:56:30,840 --> 00:56:35,800
+Oh, wow. Wow. So it was like a fake thing from a movie about how you would imagine this works
+
+947
+00:56:35,800 --> 00:56:39,560
+where like they're working on it right here and literally right there someone's got magic wands
+
+948
+00:56:39,560 --> 00:56:43,800
+and they're like pointing in that a bookcase that's lighting up. It's like the Richie Rich scene with
+
+949
+00:56:43,800 --> 00:56:47,640
+Professor Keen Bean where there's just chaos going on everywhere. It was like that. That's the most
+
+950
+00:56:47,640 --> 00:56:57,240
+famous version of what you're talking about. Yeah. The ride vehicles for the Velocircoaster.
+
+951
+00:56:57,720 --> 00:57:02,840
+There was a like section of track that could just go around in a circle that had the ride
+
+952
+00:57:02,840 --> 00:57:08,440
+vehicle on it that could move just around and around. It wasn't running while I was there,
+
+953
+00:57:08,440 --> 00:57:14,200
+but it was there to test something. Wow. The Velocircoaster.
+
+954
+00:57:14,200 --> 00:57:20,840
+So there are a few places where I would like for you guys to hear something and then
+
+955
+00:57:20,840 --> 00:57:25,080
+never reference it again and please bleep it out of the podcast. That's going on you.
+
+956
+00:57:25,880 --> 00:57:31,160
+Okay. Well, we could always use the plan that Susser instituted that our bleep is the song
+
+957
+00:57:31,160 --> 00:57:37,000
+moves like Bert that bleeped a story. The people are still kind of curious. There's been requests
+
+958
+00:57:37,000 --> 00:57:42,760
+maybe to hear a story, something that happened to you at Sesame Place in full. People behind the
+
+959
+00:57:42,760 --> 00:57:47,240
+paywall maybe are like, don't we deserve to hear? What do you think of that?
+
+960
+00:57:47,240 --> 00:57:52,920
+What do you have? You have the second gate is? The second gate and club three a little
+
+961
+00:57:52,920 --> 00:57:57,400
+further than that. Maybe club four. Okay. So once we do a club four,
+
+962
+00:57:57,400 --> 00:58:03,080
+you can finally hear the admittedly scarring, unpleasant, probably unsatisfying story.
+
+963
+00:58:03,720 --> 00:58:10,760
+Should we in keeping in the minion universe though, should the bleep on this one be like
+
+964
+00:58:10,760 --> 00:58:18,200
+happy or despicable me song? Maybe just a minion exclamation or something like that.
+
+965
+00:58:18,520 --> 00:58:24,600
+Yeah. So anyway, let's figure that out later and we'll get to the. Yeah, yeah, yeah.
+
+966
+00:58:25,480 --> 00:58:29,160
+Well, we're on a little writer's room to figure out. You guys are the experts. You can tell.
+
+967
+00:58:29,720 --> 00:58:36,200
+What is the big new minion phrase that we could? Yeah. So next to us, I kind of snooped around a
+
+968
+00:58:36,200 --> 00:58:48,040
+little bit and I saw the. Wow. So that is okay. That's pretty good. Interesting. And just to be
+
+969
+00:58:48,040 --> 00:58:53,240
+clear, the intention here is to, you want us to leave in all of us going like, Oh, wow. Oh,
+
+970
+00:58:53,240 --> 00:58:56,920
+and then the listeners don't get to find out exactly what that is. Yeah. They're not going
+
+971
+00:58:56,920 --> 00:59:00,200
+to like this. Oh no, they're not going to like it. Well, they didn't, you know, they loved the
+
+972
+00:59:00,200 --> 00:59:05,320
+last time we did moves like Bert. Remember everybody was thrilled when I remember that.
+
+973
+00:59:05,320 --> 00:59:10,040
+Oh, this is deep story. This is different though, cause this is fun. The other two are awful.
+
+974
+00:59:10,920 --> 00:59:13,720
+This is the first step. Wait. Yeah. Well, that's maybe why the sound has to change.
+
+975
+00:59:13,960 --> 00:59:18,280
+It's like Bert is only for when it's something deeply, deeply unsettling. Yeah. Yeah. No,
+
+976
+00:59:18,280 --> 00:59:22,840
+this is great. So it was very exciting to kind of be inside the dream factory, so to speak,
+
+977
+00:59:22,840 --> 00:59:28,120
+seeing other things. And then I'll say back to the like, where any of like the dream come true. One,
+
+978
+00:59:29,160 --> 00:59:33,160
+one fun thing, you know, in addition to work on the ride, we eventually started working on
+
+979
+00:59:33,160 --> 00:59:38,760
+the greater minion land. Oh yeah. That's around there. And when we were down for the trip,
+
+980
+00:59:39,560 --> 00:59:44,120
+we got an email. Hey, we're gonna have to start this day a little early. Cause we got to do a
+
+981
+00:59:44,120 --> 00:59:49,400
+taste test at a bake my day of all of the cupcakes and treats that are going to be sold at the park.
+
+982
+00:59:49,400 --> 00:59:57,400
+Wow. If only you were there to have, you know, the executive chef at universal talking through
+
+983
+00:59:57,400 --> 01:00:02,840
+every cupcake and treat and all of the different flavor combinations. I mean, you know, I think
+
+984
+01:00:02,920 --> 01:00:07,400
+that they had really come to lean on van for his technical expertise.
+
+985
+01:00:07,400 --> 01:00:18,600
+But then we need you. So sir, Mr. Cesar, we noticed this white napkin that's been tucked into your
+
+986
+01:00:18,600 --> 01:00:25,000
+shirt. This month, for months in a fork and knife. Can you tell us something that you got to taste?
+
+987
+01:00:25,000 --> 01:00:30,600
+And can we use the same bleeping mechanism, even though we don't need to just here? Tell us with
+
+988
+01:00:30,600 --> 01:00:37,800
+something that you got to take a bite of a minion cupcake. Oh, whoa. Okay. Okay. Do not let that
+
+989
+01:00:37,800 --> 01:00:42,760
+through. I'm going to not. Yeah. Yeah. It's that. Don't worry. I, well, yeah. I mean, we can get
+
+990
+01:00:42,760 --> 01:00:47,160
+into some, some broader, yes, because this is part of there's the, there's the attraction. Yes. But
+
+991
+01:00:47,160 --> 01:00:52,200
+then there is the broader minion land, which connects a despicable me minion ma'am, which
+
+992
+01:00:52,200 --> 01:00:58,600
+has been there for a while. And then minion cafe, uh, which you guys also participated in. Yeah. I
+
+993
+01:00:58,680 --> 01:01:03,560
+think that that was a little, we were not as full time on that project, but they would definitely
+
+994
+01:01:03,560 --> 01:01:11,960
+come to us for a decoration copy and also a few items on the menu. Do you, yeah. So what made it
+
+995
+01:01:11,960 --> 01:01:16,280
+through that you, or do you need to look at a menu to know? I would maybe need to look at it,
+
+996
+01:01:16,280 --> 01:01:23,320
+but again, I mean, all of it was very collaborative. I don't feel the need to go through. I want to see
+
+997
+01:01:23,320 --> 01:01:27,320
+your initials next to everything. Something that I think we can take credit for that ended up in
+
+998
+01:01:27,320 --> 01:01:33,880
+the minion cafe, not as a consumable item, but just as a decoration, um, was as part of the
+
+999
+01:01:35,720 --> 01:01:41,880
+queue, uh, we were trying to figure out ways to, uh, stretch the production budget for the videos,
+
+1000
+01:01:41,880 --> 01:01:49,000
+for the line, uh, to make them not repeat as often. And so we added some static cards that are sort of,
+
+1001
+01:01:49,000 --> 01:01:55,080
+um, the sort of information you would be being told at a comic con. Oh yeah. Yes. You know, where
+
+1002
+01:01:55,160 --> 01:02:01,080
+the, um, what the schedule is and things like that. Oh, all of the implications of panels. Yes.
+
+1003
+01:02:01,080 --> 01:02:05,240
+That are occurring. I wait, the one I have in front of me isn't from the video part, but it's
+
+1004
+01:02:05,240 --> 01:02:11,400
+from the, like the sign iteration of it. But I really liked, uh, mind control masterclass. You
+
+1005
+01:02:11,400 --> 01:02:17,880
+all, you already RSVP'd. But all the, all the video still versions are so funny. And one of those was
+
+1006
+01:02:17,880 --> 01:02:23,480
+a concession stand slide. Um, and for that we were trying to come up with what are some like
+
+1007
+01:02:23,480 --> 01:02:27,560
+fun villainous items that would be available at a concession stand. And one of the things that we
+
+1008
+01:02:27,560 --> 01:02:34,520
+came up with was, um, this, uh, villainous energy drink called manic energy. And, uh,
+
+1009
+01:02:34,520 --> 01:02:38,760
+the artists did a great job designing the can. The can is available as a collectible inside of the
+
+1010
+01:02:38,760 --> 01:02:46,760
+game. Oh, wow. There is a, um, a full size in the minions break room area of the minion cafe.
+
+1011
+01:02:46,760 --> 01:02:52,360
+There's a non-functional, but full sized vending machine that has various items. And there are
+
+1012
+01:02:52,360 --> 01:02:56,920
+cans of manic energy drink in the vending machine. And that's, that was one of the things where I
+
+1013
+01:02:56,920 --> 01:03:02,040
+showed up and I did not know there was going to be a fully realized three-dimensional organic
+
+1014
+01:03:02,040 --> 01:03:07,640
+energy drink that was, came, come to exist. Well, and it's, it's also, it's the most fun experience.
+
+1015
+01:03:07,640 --> 01:03:13,400
+It's the most you thing also given your work with rain with rain energy drink is the official sponsor
+
+1016
+01:03:13,400 --> 01:03:17,800
+of bugcon. Yeah. Yeah. So it's a real, you can really just like see straight through to,
+
+1017
+01:03:18,360 --> 01:03:24,040
+there's a straight line. That vending machine is really fantastic in general that they're like,
+
+1018
+01:03:24,040 --> 01:03:29,400
+I mean, it's like specific products you can read, but the, the, like that there's just a full, uh,
+
+1019
+01:03:29,400 --> 01:03:37,720
+ice cream Sunday in there. The cafe, um, set deck people did a really tremendous job, uh, with a lot
+
+1020
+01:03:37,720 --> 01:03:42,680
+of the fine details like that. The vending machine also has like exactly the right amount of bananas
+
+1021
+01:03:42,680 --> 01:03:48,840
+to be not too many. Um, funny that they're even in there. A really functional amount. It's like,
+
+1022
+01:03:48,840 --> 01:03:54,840
+one joke is that it's all bananas, but how satisfying is that the, the awkward spacing out
+
+1023
+01:03:54,840 --> 01:04:02,040
+of selective rows of bananas and then just a random fart gun in the middle. Yeah. Fart blaster.
+
+1024
+01:04:02,040 --> 01:04:09,000
+Fart blaster. Yeah. Sorry. Um, I, yeah, it is definitely a restaurant worth going into and
+
+1025
+01:04:09,000 --> 01:04:13,720
+poking around details. I feel like you guys, I think there was a moment where you must've,
+
+1026
+01:04:13,720 --> 01:04:19,720
+you were texting me because you were specifically working on the break room sign with a lot of dos
+
+1027
+01:04:19,720 --> 01:04:25,640
+and don'ts. And I saw a little like a peek into the process of like, what are the kinds of jokes
+
+1028
+01:04:25,640 --> 01:04:32,200
+that would be rejected for whatever like danger reason, minion unlike ability reason. Also,
+
+1029
+01:04:32,200 --> 01:04:37,640
+there was a not to put, uh, there was a about the microwave not to put any, uh, any minions in it.
+
+1030
+01:04:39,960 --> 01:04:45,800
+Because can you imagine a child would go home after reading that sign and say, well, they said,
+
+1031
+01:04:45,800 --> 01:04:49,160
+don't put a minion in a microwave, but surely I could put my little kid brother.
+
+1032
+01:04:53,240 --> 01:04:58,200
+And they may have just watched the flash and that would have been a whole thing too. So
+
+1033
+01:04:59,640 --> 01:05:03,720
+I've shown some restraint and not bringing up flash gate. I don't think so much to talk about.
+
+1034
+01:05:03,720 --> 01:05:07,160
+I was going to say that's what I thought, but there's a tease of this and business to go over
+
+1035
+01:05:07,160 --> 01:05:09,720
+with Evan. Yeah, don't worry. We'll find a time to do it. I'll tell the story.
+
+1036
+01:05:11,960 --> 01:05:18,120
+The fourth gate. Oh, that's not a bad combo. Um, you know what though? I'm looking at the sign
+
+1037
+01:05:18,120 --> 01:05:23,960
+that you wrote van or that I assume you guys wrote together and here I'm looking at the don'ts list.
+
+1038
+01:05:23,960 --> 01:05:29,480
+And one of them is don't, this is about the refrigerator. Uh, don't unplug to charge fart
+
+1039
+01:05:29,480 --> 01:05:34,440
+guns. Jason was correct. No need to correct Jason. I think there was a bit of questioning
+
+1040
+01:05:34,680 --> 01:05:41,160
+that's canonically called the fart gun. Yeah. This was a tough balance that had to be struck
+
+1041
+01:05:41,880 --> 01:05:48,360
+working on a property that does explicitly use guns and knives and other violent while trying
+
+1042
+01:05:48,360 --> 01:05:55,080
+to kind of tip toe around that. But, but yes, um, I feel like, I mean, these are all, these ended up
+
+1043
+01:05:56,280 --> 01:06:01,480
+really funny, especially the last one, the last don't being don't replace this list with a joke
+
+1044
+01:06:01,560 --> 01:06:08,280
+list. Um, and then like, I'm pretty sure, um, that's very good. Uh, and then like lots of,
+
+1045
+01:06:08,280 --> 01:06:14,440
+like minions advertising their, uh, services, uh, you know, the one does lawn when one, uh,
+
+1046
+01:06:14,440 --> 01:06:20,600
+one's a DJ, DJ Carl. And then this reminds me also that there is a poster in here that connects back
+
+1047
+01:06:20,600 --> 01:06:27,480
+to the attraction for the cosplay contest. Um, and this really, uh, I mean, you, this manifests
+
+1048
+01:06:27,480 --> 01:06:32,920
+in the line and in your pre-show videos, but also in the store after where there are minions
+
+1049
+01:06:32,920 --> 01:06:40,440
+that are in costume as vicious six members or other despicable me universe villains, uh,
+
+1050
+01:06:40,440 --> 01:06:45,320
+which is some very fun specificity and really good, like figures in the gift shop. The figures in
+
+1051
+01:06:45,320 --> 01:06:52,440
+the gift shop are awesome. Yeah. Yeah. Um, I like seeing the presence of, of Brad of belt is our
+
+1052
+01:06:52,440 --> 01:06:57,960
+bread, which also something we haven't talked about is the, the actual voice talent being part
+
+1053
+01:06:57,960 --> 01:07:03,800
+of basically everybody returned to do the voices and we were lucky enough to be in the recording
+
+1054
+01:07:03,800 --> 01:07:09,480
+session. So all of them amazing and so impressive, but especially for me personally, Trey Parker,
+
+1055
+01:07:09,480 --> 01:07:17,480
+uh, was really wild to see him do his thing. He was super game to do it. He was really excited.
+
+1056
+01:07:17,560 --> 01:07:23,000
+He's a big theme park fan himself. And so the idea of being a voicing a ride in a theme park was
+
+1057
+01:07:23,000 --> 01:07:27,240
+really fun for him. I think that's chances of a South park theme park ride are very slim.
+
+1058
+01:07:28,200 --> 01:07:36,200
+Given the, uh, some of the issues with the IP and, uh, the theme parks in general. Um, and so I think
+
+1059
+01:07:36,200 --> 01:07:41,240
+this was like a big shot for him at, at theme park, uh, Oh man, immortality, immortality.
+
+1060
+01:07:41,240 --> 01:07:46,200
+Yeah. Yeah. So smart. And, you know, I think, you know, obviously his voice talent, but he also
+
+1061
+01:07:46,760 --> 01:07:52,360
+cannot help himself just being creative overall in general. And he was, you know, thinking he was
+
+1062
+01:07:52,360 --> 01:07:56,200
+like, you know, wait, maybe I should do it like this, because I think if I'm yelling at them,
+
+1063
+01:07:56,200 --> 01:08:00,200
+even though it's supposed to be intense, I think that, you know, you don't want to be only intense.
+
+1064
+01:08:00,200 --> 01:08:05,160
+And he was, you know, really thinking about the, you know, guest experience of doing it. Uh,
+
+1065
+01:08:05,160 --> 01:08:09,960
+Wow. Wow. So yeah, he did a lot of questions about, you know, what exactly is happening,
+
+1066
+01:08:09,960 --> 01:08:15,640
+what are people doing? Um, and so that was really cool. Yeah. Yeah. Intimidating on any level. I
+
+1067
+01:08:15,640 --> 01:08:20,360
+mean, what a cool, I can't, like, of course it's everyone who did voices in this really impressive,
+
+1068
+01:08:20,360 --> 01:08:25,800
+but Trey partners, the only one for like personally, I would be just, yeah, there was a concern
+
+1069
+01:08:25,800 --> 01:08:36,040
+that he would be like, who wrote this funny. I was trying to figure out the timing with, um,
+
+1070
+01:08:36,680 --> 01:08:42,680
+the pandemic and everything of like, were there any remote, they were always record, like just
+
+1071
+01:08:42,680 --> 01:08:49,240
+trying to imagine Dolph Lundgren or John Claude Van Damme plug setting up a blue Yeti mic in their
+
+1072
+01:08:49,240 --> 01:08:54,600
+home. So the way these were done, they were remote, but, um, it would be the talent at a
+
+1073
+01:08:55,320 --> 01:09:00,280
+actual, like local recording. Oh, okay. But no, but the director and all the producers and everybody,
+
+1074
+01:09:00,280 --> 01:09:06,520
+they were remote. Yeah. Right. Gotcha. Yeah. Yeah. Um, correct me if one of these people is not in it,
+
+1075
+01:09:06,520 --> 01:09:13,240
+but Taraji P. Henson, Dolph Lundgren, Danny Trejo, Lucy Lalas, John Claude Van Damme all appear in
+
+1076
+01:09:13,240 --> 01:09:21,880
+this, uh, attraction or any of those. One of the names, um, that you said, uh, was not able to
+
+1077
+01:09:21,880 --> 01:09:27,720
+appear in all of their dialogue is reuse. Um, as a result of, uh, but we, but we carefully selected
+
+1078
+01:09:27,720 --> 01:09:33,560
+the reason you won't even be able to, I believe they were having a shoulder or knee surgery.
+
+1079
+01:09:33,560 --> 01:09:36,600
+Okay. Does that narrow it down to somebody who like, I don't know.
+
+1080
+01:09:41,160 --> 01:09:47,400
+Taraji, you just go too hard. Um, I would like to know a little bit about
+
+1081
+01:09:48,680 --> 01:09:55,400
+this project or any other, any interactions with the mysterious voice of the minions, uh, Pierre,
+
+1082
+01:09:55,960 --> 01:10:01,400
+what's the last name? I don't want to bungle a French pronunciation or is it just coffin?
+
+1083
+01:10:01,400 --> 01:10:07,720
+What's the guy's name? Coffeen. Okay. Um, we did not have any personal interactions, uh, with him,
+
+1084
+01:10:07,720 --> 01:10:13,720
+but we write a lot of stuff for the minions specifically for commercials, stuff for the
+
+1085
+01:10:13,720 --> 01:10:21,160
+movies, stuff for this. Um, and the original minion stuff was recorded for this. Um, and what I can
+
+1086
+01:10:21,160 --> 01:10:27,960
+say about the, the, the, the relationship is it's, it's, he is the minions. And so you can
+
+1087
+01:10:28,520 --> 01:10:32,840
+give him stuff one of two ways. You can figure out the minion ease. That's the language, the
+
+1088
+01:10:32,840 --> 01:10:39,240
+minions speak yourself, or you can write it in English and say in minion ease and he'll figure
+
+1089
+01:10:39,240 --> 01:10:44,360
+it out. And it's kind of a balance between writing in those two styles. But you by now
+
+1090
+01:10:45,240 --> 01:10:50,360
+are comfortable with minion ease. Yeah. It's, it's tough to put your finger on exactly how it works
+
+1091
+01:10:50,360 --> 01:10:54,280
+and how it functions, but we can just kind of write it. And also, you know, sometimes he will
+
+1092
+01:10:54,280 --> 01:11:01,560
+make it his own in his own sort of way. But he basically, like, you, you write it
+
+1093
+01:11:02,360 --> 01:11:06,520
+in that way, you send it to him and what we get back and what's in the stuff always is just like,
+
+1094
+01:11:06,520 --> 01:11:11,880
+it's great. Like he's, he's, he's the man. He's the pro at it. There's no concern about like,
+
+1095
+01:11:11,880 --> 01:11:17,160
+well, we, we better be on the zoom on that one. Make sure he gets it. He might fuck up doing the
+
+1096
+01:11:17,160 --> 01:11:22,040
+minion voices. No, no, he does a great job. Okay. What have, what have we missed? Um, any, any other
+
+1097
+01:11:22,040 --> 01:11:26,360
+details you're proud of already? Like favorite parts of the experience? Uh, one thing I think
+
+1098
+01:11:26,360 --> 01:11:32,280
+that, I think that there are, so in the minion cafe, it's, you know, the dining room is kind of
+
+1099
+01:11:32,280 --> 01:11:35,960
+in different sections. And one of them is kind of the break room where the minions who work at the
+
+1100
+01:11:35,960 --> 01:11:42,120
+minion cafe, uh, where they take their break and we have some, uh, fake motivational posters that
+
+1101
+01:11:42,120 --> 01:11:47,320
+are minion. Yes, I like those. Yes. Yeah. Those are some fun to work on and come up with, uh, fun
+
+1102
+01:11:47,400 --> 01:11:53,560
+slogans for, but I think overall the whole experience really was, um, like anything when,
+
+1103
+01:11:53,560 --> 01:11:57,640
+you know, when you write a movie or a television show, it's a real question of like, what is this
+
+1104
+01:11:57,640 --> 01:12:02,440
+going to be like when it, you know, comes to fruition? And I think the whole thing was pretty
+
+1105
+01:12:02,440 --> 01:12:07,160
+wild of like thinking about it theoretically, but even more so being like, well, what is this actually
+
+1106
+01:12:07,160 --> 01:12:12,840
+going to feel like and be like, and overall, I mean, the whole thing is a delight. Yeah. And
+
+1107
+01:12:12,840 --> 01:12:19,800
+being on the ride was a wild experience because, you know, I've written TV shows and films where
+
+1108
+01:12:19,800 --> 01:12:25,560
+I've been on the set and I've also watched the finished product and it was weirdly like having
+
+1109
+01:12:25,560 --> 01:12:33,400
+both of those experiences at once, like being inside a fully like all four walls, no fourth wall
+
+1110
+01:12:34,040 --> 01:12:39,320
+version of a thing that I had imagined. Yeah. Um, so it was a strange feeling to sort of just be
+
+1111
+01:12:39,320 --> 01:12:44,920
+transported inside, uh, literally, um, cause when you're on set, it's a little different because
+
+1112
+01:12:44,920 --> 01:12:49,960
+there you, you, the conceit that it's all fake is there because there you, there's cameras and
+
+1113
+01:12:49,960 --> 01:12:54,120
+there's lights. It's still a process. Maybe there's like a physical item you thought of and like,
+
+1114
+01:12:54,120 --> 01:12:56,840
+wow, there's one of those. Yeah. And then when you're watching the finished product, well,
+
+1115
+01:12:56,840 --> 01:13:00,680
+you're removed from it because that's all on a screen and you're separated from the reality of
+
+1116
+01:13:00,680 --> 01:13:06,200
+it. But with this, I was just inside of these imagined spaces and it was a cool experience.
+
+1117
+01:13:06,760 --> 01:13:14,680
+Oh, and I will say one personal highlight. Uh, so, uh, our, someone who worked on this, uh, Carson,
+
+1118
+01:13:14,680 --> 01:13:23,480
+who you guys believe, so there is a theme park tradition where the names of people who worked on
+
+1119
+01:13:24,120 --> 01:13:29,880
+an attraction are, uh, put hidden somewhere inside the attraction. And there is, you know,
+
+1120
+01:13:29,880 --> 01:13:37,080
+a hall of infamy when you get to the end of this. And he had taken the Liberty as a fan of both
+
+1121
+01:13:37,080 --> 01:13:45,320
+podcasts, the ride and no boys that a commissioner Evan is on the wall. Yeah. Um, and that was, uh,
+
+1122
+01:13:45,320 --> 01:13:52,280
+that was a real highlight and van Vandal is the van representation. Yeah. Yeah. He shows up as
+
+1123
+01:13:52,280 --> 01:13:58,440
+vicious van. Oh yeah. There was some politics. It was the main name. That was the main name of the
+
+1124
+01:13:59,000 --> 01:14:04,360
+the ride and that I would somehow, uh, step on that cause confusion. But going back now to what
+
+1125
+01:14:04,360 --> 01:14:08,520
+I said about, I mean, we couldn't, we probably can't talk about more, but you two now are in,
+
+1126
+01:14:08,520 --> 01:14:14,760
+in the universe. Oh yeah. So they could be characters. No, that when I, when I, uh,
+
+1127
+01:14:14,760 --> 01:14:20,840
+obliquely referenced some sort of possible ride spin-off that was the van Vandal and the commissioner
+
+1128
+01:14:21,240 --> 01:14:27,800
+and ride that would also be film. Yeah. Which ties together, uh, the despicable me universe
+
+1129
+01:14:27,800 --> 01:14:34,120
+and the doughboys universe migration thing now. Yeah. Yeah. Um, and then lost continents going
+
+1130
+01:14:34,120 --> 01:14:38,680
+away for this new expansion. I heard. Yes. I also, and I don't want to correct you, but I don't know
+
+1131
+01:14:38,680 --> 01:14:42,840
+if you know that your name isn't actually, it is the commissioner. Oh, it's a commissioner.
+
+1132
+01:14:42,840 --> 01:14:49,240
+It does not say, Oh yeah, it's even better. Um, wow. You're just breaking his heart. I'm just
+
+1133
+01:14:49,240 --> 01:14:57,240
+stating the commissioner is better. Um, because last names were not going to be allowed. So
+
+1134
+01:14:57,240 --> 01:15:01,640
+commissioner Susser, while that would have been very fun, last names were not going to be allowed.
+
+1135
+01:15:01,640 --> 01:15:05,880
+And then commissioner Evan is not what I would have liked to let you believe it forever. It would
+
+1136
+01:15:05,880 --> 01:15:11,240
+have been better to let you believe it for. Yeah. It's more canonically correct. Yeah. Um, I don't
+
+1137
+01:15:11,240 --> 01:15:16,440
+know how I was the one telling Mitch about that. Mitch didn't know that there was this permanent.
+
+1138
+01:15:16,440 --> 01:15:21,000
+He did. He did. This is me telling him something he'd already heard, but it was in one ear.
+
+1139
+01:15:22,360 --> 01:15:27,240
+Well, maybe the listeners to these shows will have a chance to tell Mitch themselves and it'll be like
+
+1140
+01:15:27,240 --> 01:15:31,480
+the first time he's heard that. No, I have never heard that. Definitely two people have never told
+
+1141
+01:15:31,480 --> 01:15:39,000
+me that. Um, can I ask, did either of you come up with the phrase Agnes's honeymoon soup? No,
+
+1142
+01:15:39,000 --> 01:15:44,040
+actually that was, I think that that was already by the people at minion cafe. Someone came to that
+
+1143
+01:15:44,040 --> 01:15:49,240
+and that was considered a, like almost a North star for all of the, for all of the food items
+
+1144
+01:15:49,240 --> 01:15:53,560
+on the menu. That's the level. I only bring that up because that was my lunch. The very
+
+1145
+01:15:53,560 --> 01:15:58,840
+Oh, and how was it? It was good. Yeah. I liked all the food. At the minion cafe, uh, you know,
+
+1146
+01:15:58,840 --> 01:16:04,440
+we were involved in the names. We've not, we're not involved in any of the, uh, preparation of
+
+1147
+01:16:04,440 --> 01:16:08,520
+the food or anything like that. So I feel like I can somewhat objectively say, I think it's,
+
+1148
+01:16:09,400 --> 01:16:14,440
+if not the best, some of the best food in the park. It seems like reviews. It seemed like what
+
+1149
+01:16:14,440 --> 01:16:19,320
+Jason said. And let's, let's, uh, let's talk about those tots a little bit. You have this,
+
+1150
+01:16:19,320 --> 01:16:23,160
+I like the tots a lot. Yeah. What's the official name of the tots? Does anybody know?
+
+1151
+01:16:23,720 --> 01:16:29,960
+I think it's just minion tots. They're more like crispy outside kind of mashed potato inside.
+
+1152
+01:16:30,680 --> 01:16:37,160
+And the minion faces represent it's kind of like smushed into the potato piece. Well, well, cool.
+
+1153
+01:16:38,040 --> 01:16:43,240
+Yeah. It seems like you got an iconic new snack there. Did you, sorry, did you say anything when
+
+1154
+01:16:43,240 --> 01:16:46,840
+you tried it? Was there anything like, you know, these tots are salted too much or anything. Did
+
+1155
+01:16:46,840 --> 01:16:52,200
+you say anything along those lines? Just, just a little bit of a like plus up. So I can say,
+
+1156
+01:16:52,200 --> 01:16:58,440
+um, for the, uh, there's a lot of, uh, purple evil minion desserts. Yes. I drank the drink. Yeah.
+
+1157
+01:16:58,440 --> 01:17:05,000
+Sure. PX 41. Um, but there's a, uh, some purple, uh, minion cupcakes and things like that.
+
+1158
+01:17:05,560 --> 01:17:12,600
+And there was during the taste testing, some people concerned about the flavor, um, being,
+
+1159
+01:17:12,600 --> 01:17:21,080
+seeming too medicinal because it had that sort of diamond tap grape flavor to it. Yes. And I was a
+
+1160
+01:17:21,080 --> 01:17:27,480
+big defender of diamond tap grape, one of the all time best flavors. Yeah, I hear you. Um, and I said
+
+1161
+01:17:27,480 --> 01:17:34,760
+to me, that's, that's a plus. And they kept that then. Here's my thing is that the flaming
+
+1162
+01:17:34,840 --> 01:17:41,080
+Mo is not medicinal in the way that it was described on the episode of the Simpsons.
+
+1163
+01:17:41,080 --> 01:17:46,360
+And it's still, I think the same kind of like orange flavor thing. And it should be more like
+
+1164
+01:17:46,360 --> 01:17:51,000
+cough medicine or something. I think so. So speaking of the flavors, I have to say the, uh,
+
+1165
+01:17:51,000 --> 01:17:57,720
+the, there's some, uh, dipped popsicles that they sell there and we got to try those. Those are
+
+1166
+01:17:58,280 --> 01:18:06,840
+really good. Um, and the vectors orange popsicle has a great orange flavor. Okay. Okay. Um, and the
+
+1167
+01:18:06,840 --> 01:18:12,440
+banana flavored minion one, they've got a terrific banana flavoring going on on all of the stuff at
+
+1168
+01:18:12,440 --> 01:18:19,320
+the minion land. That is not the like candy banana flavor you're used to. I don't like that
+
+1169
+01:18:19,320 --> 01:18:23,720
+flavor so much. So I know I don't know. I haven't had the universal. Okay. Yeah. I'm like curious.
+
+1170
+01:18:23,720 --> 01:18:29,400
+Banana runs flavor. I don't like people to put them to banana runs. I'm not, I don't like them
+
+1171
+01:18:29,400 --> 01:18:37,080
+personally. I don't like the people. I guess actually it came out, you know what? It really
+
+1172
+01:18:37,080 --> 01:18:41,720
+drives me nuts. And I start to dislike people that don't like banana. I have to admit it here.
+
+1173
+01:18:41,720 --> 01:18:47,560
+Why does it shows up on every podcast and creates discord. You just blow up the banana runs. He
+
+1174
+01:18:47,560 --> 01:18:52,360
+always brings banana, but I like banana runs, but, um, I understand. I guess if you don't like it,
+
+1175
+01:18:53,080 --> 01:18:57,960
+like the other flavors though of runs are okay. Yeah. I just, that banana run flavor is not to me.
+
+1176
+01:18:57,960 --> 01:19:03,400
+What do you think of a banana runs? I like it. Jason. Uh, I like it. Isn't there a whole thing
+
+1177
+01:19:03,400 --> 01:19:09,240
+of like, Oh, that's how bananas used to taste. And that one is exactly. Yeah, right. That's a
+
+1178
+01:19:09,240 --> 01:19:14,280
+common old wise tale common knowledge. Are you in the middle on banana runs? I'm trying to figure
+
+1179
+01:19:14,280 --> 01:19:20,200
+out. No, I like them. Okay. But are you saying that because I'll hate you forever. Are you afraid of
+
+1180
+01:19:20,200 --> 01:19:26,120
+you need to curry Mike's favor in this tense situation? I, uh, my fists are clenched again.
+
+1181
+01:19:26,120 --> 01:19:31,480
+Jason, you're either with me or you're with Mike. Choose, choose your favorite. They do this every
+
+1182
+01:19:31,480 --> 01:19:37,720
+time. Please help. Help. Help. There's always so much pointing in these records. Yeah. Uh, anyway,
+
+1183
+01:19:37,720 --> 01:19:41,560
+I should have tried. I really now, now that you're talking about banana runs, now I'm more excited
+
+1184
+01:19:41,560 --> 01:19:48,120
+about going to try those, but not doing what van is because it's the, it's not a similar, right?
+
+1185
+01:19:48,120 --> 01:19:52,360
+So you will never eat the banana stuff down there. Yes, I guess not. I guess I'll try it,
+
+1186
+01:19:52,360 --> 01:19:57,800
+but just only to get mad just so I can make myself upset closer to run flavor. Um, I have one more
+
+1187
+01:19:57,800 --> 01:20:03,720
+cafe question on the second gate. We just did an episode about the today cafe, which is a nearby
+
+1188
+01:20:03,720 --> 01:20:10,040
+restaurant. And I watched a video where Al Roker was, um, talking about his new butternut squash
+
+1189
+01:20:10,040 --> 01:20:14,440
+tart at the today cafe. But he also talks about the minion cafe a little bit. And he says that
+
+1190
+01:20:14,440 --> 01:20:21,400
+he had a dish that, uh, that was meant to be minion brains. That is something that Al Roker
+
+1191
+01:20:21,400 --> 01:20:26,680
+said on television. I do not know. Can you shine any light into the process? I have no idea what
+
+1192
+01:20:26,680 --> 01:20:31,800
+that is. I think what he's talking about, um, and it is not meant to be minion brains, but it's
+
+1193
+01:20:31,800 --> 01:20:39,960
+the udon noodle soup that is served inside. If you follow it, a lot of steps. If you haven't
+
+1194
+01:20:39,960 --> 01:20:44,440
+heard the second gate episode, and please check that out if you want, if you want more cafe talk,
+
+1195
+01:20:44,440 --> 01:20:49,240
+uh, but it's like, there's like a, uh, it's a translucent, it's a bowl, uh, with a minion
+
+1196
+01:20:49,240 --> 01:20:55,320
+face on it and you kind of turn it over and dump it. Um, and it's yellow noodles. So Al just took
+
+1197
+01:20:55,320 --> 01:21:01,320
+that as his, his brain saw that for interpreted that as minion brains. And then he goes on to say,
+
+1198
+01:21:01,320 --> 01:21:07,240
+uh, kind of grim, but tastes good. It's a tasty dish. He was, he was like upset by, he thought he
+
+1199
+01:21:07,240 --> 01:21:14,360
+was devouring the brain. He thought he was doing Ray Liotta, uh, eating a brain. But, uh, I think
+
+1200
+01:21:14,360 --> 01:21:19,080
+it's a fun, uh, fun accident. Uh, that's true. Yeah. Yeah. It's open to anybody can interpret it.
+
+1201
+01:21:19,080 --> 01:21:22,920
+However, I have another, I have another good little funny story. Well, involving food while
+
+1202
+01:21:22,920 --> 01:21:29,000
+we were there. So, uh, at our lunch, uh, from working, uh, there was some, uh, writing the,
+
+1203
+01:21:29,720 --> 01:21:36,120
+I had to get done for, you know, I think for the ride that I, you know, had to do at our free time
+
+1204
+01:21:36,120 --> 01:21:42,200
+and I was like, okay, I just need somewhere to work inside the park. So, uh, I think with Van,
+
+1205
+01:21:42,200 --> 01:21:46,760
+we went and we just got a quick burger, uh, at this burger place. I'm like, okay, I'll set up
+
+1206
+01:21:46,760 --> 01:21:51,000
+my laptop here and I'm working. I'm trying to focus. I'm like, you know, as far as places and
+
+1207
+01:21:51,560 --> 01:21:55,480
+a park goes, it's just a burger place. It's relatively quiet. And then all of a sudden
+
+1208
+01:21:55,480 --> 01:22:05,000
+a simulated earthquake began because I was in Richter cafe, a themed San Francisco where there
+
+1209
+01:22:05,000 --> 01:22:09,800
+were earthquakes that regularly go off. So I didn't know that about Richter cafe. I've never
+
+1210
+01:22:09,800 --> 01:22:16,280
+been in there. I know that name. You get an alarm and rumble. So it's not, not the best place to get
+
+1211
+01:22:16,280 --> 01:22:22,360
+some work done after all. That's very funny. And some new information to me about Richter cafe.
+
+1212
+01:22:22,360 --> 01:22:26,760
+I've never had the pleasure. How was the burger? It was good. I thought it was good. Yeah. Yeah.
+
+1213
+01:22:26,760 --> 01:22:32,520
+Not as good as making cafe food. No, no, no, no, of course not. Um, I, uh, what else on the way out?
+
+1214
+01:22:32,680 --> 01:22:36,440
+And you've been working with it. You requested a pen over there. I don't mean to start if you're
+
+1215
+01:22:36,440 --> 01:22:40,920
+not ready with whatever you're up to. I've got one thing that I want to do. This is just a fun
+
+1216
+01:22:40,920 --> 01:22:44,840
+little surprise. It's going to involve some bleeping though. Okay. Got it. We've got the
+
+1217
+01:22:44,840 --> 01:22:49,240
+sound effect where I say, yeah, pleasant bleeping or unpleasant bleeping. Pleasant,
+
+1218
+01:22:49,240 --> 01:22:53,640
+pleasant bleeping, but it's because I want to do something groundbreaking on the podcast. Oh my God.
+
+1219
+01:22:53,640 --> 01:22:59,240
+Um, so we cannot say what it is, but, uh, Evan and I are working on another piece of themed
+
+1220
+01:22:59,240 --> 01:23:07,320
+entertainment and, uh, a full, a full physical spacey mountain. I can't, I can't get into the
+
+1221
+01:23:07,320 --> 01:23:12,200
+details of what it is, but I actually have part of a script that is in process, uh, between Evan and
+
+1222
+01:23:12,200 --> 01:23:18,440
+I, and, uh, because I was busy with a bug main concert, I didn't get back to Evan in time with
+
+1223
+01:23:18,440 --> 01:23:24,280
+this work and this is due. And so what I'm going to do right now is I am going to do a little bit
+
+1224
+01:23:24,280 --> 01:23:30,120
+of our work on this piece of themed entertainment live on the podcast. So this is, we're going to be
+
+1225
+01:23:30,120 --> 01:23:35,400
+really quick here, but this is going to be for a piece of themed entertainment somewhere.
+
+1226
+01:23:36,120 --> 01:23:42,200
+And it was given notes were given on it and conversation was had live on the podcast.
+
+1227
+01:23:42,200 --> 01:23:46,440
+Wow. Wow. So here's, here we go. You're hearing the creative process. So some of it,
+
+1228
+01:23:46,520 --> 01:23:53,960
+Evan, uh, you've got these lines, uh, in the intro, uh, for this character.
+
+1229
+01:23:57,080 --> 01:24:05,400
+And I think they're good, but some of them are a little long. Uh, and the windup lines specifically,
+
+1230
+01:24:05,400 --> 01:24:10,840
+I was going to say brevity is probably important. They're too long. I don't know what they are,
+
+1231
+01:24:10,840 --> 01:24:18,760
+but they're way too long. Um, so I think we should do another pass where we just trim down
+
+1232
+01:24:18,760 --> 01:24:24,360
+the length. Okay. Sounds good. That's it. Okay. Oh, okay. We don't get to hear the lines.
+
+1233
+01:24:24,360 --> 01:24:29,720
+Wow. Okay. I got to hear a little bit of the process. So you might be somewhere on this globe
+
+1234
+01:24:29,720 --> 01:24:33,880
+hearing a line and then you might think that was the perfect length for a line to be.
+
+1235
+01:24:35,000 --> 01:24:40,200
+Work that happened just now. You will know that it was tuned up, but that ultimately the length
+
+1236
+01:24:41,000 --> 01:24:45,880
+Evan got there, but Van really caused the length to be perfect by giving the note.
+
+1237
+01:24:45,880 --> 01:24:47,960
+That's correct. Can I ask why you needed the pen?
+
+1238
+01:24:49,400 --> 01:24:54,280
+To figure out what needed to happen. I hadn't read this at all. Oh, so you literally,
+
+1239
+01:24:54,280 --> 01:24:58,520
+that was a live thought you had. During this podcast, I have been working on this and
+
+1240
+01:24:58,520 --> 01:25:02,440
+noting this up and figuring out. What the fuck? Did you tune out when we were talking about
+
+1241
+01:25:02,440 --> 01:25:06,440
+banana runts or something? Yeah, I love banana runs, but I wasn't paying attention. So you just
+
+1242
+01:25:06,440 --> 01:25:12,600
+said something. Yeah. Wow. And so that was a live come up with note. I didn't come in with that
+
+1243
+01:25:12,600 --> 01:25:17,480
+note. That happened on the podcast. Geez. I think it's cool. I guess I don't like that you're kind
+
+1244
+01:25:17,480 --> 01:25:24,760
+of like double dipping that you're on the clock with multiple things. You're here getting a very
+
+1245
+01:25:24,760 --> 01:25:29,720
+generous guest fee and then you're also accepting another salary at the same time. But I guess it's
+
+1246
+01:25:29,720 --> 01:25:35,320
+that double up that lets you accomplish so many things. Contractually, we're allowed to do anything
+
+1247
+01:25:35,320 --> 01:25:40,040
+that's not interfering. And so I think that that meant I had to get that work done while I was here
+
+1248
+01:25:40,040 --> 01:25:44,760
+to really prove that shit. It is allowed contractually because we don't have a contract. So really
+
+1249
+01:25:44,760 --> 01:25:48,760
+anything is allowed. You could do, you guys could do what anything goes. Yeah. You're not even,
+
+1250
+01:25:48,760 --> 01:25:54,280
+it's nice of you both to like participate and talk at all because that's not even something that we
+
+1251
+01:25:54,280 --> 01:25:58,600
+contract. No, no, no. Yeah. Yeah. You could, you could just sit here and not tell us anything.
+
+1252
+01:25:58,600 --> 01:26:03,800
+That's true. But I guess it was more fun that that you talked and told us behind the scenes
+
+1253
+01:26:03,800 --> 01:26:09,880
+information. Can I ask one question? Yeah. How many different behind the scenes bathrooms did
+
+1254
+01:26:09,880 --> 01:26:16,840
+you get to go to in Universal Orlando? Stuff that's not available to the general public.
+
+1255
+01:26:16,840 --> 01:26:22,360
+Two. Two. Anything unusual about them? Eight.
+
+1256
+01:26:27,320 --> 01:26:33,240
+You had two scenes right? Okay. Okay. And did anything like interesting or scandalous happen
+
+1257
+01:26:33,240 --> 01:26:37,400
+in any of the bathrooms that we show? Okay. Okay. Okay. Good. That's good. So we'll lay off on the
+
+1258
+01:26:37,400 --> 01:26:45,800
+bleeps for now. But I, hey, if that kind of winds it down, then I think I can say,
+
+1259
+01:26:45,800 --> 01:26:52,360
+Evan Susser and Van Roche, you survived podcast The Ride. What a blast. Thank you for all of your,
+
+1260
+01:26:52,360 --> 01:26:57,400
+your not only behind the scenes intel, but doing behind the scenes work right in front of us.
+
+1261
+01:26:57,400 --> 01:27:01,240
+Thank you. Yeah. Fascinating to see the process. And Evan, I am going to do a pass on this. I'm
+
+1262
+01:27:01,240 --> 01:27:06,200
+not actually just kicking it back to you. What if he wants to, maybe you want to get your,
+
+1263
+01:27:06,200 --> 01:27:10,920
+get your hands in there. I don't know what we had to bleep from that. I said the name of the
+
+1264
+01:27:10,920 --> 01:27:16,440
+character. Yeah. Yeah. Wait, can you tell us what that is and we'll bleep again? What property you're
+
+1265
+01:27:16,440 --> 01:27:21,320
+dealing with? No, no. Unfortunately not. No. God. Shit. Yeah. All right. Then you're not even. Can
+
+1266
+01:27:21,320 --> 01:27:27,080
+we Google that name figured out? The name is not out there? Oh, interesting. Okay. Wow. This isn't
+
+1267
+01:27:27,080 --> 01:27:30,600
+a name that's out there, Puck. So you, I mean, in a way we don't have to bleep it because it's not.
+
+1268
+01:27:30,600 --> 01:27:36,280
+No, you do. Okay. You do. But we haven't signed any NDAs. Do you need to make us sign an NDA
+
+1269
+01:27:36,280 --> 01:27:41,240
+before, or maybe we just wrap this up before we get out of here before you can make us do that.
+
+1270
+01:27:41,240 --> 01:27:44,680
+And then we can release whatever we want. Can we name a couple of movies real quick? And you say,
+
+1271
+01:27:44,680 --> 01:27:48,200
+yes or no. I'm writing NDA on my knuckles right now. Land before time, right?
+
+1272
+01:27:51,480 --> 01:27:55,640
+Wedding pressures two now done as a ride and not a film. Oh, you got it.
+
+1273
+01:27:57,560 --> 01:28:03,240
+Wow. But we need your help to do the ultimate wedding crash. We can't do it alone this time.
+
+1274
+01:28:03,240 --> 01:28:09,800
+Seems good. Yeah. Getting to crash it. And then you're in like a wedding crash or vehicle using
+
+1275
+01:28:09,800 --> 01:28:16,040
+a wedding crash or on the tram tour and you have to come in and be like, I'm on to you. My private
+
+1276
+01:28:16,040 --> 01:28:20,520
+eye. He looked into you guys. You gotta see he's not doing all the rides at this point. He didn't
+
+1277
+01:28:20,520 --> 01:28:24,920
+do rocket in Florida. Wedding. You know what? Well, tell me where fake nose.
+
+1278
+01:28:27,240 --> 01:28:34,920
+Then he's in. Can be even bigger than the previous wedding crashers as a, like a bar or a club at
+
+1279
+01:28:34,920 --> 01:28:40,360
+old pleasure Island would be a really good idea. It's a wedding every night. You're always crashing
+
+1280
+01:28:40,360 --> 01:28:44,840
+your always crashing a big wedding and it's all just the tropes of a wedding. That's a great,
+
+1281
+01:28:44,840 --> 01:28:48,760
+but there are characters playing. There's going to have to be a few performers, but it's of course,
+
+1282
+01:28:48,760 --> 01:28:53,800
+as the years go on, there'll be fewer and fewer. Yeah. So there'll be like a bride and a groom by
+
+1283
+01:28:53,800 --> 01:28:59,480
+the end. Kind of like a Tony and Tina's. Yes. Oh, which we didn't do this year yet. I wanted to do
+
+1284
+01:28:59,480 --> 01:29:04,600
+Tony and Tina's wedding this year, but we didn't do it. I would love to do Tony and Tina's. They
+
+1285
+01:29:04,600 --> 01:29:09,480
+have, yeah. How do we do? Where do we go? I don't know if it's running right now, but we'll have to
+
+1286
+01:29:09,480 --> 01:29:19,400
+figure that out. There's a nice Peter out. Yeah. So yeah, Tina's performance losing after the dessert
+
+1287
+01:29:19,400 --> 01:29:25,320
+course. All right. I had a good idea. And then, okay, well, we forgot one thing, which is exiting
+
+1288
+01:29:25,320 --> 01:29:30,440
+through the gift shop. Yeah. Is there anything you'd like to. What I want to plug the ride.
+
+1289
+01:29:30,440 --> 01:29:35,480
+Yeah. Go to the minion blast. Oh yeah. That's right. Wait a minute. Wow. For the first time,
+
+1290
+01:29:35,480 --> 01:29:41,160
+one in the same, the plug and the topic. I don't think that's, uh, well, maybe to some extent it's
+
+1291
+01:29:41,160 --> 01:29:45,320
+happened before or people are on plugging something. This is perfect. Wow. Symmetry. Yeah.
+
+1292
+01:29:45,560 --> 01:29:49,880
+Doubling up on any, anything else to throw up at you. I feel like I'm throwing it to you,
+
+1293
+01:29:49,880 --> 01:29:54,280
+Van, because I feel like you've got like 20 things going on at any given time. I'm also pretty busy.
+
+1294
+01:29:57,560 --> 01:30:02,760
+He's got like alternate realities happening at all times. Yeah. You know, you know, or apps or
+
+1295
+01:30:02,760 --> 01:30:08,680
+whatever. Is there anything you need anybody to get in on? Uh, just, uh, just follow me on Instagram
+
+1296
+01:30:08,680 --> 01:30:14,600
+and Twitter at Van the brand. And you could find out what I'm up to and visit my website, van.link.
+
+1297
+01:30:15,320 --> 01:30:21,800
+Great. All right. Great. That's all. Van.link. Um, okay. Well, I suppose that does it. Thank you,
+
+1298
+01:30:21,800 --> 01:30:26,280
+gentlemen. Uh, for us, you can find us on the socials at podcast, the ride merch is available
+
+1299
+01:30:26,280 --> 01:30:29,880
+in our T public store for three bonus episodes every month. Check out podcast, the ride, the
+
+1300
+01:30:29,880 --> 01:30:35,160
+second gate, or get one more bonus episode on our VIP tier club three, all of that at patreon.com
+
+1301
+01:30:35,160 --> 01:30:40,760
+slash podcast, the ride, where we will be airing all of the non bleeped versions. Yeah. Everything
+
+1302
+01:30:40,760 --> 01:30:45,160
+that we've said, Susser's story included. We're just going to put it all as one big audio file.
+
+1303
+01:30:45,720 --> 01:30:50,920
+So for, uh, exclusive, uh, illegal Intel go to our Patreon. Great.
+
+1304
+01:30:54,840 --> 01:31:01,080
+This has been a forever dog production executive produced by Mike Carlson, Jason Sheridan,
+
+1305
+01:31:01,080 --> 01:31:07,880
+Scott Gardner, Brett Boehm, Joe Sileo, and Alex Ramsey. For more original podcasts,
+
+1306
+01:31:07,880 --> 01:31:14,280
+please visit forever dog podcasts.com and subscribe to our shows on apple podcasts,
+
+1307
+01:31:14,280 --> 01:31:20,120
+Spotify, or wherever you get your podcasts. Keep up with the latest forever dog news by following
+
+1308
+01:31:20,120 --> 01:31:29,000
+us on Twitter and Instagram at forever dog team and liking our page on Facebook.
+

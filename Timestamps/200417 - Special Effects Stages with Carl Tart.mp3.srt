@@ -1,0 +1,10584 @@
+1
+00:00:00,000 --> 00:00:01,000
+Forever.
+
+2
+00:00:01,000 --> 00:00:02,000
+Dog.
+
+3
+00:00:02,000 --> 00:00:10,240
+Warning, the following podcast features a stumbling man on fire, horsey clip-clop foley
+
+4
+00:00:10,240 --> 00:00:17,040
+sounds, and a rowdy foul-mouthed bear we lovingly refer to simply as Ted.
+
+5
+00:00:17,040 --> 00:00:23,000
+Carl Tart joins us to talk the Universal Studios special effects show today on Podcast The Ride.
+
+6
+00:00:30,000 --> 00:00:49,120
+Welcome to Podcast The Ride, the podcast about theme parks that's more fun than a live broadcast
+
+7
+00:00:49,120 --> 00:00:50,920
+of Harry and the Hendersons.
+
+8
+00:00:50,920 --> 00:00:53,000
+I'm Scott Gairdner joined by Mike Carlson.
+
+9
+00:00:53,000 --> 00:00:54,000
+Yeah, that's true.
+
+10
+00:00:54,000 --> 00:00:55,000
+It's way better.
+
+11
+00:00:55,240 --> 00:00:59,560
+I often think about like going back in time and like going to these old like tapings,
+
+12
+00:00:59,560 --> 00:01:03,440
+these TV tapings and they seem like super fun but I think it's just because it's like
+
+13
+00:01:03,440 --> 00:01:04,440
+nostalgia brain.
+
+14
+00:01:04,440 --> 00:01:09,340
+Because like I imagine like Alf, going back and seeing a live Alf would be like going
+
+15
+00:01:09,340 --> 00:01:12,080
+to see the Rolling Stones in their prime.
+
+16
+00:01:12,080 --> 00:01:15,120
+Potentially except like Alf, I don't know that Alf did have an audience because there
+
+17
+00:01:15,120 --> 00:01:18,360
+were so many like difficulties with the puppet.
+
+18
+00:01:18,360 --> 00:01:21,520
+Everyone hated the puppet is my recollection of reading about it.
+
+19
+00:01:21,520 --> 00:01:22,520
+I think so, yeah.
+
+20
+00:01:22,680 --> 00:01:24,320
+The dad like stormed off on day one.
+
+21
+00:01:24,320 --> 00:01:27,240
+But I think it was so many like special effects, like Small Wonder didn't have an audience
+
+22
+00:01:27,240 --> 00:01:31,320
+because there are too many special effects even though there's a laugh track.
+
+23
+00:01:31,320 --> 00:01:32,320
+Right.
+
+24
+00:01:32,320 --> 00:01:36,040
+But that being said, the idea of seeing Alf, yes absolutely.
+
+25
+00:01:36,040 --> 00:01:39,440
+Jason Sheridan, any show you would like to see taped live?
+
+26
+00:01:39,440 --> 00:01:44,560
+I feel like three camera sitcom tapings are a nightmare regardless.
+
+27
+00:01:44,560 --> 00:01:50,840
+Like it's just a play that you just keep seeing the same thing again and again with minor
+
+28
+00:01:50,840 --> 00:01:51,840
+changes.
+
+29
+00:01:51,840 --> 00:01:53,320
+But what if Alf was there?
+
+30
+00:01:53,320 --> 00:01:57,760
+I mean if Alf was there that'd be cool if he was like talking to everyone and hamming
+
+31
+00:01:57,760 --> 00:01:59,880
+it up and like cursing when he messed up.
+
+32
+00:01:59,880 --> 00:02:02,560
+But I don't know that that's how it played out.
+
+33
+00:02:02,560 --> 00:02:05,840
+If they could keep it to an hour then yeah it would probably be fun.
+
+34
+00:02:05,840 --> 00:02:06,840
+Yeah.
+
+35
+00:02:06,840 --> 00:02:12,880
+Hey and joining us today, a TV veteran himself from Comedy Bang Bang and The Good Place, Carl
+
+36
+00:02:12,880 --> 00:02:13,880
+Tartis here.
+
+37
+00:02:13,880 --> 00:02:14,880
+A TV veteran.
+
+38
+00:02:14,880 --> 00:02:17,880
+One of the Hollywood elite.
+
+39
+00:02:17,880 --> 00:02:21,400
+Completely comfortable saying that, yes absolutely.
+
+40
+00:02:21,960 --> 00:02:23,160
+Man thanks for being here.
+
+41
+00:02:23,160 --> 00:02:24,160
+Thanks for having me guys.
+
+42
+00:02:24,160 --> 00:02:25,160
+Yeah yeah.
+
+43
+00:02:25,160 --> 00:02:26,160
+This is fun.
+
+44
+00:02:26,160 --> 00:02:32,800
+When I got the email from Jason I had to break some important news to him that is very important
+
+45
+00:02:32,800 --> 00:02:33,800
+to this.
+
+46
+00:02:33,800 --> 00:02:34,800
+Oh.
+
+47
+00:02:34,800 --> 00:02:35,800
+Wait what's that?
+
+48
+00:02:35,800 --> 00:02:36,800
+What news?
+
+49
+00:02:36,800 --> 00:02:38,280
+That I'm very afraid of rides.
+
+50
+00:02:38,280 --> 00:02:39,280
+Oh.
+
+51
+00:02:39,280 --> 00:02:40,280
+Right right.
+
+52
+00:02:40,280 --> 00:02:41,280
+Really?
+
+53
+00:02:41,280 --> 00:02:42,280
+Yeah.
+
+54
+00:02:42,280 --> 00:02:43,280
+Interesting.
+
+55
+00:02:43,280 --> 00:02:44,280
+Definitely afraid.
+
+56
+00:02:44,280 --> 00:02:45,280
+You said specifically rollercoasters.
+
+57
+00:02:45,280 --> 00:02:46,280
+Rollercoasters yes.
+
+58
+00:02:46,280 --> 00:02:47,280
+Yes.
+
+59
+00:02:47,280 --> 00:02:48,280
+Okay.
+
+60
+00:02:48,280 --> 00:02:49,280
+We're sort of in a similar zone.
+
+61
+00:02:50,160 --> 00:02:52,640
+And anything that moves that I can't control it.
+
+62
+00:02:52,640 --> 00:02:53,640
+Aligns, airplanes.
+
+63
+00:02:53,640 --> 00:02:54,640
+Oh really?
+
+64
+00:02:54,640 --> 00:02:55,640
+No no no.
+
+65
+00:02:55,640 --> 00:02:56,640
+I like those things.
+
+66
+00:02:56,640 --> 00:02:57,640
+I like those things.
+
+67
+00:02:57,640 --> 00:02:58,640
+I really like commercial flight.
+
+68
+00:02:58,640 --> 00:02:59,640
+But I don't.
+
+69
+00:02:59,640 --> 00:03:00,640
+Subways?
+
+70
+00:03:00,640 --> 00:03:01,640
+Yeah I'm fine with that.
+
+71
+00:03:01,640 --> 00:03:02,640
+Okay.
+
+72
+00:03:02,640 --> 00:03:03,640
+Except when they go through long tunnels.
+
+73
+00:03:03,640 --> 00:03:04,640
+Yeah.
+
+74
+00:03:04,640 --> 00:03:05,640
+Uh huh.
+
+75
+00:03:05,640 --> 00:03:06,640
+I hear that.
+
+76
+00:03:06,640 --> 00:03:07,640
+Escalators.
+
+77
+00:03:07,640 --> 00:03:08,640
+It gets dark.
+
+78
+00:03:08,640 --> 00:03:09,640
+I'm fine with that.
+
+79
+00:03:09,640 --> 00:03:10,640
+Sure sure sure.
+
+80
+00:03:10,640 --> 00:03:11,640
+Nothing goes fast.
+
+81
+00:03:11,640 --> 00:03:12,640
+Adrenaline drops.
+
+82
+00:03:12,640 --> 00:03:13,640
+I don't like drops.
+
+83
+00:03:13,640 --> 00:03:14,640
+Okay.
+
+84
+00:03:14,640 --> 00:03:15,640
+Yeah.
+
+85
+00:03:15,640 --> 00:03:16,640
+I'm a little, I'm definitely similar.
+
+86
+00:03:17,000 --> 00:03:21,680
+I've gotten better as I felt like I've had to to even get to go on rides to talk about
+
+87
+00:03:21,680 --> 00:03:24,040
+them on this podcast.
+
+88
+00:03:24,040 --> 00:03:28,720
+So it's possible to have growth in this area I can attest.
+
+89
+00:03:28,720 --> 00:03:29,720
+But it's hard.
+
+90
+00:03:29,720 --> 00:03:30,720
+It's a journey.
+
+91
+00:03:30,720 --> 00:03:31,720
+Yeah.
+
+92
+00:03:31,720 --> 00:03:32,720
+I understand.
+
+93
+00:03:32,720 --> 00:03:34,320
+What is the scariest ride you've been on?
+
+94
+00:03:34,320 --> 00:03:35,320
+Uh.
+
+95
+00:03:35,320 --> 00:03:39,160
+Like have you been on one and it was like that's it, no more?
+
+96
+00:03:39,160 --> 00:03:40,160
+Space Mountain.
+
+97
+00:03:40,160 --> 00:03:41,160
+Okay.
+
+98
+00:03:41,160 --> 00:03:42,160
+Yeah.
+
+99
+00:03:42,160 --> 00:03:43,160
+Is that kind of a cap?
+
+100
+00:03:43,160 --> 00:03:44,160
+That's like as scary as you would imagine.
+
+101
+00:03:44,160 --> 00:03:46,120
+Yeah that's because I couldn't see anything.
+
+102
+00:03:46,600 --> 00:03:48,760
+And I just didn't know when the drop was coming.
+
+103
+00:03:48,760 --> 00:03:49,760
+I didn't know what was happening.
+
+104
+00:03:49,760 --> 00:03:50,760
+Yeah.
+
+105
+00:03:50,760 --> 00:03:56,520
+And there's also one in, there's this park in the Netherlands called.
+
+106
+00:03:56,520 --> 00:03:57,520
+Efteling?
+
+107
+00:03:57,520 --> 00:03:58,520
+Efteling.
+
+108
+00:03:58,520 --> 00:03:59,520
+The Efteling.
+
+109
+00:03:59,520 --> 00:04:00,520
+Yeah.
+
+110
+00:04:00,520 --> 00:04:01,520
+Yeah.
+
+111
+00:04:01,520 --> 00:04:04,200
+And there's a ride there called Fanta Morgana.
+
+112
+00:04:04,200 --> 00:04:09,320
+And it's like, it's like Space Mountain but it's like outside it's just a big ass bird.
+
+113
+00:04:09,320 --> 00:04:10,320
+Whoa.
+
+114
+00:04:10,320 --> 00:04:12,240
+And like so you don't know what it's about.
+
+115
+00:04:12,240 --> 00:04:15,840
+It's just like this park is like, it's like what Disneyland was based off of or something
+
+116
+00:04:15,840 --> 00:04:16,840
+like that.
+
+117
+00:04:16,840 --> 00:04:22,880
+Like Walt Disney went there and so like and so that ride, some of my coworkers who we
+
+118
+00:04:22,880 --> 00:04:24,720
+went with forced me to get on it.
+
+119
+00:04:24,720 --> 00:04:25,720
+Like it's fine.
+
+120
+00:04:25,720 --> 00:04:27,640
+You're not going to be scared of it.
+
+121
+00:04:27,640 --> 00:04:29,640
+Jim Woods actually forced me to get on it.
+
+122
+00:04:29,640 --> 00:04:30,640
+Oh yeah.
+
+123
+00:04:30,640 --> 00:04:33,960
+That's not a good idea to listen to anything he says.
+
+124
+00:04:33,960 --> 00:04:36,640
+And I was like I don't want to get on it.
+
+125
+00:04:36,640 --> 00:04:37,640
+I don't want to get on it.
+
+126
+00:04:37,640 --> 00:04:38,640
+And I was so mad after.
+
+127
+00:04:38,640 --> 00:04:39,640
+I told you.
+
+128
+00:04:39,640 --> 00:04:40,640
+I told you I didn't want to get on it.
+
+129
+00:04:40,640 --> 00:04:41,640
+Like he made me.
+
+130
+00:04:41,640 --> 00:04:42,920
+And they were like it's not that scary.
+
+131
+00:04:42,920 --> 00:04:43,920
+I'm like don't tell me.
+
+132
+00:04:43,920 --> 00:04:44,920
+Don't give me.
+
+133
+00:04:45,720 --> 00:04:47,960
+Don't tell me what I'm afraid of and what I'm not afraid of.
+
+134
+00:04:47,960 --> 00:04:48,960
+Right.
+
+135
+00:04:48,960 --> 00:04:49,960
+Yeah.
+
+136
+00:04:49,960 --> 00:04:50,960
+I don't.
+
+137
+00:04:50,960 --> 00:04:54,840
+I have never appreciated like the pranking or the leaving out information about how scary
+
+138
+00:04:54,840 --> 00:04:58,120
+it is or get like getting laughed at.
+
+139
+00:04:58,120 --> 00:04:59,240
+That's what I don't want.
+
+140
+00:04:59,240 --> 00:05:03,400
+I want like support if I'm going to get on a roller coaster from an overcome fear.
+
+141
+00:05:03,400 --> 00:05:07,080
+You want everyone like cheering your name beforehand as opposed to be like you loser
+
+142
+00:05:07,080 --> 00:05:08,080
+get on the ride.
+
+143
+00:05:08,080 --> 00:05:09,080
+Yeah.
+
+144
+00:05:09,080 --> 00:05:10,080
+Yeah.
+
+145
+00:05:10,080 --> 00:05:11,080
+Yeah.
+
+146
+00:05:11,080 --> 00:05:12,080
+Laughing at my picture.
+
+147
+00:05:12,080 --> 00:05:13,080
+That's the worst.
+
+148
+00:05:14,080 --> 00:05:17,640
+After what's the Pirates of the Caribbean.
+
+149
+00:05:17,640 --> 00:05:19,640
+Because at the end it goes up.
+
+150
+00:05:19,640 --> 00:05:22,640
+And then you're like don't you.
+
+151
+00:05:22,640 --> 00:05:23,640
+Oh my God.
+
+152
+00:05:23,640 --> 00:05:24,640
+Don't you drop.
+
+153
+00:05:24,640 --> 00:05:25,640
+Please don't drop.
+
+154
+00:05:25,640 --> 00:05:26,640
+And it just goes straight.
+
+155
+00:05:26,640 --> 00:05:27,640
+There's nothing.
+
+156
+00:05:27,640 --> 00:05:28,640
+There's nothing at the end of that.
+
+157
+00:05:28,640 --> 00:05:32,960
+And I'm sure when they like took the picture I'm like and everybody else is like having
+
+158
+00:05:32,960 --> 00:05:33,960
+a great time.
+
+159
+00:05:33,960 --> 00:05:35,560
+I'm so relieved to hear this.
+
+160
+00:05:35,560 --> 00:05:39,420
+I was like a little afraid just of the drop on pirates until not that long ago.
+
+161
+00:05:39,420 --> 00:05:41,400
+That is like nothing now I realize.
+
+162
+00:05:41,400 --> 00:05:44,320
+But that's on like a 20 footer.
+
+163
+00:05:44,320 --> 00:05:45,320
+That's barely anything.
+
+164
+00:05:45,320 --> 00:05:46,320
+Yeah.
+
+165
+00:05:46,320 --> 00:05:47,320
+And you can see the whole thing.
+
+166
+00:05:47,320 --> 00:05:48,320
+Yeah.
+
+167
+00:05:48,320 --> 00:05:49,320
+And thank God.
+
+168
+00:05:49,320 --> 00:05:51,040
+I'm glad I'm not the only one.
+
+169
+00:05:51,040 --> 00:05:55,120
+Jurassic Park is probably the next scariest because of that only because of the drop.
+
+170
+00:05:55,120 --> 00:05:57,320
+Everything else is wack about that ride.
+
+171
+00:05:57,320 --> 00:06:02,200
+But that drop is so like heavy.
+
+172
+00:06:02,200 --> 00:06:03,200
+It's so forceful.
+
+173
+00:06:03,200 --> 00:06:04,200
+Yeah.
+
+174
+00:06:04,200 --> 00:06:05,200
+It's just like this big.
+
+175
+00:06:05,200 --> 00:06:06,200
+It's the worst.
+
+176
+00:06:06,200 --> 00:06:07,200
+It was very industrial.
+
+177
+00:06:07,440 --> 00:06:10,240
+You're in this like that building is just this cavernous.
+
+178
+00:06:10,240 --> 00:06:13,600
+You're just looking at pipes and everything.
+
+179
+00:06:13,600 --> 00:06:16,040
+It's like you're reliving like a traumatic memory.
+
+180
+00:06:16,040 --> 00:06:17,520
+It is how I feel.
+
+181
+00:06:17,520 --> 00:06:18,680
+It's steep though.
+
+182
+00:06:18,680 --> 00:06:20,120
+Jurassic Park is very steep.
+
+183
+00:06:20,120 --> 00:06:23,720
+Like that's a really steep drop.
+
+184
+00:06:23,720 --> 00:06:24,720
+Built into a mountain.
+
+185
+00:06:24,720 --> 00:06:25,720
+Yeah.
+
+186
+00:06:25,720 --> 00:06:27,840
+The drop I've gotten a little more used to now that I've gone on it more.
+
+187
+00:06:27,840 --> 00:06:30,040
+But the dinosaur still does scare me.
+
+188
+00:06:30,040 --> 00:06:33,520
+If I'm in the front row and the dinosaur comes at me it's too real.
+
+189
+00:06:33,520 --> 00:06:34,520
+It's pretty close.
+
+190
+00:06:34,520 --> 00:06:35,520
+Yeah.
+
+191
+00:06:35,520 --> 00:06:36,880
+It's pretty close.
+
+192
+00:06:36,880 --> 00:06:37,880
+It's big.
+
+193
+00:06:37,880 --> 00:06:38,880
+It's large.
+
+194
+00:06:38,880 --> 00:06:39,880
+Which is what we're talking about.
+
+195
+00:06:39,880 --> 00:06:41,880
+It's kind of a surprise when this thing's out.
+
+196
+00:06:41,880 --> 00:06:44,320
+I usually look at that dinosaur and go, shut up!
+
+197
+00:06:44,320 --> 00:06:46,960
+We about to drop!
+
+198
+00:06:46,960 --> 00:06:47,960
+Let me focus.
+
+199
+00:06:47,960 --> 00:06:48,960
+I don't care about you.
+
+200
+00:06:48,960 --> 00:06:49,960
+I'll get to you later.
+
+201
+00:06:49,960 --> 00:06:54,080
+You're going to be away from him in three seconds.
+
+202
+00:06:54,080 --> 00:06:56,480
+There's no problem there.
+
+203
+00:06:56,480 --> 00:06:59,680
+So do you go to these places and enjoy yourself at all?
+
+204
+00:06:59,680 --> 00:07:00,680
+Yeah.
+
+205
+00:07:00,680 --> 00:07:01,680
+Because they have great food.
+
+206
+00:07:01,680 --> 00:07:02,680
+Sure.
+
+207
+00:07:02,760 --> 00:07:07,320
+I really enjoy a good theme park funnel cake.
+
+208
+00:07:07,320 --> 00:07:08,320
+Yeah.
+
+209
+00:07:08,320 --> 00:07:09,320
+Sure.
+
+210
+00:07:09,320 --> 00:07:13,440
+When I was growing up and would go to Universal and stuff like that I would like to do Doc
+
+211
+00:07:13,440 --> 00:07:14,440
+Brown's Chicken.
+
+212
+00:07:14,440 --> 00:07:15,440
+Oh yeah.
+
+213
+00:07:15,440 --> 00:07:16,440
+Yes.
+
+214
+00:07:16,440 --> 00:07:18,360
+At one point in time that was pretty great.
+
+215
+00:07:18,360 --> 00:07:22,120
+I think that quality lapsed as time went on.
+
+216
+00:07:22,120 --> 00:07:24,800
+I feel like I did it in 2006 and it was garbage.
+
+217
+00:07:24,800 --> 00:07:25,800
+It was bad.
+
+218
+00:07:25,800 --> 00:07:26,800
+I think so.
+
+219
+00:07:26,800 --> 00:07:28,720
+But in the 90s I think it was a quality project.
+
+220
+00:07:28,720 --> 00:07:29,720
+Yeah.
+
+221
+00:07:29,720 --> 00:07:30,720
+It was good.
+
+222
+00:07:30,720 --> 00:07:31,720
+I enjoyed it.
+
+223
+00:07:31,960 --> 00:07:37,600
+They use the same fried chicken recipe apparently now in the Cletus' Chicken Shack in the Simpson's
+
+224
+00:07:37,600 --> 00:07:38,600
+Chicken restaurant.
+
+225
+00:07:38,600 --> 00:07:39,600
+Yeah.
+
+226
+00:07:39,600 --> 00:07:44,160
+So apparently it's like the same chicken or at least the 2006 chicken has been moved over
+
+227
+00:07:44,160 --> 00:07:45,160
+to Cletus.
+
+228
+00:07:45,160 --> 00:07:46,160
+2006.
+
+229
+00:07:46,160 --> 00:07:48,840
+They probably changed it like to just I think they just changed it like tenders at a certain
+
+230
+00:07:48,840 --> 00:07:53,840
+point as opposed to when I first started going there like in the 90s it was like you get
+
+231
+00:07:53,840 --> 00:07:55,400
+like a leg and a thigh.
+
+232
+00:07:55,400 --> 00:07:56,400
+Sure.
+
+233
+00:07:56,400 --> 00:07:57,400
+Yes.
+
+234
+00:07:57,400 --> 00:08:02,680
+I'm a little bothered or distracted by the question of why is Doc Brown operating a fried
+
+235
+00:08:02,680 --> 00:08:03,680
+chicken stand.
+
+236
+00:08:03,680 --> 00:08:05,160
+Oh I did not care at all.
+
+237
+00:08:05,160 --> 00:08:08,800
+I thought it was great.
+
+238
+00:08:08,800 --> 00:08:10,680
+The marketing on that got me as a kid.
+
+239
+00:08:10,680 --> 00:08:13,760
+The first time we ever went I was like oh I got to eat some Doc Brown's Chicken.
+
+240
+00:08:13,760 --> 00:08:16,280
+I never seen him make no chicken in those movies.
+
+241
+00:08:16,280 --> 00:08:19,320
+I don't think he cooked anything in the movies.
+
+242
+00:08:19,320 --> 00:08:20,320
+I don't think he eats.
+
+243
+00:08:20,320 --> 00:08:22,320
+I don't think you ever see him eat.
+
+244
+00:08:22,320 --> 00:08:23,320
+Yeah.
+
+245
+00:08:23,320 --> 00:08:24,320
+He never eats in the movies.
+
+246
+00:08:24,320 --> 00:08:26,560
+He has a breakfast machine but.
+
+247
+00:08:26,720 --> 00:08:27,720
+That's true.
+
+248
+00:08:27,720 --> 00:08:29,920
+One is for the dog and you don't see him eat the other one.
+
+249
+00:08:29,920 --> 00:08:31,920
+The other one is for iced tea.
+
+250
+00:08:31,920 --> 00:08:32,920
+Right.
+
+251
+00:08:32,920 --> 00:08:33,920
+Yeah.
+
+252
+00:08:33,920 --> 00:08:36,360
+And then it's clearly not him in the pictures at the restaurant.
+
+253
+00:08:36,360 --> 00:08:38,400
+It's obviously not Christopher Lloyd.
+
+254
+00:08:38,400 --> 00:08:39,400
+Yeah.
+
+255
+00:08:39,400 --> 00:08:40,400
+It's like an actor.
+
+256
+00:08:40,400 --> 00:08:41,400
+Oh it's the walk around.
+
+257
+00:08:41,400 --> 00:08:44,800
+Yeah it's the walk around Christopher Lloyd in like different places eating chicken.
+
+258
+00:08:44,800 --> 00:08:48,160
+He's time traveling but also making and eating chicken.
+
+259
+00:08:48,160 --> 00:08:50,160
+That's pretty tight.
+
+260
+00:08:50,160 --> 00:08:53,640
+You can't be mad at it.
+
+261
+00:08:53,720 --> 00:08:57,560
+He's a scientist so he'd probably be able to concoct a good recipe.
+
+262
+00:08:57,560 --> 00:08:58,560
+Right.
+
+263
+00:08:58,560 --> 00:08:59,560
+Yeah.
+
+264
+00:08:59,560 --> 00:09:01,400
+I would assume all scientists are good cooks.
+
+265
+00:09:01,400 --> 00:09:02,400
+Every single one.
+
+266
+00:09:02,400 --> 00:09:03,400
+Every scientist.
+
+267
+00:09:03,400 --> 00:09:04,400
+Like a chemist specifically.
+
+268
+00:09:04,400 --> 00:09:05,400
+Yeah.
+
+269
+00:09:05,400 --> 00:09:10,280
+I had a chemistry teacher in high school who was like trying to make a point that cooking
+
+270
+00:09:10,280 --> 00:09:18,440
+and chemistry were very similar and like gave us the chemical, gave us ingredients and gave
+
+271
+00:09:18,440 --> 00:09:20,080
+us the chemical component.
+
+272
+00:09:20,520 --> 00:09:26,720
+He was like, wouldn't tell us what we were making but there was like a bag of sugar and
+
+273
+00:09:26,720 --> 00:09:30,920
+a pile of peanuts and it's like you clearly have us making peanut brittle.
+
+274
+00:09:30,920 --> 00:09:31,920
+Yeah.
+
+275
+00:09:31,920 --> 00:09:37,800
+We are all not good enough to know the like chemical name for like sugar and baking soda.
+
+276
+00:09:37,800 --> 00:09:41,880
+So we all just made mismatched peanut, like bad peanut brittle.
+
+277
+00:09:41,880 --> 00:09:45,200
+Because he was trying to prove a point.
+
+278
+00:09:45,200 --> 00:09:47,240
+But he didn't say what it was until it was done.
+
+279
+00:09:47,400 --> 00:09:53,480
+Well he said like the amounts of each like ingredient but it would be like sodium bosphorate.
+
+280
+00:09:53,480 --> 00:09:57,040
+Like you know the quarter cup of this.
+
+281
+00:09:57,040 --> 00:10:04,200
+And it's like I don't, this is going to be like either the saltiest or sweetest peanut brittle.
+
+282
+00:10:04,200 --> 00:10:05,680
+Have you made peanut brittle since?
+
+283
+00:10:05,680 --> 00:10:06,680
+No.
+
+284
+00:10:06,680 --> 00:10:07,680
+Okay.
+
+285
+00:10:07,680 --> 00:10:08,680
+I barely made it that day.
+
+286
+00:10:08,680 --> 00:10:09,680
+Peanut brittle.
+
+287
+00:10:09,680 --> 00:10:13,400
+What an old person's candy.
+
+288
+00:10:13,400 --> 00:10:14,400
+Yeah.
+
+289
+00:10:14,560 --> 00:10:18,440
+Like is that even going to like be around at the end of the century?
+
+290
+00:10:18,440 --> 00:10:20,320
+Will it last?
+
+291
+00:10:20,320 --> 00:10:26,400
+When I was at, when I was home for Christmas some like old family member made like pecan
+
+292
+00:10:26,400 --> 00:10:27,400
+brittle almost.
+
+293
+00:10:27,400 --> 00:10:32,240
+Like pecan candy was just, pecans in melted sugar and butter like in hardened and it was
+
+294
+00:10:32,240 --> 00:10:36,040
+just like even, just like the texture of it was like I can't get through this.
+
+295
+00:10:36,040 --> 00:10:37,040
+It's too sweet.
+
+296
+00:10:37,040 --> 00:10:38,040
+Yeah.
+
+297
+00:10:38,040 --> 00:10:40,280
+You're not supposed to be eating a lot of this at all.
+
+298
+00:10:40,280 --> 00:10:42,400
+Like it's the worst ingredients.
+
+299
+00:10:42,400 --> 00:10:43,400
+Yeah.
+
+300
+00:10:43,400 --> 00:10:46,200
+Like I have a huge sweet tooth and I was like I can't even do it.
+
+301
+00:10:46,200 --> 00:10:47,200
+Right, right.
+
+302
+00:10:47,200 --> 00:10:52,720
+Like a butterscotch or a toffee it's like such like hardcore concentrated sweetness.
+
+303
+00:10:52,720 --> 00:10:53,720
+Almost too much.
+
+304
+00:10:53,720 --> 00:10:54,720
+Yeah.
+
+305
+00:10:54,720 --> 00:10:56,920
+There was, this is only tangentially related.
+
+306
+00:10:56,920 --> 00:11:03,120
+You would see like on TV like I'm trying to think, I think it was Honey Boo Boo or something.
+
+307
+00:11:03,120 --> 00:11:07,080
+They would just be like making lemonade and the lemonade had so much sugar in it and it's
+
+308
+00:11:07,080 --> 00:11:10,320
+like I think it's like you could just get used to your taste buds, get used to sugar
+
+309
+00:11:10,400 --> 00:11:15,440
+and get desensitized to it at that point to like where you have like you have butterscotch.
+
+310
+00:11:15,440 --> 00:11:19,960
+Like it's too much unless you're like used to eating like an insane amount of sugar.
+
+311
+00:11:19,960 --> 00:11:21,920
+I feel like I can't, I can't even do it.
+
+312
+00:11:21,920 --> 00:11:23,200
+And again, I like treats.
+
+313
+00:11:23,200 --> 00:11:24,200
+I like sweets.
+
+314
+00:11:24,200 --> 00:11:26,200
+Love a good treat.
+
+315
+00:11:26,200 --> 00:11:27,200
+Yeah.
+
+316
+00:11:27,200 --> 00:11:28,200
+Yeah.
+
+317
+00:11:28,200 --> 00:11:29,200
+Or treats and sweets, different things.
+
+318
+00:11:29,200 --> 00:11:30,200
+Let me think.
+
+319
+00:11:30,200 --> 00:11:33,040
+Yes, because I think a treat doesn't have to be food.
+
+320
+00:11:33,040 --> 00:11:34,040
+Uh huh.
+
+321
+00:11:34,040 --> 00:11:35,040
+A sweet is.
+
+322
+00:11:35,040 --> 00:11:36,920
+It's a little gift you give to yourself.
+
+323
+00:11:36,920 --> 00:11:37,920
+Yeah.
+
+324
+00:11:37,920 --> 00:11:39,520
+Or you receive from someone else, I suppose.
+
+325
+00:11:39,520 --> 00:11:42,120
+A treat could be like a 15 minute nap.
+
+326
+00:11:42,120 --> 00:11:43,120
+Yeah.
+
+327
+00:11:43,120 --> 00:11:44,120
+Oh, treats can be non-food.
+
+328
+00:11:44,120 --> 00:11:45,120
+That's right.
+
+329
+00:11:45,120 --> 00:11:46,120
+That's like a dollop of porn.
+
+330
+00:11:46,120 --> 00:11:47,120
+Watch a little bit of titty swinging.
+
+331
+00:11:47,120 --> 00:11:48,120
+I've done my work for the day.
+
+332
+00:11:48,120 --> 00:11:49,120
+Just a little treat.
+
+333
+00:11:49,120 --> 00:11:50,120
+Just a morsel.
+
+334
+00:11:50,120 --> 00:11:51,120
+I deserve it.
+
+335
+00:11:51,120 --> 00:11:52,120
+Just a little.
+
+336
+00:11:52,120 --> 00:12:06,040
+It sounds so wholesome honestly when you say it's just a little treat.
+
+337
+00:12:06,040 --> 00:12:07,040
+It's not dirty.
+
+338
+00:12:07,040 --> 00:12:08,040
+It's not bad.
+
+339
+00:12:08,560 --> 00:12:09,560
+It's a little bit of pornography.
+
+340
+00:12:09,560 --> 00:12:10,560
+That's delightful.
+
+341
+00:12:10,560 --> 00:12:11,560
+Yes.
+
+342
+00:12:11,560 --> 00:12:15,680
+Okay, so you were like a Universal kid.
+
+343
+00:12:15,680 --> 00:12:17,240
+You grew up sort of in the area.
+
+344
+00:12:17,240 --> 00:12:18,240
+Yeah.
+
+345
+00:12:18,240 --> 00:12:20,200
+I don't know if that was like the home base park.
+
+346
+00:12:20,200 --> 00:12:24,720
+Well, here's why I became the home base park, because my mom was a studio tour guide.
+
+347
+00:12:24,720 --> 00:12:25,720
+What?
+
+348
+00:12:25,720 --> 00:12:26,720
+Wow.
+
+349
+00:12:26,720 --> 00:12:27,720
+Really?
+
+350
+00:12:27,720 --> 00:12:28,720
+I did this job.
+
+351
+00:12:28,720 --> 00:12:29,720
+I was a tour guide.
+
+352
+00:12:29,720 --> 00:12:30,720
+You did that job?
+
+353
+00:12:30,720 --> 00:12:31,720
+Yes.
+
+354
+00:12:31,720 --> 00:12:32,720
+You got the big binder?
+
+355
+00:12:32,720 --> 00:12:33,720
+I still have the big binder.
+
+356
+00:12:33,720 --> 00:12:34,720
+In the Universal story?
+
+357
+00:12:34,720 --> 00:12:35,720
+Wait, the Universal story.
+
+358
+00:12:36,400 --> 00:12:37,400
+Wait, the Universal story.
+
+359
+00:12:37,400 --> 00:12:38,400
+Is that like a tape or a video?
+
+360
+00:12:38,400 --> 00:12:39,840
+It was a video tape with my mom.
+
+361
+00:12:39,840 --> 00:12:46,400
+She started in 2002 when I was in seventh grade.
+
+362
+00:12:46,400 --> 00:12:47,820
+Maybe even earlier than that.
+
+363
+00:12:47,820 --> 00:12:52,600
+Maybe like 2000 she started.
+
+364
+00:12:52,600 --> 00:12:53,600
+I was like fifth grade maybe.
+
+365
+00:12:53,600 --> 00:12:57,000
+Me and my friends would go.
+
+366
+00:12:57,000 --> 00:12:58,000
+She's single mom.
+
+367
+00:12:58,000 --> 00:13:02,980
+So on the weekends, to keep me from not being in the house all day while she was at work,
+
+368
+00:13:02,980 --> 00:13:04,200
+she would just bring us with her.
+
+369
+00:13:04,680 --> 00:13:06,560
+She'd be like, all right, grab a friend.
+
+370
+00:13:06,560 --> 00:13:11,560
+I'd take my best friend Russell or my best friend Jovon and we would just go to Universal.
+
+371
+00:13:11,560 --> 00:13:15,320
+She'd have to sneak us in because you're not allowed to do that.
+
+372
+00:13:15,320 --> 00:13:16,320
+Sure.
+
+373
+00:13:16,320 --> 00:13:20,480
+Just bring kids all the time.
+
+374
+00:13:20,480 --> 00:13:23,480
+It was really easy to go through her employment entrance.
+
+375
+00:13:23,480 --> 00:13:24,480
+There was a gate.
+
+376
+00:13:24,480 --> 00:13:26,960
+I think it's definitely closed off now.
+
+377
+00:13:26,960 --> 00:13:31,920
+But back then it was just like, oh, you just come through this gate and just go, all right.
+
+378
+00:13:31,920 --> 00:13:35,720
+We would get there and she would go, okay, go in.
+
+379
+00:13:35,720 --> 00:13:39,920
+We just run off to where she didn't look like she saw us in case there was a camera looking
+
+380
+00:13:39,920 --> 00:13:40,920
+or something like that.
+
+381
+00:13:40,920 --> 00:13:43,720
+And we just hang out at Universal all day.
+
+382
+00:13:43,720 --> 00:13:44,720
+Like constantly?
+
+383
+00:13:44,720 --> 00:13:45,720
+Like once a week?
+
+384
+00:13:45,720 --> 00:13:47,720
+Yeah, like on Saturdays.
+
+385
+00:13:47,720 --> 00:13:48,720
+Geez.
+
+386
+00:13:48,720 --> 00:13:49,720
+That's awesome.
+
+387
+00:13:49,720 --> 00:13:50,720
+Yeah.
+
+388
+00:13:50,720 --> 00:13:52,960
+And in the summertime probably a couple more times.
+
+389
+00:13:52,960 --> 00:13:53,960
+Yeah.
+
+390
+00:13:53,960 --> 00:13:54,960
+Sure.
+
+391
+00:13:54,960 --> 00:13:55,960
+Wow.
+
+392
+00:13:55,960 --> 00:13:56,960
+And you love that every time?
+
+393
+00:13:56,960 --> 00:13:57,960
+You didn't get sick?
+
+394
+00:13:57,960 --> 00:13:58,960
+You didn't run out of stuff?
+
+395
+00:13:58,960 --> 00:13:59,960
+I got tired of it.
+
+396
+00:13:59,960 --> 00:14:00,960
+I got tired.
+
+397
+00:14:01,000 --> 00:14:03,000
+I got to be like, mom, can I please just stay home?
+
+398
+00:14:03,000 --> 00:14:06,000
+I don't want to go to this theme park every week.
+
+399
+00:14:06,000 --> 00:14:07,000
+No way.
+
+400
+00:14:07,000 --> 00:14:09,000
+Because I don't like, I wouldn't get on anything.
+
+401
+00:14:09,000 --> 00:14:10,000
+Yeah.
+
+402
+00:14:10,000 --> 00:14:14,000
+So you're left with like, you know, you could play Flintstones carnival games or.
+
+403
+00:14:14,000 --> 00:14:15,000
+Yeah.
+
+404
+00:14:15,000 --> 00:14:18,440
+I would do all of the other attractions.
+
+405
+00:14:18,440 --> 00:14:21,000
+I really enjoyed the studio tour, no matter who was giving it.
+
+406
+00:14:21,000 --> 00:14:22,000
+It didn't have to be my mom.
+
+407
+00:14:22,000 --> 00:14:23,000
+I was embarrassed when my mom did it.
+
+408
+00:14:23,000 --> 00:14:25,000
+I used to try to avoid her tour.
+
+409
+00:14:25,000 --> 00:14:27,000
+But she probably wanted you to do it, right?
+
+410
+00:14:27,000 --> 00:14:28,000
+She wanted me to see it.
+
+411
+00:14:28,000 --> 00:14:29,000
+Did she involve you ever?
+
+412
+00:14:29,000 --> 00:14:30,000
+She would.
+
+413
+00:14:30,040 --> 00:14:31,040
+She would.
+
+414
+00:14:31,040 --> 00:14:32,040
+And then we'd be like, oh, God.
+
+415
+00:14:32,040 --> 00:14:33,040
+Oh, yeah, that's mortifying.
+
+416
+00:14:33,040 --> 00:14:38,040
+It's like when my mom's substitute taught one of my music classes in elementary school.
+
+417
+00:14:38,040 --> 00:14:40,040
+Like, your mom's the teacher now.
+
+418
+00:14:40,040 --> 00:14:41,040
+Oh, yeah.
+
+419
+00:14:41,040 --> 00:14:43,040
+It feels like it would be the same sort of dynamic.
+
+420
+00:14:43,040 --> 00:14:44,040
+Are you from a small town?
+
+421
+00:14:44,040 --> 00:14:45,040
+Not that small.
+
+422
+00:14:45,040 --> 00:14:46,040
+Yeah.
+
+423
+00:14:46,040 --> 00:14:49,040
+I mean, no, it's just like it happened once.
+
+424
+00:14:49,040 --> 00:14:54,040
+She would purposely not take classes that I was, like, she would not sub for a class
+
+425
+00:14:54,040 --> 00:14:57,040
+in general, but she was a music teacher at our school once.
+
+426
+00:14:57,040 --> 00:14:59,040
+So it was inevitable when we had the hour of music.
+
+427
+00:14:59,080 --> 00:15:00,080
+Sure, sure, sure.
+
+428
+00:15:00,080 --> 00:15:01,080
+That I had it.
+
+429
+00:15:01,080 --> 00:15:02,080
+That's dope.
+
+430
+00:15:02,080 --> 00:15:03,080
+That's dope your mom would avoid your class.
+
+431
+00:15:03,080 --> 00:15:08,080
+My mom would be so stoked to teach a class of mine just to embarrass me.
+
+432
+00:15:08,080 --> 00:15:09,080
+Right.
+
+433
+00:15:09,080 --> 00:15:11,080
+And I wasn't like a bad kid.
+
+434
+00:15:11,080 --> 00:15:14,080
+I had behavioral issues, but I talked way too much.
+
+435
+00:15:14,080 --> 00:15:15,080
+Sure.
+
+436
+00:15:15,080 --> 00:15:16,080
+I was a rabble rouser.
+
+437
+00:15:16,080 --> 00:15:17,080
+Right, right.
+
+438
+00:15:17,080 --> 00:15:18,080
+Yeah.
+
+439
+00:15:18,080 --> 00:15:21,080
+Would she like, what is embarrassing you?
+
+440
+00:15:21,080 --> 00:15:27,080
+Would she like say like, that's my Will Carl or something or pinch the cheeks?
+
+441
+00:15:27,120 --> 00:15:30,120
+No, like, are you talking about on the ride?
+
+442
+00:15:30,120 --> 00:15:32,120
+Or anywhere or any?
+
+443
+00:15:32,120 --> 00:15:33,120
+What's your nature of embarrassment?
+
+444
+00:15:33,120 --> 00:15:38,120
+No, she would try to like, kind of like flex nuts, like be like, get me, like be mad at
+
+445
+00:15:38,120 --> 00:15:39,120
+me.
+
+446
+00:15:39,120 --> 00:15:40,120
+Oh, yeah.
+
+447
+00:15:40,120 --> 00:15:41,120
+Like, I'm the parent.
+
+448
+00:15:41,120 --> 00:15:42,120
+Right.
+
+449
+00:15:42,120 --> 00:15:43,120
+It's like, you don't even act like that.
+
+450
+00:15:43,120 --> 00:15:46,120
+Like, we don't have this relationship.
+
+451
+00:15:46,120 --> 00:15:47,120
+This is false.
+
+452
+00:15:47,120 --> 00:15:48,120
+I don't have that.
+
+453
+00:15:48,120 --> 00:15:52,120
+I don't have behavioral issues like that, like where you need to like discipline me so
+
+454
+00:15:52,120 --> 00:15:54,120
+hard and let everybody know like, I'm in charge.
+
+455
+00:15:54,120 --> 00:15:55,120
+Yeah.
+
+456
+00:15:55,160 --> 00:15:57,160
+It was like performative.
+
+457
+00:15:57,160 --> 00:15:58,160
+It was very performative.
+
+458
+00:15:58,160 --> 00:15:59,160
+Yeah, yeah.
+
+459
+00:15:59,160 --> 00:16:00,160
+I mean, she's an actor.
+
+460
+00:16:00,160 --> 00:16:01,160
+Sure.
+
+461
+00:16:01,160 --> 00:16:06,160
+So it's performing like, and one time I skipped out on piano.
+
+462
+00:16:06,160 --> 00:16:11,160
+I took piano classes at recreation center, like at a park, and all my friends were at
+
+463
+00:16:11,160 --> 00:16:13,160
+the park too, and they were all playing basketball.
+
+464
+00:16:13,160 --> 00:16:17,160
+And I'm a big basketball player and I was like, I'm going to keep playing basketball.
+
+465
+00:16:17,160 --> 00:16:18,160
+I'm not going to piano today.
+
+466
+00:16:18,160 --> 00:16:20,160
+I was like 13, 14.
+
+467
+00:16:20,160 --> 00:16:21,160
+I'm not going.
+
+468
+00:16:21,160 --> 00:16:22,160
+I'm not going.
+
+469
+00:16:22,160 --> 00:16:23,160
+I'm going late.
+
+470
+00:16:23,200 --> 00:16:26,200
+I used to try to like, because the classes would kind of run late.
+
+471
+00:16:26,200 --> 00:16:31,200
+They were like beginning at beginners three to four, intermediate four to five, and advanced
+
+472
+00:16:31,200 --> 00:16:32,200
+like five to seven.
+
+473
+00:16:32,200 --> 00:16:33,200
+We had the longer class.
+
+474
+00:16:33,200 --> 00:16:36,200
+And so I, and, but the classes would run kind of late and I would always be like, all right,
+
+475
+00:16:36,200 --> 00:16:37,200
+it's five o'clock.
+
+476
+00:16:37,200 --> 00:16:38,200
+I'm in the middle of a game.
+
+477
+00:16:38,200 --> 00:16:40,200
+They're not going to stop me in the middle of a game.
+
+478
+00:16:40,200 --> 00:16:43,200
+Like the gym's literally right next door to the multipurpose room.
+
+479
+00:16:43,200 --> 00:16:47,200
+And then my piano teacher would like come out and like kind of like hold his hands like
+
+480
+00:16:47,200 --> 00:16:50,200
+this, like, you know, like cross his arms and go.
+
+481
+00:16:50,200 --> 00:16:52,200
+And I go, ah, fuck off.
+
+482
+00:16:52,240 --> 00:16:53,240
+Fuck off.
+
+483
+00:16:53,240 --> 00:16:54,240
+I wouldn't say that to him.
+
+484
+00:16:54,240 --> 00:16:59,240
+But like, and then one day my mom just walked in and just like snatched me off the court
+
+485
+00:16:59,240 --> 00:17:04,240
+mid game and like tossed me up against the wall just to like make all my friends go,
+
+486
+00:17:04,240 --> 00:17:06,240
+ooh, I'm like, you don't even, what are you doing?
+
+487
+00:17:07,240 --> 00:17:08,240
+You don't do this.
+
+488
+00:17:08,240 --> 00:17:09,240
+You don't act like this.
+
+489
+00:17:09,240 --> 00:17:10,240
+The movie's bullshit.
+
+490
+00:17:10,240 --> 00:17:11,240
+Yeah.
+
+491
+00:17:13,240 --> 00:17:17,240
+She just wanted to, she was a big fan of like, she, I think she like thinks that that's what
+
+492
+00:17:17,240 --> 00:17:21,240
+parents should do is like embarrass their kids in front of everybody so they don't get
+
+493
+00:17:21,280 --> 00:17:23,280
+too out of line.
+
+494
+00:17:23,280 --> 00:17:24,280
+Right.
+
+495
+00:17:24,280 --> 00:17:25,280
+Full of themselves.
+
+496
+00:17:25,280 --> 00:17:26,280
+Make an example.
+
+497
+00:17:26,280 --> 00:17:27,280
+Yeah.
+
+498
+00:17:27,280 --> 00:17:28,280
+Yeah.
+
+499
+00:17:28,280 --> 00:17:29,280
+My mom would not do it.
+
+500
+00:17:29,280 --> 00:17:33,280
+She would just show up everywhere else for like, she would volunteer for every field
+
+501
+00:17:33,280 --> 00:17:34,280
+trip.
+
+502
+00:17:34,280 --> 00:17:35,280
+Yeah.
+
+503
+00:17:35,280 --> 00:17:37,280
+And she would just be like, I'm around.
+
+504
+00:17:37,280 --> 00:17:40,280
+And she wasn't trying to do that, but she was doing that, which is what my dad would
+
+505
+00:17:40,280 --> 00:17:42,280
+do when you'd watch me play sports.
+
+506
+00:17:42,280 --> 00:17:46,280
+He would just like hover arms cross and hover.
+
+507
+00:17:46,280 --> 00:17:49,280
+And I'd just be like, God, go away.
+
+508
+00:17:49,320 --> 00:17:51,320
+Too much pressure.
+
+509
+00:17:52,320 --> 00:17:55,320
+So were you then not good at sports for that reason?
+
+510
+00:17:55,320 --> 00:17:56,320
+Yeah, for that reason.
+
+511
+00:17:56,320 --> 00:17:57,320
+For that, only that reason.
+
+512
+00:17:57,320 --> 00:18:00,320
+And really what I'm talking about is playing tennis in high school.
+
+513
+00:18:01,320 --> 00:18:02,320
+That's what I'm saying.
+
+514
+00:18:02,320 --> 00:18:03,320
+Sports.
+
+515
+00:18:03,320 --> 00:18:04,320
+His arm crossing.
+
+516
+00:18:04,320 --> 00:18:05,320
+Really nuts up your back swing.
+
+517
+00:18:05,320 --> 00:18:06,320
+Yeah.
+
+518
+00:18:06,320 --> 00:18:07,320
+My sister, I drove my sister nuts too.
+
+519
+00:18:08,320 --> 00:18:09,320
+Sure, sure.
+
+520
+00:18:09,320 --> 00:18:10,320
+It's really in my head now.
+
+521
+00:18:10,320 --> 00:18:14,320
+Did I, was she still doing that in 2006 when I, when I started?
+
+522
+00:18:14,320 --> 00:18:15,320
+No.
+
+523
+00:18:15,320 --> 00:18:16,320
+Okay.
+
+524
+00:18:16,320 --> 00:18:17,320
+So I didn't cross that already.
+
+525
+00:18:17,320 --> 00:18:18,320
+She stopped in like 04.
+
+526
+00:18:18,360 --> 00:18:19,360
+Okay, okay.
+
+527
+00:18:19,360 --> 00:18:20,360
+I think that's when I asked.
+
+528
+00:18:20,360 --> 00:18:21,360
+Uh huh, uh huh.
+
+529
+00:18:21,360 --> 00:18:22,360
+How was her tour?
+
+530
+00:18:22,360 --> 00:18:23,360
+It was great.
+
+531
+00:18:23,360 --> 00:18:24,360
+She's very, she's good at that.
+
+532
+00:18:24,360 --> 00:18:25,360
+She was good at that.
+
+533
+00:18:25,360 --> 00:18:26,360
+Right, right.
+
+534
+00:18:26,360 --> 00:18:27,360
+Honestly, like she's good at it.
+
+535
+00:18:27,360 --> 00:18:28,360
+We used to watch that.
+
+536
+00:18:28,360 --> 00:18:31,360
+I used to help her study the lines from the binder.
+
+537
+00:18:31,360 --> 00:18:32,360
+It was such a huge binder.
+
+538
+00:18:32,360 --> 00:18:33,360
+Y'all had to memorize so much.
+
+539
+00:18:33,360 --> 00:18:34,360
+Yes.
+
+540
+00:18:34,360 --> 00:18:35,360
+Yeah, yeah.
+
+541
+00:18:35,360 --> 00:18:38,360
+And then all these clips, you have to, you have to memorize the numbers to know what
+
+542
+00:18:38,360 --> 00:18:39,360
+to pull up.
+
+543
+00:18:39,360 --> 00:18:40,360
+Oh yeah, y'all have to do all that manually.
+
+544
+00:18:40,360 --> 00:18:41,360
+Yeah.
+
+545
+00:18:41,360 --> 00:18:42,360
+Yeah, yeah.
+
+546
+00:18:42,360 --> 00:18:43,360
+Yeah.
+
+547
+00:18:43,360 --> 00:18:46,360
+It is so, it's like, it takes up a ton of space in my place still.
+
+548
+00:18:46,400 --> 00:18:51,400
+I don't know why I don't get rid of it, except there's probably some podcast, The Ride Function,
+
+549
+00:18:51,400 --> 00:18:52,400
+Yeah, yeah.
+
+550
+00:18:52,400 --> 00:18:53,400
+At some point.
+
+551
+00:18:53,400 --> 00:18:56,400
+But then there's all this trivia you got to learn, like just in case you get stuck for
+
+552
+00:18:56,400 --> 00:18:57,400
+a long time.
+
+553
+00:18:57,400 --> 00:18:58,400
+Yeah.
+
+554
+00:18:58,400 --> 00:19:03,400
+Yeah, like you can just like read a list of who won Oscars for Universal Movies, which
+
+555
+00:19:03,400 --> 00:19:10,400
+I'm sure the audience would love just going through in, in 1952, uh, on the waterfront.
+
+556
+00:19:10,400 --> 00:19:11,400
+Everyone's, yeah.
+
+557
+00:19:11,400 --> 00:19:12,400
+It was super interesting, honestly.
+
+558
+00:19:12,440 --> 00:19:18,000
+It was just the history of the film stuff, like from Carl Lamley, like all that stuff
+
+559
+00:19:18,000 --> 00:19:24,520
+on how he started the place and how, how it's operated and haunted stage 13 or stage 27
+
+560
+00:19:24,520 --> 00:19:25,520
+or what?
+
+561
+00:19:25,520 --> 00:19:26,520
+Yeah, I think it's 27.
+
+562
+00:19:26,520 --> 00:19:27,520
+The Phantom of the Opera?
+
+563
+00:19:27,520 --> 00:19:28,520
+The Phantom of the Opera stage.
+
+564
+00:19:28,520 --> 00:19:29,520
+Yeah, yeah, yeah.
+
+565
+00:19:29,520 --> 00:19:30,520
+It's haunted.
+
+566
+00:19:30,520 --> 00:19:31,520
+You know what I always say?
+
+567
+00:19:31,520 --> 00:19:34,400
+Like I almost memorized the damn thing myself.
+
+568
+00:19:34,400 --> 00:19:37,200
+And the Universal story is super interesting, like movie.
+
+569
+00:19:37,200 --> 00:19:40,320
+I would try, I sleep with the TV on, but I need something like consistent.
+
+570
+00:19:41,240 --> 00:19:42,720
+Every night I watch like Family Guy.
+
+571
+00:19:42,720 --> 00:19:43,720
+Sure.
+
+572
+00:19:43,720 --> 00:19:44,720
+Because I know it's going to be funny.
+
+573
+00:19:44,720 --> 00:19:49,800
+I'm going to go to sleep with good energy and just turn that on, like my DVR so it plays
+
+574
+00:19:49,800 --> 00:19:53,360
+all the episodes and then the TV will turn off after a certain point.
+
+575
+00:19:53,360 --> 00:19:57,200
+But, uh, I used to watch that, that Universal story every night.
+
+576
+00:19:57,200 --> 00:20:01,860
+Wait, so you got a tape that like, that, that like helped her learn the history and study
+
+577
+00:20:01,860 --> 00:20:02,860
+and everything.
+
+578
+00:20:02,860 --> 00:20:04,000
+She had to know this whole.
+
+579
+00:20:04,000 --> 00:20:05,000
+Yeah.
+
+580
+00:20:05,000 --> 00:20:08,880
+It's like Ron Howard and it's just clips from all those movies.
+
+581
+00:20:09,440 --> 00:20:12,080
+Is that the one they used to sell as a souvenir?
+
+582
+00:20:12,080 --> 00:20:13,080
+Maybe.
+
+583
+00:20:13,080 --> 00:20:14,080
+The Robert Forsythe?
+
+584
+00:20:14,080 --> 00:20:15,080
+Is that his name?
+
+585
+00:20:15,080 --> 00:20:16,080
+Maybe not.
+
+586
+00:20:16,080 --> 00:20:18,160
+If it's Ron Howard, this could be a different one.
+
+587
+00:20:18,160 --> 00:20:19,160
+Oh, okay.
+
+588
+00:20:19,160 --> 00:20:20,160
+This is maybe an internal tape.
+
+589
+00:20:20,160 --> 00:20:21,160
+Yeah.
+
+590
+00:20:21,160 --> 00:20:23,160
+Ron Howard, yeah, Ron Howard will maybe be internal, yeah.
+
+591
+00:20:23,160 --> 00:20:24,760
+Yeah, it's an internal, yeah.
+
+592
+00:20:24,760 --> 00:20:28,400
+It's like the Chuck E. Cheese, like how to play the character videos that are online now
+
+593
+00:20:28,400 --> 00:20:31,520
+that were internal videos that you're not supposed, like the public's not supposed to
+
+594
+00:20:31,520 --> 00:20:32,520
+see.
+
+595
+00:20:32,520 --> 00:20:33,520
+Yeah.
+
+596
+00:20:33,520 --> 00:20:34,520
+They want you to know.
+
+597
+00:20:34,520 --> 00:20:35,520
+Ron Howard's telling you the secrets.
+
+598
+00:20:35,520 --> 00:20:36,520
+Oh, sure.
+
+599
+00:20:36,520 --> 00:20:37,520
+Yeah.
+
+600
+00:20:37,520 --> 00:20:40,040
+There's one that I found a couple years ago.
+
+601
+00:20:40,040 --> 00:20:42,840
+Well, no, when we were in like high school that somebody posted it.
+
+602
+00:20:42,840 --> 00:20:47,040
+It was Hot Drinks, the Hot Drinks tutorial for Wendy's.
+
+603
+00:20:47,040 --> 00:20:49,480
+I'm a huge Hot Drinks fan.
+
+604
+00:20:49,480 --> 00:20:50,480
+I did a bit.
+
+605
+00:20:50,480 --> 00:20:53,800
+I did a song like for Atlantic City once.
+
+606
+00:20:53,800 --> 00:20:54,800
+Oh, really?
+
+607
+00:20:54,800 --> 00:20:56,800
+It's such a funny video.
+
+608
+00:20:56,800 --> 00:20:57,800
+Yeah.
+
+609
+00:20:57,800 --> 00:20:58,800
+Yeah.
+
+610
+00:20:58,800 --> 00:21:00,800
+And like, where coffee reaches the line.
+
+611
+00:21:00,800 --> 00:21:01,800
+It's an instruction.
+
+612
+00:21:01,800 --> 00:21:05,160
+It's a Wendy's instructional video about making coffee and hot chocolate and other hot drinks.
+
+613
+00:21:05,160 --> 00:21:08,000
+And the song is so much better than it has any right to be.
+
+614
+00:21:08,000 --> 00:21:09,000
+The song is good.
+
+615
+00:21:09,000 --> 00:21:10,000
+Cha cha.
+
+616
+00:21:10,000 --> 00:21:11,000
+Cha cha.
+
+617
+00:21:11,000 --> 00:21:12,000
+Ow!
+
+618
+00:21:12,000 --> 00:21:13,000
+It's like Michael Jackson.
+
+619
+00:21:13,000 --> 00:21:14,000
+It's really Michael Jackson-y.
+
+620
+00:21:14,000 --> 00:21:15,000
+Coffee decaf for tea and hot chocolate.
+
+621
+00:21:15,000 --> 00:21:16,000
+Coffee, let it sit.
+
+622
+00:21:16,000 --> 00:21:23,000
+The stretching of the words to make it rhyme with other words.
+
+623
+00:21:23,000 --> 00:21:24,000
+Yeah, yeah, yeah.
+
+624
+00:21:24,000 --> 00:21:25,000
+And hot chocolate.
+
+625
+00:21:25,000 --> 00:21:26,000
+Chocolate.
+
+626
+00:21:26,000 --> 00:21:29,000
+What's the part I like a lot?
+
+627
+00:21:29,000 --> 00:21:31,160
+The lemon on the top.
+
+628
+00:21:32,160 --> 00:21:35,160
+Very nice, give your guests a juicy slice.
+
+629
+00:21:35,160 --> 00:21:38,160
+Hot drinks really get you going.
+
+630
+00:21:38,160 --> 00:21:39,160
+Blow.
+
+631
+00:21:39,160 --> 00:21:41,160
+He like blows the top.
+
+632
+00:21:41,160 --> 00:21:44,160
+Rhythmically blows the top of the hydrant.
+
+633
+00:21:44,160 --> 00:21:48,160
+There's so much attitude in it when he blows and then turns back to you.
+
+634
+00:21:48,160 --> 00:21:50,160
+He's like really working that camera.
+
+635
+00:21:50,160 --> 00:21:52,160
+Played at your wedding.
+
+636
+00:21:52,160 --> 00:21:53,160
+Played at my wedding.
+
+637
+00:21:53,160 --> 00:21:54,160
+Yeah.
+
+638
+00:21:54,160 --> 00:21:58,160
+Because it was a big thing at Funny or Die, and it was my dream to have a party where
+
+639
+00:21:58,160 --> 00:21:59,160
+that came on.
+
+640
+00:21:59,160 --> 00:22:03,160
+We said to the Funny or Die people, why won't you play this at your parties?
+
+641
+00:22:03,160 --> 00:22:05,160
+We'd all love it, and they wouldn't listen.
+
+642
+00:22:05,160 --> 00:22:08,160
+So the wedding, this is my chance, and the DJ fought it.
+
+643
+00:22:08,160 --> 00:22:11,160
+He's like, well, you might not understand at weddings.
+
+644
+00:22:11,160 --> 00:22:14,160
+It's got to be something grandma can dance to.
+
+645
+00:22:14,160 --> 00:22:18,160
+And I'm like, trust me, Hot Drinks is going to blow up this dance floor.
+
+646
+00:22:18,160 --> 00:22:21,160
+And it did, and he segued it into Erotic City.
+
+647
+00:22:21,160 --> 00:22:23,160
+That's pretty good.
+
+648
+00:22:23,160 --> 00:22:26,160
+And that was the best moment of the wedding by far.
+
+649
+00:22:26,160 --> 00:22:28,160
+The Hot Drinks, Erotic City mega mix.
+
+650
+00:22:28,160 --> 00:22:29,160
+That's pretty tight.
+
+651
+00:22:29,160 --> 00:22:30,160
+It was really good.
+
+652
+00:22:30,160 --> 00:22:32,160
+There are other videos in that series, right?
+
+653
+00:22:32,160 --> 00:22:34,160
+Is there a chili video or a cold drink?
+
+654
+00:22:34,160 --> 00:22:37,160
+There's a cold drink that I don't think is as good.
+
+655
+00:22:37,160 --> 00:22:40,160
+Well, there's like the blonde girl, and she's like rapping to one.
+
+656
+00:22:40,160 --> 00:22:46,160
+Her song is like based off of like Paula Abdul's Straight Up.
+
+657
+00:22:46,160 --> 00:22:49,160
+That's kind of like the beat is more...
+
+658
+00:22:49,160 --> 00:22:51,160
+She's like rapping about something.
+
+659
+00:22:51,160 --> 00:22:53,160
+That might be the chili one, honestly.
+
+660
+00:22:53,160 --> 00:22:56,160
+There's fingers in the chili, isn't it?
+
+661
+00:22:56,160 --> 00:22:57,160
+No.
+
+662
+00:22:57,160 --> 00:23:04,160
+I think they do talk about like any crusty bits on the grill, like put it in the chili.
+
+663
+00:23:04,160 --> 00:23:06,160
+Oh, no.
+
+664
+00:23:06,160 --> 00:23:09,160
+That is like a Wendy's thing.
+
+665
+00:23:09,160 --> 00:23:10,160
+Little bits of cheese.
+
+666
+00:23:10,160 --> 00:23:12,160
+They take things off the grill and throw it in.
+
+667
+00:23:12,160 --> 00:23:13,160
+They used to at least.
+
+668
+00:23:13,160 --> 00:23:17,160
+I have never ordered a Hot Drink at a Wendy's.
+
+669
+00:23:17,160 --> 00:23:18,160
+I got to be honest.
+
+670
+00:23:18,160 --> 00:23:19,160
+Me neither.
+
+671
+00:23:19,160 --> 00:23:22,160
+I love my fast food, but if I go, I'm not like...
+
+672
+00:23:22,160 --> 00:23:23,160
+Or McDonald's.
+
+673
+00:23:23,160 --> 00:23:25,160
+I'll get McDonald's coffee.
+
+674
+00:23:25,160 --> 00:23:27,160
+When they changed their coffee, it was like, yeah, that's all right.
+
+675
+00:23:27,160 --> 00:23:28,160
+They changed it?
+
+676
+00:23:28,160 --> 00:23:29,160
+Or after they burned that lady?
+
+677
+00:23:29,160 --> 00:23:33,160
+When they rolled out like the full McCafe.
+
+678
+00:23:33,160 --> 00:23:35,160
+You know why they rolled out the...
+
+679
+00:23:35,160 --> 00:23:38,160
+When they were like losing so much money to Starbucks.
+
+680
+00:23:38,160 --> 00:23:40,160
+They were like, okay, we need to make something.
+
+681
+00:23:40,160 --> 00:23:42,160
+I mean, how can you not get McDonald's coffee?
+
+682
+00:23:42,160 --> 00:23:43,160
+I don't.
+
+683
+00:23:43,160 --> 00:23:45,160
+I know how you can't because I don't do it.
+
+684
+00:23:45,160 --> 00:23:49,160
+But when you walk into a McDonald's at breakfast time, it smells so good.
+
+685
+00:23:49,160 --> 00:23:50,160
+Oh, it smells great.
+
+686
+00:23:50,160 --> 00:23:51,160
+Yeah.
+
+687
+00:23:51,160 --> 00:23:52,160
+Yeah.
+
+688
+00:23:52,160 --> 00:23:56,160
+I guess Hot Drinks then didn't work on me if I've never done it.
+
+689
+00:23:56,160 --> 00:23:57,160
+Do you think...
+
+690
+00:23:57,160 --> 00:23:59,160
+Is it still the juicy slice policy?
+
+691
+00:23:59,160 --> 00:24:01,160
+How have I never tested this?
+
+692
+00:24:01,160 --> 00:24:02,160
+I feel like they have their own limit.
+
+693
+00:24:02,160 --> 00:24:04,160
+You get your own now.
+
+694
+00:24:04,160 --> 00:24:05,160
+Oh, maybe.
+
+695
+00:24:05,160 --> 00:24:07,160
+It's like a nasty bucket on the side by the drinks.
+
+696
+00:24:07,160 --> 00:24:08,160
+You got to get a...
+
+697
+00:24:08,160 --> 00:24:11,160
+That's a weird area, those side lemons.
+
+698
+00:24:11,160 --> 00:24:12,160
+I don't trust...
+
+699
+00:24:12,160 --> 00:24:13,160
+I don't trust...
+
+700
+00:24:13,160 --> 00:24:14,160
+When someone pointed out that...
+
+701
+00:24:14,160 --> 00:24:16,160
+How do we know that they're washed?
+
+702
+00:24:16,160 --> 00:24:20,160
+Why would you just dip outside peel into your drink?
+
+703
+00:24:20,160 --> 00:24:21,160
+You don't know where that's been.
+
+704
+00:24:21,160 --> 00:24:22,160
+Yeah, that is weird.
+
+705
+00:24:22,160 --> 00:24:26,160
+They do that at Portillo's where it's like they'll give you a lemon, but they just dump a lemon in.
+
+706
+00:24:26,160 --> 00:24:28,160
+But they bare handed...
+
+707
+00:24:28,160 --> 00:24:29,160
+You know they bare handed it.
+
+708
+00:24:29,160 --> 00:24:30,160
+Oh, yeah.
+
+709
+00:24:30,160 --> 00:24:31,160
+Yeah.
+
+710
+00:24:31,160 --> 00:24:34,160
+Did you guys have any friends or did y'all work at fast food places?
+
+711
+00:24:34,160 --> 00:24:39,160
+Or any friends that would say, like, dude, do not eat there.
+
+712
+00:24:39,160 --> 00:24:40,160
+They do such gross things.
+
+713
+00:24:40,160 --> 00:24:42,160
+There's gum in the cheese.
+
+714
+00:24:42,160 --> 00:24:44,160
+It's just like stupid shit like that.
+
+715
+00:24:44,160 --> 00:24:46,160
+But it's like this has to be a rumor.
+
+716
+00:24:46,160 --> 00:24:48,160
+How's everybody coming in this stuff?
+
+717
+00:24:48,160 --> 00:24:49,160
+Yeah, right, right.
+
+718
+00:24:49,160 --> 00:24:52,160
+Did I have any friends with inside info?
+
+719
+00:24:52,160 --> 00:24:57,160
+My friend worked at Fuddruckers on Gulf Road, but we just got free food.
+
+720
+00:24:57,160 --> 00:24:59,160
+She didn't talk about cum in the food.
+
+721
+00:24:59,160 --> 00:25:04,160
+My friend worked at In-N-Out and he was like, do not get the pink lemonade.
+
+722
+00:25:04,160 --> 00:25:07,160
+People wash their hands in the pink lemonade.
+
+723
+00:25:07,160 --> 00:25:11,160
+And I was like, but that seems like a word that seems so sticky.
+
+724
+00:25:11,160 --> 00:25:12,160
+Yeah.
+
+725
+00:25:12,160 --> 00:25:13,160
+That doesn't seem smart.
+
+726
+00:25:13,160 --> 00:25:15,160
+Opposite of the desired effects.
+
+727
+00:25:15,160 --> 00:25:16,160
+Exactly.
+
+728
+00:25:16,160 --> 00:25:18,160
+Jokes on them, really.
+
+729
+00:25:18,160 --> 00:25:22,160
+I've talked about like kid rumors before, I think, on the show where like a kid was like,
+
+730
+00:25:22,160 --> 00:25:29,160
+yeah, there's a naked Marvel comic that Stan Lee drew and he signed his name on the boobs.
+
+731
+00:25:29,160 --> 00:25:31,160
+And I was like, what?
+
+732
+00:25:31,160 --> 00:25:32,160
+And I was like, does he draw?
+
+733
+00:25:32,160 --> 00:25:33,160
+I think he doesn't draw.
+
+734
+00:25:33,160 --> 00:25:35,160
+They're like, no, he does draw.
+
+735
+00:25:35,160 --> 00:25:37,160
+And he drew them naked.
+
+736
+00:25:37,160 --> 00:25:40,160
+I was like, that doesn't make sense.
+
+737
+00:25:40,160 --> 00:25:41,160
+Never found it?
+
+738
+00:25:41,160 --> 00:25:42,160
+No.
+
+739
+00:25:42,160 --> 00:25:43,160
+Never tried to find it?
+
+740
+00:25:43,160 --> 00:25:44,160
+I tried, yeah.
+
+741
+00:25:44,160 --> 00:25:45,160
+Sure.
+
+742
+00:25:45,160 --> 00:25:50,160
+At the time I asked around, you heard about this naked Marvel comic that Stan Lee drew?
+
+743
+00:25:50,160 --> 00:25:51,160
+He doesn't draw.
+
+744
+00:25:51,160 --> 00:25:52,160
+That's your next podcast.
+
+745
+00:25:52,160 --> 00:25:54,160
+Trying to figure out where that is.
+
+746
+00:25:54,160 --> 00:25:55,160
+The naked Marvel comic.
+
+747
+00:25:55,160 --> 00:25:56,160
+The naked Marvel comic.
+
+748
+00:25:56,160 --> 00:25:59,160
+The answer had to be out there.
+
+749
+00:25:59,160 --> 00:26:03,160
+And then lots of, doon, doon, doon, doon, podcast music breaks.
+
+750
+00:26:03,160 --> 00:26:06,160
+Yeah, it's like a serial or Finding Richard Simmons or whatever.
+
+751
+00:26:06,160 --> 00:26:10,160
+Well, this was the third comic book story that I was forcibly thrown out of.
+
+752
+00:26:10,160 --> 00:26:12,160
+Stan drew it.
+
+753
+00:26:12,160 --> 00:26:13,160
+He signed the boobs.
+
+754
+00:26:13,160 --> 00:26:14,160
+Yow!
+
+755
+00:26:16,160 --> 00:26:17,160
+I swear.
+
+756
+00:26:17,160 --> 00:26:20,160
+I have to move to another state now to finish this podcast series.
+
+757
+00:26:22,160 --> 00:26:29,160
+Okay, well, so with your, so with that timeline, if you were going all the time in 2002 or so,
+
+758
+00:26:29,160 --> 00:26:34,160
+now I'm suspecting that your version of this topic of the special effects stages are probably different,
+
+759
+00:26:34,160 --> 00:26:38,160
+it's probably different than the one I saw the most.
+
+760
+00:26:38,160 --> 00:26:45,160
+If you had to, or your memory of what this show was as you saw it, what was your version of it?
+
+761
+00:26:45,160 --> 00:26:50,160
+It was the Foley, like doing the Foley, which was always great.
+
+762
+00:26:50,160 --> 00:26:51,160
+Yeah.
+
+763
+00:26:51,160 --> 00:26:52,160
+Harry and the Hendersons, I believe.
+
+764
+00:26:52,160 --> 00:26:54,160
+So it was still Harry and the Hendersons.
+
+765
+00:26:54,160 --> 00:26:55,160
+Yeah.
+
+766
+00:26:55,160 --> 00:26:56,160
+Okay.
+
+767
+00:26:56,160 --> 00:27:02,160
+And but then later the motion capture with the big wolf man.
+
+768
+00:27:02,160 --> 00:27:03,160
+Yeah.
+
+769
+00:27:03,160 --> 00:27:04,160
+Yeah.
+
+770
+00:27:04,160 --> 00:27:05,160
+Fluffy.
+
+771
+00:27:05,160 --> 00:27:06,160
+Fluffy, yeah, yeah, yeah, that would go off the rails.
+
+772
+00:27:06,160 --> 00:27:07,160
+Yes.
+
+773
+00:27:07,160 --> 00:27:08,160
+Yeah, yeah.
+
+774
+00:27:08,160 --> 00:27:09,160
+And that used to scare me.
+
+775
+00:27:09,160 --> 00:27:10,160
+Right.
+
+776
+00:27:10,160 --> 00:27:11,160
+Please don't come to me in the audience.
+
+777
+00:27:11,160 --> 00:27:14,160
+And it would always, always come to me.
+
+778
+00:27:14,160 --> 00:27:17,160
+We, well, with, oh, like the, that creature ran right up to you.
+
+779
+00:27:17,160 --> 00:27:18,160
+Yeah.
+
+780
+00:27:18,160 --> 00:27:19,160
+When it would get off the, yeah.
+
+781
+00:27:19,160 --> 00:27:20,160
+Yeah, when it would get off the thing.
+
+782
+00:27:20,160 --> 00:27:21,160
+Oh, sure.
+
+783
+00:27:21,160 --> 00:27:27,160
+I believe, I want to say later, towards later, the mummy stacking and then the dude gets
+
+784
+00:27:27,160 --> 00:27:28,160
+electrocuted.
+
+785
+00:27:28,160 --> 00:27:29,160
+Yeah.
+
+786
+00:27:29,160 --> 00:27:30,160
+Okay, okay.
+
+787
+00:27:30,160 --> 00:27:32,160
+The person gets electrocuted and they like disappear into the wall or whatever.
+
+788
+00:27:32,160 --> 00:27:33,160
+Yeah, right, right.
+
+789
+00:27:33,160 --> 00:27:37,160
+Okay, so that, yeah, because there were a couple versions of this.
+
+790
+00:27:37,160 --> 00:27:39,160
+My childhood ones were different.
+
+791
+00:27:39,160 --> 00:27:45,160
+But so this was this show where it's three sound stages and you like move down one at
+
+792
+00:27:45,160 --> 00:27:46,160
+a time.
+
+793
+00:27:46,160 --> 00:27:47,160
+Right.
+
+794
+00:27:47,160 --> 00:27:50,160
+And then in the next 15 minutes you have to like get up and like maintain where your seat
+
+795
+00:27:50,160 --> 00:27:52,160
+was and walk to the next thing.
+
+796
+00:27:52,160 --> 00:27:57,160
+And this is on the lower lot, the universal where the Transformers riot is now.
+
+797
+00:27:57,160 --> 00:28:02,160
+But generally, yeah, that was the format that it's like a couple of special effects kind
+
+798
+00:28:02,160 --> 00:28:06,160
+of things and then ending with a sound show.
+
+799
+00:28:06,160 --> 00:28:10,160
+And now there's still a thing like this, but it's up in the castle theater.
+
+800
+00:28:10,160 --> 00:28:11,160
+Yeah.
+
+801
+00:28:11,160 --> 00:28:12,160
+It's on the upper lot now.
+
+802
+00:28:12,160 --> 00:28:14,160
+It's a lot more polished now.
+
+803
+00:28:14,160 --> 00:28:20,160
+We were talking a little before we started and like in the 2000s one, it was a lot more
+
+804
+00:28:20,160 --> 00:28:21,160
+sticky.
+
+805
+00:28:21,160 --> 00:28:22,160
+Yeah.
+
+806
+00:28:22,160 --> 00:28:24,160
+Like it was a lot goofier.
+
+807
+00:28:24,160 --> 00:28:29,160
+There was a lot more topical jabs at like Lindsay Lohan and Paris Hilton.
+
+808
+00:28:29,160 --> 00:28:30,160
+Yeah.
+
+809
+00:28:30,160 --> 00:28:34,160
+And now it's in this giant theater on the upper lot and it's much more grand and elaborate
+
+810
+00:28:34,160 --> 00:28:36,160
+about the power of movies.
+
+811
+00:28:36,160 --> 00:28:38,160
+But we don't want to talk about that.
+
+812
+00:28:38,160 --> 00:28:40,160
+We want to talk about the trash on the lower lot.
+
+813
+00:28:40,160 --> 00:28:42,160
+Yeah, yeah, yeah.
+
+814
+00:28:42,160 --> 00:28:45,160
+Let's go through it in order.
+
+815
+00:28:45,160 --> 00:28:48,160
+So you're saying like I love this thing, by the way.
+
+816
+00:28:48,160 --> 00:28:53,160
+This is like the heart of Universal when it was still exciting to learn how movies were
+
+817
+00:28:53,160 --> 00:28:54,160
+made.
+
+818
+00:28:54,160 --> 00:28:55,160
+Absolutely.
+
+819
+00:28:55,160 --> 00:28:59,160
+Now it's a little more like I think they don't know what to do anymore because it's all the
+
+820
+00:28:59,160 --> 00:29:00,160
+answer is always computers.
+
+821
+00:29:00,160 --> 00:29:02,160
+Computers is how we do it.
+
+822
+00:29:02,160 --> 00:29:06,160
+And there's no way to like demonstrate computers in an exciting way.
+
+823
+00:29:06,160 --> 00:29:08,160
+But these things were awesome.
+
+824
+00:29:08,160 --> 00:29:12,160
+So you're probably standing outside and they get some volunteers from the audience, kind
+
+825
+00:29:12,160 --> 00:29:18,160
+of a mixed group of there's some kids and some dads to embarrass.
+
+826
+00:29:18,160 --> 00:29:22,160
+We always talk about those like the great theme park tradition of embarrassing dad,
+
+827
+00:29:22,160 --> 00:29:26,160
+making him wear a costume that we can laugh at him in.
+
+828
+00:29:26,160 --> 00:29:30,160
+And the first one, yeah, for a while was The Mummy.
+
+829
+00:29:30,160 --> 00:29:35,160
+My version of it was Back to the Future when I was doing it as a kid.
+
+830
+00:29:35,160 --> 00:29:40,160
+But that had the same thing where it ends in this big electrocution gag where they're
+
+831
+00:29:40,160 --> 00:29:41,160
+filming the scene.
+
+832
+00:29:41,160 --> 00:29:45,160
+In that case, it's Doc Brown trying to connect the wires.
+
+833
+00:29:45,160 --> 00:29:46,160
+I remember that one too.
+
+834
+00:29:46,160 --> 00:29:47,160
+Right.
+
+835
+00:29:47,160 --> 00:29:48,160
+Right.
+
+836
+00:29:48,160 --> 00:29:49,160
+Yeah.
+
+837
+00:29:49,160 --> 00:29:54,160
+And then this but the same format as The Mummy one, which is The Mummy one like somebody's
+
+838
+00:29:54,160 --> 00:29:55,160
+trapped essentially.
+
+839
+00:29:55,160 --> 00:29:56,160
+I mean, they're slaves.
+
+840
+00:29:56,160 --> 00:29:58,160
+They are slaves.
+
+841
+00:29:58,160 --> 00:29:59,160
+Wonderful.
+
+842
+00:29:59,160 --> 00:30:00,160
+Cool.
+
+843
+00:30:00,160 --> 00:30:03,160
+And then like what is there?
+
+844
+00:30:03,160 --> 00:30:04,160
+Is there a curse?
+
+845
+00:30:04,160 --> 00:30:09,160
+Yeah, it's it's there's there's slaves and one person is stacking bricks, right?
+
+846
+00:30:09,160 --> 00:30:12,160
+Stacking big bricks to build the pyramids.
+
+847
+00:30:12,160 --> 00:30:17,160
+And the other person is chained up to this to say pyramid and then gets struck by lightning
+
+848
+00:30:17,160 --> 00:30:19,160
+and disintegrates.
+
+849
+00:30:19,160 --> 00:30:20,160
+Yes.
+
+850
+00:30:20,160 --> 00:30:21,160
+OK.
+
+851
+00:30:21,160 --> 00:30:23,160
+And just turns it and then into a skeleton.
+
+852
+00:30:23,160 --> 00:30:24,160
+Yes.
+
+853
+00:30:24,160 --> 00:30:25,160
+Yeah.
+
+854
+00:30:25,160 --> 00:30:27,160
+Which is this is I loved this kind of thing as a kid.
+
+855
+00:30:27,160 --> 00:30:32,160
+The cleverness of all the lights go out comes back on and a turntables clearly happened.
+
+856
+00:30:32,160 --> 00:30:35,160
+And now it's this charred not unlike the great movie.
+
+857
+00:30:35,160 --> 00:30:36,160
+Yes.
+
+858
+00:30:36,160 --> 00:30:38,160
+It's like similar gag in that.
+
+859
+00:30:38,160 --> 00:30:40,160
+I'm trying to OK.
+
+860
+00:30:40,160 --> 00:30:44,160
+Did you guys see the show or were you like was this before you were out here?
+
+861
+00:30:44,160 --> 00:30:46,160
+I was at Universal.
+
+862
+00:30:46,160 --> 00:30:48,160
+I don't even know that I knew this existed.
+
+863
+00:30:48,160 --> 00:30:53,160
+I did backdraft down there, but I don't even think I did because it moved it moved in 2010.
+
+864
+00:30:53,160 --> 00:30:54,160
+Mm hmm.
+
+865
+00:30:54,160 --> 00:30:57,160
+So I probably went for the first time in like 2009.
+
+866
+00:30:57,160 --> 00:30:58,160
+So the later version.
+
+867
+00:30:58,160 --> 00:31:00,160
+Oh, you might have seen the original.
+
+868
+00:31:00,160 --> 00:31:04,160
+So I don't think I'm just saying I don't think I saw it down when it was in the lower left.
+
+869
+00:31:04,160 --> 00:31:07,160
+I saw it a bunch on the lower level.
+
+870
+00:31:07,160 --> 00:31:17,160
+When I was first out here for a semester in college, like the very first time I went to Universal was like Labor Day weekend of 2006.
+
+871
+00:31:17,160 --> 00:31:18,160
+It was packed.
+
+872
+00:31:18,160 --> 00:31:20,160
+And like this was thankful.
+
+873
+00:31:20,160 --> 00:31:24,160
+I mean, we got everything done, but it was like it was so hot and it was so crowded.
+
+874
+00:31:24,160 --> 00:31:25,160
+I worked then.
+
+875
+00:31:25,160 --> 00:31:28,160
+If everyone was passing it was like there were like medical emergencies.
+
+876
+00:31:28,160 --> 00:31:29,160
+A lot of them.
+
+877
+00:31:29,160 --> 00:31:30,160
+I remember that.
+
+878
+00:31:30,160 --> 00:31:32,160
+They had the misters around.
+
+879
+00:31:32,160 --> 00:31:33,160
+Oh, yeah, they got it.
+
+880
+00:31:33,160 --> 00:31:36,160
+And that Curious George that like Splash Zone.
+
+881
+00:31:36,160 --> 00:31:37,160
+Did you do that?
+
+882
+00:31:37,160 --> 00:31:39,160
+Was that around for your childhood entertainment?
+
+883
+00:31:39,160 --> 00:31:43,160
+The Splash Zone at the bottom of at the bottom of Jurassic Park.
+
+884
+00:31:43,160 --> 00:31:44,160
+We staying over there by that.
+
+885
+00:31:44,160 --> 00:31:46,160
+Oh, that's a good way to kill a bunch of tight.
+
+886
+00:31:46,160 --> 00:31:47,160
+Yeah.
+
+887
+00:31:47,160 --> 00:31:48,160
+We have that ride to Splash.
+
+888
+00:31:48,160 --> 00:31:49,160
+Yeah, for sure.
+
+889
+00:31:49,160 --> 00:31:53,160
+Or did you ever or the play area where like the bucket dumps?
+
+890
+00:31:53,160 --> 00:31:54,160
+Oh, yeah, I remember that.
+
+891
+00:31:54,160 --> 00:31:55,160
+But I was too big for that stuff.
+
+892
+00:31:55,160 --> 00:31:56,160
+Oh, sure.
+
+893
+00:31:56,160 --> 00:31:57,160
+Yeah.
+
+894
+00:31:57,160 --> 00:31:58,160
+That's for little kids.
+
+895
+00:31:58,160 --> 00:31:59,160
+That's fair.
+
+896
+00:31:59,160 --> 00:32:01,160
+I was too, but I did it on the clock one of that weekend.
+
+897
+00:32:01,160 --> 00:32:03,160
+Actually, that I remember on Labor Day.
+
+898
+00:32:03,160 --> 00:32:05,160
+You got dumped with the bucket.
+
+899
+00:32:05,160 --> 00:32:10,160
+I like yeah, I went and like ran around the Curious George area in my uniform, which probably
+
+900
+00:32:10,160 --> 00:32:15,160
+was not a good thing to do and probably weirded out kids.
+
+901
+00:32:15,160 --> 00:32:16,160
+Were you alone?
+
+902
+00:32:16,160 --> 00:32:17,160
+Yes.
+
+903
+00:32:17,160 --> 00:32:18,160
+Really?
+
+904
+00:32:18,160 --> 00:32:20,160
+I was on the clock and I had nothing to do and no one was watching me.
+
+905
+00:32:20,160 --> 00:32:22,160
+Like all the tours had gone out.
+
+906
+00:32:22,160 --> 00:32:23,160
+So you frolicked?
+
+907
+00:32:23,160 --> 00:32:24,160
+Yeah, I went for a frolick.
+
+908
+00:32:24,160 --> 00:32:26,160
+Oh, thanks for framing it that way.
+
+909
+00:32:26,160 --> 00:32:27,160
+Are you from here, Scott?
+
+910
+00:32:27,160 --> 00:32:28,160
+Yeah, yeah.
+
+911
+00:32:28,160 --> 00:32:29,160
+Where did you go to high school?
+
+912
+00:32:29,160 --> 00:32:30,160
+Chaminade in the Valley.
+
+913
+00:32:30,160 --> 00:32:31,160
+Oh, yeah.
+
+914
+00:32:31,160 --> 00:32:32,160
+Nice.
+
+915
+00:32:32,160 --> 00:32:33,160
+I went to Hamilton.
+
+916
+00:32:33,160 --> 00:32:34,160
+Okay.
+
+917
+00:32:34,160 --> 00:32:35,160
+Cool.
+
+918
+00:32:35,160 --> 00:32:36,160
+Cool.
+
+919
+00:32:36,160 --> 00:32:37,160
+Cool.
+
+920
+00:32:37,160 --> 00:32:38,160
+LA.
+
+921
+00:32:38,160 --> 00:32:39,160
+Yeah.
+
+922
+00:32:39,160 --> 00:32:40,160
+Yeah.
+
+923
+00:32:40,160 --> 00:32:41,160
+Valley bros.
+
+924
+00:32:41,160 --> 00:32:42,160
+Chaminade's a real snobby.
+
+925
+00:32:42,160 --> 00:32:44,160
+It was private school, right?
+
+926
+00:32:44,160 --> 00:32:45,160
+Yeah.
+
+927
+00:32:45,160 --> 00:32:46,160
+They called it snobinade, in fact.
+
+928
+00:32:46,160 --> 00:32:47,160
+Snobinade.
+
+929
+00:32:47,160 --> 00:32:50,160
+I had very little arguments against that.
+
+930
+00:32:50,160 --> 00:32:52,160
+It's fairly true.
+
+931
+00:32:52,160 --> 00:32:55,160
+Did you call it that when you were there?
+
+932
+00:32:55,160 --> 00:32:56,160
+I might have welcomed.
+
+933
+00:32:56,160 --> 00:33:01,160
+I don't think I specifically did, but I wouldn't be hurt if you called it that.
+
+934
+00:33:01,160 --> 00:33:06,160
+As I've maybe said before, also Chaminade alumni, imagine you're Joe Rody.
+
+935
+00:33:06,160 --> 00:33:07,160
+Oh, yeah.
+
+936
+00:33:07,160 --> 00:33:08,160
+From my high school.
+
+937
+00:33:08,160 --> 00:33:09,160
+We're saying no.
+
+938
+00:33:09,160 --> 00:33:10,160
+Oh, yeah.
+
+939
+00:33:10,160 --> 00:33:14,160
+So the first time I went, yeah, it was a heat wave.
+
+940
+00:33:14,160 --> 00:33:18,160
+This was a welcome reprieve because you're just in air conditioning for like half an
+
+941
+00:33:18,160 --> 00:33:19,160
+hour.
+
+942
+00:33:19,160 --> 00:33:24,160
+We also went with a big group, so everyone had to do the photo op in front of the studio
+
+943
+00:33:24,160 --> 00:33:26,160
+tour sign and then do the studio tour.
+
+944
+00:33:26,160 --> 00:33:30,160
+The very first thing, which I advise people like if you're going to Universal Hollywood,
+
+945
+00:33:30,160 --> 00:33:35,160
+go straight to the lower lot as soon as you get there because if it's early enough, you
+
+946
+00:33:35,160 --> 00:33:37,160
+can just do all of that in 30 minutes.
+
+947
+00:33:37,160 --> 00:33:40,160
+Like you can do all that and then go back up.
+
+948
+00:33:40,160 --> 00:33:41,160
+Sure.
+
+949
+00:33:41,160 --> 00:33:43,160
+But we did that the wrong way.
+
+950
+00:33:43,160 --> 00:33:47,160
+So we were like the only thing down there that was open was Panda Express.
+
+951
+00:33:47,160 --> 00:33:49,160
+So we're like eating Panda Express in the heat.
+
+952
+00:33:49,160 --> 00:33:52,160
+And then we're like, oh, there's a special effects show.
+
+953
+00:33:52,160 --> 00:33:53,160
+Thank God.
+
+954
+00:33:53,160 --> 00:33:54,160
+This is inside.
+
+955
+00:33:54,160 --> 00:33:55,160
+It's cold.
+
+956
+00:33:57,160 --> 00:34:00,160
+So your memory is mostly that you were full of Panda Express.
+
+957
+00:34:00,160 --> 00:34:05,160
+And then we all were like, everyone was sunburned that night just watching the Emmys.
+
+958
+00:34:05,160 --> 00:34:07,160
+Conan hosted.
+
+959
+00:34:07,160 --> 00:34:10,160
+It was a very funny year when Conan hosted the Emmys.
+
+960
+00:34:10,160 --> 00:34:16,160
+Not the one where all the reality show hosts came out and the plan was that there was no
+
+961
+00:34:16,160 --> 00:34:17,160
+plan.
+
+962
+00:34:17,160 --> 00:34:18,160
+You ever watch that?
+
+963
+00:34:18,160 --> 00:34:20,160
+No, I do remember that.
+
+964
+00:34:20,160 --> 00:34:22,160
+It's one of the worst things ever to occur.
+
+965
+00:34:22,160 --> 00:34:26,160
+Like all five, it was like Tom Bergeron and you know, Cropes.
+
+966
+00:34:26,160 --> 00:34:27,160
+Yeah, yeah, yeah.
+
+967
+00:34:27,160 --> 00:34:28,160
+Oh, OK.
+
+968
+00:34:28,160 --> 00:34:31,160
+And they just like stood around and we're like, we didn't prepare anything.
+
+969
+00:34:31,160 --> 00:34:33,160
+And that genuinely is what happened.
+
+970
+00:34:33,160 --> 00:34:34,160
+That was the bit.
+
+971
+00:34:34,160 --> 00:34:35,160
+Yeah.
+
+972
+00:34:35,160 --> 00:34:36,160
+But then they did it.
+
+973
+00:34:36,160 --> 00:34:37,160
+It was horrible.
+
+974
+00:34:37,160 --> 00:34:39,160
+That sounds like the most boring thing that ever happened.
+
+975
+00:34:39,160 --> 00:34:44,160
+But the mid aughts were the aughts were very interesting time for this attraction from
+
+976
+00:34:44,160 --> 00:34:45,160
+what I could tell.
+
+977
+00:34:46,160 --> 00:34:50,160
+Because there's always been some sort of special effects presentation at Universal.
+
+978
+00:34:50,160 --> 00:34:58,160
+You speak called Cinemagic, which was like for the 90s to 2002 in this space.
+
+979
+00:34:58,160 --> 00:35:03,160
+It was called Cinemagic and that they turned into special effects stages and kind of like
+
+980
+00:35:03,160 --> 00:35:05,160
+grouped it in with backdraft.
+
+981
+00:35:05,160 --> 00:35:07,160
+What was in Cinemagic?
+
+982
+00:35:07,160 --> 00:35:10,160
+That was Back to the Future first.
+
+983
+00:35:10,160 --> 00:35:12,160
+Then the middle was an Alfred Hitchcock thing.
+
+984
+00:35:12,160 --> 00:35:13,160
+Yes.
+
+985
+00:35:13,160 --> 00:35:15,160
+And that was the one where you got to fall from the OK.
+
+986
+00:35:15,160 --> 00:35:16,160
+So I remember Cinemagic.
+
+987
+00:35:16,160 --> 00:35:17,160
+OK.
+
+988
+00:35:17,160 --> 00:35:18,160
+You do this one too.
+
+989
+00:35:18,160 --> 00:35:19,160
+Yeah, that was the first one.
+
+990
+00:35:19,160 --> 00:35:20,160
+Yeah.
+
+991
+00:35:20,160 --> 00:35:21,160
+Yeah.
+
+992
+00:35:21,160 --> 00:35:22,160
+With the big Statue of Liberty.
+
+993
+00:35:22,160 --> 00:35:25,160
+You're like, yes, I love this.
+
+994
+00:35:25,160 --> 00:35:28,160
+Body motions on this podcast.
+
+995
+00:35:28,160 --> 00:35:29,160
+And then you're like, silence.
+
+996
+00:35:29,160 --> 00:35:32,160
+And then you're like, silence.
+
+997
+00:35:32,160 --> 00:35:33,160
+You did very good falling.
+
+998
+00:35:33,160 --> 00:35:36,160
+You did a very realistic Panama falling, we should say.
+
+999
+00:35:36,160 --> 00:35:41,160
+You're on the you're on the hand of the Statue of Liberty.
+
+1000
+00:35:41,160 --> 00:35:44,160
+Trying to hang on to the hand of the Statue of Liberty.
+
+1001
+00:35:44,160 --> 00:35:46,160
+And then you fall backwards.
+
+1002
+00:35:46,160 --> 00:35:47,160
+Yeah.
+
+1003
+00:35:47,160 --> 00:35:49,160
+And there's a big practical one.
+
+1004
+00:35:49,160 --> 00:35:53,160
+But then the guy then there's it's intercutting with a guy who's just on green screen like
+
+1005
+00:35:53,160 --> 00:35:54,160
+sitting in a chair.
+
+1006
+00:35:54,160 --> 00:35:55,160
+Yes.
+
+1007
+00:35:55,160 --> 00:35:58,160
+And they like cycle through everything that can be behind you on a green screen and like,
+
+1008
+00:35:58,160 --> 00:36:00,160
+OK, now you're Superman and you're flying through space.
+
+1009
+00:36:00,160 --> 00:36:02,160
+And it gets a huge laugh every time.
+
+1010
+00:36:02,160 --> 00:36:04,160
+Green screen was such a novelty.
+
+1011
+00:36:04,160 --> 00:36:06,160
+It was so interesting to learn about.
+
+1012
+00:36:06,160 --> 00:36:09,160
+And now anybody can just do green screen anywhere all the time.
+
+1013
+00:36:09,160 --> 00:36:10,160
+On their phones.
+
+1014
+00:36:10,160 --> 00:36:11,160
+Yeah.
+
+1015
+00:36:11,160 --> 00:36:12,160
+Yeah.
+
+1016
+00:36:12,160 --> 00:36:15,160
+Apps that you hate that make you mad as soon as it looks like you've got to watch an ad
+
+1017
+00:36:15,160 --> 00:36:16,160
+for five seconds.
+
+1018
+00:36:16,160 --> 00:36:17,160
+Right.
+
+1019
+00:36:17,160 --> 00:36:23,160
+That thing also had like a psycho recreation, essentially.
+
+1020
+00:36:23,160 --> 00:36:24,160
+Yes.
+
+1021
+00:36:24,160 --> 00:36:25,160
+Yeah.
+
+1022
+00:36:25,160 --> 00:36:26,160
+Yeah.
+
+1023
+00:36:26,160 --> 00:36:32,160
+And where the guy hosting it comes out as the mother and then kind of takes his wig
+
+1024
+00:36:32,160 --> 00:36:34,160
+off and like, just kidding.
+
+1025
+00:36:34,160 --> 00:36:35,160
+Yeah.
+
+1026
+00:36:35,160 --> 00:36:36,160
+Yeah.
+
+1027
+00:36:37,160 --> 00:36:41,520
+And that had the info that I also found really fascinating that it's a that it's chocolate
+
+1028
+00:36:41,520 --> 00:36:43,160
+syrup instead of blood.
+
+1029
+00:36:43,160 --> 00:36:45,160
+You couldn't tell because it was black.
+
+1030
+00:36:45,160 --> 00:36:50,160
+I live for those little morsels of now fairly obvious movie trivia.
+
+1031
+00:36:50,160 --> 00:36:52,160
+But man, that stuff.
+
+1032
+00:36:52,160 --> 00:36:53,160
+I'd go home.
+
+1033
+00:36:53,160 --> 00:36:57,160
+I'd go back to elementary school and tell everybody all that stuff as if they couldn't
+
+1034
+00:36:57,160 --> 00:37:00,160
+just go learn it at the theme park.
+
+1035
+00:37:00,160 --> 00:37:02,160
+And I probably bored a lot of people.
+
+1036
+00:37:02,160 --> 00:37:04,160
+I was going to say, do they go nether around?
+
+1037
+00:37:04,160 --> 00:37:05,160
+Nether around.
+
+1038
+00:37:05,160 --> 00:37:07,160
+Give a telly a tale.
+
+1039
+00:37:07,160 --> 00:37:11,160
+I have been to a place where the secrets of movies have been unveiled.
+
+1040
+00:37:11,160 --> 00:37:13,160
+Do you know the movies of the 1940s?
+
+1041
+00:37:13,160 --> 00:37:14,160
+You do.
+
+1042
+00:37:14,160 --> 00:37:15,160
+Well, the blood was chocolate.
+
+1043
+00:37:15,160 --> 00:37:18,160
+Well, you all know Alfred Hitchcock, of course.
+
+1044
+00:37:18,160 --> 00:37:19,160
+The master of suspense.
+
+1045
+00:37:19,160 --> 00:37:23,160
+Everyone here a saboteur fan?
+
+1046
+00:37:23,160 --> 00:37:27,160
+Topaz is very underrated.
+
+1047
+00:37:27,160 --> 00:37:33,160
+Saboteur is that's the saboteur is the Statue of Liberty movie, which is weird because I
+
+1048
+00:37:33,160 --> 00:37:36,160
+think the guy who's dangling at the end is a Nazi.
+
+1049
+00:37:36,160 --> 00:37:38,160
+I think that's what's happening.
+
+1050
+00:37:38,160 --> 00:37:40,160
+Like, I've never seen Saboteur.
+
+1051
+00:37:40,160 --> 00:37:41,160
+I haven't either.
+
+1052
+00:37:41,160 --> 00:37:46,160
+I always like when I've watched a bunch of the Hitchcock movies, I was always like wondering,
+
+1053
+00:37:46,160 --> 00:37:47,160
+where is the universal?
+
+1054
+00:37:47,160 --> 00:37:49,160
+Where is the Statue of Liberty thing?
+
+1055
+00:37:49,160 --> 00:37:56,160
+And it's in Saboteur because they would use chunks of that show in in Florida for the
+
+1056
+00:37:56,160 --> 00:37:57,160
+Alfred Hitchcock show.
+
+1057
+00:37:57,160 --> 00:37:58,160
+Yes, like they would reuse.
+
+1058
+00:37:58,160 --> 00:38:00,160
+They used a lot of this stuff.
+
+1059
+00:38:00,160 --> 00:38:05,160
+And then later on, the fluffy, the guy, the werewolf who comes to life with emotion is
+
+1060
+00:38:05,160 --> 00:38:06,160
+used in the horror.
+
+1061
+00:38:06,160 --> 00:38:09,160
+There's a horror makeup show at the Florida Park.
+
+1062
+00:38:09,160 --> 00:38:10,160
+Yeah, yeah, yeah.
+
+1063
+00:38:10,160 --> 00:38:13,160
+That's kind of the big ending of that show.
+
+1064
+00:38:13,160 --> 00:38:15,160
+So let's talk fluffy.
+
+1065
+00:38:15,160 --> 00:38:22,160
+That's that's like a later thing that happened where that's supposed to be like a kid is
+
+1066
+00:38:22,160 --> 00:38:28,160
+led to believe that he's doing motion capture and this big werewolf creature is doing exactly
+
+1067
+00:38:28,160 --> 00:38:29,160
+what he does.
+
+1068
+00:38:29,160 --> 00:38:37,160
+But then there's like a lightning strike as if, you know, the now the now fluffy is alive
+
+1069
+00:38:37,160 --> 00:38:41,160
+and cursed and he runs around and scares kids like Carl.
+
+1070
+00:38:41,160 --> 00:38:43,160
+Yeah, it scared me every time I saw it.
+
+1071
+00:38:43,160 --> 00:38:44,160
+And I saw it a lot.
+
+1072
+00:38:44,160 --> 00:38:46,160
+And it scared me every time.
+
+1073
+00:38:46,160 --> 00:38:48,160
+Because this is a huge suit.
+
+1074
+00:38:48,160 --> 00:38:50,160
+This is like an eight footer.
+
+1075
+00:38:50,160 --> 00:38:55,160
+With the red eyes and it gets scarier every even when you walk by it, like when I'm going
+
+1076
+00:38:55,160 --> 00:39:02,160
+in and this is the, you know, sixth week in a row that I'm at Universal Studios and I'm
+
+1077
+00:39:02,160 --> 00:39:08,160
+going in and you walk past fluffy and he's just like, you know, down and you're just
+
+1078
+00:39:08,160 --> 00:39:11,160
+like, this thing's about to do some crazy.
+
+1079
+00:39:11,160 --> 00:39:12,160
+Yeah, they power him up.
+
+1080
+00:39:12,160 --> 00:39:13,160
+They power him up.
+
+1081
+00:39:13,160 --> 00:39:14,160
+Yeah, turns on.
+
+1082
+00:39:14,160 --> 00:39:17,160
+Was the person in the suit the whole time?
+
+1083
+00:39:17,160 --> 00:39:18,160
+Yes.
+
+1084
+00:39:18,160 --> 00:39:19,160
+Oh, yeah.
+
+1085
+00:39:19,160 --> 00:39:20,160
+Yeah.
+
+1086
+00:39:20,160 --> 00:39:21,160
+There's no way to get in there.
+
+1087
+00:39:21,160 --> 00:39:22,160
+Yeah.
+
+1088
+00:39:22,160 --> 00:39:23,160
+Yeah.
+
+1089
+00:39:23,160 --> 00:39:24,160
+Just has to watch everybody come by.
+
+1090
+00:39:24,160 --> 00:39:25,160
+Probably looking at people being like, I'm about to scare that person.
+
+1091
+00:39:25,160 --> 00:39:27,160
+I'm about to scare the shit out of that lady.
+
+1092
+00:39:27,160 --> 00:39:28,160
+Yeah.
+
+1093
+00:39:28,160 --> 00:39:29,160
+Yeah.
+
+1094
+00:39:29,160 --> 00:39:32,160
+Because they're eyeing, they're knowing they're like, they're like figuring out who looks
+
+1095
+00:39:32,160 --> 00:39:33,160
+like the best.
+
+1096
+00:39:33,160 --> 00:39:34,160
+Yeah.
+
+1097
+00:39:34,160 --> 00:39:35,160
+Like scare, I guess.
+
+1098
+00:39:35,160 --> 00:39:40,160
+They always pick the smallest kid, like who volunteers for like motion capture.
+
+1099
+00:39:40,160 --> 00:39:44,160
+Eight year old kid, kid eight or under come to the motion capture or whatever.
+
+1100
+00:39:44,160 --> 00:39:45,160
+Yeah.
+
+1101
+00:39:45,160 --> 00:39:46,160
+Yeah.
+
+1102
+00:39:46,160 --> 00:39:48,160
+So you didn't, you never wanted to do that.
+
+1103
+00:39:48,160 --> 00:39:49,160
+You never wanted to control Fluffy.
+
+1104
+00:39:49,160 --> 00:39:50,160
+I did it once.
+
+1105
+00:39:50,160 --> 00:39:51,160
+Oh really?
+
+1106
+00:39:51,160 --> 00:39:52,160
+I did it once.
+
+1107
+00:39:52,160 --> 00:39:54,160
+Because I think they kept seeing me every week and they were just like, you can do it.
+
+1108
+00:39:54,160 --> 00:39:57,160
+Even though you're 12 and also 6'1".
+
+1109
+00:39:57,160 --> 00:40:01,160
+You were already taller than Fluffy.
+
+1110
+00:40:01,160 --> 00:40:02,160
+Taller than Fluffy.
+
+1111
+00:40:02,160 --> 00:40:05,160
+Dunked on Fluffy.
+
+1112
+00:40:05,160 --> 00:40:09,160
+Ran away from him faster than any of the kids did.
+
+1113
+00:40:09,160 --> 00:40:10,160
+Yeah.
+
+1114
+00:40:10,160 --> 00:40:11,160
+You childlike man.
+
+1115
+00:40:11,160 --> 00:40:12,160
+Man like child.
+
+1116
+00:40:12,160 --> 00:40:16,160
+Did you ever do, did you ever do the others?
+
+1117
+00:40:16,160 --> 00:40:17,160
+Did you do like the sound?
+
+1118
+00:40:17,160 --> 00:40:18,160
+The flowy.
+
+1119
+00:40:18,160 --> 00:40:21,160
+I was mixing Fluffy and Foley.
+
+1120
+00:40:21,160 --> 00:40:23,160
+The Foley was always very fun.
+
+1121
+00:40:23,160 --> 00:40:24,160
+Yeah.
+
+1122
+00:40:24,160 --> 00:40:25,160
+Yeah.
+
+1123
+00:40:25,160 --> 00:40:26,160
+Yeah.
+
+1124
+00:40:26,160 --> 00:40:30,160
+I mean learning about Foley, like that's a fun fact to know.
+
+1125
+00:40:30,160 --> 00:40:32,160
+Like I was called Foley.
+
+1126
+00:40:32,160 --> 00:40:33,160
+Yeah.
+
+1127
+00:40:33,160 --> 00:40:34,160
+After a guy.
+
+1128
+00:40:34,160 --> 00:40:35,160
+Yeah.
+
+1129
+00:40:35,160 --> 00:40:36,160
+Yeah.
+
+1130
+00:40:36,160 --> 00:40:37,160
+His name is James Foley.
+
+1131
+00:40:37,160 --> 00:40:38,160
+James Foley.
+
+1132
+00:40:38,160 --> 00:40:39,160
+Yeah.
+
+1133
+00:40:39,160 --> 00:40:41,160
+Feels like one of those very tour guidey like, a gentleman named James Foley.
+
+1134
+00:40:41,160 --> 00:40:45,160
+Now he's very well known for realizing that you could do the sound after the fact.
+
+1135
+00:40:45,160 --> 00:40:49,160
+This show is a perfect mechanism for tour guide voice.
+
+1136
+00:40:49,160 --> 00:40:53,160
+For the like saying information so quickly that you're not even meditating on what any
+
+1137
+00:40:53,160 --> 00:40:54,160
+of the words mean.
+
+1138
+00:40:54,160 --> 00:40:56,160
+And you're a super robot and you have everything memorized.
+
+1139
+00:40:56,160 --> 00:40:58,160
+And the David Copperfield-esque.
+
+1140
+00:40:58,160 --> 00:40:59,160
+Right.
+
+1141
+00:40:59,160 --> 00:41:03,160
+It's just all, I don't even know what I'm saying anymore.
+
+1142
+00:41:03,160 --> 00:41:04,160
+The words mean nothing to me.
+
+1143
+00:41:04,160 --> 00:41:05,160
+Yes.
+
+1144
+00:41:05,160 --> 00:41:06,160
+Yeah.
+
+1145
+00:41:06,160 --> 00:41:07,160
+It's all rhythm.
+
+1146
+00:41:07,160 --> 00:41:08,160
+It's just this music.
+
+1147
+00:41:08,160 --> 00:41:09,160
+Like radio DJ voice.
+
+1148
+00:41:09,160 --> 00:41:10,160
+Yeah.
+
+1149
+00:41:10,160 --> 00:41:12,160
+Where it's just like it doesn't matter what they're saying.
+
+1150
+00:41:12,160 --> 00:41:14,160
+As long as the rhythm is this way.
+
+1151
+00:41:14,160 --> 00:41:16,160
+And saying it at lightning speed.
+
+1152
+00:41:16,160 --> 00:41:19,160
+Just occasionally punching a word like that.
+
+1153
+00:41:19,160 --> 00:41:21,160
+There were old, I was watching old videos of this though.
+
+1154
+00:41:21,160 --> 00:41:25,160
+And there were some old like hosts that didn't do it as much.
+
+1155
+00:41:25,160 --> 00:41:28,160
+They were much more like, I'm trying to think of the word.
+
+1156
+00:41:28,160 --> 00:41:30,160
+They would just like throw stuff away.
+
+1157
+00:41:30,160 --> 00:41:31,160
+They're much more lazy about it.
+
+1158
+00:41:31,160 --> 00:41:34,160
+And then it seems, especially now it's turned into what you're saying.
+
+1159
+00:41:34,160 --> 00:41:39,160
+The very slick host voice and there's no personality really.
+
+1160
+00:41:39,160 --> 00:41:44,160
+You know I auditioned in 2013.
+
+1161
+00:41:44,160 --> 00:41:47,160
+This is like 2012.
+
+1162
+00:41:47,160 --> 00:41:51,160
+Like two years, two, three years into improv.
+
+1163
+00:41:51,160 --> 00:41:53,160
+So I'm kind of feeling myself being like, oh man, I'm about to go.
+
+1164
+00:41:53,160 --> 00:41:54,160
+I'm about to get this job.
+
+1165
+00:41:54,160 --> 00:41:55,160
+Y'all bullshitting.
+
+1166
+00:41:55,160 --> 00:41:57,160
+I got cut after the first round.
+
+1167
+00:41:57,160 --> 00:41:58,160
+What?
+
+1168
+00:41:58,160 --> 00:41:59,160
+Yeah.
+
+1169
+00:41:59,160 --> 00:42:00,160
+I made it to the hotel.
+
+1170
+00:42:00,160 --> 00:42:02,160
+I made it to the Beverly Garland.
+
+1171
+00:42:02,160 --> 00:42:03,160
+Beverly Garland?
+
+1172
+00:42:03,160 --> 00:42:04,160
+Yes.
+
+1173
+00:42:04,160 --> 00:42:05,160
+It was still that?
+
+1174
+00:42:05,160 --> 00:42:06,160
+Yeah.
+
+1175
+00:42:06,160 --> 00:42:07,160
+I made it to the Beverly Garland.
+
+1176
+00:42:07,160 --> 00:42:11,160
+Which that's the improv step.
+
+1177
+00:42:11,160 --> 00:42:15,160
+That's where you get up on stage and they give you some topic and you have to go off.
+
+1178
+00:42:15,160 --> 00:42:16,160
+Yeah.
+
+1179
+00:42:16,160 --> 00:42:17,160
+And I made the people laugh.
+
+1180
+00:42:17,160 --> 00:42:20,160
+But then they, at the end, they did not call my number.
+
+1181
+00:42:20,160 --> 00:42:21,160
+Jeez.
+
+1182
+00:42:21,160 --> 00:42:22,160
+What?
+
+1183
+00:42:22,160 --> 00:42:25,160
+And one guy that did get to stay, I was like, how did this guy get to stay?
+
+1184
+00:42:25,160 --> 00:42:30,160
+Like it was this older black dude who did not have, he had a interesting stage presence.
+
+1185
+00:42:30,160 --> 00:42:33,160
+But it was not one that I would want to see.
+
+1186
+00:42:33,160 --> 00:42:35,160
+He ended up getting cut like the next round.
+
+1187
+00:42:35,160 --> 00:42:37,160
+But it was like, how did he beat me in a round?
+
+1188
+00:42:37,160 --> 00:42:39,160
+I should at least made it to the third round.
+
+1189
+00:42:39,160 --> 00:42:40,160
+Sure.
+
+1190
+00:42:40,160 --> 00:42:41,160
+Is this for tour guide or for special effects?
+
+1191
+00:42:41,160 --> 00:42:42,160
+Yeah, for tour guide.
+
+1192
+00:42:42,160 --> 00:42:43,160
+For tour guide.
+
+1193
+00:42:43,160 --> 00:42:44,160
+Okay.
+
+1194
+00:42:44,160 --> 00:42:45,160
+That's madness to me.
+
+1195
+00:42:45,160 --> 00:42:50,160
+And then you're, yeah, you're like great at UCB, immediately F'd, but not good enough
+
+1196
+00:42:50,160 --> 00:42:51,160
+for the tour.
+
+1197
+00:42:51,160 --> 00:42:52,160
+Yeah, I can't do the tour.
+
+1198
+00:42:52,160 --> 00:42:53,160
+He definitely can't do the tour.
+
+1199
+00:42:53,160 --> 00:42:56,160
+It seemed like the perfect job because you get off for auditions and stuff like that.
+
+1200
+00:42:56,160 --> 00:42:57,160
+Oh yeah, yeah, yeah.
+
+1201
+00:42:57,160 --> 00:43:01,160
+And it's extremely flexible, especially because you get the job and then the first summer,
+
+1202
+00:43:01,160 --> 00:43:03,160
+they don't use you almost ever.
+
+1203
+00:43:03,160 --> 00:43:04,160
+Really?
+
+1204
+00:43:04,160 --> 00:43:05,160
+Yeah, it's forcibly flexible.
+
+1205
+00:43:05,160 --> 00:43:08,160
+Do they still pay you?
+
+1206
+00:43:08,160 --> 00:43:12,160
+Yeah, you get paid minimum wage to do the training.
+
+1207
+00:43:12,160 --> 00:43:13,160
+Oh yeah.
+
+1208
+00:43:13,160 --> 00:43:15,160
+And then you still might not make it past the training.
+
+1209
+00:43:15,160 --> 00:43:18,160
+So if you made it all the way through, you might have just done like three weeks of classes
+
+1210
+00:43:18,160 --> 00:43:20,160
+for which you're paid almost nothing.
+
+1211
+00:43:20,160 --> 00:43:21,160
+Yeah.
+
+1212
+00:43:21,160 --> 00:43:22,160
+And then still you might have gotten cut.
+
+1213
+00:43:22,160 --> 00:43:24,160
+It's like, it's cutthroat.
+
+1214
+00:43:24,160 --> 00:43:25,160
+It's cutthroat.
+
+1215
+00:43:25,160 --> 00:43:26,160
+It's tough.
+
+1216
+00:43:26,160 --> 00:43:29,160
+Did you do it once or were you, like is it, because you know, UCB Herald team, it took
+
+1217
+00:43:29,160 --> 00:43:33,160
+me four auditions to get on the Herald team and I was like, next year, next year.
+
+1218
+00:43:33,160 --> 00:43:37,160
+And were you like this, you didn't do it more than once to try to?
+
+1219
+00:43:37,160 --> 00:43:38,160
+No.
+
+1220
+00:43:38,160 --> 00:43:39,160
+Yeah, you were just.
+
+1221
+00:43:39,160 --> 00:43:40,160
+No, because that process was ridiculous.
+
+1222
+00:43:40,160 --> 00:43:43,160
+We had to wait outside the city walk for like four hours.
+
+1223
+00:43:43,160 --> 00:43:44,160
+Geez.
+
+1224
+00:43:44,160 --> 00:43:45,160
+Yeah.
+
+1225
+00:43:45,160 --> 00:43:49,160
+And then finally you get in there and you talk to the person for 20 seconds.
+
+1226
+00:43:49,160 --> 00:43:52,160
+And they just like mark on your resume or not.
+
+1227
+00:43:52,160 --> 00:43:53,160
+And then they'll go, okay, here's a slip.
+
+1228
+00:43:53,160 --> 00:43:56,160
+Come back to the Beverly Garner this time.
+
+1229
+00:43:56,160 --> 00:44:02,160
+I tried it in 2008 and that like literally the month that George Bush was like, we are
+
+1230
+00:44:02,160 --> 00:44:09,160
+in a recession and the news, news crews were there because it was like record people showing
+
+1231
+00:44:09,160 --> 00:44:13,160
+up for the first round of interviews, which they timed with a bell.
+
+1232
+00:44:13,160 --> 00:44:15,160
+Like you have one minute to sell yourself.
+
+1233
+00:44:15,160 --> 00:44:16,160
+Yeah.
+
+1234
+00:44:16,160 --> 00:44:19,160
+And like most people didn't even get to the hotel.
+
+1235
+00:44:19,160 --> 00:44:20,160
+Yeah.
+
+1236
+00:44:20,160 --> 00:44:22,160
+Like because it was so gnarly.
+
+1237
+00:44:22,160 --> 00:44:23,160
+Like there.
+
+1238
+00:44:23,160 --> 00:44:24,160
+Did you get to the hotel?
+
+1239
+00:44:24,160 --> 00:44:25,160
+No, I didn't get to the hotel.
+
+1240
+00:44:25,160 --> 00:44:26,160
+Geez.
+
+1241
+00:44:26,160 --> 00:44:28,160
+I mean, I just like started, but like I.
+
+1242
+00:44:28,160 --> 00:44:30,160
+We're making Scott look real good though here.
+
+1243
+00:44:30,160 --> 00:44:31,160
+Yeah.
+
+1244
+00:44:31,160 --> 00:44:32,160
+I'm sorry.
+
+1245
+00:44:32,160 --> 00:44:34,160
+You guys just didn't have what it took.
+
+1246
+00:44:34,160 --> 00:44:36,160
+Yeah, clearly.
+
+1247
+00:44:36,160 --> 00:44:39,160
+Again, it's all about saying things as fast as you possibly can.
+
+1248
+00:44:39,160 --> 00:44:41,160
+Universal Studios, entertainment capital.
+
+1249
+00:44:41,160 --> 00:44:45,160
+You just, you needed to talk at double speed is what you had to do.
+
+1250
+00:44:45,160 --> 00:44:49,160
+I do wonder the origin of that, that speaking.
+
+1251
+00:44:49,160 --> 00:44:51,160
+Yeah, me too, because everything like this.
+
+1252
+00:44:51,160 --> 00:44:55,160
+And if you go see a tour type attraction in Florida, it's this too.
+
+1253
+00:44:55,160 --> 00:44:58,160
+It's not like it's just like an LA thing.
+
+1254
+00:44:58,160 --> 00:45:01,160
+Theme park headset mic based attractions.
+
+1255
+00:45:01,160 --> 00:45:02,160
+Yeah.
+
+1256
+00:45:02,160 --> 00:45:07,160
+Mac Orley was talking about he's fascinated with like where it's like where certain voices start.
+
+1257
+00:45:07,160 --> 00:45:09,160
+Like that's just sort of a voice you assume.
+
+1258
+00:45:09,160 --> 00:45:10,160
+And it's same with like radio announcer.
+
+1259
+00:45:10,160 --> 00:45:12,160
+There's just a voice that everybody does.
+
+1260
+00:45:12,160 --> 00:45:13,160
+Where does who starts that voice?
+
+1261
+00:45:13,160 --> 00:45:14,160
+Yeah.
+
+1262
+00:45:14,160 --> 00:45:15,160
+Why?
+
+1263
+00:45:15,160 --> 00:45:22,160
+Who says to me, my favorite is like the black radio show, like advertisement for like the club that weekend.
+
+1264
+00:45:22,160 --> 00:45:24,160
+It's going down this weekend.
+
+1265
+00:45:24,160 --> 00:45:26,160
+Club wet wet.
+
+1266
+00:45:26,160 --> 00:45:28,160
+We got thirsty Thursdays on Obama night.
+
+1267
+00:45:28,160 --> 00:45:32,160
+We celebrate no bomb of y'all.
+
+1268
+00:45:32,160 --> 00:45:34,160
+I love what's the first one.
+
+1269
+00:45:34,160 --> 00:45:36,160
+You want to know like who started it?
+
+1270
+00:45:36,160 --> 00:45:37,160
+Yeah.
+
+1271
+00:45:37,160 --> 00:45:38,160
+The pioneer of.
+
+1272
+00:45:38,160 --> 00:45:39,160
+Yeah.
+
+1273
+00:45:39,160 --> 00:45:41,160
+I dreamed of a different way of speaking.
+
+1274
+00:45:41,160 --> 00:45:44,160
+Monster truck shows like monster truck announcer.
+
+1275
+00:45:44,160 --> 00:45:45,160
+Oh yeah.
+
+1276
+00:45:45,160 --> 00:45:47,160
+Like Grave Friday.
+
+1277
+00:45:47,160 --> 00:45:48,160
+Friday.
+
+1278
+00:45:48,160 --> 00:45:51,160
+It's the same since the 80s or whatever those started.
+
+1279
+00:45:51,160 --> 00:45:55,160
+But at some point that someone had to invent repeating it.
+
+1280
+00:45:55,160 --> 00:45:56,160
+Hey, I have an idea.
+
+1281
+00:45:56,160 --> 00:45:58,160
+Call me crazy.
+
+1282
+00:45:58,160 --> 00:46:01,160
+What if people, I just want people to remember that it's going to be Saturday.
+
+1283
+00:46:01,160 --> 00:46:02,160
+What is it?
+
+1284
+00:46:02,160 --> 00:46:06,160
+Would it be weird if I said Saturday, Saturday, Saturday?
+
+1285
+00:46:06,160 --> 00:46:07,160
+This sucks.
+
+1286
+00:46:07,160 --> 00:46:08,160
+Get him out of here.
+
+1287
+00:46:08,160 --> 00:46:09,160
+Wait, wait, wait.
+
+1288
+00:46:09,160 --> 00:46:10,160
+Listen to me.
+
+1289
+00:46:10,160 --> 00:46:14,160
+This guy might be on.
+
+1290
+00:46:14,160 --> 00:46:15,160
+Let him talk.
+
+1291
+00:46:15,160 --> 00:46:16,160
+Threat three times.
+
+1292
+00:46:16,160 --> 00:46:21,160
+The man who invented saying the day of the week three times.
+
+1293
+00:46:21,160 --> 00:46:23,160
+This is a statue we built to him.
+
+1294
+00:46:23,160 --> 00:46:24,160
+A pioneer.
+
+1295
+00:46:24,160 --> 00:46:26,160
+In front of a monster truck rally.
+
+1296
+00:46:26,160 --> 00:46:29,160
+And he made no money for doing that.
+
+1297
+00:46:29,160 --> 00:46:32,160
+He's an unsung hero.
+
+1298
+00:46:32,160 --> 00:46:34,160
+Where were we though?
+
+1299
+00:46:34,160 --> 00:46:35,160
+We were talking.
+
+1300
+00:46:35,160 --> 00:46:36,160
+We were going to talk.
+
+1301
+00:46:36,160 --> 00:46:37,160
+Foley.
+
+1302
+00:46:37,160 --> 00:46:38,160
+Learning about Foley.
+
+1303
+00:46:38,160 --> 00:46:39,160
+I think Foley is interesting.
+
+1304
+00:46:39,160 --> 00:46:44,160
+It was like fun and cool and tactile to watch as a kid because you're seeing like here's
+
+1305
+00:46:44,160 --> 00:46:48,160
+a box of leaves and you're like, you know, putting shoes in them.
+
+1306
+00:46:48,160 --> 00:46:49,160
+Yeah.
+
+1307
+00:46:49,160 --> 00:46:52,160
+Or coconuts or whatever for a horse clop.
+
+1308
+00:46:52,160 --> 00:46:53,160
+Yeah.
+
+1309
+00:46:53,160 --> 00:46:56,160
+Oh, Fluffy comes back at Foley.
+
+1310
+00:46:56,160 --> 00:46:57,160
+Usually.
+
+1311
+00:46:57,160 --> 00:46:58,160
+Oh, you're right.
+
+1312
+00:46:58,160 --> 00:46:59,160
+At least in a version.
+
+1313
+00:46:59,160 --> 00:47:00,160
+Like someone goes in a sound booth.
+
+1314
+00:47:00,160 --> 00:47:01,160
+Oh yes.
+
+1315
+00:47:01,160 --> 00:47:03,160
+Because like that's the big conclusion of the show.
+
+1316
+00:47:03,160 --> 00:47:07,160
+I was trying to remember what's the climax of the show and it's someone messes up their
+
+1317
+00:47:07,160 --> 00:47:12,160
+Foley and then they send them into a sound booth where you just see a silhouette.
+
+1318
+00:47:12,160 --> 00:47:19,160
+Like it's very clearly a video monitor because I saw one online where it glitches for a second.
+
+1319
+00:47:19,160 --> 00:47:21,160
+Like then it's the silhouette again.
+
+1320
+00:47:21,160 --> 00:47:26,160
+But then the silhouette gets ravaged by Fluffy.
+
+1321
+00:47:26,160 --> 00:47:28,160
+Fluffy comes back in silhouette form.
+
+1322
+00:47:28,160 --> 00:47:30,160
+Fluffy kills.
+
+1323
+00:47:30,160 --> 00:47:32,160
+Fluffy kills this volunteer.
+
+1324
+00:47:32,160 --> 00:47:36,160
+Fluffy also it was implied Fluffy killed the first host in the second scene.
+
+1325
+00:47:36,160 --> 00:47:37,160
+Right.
+
+1326
+00:47:37,160 --> 00:47:41,160
+Because then the sticky guy like takes over the show.
+
+1327
+00:47:41,160 --> 00:47:45,160
+The guy who would like every time there'd be an effect he would scream and run away.
+
+1328
+00:47:45,160 --> 00:47:49,160
+Oh he's a co-host who does like almost nothing and then he nervously has to take over because
+
+1329
+00:47:49,160 --> 00:47:50,160
+the other guy died.
+
+1330
+00:47:50,160 --> 00:47:51,160
+Yeah.
+
+1331
+00:47:51,160 --> 00:47:55,160
+But then I think some shows would end with like then the door would swing open of the
+
+1332
+00:47:55,160 --> 00:47:58,160
+sound booth and the first host would come out with their clothes all torn and like thank
+
+1333
+00:47:58,160 --> 00:47:59,160
+you for coming.
+
+1334
+00:47:59,160 --> 00:48:01,160
+Thank you for.
+
+1335
+00:48:01,160 --> 00:48:05,160
+But then I saw one video where it was just like the first host just kind of wanders out
+
+1336
+00:48:05,160 --> 00:48:09,160
+in their normal clothes and waves goodbye to everyone.
+
+1337
+00:48:09,160 --> 00:48:11,160
+Well you gotta do that all day.
+
+1338
+00:48:11,160 --> 00:48:13,160
+They have more jobs there now.
+
+1339
+00:48:13,160 --> 00:48:14,160
+Like other stuff.
+
+1340
+00:48:14,160 --> 00:48:15,160
+Like dinosaur handlers.
+
+1341
+00:48:15,160 --> 00:48:16,160
+Oh yeah.
+
+1342
+00:48:16,160 --> 00:48:17,160
+Oh yeah right.
+
+1343
+00:48:17,160 --> 00:48:18,160
+There's a lot of stuff.
+
+1344
+00:48:18,160 --> 00:48:24,160
+And then like inside there's the giant Triceratops that walks and I think there's multiple people
+
+1345
+00:48:24,160 --> 00:48:25,160
+in that.
+
+1346
+00:48:25,160 --> 00:48:26,160
+At least two.
+
+1347
+00:48:26,160 --> 00:48:28,160
+There's like an old it's like an old horse costume.
+
+1348
+00:48:28,160 --> 00:48:31,160
+Like someone's the Triceratops' ass.
+
+1349
+00:48:31,160 --> 00:48:34,160
+That's gotta be terrible during the summer.
+
+1350
+00:48:34,160 --> 00:48:35,160
+Yeah.
+
+1351
+00:48:35,160 --> 00:48:36,160
+Oh yeah Jesus.
+
+1352
+00:48:36,160 --> 00:48:39,160
+But they gotta there's like people that have to like walk it out and then there's people
+
+1353
+00:48:39,160 --> 00:48:40,160
+inside it I believe.
+
+1354
+00:48:40,160 --> 00:48:44,160
+My summer job is I'm a Triceratops' ass.
+
+1355
+00:48:44,160 --> 00:48:50,160
+Person at the top just so you know I had limpy for lunch at City Walk.
+
+1356
+00:48:50,160 --> 00:48:52,160
+So have fun.
+
+1357
+00:48:52,160 --> 00:48:54,160
+Zzzz.
+
+1358
+00:48:54,160 --> 00:48:56,160
+Oh god.
+
+1359
+00:48:56,160 --> 00:48:59,160
+Why's that ass coughing so much?
+
+1360
+00:49:03,160 --> 00:49:08,160
+In some of my first improv class I met a couple guys who would do the special effects show
+
+1361
+00:49:08,160 --> 00:49:10,160
+as like their day job.
+
+1362
+00:49:10,160 --> 00:49:14,160
+Like they're like yeah it's like doing four or five improv shows a day essentially and
+
+1363
+00:49:14,160 --> 00:49:19,160
+you get 150 bucks and yeah it's all right you know a few hours of work.
+
+1364
+00:49:19,160 --> 00:49:20,160
+It's fine.
+
+1365
+00:49:20,160 --> 00:49:23,160
+Yeah you just scream and say some facts.
+
+1366
+00:49:23,160 --> 00:49:25,160
+Not much of a recommendation then.
+
+1367
+00:49:25,160 --> 00:49:26,160
+That's fine.
+
+1368
+00:49:26,160 --> 00:49:27,160
+That's about what it's like.
+
+1369
+00:49:27,160 --> 00:49:29,160
+I'm still jealous of those people who do the tour guy.
+
+1370
+00:49:29,160 --> 00:49:33,160
+Like I'll be on the tour more successful than you.
+
+1371
+00:49:33,160 --> 00:49:35,160
+I'm on a good place.
+
+1372
+00:49:35,160 --> 00:49:38,160
+Yeah you may have gotten this but I'm on a good place.
+
+1373
+00:49:38,160 --> 00:49:39,160
+I mean yes.
+
+1374
+00:49:39,160 --> 00:49:45,160
+I think any other job you can get immediately makes you more successful than the tour.
+
+1375
+00:49:45,160 --> 00:49:47,160
+Just because I didn't get that job.
+
+1376
+00:49:47,160 --> 00:49:48,160
+I'm just bitter.
+
+1377
+00:49:48,160 --> 00:49:50,160
+But it does.
+
+1378
+00:49:50,160 --> 00:49:56,160
+I've always said it ruled for like my first summer doing it was such a dream.
+
+1379
+00:49:56,160 --> 00:49:57,160
+It was so awesome.
+
+1380
+00:49:57,160 --> 00:50:01,160
+And then immediately summer two was like oh god this again.
+
+1381
+00:50:01,160 --> 00:50:02,160
+How many years did you do it?
+
+1382
+00:50:02,160 --> 00:50:07,160
+Like I did it a lot for two summers and then really sporadically after that.
+
+1383
+00:50:07,160 --> 00:50:12,160
+And often just so I could get free parking at CityWalk.
+
+1384
+00:50:12,160 --> 00:50:14,160
+I stayed on the schedule for a little while.
+
+1385
+00:50:14,160 --> 00:50:21,160
+Didn't work for like I had like other full time jobs and was still on the schedule just for the free parking.
+
+1386
+00:50:21,160 --> 00:50:24,160
+So if I got a shift I was like oh god damn it.
+
+1387
+00:50:24,160 --> 00:50:25,160
+What do I do now?
+
+1388
+00:50:25,160 --> 00:50:27,160
+I have to go tell my full time job.
+
+1389
+00:50:27,160 --> 00:50:31,160
+Do you mind if I go work another job today?
+
+1390
+00:50:31,160 --> 00:50:34,160
+You said before you would not mind doing this a little bit.
+
+1391
+00:50:34,160 --> 00:50:35,160
+Of course.
+
+1392
+00:50:35,160 --> 00:50:36,160
+Still.
+
+1393
+00:50:36,160 --> 00:50:39,160
+If I could do it once a month I'd be psyched.
+
+1394
+00:50:39,160 --> 00:50:45,160
+If you were offer only Carl on the tram tour would you?
+
+1395
+00:50:45,160 --> 00:50:50,160
+They're like yeah you don't have to audition anymore but you can come in a couple times a month.
+
+1396
+00:50:50,160 --> 00:50:56,160
+At this point I am intimidated by the training.
+
+1397
+00:50:56,160 --> 00:50:59,160
+I mean like I don't feel like it.
+
+1398
+00:50:59,160 --> 00:51:02,160
+But what if they said no training we'll give you the notes.
+
+1399
+00:51:02,160 --> 00:51:04,160
+And I get to make it oh yeah I do that shit.
+
+1400
+00:51:04,160 --> 00:51:05,160
+That'd be fun.
+
+1401
+00:51:05,160 --> 00:51:07,160
+You don't have to learn any clip numbers.
+
+1402
+00:51:07,160 --> 00:51:09,160
+Somebody will like sit behind you and do it all for you.
+
+1403
+00:51:09,160 --> 00:51:15,160
+There will be another person there that can be like yeah this is the part where they talk about the shark not working.
+
+1404
+00:51:15,160 --> 00:51:18,160
+Oh yeah I've watched Universal Story enough times.
+
+1405
+00:51:18,160 --> 00:51:20,160
+It feels like it's all in there.
+
+1406
+00:51:20,160 --> 00:51:22,160
+Day 27 is haunted.
+
+1407
+00:51:22,160 --> 00:51:24,160
+The whole lot feels out of Africa.
+
+1408
+00:51:24,160 --> 00:51:26,160
+1985.
+
+1409
+00:51:28,160 --> 00:51:29,160
+You know what that big lake is?
+
+1410
+00:51:29,160 --> 00:51:31,160
+Like where the big green screen was.
+
+1411
+00:51:31,160 --> 00:51:32,160
+Things like that.
+
+1412
+00:51:32,160 --> 00:51:34,160
+They use this lake in cocoon.
+
+1413
+00:51:36,160 --> 00:51:40,160
+Statistically you could say that about most things on that property.
+
+1414
+00:51:40,160 --> 00:51:41,160
+You might be right.
+
+1415
+00:51:41,160 --> 00:51:43,160
+Like cocoon, Van Helsing.
+
+1416
+00:51:43,160 --> 00:51:45,160
+Coach is the one.
+
+1417
+00:51:45,160 --> 00:51:47,160
+I love seeing the Coach House.
+
+1418
+00:51:47,160 --> 00:51:49,160
+That was one of my favorite things because I liked Coach.
+
+1419
+00:51:49,160 --> 00:51:51,160
+Then the theme song would play.
+
+1420
+00:51:51,160 --> 00:51:52,160
+Hell yeah.
+
+1421
+00:51:52,160 --> 00:51:54,160
+Yeah everybody likes it.
+
+1422
+00:51:54,160 --> 00:51:55,160
+Southwestern Minnesota State baby.
+
+1423
+00:51:55,160 --> 00:51:57,160
+How's the theme song go?
+
+1424
+00:51:57,160 --> 00:51:59,160
+You know what I'm getting mixed up.
+
+1425
+00:51:59,160 --> 00:52:01,160
+I can't think of it exactly in my head.
+
+1426
+00:52:01,160 --> 00:52:03,160
+I'm getting mixed up with the theme song to Recess right now.
+
+1427
+00:52:03,160 --> 00:52:05,160
+But it's kind of similar to that.
+
+1428
+00:52:05,160 --> 00:52:07,160
+I think what's playing in my head is Major Dad.
+
+1429
+00:52:07,160 --> 00:52:09,160
+Is Coach kind of like a football fight song?
+
+1430
+00:52:09,160 --> 00:52:11,160
+Yeah it is.
+
+1431
+00:52:11,160 --> 00:52:13,160
+Yeah yeah yeah.
+
+1432
+00:52:13,160 --> 00:52:15,160
+Okay okay.
+
+1433
+00:52:15,160 --> 00:52:17,160
+Got it.
+
+1434
+00:52:17,160 --> 00:52:19,160
+I remember a big coach poster by the special.
+
+1435
+00:52:19,160 --> 00:52:21,160
+Like if I'm in line for the special effects stage.
+
+1436
+00:52:21,160 --> 00:52:23,160
+There's a huge coach.
+
+1437
+00:52:23,160 --> 00:52:25,160
+And they sold coach merch also.
+
+1438
+00:52:25,160 --> 00:52:27,160
+Around this area.
+
+1439
+00:52:27,160 --> 00:52:29,160
+Coach bags.
+
+1440
+00:52:29,160 --> 00:52:31,160
+People are going to go is this a coach bag?
+
+1441
+00:52:31,160 --> 00:52:33,160
+And they put it in the front.
+
+1442
+00:52:33,160 --> 00:52:35,160
+Yeah.
+
+1443
+00:52:35,160 --> 00:52:37,160
+Technically yes.
+
+1444
+00:52:37,160 --> 00:52:39,160
+Craig T. Nelson on the side of a bag.
+
+1445
+00:52:41,160 --> 00:52:43,160
+Jerry Van Dyke was funny as hell on that show.
+
+1446
+00:52:43,160 --> 00:52:45,160
+Yeah.
+
+1447
+00:52:45,160 --> 00:52:47,160
+He's an unsung.
+
+1448
+00:52:47,160 --> 00:52:49,160
+He was always like a side character.
+
+1449
+00:52:49,160 --> 00:52:51,160
+But he doesn't get enough credit.
+
+1450
+00:52:51,160 --> 00:52:53,160
+I was going to say they were trying to bring Coach back a few years ago.
+
+1451
+00:52:53,160 --> 00:52:55,160
+Yeah I remember that.
+
+1452
+00:52:55,160 --> 00:52:57,160
+But for some reason.
+
+1453
+00:52:57,160 --> 00:52:59,160
+I guess people's appetite for Coach wasn't as strong as they wanted.
+
+1454
+00:52:59,160 --> 00:53:01,160
+I signed the petition.
+
+1455
+00:53:01,160 --> 00:53:03,160
+Coach.
+
+1456
+00:53:03,160 --> 00:53:05,160
+Coach.
+
+1457
+00:53:05,160 --> 00:53:07,160
+Bring it back.
+
+1458
+00:53:07,160 --> 00:53:09,160
+They were all alive maybe at that point too.
+
+1459
+00:53:09,160 --> 00:53:11,160
+Probably.
+
+1460
+00:53:11,160 --> 00:53:13,160
+Are they now?
+
+1461
+00:53:13,160 --> 00:53:15,160
+Yeah he's dead.
+
+1462
+00:53:15,160 --> 00:53:17,160
+Really?
+
+1463
+00:53:17,160 --> 00:53:19,160
+He was the older brother right?
+
+1464
+00:53:19,160 --> 00:53:21,160
+I think he's younger.
+
+1465
+00:53:21,160 --> 00:53:23,160
+I gotta look this up.
+
+1466
+00:53:23,160 --> 00:53:25,160
+I'm worried that he's not dead.
+
+1467
+00:53:25,160 --> 00:53:27,160
+He's dead.
+
+1468
+00:53:27,160 --> 00:53:29,160
+A million dollars that Jerry Van Dyke is dead.
+
+1469
+00:53:31,160 --> 00:53:33,160
+Put the pennies on the eyes.
+
+1470
+00:53:35,160 --> 00:53:37,160
+We're going to the graveyard.
+
+1471
+00:53:37,160 --> 00:53:39,160
+We're going to Hollywood forever right now.
+
+1472
+00:53:39,160 --> 00:53:41,160
+I'm going to prove this.
+
+1473
+00:53:41,160 --> 00:53:43,160
+Read it and weep Gardner.
+
+1474
+00:53:43,160 --> 00:53:45,160
+There it is. Read it.
+
+1475
+00:53:45,160 --> 00:53:47,160
+Put it on the podcast.
+
+1476
+00:53:47,160 --> 00:53:49,160
+He died in 2018.
+
+1477
+00:53:49,160 --> 00:53:51,160
+January 5th.
+
+1478
+00:53:51,160 --> 00:53:53,160
+It was my birthday.
+
+1479
+00:53:53,160 --> 00:53:55,160
+Really?
+
+1480
+00:53:55,160 --> 00:53:57,160
+He is younger than Dick.
+
+1481
+00:53:57,160 --> 00:53:59,160
+That sucks.
+
+1482
+00:53:59,160 --> 00:54:01,160
+Dick must have took that hard.
+
+1483
+00:54:01,160 --> 00:54:03,160
+Probably.
+
+1484
+00:54:03,160 --> 00:54:09,160
+I believe the trivia is that Jerry Van Dyke had two options for shows at one point to star.
+
+1485
+00:54:09,160 --> 00:54:13,160
+It was Gilligan's Island or My Mother the Car.
+
+1486
+00:54:13,160 --> 00:54:15,160
+He went with the show My Mother the Car.
+
+1487
+00:54:15,160 --> 00:54:17,160
+Who would he have been in Gilligan's Island?
+
+1488
+00:54:17,160 --> 00:54:19,160
+Gilligan I believe.
+
+1489
+00:54:19,160 --> 00:54:21,160
+I believe he would have been Gilligan on Gilligan's Island.
+
+1490
+00:54:21,160 --> 00:54:23,160
+He went with the show that was about the
+
+1491
+00:54:23,160 --> 00:54:25,160
+wife's ghost living inside a car.
+
+1492
+00:54:25,160 --> 00:54:27,160
+I mean to be fair, at that time, like 1966 probably.
+
+1493
+00:54:27,160 --> 00:54:29,160
+Yeah.
+
+1494
+00:54:29,160 --> 00:54:31,160
+65, 66 somewhere in there.
+
+1495
+00:54:31,160 --> 00:54:33,160
+That probably was revolutionary.
+
+1496
+00:54:33,160 --> 00:54:37,160
+Cars were around for like 30 years at that point but still kind of like just getting popping.
+
+1497
+00:54:37,160 --> 00:54:39,160
+Sure.
+
+1498
+00:54:39,160 --> 00:54:45,160
+And the idea that a wife's ghost or a mother's ghost was in the car was probably like this is going to be hilarious.
+
+1499
+00:54:45,160 --> 00:54:47,160
+The main character is going to be a car.
+
+1500
+00:54:47,160 --> 00:54:49,160
+Yeah.
+
+1501
+00:54:49,160 --> 00:54:51,160
+Also endless stories with that trapped on an island.
+
+1502
+00:54:51,160 --> 00:54:53,160
+How many stories can you possibly do?
+
+1503
+00:54:53,160 --> 00:54:55,160
+Right.
+
+1504
+00:54:55,160 --> 00:54:57,160
+That's what he was thinking.
+
+1505
+00:54:57,160 --> 00:54:59,160
+But that might have been a thing that may have haunted him.
+
+1506
+00:54:59,160 --> 00:55:01,160
+Like a ghost.
+
+1507
+00:55:01,160 --> 00:55:03,160
+Until my 29th birthday.
+
+1508
+00:55:03,160 --> 00:55:05,160
+Until one faithful girl's birthday.
+
+1509
+00:55:05,160 --> 00:55:07,160
+You'll always know now.
+
+1510
+00:55:07,160 --> 00:55:09,160
+You absorbed his life force.
+
+1511
+00:55:09,160 --> 00:55:11,160
+For another year.
+
+1512
+00:55:11,160 --> 00:55:13,160
+Coach.
+
+1513
+00:55:13,160 --> 00:55:15,160
+Every birthday now you will know.
+
+1514
+00:55:15,160 --> 00:55:17,160
+Yeah.
+
+1515
+00:55:17,160 --> 00:55:19,160
+That this was the day Jerry Maddyke passed.
+
+1516
+00:55:19,160 --> 00:55:21,160
+Let's talk about another weird old show.
+
+1517
+00:55:21,160 --> 00:55:23,160
+Harry and the Hendersons.
+
+1518
+00:55:23,160 --> 00:55:25,160
+Oh yeah.
+
+1519
+00:55:25,160 --> 00:55:27,160
+Because the finale of this show for a long time, a long time, was you have to do the sound effects for Harry and the Hendersons.
+
+1520
+00:55:27,160 --> 00:55:29,160
+Yeah.
+
+1521
+00:55:29,160 --> 00:55:31,160
+This was a syndicated show that ran from like 91 to 93.
+
+1522
+00:55:31,160 --> 00:55:33,160
+And in 1999,
+
+1523
+00:55:33,160 --> 00:55:35,160
+I think it was like the first time in the history of the show.
+
+1524
+00:55:35,160 --> 00:55:37,160
+Yeah.
+
+1525
+00:55:37,160 --> 00:55:39,160
+And it was like the first time in the history of the show.
+
+1526
+00:55:39,160 --> 00:55:41,160
+Yeah.
+
+1527
+00:55:41,160 --> 00:55:43,160
+And it was like the first time in the history of the show.
+
+1528
+00:55:43,160 --> 00:55:45,160
+Yeah.
+
+1529
+00:55:45,160 --> 00:55:47,160
+And in 1999,
+
+1530
+00:55:47,160 --> 00:55:49,160
+you could still go on an attraction
+
+1531
+00:55:49,160 --> 00:55:51,160
+where the idea is
+
+1532
+00:55:51,160 --> 00:55:53,160
+this is a new episode
+
+1533
+00:55:53,160 --> 00:55:55,160
+that we're making.
+
+1534
+00:55:55,160 --> 00:55:57,160
+And at some point in time,
+
+1535
+00:55:57,160 --> 00:55:59,160
+there's a mistake and all of the sound effects
+
+1536
+00:55:59,160 --> 00:56:01,160
+get erased.
+
+1537
+00:56:01,160 --> 00:56:03,160
+And the voice in the back of the booth
+
+1538
+00:56:03,160 --> 00:56:05,160
+says, the network called,
+
+1539
+00:56:05,160 --> 00:56:07,160
+we're going on the air live
+
+1540
+00:56:07,160 --> 00:56:09,160
+in one minute.
+
+1541
+00:56:09,160 --> 00:56:11,160
+So we have to live broadcast the sounds.
+
+1542
+00:56:11,160 --> 00:56:13,160
+For a syndicate.
+
+1543
+00:56:13,160 --> 00:56:15,160
+There is no network.
+
+1544
+00:56:15,160 --> 00:56:17,160
+Yeah.
+
+1545
+00:56:17,160 --> 00:56:19,160
+There is not a network in this scenario.
+
+1546
+00:56:19,160 --> 00:56:21,160
+I forgot that was syndicated.
+
+1547
+00:56:21,160 --> 00:56:23,160
+It came on every day?
+
+1548
+00:56:23,160 --> 00:56:25,160
+No, not like that. I recall seeing it like Saturday afternoons.
+
+1549
+00:56:25,160 --> 00:56:27,160
+Yeah.
+
+1550
+00:56:27,160 --> 00:56:29,160
+Something like that.
+
+1551
+00:56:29,160 --> 00:56:31,160
+Like after Gulliver's Travels or something.
+
+1552
+00:56:31,160 --> 00:56:33,160
+Yeah.
+
+1553
+00:56:33,160 --> 00:56:35,160
+In the Zenub zone.
+
+1554
+00:56:35,160 --> 00:56:37,160
+VIP.
+
+1555
+00:56:37,160 --> 00:56:39,160
+Oh yeah.
+
+1556
+00:56:39,160 --> 00:56:41,160
+She spies.
+
+1557
+00:56:41,160 --> 00:56:43,160
+Relic Hunter.
+
+1558
+00:56:43,160 --> 00:56:45,160
+Right before JAG.
+
+1559
+00:56:45,160 --> 00:56:47,160
+What a boring time.
+
+1560
+00:56:47,160 --> 00:56:49,160
+Like a boring day of television.
+
+1561
+00:56:49,160 --> 00:56:51,160
+If all those shows
+
+1562
+00:56:51,160 --> 00:56:53,160
+were coming out, I knew that I was like,
+
+1563
+00:56:53,160 --> 00:56:55,160
+man, I don't have anything to do today.
+
+1564
+00:56:55,160 --> 00:56:57,160
+I gotta go outside.
+
+1565
+00:56:57,160 --> 00:56:59,160
+You gotta get to Universal.
+
+1566
+00:56:59,160 --> 00:57:01,160
+Yeah, you like failed
+
+1567
+00:57:01,160 --> 00:57:03,160
+in your day.
+
+1568
+00:57:03,160 --> 00:57:05,160
+All you have to do is watch.
+
+1569
+00:57:05,160 --> 00:57:07,160
+There's a weird Gene
+
+1570
+00:57:07,160 --> 00:57:09,160
+Roddenberry related show
+
+1571
+00:57:09,160 --> 00:57:11,160
+called Andromeda or something.
+
+1572
+00:57:11,160 --> 00:57:13,160
+Andromeda, yeah.
+
+1573
+00:57:13,160 --> 00:57:15,160
+I would be like, what is this?
+
+1574
+00:57:15,160 --> 00:57:17,160
+Star Trek ripoff.
+
+1575
+00:57:17,160 --> 00:57:19,160
+There was a martial arts themed
+
+1576
+00:57:19,160 --> 00:57:21,160
+kind of like WWE thing.
+
+1577
+00:57:21,160 --> 00:57:23,160
+Oh, but that was cool.
+
+1578
+00:57:23,160 --> 00:57:25,160
+What was that called? Kung Fu Masters or something?
+
+1579
+00:57:25,160 --> 00:57:27,160
+Something like that.
+
+1580
+00:57:27,160 --> 00:57:29,160
+It was like Power Rangers.
+
+1581
+00:57:29,160 --> 00:57:31,160
+Very of the time of
+
+1582
+00:57:31,160 --> 00:57:33,160
+Power Rangers.
+
+1583
+00:57:33,160 --> 00:57:35,160
+VR Troopers?
+
+1584
+00:57:35,160 --> 00:57:37,160
+No, it was more of presenting it as a reality like WWE.
+
+1585
+00:57:37,160 --> 00:57:39,160
+It was like ninjas fighting
+
+1586
+00:57:39,160 --> 00:57:41,160
+WWE style.
+
+1587
+00:57:41,160 --> 00:57:43,160
+You tracked it week to week?
+
+1588
+00:57:43,160 --> 00:57:45,160
+Who's winning in the middle?
+
+1589
+00:57:45,160 --> 00:57:47,160
+Yeah, there were story lines.
+
+1590
+00:57:47,160 --> 00:57:49,160
+So that was the idea.
+
+1591
+00:57:49,160 --> 00:57:51,160
+It was like live mortal combat.
+
+1592
+00:57:51,160 --> 00:57:53,160
+The time period where every kid was taking karate after school.
+
+1593
+00:57:53,160 --> 00:57:55,160
+And the Power Rangers are all doing karate.
+
+1594
+00:57:55,160 --> 00:57:57,160
+Very weird.
+
+1595
+00:57:57,160 --> 00:57:59,160
+Very short lived.
+
+1596
+00:57:59,160 --> 00:58:01,160
+So anyway, back to
+
+1597
+00:58:01,160 --> 00:58:03,160
+the syndicated.
+
+1598
+00:58:03,160 --> 00:58:05,160
+My favorite Saturday syndicated show
+
+1599
+00:58:05,160 --> 00:58:07,160
+was a show called Your Big Break
+
+1600
+00:58:07,160 --> 00:58:09,160
+that was hosted by Alfonso
+
+1601
+00:58:09,160 --> 00:58:11,160
+Riviero. And did you ever see
+
+1602
+00:58:11,160 --> 00:58:13,160
+the show? Oh, man.
+
+1603
+00:58:13,160 --> 00:58:15,160
+I was like, who knows this?
+
+1604
+00:58:15,160 --> 00:58:17,160
+It's sort of an American
+
+1605
+00:58:17,160 --> 00:58:19,160
+Idol type scenario
+
+1606
+00:58:19,160 --> 00:58:21,160
+except the prize is you get
+
+1607
+00:58:21,160 --> 00:58:23,160
+to pretend to be
+
+1608
+00:58:23,160 --> 00:58:25,160
+a star of your choosing
+
+1609
+00:58:25,160 --> 00:58:27,160
+in a big production number.
+
+1610
+00:58:27,160 --> 00:58:29,160
+I don't think I've ever seen that.
+
+1611
+00:58:29,160 --> 00:58:31,160
+You go into
+
+1612
+00:58:31,160 --> 00:58:33,160
+a magic door and then
+
+1613
+00:58:33,160 --> 00:58:35,160
+there's a bunch of fog and then you walk
+
+1614
+00:58:35,160 --> 00:58:37,160
+back out dressed as
+
+1615
+00:58:37,160 --> 00:58:39,160
+Elvis or
+
+1616
+00:58:39,160 --> 00:58:41,160
+Michael Jackson or
+
+1617
+00:58:41,160 --> 00:58:43,160
+Whitney Houston or whatever it is.
+
+1618
+00:58:43,160 --> 00:58:45,160
+It's so great. And my
+
+1619
+00:58:45,160 --> 00:58:47,160
+my very favorite one was
+
+1620
+00:58:47,160 --> 00:58:49,160
+that a guy wanted to be Neil
+
+1621
+00:58:49,160 --> 00:58:51,160
+Diamond. And it's
+
+1622
+00:58:51,160 --> 00:58:53,160
+regular people. It's like accountants
+
+1623
+00:58:53,160 --> 00:58:55,160
+or people who work at call centers or whatever.
+
+1624
+00:58:55,160 --> 00:58:57,160
+He goes in the door and then comes
+
+1625
+00:58:57,160 --> 00:58:59,160
+back out Neil Diamond. And then he
+
+1626
+00:58:59,160 --> 00:59:01,160
+this guy sang
+
+1627
+00:59:01,160 --> 00:59:03,160
+Coming to America.
+
+1628
+00:59:03,160 --> 00:59:05,160
+Wow. A little like
+
+1629
+00:59:05,160 --> 00:59:07,160
+stage set of an Ellis
+
+1630
+00:59:07,160 --> 00:59:09,160
+Island staircase.
+
+1631
+00:59:09,160 --> 00:59:11,160
+Coming off of a ship was rolled out
+
+1632
+00:59:11,160 --> 00:59:13,160
+and a bunch of like early 1900s
+
+1633
+00:59:13,160 --> 00:59:15,160
+immigrants walked down the stairs
+
+1634
+00:59:15,160 --> 00:59:17,160
+like from Ireland to France
+
+1635
+00:59:17,160 --> 00:59:19,160
+and waved.
+
+1636
+00:59:19,160 --> 00:59:21,160
+They're coming
+
+1637
+00:59:21,160 --> 00:59:23,160
+to America.
+
+1638
+00:59:23,160 --> 00:59:25,160
+This is before like this is
+
+1639
+00:59:25,160 --> 00:59:27,160
+kind of like the early
+
+1640
+00:59:27,160 --> 00:59:29,160
+version of like lip sync battle almost.
+
+1641
+00:59:29,160 --> 00:59:31,160
+It's like a cousin to lip sync battle.
+
+1642
+00:59:31,160 --> 00:59:33,160
+But with regular people
+
+1643
+00:59:33,160 --> 00:59:35,160
+not celebrities. You guys remember Great Pretenders?
+
+1644
+00:59:35,160 --> 00:59:37,160
+Where kids it was on it was
+
+1645
+00:59:37,160 --> 00:59:39,160
+hosted by Fergie and her
+
+1646
+00:59:39,160 --> 00:59:41,160
+singing room like Wild Orchid.
+
+1647
+00:59:41,160 --> 00:59:43,160
+Fergie's original.
+
+1648
+00:59:43,160 --> 00:59:45,160
+It came on
+
+1649
+00:59:45,160 --> 00:59:47,160
+ABC Family or Fox Family.
+
+1650
+00:59:47,160 --> 00:59:49,160
+It was called back then. It's called Freeform now.
+
+1651
+00:59:49,160 --> 00:59:51,160
+But like it was called Great Pretenders.
+
+1652
+00:59:51,160 --> 00:59:53,160
+Fergie with like a lot
+
+1653
+00:59:53,160 --> 00:59:55,160
+Fergie and like you know
+
+1654
+00:59:55,160 --> 00:59:57,160
+midriff leather pants and like too much
+
+1655
+00:59:57,160 --> 00:59:59,160
+lip liner. Fergie looks bizarre.
+
+1656
+00:59:59,160 --> 01:00:01,160
+Welcome back to Great Pretenders.
+
+1657
+01:00:01,160 --> 01:00:03,160
+And they would always like sing
+
+1658
+01:00:03,160 --> 01:00:05,160
+that part.
+
+1659
+01:00:05,160 --> 01:00:07,160
+We're not pretending.
+
+1660
+01:00:07,160 --> 01:00:09,160
+We really sing. We're Wild Orchid.
+
+1661
+01:00:09,160 --> 01:00:11,160
+Yeah.
+
+1662
+01:00:11,160 --> 01:00:13,160
+But these kids are pretending to sing.
+
+1663
+01:00:13,160 --> 01:00:15,160
+I used to love that show.
+
+1664
+01:00:15,160 --> 01:00:17,160
+Would kids would they lip sync?
+
+1665
+01:00:17,160 --> 01:00:19,160
+Yeah. Okay. So that's also
+
+1666
+01:00:19,160 --> 01:00:21,160
+interesting.
+
+1667
+01:00:21,160 --> 01:00:23,160
+So they would dress up. They would
+
+1668
+01:00:23,160 --> 01:00:25,160
+lip sync and then give them like a stage
+
+1669
+01:00:25,160 --> 01:00:27,160
+set up. And do like do like a routine.
+
+1670
+01:00:27,160 --> 01:00:29,160
+Like I remember one I remember a group of kids
+
+1671
+01:00:29,160 --> 01:00:31,160
+doing the Friends theme song.
+
+1672
+01:00:31,160 --> 01:00:33,160
+But they weren't lip syncing to it.
+
+1673
+01:00:33,160 --> 01:00:35,160
+They just danced around like a fake
+
+1674
+01:00:35,160 --> 01:00:37,160
+fountain with white turtleneck songs.
+
+1675
+01:00:37,160 --> 01:00:39,160
+Yeah. Whoa.
+
+1676
+01:00:39,160 --> 01:00:41,160
+Wow. But they did the wait.
+
+1677
+01:00:41,160 --> 01:00:43,160
+They didn't lip sync? No.
+
+1678
+01:00:43,160 --> 01:00:45,160
+Because the friends don't sing
+
+1679
+01:00:45,160 --> 01:00:47,160
+the song.
+
+1680
+01:00:47,160 --> 01:00:49,160
+I kind of wish they did though. Yeah.
+
+1681
+01:00:49,160 --> 01:00:51,160
+Kids seeing kids anytime when I
+
+1682
+01:00:51,160 --> 01:00:53,160
+was a kid seeing kids do anything
+
+1683
+01:00:53,160 --> 01:00:55,160
+was just I was obsessed with it. I don't think
+
+1684
+01:00:55,160 --> 01:00:57,160
+there was a bad show where kids like Wild
+
+1685
+01:00:57,160 --> 01:00:59,160
+and Crazy Kids like that
+
+1686
+01:00:59,160 --> 01:01:01,160
+was I was obsessed with. But anytime they had kids
+
+1687
+01:01:01,160 --> 01:01:03,160
+doing anything I was so jealous
+
+1688
+01:01:03,160 --> 01:01:05,160
+of those kids. Yeah. I didn't watch
+
+1689
+01:01:05,160 --> 01:01:07,160
+that show as a kid but I would have been so
+
+1690
+01:01:07,160 --> 01:01:09,160
+jealous of the kids running around the Friends
+
+1691
+01:01:09,160 --> 01:01:11,160
+fountain. Oh I was way too shy
+
+1692
+01:01:11,160 --> 01:01:13,160
+to do anything like that. Yeah.
+
+1693
+01:01:13,160 --> 01:01:15,160
+And yet I was so jealous of those kids.
+
+1694
+01:01:15,160 --> 01:01:17,160
+That's gotta be fun. Yeah.
+
+1695
+01:01:17,160 --> 01:01:19,160
+And you're like it's their sheer confidence
+
+1696
+01:01:19,160 --> 01:01:21,160
+that got them this.
+
+1697
+01:01:21,160 --> 01:01:23,160
+That I don't have and I'll never have. Yeah.
+
+1698
+01:01:23,160 --> 01:01:25,160
+I can't believe I do what I do now.
+
+1699
+01:01:25,160 --> 01:01:27,160
+Because I was the shyest kid. Oh really?
+
+1700
+01:01:27,160 --> 01:01:29,160
+Like for a long time like through high school
+
+1701
+01:01:29,160 --> 01:01:31,160
+and whatever you were
+
+1702
+01:01:31,160 --> 01:01:33,160
+inward and. Yeah.
+
+1703
+01:01:33,160 --> 01:01:35,160
+Well not inward like I was
+
+1704
+01:01:35,160 --> 01:01:37,160
+what is it called?
+
+1705
+01:01:37,160 --> 01:01:39,160
+An extroverted introvert?
+
+1706
+01:01:39,160 --> 01:01:41,160
+Yeah. Okay. Yeah. Yeah.
+
+1707
+01:01:41,160 --> 01:01:43,160
+Get the energy up. Yeah.
+
+1708
+01:01:43,160 --> 01:01:45,160
+And be very shy. Yes. Yes. Absolutely.
+
+1709
+01:01:45,160 --> 01:01:47,160
+Sure. Sure. Sure. I feel like I was like that
+
+1710
+01:01:47,160 --> 01:01:49,160
+and still am like that. Sure. I think I am too.
+
+1711
+01:01:49,160 --> 01:01:51,160
+I feel like a lot of comedy. Yeah. People in comedy are.
+
+1712
+01:01:51,160 --> 01:01:53,160
+It felt like a fight to get me out.
+
+1713
+01:01:53,160 --> 01:01:55,160
+It felt like I was fighting myself a lot.
+
+1714
+01:01:55,160 --> 01:01:57,160
+To like express myself.
+
+1715
+01:01:57,160 --> 01:01:59,160
+Sure. Sure. Okay.
+
+1716
+01:01:59,160 --> 01:02:01,160
+And I used to because I used to do like we would
+
+1717
+01:02:01,160 --> 01:02:03,160
+make videos with my sister and she would
+
+1718
+01:02:03,160 --> 01:02:05,160
+be the host and I would always just have a puppet.
+
+1719
+01:02:05,160 --> 01:02:07,160
+Yeah. And it's like it's clear
+
+1720
+01:02:07,160 --> 01:02:09,160
+that like I was a little too scared
+
+1721
+01:02:09,160 --> 01:02:11,160
+to be on camera. So the puppet
+
+1722
+01:02:11,160 --> 01:02:13,160
+was brave. The puppet was
+
+1723
+01:02:13,160 --> 01:02:15,160
+very brave. Yeah.
+
+1724
+01:02:15,160 --> 01:02:17,160
+I would make like Barney talk or something.
+
+1725
+01:02:17,160 --> 01:02:19,160
+Her Barney doll. But I was too
+
+1726
+01:02:19,160 --> 01:02:21,160
+scared to be on camera.
+
+1727
+01:02:21,160 --> 01:02:23,160
+What weirdos we are.
+
+1728
+01:02:23,160 --> 01:02:25,160
+Yeah. Yeah. It's true.
+
+1729
+01:02:25,160 --> 01:02:27,160
+We have the confidence now.
+
+1730
+01:02:27,160 --> 01:02:29,160
+Sort of. Yeah. Yeah. Mildly.
+
+1731
+01:02:29,160 --> 01:02:31,160
+All right. So Harry
+
+1732
+01:02:31,160 --> 01:02:33,160
+and the Hendersons. I don't know.
+
+1733
+01:02:33,160 --> 01:02:35,160
+I just love that bizarre.
+
+1734
+01:02:35,160 --> 01:02:37,160
+And then sometimes in this show
+
+1735
+01:02:37,160 --> 01:02:39,160
+Harry himself
+
+1736
+01:02:39,160 --> 01:02:41,160
+because he would usually culminate
+
+1737
+01:02:41,160 --> 01:02:43,160
+in like a very nervous
+
+1738
+01:02:43,160 --> 01:02:45,160
+woman. And
+
+1739
+01:02:45,160 --> 01:02:47,160
+often they would give this job to somebody who could not
+
+1740
+01:02:47,160 --> 01:02:49,160
+speak English so that they could kind of make
+
+1741
+01:02:49,160 --> 01:02:51,160
+fun of the person for their lack of ability
+
+1742
+01:02:51,160 --> 01:02:53,160
+to speak English. Sure. She doesn't
+
+1743
+01:02:53,160 --> 01:02:55,160
+understand the instructions. Something that Copperfield
+
+1744
+01:02:55,160 --> 01:02:57,160
+still does to this day. That's right.
+
+1745
+01:02:57,160 --> 01:02:59,160
+Yes. If you go see the Copper. David
+
+1746
+01:02:59,160 --> 01:03:01,160
+Copperfield show. It's so many jokes
+
+1747
+01:03:01,160 --> 01:03:03,160
+about like probably
+
+1748
+01:03:03,160 --> 01:03:05,160
+a plant. But a woman in the audience
+
+1749
+01:03:05,160 --> 01:03:07,160
+is a plant that can't speak English well. And
+
+1750
+01:03:07,160 --> 01:03:09,160
+he like haha I can't understand anything you
+
+1751
+01:03:09,160 --> 01:03:11,160
+said.
+
+1752
+01:03:11,160 --> 01:03:13,160
+He was dead. Copperfield. David Copperfield?
+
+1753
+01:03:13,160 --> 01:03:15,160
+Which magician died?
+
+1754
+01:03:15,160 --> 01:03:17,160
+I say it like that. Which magician died?
+
+1755
+01:03:17,160 --> 01:03:19,160
+Houdini died.
+
+1756
+01:03:19,160 --> 01:03:21,160
+Which magician in history
+
+1757
+01:03:21,160 --> 01:03:23,160
+died? Lance Burton is still alive.
+
+1758
+01:03:23,160 --> 01:03:25,160
+A new guy. Like a younger guy that
+
+1759
+01:03:25,160 --> 01:03:27,160
+was doing Vegas who passed away a couple years ago.
+
+1760
+01:03:27,160 --> 01:03:29,160
+Oh Danny Gans. Danny Gans.
+
+1761
+01:03:29,160 --> 01:03:31,160
+He wasn't really a magician. That's what I'm
+
+1762
+01:03:31,160 --> 01:03:33,160
+mixing. Oh Ricky Jay died?
+
+1763
+01:03:33,160 --> 01:03:35,160
+I don't know who that is. I was thinking Danny Gans.
+
+1764
+01:03:35,160 --> 01:03:37,160
+Okay. How many
+
+1765
+01:03:37,160 --> 01:03:39,160
+magicians have died? And have any
+
+1766
+01:03:39,160 --> 01:03:41,160
+of them really? Since Houdini.
+
+1767
+01:03:41,160 --> 01:03:43,160
+Speaking of syndicated TV.
+
+1768
+01:03:43,160 --> 01:03:45,160
+You remember Magic Secrets Revealed?
+
+1769
+01:03:45,160 --> 01:03:47,160
+I felt so guilty
+
+1770
+01:03:47,160 --> 01:03:49,160
+watching that.
+
+1771
+01:03:49,160 --> 01:03:51,160
+Like I am not supposed to know
+
+1772
+01:03:51,160 --> 01:03:53,160
+like I knew about the secrets
+
+1773
+01:03:53,160 --> 01:03:55,160
+magicians don't reveal their
+
+1774
+01:03:55,160 --> 01:03:57,160
+secrets. And I would be like
+
+1775
+01:03:57,160 --> 01:03:59,160
+do I want to know these secrets?
+
+1776
+01:03:59,160 --> 01:04:01,160
+Will I still enjoy the TV specials
+
+1777
+01:04:01,160 --> 01:04:03,160
+if I know the secrets? And then
+
+1778
+01:04:03,160 --> 01:04:05,160
+he unmasked and it was just a guy.
+
+1779
+01:04:05,160 --> 01:04:07,160
+Like they built it up.
+
+1780
+01:04:07,160 --> 01:04:09,160
+You were hoping like it was
+
+1781
+01:04:09,160 --> 01:04:11,160
+Lance Burton or Copperfield.
+
+1782
+01:04:11,160 --> 01:04:13,160
+And they were all mad at him.
+
+1783
+01:04:13,160 --> 01:04:15,160
+I don't think those were the real ways
+
+1784
+01:04:15,160 --> 01:04:17,160
+that they do those tricks though.
+
+1785
+01:04:17,160 --> 01:04:19,160
+Sometimes it's like come on we're not that dumb.
+
+1786
+01:04:19,160 --> 01:04:21,160
+I can't remember
+
+1787
+01:04:21,160 --> 01:04:23,160
+specifically but
+
+1788
+01:04:23,160 --> 01:04:25,160
+I feel like people were supposedly
+
+1789
+01:04:25,160 --> 01:04:27,160
+mad. I feel like your David Copperfields
+
+1790
+01:04:27,160 --> 01:04:29,160
+were upset about it. And I could
+
+1791
+01:04:29,160 --> 01:04:31,160
+be wrong about that. Yeah and then the guy
+
+1792
+01:04:31,160 --> 01:04:33,160
+had to give a speech kind of like calming everyone
+
+1793
+01:04:33,160 --> 01:04:35,160
+down. But this
+
+1794
+01:04:35,160 --> 01:04:37,160
+we're celebrating magic and that's wonderful.
+
+1795
+01:04:37,160 --> 01:04:39,160
+And he was like a creep in a ponytail
+
+1796
+01:04:39,160 --> 01:04:41,160
+who was in my head was named like
+
+1797
+01:04:41,160 --> 01:04:43,160
+Touche or something.
+
+1798
+01:04:43,160 --> 01:04:45,160
+I
+
+1799
+01:04:45,160 --> 01:04:47,160
+really hope that
+
+1800
+01:04:47,160 --> 01:04:49,160
+Touche was the man who
+
+1801
+01:04:49,160 --> 01:04:51,160
+took his mask off. It is I
+
+1802
+01:04:51,160 --> 01:04:53,160
+Touche.
+
+1803
+01:04:53,160 --> 01:04:55,160
+Those were kind of the death rattle
+
+1804
+01:04:55,160 --> 01:04:57,160
+of magic specials I feel like.
+
+1805
+01:04:57,160 --> 01:04:59,160
+Like that was kind of the end of the run.
+
+1806
+01:04:59,160 --> 01:05:01,160
+Besides like David Blaine.
+
+1807
+01:05:01,160 --> 01:05:03,160
+David Blaine ones were built up so
+
+1808
+01:05:03,160 --> 01:05:05,160
+much of like he's going to do a stunt.
+
+1809
+01:05:05,160 --> 01:05:07,160
+It did feel like sleazy I think about it.
+
+1810
+01:05:07,160 --> 01:05:09,160
+Like in my little kid brain I was like
+
+1811
+01:05:09,160 --> 01:05:11,160
+oh we shouldn't be watching this at all.
+
+1812
+01:05:11,160 --> 01:05:13,160
+They all looked like they were filmed in the
+
+1813
+01:05:13,160 --> 01:05:15,160
+total eclipse of the heart video
+
+1814
+01:05:15,160 --> 01:05:17,160
+with the doves and the fog.
+
+1815
+01:05:17,160 --> 01:05:19,160
+The warehouses with the lights shooting through the
+
+1816
+01:05:19,160 --> 01:05:21,160
+windows. It's also around the time of
+
+1817
+01:05:21,160 --> 01:05:23,160
+the Jonathan Frakes hosted Beyond
+
+1818
+01:05:23,160 --> 01:05:25,160
+Belief Fact or Fiction. Similar to Step Out.
+
+1819
+01:05:25,160 --> 01:05:27,160
+It would come on after that. Which would come on after.
+
+1820
+01:05:27,160 --> 01:05:29,160
+They looked like they were in the same studio a little
+
+1821
+01:05:29,160 --> 01:05:31,160
+bit like the camera looked the quality
+
+1822
+01:05:31,160 --> 01:05:33,160
+of the video looked the same.
+
+1823
+01:05:33,160 --> 01:05:35,160
+They just moved everything out.
+
+1824
+01:05:35,160 --> 01:05:37,160
+Jonathan Frakes walks up. Have you ever dropped an ice cream cone?
+
+1825
+01:05:37,160 --> 01:05:39,160
+And then they just
+
+1826
+01:05:39,160 --> 01:05:41,160
+shipped the other show in there.
+
+1827
+01:05:41,160 --> 01:05:43,160
+I've said it
+
+1828
+01:05:43,160 --> 01:05:45,160
+for years. He should have had like an Adam
+
+1829
+01:05:45,160 --> 01:05:47,160
+West something.
+
+1830
+01:05:47,160 --> 01:05:49,160
+He's so funny on that.
+
+1831
+01:05:49,160 --> 01:05:51,160
+He wasn't trying to be funny on that.
+
+1832
+01:05:51,160 --> 01:05:53,160
+But when you see the super cuts of it you've seen those
+
+1833
+01:05:53,160 --> 01:05:55,160
+right? Yeah yeah yeah. The many questions
+
+1834
+01:05:55,160 --> 01:05:57,160
+in a row. Have you ever turned on a lamp and the
+
+1835
+01:05:57,160 --> 01:05:59,160
+light bulb didn't work?
+
+1836
+01:05:59,160 --> 01:06:01,160
+Have you ever tripped down the stairs and
+
+1837
+01:06:01,160 --> 01:06:03,160
+hit your head really hard?
+
+1838
+01:06:03,160 --> 01:06:05,160
+Nervous like so
+
+1839
+01:06:05,160 --> 01:06:07,160
+sincerely.
+
+1840
+01:06:07,160 --> 01:06:09,160
+It's not like he's not trying
+
+1841
+01:06:09,160 --> 01:06:11,160
+to be like a deliver like he's an airplane
+
+1842
+01:06:11,160 --> 01:06:13,160
+or anything. It's so fucking
+
+1843
+01:06:13,160 --> 01:06:15,160
+funny. Have you ever adopted a big foot
+
+1844
+01:06:15,160 --> 01:06:17,160
+and had him live with you for a long time?
+
+1845
+01:06:19,160 --> 01:06:21,160
+Like carrying him.
+
+1846
+01:06:21,160 --> 01:06:23,160
+Have you ever wake up screaming?
+
+1847
+01:06:23,160 --> 01:06:25,160
+Have you ever picked up an ice cream cone you found
+
+1848
+01:06:25,160 --> 01:06:27,160
+on the floor?
+
+1849
+01:06:27,160 --> 01:06:29,160
+And then he has like someone else do it.
+
+1850
+01:06:29,160 --> 01:06:31,160
+And then he'll like do it or he'll get off like if it's like
+
+1851
+01:06:31,160 --> 01:06:33,160
+have you ever ridden a bike angrily?
+
+1852
+01:06:33,160 --> 01:06:35,160
+And then he'll like have a helmet on
+
+1853
+01:06:35,160 --> 01:06:37,160
+and he'll take it off.
+
+1854
+01:06:37,160 --> 01:06:39,160
+Like he always has a prop with him.
+
+1855
+01:06:39,160 --> 01:06:41,160
+They did one for
+
+1856
+01:06:41,160 --> 01:06:43,160
+a football game a couple weeks ago.
+
+1857
+01:06:43,160 --> 01:06:45,160
+He recreated one.
+
+1858
+01:06:45,160 --> 01:06:47,160
+As a goof.
+
+1859
+01:06:47,160 --> 01:06:49,160
+I forget what football game it was.
+
+1860
+01:06:49,160 --> 01:06:51,160
+He's back at it? He's back at it.
+
+1861
+01:06:51,160 --> 01:06:53,160
+He's like owning the meme like Rick Astley.
+
+1862
+01:06:53,160 --> 01:06:55,160
+Jonathan Frakes back in the game.
+
+1863
+01:06:55,160 --> 01:06:57,160
+I had a lunch box with
+
+1864
+01:06:57,160 --> 01:06:59,160
+Captain Picard, Jonathan Frakes, and
+
+1865
+01:06:59,160 --> 01:07:01,160
+Data on it. Sure.
+
+1866
+01:07:01,160 --> 01:07:03,160
+Not a big fan of Star Trek Next Generation.
+
+1867
+01:07:03,160 --> 01:07:05,160
+Scared of it. Another fear of mine.
+
+1868
+01:07:05,160 --> 01:07:07,160
+Whoopi Goldberg. Whoopi Goldberg terrified me.
+
+1869
+01:07:07,160 --> 01:07:09,160
+Because of just the way she
+
+1870
+01:07:09,160 --> 01:07:11,160
+was dressed? Yeah.
+
+1871
+01:07:11,160 --> 01:07:13,160
+I was very young. She's like a sorceress
+
+1872
+01:07:13,160 --> 01:07:15,160
+or something.
+
+1873
+01:07:15,160 --> 01:07:17,160
+She's a guy and she's lived for a long time.
+
+1874
+01:07:17,160 --> 01:07:19,160
+She's lived for hundreds of years.
+
+1875
+01:07:19,160 --> 01:07:21,160
+Her eyes like rolled back into her head one time
+
+1876
+01:07:21,160 --> 01:07:23,160
+that I was like I was very afraid of Whoopi Goldberg as a
+
+1877
+01:07:23,160 --> 01:07:25,160
+child. Interesting. No matter what?
+
+1878
+01:07:25,160 --> 01:07:27,160
+Yeah.
+
+1879
+01:07:27,160 --> 01:07:29,160
+In other like in Ghost,
+
+1880
+01:07:29,160 --> 01:07:31,160
+in Theodore Rex.
+
+1881
+01:07:31,160 --> 01:07:33,160
+I'll give you a couple reasons.
+
+1882
+01:07:33,160 --> 01:07:35,160
+In 1990,
+
+1883
+01:07:35,160 --> 01:07:37,160
+I won.
+
+1884
+01:07:37,160 --> 01:07:39,160
+But my mother
+
+1885
+01:07:39,160 --> 01:07:41,160
+is in college at the time.
+
+1886
+01:07:41,160 --> 01:07:43,160
+And she,
+
+1887
+01:07:43,160 --> 01:07:45,160
+her college gets to open up, college
+
+1888
+01:07:45,160 --> 01:07:47,160
+marching band gets to open up for
+
+1889
+01:07:47,160 --> 01:07:49,160
+Motown 30.
+
+1890
+01:07:49,160 --> 01:07:51,160
+The celebration of Motown. Wow.
+
+1891
+01:07:51,160 --> 01:07:53,160
+At the Pantages Theater here in Los Angeles. We're still in Mississippi
+
+1892
+01:07:53,160 --> 01:07:55,160
+at the time. This was like her trip to LA
+
+1893
+01:07:55,160 --> 01:07:57,160
+and she was like I'm coming back.
+
+1894
+01:07:57,160 --> 01:07:59,160
+And we eventually did. Wow. And I ended up
+
+1895
+01:07:59,160 --> 01:08:01,160
+growing up here. But like this is when we're still in Mississippi
+
+1896
+01:08:01,160 --> 01:08:03,160
+and we would play this tape
+
+1897
+01:08:03,160 --> 01:08:05,160
+over and over again to see my mom like marching down
+
+1898
+01:08:05,160 --> 01:08:07,160
+Hollywood Boulevard going into
+
+1899
+01:08:07,160 --> 01:08:09,160
+the Pantages because she was like the flag
+
+1900
+01:08:09,160 --> 01:08:11,160
+girl for the college. And
+
+1901
+01:08:11,160 --> 01:08:13,160
+Whoopi Goldberg
+
+1902
+01:08:13,160 --> 01:08:15,160
+hosted.
+
+1903
+01:08:15,160 --> 01:08:17,160
+And in the beginning she did this like Diana Ross
+
+1904
+01:08:17,160 --> 01:08:19,160
+bit where she had this long wig on.
+
+1905
+01:08:19,160 --> 01:08:21,160
+And then she like turns around, snatches the wig off
+
+1906
+01:08:21,160 --> 01:08:23,160
+and puts it under her armpit.
+
+1907
+01:08:23,160 --> 01:08:25,160
+Like as a joke. It was a joke like
+
+1908
+01:08:25,160 --> 01:08:27,160
+if you need me call me. Which is something that
+
+1909
+01:08:27,160 --> 01:08:29,160
+Diana Ross would say. But honey don't call me before
+
+1910
+01:08:29,160 --> 01:08:31,160
+nine because I don't get up.
+
+1911
+01:08:31,160 --> 01:08:33,160
+And then she snatched the wig off and everybody goes
+
+1912
+01:08:33,160 --> 01:08:35,160
+Ah it's Whoopi. She's ugly.
+
+1913
+01:08:35,160 --> 01:08:37,160
+Like people used to diss. Oh dude
+
+1914
+01:08:37,160 --> 01:08:39,160
+people used to diss Whoopi Goldberg so much.
+
+1915
+01:08:39,160 --> 01:08:41,160
+It was like a joke.
+
+1916
+01:08:41,160 --> 01:08:43,160
+Oh yeah this is a really Ian Simpson's joke I think
+
+1917
+01:08:43,160 --> 01:08:45,160
+about naked pictures of her or something.
+
+1918
+01:08:45,160 --> 01:08:47,160
+Yeah it's bad.
+
+1919
+01:08:47,160 --> 01:08:49,160
+But that was scary.
+
+1920
+01:08:49,160 --> 01:08:51,160
+The cover to the movie
+
+1921
+01:08:51,160 --> 01:08:53,160
+Telephone that I would always pass by
+
+1922
+01:08:53,160 --> 01:08:55,160
+in the video store.
+
+1923
+01:08:55,160 --> 01:08:57,160
+I gotta look this up. You gotta look the cover up.
+
+1924
+01:08:57,160 --> 01:08:59,160
+It looks like she doesn't have eyes.
+
+1925
+01:08:59,160 --> 01:09:01,160
+But she's just like looking to the side.
+
+1926
+01:09:01,160 --> 01:09:03,160
+It's also her worst
+
+1927
+01:09:03,160 --> 01:09:05,160
+movie ever. It's a really dumb
+
+1928
+01:09:05,160 --> 01:09:07,160
+movie. Did you
+
+1929
+01:09:07,160 --> 01:09:09,160
+better than Theodore Rex or worse?
+
+1930
+01:09:09,160 --> 01:09:11,160
+Worse probably. Oh boy.
+
+1931
+01:09:11,160 --> 01:09:13,160
+Wait you were afraid of the wig thing. I was afraid of
+
+1932
+01:09:13,160 --> 01:09:15,160
+the wig thing. I was afraid of the cover.
+
+1933
+01:09:15,160 --> 01:09:17,160
+And then her on
+
+1934
+01:09:17,160 --> 01:09:19,160
+Star Trek The Next Generation which was in
+
+1935
+01:09:19,160 --> 01:09:21,160
+syndication by the time I was conscious enough
+
+1936
+01:09:21,160 --> 01:09:23,160
+to recognize it. No it wasn't
+
+1937
+01:09:23,160 --> 01:09:25,160
+that one. It was like that one.
+
+1938
+01:09:25,160 --> 01:09:27,160
+Oh I was terrified of that.
+
+1939
+01:09:27,160 --> 01:09:29,160
+Oh wait does she have kind of like
+
+1940
+01:09:29,160 --> 01:09:31,160
+cat eyes? What's going on
+
+1941
+01:09:31,160 --> 01:09:33,160
+with the pupils? I think her
+
+1942
+01:09:33,160 --> 01:09:35,160
+locks are blocking her eye
+
+1943
+01:09:35,160 --> 01:09:37,160
+in a way that makes it weird. She looks a little
+
+1944
+01:09:37,160 --> 01:09:39,160
+like demonic or something. I could see how yeah if you
+
+1945
+01:09:39,160 --> 01:09:41,160
+were like this is a different
+
+1946
+01:09:41,160 --> 01:09:43,160
+is this the same one? The trippy background.
+
+1947
+01:09:43,160 --> 01:09:45,160
+Yeah it is.
+
+1948
+01:09:45,160 --> 01:09:47,160
+Everything about this picture I'm just like
+
+1949
+01:09:47,160 --> 01:09:49,160
+whoopee. Wow. I have never heard
+
+1950
+01:09:49,160 --> 01:09:51,160
+of The Telephone.
+
+1951
+01:09:51,160 --> 01:09:53,160
+It's news to me. It's the rest
+
+1952
+01:09:53,160 --> 01:09:55,160
+of your day now.
+
+1953
+01:09:55,160 --> 01:09:57,160
+Y'all have to watch The Telephone.
+
+1954
+01:09:57,160 --> 01:09:59,160
+After you watch Harry and the Hitties go watch The Telephone.
+
+1955
+01:10:01,160 --> 01:10:03,160
+Yikes. I was scared of Star Trek The Next Generation
+
+1956
+01:10:03,160 --> 01:10:05,160
+but I was scared because there was one episode
+
+1957
+01:10:05,160 --> 01:10:07,160
+where Data got possessed. I mean it wasn't his evil
+
+1958
+01:10:07,160 --> 01:10:09,160
+brother Lore.
+
+1959
+01:10:09,160 --> 01:10:11,160
+It was like there was some weird symbol
+
+1960
+01:10:11,160 --> 01:10:13,160
+all of a sudden appeared on his head and he was scary.
+
+1961
+01:10:13,160 --> 01:10:15,160
+I watched it in the hospital once. My sister
+
+1962
+01:10:15,160 --> 01:10:17,160
+was in the hospital and I watched it on a
+
+1963
+01:10:17,160 --> 01:10:19,160
+TV and it was like in my
+
+1964
+01:10:19,160 --> 01:10:21,160
+memory it's like the Poltergeist TV
+
+1965
+01:10:21,160 --> 01:10:23,160
+of like I'm just staring at this creepy show.
+
+1966
+01:10:23,160 --> 01:10:25,160
+Oh yeah. And then like I think months
+
+1967
+01:10:25,160 --> 01:10:27,160
+later I like worked up the courage to start
+
+1968
+01:10:27,160 --> 01:10:29,160
+watching it and liked it.
+
+1969
+01:10:29,160 --> 01:10:31,160
+You associate it with
+
+1970
+01:10:31,160 --> 01:10:33,160
+medical issues and
+
+1971
+01:10:35,160 --> 01:10:37,160
+I had to introduce the summer I started
+
+1972
+01:10:37,160 --> 01:10:39,160
+as a tour guide was when Whoopi started
+
+1973
+01:10:39,160 --> 01:10:41,160
+hosting it and I
+
+1974
+01:10:41,160 --> 01:10:43,160
+just presented these clips.
+
+1975
+01:10:43,160 --> 01:10:45,160
+You had to play them and they said we might
+
+1976
+01:10:45,160 --> 01:10:47,160
+secret shop you.
+
+1977
+01:10:47,160 --> 01:10:49,160
+So like don't there's this list of things
+
+1978
+01:10:49,160 --> 01:10:51,160
+you have to do and those include the new
+
+1979
+01:10:51,160 --> 01:10:53,160
+Whoopi clips because we don't want her getting
+
+1980
+01:10:53,160 --> 01:10:55,160
+on and then you didn't play them all.
+
+1981
+01:10:55,160 --> 01:10:57,160
+She worked hard filming all the
+
+1982
+01:10:57,160 --> 01:10:59,160
+things. They were threatening
+
+1983
+01:10:59,160 --> 01:11:01,160
+the Whoopi would do like just a random
+
+1984
+01:11:01,160 --> 01:11:03,160
+tram tour.
+
+1985
+01:11:03,160 --> 01:11:05,160
+Undercover boss. No yeah yeah
+
+1986
+01:11:05,160 --> 01:11:07,160
+she might.
+
+1987
+01:11:07,160 --> 01:11:09,160
+She is scared of the
+
+1988
+01:11:09,160 --> 01:11:11,160
+plane flight. Is that right?
+
+1989
+01:11:11,160 --> 01:11:13,160
+I don't know when she's the yeah she like I think she
+
+1990
+01:11:13,160 --> 01:11:15,160
+like now famously
+
+1991
+01:11:15,160 --> 01:11:17,160
+doesn't go on an airplane.
+
+1992
+01:11:17,160 --> 01:11:19,160
+She travels by bus. There was
+
+1993
+01:11:19,160 --> 01:11:21,160
+a rumor when I was in school in
+
+1994
+01:11:21,160 --> 01:11:23,160
+Ithaca that Whoopi had a house
+
+1995
+01:11:23,160 --> 01:11:25,160
+somewhere on the lake like somewhere
+
+1996
+01:11:25,160 --> 01:11:27,160
+in the town. Rumor. Because there was
+
+1997
+01:11:27,160 --> 01:11:29,160
+like people would be like I saw her.
+
+1998
+01:11:29,160 --> 01:11:31,160
+I saw her and the grocery store had a
+
+1999
+01:11:31,160 --> 01:11:33,160
+video store like built
+
+2000
+01:11:33,160 --> 01:11:35,160
+in. Had a big video section.
+
+2001
+01:11:35,160 --> 01:11:37,160
+Video and DVDs and stuff. And there
+
+2002
+01:11:37,160 --> 01:11:39,160
+was like a mural of stars
+
+2003
+01:11:39,160 --> 01:11:41,160
+and Whoopi was the biggest.
+
+2004
+01:11:41,160 --> 01:11:43,160
+And they're like that's a little nod to our
+
+2005
+01:11:43,160 --> 01:11:45,160
+our local residents. Our neighbors. And I never
+
+2006
+01:11:45,160 --> 01:11:47,160
+quite got an answer of like
+
+2007
+01:11:47,160 --> 01:11:49,160
+is this real? Is this just
+
+2008
+01:11:49,160 --> 01:11:51,160
+like college kids fucking with each other
+
+2009
+01:11:51,160 --> 01:11:53,160
+or is like Whoopi actually? But I was like well
+
+2010
+01:11:53,160 --> 01:11:55,160
+if she needs a vacation place and she doesn't
+
+2011
+01:11:55,160 --> 01:11:57,160
+fly she could train up
+
+2012
+01:11:57,160 --> 01:11:59,160
+from New York or take a car service.
+
+2013
+01:11:59,160 --> 01:12:01,160
+Like I was trying to justify
+
+2014
+01:12:01,160 --> 01:12:03,160
+Whoopi lore. How does this balance
+
+2015
+01:12:03,160 --> 01:12:05,160
+with what you know?
+
+2016
+01:12:05,160 --> 01:12:07,160
+Yeah. Wow. You went to Ithaca too?
+
+2017
+01:12:07,160 --> 01:12:09,160
+Yeah. Were you there with the birthday boys?
+
+2018
+01:12:09,160 --> 01:12:11,160
+I was a couple years behind them.
+
+2019
+01:12:11,160 --> 01:12:13,160
+What is all these people going to Ithaca for?
+
+2020
+01:12:13,160 --> 01:12:15,160
+That's a college I never even heard of
+
+2021
+01:12:15,160 --> 01:12:17,160
+until I met those guys. I think I hadn't either.
+
+2022
+01:12:17,160 --> 01:12:19,160
+Yeah.
+
+2023
+01:12:19,160 --> 01:12:21,160
+The birthday boys were a few
+
+2024
+01:12:21,160 --> 01:12:23,160
+years older than me and Joe Para was like
+
+2025
+01:12:23,160 --> 01:12:25,160
+three years younger than me. I didn't know that one.
+
+2026
+01:12:25,160 --> 01:12:27,160
+And Bob Iger went
+
+2027
+01:12:27,160 --> 01:12:29,160
+there. Iger went there years
+
+2028
+01:12:29,160 --> 01:12:31,160
+before. Andy Seconda and Andy
+
+2029
+01:12:31,160 --> 01:12:33,160
+Daley. They were long before.
+
+2030
+01:12:33,160 --> 01:12:35,160
+Yeah. John Bally.
+
+2031
+01:12:35,160 --> 01:12:37,160
+Two colleges I had never heard
+
+2032
+01:12:37,160 --> 01:12:39,160
+of until I started doing improv was Ithaca
+
+2033
+01:12:39,160 --> 01:12:41,160
+and Emerson. Neither one of those.
+
+2034
+01:12:41,160 --> 01:12:43,160
+Because out here everybody goes to Cal State
+
+2035
+01:12:43,160 --> 01:12:45,160
+Northridge. And if you got better grades
+
+2036
+01:12:45,160 --> 01:12:47,160
+you go to UCLA.
+
+2037
+01:12:47,160 --> 01:12:49,160
+Were you one of those? No. Neither. I didn't have
+
+2038
+01:12:49,160 --> 01:12:51,160
+I went to a small school in Ohio
+
+2039
+01:12:51,160 --> 01:12:53,160
+to play basketball. Oh really? Okay.
+
+2040
+01:12:53,160 --> 01:12:55,160
+Oh you left and came back. Yeah.
+
+2041
+01:12:57,160 --> 01:12:59,160
+Were there any theme parks out in Ohio?
+
+2042
+01:12:59,160 --> 01:13:01,160
+Cedar Rapids. I went to Cedar
+
+2043
+01:13:01,160 --> 01:13:03,160
+Rapids. No Cedar Point.
+
+2044
+01:13:03,160 --> 01:13:05,160
+That's all coasters though. I went to Iowa.
+
+2045
+01:13:05,160 --> 01:13:07,160
+I went to Cedar Point.
+
+2046
+01:13:07,160 --> 01:13:09,160
+Didn't I get on anything?
+
+2047
+01:13:09,160 --> 01:13:11,160
+They have a full half court
+
+2048
+01:13:11,160 --> 01:13:13,160
+basket that you can do three point
+
+2049
+01:13:13,160 --> 01:13:15,160
+shooting contest on. And I literally
+
+2050
+01:13:15,160 --> 01:13:17,160
+sat on that all day and just won people
+
+2051
+01:13:17,160 --> 01:13:19,160
+gifts. Wow.
+
+2052
+01:13:19,160 --> 01:13:21,160
+That's a good story. Yeah.
+
+2053
+01:13:21,160 --> 01:13:23,160
+I'm not getting on anything else.
+
+2054
+01:13:23,160 --> 01:13:25,160
+Who you came with or random people?
+
+2055
+01:13:25,160 --> 01:13:27,160
+Yeah people who I came with or random
+
+2056
+01:13:27,160 --> 01:13:29,160
+kids if they like if I
+
+2057
+01:13:29,160 --> 01:13:31,160
+I didn't make enough shots and only got like a little
+
+2058
+01:13:31,160 --> 01:13:33,160
+bear. But I went home with like three novelty
+
+2059
+01:13:33,160 --> 01:13:35,160
+like basketballs like
+
+2060
+01:13:35,160 --> 01:13:37,160
+University of Florida, University of Michigan
+
+2061
+01:13:37,160 --> 01:13:39,160
+like and I like
+
+2062
+01:13:39,160 --> 01:13:41,160
+I was just on that all day like you gotta stop
+
+2063
+01:13:41,160 --> 01:13:43,160
+like you spent so much money on this.
+
+2064
+01:13:43,160 --> 01:13:45,160
+I spent like a hundred bucks on that that day
+
+2065
+01:13:45,160 --> 01:13:47,160
+but I was like I'm not getting on anything else
+
+2066
+01:13:47,160 --> 01:13:49,160
+here at this whole place. Yeah.
+
+2067
+01:13:49,160 --> 01:13:51,160
+You were that consistent also with your
+
+2068
+01:13:51,160 --> 01:13:53,160
+three point shots? Oh yeah. Wow.
+
+2069
+01:13:53,160 --> 01:13:55,160
+Was it like one of those rigged?
+
+2070
+01:13:55,160 --> 01:13:57,160
+No no no it was just the court. It was just a regular
+
+2071
+01:13:57,160 --> 01:13:59,160
+Yeah yeah. Because they have obviously I'm talking about
+
+2072
+01:13:59,160 --> 01:14:01,160
+yeah they're like you know like
+
+2073
+01:14:01,160 --> 01:14:03,160
+the three point but the basket
+
+2074
+01:14:03,160 --> 01:14:05,160
+you have to literally like get it perfectly in
+
+2075
+01:14:05,160 --> 01:14:07,160
+and it can't touch anything or else it will fall out.
+
+2076
+01:14:07,160 --> 01:14:09,160
+Yeah no this is just a regular basket.
+
+2077
+01:14:09,160 --> 01:14:11,160
+Yeah Cedar Point is a terrifying one.
+
+2078
+01:14:11,160 --> 01:14:13,160
+There's like you can't like
+
+2079
+01:14:13,160 --> 01:14:15,160
+everything's fine.
+
+2080
+01:14:15,160 --> 01:14:17,160
+That's only coasters. That's only like
+
+2081
+01:14:17,160 --> 01:14:19,160
+and the scariest one. And the lake
+
+2082
+01:14:19,160 --> 01:14:21,160
+right? There's a big lake.
+
+2083
+01:14:21,160 --> 01:14:23,160
+Lake Erie. Yeah.
+
+2084
+01:14:23,160 --> 01:14:25,160
+Okay.
+
+2085
+01:14:25,160 --> 01:14:27,160
+I'm glad we're tangenting so much because whatever
+
+2086
+01:14:27,160 --> 01:14:29,160
+it's fine. What do we need
+
+2087
+01:14:29,160 --> 01:14:31,160
+to say about the uh
+
+2088
+01:14:31,160 --> 01:14:33,160
+what have we missed? Well
+
+2089
+01:14:33,160 --> 01:14:35,160
+I just loved like Universal
+
+2090
+01:14:35,160 --> 01:14:37,160
+didn't have the best run of movies
+
+2091
+01:14:37,160 --> 01:14:39,160
+in the aughts. Like
+
+2092
+01:14:39,160 --> 01:14:41,160
+it is very funny how
+
+2093
+01:14:41,160 --> 01:14:43,160
+like how much
+
+2094
+01:14:43,160 --> 01:14:45,160
+Van Helsing stuff stuck around
+
+2095
+01:14:45,160 --> 01:14:47,160
+in some of the special effects.
+
+2096
+01:14:47,160 --> 01:14:49,160
+Van Helsing and then
+
+2097
+01:14:49,160 --> 01:14:51,160
+the
+
+2098
+01:14:51,160 --> 01:14:53,160
+special effect one special effect thing
+
+2099
+01:14:53,160 --> 01:14:55,160
+I watched where they're doing the Foley.
+
+2100
+01:14:55,160 --> 01:14:57,160
+They had switched it to like alright
+
+2101
+01:14:57,160 --> 01:14:59,160
+we're gonna do Foley for the scene from
+
+2102
+01:14:59,160 --> 01:15:01,160
+Evan Almighty.
+
+2103
+01:15:01,160 --> 01:15:03,160
+And it's like oh okay
+
+2104
+01:15:03,160 --> 01:15:05,160
+2009
+
+2105
+01:15:05,160 --> 01:15:07,160
+we're still doing the Evan Almighty
+
+2106
+01:15:07,160 --> 01:15:09,160
+Foley. There was a
+
+2107
+01:15:09,160 --> 01:15:11,160
+I'm interested in that because they did
+
+2108
+01:15:11,160 --> 01:15:13,160
+I didn't see that one but then I saw one with The Clumps
+
+2109
+01:15:13,160 --> 01:15:15,160
+with Nutty Professor 2. Yeah.
+
+2110
+01:15:15,160 --> 01:15:17,160
+Clumps was in there for a while. They did that for a while.
+
+2111
+01:15:17,160 --> 01:15:19,160
+And the video I saw had
+
+2112
+01:15:19,160 --> 01:15:21,160
+a part where they got the volunteer from the audience
+
+2113
+01:15:21,160 --> 01:15:23,160
+and the host says alright so everybody
+
+2114
+01:15:23,160 --> 01:15:25,160
+get ready because Patricia is about to have
+
+2115
+01:15:25,160 --> 01:15:27,160
+dinner with The Clumps.
+
+2116
+01:15:27,160 --> 01:15:29,160
+Very exciting one.
+
+2117
+01:15:29,160 --> 01:15:31,160
+And you get to be put in
+
+2118
+01:15:31,160 --> 01:15:33,160
+like it's like another green screen one right?
+
+2119
+01:15:33,160 --> 01:15:35,160
+Yeah. Yeah. Yeah.
+
+2120
+01:15:35,160 --> 01:15:37,160
+Yeah that I remember that one.
+
+2121
+01:15:37,160 --> 01:15:39,160
+I think that was like around the last time
+
+2122
+01:15:39,160 --> 01:15:41,160
+that I was going. Yeah. Okay. Okay. Yeah.
+
+2123
+01:15:41,160 --> 01:15:43,160
+There's not a
+
+2124
+01:15:43,160 --> 01:15:45,160
+good no one has kept a good
+
+2125
+01:15:45,160 --> 01:15:47,160
+record of the changes to
+
+2126
+01:15:47,160 --> 01:15:49,160
+the show. I was trying to find
+
+2127
+01:15:49,160 --> 01:15:51,160
+no one gives a shit.
+
+2128
+01:15:51,160 --> 01:15:53,160
+Scorpion King Shrek
+
+2129
+01:15:53,160 --> 01:15:55,160
+Did you go through the YouTube or did you find a
+
+2130
+01:15:55,160 --> 01:15:57,160
+No I just found a couple
+
+2131
+01:15:57,160 --> 01:15:59,160
+of lists on the Studio
+
+2132
+01:15:59,160 --> 01:16:01,160
+Tour dot com which catalogues
+
+2133
+01:16:01,160 --> 01:16:03,160
+Universal Hollywood stuff. A couple of months ago I watched
+
+2134
+01:16:03,160 --> 01:16:05,160
+a studio tour from like 1986
+
+2135
+01:16:05,160 --> 01:16:07,160
+just to see what it was
+
+2136
+01:16:07,160 --> 01:16:09,160
+see what was different from when I was doing in the early
+
+2137
+01:16:09,160 --> 01:16:11,160
+2000s. Yeah. And
+
+2138
+01:16:11,160 --> 01:16:13,160
+there was like a laser. King Kong
+
+2139
+01:16:13,160 --> 01:16:15,160
+was still there. Yeah. Which I believe it
+
+2140
+01:16:15,160 --> 01:16:17,160
+is still there. Burned down.
+
+2141
+01:16:17,160 --> 01:16:19,160
+Oh it burned down. Yeah. So now they have like a
+
+2142
+01:16:19,160 --> 01:16:21,160
+3D Kong. Oh okay.
+
+2143
+01:16:21,160 --> 01:16:23,160
+Yeah. That old King Kong was there
+
+2144
+01:16:23,160 --> 01:16:25,160
+from like 1976 like from when the movie
+
+2145
+01:16:25,160 --> 01:16:27,160
+came out. For a long time. Yeah.
+
+2146
+01:16:27,160 --> 01:16:29,160
+Made a long time. Yeah. Big awesome robot.
+
+2147
+01:16:29,160 --> 01:16:31,160
+That was one of the best parts of that job. Yeah.
+
+2148
+01:16:31,160 --> 01:16:33,160
+I see that all the time. You would yell at
+
+2149
+01:16:33,160 --> 01:16:35,160
+right? You would yell at Kong? Yeah.
+
+2150
+01:16:35,160 --> 01:16:37,160
+That was your favorite part? Yes. Cause I'd stand up
+
+2151
+01:16:37,160 --> 01:16:39,160
+and really give it a lot of gusto and like make
+
+2152
+01:16:39,160 --> 01:16:41,160
+it about make it personal about the people
+
+2153
+01:16:41,160 --> 01:16:43,160
+in the tram like
+
+2154
+01:16:43,160 --> 01:16:45,160
+like if anyone take
+
+2155
+01:16:45,160 --> 01:16:47,160
+me I've lived my life but these
+
+2156
+01:16:47,160 --> 01:16:49,160
+children they are young
+
+2157
+01:16:49,160 --> 01:16:51,160
+they've done nothing to upset you
+
+2158
+01:16:51,160 --> 01:16:53,160
+don't take a rag around on them.
+
+2159
+01:16:53,160 --> 01:16:55,160
+Did you feel the audience
+
+2160
+01:16:55,160 --> 01:16:57,160
+liked it? Or were you just sort of
+
+2161
+01:16:57,160 --> 01:16:59,160
+like what I was doing? Yeah.
+
+2162
+01:16:59,160 --> 01:17:01,160
+They weren't paying attention. Okay.
+
+2163
+01:17:01,160 --> 01:17:03,160
+It was for me more than anything. That's my question.
+
+2164
+01:17:03,160 --> 01:17:05,160
+I think they liked that I stood up and like shook
+
+2165
+01:17:05,160 --> 01:17:07,160
+my fist and leaned out of the
+
+2166
+01:17:07,160 --> 01:17:09,160
+I like really gave it cause
+
+2167
+01:17:09,160 --> 01:17:11,160
+it's the worst to have the people just like
+
+2168
+01:17:11,160 --> 01:17:13,160
+alright now we're about to see King Kong
+
+2169
+01:17:13,160 --> 01:17:15,160
+uh if you feel his man of breath
+
+2170
+01:17:15,160 --> 01:17:17,160
+and the heat of the flames
+
+2171
+01:17:17,160 --> 01:17:19,160
+that doesn't make any narrative sense. Why would the
+
+2172
+01:17:19,160 --> 01:17:21,160
+person be bored by King Kong?
+
+2173
+01:17:21,160 --> 01:17:23,160
+You have man breath. I like that
+
+2174
+01:17:23,160 --> 01:17:25,160
+banana breath. That was always funny.
+
+2175
+01:17:25,160 --> 01:17:27,160
+Now the Peter Jackson King Kong feels
+
+2176
+01:17:27,160 --> 01:17:29,160
+like it got put in everywhere
+
+2177
+01:17:29,160 --> 01:17:31,160
+in that park so quickly. Yes.
+
+2178
+01:17:31,160 --> 01:17:33,160
+So much. Well that's what
+
+2179
+01:17:33,160 --> 01:17:35,160
+When it was coming out
+
+2180
+01:17:35,160 --> 01:17:37,160
+while it was out while the DVD was
+
+2181
+01:17:37,160 --> 01:17:39,160
+at like this special effects show they just like
+
+2182
+01:17:39,160 --> 01:17:41,160
+you know the 2004 Kong
+
+2183
+01:17:41,160 --> 01:17:43,160
+starring Adrian Brody and
+
+2184
+01:17:43,160 --> 01:17:45,160
+Naomi Watts. You love it. You all love it.
+
+2185
+01:17:45,160 --> 01:17:47,160
+That movie was just sold to us.
+
+2186
+01:17:47,160 --> 01:17:49,160
+It's like this is
+
+2187
+01:17:49,160 --> 01:17:51,160
+it's the Lord of the Rings guy and you love this.
+
+2188
+01:17:51,160 --> 01:17:53,160
+To tie it back to
+
+2189
+01:17:53,160 --> 01:17:55,160
+Whoopi, the my most
+
+2190
+01:17:55,160 --> 01:17:57,160
+hated video on the tram
+
+2191
+01:17:57,160 --> 01:17:59,160
+was where she is outside actually
+
+2192
+01:17:59,160 --> 01:18:01,160
+of Halford Hitchcock's bungalow.
+
+2193
+01:18:01,160 --> 01:18:03,160
+The bungalows were producers of offices
+
+2194
+01:18:03,160 --> 01:18:05,160
+on the lot and she
+
+2195
+01:18:05,160 --> 01:18:07,160
+gets a megaphone out and she has a message
+
+2196
+01:18:07,160 --> 01:18:09,160
+for the various producers who were around there
+
+2197
+01:18:09,160 --> 01:18:11,160
+and she says people
+
+2198
+01:18:11,160 --> 01:18:13,160
+of Hollywood producers
+
+2199
+01:18:13,160 --> 01:18:15,160
+I've got a pitch for you
+
+2200
+01:18:15,160 --> 01:18:17,160
+less movies with giant
+
+2201
+01:18:17,160 --> 01:18:19,160
+monkeys more movies
+
+2202
+01:18:19,160 --> 01:18:21,160
+with me.
+
+2203
+01:18:21,160 --> 01:18:23,160
+It plays out at about that speed.
+
+2204
+01:18:23,160 --> 01:18:25,160
+No one laughs. Never
+
+2205
+01:18:25,160 --> 01:18:27,160
+in several summers not one person
+
+2206
+01:18:27,160 --> 01:18:29,160
+ever laughed at this. Then
+
+2207
+01:18:29,160 --> 01:18:31,160
+she repeats it.
+
+2208
+01:18:31,160 --> 01:18:33,160
+Less movies with the giant
+
+2209
+01:18:33,160 --> 01:18:35,160
+monkey. It's slower this
+
+2210
+01:18:35,160 --> 01:18:37,160
+time and I have to play this.
+
+2211
+01:18:37,160 --> 01:18:39,160
+I have no idea. It dies a horrible
+
+2212
+01:18:39,160 --> 01:18:41,160
+death every single time.
+
+2213
+01:18:41,160 --> 01:18:43,160
+I don't blame her as much as whoever
+
+2214
+01:18:43,160 --> 01:18:45,160
+wrote it. This was a garbage video.
+
+2215
+01:18:45,160 --> 01:18:47,160
+If you ever had to sit through this on the tram
+
+2216
+01:18:47,160 --> 01:18:49,160
+any listeners I apologize
+
+2217
+01:18:49,160 --> 01:18:51,160
+and trust me the tour guides
+
+2218
+01:18:51,160 --> 01:18:53,160
+did not want to play it. I am sure I saw this.
+
+2219
+01:18:53,160 --> 01:18:55,160
+I have no memory of this. I mean I really all I do
+
+2220
+01:18:55,160 --> 01:18:57,160
+remember is just her getting eaten by scarabs.
+
+2221
+01:18:57,160 --> 01:18:59,160
+Yes. Yeah. I remember that.
+
+2222
+01:18:59,160 --> 01:19:01,160
+I think that might have been like around the last time.
+
+2223
+01:19:01,160 --> 01:19:03,160
+I'm trying to figure out when's the last time I went
+
+2224
+01:19:03,160 --> 01:19:05,160
+to Universal.
+
+2225
+01:19:05,160 --> 01:19:07,160
+I graduated high school 2007. It had to be
+
+2226
+01:19:07,160 --> 01:19:09,160
+around 06.
+
+2227
+01:19:09,160 --> 01:19:11,160
+Probably when you were doing like
+
+2228
+01:19:11,160 --> 01:19:13,160
+had to be around that time. Yeah.
+
+2229
+01:19:13,160 --> 01:19:15,160
+Like the last time.
+
+2230
+01:19:15,160 --> 01:19:17,160
+Absolutely still would have been Whoopi.
+
+2231
+01:19:17,160 --> 01:19:19,160
+But Whoopi's still on it now as I said before.
+
+2232
+01:19:19,160 --> 01:19:21,160
+She gets eaten still right?
+
+2233
+01:19:21,160 --> 01:19:23,160
+Yes. The rest of it is Jimmy Fallon but they
+
+2234
+01:19:23,160 --> 01:19:25,160
+couldn't figure out how to get her out of the mummy part.
+
+2235
+01:19:25,160 --> 01:19:27,160
+So now if you go on the tram what happens is
+
+2236
+01:19:27,160 --> 01:19:29,160
+Whoopi Goldberg suddenly appears
+
+2237
+01:19:29,160 --> 01:19:31,160
+and is eaten by bugs immediately and that's
+
+2238
+01:19:31,160 --> 01:19:33,160
+it. You don't know why she showed up.
+
+2239
+01:19:33,160 --> 01:19:35,160
+It's totally out of context.
+
+2240
+01:19:35,160 --> 01:19:37,160
+She hasn't appeared before. All of a sudden
+
+2241
+01:19:37,160 --> 01:19:39,160
+they cut to her. Which I kind of like
+
+2242
+01:19:39,160 --> 01:19:41,160
+that you have to say. It's bizarre.
+
+2243
+01:19:41,160 --> 01:19:43,160
+Whoopi Goldberg.
+
+2244
+01:19:43,160 --> 01:19:45,160
+And she is and then the bugs come.
+
+2245
+01:19:45,160 --> 01:19:47,160
+But so much, yeah so much King Kong.
+
+2246
+01:19:47,160 --> 01:19:49,160
+And so much mummy.
+
+2247
+01:19:49,160 --> 01:19:51,160
+Because at one point in time
+
+2248
+01:19:51,160 --> 01:19:53,160
+I was trying to add this up that
+
+2249
+01:19:53,160 --> 01:19:55,160
+okay so there's that. There's that part of the
+
+2250
+01:19:55,160 --> 01:19:57,160
+tour where the room spins around and that's based on the mummy.
+
+2251
+01:19:57,160 --> 01:19:59,160
+That's not there anymore. You could go there at one point
+
+2252
+01:19:59,160 --> 01:20:01,160
+you could go to Universal and go to that. It's part of the
+
+2253
+01:20:01,160 --> 01:20:03,160
+tram. Then there's a maze
+
+2254
+01:20:03,160 --> 01:20:05,160
+of the mummy. Then there's the mummy
+
+2255
+01:20:05,160 --> 01:20:07,160
+coaster, the ride of course.
+
+2256
+01:20:07,160 --> 01:20:09,160
+And then also the
+
+2257
+01:20:09,160 --> 01:20:11,160
+part of this tour where the guy gets
+
+2258
+01:20:11,160 --> 01:20:13,160
+electrocuted. There were four
+
+2259
+01:20:13,160 --> 01:20:15,160
+mummy attractions in a
+
+2260
+01:20:15,160 --> 01:20:17,160
+very limited park at one point in time.
+
+2261
+01:20:17,160 --> 01:20:19,160
+The Scorpion King movie
+
+2262
+01:20:19,160 --> 01:20:21,160
+and the Brendan Fraser mummies were
+
+2263
+01:20:21,160 --> 01:20:23,160
+like huge hits.
+
+2264
+01:20:23,160 --> 01:20:25,160
+But big enough to justify four
+
+2265
+01:20:25,160 --> 01:20:27,160
+attractions? And getting rid of them.
+
+2266
+01:20:27,160 --> 01:20:29,160
+It's them tying together.
+
+2267
+01:20:29,160 --> 01:20:31,160
+I'm a big mummy fan. I do love that Brendan Fraser mummy.
+
+2268
+01:20:33,160 --> 01:20:35,160
+Bring it back. Reboot it.
+
+2269
+01:20:35,160 --> 01:20:37,160
+I think it's them also
+
+2270
+01:20:37,160 --> 01:20:39,160
+high on their own supply.
+
+2271
+01:20:39,160 --> 01:20:41,160
+The mummy, we made the classic
+
+2272
+01:20:41,160 --> 01:20:43,160
+mummy and now the mummy's
+
+2273
+01:20:43,160 --> 01:20:45,160
+back. It seems odd though that
+
+2274
+01:20:45,160 --> 01:20:47,160
+they would have gotten rid of the back to the future thing to
+
+2275
+01:20:47,160 --> 01:20:49,160
+put the mummy in. Because everyone loves back to
+
+2276
+01:20:49,160 --> 01:20:51,160
+the future and still loves back to the future.
+
+2277
+01:20:51,160 --> 01:20:53,160
+And the mummy hasn't I would argue maybe not
+
+2278
+01:20:53,160 --> 01:20:55,160
+lasted like back to the future.
+
+2279
+01:20:55,160 --> 01:20:57,160
+Well it's like when they say like so
+
+2280
+01:20:57,160 --> 01:20:59,160
+the universe has made some of the most memorable
+
+2281
+01:20:59,160 --> 01:21:01,160
+moments in movie history.
+
+2282
+01:21:01,160 --> 01:21:03,160
+And it's like yeah it's Hitchcock stuff
+
+2283
+01:21:03,160 --> 01:21:05,160
+and like classic movie
+
+2284
+01:21:05,160 --> 01:21:07,160
+monsters and then the minions and
+
+2285
+01:21:07,160 --> 01:21:09,160
+like it's the characters from Sing.
+
+2286
+01:21:09,160 --> 01:21:11,160
+And it's like I don't know
+
+2287
+01:21:11,160 --> 01:21:13,160
+as a society agreed these
+
+2288
+01:21:13,160 --> 01:21:15,160
+things are equal yet.
+
+2289
+01:21:15,160 --> 01:21:17,160
+Also
+
+2290
+01:21:17,160 --> 01:21:19,160
+I saw a video that had a lot of
+
+2291
+01:21:19,160 --> 01:21:21,160
+heroes. They had to push
+
+2292
+01:21:21,160 --> 01:21:23,160
+heroes everywhere.
+
+2293
+01:21:23,160 --> 01:21:25,160
+Claire Bennett the cheerleader.
+
+2294
+01:21:25,160 --> 01:21:27,160
+Save the cheerleader.
+
+2295
+01:21:27,160 --> 01:21:29,160
+As they constantly say Claire Bennett the cheerleader.
+
+2296
+01:21:29,160 --> 01:21:31,160
+I think
+
+2297
+01:21:31,160 --> 01:21:33,160
+this show I think this used to be a great show
+
+2298
+01:21:33,160 --> 01:21:35,160
+and then it just became like a dumping ground for
+
+2299
+01:21:35,160 --> 01:21:37,160
+what do we have to promote that's from recent.
+
+2300
+01:21:37,160 --> 01:21:39,160
+One of the newer ones on
+
+2301
+01:21:39,160 --> 01:21:41,160
+the upper lot it's like and now we're going to Foley
+
+2302
+01:21:41,160 --> 01:21:43,160
+the film Identity Thief
+
+2303
+01:21:43,160 --> 01:21:45,160
+starring Jason Bateman and Melissa
+
+2304
+01:21:45,160 --> 01:21:47,160
+McCarthy. Yeah. And you're like what?
+
+2305
+01:21:47,160 --> 01:21:49,160
+Yeah that's a trip. And then they love the guy on
+
+2306
+01:21:49,160 --> 01:21:51,160
+fire.
+
+2307
+01:21:51,160 --> 01:21:53,160
+And then I watched the family do it
+
+2308
+01:21:53,160 --> 01:21:55,160
+and the bit kills still. Oh yeah.
+
+2309
+01:21:55,160 --> 01:21:57,160
+It's still funny. Like she throws something
+
+2310
+01:21:57,160 --> 01:21:59,160
+in Bateman's head and like it hits in one
+
+2311
+01:21:59,160 --> 01:22:01,160
+of the family like hits like a pan.
+
+2312
+01:22:01,160 --> 01:22:03,160
+Cowbell I think it is. Yeah.
+
+2313
+01:22:03,160 --> 01:22:05,160
+That's the thing about this show. It all
+
+2314
+01:22:05,160 --> 01:22:07,160
+kills. It was all great. Yeah. I
+
+2315
+01:22:07,160 --> 01:22:09,160
+think legitimately they always did a good
+
+2316
+01:22:09,160 --> 01:22:11,160
+job with it. And you
+
+2317
+01:22:11,160 --> 01:22:13,160
+if you have fun memories of it and you
+
+2318
+01:22:13,160 --> 01:22:15,160
+went like constantly. Yeah.
+
+2319
+01:22:15,160 --> 01:22:17,160
+That's a testament to it. It was always
+
+2320
+01:22:17,160 --> 01:22:19,160
+very fun. I really enjoyed
+
+2321
+01:22:19,160 --> 01:22:21,160
+going. I remember I would go in the back
+
+2322
+01:22:21,160 --> 01:22:23,160
+draft and I remember
+
+2323
+01:22:23,160 --> 01:22:25,160
+saying it's like such a loser ass kid
+
+2324
+01:22:25,160 --> 01:22:27,160
+because I would go every week.
+
+2325
+01:22:27,160 --> 01:22:29,160
+And so I knew that the pipes were going to fall
+
+2326
+01:22:29,160 --> 01:22:31,160
+and I remember like looking at a person
+
+2327
+01:22:31,160 --> 01:22:33,160
+being like you might not want to stand
+
+2328
+01:22:33,160 --> 01:22:35,160
+there. I'm not going
+
+2329
+01:22:35,160 --> 01:22:37,160
+to tell you why.
+
+2330
+01:22:37,160 --> 01:22:39,160
+Like a little dickhead kid.
+
+2331
+01:22:39,160 --> 01:22:41,160
+So like ruining surprise
+
+2332
+01:22:41,160 --> 01:22:43,160
+for me. I've outsmarted this
+
+2333
+01:22:43,160 --> 01:22:45,160
+thing. Yeah. I know what you mean.
+
+2334
+01:22:45,160 --> 01:22:47,160
+And then still being scared when the pipes fell
+
+2335
+01:22:47,160 --> 01:22:49,160
+because you don't know exactly when they're going to fall.
+
+2336
+01:22:49,160 --> 01:22:51,160
+Yeah.
+
+2337
+01:22:51,160 --> 01:22:53,160
+I was just going to say, did
+
+2338
+01:22:53,160 --> 01:22:55,160
+you watch the upper lot version
+
+2339
+01:22:55,160 --> 01:22:57,160
+of the show? Yes.
+
+2340
+01:22:57,160 --> 01:22:59,160
+We didn't talk about who
+
+2341
+01:22:59,160 --> 01:23:01,160
+the new mocap thing is.
+
+2342
+01:23:01,160 --> 01:23:03,160
+Oh, yeah. What is it?
+
+2343
+01:23:03,160 --> 01:23:05,160
+It's a little bear named Ted.
+
+2344
+01:23:05,160 --> 01:23:07,160
+Oh, yeah.
+
+2345
+01:23:07,160 --> 01:23:09,160
+Ted is now in the show.
+
+2346
+01:23:09,160 --> 01:23:11,160
+And instead of fluffy, it's Ted.
+
+2347
+01:23:11,160 --> 01:23:13,160
+And Ted doesn't kill anybody or anything.
+
+2348
+01:23:13,160 --> 01:23:15,160
+But he's he says
+
+2349
+01:23:15,160 --> 01:23:17,160
+I think he says friggin sweet at a certain
+
+2350
+01:23:17,160 --> 01:23:19,160
+point. And then like he hits his butt
+
+2351
+01:23:19,160 --> 01:23:21,160
+and he goes like this is for the ladies.
+
+2352
+01:23:21,160 --> 01:23:23,160
+Yeah. He shakes his butt out.
+
+2353
+01:23:23,160 --> 01:23:25,160
+Shaking his butt and like slapping his own butt.
+
+2354
+01:23:25,160 --> 01:23:27,160
+Yeah. That probably works
+
+2355
+01:23:27,160 --> 01:23:29,160
+pretty well. Yeah, it works great. Getting Ted
+
+2356
+01:23:29,160 --> 01:23:31,160
+in the park is not the worst idea.
+
+2357
+01:23:31,160 --> 01:23:33,160
+It'd be a little outdated if there was a Ted ride now.
+
+2358
+01:23:33,160 --> 01:23:35,160
+But maybe they should have had a walker.
+
+2359
+01:23:35,160 --> 01:23:37,160
+Ted is on the tour by the bungalows.
+
+2360
+01:23:37,160 --> 01:23:39,160
+There's that big Ted. There's a statue
+
+2361
+01:23:39,160 --> 01:23:41,160
+with Ted. Yeah. He has a martini.
+
+2362
+01:23:41,160 --> 01:23:43,160
+He has a martini, yes.
+
+2363
+01:23:43,160 --> 01:23:45,160
+That's that crazy son of a bitch.
+
+2364
+01:23:45,160 --> 01:23:47,160
+He's doing it. Ted III eventually.
+
+2365
+01:23:47,160 --> 01:23:49,160
+Or MacFarlane too busy
+
+2366
+01:23:49,160 --> 01:23:51,160
+with the Orville.
+
+2367
+01:23:51,160 --> 01:23:53,160
+With his Star Trek.
+
+2368
+01:23:53,160 --> 01:23:55,160
+Yes. I read a rumor that he was going to
+
+2369
+01:23:55,160 --> 01:23:57,160
+buy Star Trek the other day.
+
+2370
+01:23:57,160 --> 01:23:59,160
+What? Buy it?
+
+2371
+01:23:59,160 --> 01:24:01,160
+I'm not saying that's going to happen. Yes, he was going to buy
+
+2372
+01:24:01,160 --> 01:24:03,160
+it from Viacom.
+
+2373
+01:24:03,160 --> 01:24:05,160
+How do you guys think money
+
+2374
+01:24:05,160 --> 01:24:07,160
+works at that point?
+
+2375
+01:24:07,160 --> 01:24:09,160
+Money is not real.
+
+2376
+01:24:09,160 --> 01:24:11,160
+When you're having that discussion, it's like oh, money isn't
+
+2377
+01:24:11,160 --> 01:24:13,160
+real. Ratings, numbers
+
+2378
+01:24:13,160 --> 01:24:15,160
+are not real.
+
+2379
+01:24:15,160 --> 01:24:17,160
+But he's one of those people where if you ever stop
+
+2380
+01:24:17,160 --> 01:24:19,160
+and add up, you know,
+
+2381
+01:24:19,160 --> 01:24:21,160
+all right, so he gets money just from like
+
+2382
+01:24:21,160 --> 01:24:23,160
+one episode of being a voice actor.
+
+2383
+01:24:23,160 --> 01:24:25,160
+Let alone that he's on every episode
+
+2384
+01:24:25,160 --> 01:24:27,160
+of many shows
+
+2385
+01:24:27,160 --> 01:24:29,160
+that air all the time. Let alone that
+
+2386
+01:24:29,160 --> 01:24:31,160
+he also wrote the shows. Let alone that he's also in Ted.
+
+2387
+01:24:31,160 --> 01:24:33,160
+Let alone that like, does he have like
+
+2388
+01:24:33,160 --> 01:24:35,160
+seven billion dollars? How much money
+
+2389
+01:24:35,160 --> 01:24:37,160
+does this guy? Yeah. He's got a lot of money.
+
+2390
+01:24:37,160 --> 01:24:39,160
+He's got a lot of money. Probably. So he could
+
+2391
+01:24:39,160 --> 01:24:41,160
+buy Star Trek, honestly. But
+
+2392
+01:24:41,160 --> 01:24:43,160
+does he like write a check?
+
+2393
+01:24:43,160 --> 01:24:45,160
+For Star Trek? He pays you the order of Star Trek.
+
+2394
+01:24:45,160 --> 01:24:47,160
+Yeah.
+
+2395
+01:24:47,160 --> 01:24:49,160
+To Captain Picard.
+
+2396
+01:24:49,160 --> 01:24:51,160
+Yeah, he buys it from Captain Picard.
+
+2397
+01:24:51,160 --> 01:24:53,160
+Money's like wired at that point, right?
+
+2398
+01:24:53,160 --> 01:24:55,160
+Yeah, yeah. Yeah, he is a guy.
+
+2399
+01:24:55,160 --> 01:24:57,160
+And then that guy does
+
+2400
+01:24:57,160 --> 01:24:59,160
+it. Yeah. Through something
+
+2401
+01:24:59,160 --> 01:25:01,160
+that we don't even understand. Yeah. It's like
+
+2402
+01:25:01,160 --> 01:25:03,160
+a computer, but it's not. Like we...
+
+2403
+01:25:03,160 --> 01:25:05,160
+It's through a holding corp. It's called like
+
+2404
+01:25:05,160 --> 01:25:07,160
+Giggity Giggity Inc.
+
+2405
+01:25:07,160 --> 01:25:09,160
+Yes.
+
+2406
+01:25:09,160 --> 01:25:11,160
+But it's in like a different country and
+
+2407
+01:25:11,160 --> 01:25:13,160
+you have to go there to
+
+2408
+01:25:13,160 --> 01:25:15,160
+buy Star Trek.
+
+2409
+01:25:15,160 --> 01:25:17,160
+Congrats. Congrats on the purchase.
+
+2410
+01:25:17,160 --> 01:25:19,160
+So I guess, yeah, let's confirm the rumor. Seth McFarlane
+
+2411
+01:25:19,160 --> 01:25:21,160
+is buying Star Trek. He's buying Star Trek.
+
+2412
+01:25:21,160 --> 01:25:25,160
+He's done. He just got on a flight to Switzerland.
+
+2413
+01:25:25,160 --> 01:25:27,160
+Um, because
+
+2414
+01:25:27,160 --> 01:25:29,160
+Orville was suddenly in the Star Trek universe,
+
+2415
+01:25:29,160 --> 01:25:31,160
+that'd be pretty crazy. Oh, he just
+
+2416
+01:25:31,160 --> 01:25:33,160
+combines them? Yeah, maybe. Why not?
+
+2417
+01:25:33,160 --> 01:25:35,160
+He is just making Star Trek.
+
+2418
+01:25:35,160 --> 01:25:37,160
+So why not?
+
+2419
+01:25:37,160 --> 01:25:39,160
+Get... Jonathan Frakes directs Orville episodes.
+
+2420
+01:25:39,160 --> 01:25:41,160
+Oh, really? Yes, Jonathan Frakes is a
+
+2421
+01:25:41,160 --> 01:25:43,160
+successful television director.
+
+2422
+01:25:43,160 --> 01:25:45,160
+Yeah. In the second half of his career.
+
+2423
+01:25:45,160 --> 01:25:47,160
+Wow. Alright. So the ultimate
+
+2424
+01:25:47,160 --> 01:25:49,160
+spaceman. And then eventually it'll all buy
+
+2425
+01:25:49,160 --> 01:25:51,160
+Star Wars back from Disney.
+
+2426
+01:25:51,160 --> 01:25:53,160
+Yeah. Star Trek and Star Wars will combine
+
+2427
+01:25:53,160 --> 01:25:55,160
+at a certain point. Star Wars versus
+
+2428
+01:25:55,160 --> 01:25:57,160
+Star Trek can finally happen. What a dream.
+
+2429
+01:25:57,160 --> 01:25:59,160
+There was an X-Men versus Star Trek
+
+2430
+01:25:59,160 --> 01:26:01,160
+comic I had and I was obsessed with it.
+
+2431
+01:26:01,160 --> 01:26:03,160
+Cool. And the only thing I can remember
+
+2432
+01:26:03,160 --> 01:26:05,160
+is that Kirk hits on Jean Grey.
+
+2433
+01:26:07,160 --> 01:26:09,160
+That's pretty exciting, huh?
+
+2434
+01:26:09,160 --> 01:26:11,160
+Did Stan Lee
+
+2435
+01:26:11,160 --> 01:26:13,160
+draw her naked?
+
+2436
+01:26:13,160 --> 01:26:15,160
+He drew her naked and
+
+2437
+01:26:15,160 --> 01:26:17,160
+signed the boob and then he drew Kirk naked and
+
+2438
+01:26:17,160 --> 01:26:19,160
+signed his penis.
+
+2439
+01:26:19,160 --> 01:26:21,160
+I'm drawing Captain Kirk
+
+2440
+01:26:21,160 --> 01:26:23,160
+nude for the first time.
+
+2441
+01:26:23,160 --> 01:26:25,160
+Look close. That's not a
+
+2442
+01:26:25,160 --> 01:26:27,160
+pub.
+
+2443
+01:26:27,160 --> 01:26:29,160
+It's my signature. It's my signature.
+
+2444
+01:26:29,160 --> 01:26:31,160
+I'm drawing now.
+
+2445
+01:26:31,160 --> 01:26:33,160
+What? Any other memories of this
+
+2446
+01:26:33,160 --> 01:26:35,160
+thing we missed? There's a guy on
+
+2447
+01:26:35,160 --> 01:26:37,160
+fire. A guy gets lit on fire. Oh yeah.
+
+2448
+01:26:37,160 --> 01:26:39,160
+Yeah. That's cool. And the audience
+
+2449
+01:26:39,160 --> 01:26:41,160
+just seems horrified by it more than
+
+2450
+01:26:41,160 --> 01:26:43,160
+anything. They all kind of feel like, oh.
+
+2451
+01:26:43,160 --> 01:26:45,160
+The image is haunting of a
+
+2452
+01:26:45,160 --> 01:26:47,160
+man on fire. Guy's really
+
+2453
+01:26:47,160 --> 01:26:49,160
+upset. It's kind of
+
+2454
+01:26:49,160 --> 01:26:51,160
+upsetting.
+
+2455
+01:26:51,160 --> 01:26:53,160
+There's a weird preamble to it where they're
+
+2456
+01:26:53,160 --> 01:26:55,160
+like dousing them with chemicals
+
+2457
+01:26:55,160 --> 01:26:57,160
+to show you how they prevent it.
+
+2458
+01:26:57,160 --> 01:26:59,160
+He's got a face mask on.
+
+2459
+01:26:59,160 --> 01:27:01,160
+They all just seem
+
+2460
+01:27:01,160 --> 01:27:03,160
+miserable. Like, I gotta get lit on fire again
+
+2461
+01:27:03,160 --> 01:27:05,160
+today. God damn it.
+
+2462
+01:27:05,160 --> 01:27:07,160
+He's like counting
+
+2463
+01:27:07,160 --> 01:27:09,160
+down like, all right, I've been lit on fire three times.
+
+2464
+01:27:09,160 --> 01:27:11,160
+Just three more to go.
+
+2465
+01:27:11,160 --> 01:27:13,160
+Might be lunch soon.
+
+2466
+01:27:13,160 --> 01:27:15,160
+Yeah. He's only that dog Brown's chicken.
+
+2467
+01:27:17,160 --> 01:27:19,160
+Yeah.
+
+2468
+01:27:19,160 --> 01:27:21,160
+I can't imagine that job.
+
+2469
+01:27:21,160 --> 01:27:23,160
+No. Probably not.
+
+2470
+01:27:23,160 --> 01:27:25,160
+Because on a movie set, maybe you do it
+
+2471
+01:27:25,160 --> 01:27:27,160
+like once per shoot. Like a day.
+
+2472
+01:27:27,160 --> 01:27:29,160
+There's a day of being lit on fire.
+
+2473
+01:27:29,160 --> 01:27:31,160
+All day. But all day, every
+
+2474
+01:27:31,160 --> 01:27:33,160
+day, five days a week.
+
+2475
+01:27:33,160 --> 01:27:35,160
+Being lit on fire at Universal
+
+2476
+01:27:35,160 --> 01:27:37,160
+Studios.
+
+2477
+01:27:37,160 --> 01:27:39,160
+If you're a fire person, let us know how it is.
+
+2478
+01:27:39,160 --> 01:27:41,160
+We'll come talk to us.
+
+2479
+01:27:41,160 --> 01:27:43,160
+More exciting for an audience than learning about how
+
+2480
+01:27:43,160 --> 01:27:45,160
+they created all the fairies in Hellboy
+
+2481
+01:27:45,160 --> 01:27:47,160
+2, The Golden Army. Another
+
+2482
+01:27:47,160 --> 01:27:49,160
+segment that stuck around for a while.
+
+2483
+01:27:49,160 --> 01:27:51,160
+That's not, yeah.
+
+2484
+01:27:51,160 --> 01:27:53,160
+But they still do the fire,
+
+2485
+01:27:53,160 --> 01:27:55,160
+right? Somebody gets lit on fire still?
+
+2486
+01:27:55,160 --> 01:27:57,160
+I believe so. In the new show.
+
+2487
+01:27:57,160 --> 01:27:59,160
+In the new show, for sure.
+
+2488
+01:27:59,160 --> 01:28:01,160
+We don't like as much what they're doing these days
+
+2489
+01:28:01,160 --> 01:28:03,160
+in these identity thieves and Hellboys.
+
+2490
+01:28:03,160 --> 01:28:05,160
+What are they, we're
+
+2491
+01:28:05,160 --> 01:28:07,160
+forgetting to plus it up. How do we make this show
+
+2492
+01:28:07,160 --> 01:28:09,160
+great again? How do we take it back to its glory
+
+2493
+01:28:09,160 --> 01:28:11,160
+days? Make this special effects show
+
+2494
+01:28:11,160 --> 01:28:13,160
+great again.
+
+2495
+01:28:13,160 --> 01:28:15,160
+I like that phrase.
+
+2496
+01:28:15,160 --> 01:28:17,160
+Do we bring back maybe Harry
+
+2497
+01:28:17,160 --> 01:28:19,160
+and Fluffy fight?
+
+2498
+01:28:19,160 --> 01:28:21,160
+Harry and Fluffy fight.
+
+2499
+01:28:21,160 --> 01:28:23,160
+Ted though. Yeah, him too.
+
+2500
+01:28:23,160 --> 01:28:25,160
+Ted falls off the Statue of Liberty.
+
+2501
+01:28:25,160 --> 01:28:27,160
+Sure. Like in Saboteur.
+
+2502
+01:28:27,160 --> 01:28:29,160
+Well what's popular now? What is popular
+
+2503
+01:28:29,160 --> 01:28:31,160
+in 2020? Minions. Minions are still
+
+2504
+01:28:31,160 --> 01:28:33,160
+popular. I don't know what
+
+2505
+01:28:33,160 --> 01:28:35,160
+Universal makes right now. Jurassic
+
+2506
+01:28:35,160 --> 01:28:37,160
+World. Well they made
+
+2507
+01:28:37,160 --> 01:28:39,160
+Cats and
+
+2508
+01:28:39,160 --> 01:28:41,160
+what's the other big one? Doolittle.
+
+2509
+01:28:41,160 --> 01:28:43,160
+Cats and Doolittle are their
+
+2510
+01:28:43,160 --> 01:28:45,160
+properties. I wish those were hits
+
+2511
+01:28:45,160 --> 01:28:47,160
+though. Cause a Cats thing,
+
+2512
+01:28:47,160 --> 01:28:49,160
+a special effects Cats show.
+
+2513
+01:28:49,160 --> 01:28:51,160
+Where you mocap, move the
+
+2514
+01:28:51,160 --> 01:28:53,160
+cats around. Yeah, where you rum tum tugger.
+
+2515
+01:28:53,160 --> 01:28:55,160
+Yeah.
+
+2516
+01:28:55,160 --> 01:28:57,160
+That'd be tight. Yeah.
+
+2517
+01:28:57,160 --> 01:28:59,160
+Maybe this is a separate attraction
+
+2518
+01:28:59,160 --> 01:29:01,160
+but like Universal doing a show
+
+2519
+01:29:01,160 --> 01:29:03,160
+that is the Jellicle Ball.
+
+2520
+01:29:03,160 --> 01:29:05,160
+You get to go to the Jellicle Ball.
+
+2521
+01:29:05,160 --> 01:29:07,160
+You couldn't be mad at that. Sure.
+
+2522
+01:29:07,160 --> 01:29:09,160
+That would be good. Cat themed drinks.
+
+2523
+01:29:09,160 --> 01:29:11,160
+Doolittle.
+
+2524
+01:29:11,160 --> 01:29:13,160
+I don't know if you've read about Doolittle
+
+2525
+01:29:13,160 --> 01:29:15,160
+at all. Doolittle
+
+2526
+01:29:15,160 --> 01:29:17,160
+is not the greatest
+
+2527
+01:29:17,160 --> 01:29:19,160
+movie in the world. It ends with Robert Dunning Jr
+
+2528
+01:29:19,160 --> 01:29:21,160
+as Doolittle pulling bagpipes out of a
+
+2529
+01:29:21,160 --> 01:29:23,160
+dragon's asshole.
+
+2530
+01:29:23,160 --> 01:29:25,160
+Okay, I'm in.
+
+2531
+01:29:25,160 --> 01:29:27,160
+So maybe I've sold it now.
+
+2532
+01:29:27,160 --> 01:29:29,160
+That's the climax of the movie. That's like
+
+2533
+01:29:29,160 --> 01:29:31,160
+the last thing he has to do when the movie is over.
+
+2534
+01:29:31,160 --> 01:29:33,160
+So
+
+2535
+01:29:33,160 --> 01:29:35,160
+something like with a dragon.
+
+2536
+01:29:35,160 --> 01:29:37,160
+Well then, okay, so clearly what it is
+
+2537
+01:29:37,160 --> 01:29:39,160
+and any of you guys feel free to be
+
+2538
+01:29:39,160 --> 01:29:41,160
+the volunteer but let me just, I'll be
+
+2539
+01:29:41,160 --> 01:29:43,160
+the host and then it's very
+
+2540
+01:29:43,160 --> 01:29:45,160
+important that when the red button goes
+
+2541
+01:29:45,160 --> 01:29:47,160
+then you need to make the sound
+
+2542
+01:29:47,160 --> 01:29:49,160
+effect of bagpipes coming
+
+2543
+01:29:49,160 --> 01:29:51,160
+out of a dragon's asshole. Okay,
+
+2544
+01:29:51,160 --> 01:29:53,160
+so here we go. Look up at the screen and
+
+2545
+01:29:53,160 --> 01:29:55,160
+Doolittle is pulling them out and
+
+2546
+01:29:55,160 --> 01:29:57,160
+vroom, brrrr.
+
+2547
+01:29:57,160 --> 01:29:59,160
+Vroom, brrrr.
+
+2548
+01:29:59,160 --> 01:30:01,160
+Oh, dear.
+
+2549
+01:30:01,160 --> 01:30:03,160
+And now we just need one more
+
+2550
+01:30:03,160 --> 01:30:05,160
+thing. We're about to go live. We're going to go live
+
+2551
+01:30:05,160 --> 01:30:07,160
+to theaters with Doolittle
+
+2552
+01:30:07,160 --> 01:30:09,160
+It's broadcasting in one minute
+
+2553
+01:30:09,160 --> 01:30:11,160
+and we need what is the sound
+
+2554
+01:30:11,160 --> 01:30:13,160
+that the dragon, the pain sound that
+
+2555
+01:30:13,160 --> 01:30:15,160
+the dragon makes and here we go
+
+2556
+01:30:15,160 --> 01:30:17,160
+in three, two, one
+
+2557
+01:30:17,160 --> 01:30:19,160
+Arrrrr Instagram
+
+2558
+01:30:19,160 --> 01:30:21,160
+Alright, now we need you all to help
+
+2559
+01:30:21,160 --> 01:30:23,160
+ADR Doolittle's lines because when
+
+2560
+01:30:23,160 --> 01:30:25,160
+Robert did the first pass he couldn't understand
+
+2561
+01:30:25,160 --> 01:30:27,160
+his Welsh accent so we need you all to say
+
+2562
+01:30:27,160 --> 01:30:29,160
+It's okay to be scared
+
+2563
+01:30:29,160 --> 01:30:31,160
+all at once. Alright?
+
+2564
+01:30:31,160 --> 01:30:33,160
+Alright, on three. One, two, three
+
+2565
+01:30:33,160 --> 01:30:35,160
+It's okay to be scared
+
+2566
+01:30:35,160 --> 01:30:37,160
+It's okay to be scared
+
+2567
+01:30:37,160 --> 01:30:39,160
+We all make the same thing
+
+2568
+01:30:39,160 --> 01:30:41,160
+Oh, hey
+
+2569
+01:30:41,160 --> 01:30:43,160
+And very good
+
+2570
+01:30:43,160 --> 01:30:45,160
+We saved Doolittle
+
+2571
+01:30:45,160 --> 01:30:47,160
+Enjoy the rest of your day
+
+2572
+01:30:47,160 --> 01:30:49,160
+Enjoy the rest of your day
+
+2573
+01:30:49,160 --> 01:30:51,160
+The box office numbers are shooting up
+
+2574
+01:30:51,160 --> 01:30:53,160
+It's 300 million in a weekend
+
+2575
+01:30:53,160 --> 01:30:55,160
+It's bigger than Iron Man
+
+2576
+01:30:55,160 --> 01:30:57,160
+It's profitable. You did it
+
+2577
+01:30:57,160 --> 01:30:59,160
+Alright, thanks Carl, Mike, Scott
+
+2578
+01:30:59,160 --> 01:31:01,160
+and Jason
+
+2579
+01:31:01,160 --> 01:31:03,160
+And Carl, you survived podcast
+
+2580
+01:31:03,160 --> 01:31:05,160
+The Ride. Thanks for being here
+
+2581
+01:31:05,160 --> 01:31:07,160
+Thanks for having me. You can cut out some of those tangents
+
+2582
+01:31:07,160 --> 01:31:09,160
+Never, never
+
+2583
+01:31:09,160 --> 01:31:11,160
+What do you mean?
+
+2584
+01:31:11,160 --> 01:31:13,160
+We'll cut out the regular stuff
+
+2585
+01:31:13,160 --> 01:31:15,160
+We'll cut out the stuff about the topic instead
+
+2586
+01:31:15,160 --> 01:31:17,160
+Hey, let's exit through the gift shop
+
+2587
+01:31:17,160 --> 01:31:19,160
+Is there anything Carl that you would like to plug?
+
+2588
+01:31:19,160 --> 01:31:21,160
+Listen to the flagrant ones
+
+2589
+01:31:21,160 --> 01:31:23,160
+It's a Patreon, so you gotta dig
+
+2590
+01:31:23,160 --> 01:31:25,160
+into your Seth MacFarlane pants
+
+2591
+01:31:25,160 --> 01:31:27,160
+and take out your five dollars
+
+2592
+01:31:27,160 --> 01:31:29,160
+Splash money around
+
+2593
+01:31:29,160 --> 01:31:31,160
+like you said
+
+2594
+01:31:31,160 --> 01:31:33,160
+If you like basketball, or if you don't
+
+2595
+01:31:33,160 --> 01:31:35,160
+It's a basketball podcast hosted by me
+
+2596
+01:31:35,160 --> 01:31:37,160
+Sean Clements and Hayes Davenport
+
+2597
+01:31:37,160 --> 01:31:39,160
+of Hollywood Handbook, if you like that
+
+2598
+01:31:39,160 --> 01:31:41,160
+Sure
+
+2599
+01:31:41,160 --> 01:31:43,160
+And join us
+
+2600
+01:31:43,160 --> 01:31:45,160
+Will you be going?
+
+2601
+01:31:45,160 --> 01:31:47,160
+Do you have any like
+
+2602
+01:31:47,160 --> 01:31:49,160
+I'd like to get better at rides
+
+2603
+01:31:49,160 --> 01:31:51,160
+Or is it just
+
+2604
+01:31:51,160 --> 01:31:53,160
+Oh no, I've settled into
+
+2605
+01:31:53,160 --> 01:31:55,160
+Yeah, I'm not gonna be done
+
+2606
+01:31:55,160 --> 01:31:57,160
+What about a Horror Nights situation?
+
+2607
+01:31:57,160 --> 01:31:59,160
+I don't do that type of stuff either
+
+2608
+01:31:59,160 --> 01:32:01,160
+I'll punch somebody
+
+2609
+01:32:01,160 --> 01:32:03,160
+Alright, you're speaking my language
+
+2610
+01:32:03,160 --> 01:32:05,160
+Hey, we also have a Patreon
+
+2611
+01:32:05,160 --> 01:32:07,160
+Go to Patreon
+
+2612
+01:32:07,160 --> 01:32:09,160
+Let's do both at once
+
+2613
+01:32:09,160 --> 01:32:11,160
+Double drive to
+
+2614
+01:32:11,160 --> 01:32:13,160
+Flagrant ones and to ours
+
+2615
+01:32:13,160 --> 01:32:15,160
+Podcasts ride, the second gate at
+
+2616
+01:32:15,160 --> 01:32:17,160
+Patreon.com slash podcast the ride
+
+2617
+01:32:17,160 --> 01:32:19,160
+And we're on Twitter and Instagram
+
+2618
+01:32:19,160 --> 01:32:21,160
+And Facebook
+
+2619
+01:32:21,160 --> 01:32:23,160
+And we're
+
+2620
+01:32:23,160 --> 01:32:25,160
+Almost done with the lower lot
+
+2621
+01:32:25,160 --> 01:32:27,160
+We've covered almost all the attractions
+
+2622
+01:32:27,160 --> 01:32:29,160
+Down here, not Transformers yet
+
+2623
+01:32:29,160 --> 01:32:31,160
+And not Lucy Attribute
+
+2624
+01:32:31,160 --> 01:32:33,160
+I feel like we gotta be heading to Lucy Attribute
+
+2625
+01:32:33,160 --> 01:32:35,160
+I'm still building to that opus
+
+2626
+01:32:35,160 --> 01:32:37,160
+Lucy Attribute is gonna be
+
+2627
+01:32:37,160 --> 01:32:39,160
+Two plus, I think
+
+2628
+01:32:39,160 --> 01:32:41,160
+That's gonna be a big one
+
+2629
+01:32:41,160 --> 01:32:43,160
+We're recording second episode after this Scott
+
+2630
+01:32:43,160 --> 01:32:45,160
+That I think will be one of your like dissertation
+
+2631
+01:32:45,160 --> 01:32:47,160
+Like opuses
+
+2632
+01:32:47,160 --> 01:32:49,160
+Lucy Attribute
+
+2633
+01:32:49,160 --> 01:32:51,160
+Yeah, I pushed it cause I was sick
+
+2634
+01:32:51,160 --> 01:32:53,160
+And I didn't feel up to it but now I think I'm ready
+
+2635
+01:32:53,160 --> 01:32:55,160
+I think, but we'll see
+
+2636
+01:32:55,160 --> 01:32:57,160
+I might collapse during it
+
+2637
+01:32:57,160 --> 01:32:59,160
+But if you wanna know what that's all about go to the second gate
+
+2638
+01:32:59,160 --> 01:33:01,160
+But hey
+
+2639
+01:33:01,160 --> 01:33:03,160
+Thanks for listening and
+
+2640
+01:33:03,160 --> 01:33:05,160
+Thanks for celebrating the magic of the movies
+
+2641
+01:33:05,160 --> 01:33:07,160
+And it's okay to be scared
+
+2642
+01:33:07,160 --> 01:33:09,160
+Bye everybody
+
+2643
+01:33:37,160 --> 01:33:39,160
+For ever dog news by following us
+
+2644
+01:33:39,160 --> 01:33:41,160
+On Twitter and Instagram
+
+2645
+01:33:41,160 --> 01:33:43,160
+At forever dog team
+
+2646
+01:33:43,160 --> 01:33:45,160
+And liking our page on Facebook
+

@@ -1,0 +1,8060 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:25,200
+Salud, amigos, and welcome to Podcast The Ride The Second K.
+
+3
+00:00:25,200 --> 00:00:26,640
+A very special episode.
+
+4
+00:00:26,640 --> 00:00:28,640
+My name is Mike Carlson.
+
+5
+00:00:28,640 --> 00:00:31,080
+Joining me as always, Jason Sheridan.
+
+6
+00:00:31,080 --> 00:00:32,960
+That's right, I'm here too.
+
+7
+00:00:32,960 --> 00:00:33,800
+Jason is here too.
+
+8
+00:00:33,800 --> 00:00:36,400
+We, of course, I guess I shouldn't say of course,
+
+9
+00:00:36,400 --> 00:00:39,860
+but we're missing one of our hosts today.
+
+10
+00:00:39,860 --> 00:00:42,840
+Mr. Scott Gairner is gone.
+
+11
+00:00:42,840 --> 00:00:45,180
+He's not here, and you know what happens
+
+12
+00:00:45,180 --> 00:00:48,000
+when the cat's away, the mice will play.
+
+13
+00:00:48,000 --> 00:00:50,000
+Yes, so what happened was, you know,
+
+14
+00:00:50,000 --> 00:00:52,520
+Scott's doing nothing crazy,
+
+15
+00:00:52,520 --> 00:00:55,640
+but it's his information to share if he wants,
+
+16
+00:00:55,640 --> 00:00:57,040
+but he's busy.
+
+17
+00:00:57,080 --> 00:01:00,080
+So he said, well, if you and Jason have something
+
+18
+00:01:00,080 --> 00:01:01,440
+you'd like to talk about, you know,
+
+19
+00:01:01,440 --> 00:01:04,520
+we did an episode about Marvel Comics,
+
+20
+00:01:04,520 --> 00:01:06,840
+about the Marvel Mania restaurant.
+
+21
+00:01:06,840 --> 00:01:09,420
+Scott and I have done an episode about rock and roll.
+
+22
+00:01:09,420 --> 00:01:11,280
+We're big rock and roll guys.
+
+23
+00:01:11,280 --> 00:01:13,560
+So I was thinking, yeah, there's probably something,
+
+24
+00:01:13,560 --> 00:01:16,060
+and then I was thinking, you know, what is it?
+
+25
+00:01:16,060 --> 00:01:17,480
+Is it more Marvel?
+
+26
+00:01:17,480 --> 00:01:19,520
+There's gotta be other Marvel things, you know,
+
+27
+00:01:19,520 --> 00:01:22,600
+storms, what is it, an accelerator, what do you call it?
+
+28
+00:01:22,600 --> 00:01:24,240
+The storm force accelerator?
+
+29
+00:01:24,240 --> 00:01:25,740
+Yeah, storm force accelerator.
+
+30
+00:01:25,740 --> 00:01:26,840
+We could do an episode about that.
+
+31
+00:01:27,640 --> 00:01:28,480
+That would be fun.
+
+32
+00:01:28,480 --> 00:01:30,080
+But we sort of did Marvel Mania,
+
+33
+00:01:30,080 --> 00:01:32,600
+and maybe it's been, maybe wait a little bit longer
+
+34
+00:01:32,600 --> 00:01:34,560
+to do more Marvel.
+
+35
+00:01:34,560 --> 00:01:39,040
+And then I thought, hmm, let's really go for it.
+
+36
+00:01:39,040 --> 00:01:41,560
+Let's really, you know, do something,
+
+37
+00:01:41,560 --> 00:01:43,680
+because Scott said something that would be very good
+
+38
+00:01:43,680 --> 00:01:45,480
+for just you and Jason to do.
+
+39
+00:01:45,480 --> 00:01:48,040
+He said it, he spelled it out.
+
+40
+00:01:48,040 --> 00:01:50,160
+He basically told us what to do.
+
+41
+00:01:50,160 --> 00:01:52,480
+He told us what to do.
+
+42
+00:01:52,480 --> 00:01:54,240
+Yeah, he told us what to do,
+
+43
+00:01:54,280 --> 00:01:57,040
+and obviously you've probably read the title of this episode
+
+44
+00:01:57,040 --> 00:02:00,140
+so you know, and if you're a second gate member,
+
+45
+00:02:00,140 --> 00:02:01,340
+I mean, we'll fill you in
+
+46
+00:02:01,340 --> 00:02:03,560
+in case this is your first second gate episode,
+
+47
+00:02:03,560 --> 00:02:04,920
+because you're probably very confused.
+
+48
+00:02:04,920 --> 00:02:06,760
+But I assume if you're behind the paywall,
+
+49
+00:02:06,760 --> 00:02:08,460
+you know what's going on today.
+
+50
+00:02:09,400 --> 00:02:12,100
+We, of course, today then have decided,
+
+51
+00:02:12,100 --> 00:02:13,240
+with Scott's blessing,
+
+52
+00:02:13,240 --> 00:02:15,340
+even though he does not know what we're doing,
+
+53
+00:02:15,340 --> 00:02:17,880
+he does not know the name of this and why,
+
+54
+00:02:17,880 --> 00:02:20,840
+he knows why, but he doesn't know what we're doing,
+
+55
+00:02:20,840 --> 00:02:25,680
+we of course are talking about Casamigos tequila,
+
+56
+00:02:25,680 --> 00:02:28,520
+the tequila created by George Clooney
+
+57
+00:02:28,520 --> 00:02:32,480
+and Cindy Crawford's husband, Randy Gerber.
+
+58
+00:02:32,480 --> 00:02:34,040
+That is what we're talking about today.
+
+59
+00:02:34,040 --> 00:02:37,320
+I believe the first time we talked about this
+
+60
+00:02:37,320 --> 00:02:40,560
+was the Downtown Disney ordeal with Nick Mundy,
+
+61
+00:02:40,560 --> 00:02:42,280
+am I correct here?
+
+62
+00:02:42,280 --> 00:02:45,040
+I was thinking about that right before we were recording to it
+
+63
+00:02:45,040 --> 00:02:48,760
+and I believe that is the first time it came up, yes.
+
+64
+00:02:48,760 --> 00:02:53,760
+And I'm not even quite sure how we got there, you know?
+
+65
+00:02:54,400 --> 00:02:57,640
+I don't remember how we got there either, yes.
+
+66
+00:02:57,640 --> 00:03:00,760
+I don't remember, you can hear I'm out of breath
+
+67
+00:03:00,760 --> 00:03:03,240
+because I've done more prepping for this
+
+68
+00:03:03,240 --> 00:03:06,320
+than I think I've done for a podcast in a while,
+
+69
+00:03:06,320 --> 00:03:07,720
+maybe since the Downtown Disney ordeal.
+
+70
+00:03:07,720 --> 00:03:10,200
+There's a lot of moving parts is what I'm saying.
+
+71
+00:03:10,200 --> 00:03:11,640
+So yeah, we don't exactly know,
+
+72
+00:03:11,640 --> 00:03:13,920
+all I know is that I started talking about
+
+73
+00:03:13,920 --> 00:03:18,200
+Cindy Crawford's husband, Randy Gerber's tequila,
+
+74
+00:03:18,760 --> 00:03:22,360
+and everyone except for Jason got upset with me.
+
+75
+00:03:22,360 --> 00:03:25,480
+Yeah, because I knew the story about how
+
+76
+00:03:25,480 --> 00:03:27,760
+not only did they start this tequila brand,
+
+77
+00:03:27,760 --> 00:03:32,760
+when they sold it for $700 million with a possible 300 million
+
+78
+00:03:34,120 --> 00:03:39,120
+depending on sales performance over the next decade.
+
+79
+00:03:39,520 --> 00:03:42,320
+I knew that when they did that,
+
+80
+00:03:42,320 --> 00:03:46,280
+George Clooney invited the boys,
+
+81
+00:03:46,280 --> 00:03:48,600
+there's about 14 of them, the boys.
+
+82
+00:03:49,440 --> 00:03:53,960
+And he invited his crew to his house, September 20th, 2013.
+
+83
+00:03:53,960 --> 00:03:56,480
+A date that will live in infamy.
+
+84
+00:03:56,480 --> 00:03:58,000
+A date that will live in infamy.
+
+85
+00:03:58,000 --> 00:04:01,040
+You celebrate that day by getting a briefcase.
+
+86
+00:04:01,040 --> 00:04:02,320
+I do, yeah.
+
+87
+00:04:02,320 --> 00:04:04,080
+And then on September 14th,
+
+88
+00:04:04,080 --> 00:04:07,040
+I returned the briefcase to Joseph A. Bank.
+
+89
+00:04:07,040 --> 00:04:08,600
+That's fair, yeah.
+
+90
+00:04:08,600 --> 00:04:13,160
+And inside that briefcase in $20 increments
+
+91
+00:04:13,160 --> 00:04:15,760
+was a million dollars for all the boys.
+
+92
+00:04:15,760 --> 00:04:17,960
+And he said, I know, you know, there are people,
+
+93
+00:04:18,040 --> 00:04:20,280
+some of these boys were living paycheck to paycheck.
+
+94
+00:04:20,280 --> 00:04:21,440
+We're really struggling.
+
+95
+00:04:21,440 --> 00:04:23,480
+And he said, you don't have to worry about
+
+96
+00:04:23,480 --> 00:04:25,560
+your kids' college, you don't have to worry about
+
+97
+00:04:25,560 --> 00:04:28,480
+paying your mortgage, you're all taken care of.
+
+98
+00:04:28,480 --> 00:04:31,120
+You know, essentially we're all millionaires now.
+
+99
+00:04:31,120 --> 00:04:33,680
+And Randy Gerber, he's tequila co-founder,
+
+100
+00:04:33,680 --> 00:04:35,840
+was like, I don't feel good about taking this money.
+
+101
+00:04:35,840 --> 00:04:37,880
+And George said, there's one rule.
+
+102
+00:04:37,880 --> 00:04:41,560
+If you don't take it, no one gets it.
+
+103
+00:04:41,560 --> 00:04:43,520
+And so Randy had to take it.
+
+104
+00:04:43,520 --> 00:04:46,760
+And you know what else I just learned today?
+
+105
+00:04:46,760 --> 00:04:51,760
+September 13th, 2014, George married them all.
+
+106
+00:04:52,360 --> 00:04:53,200
+Right.
+
+107
+00:04:53,200 --> 00:04:54,520
+One year later.
+
+108
+00:04:54,520 --> 00:04:56,640
+Two significant days.
+
+109
+00:04:56,640 --> 00:04:57,960
+Two significant days.
+
+110
+00:04:57,960 --> 00:04:59,240
+On the same day.
+
+111
+00:04:59,240 --> 00:05:00,080
+Oh, the same day.
+
+112
+00:05:00,080 --> 00:05:00,920
+A year apart.
+
+113
+00:05:02,480 --> 00:05:05,800
+So what's funny about this is that you just told this story
+
+114
+00:05:05,800 --> 00:05:08,200
+and that story you knew, you had that locked away.
+
+115
+00:05:08,200 --> 00:05:11,000
+You would never share that with me or anyone maybe.
+
+116
+00:05:11,000 --> 00:05:13,640
+I do have to correct myself.
+
+117
+00:05:13,640 --> 00:05:15,120
+It's September 27th.
+
+118
+00:05:15,120 --> 00:05:17,120
+I just got so excited.
+
+119
+00:05:17,120 --> 00:05:18,480
+I got so excited.
+
+120
+00:05:18,480 --> 00:05:20,520
+I remember 2013.
+
+121
+00:05:20,520 --> 00:05:23,800
+People are already upset because they know all of the facts
+
+122
+00:05:23,800 --> 00:05:25,520
+and information about this topic.
+
+123
+00:05:25,520 --> 00:05:27,120
+And they're gonna be very upset if we get anything wrong.
+
+124
+00:05:27,120 --> 00:05:30,000
+So we have to correct ourselves if we do.
+
+125
+00:05:30,000 --> 00:05:32,760
+So you had that piece of information in your head.
+
+126
+00:05:32,760 --> 00:05:34,760
+I didn't know that piece of information.
+
+127
+00:05:34,760 --> 00:05:36,600
+I never heard that story before.
+
+128
+00:05:36,600 --> 00:05:39,240
+I just knew a couple of years prior,
+
+129
+00:05:39,240 --> 00:05:44,120
+I saw giant trucks with pictures of George Clooney
+
+130
+00:05:44,120 --> 00:05:47,480
+and some guy on a motorcycle.
+
+131
+00:05:47,480 --> 00:05:48,760
+And I thought it was funny.
+
+132
+00:05:48,760 --> 00:05:50,960
+I was like, what is this?
+
+133
+00:05:50,960 --> 00:05:52,120
+This is ridiculous.
+
+134
+00:05:52,120 --> 00:05:54,720
+And it said Casa Migos Tequila.
+
+135
+00:05:54,720 --> 00:05:56,640
+And I did a little investigating
+
+136
+00:05:56,640 --> 00:05:58,240
+and found that it was George Clooney
+
+137
+00:05:58,240 --> 00:06:01,440
+and Randy Gerber's tequila company.
+
+138
+00:06:01,440 --> 00:06:02,560
+And I have photos.
+
+139
+00:06:02,560 --> 00:06:05,160
+I proved this on Twitter a month or two ago.
+
+140
+00:06:05,160 --> 00:06:08,360
+I have photos a couple of years prior
+
+141
+00:06:08,360 --> 00:06:09,720
+to doing the podcast even.
+
+142
+00:06:09,720 --> 00:06:12,440
+Maybe one year prior to starting the podcast
+
+143
+00:06:12,440 --> 00:06:14,640
+of pictures of me and the truck.
+
+144
+00:06:14,640 --> 00:06:17,840
+And they're on Twitter.
+
+145
+00:06:17,840 --> 00:06:19,240
+I forget which thread it was.
+
+146
+00:06:19,240 --> 00:06:21,400
+I was thinking I was posting them to Scott.
+
+147
+00:06:22,960 --> 00:06:27,120
+So I have been a big fan of the idea of this
+
+148
+00:06:27,120 --> 00:06:29,040
+for a long time.
+
+149
+00:06:29,040 --> 00:06:31,360
+And I think if we really break it down,
+
+150
+00:06:32,240 --> 00:06:37,240
+I am a big fan of celebrity endorsed drinks,
+
+151
+00:06:38,320 --> 00:06:40,440
+spirits, restaurants.
+
+152
+00:06:40,440 --> 00:06:43,040
+We just mentioned not too long ago,
+
+153
+00:06:43,040 --> 00:06:47,840
+there was a restaurant that had Grandpa
+
+154
+00:06:47,840 --> 00:06:50,880
+from the Munsters on it in Jersey.
+
+155
+00:06:50,880 --> 00:06:52,680
+It was called Grandpa's apparently.
+
+156
+00:06:52,680 --> 00:06:55,120
+And Al Lewis, the actor who played Grandpa
+
+157
+00:06:55,120 --> 00:06:56,640
+did not own this place.
+
+158
+00:06:56,640 --> 00:06:58,640
+He would just sort of be the greeter
+
+159
+00:06:58,640 --> 00:07:00,440
+and he made some deal with the owner.
+
+160
+00:07:00,440 --> 00:07:02,760
+So I love anything like that.
+
+161
+00:07:02,760 --> 00:07:05,440
+Jimmy Buffett, of course, my personal hero,
+
+162
+00:07:05,440 --> 00:07:07,840
+did this better than anybody.
+
+163
+00:07:07,840 --> 00:07:12,320
+So anytime I see it, I think it delights me
+
+164
+00:07:12,320 --> 00:07:13,400
+for some reason.
+
+165
+00:07:13,400 --> 00:07:15,520
+I don't know if it's because it's just insane.
+
+166
+00:07:15,520 --> 00:07:18,040
+If I'm thinking, how much money do you guys need?
+
+167
+00:07:18,040 --> 00:07:19,800
+Is that like, that might be part of it?
+
+168
+00:07:19,800 --> 00:07:21,560
+That's probably part of it.
+
+169
+00:07:21,560 --> 00:07:22,680
+That's probably part of it too.
+
+170
+00:07:22,680 --> 00:07:24,560
+And I think there's the implicit,
+
+171
+00:07:26,080 --> 00:07:29,000
+just the endorsement makes it seem like,
+
+172
+00:07:29,000 --> 00:07:31,960
+well, and these guys know good stuff.
+
+173
+00:07:31,960 --> 00:07:35,160
+They wouldn't just slap their name on something.
+
+174
+00:07:35,160 --> 00:07:36,240
+Well, right, of course.
+
+175
+00:07:36,240 --> 00:07:39,760
+No one would just slap their name on anything like that.
+
+176
+00:07:39,760 --> 00:07:43,880
+Yes, there's a pretension to all of this
+
+177
+00:07:45,120 --> 00:07:49,080
+that I really like where the commercials for Customigos,
+
+178
+00:07:49,080 --> 00:07:51,880
+which we'll get into, the commercials,
+
+179
+00:07:51,880 --> 00:07:54,720
+George and Randy are out in the fields with the workers
+
+180
+00:07:54,720 --> 00:07:57,240
+and they're just breaking bread and drinking tequila.
+
+181
+00:07:57,240 --> 00:07:59,360
+They're just the regular guys.
+
+182
+00:07:59,360 --> 00:08:02,840
+They're just all in the same tax bracket.
+
+183
+00:08:02,880 --> 00:08:06,400
+They're all enjoying the same luxuries of life together.
+
+184
+00:08:06,400 --> 00:08:07,960
+And these just-
+
+185
+00:08:07,960 --> 00:08:09,480
+They're all on the same level.
+
+186
+00:08:09,480 --> 00:08:11,800
+And as I'm sure we'll get to,
+
+187
+00:08:11,800 --> 00:08:16,800
+another character has opted to do the exact same thing.
+
+188
+00:08:20,040 --> 00:08:21,320
+Yes, I think I know what you're talking about.
+
+189
+00:08:21,320 --> 00:08:22,640
+We'll get to that person.
+
+190
+00:08:23,720 --> 00:08:26,760
+But I think real quick first, what we should do,
+
+191
+00:08:26,760 --> 00:08:28,400
+and now this came out not long ago,
+
+192
+00:08:28,400 --> 00:08:31,000
+I think on a main, no, I think it was a Patreon episode,
+
+193
+00:08:31,000 --> 00:08:34,440
+that I had not tried Customigos tequila.
+
+194
+00:08:34,440 --> 00:08:36,600
+And that sent Scott into a rage.
+
+195
+00:08:36,600 --> 00:08:38,480
+He was very upset.
+
+196
+00:08:38,480 --> 00:08:39,320
+Yeah.
+
+197
+00:08:39,320 --> 00:08:42,120
+Because I think he thought my love of Customigos
+
+198
+00:08:42,120 --> 00:08:44,720
+had anything to do with the actual tequila, and it doesn't.
+
+199
+00:08:44,720 --> 00:08:46,000
+Absolutely not, no.
+
+200
+00:08:46,000 --> 00:08:48,120
+It has nothing to do with it.
+
+201
+00:08:48,120 --> 00:08:51,040
+And I pulled a U in that instance and I said,
+
+202
+00:08:51,040 --> 00:08:53,080
+well, anytime I wanted to get it as a bid, I go,
+
+203
+00:08:53,080 --> 00:08:56,640
+ooh, $45, I don't need this bit that bad.
+
+204
+00:08:57,640 --> 00:09:02,640
+Yeah, I famously, I hate spending money on comedy.
+
+205
+00:09:05,280 --> 00:09:08,800
+I feel like there are such easy ways to beg, borrow, steal
+
+206
+00:09:08,800 --> 00:09:13,800
+in comedy, especially when we were coming up at UCB.
+
+207
+00:09:14,760 --> 00:09:18,400
+It almost guarantees, at a sketch comedy theater,
+
+208
+00:09:18,400 --> 00:09:22,200
+the more money you spend on a character or a sketch,
+
+209
+00:09:22,200 --> 00:09:26,400
+the harder it's gonna, if it bombs,
+
+210
+00:09:27,240 --> 00:09:30,440
+it just stinks so much worse if you spend $100.
+
+211
+00:09:30,440 --> 00:09:31,840
+I hear what you're saying.
+
+212
+00:09:31,840 --> 00:09:33,880
+To be fair to this, it's like tequila,
+
+213
+00:09:33,880 --> 00:09:35,160
+you're not gonna throw the tequila out.
+
+214
+00:09:35,160 --> 00:09:36,800
+You can actually drink it.
+
+215
+00:09:36,800 --> 00:09:37,920
+That is true.
+
+216
+00:09:37,920 --> 00:09:40,360
+You could have a nice, oh, we're having a special night.
+
+217
+00:09:40,360 --> 00:09:42,960
+Let's crack open the Customigos, darling.
+
+218
+00:09:42,960 --> 00:09:46,200
+Yes, much more justified.
+
+219
+00:09:46,200 --> 00:09:47,760
+Yeah, because I came across a bottle
+
+220
+00:09:47,760 --> 00:09:50,040
+at the hotel gift shop in Vegas, and I was like,
+
+221
+00:09:50,040 --> 00:09:53,440
+should I, and I'm like, God knows how much the pens
+
+222
+00:09:53,440 --> 00:09:56,040
+in this gift shop cost a lot of money.
+
+223
+00:09:56,120 --> 00:09:58,920
+You and I did a show at UCB theater many years ago
+
+224
+00:09:58,920 --> 00:10:01,280
+that did not get a run, we did it once,
+
+225
+00:10:01,280 --> 00:10:03,200
+and I bought a giant roach costume
+
+226
+00:10:03,200 --> 00:10:05,360
+that I still have somewhere.
+
+227
+00:10:05,360 --> 00:10:07,520
+It's a disgusting roach costume,
+
+228
+00:10:07,520 --> 00:10:09,200
+and it was very expensive.
+
+229
+00:10:09,200 --> 00:10:11,800
+Not very expensive, but expensive.
+
+230
+00:10:11,800 --> 00:10:14,760
+I was hoping that I would get to use it more than once,
+
+231
+00:10:14,760 --> 00:10:16,800
+and now it's just sitting in a Rubbermaid
+
+232
+00:10:16,800 --> 00:10:19,720
+in the storage area of the garage.
+
+233
+00:10:19,720 --> 00:10:23,560
+Yeah, that stings a lot more than all of the Bud Light
+
+234
+00:10:23,600 --> 00:10:27,440
+Platinum's we bought for Bud Light Platinum-based bits,
+
+235
+00:10:27,440 --> 00:10:29,360
+when that was at the height of its popularity.
+
+236
+00:10:29,360 --> 00:10:32,480
+Yes, you and I played Franklin and Bash in a bit
+
+237
+00:10:32,480 --> 00:10:36,840
+in a show at UCB, and we bought a case of 18
+
+238
+00:10:37,840 --> 00:10:40,320
+Bud Light Platinum bottles, and wheeled it out
+
+239
+00:10:40,320 --> 00:10:43,760
+in a Rubbermaid on stage, and did we hand,
+
+240
+00:10:43,760 --> 00:10:46,240
+I handed them out to the people on stage, I think?
+
+241
+00:10:46,240 --> 00:10:47,920
+Not the audience, we wouldn't do that.
+
+242
+00:10:47,920 --> 00:10:50,360
+We gave them to the judges, and I have to say,
+
+243
+00:10:50,360 --> 00:10:52,840
+I've been in the middle of the desert,
+
+244
+00:10:52,840 --> 00:10:57,200
+no one around for miles, and that was still not as quiet
+
+245
+00:10:57,200 --> 00:11:00,640
+as that audience reception to seeing Franklin and Bash.
+
+246
+00:11:00,640 --> 00:11:03,760
+Well, okay, we'll give everyone a little bit of the lore here,
+
+247
+00:11:03,760 --> 00:11:06,360
+of the friendship lore, and the performance lore.
+
+248
+00:11:06,360 --> 00:11:09,640
+Yeah, we did a show at UCB, I mean, I still do the show
+
+249
+00:11:09,640 --> 00:11:13,320
+when shows happen, called The Tournament of Nerds,
+
+250
+00:11:13,320 --> 00:11:15,160
+which is not unlike other shows.
+
+251
+00:11:15,160 --> 00:11:20,160
+I've done enough debate shows online, in theaters,
+
+252
+00:11:20,480 --> 00:11:21,880
+that I'm sure everyone is confused,
+
+253
+00:11:21,880 --> 00:11:24,040
+but the first one I ever did was something called
+
+254
+00:11:24,040 --> 00:11:26,040
+Tournament of Nerds, where you would compete as a character,
+
+255
+00:11:26,040 --> 00:11:27,960
+and you would argue and debate why one character
+
+256
+00:11:27,960 --> 00:11:30,920
+would beat the other, and I had a lot of success
+
+257
+00:11:30,920 --> 00:11:35,200
+at that show doing what one might call an ironic character.
+
+258
+00:11:37,080 --> 00:11:40,800
+One of my biggest victories in life was competing
+
+259
+00:11:40,800 --> 00:11:45,800
+as the character, is the NBC character, The Cape.
+
+260
+00:11:46,480 --> 00:11:51,320
+The superhero show from a decade ago, called The Cape,
+
+261
+00:11:51,360 --> 00:11:53,640
+and I basically just got a lot of mileage out of,
+
+262
+00:11:53,640 --> 00:11:55,560
+and I think this will surprise the listener,
+
+263
+00:11:55,560 --> 00:11:57,800
+just naming the other characters on The Cape.
+
+264
+00:12:00,480 --> 00:12:03,600
+Max Malini and his underground carnival of crime,
+
+265
+00:12:04,480 --> 00:12:07,800
+I believe that's the characters and the name there.
+
+266
+00:12:07,800 --> 00:12:10,040
+Ruby was a hypnotist, I believe.
+
+267
+00:12:11,080 --> 00:12:14,840
+Yeah, so anyway, so we were basically like,
+
+268
+00:12:14,840 --> 00:12:17,560
+oh man, Franklin and Bash is gonna kill,
+
+269
+00:12:17,560 --> 00:12:21,520
+and you would get a big laugh when you would come out,
+
+270
+00:12:21,520 --> 00:12:23,320
+and they announce your character, and you know,
+
+271
+00:12:23,320 --> 00:12:25,440
+if they said like, NBC's The Cape, we'd all, ha ha,
+
+272
+00:12:25,440 --> 00:12:27,840
+everyone's laughing, clap, they say,
+
+273
+00:12:27,840 --> 00:12:31,760
+and representing Franklin and Bash, and it's like crickets,
+
+274
+00:12:31,760 --> 00:12:33,000
+and then you and I come out on stage,
+
+275
+00:12:33,000 --> 00:12:36,280
+and it's as if no one heard of Franklin and Bash,
+
+276
+00:12:36,280 --> 00:12:40,120
+the hottest USA show at the time, Breckenmire,
+
+277
+00:12:40,120 --> 00:12:43,760
+and what, Paul Mark Gosseler, is that his name?
+
+278
+00:12:43,760 --> 00:12:44,800
+Mark Paul Gosseler.
+
+279
+00:12:44,800 --> 00:12:46,320
+I said his name, I'm sorry.
+
+280
+00:12:46,320 --> 00:12:47,720
+I sound like an old man now.
+
+281
+00:12:48,640 --> 00:12:51,520
+But yeah, so we've spent, yeah,
+
+282
+00:12:51,520 --> 00:12:55,440
+liquor comedy bits different, I think,
+
+283
+00:12:55,440 --> 00:12:58,240
+because at least you can enjoy some of it.
+
+284
+00:12:58,240 --> 00:12:59,960
+Yeah, for sure.
+
+285
+00:12:59,960 --> 00:13:03,360
+So yeah, so I revealed not long ago,
+
+286
+00:13:03,360 --> 00:13:08,280
+I had never had Casamigos, and Scott was like,
+
+287
+00:13:08,280 --> 00:13:11,120
+yeah, he was very frustrated because I think he thought
+
+288
+00:13:11,120 --> 00:13:14,240
+at the very least I must have tried this once,
+
+289
+00:13:14,240 --> 00:13:15,200
+and I hadn't.
+
+290
+00:13:15,200 --> 00:13:20,200
+But today, for you, the Patreon paywalled listeners,
+
+291
+00:13:21,720 --> 00:13:26,720
+Jason and I are going to try Casamigos tequila right now.
+
+292
+00:13:28,280 --> 00:13:29,120
+Yes.
+
+293
+00:13:29,120 --> 00:13:33,200
+And give you our first review, first sip review.
+
+294
+00:13:33,200 --> 00:13:37,400
+Jason was nice enough to go get, now he got tiny bottles.
+
+295
+00:13:37,400 --> 00:13:39,480
+I got the little airplane-sized bottles.
+
+296
+00:13:39,480 --> 00:13:42,040
+How much were these tiny bottles, if I may ask?
+
+297
+00:13:42,040 --> 00:13:44,680
+Well, Mike, the universe was there waiting
+
+298
+00:13:44,680 --> 00:13:46,680
+for us, knowing it was coming,
+
+299
+00:13:46,680 --> 00:13:49,920
+because they were all on sale when I went.
+
+300
+00:13:49,920 --> 00:13:53,720
+So one of these was $5, and one of them was $6.
+
+301
+00:13:53,720 --> 00:13:55,120
+Wow, pretty good.
+
+302
+00:13:55,120 --> 00:14:00,120
+Yeah, so we've got the Blanco and we've got the Reposado.
+
+303
+00:14:00,680 --> 00:14:02,920
+Now, I did a little bit of tequila research
+
+304
+00:14:02,920 --> 00:14:05,080
+because I always wondered what was the difference.
+
+305
+00:14:05,080 --> 00:14:09,760
+So Blanco is bottled right after fermentation,
+
+306
+00:14:09,760 --> 00:14:12,880
+or aged at maximum for two months.
+
+307
+00:14:12,920 --> 00:14:16,560
+Reposado is aged for more than two months,
+
+308
+00:14:16,560 --> 00:14:18,720
+up to a year maybe.
+
+309
+00:14:18,720 --> 00:14:22,080
+There is a third variety called Añejo,
+
+310
+00:14:22,080 --> 00:14:27,080
+which is aged much longer, and that they were sold out of.
+
+311
+00:14:28,680 --> 00:14:31,680
+And I was not going to a second Bevmo.
+
+312
+00:14:31,680 --> 00:14:33,480
+So I do-
+
+313
+00:14:33,480 --> 00:14:35,840
+Sorry, which one were they sold out of again?
+
+314
+00:14:35,840 --> 00:14:39,320
+The Añejo, I believe it's pronounced.
+
+315
+00:14:40,280 --> 00:14:44,160
+My high school Spanish is pretty far behind me,
+
+316
+00:14:44,160 --> 00:14:46,720
+but I'm trying my best.
+
+317
+00:14:46,720 --> 00:14:50,920
+Yeah, so now the thing with these tequilas, all of them,
+
+318
+00:14:50,920 --> 00:14:53,760
+because I was like, oh, do I need to get salt and lime?
+
+319
+00:14:53,760 --> 00:14:55,560
+And the more I researched,
+
+320
+00:14:55,560 --> 00:14:58,920
+and right on the Cosmica's homepage it says this,
+
+321
+00:14:58,920 --> 00:15:02,520
+this is a smooth, they wanted a smooth tequila.
+
+322
+00:15:02,520 --> 00:15:04,160
+Yes, they didn't want to burn.
+
+323
+00:15:04,160 --> 00:15:06,080
+This is what I found in my research as well.
+
+324
+00:15:06,080 --> 00:15:09,240
+No burn, that's what George and Randy wanted.
+
+325
+00:15:10,120 --> 00:15:12,720
+Yes, the salt and lime are used to cover up
+
+326
+00:15:12,720 --> 00:15:15,480
+the unpleasant taste,
+
+327
+00:15:16,760 --> 00:15:19,240
+which I guess is kind of similar to cheap whiskey
+
+328
+00:15:19,240 --> 00:15:22,040
+being covered up by Coca-Cola or ginger ale.
+
+329
+00:15:23,000 --> 00:15:24,600
+If you would indulge me,
+
+330
+00:15:24,600 --> 00:15:27,640
+I'll read what Randy even said about creating the tequila.
+
+331
+00:15:27,640 --> 00:15:28,800
+I wish you would.
+
+332
+00:15:28,800 --> 00:15:30,720
+Okay, here we go.
+
+333
+00:15:30,720 --> 00:15:32,920
+He said, Casamigos was created out of our desire
+
+334
+00:15:32,920 --> 00:15:34,560
+to drink the best tequila.
+
+335
+00:15:34,560 --> 00:15:37,480
+At the time, George and I were building homes in Mexico,
+
+336
+00:15:37,480 --> 00:15:40,440
+and as one does when you spend time in Mexico,
+
+337
+00:15:40,440 --> 00:15:42,640
+we were drinking a lot of tequila.
+
+338
+00:15:42,640 --> 00:15:44,440
+We would go to different restaurants and bars,
+
+339
+00:15:44,440 --> 00:15:46,520
+and bartenders would suggest different tequilas,
+
+340
+00:15:46,520 --> 00:15:48,760
+some really expensive, some not so expensive,
+
+341
+00:15:48,760 --> 00:15:50,800
+some good, some not so good.
+
+342
+00:15:50,800 --> 00:15:55,080
+They all had one thing in common, they burned going down.
+
+343
+00:15:55,080 --> 00:15:57,880
+With that, George turned to me and said,
+
+344
+00:15:57,880 --> 00:15:59,880
+why don't we just make our own,
+
+345
+00:15:59,880 --> 00:16:02,240
+one that's perfect for us?
+
+346
+00:16:02,240 --> 00:16:03,880
+So we did.
+
+347
+00:16:03,880 --> 00:16:06,680
+That's straight from Randy Gerber's mouth, folks.
+
+348
+00:16:06,720 --> 00:16:11,360
+That's the origin story of Casamigos.
+
+349
+00:16:11,360 --> 00:16:13,480
+And they also, a lot in the press,
+
+350
+00:16:13,480 --> 00:16:15,360
+if you read a lot of their press on their website,
+
+351
+00:16:15,360 --> 00:16:18,560
+it's a lot of like, we just were doing it for ourselves.
+
+352
+00:16:18,560 --> 00:16:20,640
+We didn't even intend to start a business.
+
+353
+00:16:20,640 --> 00:16:24,720
+Yes, they intended to just have a private label
+
+354
+00:16:24,720 --> 00:16:27,400
+for themselves and family and friends.
+
+355
+00:16:27,400 --> 00:16:30,560
+And then I'm sure someone swept in and was like,
+
+356
+00:16:30,560 --> 00:16:32,200
+you can make some real money on this.
+
+357
+00:16:32,200 --> 00:16:35,920
+Well, I think you're actually giving them a little too much.
+
+358
+00:16:35,920 --> 00:16:38,640
+My feeling is that story's bullshit.
+
+359
+00:16:38,640 --> 00:16:40,480
+That's entirely possible, yeah.
+
+360
+00:16:41,600 --> 00:16:46,080
+Celebrity restaurants, even more so celebrity liquor.
+
+361
+00:16:46,080 --> 00:16:47,840
+There's so many people where you're like,
+
+362
+00:16:47,840 --> 00:16:49,960
+Ryan Reynolds had a liquor company?
+
+363
+00:16:51,400 --> 00:16:53,640
+Yeah, my guess, and look,
+
+364
+00:16:53,640 --> 00:16:56,640
+I guess this is maybe sort of insulting George and Randy,
+
+365
+00:16:56,640 --> 00:16:58,080
+no disrespect.
+
+366
+00:16:58,080 --> 00:17:00,760
+My guess is the actual story is
+
+367
+00:17:00,760 --> 00:17:03,840
+they were both pulled into a meeting at CAA,
+
+368
+00:17:03,880 --> 00:17:06,400
+and they go, all right, here's what's selling.
+
+369
+00:17:06,400 --> 00:17:09,080
+Tequila, celebrity endorsements.
+
+370
+00:17:09,080 --> 00:17:11,600
+You guys sign on the dotted line here,
+
+371
+00:17:11,600 --> 00:17:12,880
+and we can make this happen.
+
+372
+00:17:12,880 --> 00:17:14,360
+And they go, okay.
+
+373
+00:17:14,360 --> 00:17:15,880
+I mean, I think it might be closer to that.
+
+374
+00:17:15,880 --> 00:17:18,760
+I don't know if George or Randy wanna come on podcast,
+
+375
+00:17:18,760 --> 00:17:20,560
+all right, I'd love it.
+
+376
+00:17:20,560 --> 00:17:23,000
+And I want them to tell me I'm full of shit,
+
+377
+00:17:23,000 --> 00:17:23,960
+if that's the case.
+
+378
+00:17:24,800 --> 00:17:25,640
+Yeah.
+
+379
+00:17:25,640 --> 00:17:27,760
+But that's the lore, that's the legend of Casamigos,
+
+380
+00:17:27,760 --> 00:17:29,200
+which I choose to believe.
+
+381
+00:17:29,200 --> 00:17:31,360
+Sometimes the legend is more important to believe
+
+382
+00:17:31,360 --> 00:17:32,840
+than the actual truth.
+
+383
+00:17:32,880 --> 00:17:35,480
+And I think we should believe the legend.
+
+384
+00:17:35,480 --> 00:17:39,520
+So, we have the tequila in front of us,
+
+385
+00:17:39,520 --> 00:17:42,880
+and I have two little glasses, and it's sipping.
+
+386
+00:17:42,880 --> 00:17:45,000
+You can sip it, which, because there's no burn.
+
+387
+00:17:45,000 --> 00:17:46,120
+Yeah, that's good.
+
+388
+00:17:46,120 --> 00:17:48,080
+I mean, we've done a number of episodes
+
+389
+00:17:48,080 --> 00:17:51,280
+where we've either imbibed beforehand or during.
+
+390
+00:17:51,280 --> 00:17:55,320
+I find I get very exhausted and sluggish,
+
+391
+00:17:55,320 --> 00:17:57,880
+and I feel bad I'm not being entertaining
+
+392
+00:17:57,880 --> 00:17:59,800
+to our wonderful listeners.
+
+393
+00:17:59,800 --> 00:18:04,680
+So, there'll be less of that kind of episodes burn,
+
+394
+00:18:04,680 --> 00:18:07,440
+if you will, and there'll be more just pleasant sipping.
+
+395
+00:18:07,440 --> 00:18:09,600
+So, I guess let's start with the Blanco.
+
+396
+00:18:10,480 --> 00:18:11,560
+That's the clear one?
+
+397
+00:18:11,560 --> 00:18:13,040
+Yeah, that's the clear one.
+
+398
+00:18:13,040 --> 00:18:14,200
+Because- I'll sip it right here,
+
+399
+00:18:14,200 --> 00:18:15,360
+and I'm gonna let the listener-
+
+400
+00:18:15,360 --> 00:18:17,680
+That is the least aged.
+
+401
+00:18:17,680 --> 00:18:20,280
+I will say now, this episode is coming to you
+
+402
+00:18:20,280 --> 00:18:22,040
+in binaural audio.
+
+403
+00:18:23,440 --> 00:18:25,200
+So, you can put on your headphones
+
+404
+00:18:25,200 --> 00:18:26,920
+and listen to Jason and I drink,
+
+405
+00:18:26,920 --> 00:18:30,080
+which is one of the greatest sounds you can ever hear
+
+406
+00:18:30,080 --> 00:18:31,720
+the human mouth make.
+
+407
+00:18:31,720 --> 00:18:33,720
+Very good, and I've poured some of mine over ice
+
+408
+00:18:33,720 --> 00:18:37,760
+because I do not particularly enjoy drinking lukewarm.
+
+409
+00:18:37,760 --> 00:18:41,400
+I mean, I'll drink lukewarm water, you know, if-
+
+410
+00:18:41,400 --> 00:18:42,240
+All day long.
+
+411
+00:18:42,240 --> 00:18:44,960
+I have to, I prefer cold beverages.
+
+412
+00:18:44,960 --> 00:18:46,600
+I do not like lukewarm beverages,
+
+413
+00:18:46,600 --> 00:18:49,600
+especially lukewarm liquor, so.
+
+414
+00:18:49,600 --> 00:18:51,880
+Okay, so here we go, here we go, listen up.
+
+415
+00:18:52,800 --> 00:18:57,800
+It is very smooth.
+
+416
+00:18:59,320 --> 00:19:03,480
+I will say, and I look, I'm not a huge drinker,
+
+417
+00:19:03,480 --> 00:19:06,600
+but I will say there's a slight tingle,
+
+418
+00:19:06,600 --> 00:19:08,800
+but it's nothing crazy.
+
+419
+00:19:08,800 --> 00:19:09,680
+It is- No.
+
+420
+00:19:09,680 --> 00:19:13,960
+It's not a burn, because he has a normal tequila.
+
+421
+00:19:13,960 --> 00:19:16,560
+I would be coughing like crazy right now.
+
+422
+00:19:16,560 --> 00:19:18,160
+Wow.
+
+423
+00:19:18,160 --> 00:19:19,120
+Wow, cool, you know what?
+
+424
+00:19:19,120 --> 00:19:24,120
+Kudos to George and Randy on fulfilling that promise.
+
+425
+00:19:25,360 --> 00:19:29,960
+Let's see if the other one does the same thing.
+
+426
+00:19:29,960 --> 00:19:31,800
+Yeah, and that was like the entry,
+
+427
+00:19:31,800 --> 00:19:35,400
+like Blanco is the, often mixed with something
+
+428
+00:19:35,400 --> 00:19:37,000
+because it's usually a cheaper one,
+
+429
+00:19:37,000 --> 00:19:38,040
+but that was pretty pleasant.
+
+430
+00:19:38,040 --> 00:19:40,680
+So let's try the middle grade.
+
+431
+00:19:40,680 --> 00:19:41,720
+All right, listen up.
+
+432
+00:19:41,720 --> 00:19:42,720
+Also pretty good.
+
+433
+00:19:42,720 --> 00:19:45,720
+Also the same level of, wow, interesting.
+
+434
+00:19:46,600 --> 00:19:47,920
+I mean, yeah, it's like, obviously,
+
+435
+00:19:47,920 --> 00:19:49,600
+you know you're drinking alcohol,
+
+436
+00:19:49,600 --> 00:19:53,600
+but if I were to straight, and these aren't freezing,
+
+437
+00:19:53,600 --> 00:19:55,800
+if I were to add a regular tequila,
+
+438
+00:19:55,800 --> 00:19:56,640
+that would have been crazy.
+
+439
+00:19:56,640 --> 00:19:58,440
+I would be going nuts right now.
+
+440
+00:19:58,440 --> 00:19:59,760
+I'd be going wild.
+
+441
+00:19:59,760 --> 00:20:02,640
+Wow, so they did it, so they did it.
+
+442
+00:20:02,640 --> 00:20:04,960
+They did it, they did a good job, yeah.
+
+443
+00:20:04,960 --> 00:20:06,920
+So I'm gonna go with the middle grade.
+
+444
+00:20:06,920 --> 00:20:08,760
+I'm gonna go with the middle grade.
+
+445
+00:20:09,320 --> 00:20:11,840
+They did it, they did a good job, yeah.
+
+446
+00:20:11,840 --> 00:20:14,560
+And one of the facts I like is that,
+
+447
+00:20:14,560 --> 00:20:16,560
+they have sold the company, as we said,
+
+448
+00:20:16,560 --> 00:20:17,840
+they've sold the company,
+
+449
+00:20:17,840 --> 00:20:21,160
+but Randy still goes to the office every day.
+
+450
+00:20:21,160 --> 00:20:23,280
+They're still involved.
+
+451
+00:20:23,280 --> 00:20:25,600
+Oh, and they're still all over the website.
+
+452
+00:20:25,600 --> 00:20:28,760
+Like, you know, when they sold to,
+
+453
+00:20:28,760 --> 00:20:31,680
+do you know how to pronounce the name of this company
+
+454
+00:20:31,680 --> 00:20:33,280
+they sold to?
+
+455
+00:20:33,280 --> 00:20:34,120
+I mean-
+
+456
+00:20:34,120 --> 00:20:35,120
+You do it.
+
+457
+00:20:35,120 --> 00:20:39,280
+Well, we'll all probably be working for this company.
+
+458
+00:20:41,040 --> 00:20:42,880
+I was trying to remember this company came up
+
+459
+00:20:42,880 --> 00:20:44,280
+on the Downtown Disney or Deal,
+
+460
+00:20:44,280 --> 00:20:46,600
+because one of the themes for me on that
+
+461
+00:20:46,600 --> 00:20:47,920
+was just how like, oh yeah,
+
+462
+00:20:47,920 --> 00:20:51,200
+there's only five companies that own everything.
+
+463
+00:20:54,400 --> 00:20:58,280
+I don't know if it's Dege-Gio or J-Gio.
+
+464
+00:20:59,320 --> 00:21:03,840
+It's a massive, oh no, De-A-Gio, I think it's-
+
+465
+00:21:03,840 --> 00:21:04,680
+De-A-Gio?
+
+466
+00:21:05,360 --> 00:21:07,120
+I'm gonna guess it's De-A-Gio.
+
+467
+00:21:07,120 --> 00:21:09,760
+This is a massive beverage concern
+
+468
+00:21:09,760 --> 00:21:12,480
+that owns like Johnny Walker,
+
+469
+00:21:13,320 --> 00:21:15,040
+black and white Scotch,
+
+470
+00:21:15,040 --> 00:21:19,480
+Walt Disney, famously loved black and white Scotch.
+
+471
+00:21:19,480 --> 00:21:20,600
+What else do they own?
+
+472
+00:21:20,600 --> 00:21:25,600
+They own Bullet, and Seagram Seven Crown, and Crown Royal,
+
+473
+00:21:25,920 --> 00:21:28,200
+Smirnoff, Captain Morgan,
+
+474
+00:21:30,400 --> 00:21:32,840
+Bailey's, a liquor-
+
+475
+00:21:32,840 --> 00:21:35,040
+Whoa, a liquor called Sheridan's.
+
+476
+00:21:35,040 --> 00:21:38,880
+I do not know about this liquor.
+
+477
+00:21:38,880 --> 00:21:40,320
+Is it spelled like yours?
+
+478
+00:21:40,320 --> 00:21:41,800
+Yes, it sure is.
+
+479
+00:21:41,800 --> 00:21:43,480
+Oh my God, do you have a liquor?
+
+480
+00:21:43,480 --> 00:21:44,880
+I guess so.
+
+481
+00:21:44,880 --> 00:21:47,440
+Gosh, and that's gonna step all over a bit later.
+
+482
+00:21:49,800 --> 00:21:51,520
+They also own Don Coolio,
+
+483
+00:21:51,520 --> 00:21:53,880
+so they already own a tequila.
+
+484
+00:21:53,880 --> 00:21:55,520
+How did you not know about Sheridan's?
+
+485
+00:21:55,520 --> 00:21:58,520
+And it's got a bottle that looks like a dick and balls.
+
+486
+00:22:00,520 --> 00:22:01,640
+Holy shit.
+
+487
+00:22:01,640 --> 00:22:02,680
+Holy shit.
+
+488
+00:22:03,520 --> 00:22:04,360
+Do you see this?
+
+489
+00:22:04,360 --> 00:22:07,280
+Let me see, send it, screen share it.
+
+490
+00:22:08,320 --> 00:22:12,360
+Holy, whoa, folks, this is an unplanned,
+
+491
+00:22:12,360 --> 00:22:15,680
+this is the magic of Podcast The Ride, here we go.
+
+492
+00:22:15,680 --> 00:22:17,320
+Is that not?
+
+493
+00:22:17,320 --> 00:22:19,360
+Wow, that is,
+
+494
+00:22:20,480 --> 00:22:25,240
+yeah, that is not an aesthetically pleasing bottle.
+
+495
+00:22:25,240 --> 00:22:28,600
+So it's a coffee layered liqueur,
+
+496
+00:22:28,600 --> 00:22:30,440
+and it's got two different sides.
+
+497
+00:22:30,440 --> 00:22:33,960
+It's almost like the ketchup and mustard in the same pack,
+
+498
+00:22:33,960 --> 00:22:38,960
+or the peanut butter and jelly in the same bottle,
+
+499
+00:22:40,080 --> 00:22:41,920
+but it's got two separate things,
+
+500
+00:22:41,920 --> 00:22:45,560
+and it's got, I assume, vanilla on the top,
+
+501
+00:22:45,560 --> 00:22:48,560
+and that would be the top of the penis shaft.
+
+502
+00:22:48,560 --> 00:22:51,840
+And then the bottom, where the scrotum is,
+
+503
+00:22:51,840 --> 00:22:53,680
+is full of coffee.
+
+504
+00:22:54,960 --> 00:22:57,280
+The jug's full of coffee layered liqueur.
+
+505
+00:22:58,080 --> 00:22:58,920
+Yeah, sorry.
+
+506
+00:22:58,920 --> 00:23:00,480
+And still has a foreskin.
+
+507
+00:23:00,480 --> 00:23:04,680
+Let's be clear, this bottle is not circumcised.
+
+508
+00:23:04,680 --> 00:23:09,680
+Okay, so Sheridan's coffee layered liqueur
+
+509
+00:23:10,080 --> 00:23:15,080
+is a bottle that has a vanilla top coffee cream shaft,
+
+510
+00:23:16,880 --> 00:23:21,200
+a coffee scrotum, and a coffee foreskin.
+
+511
+00:23:22,520 --> 00:23:26,280
+This is a shocking and unpleasant discovery.
+
+512
+00:23:26,280 --> 00:23:28,560
+This is the greatest thing to happen to the podcast
+
+513
+00:23:29,200 --> 00:23:30,240
+in a long time, I feel.
+
+514
+00:23:30,240 --> 00:23:32,200
+Maybe since the Downtown Disney ordeal.
+
+515
+00:23:32,200 --> 00:23:34,480
+I guess everyone's getting a bottle of Sheridan's
+
+516
+00:23:34,480 --> 00:23:36,120
+for Christmas.
+
+517
+00:23:36,120 --> 00:23:36,960
+I do-
+
+518
+00:23:36,960 --> 00:23:38,400
+How do you not know about this?
+
+519
+00:23:38,400 --> 00:23:39,400
+I don't know.
+
+520
+00:23:39,400 --> 00:23:41,640
+I guess I just need to Google my name.
+
+521
+00:23:41,640 --> 00:23:44,880
+I just keep getting, like, anytime I've gotten
+
+522
+00:23:44,880 --> 00:23:47,080
+a Google alert for my name recently,
+
+523
+00:23:47,080 --> 00:23:51,560
+it's just been about this guy who runs gyms in England,
+
+524
+00:23:51,560 --> 00:23:54,520
+who's like, I sure hope I can reopen gyms soon.
+
+525
+00:23:54,920 --> 00:23:59,200
+But there's no discourse around Sheridan's
+
+526
+00:23:59,200 --> 00:24:01,280
+coffee layered liqueur.
+
+527
+00:24:01,280 --> 00:24:02,120
+Oh, wow.
+
+528
+00:24:02,120 --> 00:24:05,880
+You need to be a spokesman for this.
+
+529
+00:24:05,880 --> 00:24:09,720
+Yeah, I mean, I wonder if it's good in,
+
+530
+00:24:09,720 --> 00:24:14,320
+I do like a splash of like Amaretto or Jameson in my coffee.
+
+531
+00:24:15,480 --> 00:24:20,480
+So when you take off the foreskin, the coffee foreskin,
+
+532
+00:24:20,800 --> 00:24:24,120
+I wonder, yeah, how does it, how, what does it look,
+
+533
+00:24:24,120 --> 00:24:25,280
+let me look, let me find it.
+
+534
+00:24:25,280 --> 00:24:28,520
+Let me look what it looks like without the foreskin
+
+535
+00:24:28,520 --> 00:24:31,600
+or when it's fully engorged.
+
+536
+00:24:31,600 --> 00:24:33,800
+I think that foreskin is important though.
+
+537
+00:24:33,800 --> 00:24:35,440
+I think it comes out.
+
+538
+00:24:35,440 --> 00:24:36,280
+I think it comes out.
+
+539
+00:24:36,280 --> 00:24:37,280
+Oh yeah, you're right.
+
+540
+00:24:37,280 --> 00:24:38,520
+Look it, I got a picture here.
+
+541
+00:24:38,520 --> 00:24:39,360
+See it here?
+
+542
+00:24:39,360 --> 00:24:40,840
+Yeah, twists.
+
+543
+00:24:40,840 --> 00:24:43,640
+I think they have that cap on,
+
+544
+00:24:43,640 --> 00:24:45,840
+so you get both simultaneously.
+
+545
+00:24:45,840 --> 00:24:48,080
+Okay, so the foreskin twists
+
+546
+00:24:48,080 --> 00:24:53,080
+and then you can get a good blend of the coffee and vanilla.
+
+547
+00:24:53,080 --> 00:24:57,520
+Wow, it's got a scrotum reservoir.
+
+548
+00:24:57,520 --> 00:24:58,680
+This is insane.
+
+549
+00:24:58,680 --> 00:25:00,880
+Why wouldn't it just be the same?
+
+550
+00:25:00,880 --> 00:25:03,160
+Why wouldn't it be symmetrical?
+
+551
+00:25:03,160 --> 00:25:05,600
+This is like we're back in Europe for you
+
+552
+00:25:05,600 --> 00:25:09,600
+except we're in the highlands of Jalisco, Mexico.
+
+553
+00:25:09,600 --> 00:25:12,440
+I reverted back last week, but now I'm back.
+
+554
+00:25:12,440 --> 00:25:14,720
+Seeing this penis bottle with your name on it
+
+555
+00:25:14,720 --> 00:25:16,400
+has got me really excited.
+
+556
+00:25:17,240 --> 00:25:20,320
+Wow, look, I guess it's obviously, it's more coffee based
+
+557
+00:25:20,320 --> 00:25:22,760
+because that's, you want more of that in the drink
+
+558
+00:25:22,760 --> 00:25:25,360
+than you want the cream or the vanilla, whatever it is.
+
+559
+00:25:25,360 --> 00:25:27,520
+Yeah, but you don't see it like Bailey's
+
+560
+00:25:27,520 --> 00:25:30,320
+is just a regular bottle, you know?
+
+561
+00:25:30,320 --> 00:25:31,280
+Right.
+
+562
+00:25:32,520 --> 00:25:34,920
+God, are there commercials where it's like,
+
+563
+00:25:34,920 --> 00:25:37,240
+hi, hello, I'm Jason Sheridan.
+
+564
+00:25:39,080 --> 00:25:41,240
+I created Sheridan's.
+
+565
+00:25:42,240 --> 00:25:45,880
+I molded the bottle after a certain appendage.
+
+566
+00:25:45,880 --> 00:25:49,040
+Someone, there is a video of the pouring.
+
+567
+00:25:49,040 --> 00:25:52,280
+Someone did record the pouring.
+
+568
+00:25:52,320 --> 00:25:55,920
+Wow, well, we have to figure out
+
+569
+00:25:55,920 --> 00:25:58,000
+what to do with this information.
+
+570
+00:25:58,800 --> 00:25:59,640
+Yeah. I don't know.
+
+571
+00:25:59,640 --> 00:26:00,920
+This is really throwing me for a loop
+
+572
+00:26:00,920 --> 00:26:02,120
+because I had a whole plan here
+
+573
+00:26:02,120 --> 00:26:04,920
+and this is actually so exciting.
+
+574
+00:26:04,920 --> 00:26:06,000
+You know?
+
+575
+00:26:06,000 --> 00:26:07,960
+But yeah, all right, well, we'll come back.
+
+576
+00:26:07,960 --> 00:26:10,160
+We'll do the research and come back to this
+
+577
+00:26:10,160 --> 00:26:11,360
+at a different time.
+
+578
+00:26:12,520 --> 00:26:13,640
+Well, sir, go back.
+
+579
+00:26:14,920 --> 00:26:17,880
+The other surprising thing to learn about this beverage,
+
+580
+00:26:17,880 --> 00:26:19,960
+like massive beverage company,
+
+581
+00:26:19,960 --> 00:26:24,240
+they also own Guinness and Harp.
+
+582
+00:26:24,240 --> 00:26:25,880
+Like they own beers, too.
+
+583
+00:26:25,880 --> 00:26:29,360
+They own so many and I forget.
+
+584
+00:26:29,360 --> 00:26:33,560
+InBev is one of the other big beverage conglomerates,
+
+585
+00:26:33,560 --> 00:26:37,000
+but yeah, everyone owns,
+
+586
+00:26:37,000 --> 00:26:39,640
+everything is owned by something nowadays.
+
+587
+00:26:39,640 --> 00:26:43,200
+InBev sounds like a Skynet type company.
+
+588
+00:26:43,200 --> 00:26:44,040
+Yeah.
+
+589
+00:26:44,040 --> 00:26:47,240
+InBev and the bottles will come to life.
+
+590
+00:26:47,240 --> 00:26:50,080
+Yeah, so they're owned by that company,
+
+591
+00:26:50,080 --> 00:26:55,080
+but George and Randy still taste every batch.
+
+592
+00:26:56,040 --> 00:26:56,880
+Oh.
+
+593
+00:26:56,880 --> 00:26:57,720
+That's what I read.
+
+594
+00:26:57,720 --> 00:26:58,600
+That's what they say.
+
+595
+00:26:58,600 --> 00:26:59,760
+I don't know how that works.
+
+596
+00:26:59,760 --> 00:27:01,720
+I don't know how big the batch is.
+
+597
+00:27:01,720 --> 00:27:02,720
+I assume pretty big.
+
+598
+00:27:02,720 --> 00:27:04,120
+You wouldn't think that they,
+
+599
+00:27:04,120 --> 00:27:05,760
+that George and Randy took a little swig
+
+600
+00:27:05,760 --> 00:27:09,200
+of each of these little bottles before we got to them.
+
+601
+00:27:09,200 --> 00:27:11,240
+And then they put the cap back on and then-
+
+602
+00:27:11,240 --> 00:27:12,560
+They put the cap back on.
+
+603
+00:27:12,560 --> 00:27:13,960
+Put the plastic.
+
+604
+00:27:13,960 --> 00:27:17,080
+Randy Gerber like took his tongue and just like,
+
+605
+00:27:17,920 --> 00:27:18,880
+licked the outside of the bottle
+
+606
+00:27:18,880 --> 00:27:22,000
+and then screwed it back on and put it in the Bevmo?
+
+607
+00:27:22,000 --> 00:27:24,240
+I did see, you know,
+
+608
+00:27:24,240 --> 00:27:28,320
+I think we went into the Mexico Pavilion real quick
+
+609
+00:27:28,320 --> 00:27:30,560
+when we were in Epcot last fall.
+
+610
+00:27:30,560 --> 00:27:34,680
+And I got an avocado margarita to go,
+
+611
+00:27:34,680 --> 00:27:37,160
+cause I mean, they make really good margaritas there.
+
+612
+00:27:37,160 --> 00:27:42,160
+And then they do have the Casa Amigos varieties
+
+613
+00:27:42,680 --> 00:27:43,880
+on the menu,
+
+614
+00:27:43,880 --> 00:27:46,320
+but not in any mixed drinks
+
+615
+00:27:46,320 --> 00:27:48,200
+because they're sipping tequila.
+
+616
+00:27:48,200 --> 00:27:53,200
+So you're not gonna bury it in a mixed drink?
+
+617
+00:27:53,920 --> 00:27:57,120
+We had the mixed drinks there at Epcot last time,
+
+618
+00:27:57,120 --> 00:27:58,480
+which I was a little,
+
+619
+00:27:58,480 --> 00:28:00,040
+it's easier to go to the bar.
+
+620
+00:28:00,040 --> 00:28:00,880
+If you don't know what we're talking about,
+
+621
+00:28:00,880 --> 00:28:02,840
+there's a tequila bar in the Mexico Pavilion
+
+622
+00:28:02,840 --> 00:28:05,120
+and Epcot Center in the World Showcase.
+
+623
+00:28:05,120 --> 00:28:06,760
+And it's the greatest,
+
+624
+00:28:06,760 --> 00:28:10,400
+it's still I think my favorite pavilion probably.
+
+625
+00:28:10,400 --> 00:28:13,600
+I mean, just being able to be like transported
+
+626
+00:28:13,600 --> 00:28:16,040
+to like a night market in the sky.
+
+627
+00:28:16,880 --> 00:28:17,840
+There's the restaurant there.
+
+628
+00:28:17,840 --> 00:28:20,720
+There's of course the Mexico Boat Ride,
+
+629
+00:28:20,720 --> 00:28:22,880
+Scott's name for it.
+
+630
+00:28:22,880 --> 00:28:23,960
+There's a lot of like great,
+
+631
+00:28:23,960 --> 00:28:28,120
+like artisanal toys and neat stuff.
+
+632
+00:28:28,120 --> 00:28:30,680
+And then there's also, yeah,
+
+633
+00:28:30,680 --> 00:28:31,880
+there's this little tequila bar,
+
+634
+00:28:31,880 --> 00:28:33,400
+which is a nice little hole in the wall,
+
+635
+00:28:33,400 --> 00:28:34,680
+which is what you kind of want.
+
+636
+00:28:34,680 --> 00:28:38,240
+Like the stuff that we kind of pine for,
+
+637
+00:28:38,240 --> 00:28:39,680
+I think at these theme parks and stuff,
+
+638
+00:28:39,680 --> 00:28:41,600
+I'm gonna do a little theme park talk here,
+
+639
+00:28:41,600 --> 00:28:42,880
+is like things like that,
+
+640
+00:28:42,880 --> 00:28:44,200
+that feel kind of special,
+
+641
+00:28:44,200 --> 00:28:48,320
+like Abracadabra over on the boardwalk.
+
+642
+00:28:48,320 --> 00:28:49,880
+It's like, it's tiny, it's small.
+
+643
+00:28:49,880 --> 00:28:52,440
+It feels like this is a little thing you found.
+
+644
+00:28:52,440 --> 00:28:54,400
+And that's the same way that the tequila bar
+
+645
+00:28:54,400 --> 00:28:55,800
+in the Mexico Pavilion is.
+
+646
+00:28:55,800 --> 00:28:58,920
+But it's hard to get a seat in there,
+
+647
+00:28:58,920 --> 00:29:01,000
+because it's so small.
+
+648
+00:29:01,000 --> 00:29:03,480
+So we only did, they only give you like the mixed drinks
+
+649
+00:29:03,480 --> 00:29:06,120
+when you're just walking up to the bar
+
+650
+00:29:06,120 --> 00:29:08,800
+to order and then leave, which is what we were doing.
+
+651
+00:29:08,800 --> 00:29:12,440
+But yes, I would have loved to sip Casamigos
+
+652
+00:29:12,440 --> 00:29:13,800
+sitting in there.
+
+653
+00:29:13,800 --> 00:29:17,760
+Yes, I believe we guzzled that down,
+
+654
+00:29:18,680 --> 00:29:21,800
+left the building, or like I was in the process
+
+655
+00:29:21,800 --> 00:29:24,320
+of guzzling it down or eating like,
+
+656
+00:29:26,160 --> 00:29:28,360
+eating something from a food stand.
+
+657
+00:29:28,360 --> 00:29:31,680
+And Scott and Eric right shortly thereafter were like,
+
+658
+00:29:31,680 --> 00:29:33,760
+we're having a baby.
+
+659
+00:29:33,760 --> 00:29:35,920
+And I was like, oh, oh wow.
+
+660
+00:29:37,560 --> 00:29:38,640
+Mouthful.
+
+661
+00:29:38,640 --> 00:29:41,800
+Mouthful of avocado or raclette or something.
+
+662
+00:29:42,360 --> 00:29:43,280
+Mm-hmm.
+
+663
+00:29:43,280 --> 00:29:46,680
+That is, yeah, that is like right outside that pavilion
+
+664
+00:29:46,680 --> 00:29:48,320
+is where we found out.
+
+665
+00:29:48,320 --> 00:29:49,160
+Yeah.
+
+666
+00:29:49,160 --> 00:29:50,120
+Last year.
+
+667
+00:29:50,120 --> 00:29:52,480
+So we will always remember that spot.
+
+668
+00:29:52,480 --> 00:29:56,960
+Mere yards away from where I saw the Baja Men.
+
+669
+00:29:56,960 --> 00:29:57,800
+Yeah.
+
+670
+00:29:58,720 --> 00:30:01,480
+I mean, hundreds of, maybe hundreds of yards,
+
+671
+00:30:01,480 --> 00:30:02,640
+but not far.
+
+672
+00:30:03,560 --> 00:30:07,240
+Casamigos, the Baja Men, the miracle of life,
+
+673
+00:30:07,240 --> 00:30:09,200
+everything happens at Epcot.
+
+674
+00:30:09,200 --> 00:30:10,040
+The World Showcase,
+
+675
+00:30:10,040 --> 00:30:11,880
+I've said this probably on the show before,
+
+676
+00:30:11,880 --> 00:30:15,920
+the World Showcase is the one thing from Disney World
+
+677
+00:30:15,920 --> 00:30:20,160
+that I would trade a lot from Disneyland for.
+
+678
+00:30:21,560 --> 00:30:22,920
+I think that's fair.
+
+679
+00:30:22,920 --> 00:30:25,720
+As an adult, obviously,
+
+680
+00:30:25,720 --> 00:30:27,400
+to be able to have like a World Showcase,
+
+681
+00:30:27,400 --> 00:30:29,880
+obviously they were gonna do a version of it with Westcott,
+
+682
+00:30:29,880 --> 00:30:31,240
+which didn't get built.
+
+683
+00:30:32,120 --> 00:30:35,760
+But that is the one thing I go, oh man,
+
+684
+00:30:35,760 --> 00:30:38,640
+I really, I would trade, I would trade big for that.
+
+685
+00:30:39,640 --> 00:30:41,120
+I think.
+
+686
+00:30:41,120 --> 00:30:43,640
+Would I trade, let me see, let me think about this.
+
+687
+00:30:43,640 --> 00:30:45,280
+Would I trade in Credit Coaster?
+
+688
+00:30:45,280 --> 00:30:47,880
+Okay, what would be the fair trade?
+
+689
+00:30:47,880 --> 00:30:51,440
+I would trade in Credit Coaster, Sorin,
+
+690
+00:30:54,640 --> 00:30:57,640
+the whole pier, Toy Story, Midway Mania.
+
+691
+00:30:57,640 --> 00:30:59,520
+These are all rides I like a lot.
+
+692
+00:31:00,520 --> 00:31:02,480
+I don't wanna give up Guardians.
+
+693
+00:31:02,480 --> 00:31:05,760
+So that'll be the only E-ticket there.
+
+694
+00:31:06,760 --> 00:31:09,080
+They can have the Quinjet.
+
+695
+00:31:09,080 --> 00:31:11,600
+They can have the newly installed Quinjet
+
+696
+00:31:11,600 --> 00:31:15,320
+that they finished before they finished Sidewalks.
+
+697
+00:31:15,320 --> 00:31:16,440
+Yes, I saw that.
+
+698
+00:31:16,440 --> 00:31:18,720
+Well, it's harder to get a giant jet up there
+
+699
+00:31:18,720 --> 00:31:22,080
+than it is to pave some sidewalks.
+
+700
+00:31:23,360 --> 00:31:25,840
+I think I would be okay with the trade-off.
+
+701
+00:31:25,840 --> 00:31:28,520
+Bye-bye in Credit Coaster, bye-bye Sorin,
+
+702
+00:31:28,520 --> 00:31:33,520
+bye-bye Midway Mania, bye-bye Raft Ride.
+
+703
+00:31:33,600 --> 00:31:37,480
+And then the whole pier, if you could put in
+
+704
+00:31:37,480 --> 00:31:41,080
+at least like 75% of a World Showcase.
+
+705
+00:31:41,080 --> 00:31:41,920
+Yeah.
+
+706
+00:31:41,920 --> 00:31:44,960
+There'll still be one or two rides in there too,
+
+707
+00:31:44,960 --> 00:31:46,600
+but the space is not gonna have it.
+
+708
+00:31:46,600 --> 00:31:49,360
+It's not gonna be able to be like a giant in Credit Coaster.
+
+709
+00:31:49,360 --> 00:31:50,920
+I think that's fair.
+
+710
+00:31:50,920 --> 00:31:52,000
+Maybe I'm crazy.
+
+711
+00:31:52,000 --> 00:31:52,840
+I think that's fair.
+
+712
+00:31:52,840 --> 00:31:57,280
+I mean, you definitely, you gotta give away a lot.
+
+713
+00:31:57,280 --> 00:31:59,080
+You gotta back the truck up, you know,
+
+714
+00:31:59,080 --> 00:32:00,360
+cause you're doing it.
+
+715
+00:32:00,400 --> 00:32:04,200
+It's like when you would trade like five superhero cards,
+
+716
+00:32:04,200 --> 00:32:07,160
+like five trading cards for one card that like,
+
+717
+00:32:07,160 --> 00:32:09,400
+I really want this one, you know?
+
+718
+00:32:09,400 --> 00:32:13,640
+Yeah, you gotta make it so you can't turn the deal down.
+
+719
+00:32:13,640 --> 00:32:14,480
+Yeah.
+
+720
+00:32:14,480 --> 00:32:16,360
+You have to make the deal undeniable.
+
+721
+00:32:16,360 --> 00:32:19,040
+So yeah, I think that's, yeah, with World Showcase.
+
+722
+00:32:19,040 --> 00:32:20,480
+All right, stop the theme park talk.
+
+723
+00:32:20,480 --> 00:32:22,320
+Back to celebrity tequila.
+
+724
+00:32:24,400 --> 00:32:25,760
+So yeah, so we're having this.
+
+725
+00:32:25,760 --> 00:32:27,840
+I will say as I'm drinking it,
+
+726
+00:32:27,840 --> 00:32:29,760
+I think the Blanco is better.
+
+727
+00:32:30,760 --> 00:32:31,840
+Yeah, I'm surprised.
+
+728
+00:32:31,840 --> 00:32:34,160
+I think it's a little smoother.
+
+729
+00:32:34,160 --> 00:32:36,720
+To me, it feels like there's less,
+
+730
+00:32:38,440 --> 00:32:40,400
+it is smoother, the Blanco.
+
+731
+00:32:40,400 --> 00:32:42,000
+I think some of them as their age
+
+732
+00:32:42,000 --> 00:32:43,960
+are aged in bourbon barrels,
+
+733
+00:32:46,360 --> 00:32:50,120
+which I don't really like bourbon anymore.
+
+734
+00:32:50,120 --> 00:32:51,280
+Like I think that's what I drank.
+
+735
+00:32:51,280 --> 00:32:54,120
+I drank Jack and Coke a lot when I first started,
+
+736
+00:32:54,120 --> 00:32:57,440
+like became like 21 and I just didn't,
+
+737
+00:32:57,440 --> 00:32:58,800
+it was just so sweet.
+
+738
+00:32:58,800 --> 00:33:01,360
+And now I like, I like like rye or scotch,
+
+739
+00:33:01,360 --> 00:33:03,760
+but I really haven't drank that much during quarantine.
+
+740
+00:33:03,760 --> 00:33:06,680
+We were drinking White Claws a lot at the start.
+
+741
+00:33:06,680 --> 00:33:09,120
+Yeah, I was drinking some White Claws at the start.
+
+742
+00:33:09,120 --> 00:33:10,880
+I haven't in a while.
+
+743
+00:33:10,880 --> 00:33:14,440
+I had been drinking like sparkling water and vodka,
+
+744
+00:33:14,440 --> 00:33:16,640
+but then I realized it was like bubbling my stomach
+
+745
+00:33:16,640 --> 00:33:18,400
+up too much, I think.
+
+746
+00:33:18,400 --> 00:33:20,480
+That is a pro, you can give yourself a stomach ache
+
+747
+00:33:20,480 --> 00:33:22,080
+with too much seltzer, yeah.
+
+748
+00:33:22,920 --> 00:33:24,560
+Cause like I'm stressed.
+
+749
+00:33:24,560 --> 00:33:26,280
+It's not so much probably even the alcohol.
+
+750
+00:33:26,280 --> 00:33:30,040
+It's just that like I go downstairs to like stress drink,
+
+751
+00:33:30,040 --> 00:33:33,640
+like diet cola or sparkling water.
+
+752
+00:33:34,600 --> 00:33:36,040
+Like I think there's a,
+
+753
+00:33:36,040 --> 00:33:39,360
+I'm trying to like nervously do something.
+
+754
+00:33:39,360 --> 00:33:41,240
+Oh, sure, yeah.
+
+755
+00:33:41,240 --> 00:33:45,200
+So I kind of stopped, well, I'm at once in a while,
+
+756
+00:33:45,200 --> 00:33:47,040
+but yeah, rye, I like rye.
+
+757
+00:33:47,040 --> 00:33:49,200
+I like that bullet rye a lot.
+
+758
+00:33:49,200 --> 00:33:50,040
+I like that a lot.
+
+759
+00:33:50,040 --> 00:33:54,800
+I like it on the rocks with a twist of lemon.
+
+760
+00:33:54,800 --> 00:33:59,440
+So then that's a little tip, a little complicated
+
+761
+00:33:59,440 --> 00:34:01,480
+cause then you got to keep lemon in the house,
+
+762
+00:34:01,480 --> 00:34:03,480
+which I do something nice to have lemon in your water,
+
+763
+00:34:03,480 --> 00:34:04,960
+you know, change it up.
+
+764
+00:34:04,960 --> 00:34:06,280
+Good antioxidants.
+
+765
+00:34:06,280 --> 00:34:08,480
+Nice to have lemon in the house, I think.
+
+766
+00:34:08,480 --> 00:34:09,320
+Not that expensive.
+
+767
+00:34:09,320 --> 00:34:10,720
+Lemon's not that expensive.
+
+768
+00:34:10,720 --> 00:34:11,560
+No.
+
+769
+00:34:12,800 --> 00:34:16,320
+Yeah, so I am finding the Blanco better.
+
+770
+00:34:16,320 --> 00:34:17,160
+The other one's good too though.
+
+771
+00:34:17,160 --> 00:34:19,520
+I will say I would actually probably be fine drinking
+
+772
+00:34:19,520 --> 00:34:21,680
+this Lukewarm as well.
+
+773
+00:34:21,680 --> 00:34:22,520
+Yeah.
+
+774
+00:34:22,520 --> 00:34:23,640
+Cause it's getting there.
+
+775
+00:34:25,040 --> 00:34:29,080
+Do we want to talk about the third man a little bit?
+
+776
+00:34:29,080 --> 00:34:30,560
+I guess we should.
+
+777
+00:34:30,560 --> 00:34:32,480
+So I know everyone's thinking,
+
+778
+00:34:32,480 --> 00:34:35,360
+it's George Clooney or Annie Gerber, case closed.
+
+779
+00:34:35,360 --> 00:34:39,920
+Well, not so easy, not so fast, okay?
+
+780
+00:34:39,920 --> 00:34:43,880
+Cause there's a third partner and that person's name is,
+
+781
+00:34:43,880 --> 00:34:45,680
+is it Michael Meldman?
+
+782
+00:34:45,680 --> 00:34:47,640
+Yes, it's Michael Meldman.
+
+783
+00:34:47,640 --> 00:34:52,640
+So I started to look up Michael Meldman
+
+784
+00:34:52,840 --> 00:34:54,560
+cause I knew there was kind of like a third
+
+785
+00:34:54,560 --> 00:34:56,280
+less prominent partner.
+
+786
+00:34:56,280 --> 00:34:58,840
+And the first thing I came across was a Wall Street
+
+787
+00:34:58,840 --> 00:35:00,600
+journal article with the headline,
+
+788
+00:35:00,600 --> 00:35:02,760
+real estate party boy.
+
+789
+00:35:02,760 --> 00:35:05,600
+And I was like, okay, gotta shut this down
+
+790
+00:35:05,600 --> 00:35:09,320
+cause God knows what sort of sinister craps in this article.
+
+791
+00:35:09,320 --> 00:35:10,720
+Well, you didn't read it.
+
+792
+00:35:10,720 --> 00:35:13,320
+I read a lot of it and it's not,
+
+793
+00:35:13,320 --> 00:35:15,200
+they're not gonna put anything that bad in there.
+
+794
+00:35:15,200 --> 00:35:19,440
+Now for people that know, for people that watch the show,
+
+795
+00:35:19,440 --> 00:35:21,640
+Real Housewives, I know there's many versions,
+
+796
+00:35:21,680 --> 00:35:24,920
+this man was married to Brandy Glanville.
+
+797
+00:35:24,920 --> 00:35:25,760
+Oh, okay.
+
+798
+00:35:25,760 --> 00:35:28,000
+So that's a big connection for,
+
+799
+00:35:28,000 --> 00:35:30,120
+I think a big section of the,
+
+800
+00:35:30,120 --> 00:35:31,280
+I mean, a lot of people watch that show.
+
+801
+00:35:31,280 --> 00:35:32,440
+I don't watch, I've seen it.
+
+802
+00:35:32,440 --> 00:35:33,960
+I know some of the names.
+
+803
+00:35:33,960 --> 00:35:36,960
+I know people are mad at Denise Richards right now.
+
+804
+00:35:36,960 --> 00:35:39,840
+I know Lisa Rinna is mad at Denise Richards.
+
+805
+00:35:40,720 --> 00:35:41,560
+Do you know that?
+
+806
+00:35:41,560 --> 00:35:43,040
+Is that a familiar thing to you?
+
+807
+00:35:43,040 --> 00:35:45,120
+I did not know that.
+
+808
+00:35:45,120 --> 00:35:46,160
+Okay.
+
+809
+00:35:46,160 --> 00:35:48,720
+I'm not sure exactly why.
+
+810
+00:35:48,720 --> 00:35:51,240
+I just sort of absorbed this like via people
+
+811
+00:35:51,840 --> 00:35:55,160
+or if I've CTMC, if I'm like going by and I see TMZ.
+
+812
+00:35:55,160 --> 00:35:57,960
+So yes, she's not married to this Michael Meldman anymore,
+
+813
+00:35:57,960 --> 00:36:02,080
+but he is, I'll tell you what, he's a notorious party boy.
+
+814
+00:36:02,080 --> 00:36:04,640
+And he is somebody who claims to be
+
+815
+00:36:04,640 --> 00:36:08,800
+one of the best beer pong players in the world.
+
+816
+00:36:08,800 --> 00:36:11,400
+Oh, he's too old to be claiming that.
+
+817
+00:36:13,160 --> 00:36:15,320
+He's probably almost 60, I think.
+
+818
+00:36:15,320 --> 00:36:16,160
+Yeah.
+
+819
+00:36:16,160 --> 00:36:17,800
+That's not, yeah, that's not,
+
+820
+00:36:17,800 --> 00:36:20,600
+that's not a game our parents enjoyed.
+
+821
+00:36:20,600 --> 00:36:23,880
+No, I don't, I feel like at most,
+
+822
+00:36:23,880 --> 00:36:26,320
+maybe they played quarters.
+
+823
+00:36:26,320 --> 00:36:29,760
+I am not even sure of the rules of quarters.
+
+824
+00:36:29,760 --> 00:36:31,720
+Yeah, beer pong, I mean,
+
+825
+00:36:31,720 --> 00:36:34,520
+I was first introduced to it in college.
+
+826
+00:36:34,520 --> 00:36:37,200
+It's a gross game, first of all.
+
+827
+00:36:37,200 --> 00:36:40,760
+I immediately, like at 18, I was like, oh, this is gross.
+
+828
+00:36:40,760 --> 00:36:42,240
+Oh, everyone just shared.
+
+829
+00:36:42,240 --> 00:36:44,320
+In case the kids today, I know we have a big,
+
+830
+00:36:44,320 --> 00:36:47,120
+of course, youthful audience, I assume.
+
+831
+00:36:47,120 --> 00:36:49,920
+It's a game where you put, I think is it six cups out,
+
+832
+00:36:49,960 --> 00:36:51,800
+almost like it's their bowling pins,
+
+833
+00:36:51,800 --> 00:36:53,760
+six red solo cups,
+
+834
+00:36:54,800 --> 00:36:57,240
+and you fill them with a little bit of beer,
+
+835
+00:36:57,240 --> 00:37:00,320
+and you throw, basically, there's the same configuration
+
+836
+00:37:00,320 --> 00:37:01,760
+on each side of a table.
+
+837
+00:37:01,760 --> 00:37:05,360
+And then you take turns throwing ping pong balls
+
+838
+00:37:05,360 --> 00:37:08,680
+across the table to try to get them in every beer
+
+839
+00:37:08,680 --> 00:37:10,880
+so your opponent has to drink each beer.
+
+840
+00:37:10,880 --> 00:37:14,160
+Yes, and there's two cups of water, rinse cups.
+
+841
+00:37:14,160 --> 00:37:17,480
+And there's two rinse cups, because we know that really,
+
+842
+00:37:17,760 --> 00:37:20,160
+so you take the ball out of one of the beers
+
+843
+00:37:20,160 --> 00:37:22,040
+and you rinse it, and that really cleans it.
+
+844
+00:37:22,040 --> 00:37:23,880
+That sterilizes it immediately.
+
+845
+00:37:23,880 --> 00:37:27,520
+It's amazing this game did not cause a pandemic
+
+846
+00:37:27,520 --> 00:37:30,480
+before the current pandemic, you know?
+
+847
+00:37:30,480 --> 00:37:31,320
+That's true.
+
+848
+00:37:31,320 --> 00:37:33,960
+I assume, though, it's helping the current pandemic along.
+
+849
+00:37:33,960 --> 00:37:35,840
+Now the colleges are open, though.
+
+850
+00:37:35,840 --> 00:37:40,000
+Oh, yeah, it's helping them open for two weeks and go,
+
+851
+00:37:40,000 --> 00:37:42,480
+all right, we are immediately going back to online classes.
+
+852
+00:37:42,480 --> 00:37:45,560
+Everyone has three days to move out of their dorm rooms
+
+853
+00:37:45,560 --> 00:37:46,840
+before they are charged.
+
+854
+00:37:47,800 --> 00:37:50,800
+Yeah, I think that if the CDC would do
+
+855
+00:37:50,800 --> 00:37:54,440
+some more investigating, they would see that ping pong balls
+
+856
+00:37:54,440 --> 00:37:57,200
+carry COVID-19 very successfully.
+
+857
+00:37:58,920 --> 00:38:01,400
+One time I was at a place called O'Shea's in Las Vegas,
+
+858
+00:38:01,400 --> 00:38:05,000
+and they've rebranded O'Shea's, I forget in which hotel,
+
+859
+00:38:05,000 --> 00:38:08,120
+but it was just on the strip and it was a real shithole.
+
+860
+00:38:09,000 --> 00:38:14,000
+And they had beer pong in the back by the subway,
+
+861
+00:38:14,360 --> 00:38:16,480
+by the restaurant, the subway.
+
+862
+00:38:17,320 --> 00:38:19,560
+I was like, who's doing this here?
+
+863
+00:38:19,560 --> 00:38:23,520
+That's my favorite trick of the Vegas establishments.
+
+864
+00:38:23,520 --> 00:38:25,560
+I mean, they're all in a tough spot right now.
+
+865
+00:38:25,560 --> 00:38:27,280
+I think a lot of them are opened.
+
+866
+00:38:27,280 --> 00:38:29,160
+I think they opened with a lot of offerings
+
+867
+00:38:29,160 --> 00:38:32,920
+and have scaled back, similar to the way LA
+
+868
+00:38:32,920 --> 00:38:34,280
+kind of scaled back.
+
+869
+00:38:34,280 --> 00:38:37,960
+But even like, I think Caesar's is a pretty nice,
+
+870
+00:38:37,960 --> 00:38:40,320
+it's not the nicest casino anymore,
+
+871
+00:38:40,320 --> 00:38:42,200
+but I think it's pretty nice.
+
+872
+00:38:42,200 --> 00:38:43,800
+I guess it's very big.
+
+873
+00:38:43,800 --> 00:38:45,600
+That's the big defining thing of Caesar's now.
+
+874
+00:38:45,600 --> 00:38:47,560
+It's got like six towers.
+
+875
+00:38:47,560 --> 00:38:52,480
+But the ones, most casinos,
+
+876
+00:38:52,480 --> 00:38:56,200
+hotel casino resorts have a food court in them
+
+877
+00:38:56,200 --> 00:38:59,560
+that is just truly like feed your id.
+
+878
+00:38:59,560 --> 00:39:04,560
+Like here's a Krispy Kreme, here's a like a Sbarro's
+
+879
+00:39:05,640 --> 00:39:07,120
+and at like the nicer casinos,
+
+880
+00:39:07,120 --> 00:39:12,120
+it's like pizza by the slice by Buddy Velasco,
+
+881
+00:39:12,320 --> 00:39:14,640
+the cake boss, you know?
+
+882
+00:39:14,680 --> 00:39:17,920
+I have a photo of you and a giant cake boss, right?
+
+883
+00:39:17,920 --> 00:39:20,320
+Or no, no, I have you and Emeril maybe.
+
+884
+00:39:20,320 --> 00:39:23,560
+I think so because we stayed at the Venetian once
+
+885
+00:39:23,560 --> 00:39:26,440
+for a bachelor party and they had massive,
+
+886
+00:39:26,440 --> 00:39:31,000
+like two story murals of like the Bouchon guy.
+
+887
+00:39:31,000 --> 00:39:32,680
+You and cake boss and you and Emeril,
+
+888
+00:39:32,680 --> 00:39:34,240
+I think I have a photo of.
+
+889
+00:39:34,240 --> 00:39:35,360
+I should find those.
+
+890
+00:39:35,360 --> 00:39:36,200
+I think so.
+
+891
+00:39:36,200 --> 00:39:39,920
+And then there was a real like acclaimed
+
+892
+00:39:39,920 --> 00:39:42,080
+Michelin star chef next to them.
+
+893
+00:39:42,080 --> 00:39:45,000
+But of course everyone went to pictures by the TV people.
+
+894
+00:39:45,000 --> 00:39:46,760
+Yeah, with Bam, the Bam band.
+
+895
+00:39:46,760 --> 00:39:48,280
+Bam, yeah.
+
+896
+00:39:48,280 --> 00:39:50,440
+Yes, in Vegas, Lindsay and I were in Vegas,
+
+897
+00:39:50,440 --> 00:39:52,480
+when was it, last August?
+
+898
+00:39:52,480 --> 00:39:55,200
+And we were trying to get something to eat so quickly
+
+899
+00:39:55,200 --> 00:39:56,840
+and we were like right before a show,
+
+900
+00:39:56,840 --> 00:39:59,080
+maybe it was before Copperfield.
+
+901
+00:39:59,080 --> 00:40:02,160
+And it was like, are we gonna go to this
+
+902
+00:40:02,160 --> 00:40:05,520
+like Philly cheesesteak place
+
+903
+00:40:05,520 --> 00:40:08,280
+that's in this like mall looking?
+
+904
+00:40:08,280 --> 00:40:09,920
+And then we're like, ah, this looks like shit.
+
+905
+00:40:09,920 --> 00:40:11,480
+And then we're like, well, what about this pizza
+
+906
+00:40:11,640 --> 00:40:14,040
+at the place that's not even Sabaro level?
+
+907
+00:40:14,040 --> 00:40:15,280
+And then we like got in and we're like,
+
+908
+00:40:15,280 --> 00:40:17,800
+God, this like, this all sucks.
+
+909
+00:40:17,800 --> 00:40:19,720
+This is all really bad.
+
+910
+00:40:19,720 --> 00:40:23,120
+I mean, that's the innovation of putting an Italy in Vegas
+
+911
+00:40:23,120 --> 00:40:25,120
+is that like, if you're in a pinch,
+
+912
+00:40:25,120 --> 00:40:27,560
+you just go into Italy and walk right up to anything
+
+913
+00:40:27,560 --> 00:40:28,680
+and it's delicious.
+
+914
+00:40:28,680 --> 00:40:30,440
+Like. Oh, Italy.
+
+915
+00:40:30,440 --> 00:40:31,280
+It's very good.
+
+916
+00:40:31,280 --> 00:40:34,840
+That's the Park MGM is like the last one to open.
+
+917
+00:40:34,840 --> 00:40:36,520
+Yeah. Still closed.
+
+918
+00:40:36,520 --> 00:40:38,760
+I long for that Park MGM cause I went twice.
+
+919
+00:40:38,760 --> 00:40:40,720
+I was stayed there twice last year
+
+920
+00:40:40,760 --> 00:40:42,720
+and probably would have stayed there again in May
+
+921
+00:40:42,720 --> 00:40:45,160
+for when there was another wrestling pay-per-view.
+
+922
+00:40:45,160 --> 00:40:47,680
+I, we, yeah, we, I had such a great time.
+
+923
+00:40:47,680 --> 00:40:50,720
+We had such a great time in February when we were there.
+
+924
+00:40:50,720 --> 00:40:54,760
+And I was like, we're coming back in the spring.
+
+925
+00:40:54,760 --> 00:40:55,840
+Like.
+
+926
+00:40:55,840 --> 00:41:00,320
+I like the idea of like gracefully going into my old age,
+
+927
+00:41:00,320 --> 00:41:04,240
+having like, well, that's the hotel we go to, the Park MGM.
+
+928
+00:41:04,240 --> 00:41:05,720
+That's the hotel we stay at.
+
+929
+00:41:05,720 --> 00:41:07,720
+And like, if somebody were to maybe suggest like,
+
+930
+00:41:07,720 --> 00:41:08,840
+oh, you know, there's a new hotel
+
+931
+00:41:09,240 --> 00:41:11,480
+they recently fixed up X Hotel.
+
+932
+00:41:11,480 --> 00:41:13,640
+I would be like, thank you for the suggestion,
+
+933
+00:41:13,640 --> 00:41:14,880
+but we don't stay there.
+
+934
+00:41:14,880 --> 00:41:16,160
+We stay at Park MGM.
+
+935
+00:41:16,160 --> 00:41:19,320
+That's what we do, which is a thing I see in old folks.
+
+936
+00:41:19,320 --> 00:41:22,720
+So I'm happy that that might be where I'm headed.
+
+937
+00:41:22,720 --> 00:41:24,720
+Yeah. I feel like my family,
+
+938
+00:41:24,720 --> 00:41:26,440
+I feel like I've already been doing that
+
+939
+00:41:26,440 --> 00:41:27,800
+for a good portion of my life.
+
+940
+00:41:27,800 --> 00:41:31,000
+I feel like my family has primed me for that.
+
+941
+00:41:31,000 --> 00:41:33,760
+I feel we were a family who did that sort of thing.
+
+942
+00:41:33,760 --> 00:41:38,400
+I'm a little curious by like the other, there's like Vidara.
+
+943
+00:41:38,400 --> 00:41:39,880
+Some of the ones that are like,
+
+944
+00:41:39,880 --> 00:41:41,720
+oh, there's no casino in this hotel.
+
+945
+00:41:41,720 --> 00:41:42,920
+It's just a nice hotel.
+
+946
+00:41:42,920 --> 00:41:46,400
+I'm like, oh, that could be a nice change of pace.
+
+947
+00:41:46,400 --> 00:41:47,440
+Sure.
+
+948
+00:41:47,440 --> 00:41:48,280
+I mean, you seem to be like,
+
+949
+00:41:48,280 --> 00:41:50,160
+you're still actually more flexible.
+
+950
+00:41:51,040 --> 00:41:52,000
+You'll take a suggestion.
+
+951
+00:41:52,000 --> 00:41:53,520
+I mean, I think, didn't you go to Park MGM?
+
+952
+00:41:53,520 --> 00:41:55,640
+Cause I said, I stayed there and I liked it.
+
+953
+00:41:55,640 --> 00:41:58,520
+Well, and we had comps from those Vegas games.
+
+954
+00:41:58,520 --> 00:41:59,360
+Right.
+
+955
+00:41:59,360 --> 00:42:01,040
+So, and yes, you recommended that one.
+
+956
+00:42:01,040 --> 00:42:03,440
+And I think Jane had looked up that one.
+
+957
+00:42:03,440 --> 00:42:04,760
+It was like, this looks pretty nice.
+
+958
+00:42:04,760 --> 00:42:06,320
+And it's the most recently redone.
+
+959
+00:42:06,320 --> 00:42:08,920
+And yeah.
+
+960
+00:42:08,920 --> 00:42:09,760
+Yeah.
+
+961
+00:42:09,760 --> 00:42:10,760
+We had a nice time at the pool.
+
+962
+00:42:10,760 --> 00:42:13,640
+Anyway, it's not a Las Vegas podcast.
+
+963
+00:42:13,640 --> 00:42:16,240
+It's about celebrity tequila.
+
+964
+00:42:16,240 --> 00:42:19,120
+That's what we're doing here.
+
+965
+00:42:19,120 --> 00:42:22,440
+So Michael Meldman, he's a silent third partner.
+
+966
+00:42:22,440 --> 00:42:27,120
+He is a guy who builds like developments.
+
+967
+00:42:27,120 --> 00:42:29,920
+And I looked, look, I really struggled too to be like,
+
+968
+00:42:29,920 --> 00:42:32,840
+oh my God, I'm gonna find such a good tie-in
+
+969
+00:42:32,840 --> 00:42:35,480
+for theme parks and this topic.
+
+970
+00:42:35,520 --> 00:42:37,520
+And I go, oh, Michael Meldman, he develops things.
+
+971
+00:42:37,520 --> 00:42:39,640
+Surely he is involved with a theme park.
+
+972
+00:42:39,640 --> 00:42:40,920
+I don't think that's the case.
+
+973
+00:42:40,920 --> 00:42:43,760
+I think he just builds like big housing developments
+
+974
+00:42:43,760 --> 00:42:45,400
+for rich people and golf courses.
+
+975
+00:42:45,400 --> 00:42:47,440
+I think that's all he does.
+
+976
+00:42:47,440 --> 00:42:48,280
+Sure.
+
+977
+00:42:48,280 --> 00:42:49,800
+And that article is all about like,
+
+978
+00:42:49,800 --> 00:42:52,280
+oh, he's building another home.
+
+979
+00:42:52,280 --> 00:42:55,360
+All these fuckers are building like eight homes.
+
+980
+00:42:55,360 --> 00:42:58,240
+And it's like, oh, he built like a party barn.
+
+981
+00:43:00,000 --> 00:43:02,800
+And that's not verbatim what it says in the article,
+
+982
+00:43:02,800 --> 00:43:04,400
+but it's along those lines of like,
+
+983
+00:43:04,400 --> 00:43:07,440
+well, he likes the party and he bought a barn
+
+984
+00:43:07,440 --> 00:43:10,320
+that would be able to be converted into a rave space.
+
+985
+00:43:10,320 --> 00:43:14,480
+And if you wanted to have a host a foam party in the barn,
+
+986
+00:43:14,480 --> 00:43:16,560
+Michael Meldman would be able to do it.
+
+987
+00:43:17,720 --> 00:43:20,520
+If you got a little bit of funny money,
+
+988
+00:43:20,520 --> 00:43:23,720
+you build a man cave and then you build a she shed.
+
+989
+00:43:25,120 --> 00:43:28,040
+But if you really got money, you build a party barn.
+
+990
+00:43:28,040 --> 00:43:28,880
+Right.
+
+991
+00:43:28,880 --> 00:43:31,040
+A party barn, I think is a thing I guess.
+
+992
+00:43:31,040 --> 00:43:32,080
+I think we should coin that.
+
+993
+00:43:32,080 --> 00:43:33,920
+We should trademark that.
+
+994
+00:43:33,920 --> 00:43:37,440
+Cause I don't think that's a thing.
+
+995
+00:43:38,600 --> 00:43:40,000
+Yeah, I have to agree.
+
+996
+00:43:41,800 --> 00:43:45,560
+Podcast the Ride, well, we host a podcast about theme parks.
+
+997
+00:43:45,560 --> 00:43:47,040
+And of course we go on auditions.
+
+998
+00:43:47,040 --> 00:43:50,040
+We're also the leading purveyor of party barns.
+
+999
+00:43:50,040 --> 00:43:52,040
+We're in the party barn business.
+
+1000
+00:43:52,040 --> 00:43:53,720
+Sharks, listen, okay.
+
+1001
+00:43:53,720 --> 00:43:57,640
+So this is, you can use this for as a livery stable
+
+1002
+00:43:57,640 --> 00:44:01,200
+or keep your tractor in here when the elements are bad.
+
+1003
+00:44:01,200 --> 00:44:03,120
+But what if you just need to relax?
+
+1004
+00:44:03,120 --> 00:44:04,680
+You can use it for that too.
+
+1005
+00:44:06,520 --> 00:44:09,320
+Are you tired of just having horses in here?
+
+1006
+00:44:09,320 --> 00:44:10,960
+Horses are boring.
+
+1007
+00:44:10,960 --> 00:44:11,800
+Yeah.
+
+1008
+00:44:11,800 --> 00:44:13,400
+Why don't you replace those horses
+
+1009
+00:44:13,400 --> 00:44:15,840
+with industrial sized foam machines?
+
+1010
+00:44:16,680 --> 00:44:20,240
+Why don't you pump out a hundred gallons of foam
+
+1011
+00:44:20,240 --> 00:44:24,520
+per 30 minutes in this party barn?
+
+1012
+00:44:24,520 --> 00:44:25,880
+Let's get it going.
+
+1013
+00:44:25,880 --> 00:44:29,360
+Let's get, look, I mean, we're gonna get to,
+
+1014
+00:44:29,360 --> 00:44:30,360
+I'm teasing a little bit.
+
+1015
+00:44:30,360 --> 00:44:32,640
+We're gonna get to some pitches later,
+
+1016
+00:44:33,240 --> 00:44:36,320
+but let's get some investors in on this as well.
+
+1017
+00:44:36,320 --> 00:44:39,560
+Cause party barn, I don't know why I think Scott Storch
+
+1018
+00:44:39,560 --> 00:44:42,760
+should invest music producer Scott Storch.
+
+1019
+00:44:42,760 --> 00:44:43,680
+I don't know.
+
+1020
+00:44:43,680 --> 00:44:45,560
+Maybe it's just because I was looking at his Instagram
+
+1021
+00:44:45,560 --> 00:44:46,720
+year, hours ago.
+
+1022
+00:44:47,640 --> 00:44:49,480
+You know, you know all these guys.
+
+1023
+00:44:49,480 --> 00:44:52,520
+You're a big Scooter Braun defender.
+
+1024
+00:44:52,520 --> 00:44:55,080
+I'm a big fan of Scooter Braun.
+
+1025
+00:44:55,080 --> 00:44:57,720
+I think that he's got a lot of good ideas.
+
+1026
+00:44:57,720 --> 00:45:02,000
+I am, yes, I am fascinated with the elite world
+
+1027
+00:45:02,000 --> 00:45:05,440
+of celebrity and I guess really if we get to the core
+
+1028
+00:45:05,440 --> 00:45:10,440
+of it, like side celebrities, like Randy Gerber.
+
+1029
+00:45:10,560 --> 00:45:11,400
+Yeah.
+
+1030
+00:45:11,400 --> 00:45:14,320
+Who no one knows who that is when I say it.
+
+1031
+00:45:14,320 --> 00:45:17,080
+Yeah, he's like one of the richest men in America.
+
+1032
+00:45:17,080 --> 00:45:19,640
+He wields insane power.
+
+1033
+00:45:19,640 --> 00:45:21,960
+He, look, he's part of the Gerber group.
+
+1034
+00:45:21,960 --> 00:45:24,200
+We haven't even gotten there yet.
+
+1035
+00:45:24,200 --> 00:45:26,600
+He's part of the Gerber group that he owns
+
+1036
+00:45:26,600 --> 00:45:29,840
+with his brothers, Scott and Ken with two N's.
+
+1037
+00:45:29,960 --> 00:45:31,720
+That is true.
+
+1038
+00:45:31,720 --> 00:45:34,080
+Randy is spelled with an E and not a Y
+
+1039
+00:45:34,080 --> 00:45:37,080
+and Ken is spelled with two N's and not one N.
+
+1040
+00:45:38,240 --> 00:45:40,040
+I, you know, the Gerbers, they do,
+
+1041
+00:45:40,040 --> 00:45:42,160
+they do whatever they want.
+
+1042
+00:45:42,160 --> 00:45:43,600
+They do whatever they want.
+
+1043
+00:45:43,600 --> 00:45:45,680
+Scott is the one who I think, Scott Gerber,
+
+1044
+00:45:45,680 --> 00:45:48,560
+not Scott Gerber, Scott Gerber.
+
+1045
+00:45:48,560 --> 00:45:52,000
+Scott, do you think Scott Gerber maybe is the Scott Gerber
+
+1046
+00:45:52,000 --> 00:45:53,600
+of the Gerber group?
+
+1047
+00:45:53,600 --> 00:45:55,120
+Oh, maybe.
+
+1048
+00:45:55,120 --> 00:45:56,240
+What is the Gerber group?
+
+1049
+00:45:56,240 --> 00:45:57,400
+What is their line?
+
+1050
+00:45:57,400 --> 00:45:58,240
+What is their business?
+
+1051
+00:45:58,240 --> 00:46:00,640
+They do, okay, I have some more information about,
+
+1052
+00:46:00,640 --> 00:46:04,800
+well, I'll say they are in the hotel bar business.
+
+1053
+00:46:04,800 --> 00:46:07,840
+They started by making a bar called The Whiskey,
+
+1054
+00:46:07,840 --> 00:46:09,240
+which I believe was in New York
+
+1055
+00:46:09,240 --> 00:46:10,480
+and I should double check that.
+
+1056
+00:46:10,480 --> 00:46:14,320
+Not The Whiskey at GoGo, but a whiskey in like 1991.
+
+1057
+00:46:14,320 --> 00:46:18,240
+And they've basically made their like life's mission,
+
+1058
+00:46:18,240 --> 00:46:22,080
+putting fancy cocktail bars in hotels.
+
+1059
+00:46:23,520 --> 00:46:25,200
+That's what they do.
+
+1060
+00:46:25,200 --> 00:46:27,320
+That is funny because the prices are already
+
+1061
+00:46:27,360 --> 00:46:29,800
+so inflated at hotel bars.
+
+1062
+00:46:29,800 --> 00:46:33,240
+So then to inflate them further with like muddling,
+
+1063
+00:46:33,240 --> 00:46:34,600
+that's pretty funny.
+
+1064
+00:46:34,600 --> 00:46:37,680
+What's also funny about this to me is that
+
+1065
+00:46:37,680 --> 00:46:40,560
+when you're on vacation or when you're on a business trip
+
+1066
+00:46:40,560 --> 00:46:43,440
+and you're just like, I need a fucking drink
+
+1067
+00:46:43,440 --> 00:46:46,120
+because I'm on vacation or I'm on a business trip,
+
+1068
+00:46:46,120 --> 00:46:49,040
+you'll go to any garbage bar in a hotel.
+
+1069
+00:46:49,040 --> 00:46:52,480
+Like this is the easiest business you could possibly be in.
+
+1070
+00:46:53,600 --> 00:46:54,440
+Yeah.
+
+1071
+00:46:54,440 --> 00:46:57,520
+You and I could design a bar in five minutes right now.
+
+1072
+00:46:57,520 --> 00:46:59,400
+They could plug it into a big hotel
+
+1073
+00:46:59,400 --> 00:47:01,240
+that a lot of people go to and they'd be like,
+
+1074
+00:47:01,240 --> 00:47:03,600
+wow, that bar is really successful.
+
+1075
+00:47:03,600 --> 00:47:04,600
+It's like, well, yeah, no shit.
+
+1076
+00:47:04,600 --> 00:47:06,200
+It's a bar in a hotel.
+
+1077
+00:47:07,240 --> 00:47:12,240
+Yeah, a lot of like lights you can angle towards the liquor
+
+1078
+00:47:13,440 --> 00:47:15,680
+or like you light the liquor from below.
+
+1079
+00:47:15,680 --> 00:47:18,520
+There's a lot of black wood and black metal.
+
+1080
+00:47:18,520 --> 00:47:20,800
+Like just all the tricks, all the crap they did
+
+1081
+00:47:20,800 --> 00:47:23,680
+to like Johnny Rockets at CityWalk where you're like,
+
+1082
+00:47:23,680 --> 00:47:28,320
+oh, this is just a weird lifeless husk now.
+
+1083
+00:47:28,320 --> 00:47:29,200
+Now, yes.
+
+1084
+00:47:29,200 --> 00:47:32,200
+And now I'm not talking about the off the record bar
+
+1085
+00:47:32,200 --> 00:47:35,800
+slash club at the Park MGM in Vegas.
+
+1086
+00:47:35,800 --> 00:47:36,800
+That's a whole different story.
+
+1087
+00:47:36,800 --> 00:47:37,960
+I love that place.
+
+1088
+00:47:37,960 --> 00:47:38,880
+No, that was pretty fun.
+
+1089
+00:47:38,880 --> 00:47:41,000
+A little claustrophobic for my tastes.
+
+1090
+00:47:41,000 --> 00:47:44,200
+Definitely not going to be opening anytime soon.
+
+1091
+00:47:44,200 --> 00:47:47,920
+Did you go to the secret, did you go to the speakeasy room?
+
+1092
+00:47:47,920 --> 00:47:49,360
+Yes, because I had free drinks.
+
+1093
+00:47:49,360 --> 00:47:50,720
+I had free drinks to claim.
+
+1094
+00:47:50,720 --> 00:47:55,280
+And that was the bar that was the least crowded.
+
+1095
+00:47:56,280 --> 00:47:57,120
+Right.
+
+1096
+00:47:57,120 --> 00:48:00,120
+When we were in there, yeah, it was pretty crowded
+
+1097
+00:48:00,120 --> 00:48:04,800
+when we were in there in May and we saw a wrestler in there
+
+1098
+00:48:04,800 --> 00:48:09,600
+who kind of snubbed us, but I won't even get into who that was.
+
+1099
+00:48:09,600 --> 00:48:12,520
+No one that we ever have ever had on the podcast.
+
+1100
+00:48:12,520 --> 00:48:15,560
+So that's a whole different story.
+
+1101
+00:48:15,560 --> 00:48:20,480
+So yeah, but the Gerber group,
+
+1102
+00:48:21,440 --> 00:48:25,560
+they're like the podcast, the ride of Hotel Bars.
+
+1103
+00:48:25,560 --> 00:48:26,520
+So there's three of them.
+
+1104
+00:48:26,520 --> 00:48:27,600
+They're obviously all brothers.
+
+1105
+00:48:27,600 --> 00:48:30,200
+We are not brothers, but it's very similar.
+
+1106
+00:48:30,200 --> 00:48:35,080
+I feel like maybe Scott Gerber is a Scott Gardner.
+
+1107
+00:48:35,080 --> 00:48:37,360
+I feel like, look, and don't take this the wrong way.
+
+1108
+00:48:37,360 --> 00:48:41,920
+I think I'm the Randy Gerber of the group.
+
+1109
+00:48:41,920 --> 00:48:43,760
+Randy seems like the big picture guy.
+
+1110
+00:48:43,760 --> 00:48:45,200
+You're the big picture guy.
+
+1111
+00:48:45,200 --> 00:48:46,480
+And I do think that.
+
+1112
+00:48:46,480 --> 00:48:48,480
+But I look, I think this is a cop.
+
+1113
+00:48:48,480 --> 00:48:49,400
+You're the Ken.
+
+1114
+00:48:49,400 --> 00:48:53,360
+You're the Ken, Ken Gerber.
+
+1115
+00:48:53,360 --> 00:48:54,200
+I'll take it.
+
+1116
+00:48:54,200 --> 00:48:55,040
+Of the group.
+
+1117
+00:48:55,040 --> 00:48:55,880
+And Ken is successful as well.
+
+1118
+00:48:55,880 --> 00:48:59,760
+I believe there's the least information about him online,
+
+1119
+00:49:00,720 --> 00:49:02,280
+but I don't think that's bad.
+
+1120
+00:49:02,280 --> 00:49:03,560
+No.
+
+1121
+00:49:03,560 --> 00:49:05,800
+He's just, yeah, he's just sort of involved, you know,
+
+1122
+00:49:05,800 --> 00:49:07,040
+a little bit more in the shadows.
+
+1123
+00:49:07,040 --> 00:49:08,760
+He's not sort of the front.
+
+1124
+00:49:10,000 --> 00:49:11,560
+So I think that makes a lot of sense.
+
+1125
+00:49:11,560 --> 00:49:13,920
+I think that that lines up perfectly really.
+
+1126
+00:49:14,960 --> 00:49:16,640
+So yeah, that's where, so Randy, by the way,
+
+1127
+00:49:16,640 --> 00:49:18,800
+Randy was a model in the eighties.
+
+1128
+00:49:19,560 --> 00:49:20,680
+Oh.
+
+1129
+00:49:20,680 --> 00:49:22,200
+So that's how he got his start.
+
+1130
+00:49:22,200 --> 00:49:24,440
+I mean, his wife, Sidney Crawford, of course,
+
+1131
+00:49:24,440 --> 00:49:27,240
+probably the most famous supermodel of all time.
+
+1132
+00:49:29,360 --> 00:49:31,240
+There's been some drama with her kids.
+
+1133
+00:49:31,240 --> 00:49:32,720
+I don't think we need to get into it.
+
+1134
+00:49:32,720 --> 00:49:34,960
+There's been a dating Pete Davidson type
+
+1135
+00:49:34,960 --> 00:49:36,720
+of a situation going on.
+
+1136
+00:49:36,720 --> 00:49:37,560
+Uh-oh.
+
+1137
+00:49:37,560 --> 00:49:40,480
+You could read, you can read all about that in the TMZ.
+
+1138
+00:49:42,280 --> 00:49:46,800
+So yeah, but they, but George and Randy still involved
+
+1139
+00:49:46,800 --> 00:49:50,960
+and they're still very excited about Casamigos, I find,
+
+1140
+00:49:50,960 --> 00:49:52,760
+when I'm reading these interviews now,
+
+1141
+00:49:52,760 --> 00:49:56,440
+are all these interviews on the official Casamigos website?
+
+1142
+00:49:56,440 --> 00:49:57,280
+Yes.
+
+1143
+00:49:57,280 --> 00:49:58,480
+Yes, yes.
+
+1144
+00:49:58,480 --> 00:50:00,600
+And that's where I spent most of my time.
+
+1145
+00:50:00,600 --> 00:50:03,680
+And let's be clear, the Casamigos website,
+
+1146
+00:50:04,960 --> 00:50:06,880
+when you first open it,
+
+1147
+00:50:08,040 --> 00:50:10,320
+when you have to do the age check
+
+1148
+00:50:10,320 --> 00:50:12,720
+that you have to do for like liquor websites,
+
+1149
+00:50:12,720 --> 00:50:15,120
+you get a preview of what's coming.
+
+1150
+00:50:15,160 --> 00:50:19,400
+And that's George and Randy drinking in the field
+
+1151
+00:50:19,400 --> 00:50:20,840
+with their workers.
+
+1152
+00:50:20,840 --> 00:50:21,680
+Right.
+
+1153
+00:50:21,680 --> 00:50:23,800
+Just, you know, they're just one of the guys.
+
+1154
+00:50:23,800 --> 00:50:25,240
+I'm sure they're helping out.
+
+1155
+00:50:26,120 --> 00:50:31,120
+And then when you successfully enter that you are over 21,
+
+1156
+00:50:31,160 --> 00:50:32,920
+then you get the full website
+
+1157
+00:50:32,920 --> 00:50:34,800
+and the full picture is revealed.
+
+1158
+00:50:34,800 --> 00:50:38,000
+It becomes video, they're laughing,
+
+1159
+00:50:38,000 --> 00:50:41,560
+they're riding the bike, they're on the motorcycles,
+
+1160
+00:50:41,560 --> 00:50:43,400
+you know, they're having a good time.
+
+1161
+00:50:43,440 --> 00:50:46,840
+They're really haphazardly pouring drinks for people.
+
+1162
+00:50:46,840 --> 00:50:51,000
+Like that's a thing that I get really anxious about
+
+1163
+00:50:51,000 --> 00:50:53,080
+on these celebrity liquor websites
+
+1164
+00:50:53,080 --> 00:50:55,440
+where they're just like, yeah, pour a little,
+
+1165
+00:50:55,440 --> 00:50:57,040
+pour and they're spilling it.
+
+1166
+00:50:57,040 --> 00:50:59,280
+And it's like, guys, it's a premium product.
+
+1167
+00:50:59,280 --> 00:51:00,720
+Let's not waste it, come on.
+
+1168
+00:51:00,720 --> 00:51:02,920
+Well, of course, you know,
+
+1169
+00:51:02,920 --> 00:51:06,200
+you're from the school of John Taffer.
+
+1170
+00:51:06,200 --> 00:51:07,800
+And if you ever watched Bar Rescue,
+
+1171
+00:51:07,800 --> 00:51:11,360
+John Taffer is so concerned with overpouring.
+
+1172
+00:51:11,360 --> 00:51:13,280
+You know, when you do a regular drink,
+
+1173
+00:51:14,160 --> 00:51:15,920
+you're supposed to pour a sort of one shot worth,
+
+1174
+00:51:15,920 --> 00:51:17,960
+one shot's worth of alcohol in.
+
+1175
+00:51:17,960 --> 00:51:20,120
+Yeah, you do a, I think it's a four count.
+
+1176
+00:51:22,120 --> 00:51:24,960
+If you have the skills and you have the right,
+
+1177
+00:51:24,960 --> 00:51:27,960
+you know, lid funnel kind of thing,
+
+1178
+00:51:27,960 --> 00:51:31,040
+you can count to four and then you like do an arm movement
+
+1179
+00:51:31,040 --> 00:51:33,240
+and the air bubble stops the pour.
+
+1180
+00:51:33,240 --> 00:51:34,280
+Right.
+
+1181
+00:51:34,280 --> 00:51:36,120
+So yes, you're from that school
+
+1182
+00:51:36,120 --> 00:51:37,960
+and you just don't wanna see it go to waste.
+
+1183
+00:51:37,960 --> 00:51:41,160
+And also John Taffer of course says that, you know,
+
+1184
+00:51:41,160 --> 00:51:42,640
+if you start overpouring,
+
+1185
+00:51:42,640 --> 00:51:44,120
+people start getting too drunk
+
+1186
+00:51:44,120 --> 00:51:45,400
+and you start to get a situation
+
+1187
+00:51:45,400 --> 00:51:47,280
+where maybe people are acting crazy
+
+1188
+00:51:47,280 --> 00:51:49,120
+and you don't want that in your bar.
+
+1189
+00:51:49,120 --> 00:51:50,360
+That's a real liability.
+
+1190
+00:51:50,360 --> 00:51:54,000
+Then the bar's on the hook if someone gets, you know,
+
+1191
+00:51:54,000 --> 00:51:57,600
+over served or if someone starts a fight in the bar.
+
+1192
+00:51:57,600 --> 00:52:00,560
+And of course he would explain that by screaming it,
+
+1193
+00:52:00,560 --> 00:52:02,920
+which is what we love about John Taffer.
+
+1194
+00:52:02,920 --> 00:52:03,760
+Yes.
+
+1195
+00:52:04,840 --> 00:52:06,920
+Does he, did he probably vote for Trump?
+
+1196
+00:52:06,920 --> 00:52:08,200
+Yeah, sure he did.
+
+1197
+00:52:08,200 --> 00:52:11,800
+But other than that.
+
+1198
+00:52:12,280 --> 00:52:15,040
+Pretty much, and there are sharks on shark town,
+
+1199
+00:52:15,040 --> 00:52:18,080
+any business TV show person, it's just like,
+
+1200
+00:52:18,080 --> 00:52:19,200
+well, if they didn't vote for him,
+
+1201
+00:52:19,200 --> 00:52:21,280
+they're at least heavily benefiting
+
+1202
+00:52:21,280 --> 00:52:23,320
+from Donald Trump's policies.
+
+1203
+00:52:23,320 --> 00:52:24,640
+Yes.
+
+1204
+00:52:24,640 --> 00:52:28,120
+But yes, so overpouring is happening
+
+1205
+00:52:28,120 --> 00:52:30,880
+in those Casamigos ads.
+
+1206
+00:52:31,920 --> 00:52:35,240
+But you know what, let's get to some of the ads.
+
+1207
+00:52:36,520 --> 00:52:38,200
+Did you see these ads?
+
+1208
+00:52:38,200 --> 00:52:40,000
+The commercial? Have you seen these ads?
+
+1209
+00:52:40,040 --> 00:52:42,400
+Like the press, cause this website, wait,
+
+1210
+00:52:42,400 --> 00:52:45,320
+the press section, the House of Friends section,
+
+1211
+00:52:45,320 --> 00:52:46,360
+what are you talking about?
+
+1212
+00:52:46,360 --> 00:52:48,480
+Or like the advertisement section.
+
+1213
+00:52:48,480 --> 00:52:50,560
+I just looked on YouTube for Casamigos.
+
+1214
+00:52:50,560 --> 00:52:53,760
+What is House of Friends is loosely the translation
+
+1215
+00:52:53,760 --> 00:52:55,480
+for Casamigos, of course.
+
+1216
+00:52:55,480 --> 00:52:59,480
+Yes, and well the House of Friends tab gets you to see
+
+1217
+00:52:59,480 --> 00:53:02,440
+pictures of all the events that Casamigos sponsored
+
+1218
+00:53:02,440 --> 00:53:04,680
+and all of the brands friends.
+
+1219
+00:53:04,680 --> 00:53:06,360
+And there's an interesting thing,
+
+1220
+00:53:06,360 --> 00:53:08,400
+but let's stick to the press.
+
+1221
+00:53:08,400 --> 00:53:09,240
+Sure, you're right.
+
+1222
+00:53:09,920 --> 00:53:11,320
+I'm getting too excited about the topic.
+
+1223
+00:53:11,320 --> 00:53:12,160
+You're getting too excited.
+
+1224
+00:53:12,160 --> 00:53:13,000
+Let's go.
+
+1225
+00:53:13,880 --> 00:53:17,840
+So I just grabbed a couple of press clip-ics
+
+1226
+00:53:18,760 --> 00:53:20,760
+that I enjoyed.
+
+1227
+00:53:20,760 --> 00:53:24,080
+One is, do you know about the collaboration
+
+1228
+00:53:24,080 --> 00:53:26,000
+with the Omega watch brand?
+
+1229
+00:53:26,000 --> 00:53:27,400
+Oh, I don't actually.
+
+1230
+00:53:27,400 --> 00:53:28,880
+Thank you. Please enlighten me.
+
+1231
+00:53:28,880 --> 00:53:29,960
+I will. All right.
+
+1232
+00:53:29,960 --> 00:53:31,760
+I'm gonna share this screen with you.
+
+1233
+00:53:31,760 --> 00:53:36,400
+So Omega is a high end watch brand.
+
+1234
+00:53:36,440 --> 00:53:39,720
+And they did a collaboration with Casamigos.
+
+1235
+00:53:39,720 --> 00:53:42,560
+I'm sharing it with you now.
+
+1236
+00:53:42,560 --> 00:53:43,880
+It's a pretty standard,
+
+1237
+00:53:43,880 --> 00:53:47,400
+it's a Seamaster Planet Ocean watch.
+
+1238
+00:53:47,400 --> 00:53:50,800
+It's a pretty standard, like, you know,
+
+1239
+00:53:50,800 --> 00:53:52,280
+are they called chronometer?
+
+1240
+00:53:52,280 --> 00:53:54,400
+It's like a nice looking watch.
+
+1241
+00:53:54,400 --> 00:53:56,080
+You know, it's a nice kind of-
+
+1242
+00:53:56,080 --> 00:53:56,920
+Of course.
+
+1243
+00:53:58,280 --> 00:54:01,680
+Watch that someone on a boat or a pilot might have.
+
+1244
+00:54:02,680 --> 00:54:06,600
+Do you want to take a guess at what this watch,
+
+1245
+00:54:06,600 --> 00:54:09,840
+which by the way, has touches of turquoise,
+
+1246
+00:54:09,840 --> 00:54:14,840
+like the Casamigos brand, the Casamigos bottle.
+
+1247
+00:54:15,480 --> 00:54:17,680
+You can see Omega in turquoise
+
+1248
+00:54:17,680 --> 00:54:19,720
+and some other turquoise touches on the face.
+
+1249
+00:54:19,720 --> 00:54:23,440
+Can you guess what this watch retails at?
+
+1250
+00:54:25,720 --> 00:54:29,520
+I have to imagine it's very expensive.
+
+1251
+00:54:29,520 --> 00:54:31,520
+I keep, yes, okay.
+
+1252
+00:54:32,360 --> 00:54:34,200
+What is your definition for very expensive?
+
+1253
+00:54:34,200 --> 00:54:37,000
+Well, when we're dealing with the elites,
+
+1254
+00:54:37,000 --> 00:54:40,520
+when the world of your Randy's and your George's
+
+1255
+00:54:40,520 --> 00:54:43,240
+and the price point of their tequila already,
+
+1256
+00:54:43,240 --> 00:54:46,120
+which is not maybe necessarily for the common man,
+
+1257
+00:54:47,000 --> 00:54:52,000
+I would say this watch is $750.
+
+1258
+00:54:56,280 --> 00:55:00,400
+Okay, well by price is right rules, you did not go over.
+
+1259
+00:55:00,400 --> 00:55:04,120
+This watch retails for $11,600.
+
+1260
+00:55:04,120 --> 00:55:04,960
+What?
+
+1261
+00:55:04,960 --> 00:55:05,800
+Yeah.
+
+1262
+00:55:05,800 --> 00:55:07,600
+What does it do?
+
+1263
+00:55:07,600 --> 00:55:08,880
+It tells time.
+
+1264
+00:55:11,000 --> 00:55:11,840
+That's it?
+
+1265
+00:55:11,840 --> 00:55:14,720
+It's not even like a spy watch where you could kill a man
+
+1266
+00:55:14,720 --> 00:55:16,520
+with some piano wire inside?
+
+1267
+00:55:16,520 --> 00:55:19,280
+I mean, presumably it's very solidly made.
+
+1268
+00:55:19,280 --> 00:55:23,920
+So you can maybe, with force, it's like a blunt instrument.
+
+1269
+00:55:23,920 --> 00:55:25,960
+Okay, but there's nothing special
+
+1270
+00:55:25,960 --> 00:55:28,720
+other than it's got like the Casamigos logo on it?
+
+1271
+00:55:29,560 --> 00:55:30,400
+That's correct.
+
+1272
+00:55:30,400 --> 00:55:31,240
+It doesn't even have that.
+
+1273
+00:55:31,240 --> 00:55:34,400
+It just has touches of the Casamigos turquoise.
+
+1274
+00:55:34,400 --> 00:55:35,240
+Interesting.
+
+1275
+00:55:35,240 --> 00:55:38,640
+Can you still buy that?
+
+1276
+00:55:38,640 --> 00:55:39,480
+Do you know?
+
+1277
+00:55:40,640 --> 00:55:44,400
+I think you can, there are like resale websites
+
+1278
+00:55:44,400 --> 00:55:46,000
+and secondhand websites.
+
+1279
+00:55:47,160 --> 00:55:50,040
+Someone had a funny thread on Twitter
+
+1280
+00:55:50,040 --> 00:55:55,040
+where they talked about working an event at Oakley stores.
+
+1281
+00:55:55,880 --> 00:56:00,880
+And they were like, I think it was Alex Q. Arbuckle.
+
+1282
+00:56:02,280 --> 00:56:04,880
+And he said, the people who collect Oakley sunglasses
+
+1283
+00:56:04,880 --> 00:56:07,400
+are very particular type of guy.
+
+1284
+00:56:07,400 --> 00:56:12,400
+And vintage Oakley sunglasses go for like $200 to $500.
+
+1285
+00:56:13,760 --> 00:56:15,720
+And that already seems like a lot
+
+1286
+00:56:15,720 --> 00:56:17,920
+to have the sunglasses Tom Cruise wore
+
+1287
+00:56:17,920 --> 00:56:20,120
+at the start of Mission Impossible 2.
+
+1288
+00:56:20,120 --> 00:56:22,080
+The style, not the authentic ones.
+
+1289
+00:56:22,080 --> 00:56:24,480
+I'm sure the authentic ones go for a lot.
+
+1290
+00:56:24,880 --> 00:56:25,840
+I hate to sidetrack.
+
+1291
+00:56:25,840 --> 00:56:27,480
+Did you see the stunt that they're planning
+
+1292
+00:56:27,480 --> 00:56:29,440
+for Mission Impossible 7?
+
+1293
+00:56:29,440 --> 00:56:30,560
+What is it?
+
+1294
+00:56:30,560 --> 00:56:32,560
+Oh, should I spoil it here?
+
+1295
+00:56:32,560 --> 00:56:34,440
+All right, here, let me give everyone
+
+1296
+00:56:34,440 --> 00:56:36,360
+like five seconds here to get out.
+
+1297
+00:56:36,360 --> 00:56:38,320
+Can I spoil it for you?
+
+1298
+00:56:38,320 --> 00:56:39,720
+Yeah, is this the space?
+
+1299
+00:56:39,720 --> 00:56:40,560
+This is not space.
+
+1300
+00:56:40,560 --> 00:56:41,400
+No, they're not going to space.
+
+1301
+00:56:41,400 --> 00:56:42,240
+That's a different movie apparently.
+
+1302
+00:56:42,240 --> 00:56:43,440
+That's a different movie.
+
+1303
+00:56:43,440 --> 00:56:45,440
+He's very interested in going to space.
+
+1304
+00:56:45,440 --> 00:56:50,440
+Elon Musk involved, which means bye-bye Tom.
+
+1305
+00:56:52,040 --> 00:56:54,080
+So Mission Impossible 7.
+
+1306
+00:56:54,880 --> 00:56:55,720
+All right, I'm going to give you everyone,
+
+1307
+00:56:55,720 --> 00:56:56,880
+if you don't want to hear the spoiler,
+
+1308
+00:56:56,880 --> 00:56:59,720
+I'm going to give you five seconds
+
+1309
+00:56:59,720 --> 00:57:00,840
+and then I'm going to start talking.
+
+1310
+00:57:00,840 --> 00:57:03,880
+One, two, three, four, five.
+
+1311
+00:57:03,880 --> 00:57:05,800
+So on the side of a cliff,
+
+1312
+00:57:05,800 --> 00:57:08,040
+there's a giant like evil Knievel ramp.
+
+1313
+00:57:08,040 --> 00:57:10,040
+Apparently Tom Cruise is going to motorcycle
+
+1314
+00:57:10,040 --> 00:57:12,480
+off the ramp and skydive off of it.
+
+1315
+00:57:14,840 --> 00:57:16,720
+There's photos online on Twitter.
+
+1316
+00:57:16,720 --> 00:57:18,220
+That's great.
+
+1317
+00:57:18,220 --> 00:57:20,320
+Yeah, I think he may also have be like attached
+
+1318
+00:57:20,320 --> 00:57:23,400
+to a helicopter, but I'm not sure if that's just for safety
+
+1319
+00:57:23,400 --> 00:57:24,520
+and they'll take that out later
+
+1320
+00:57:24,520 --> 00:57:25,960
+or that's part of it as well.
+
+1321
+00:57:25,960 --> 00:57:28,480
+Ace, he's got to recover from seeing Tenet
+
+1322
+00:57:28,480 --> 00:57:30,520
+in a movie theater first.
+
+1323
+00:57:30,520 --> 00:57:32,640
+If you have not seen the Tom Cruise video
+
+1324
+00:57:32,640 --> 00:57:35,320
+of him seeing Tenet in like England or something,
+
+1325
+00:57:35,320 --> 00:57:36,680
+highly recommended.
+
+1326
+00:57:37,520 --> 00:57:39,520
+He's like, oh, back to the movies.
+
+1327
+00:57:40,640 --> 00:57:42,240
+And then he's like very serious about it
+
+1328
+00:57:42,240 --> 00:57:43,960
+as if he's like making some sort of statement.
+
+1329
+00:57:43,960 --> 00:57:46,320
+Like he's wearing a mask and then somebody goes,
+
+1330
+00:57:46,320 --> 00:57:47,320
+so Tom, did you like the movie?
+
+1331
+00:57:47,320 --> 00:57:48,560
+And he goes, loved it.
+
+1332
+00:57:49,920 --> 00:57:51,560
+Like very sincere.
+
+1333
+00:57:51,560 --> 00:57:53,040
+Nothing he does is insincere.
+
+1334
+00:57:54,120 --> 00:57:55,560
+Anyway, it's interesting.
+
+1335
+00:57:55,560 --> 00:57:59,640
+Tom Cruise does not have a celebrity liquor.
+
+1336
+00:57:59,640 --> 00:58:03,040
+Well, I think Scientology does pride itself
+
+1337
+00:58:03,040 --> 00:58:04,920
+on a little on cleaner living.
+
+1338
+00:58:04,920 --> 00:58:07,600
+So I guess that's right.
+
+1339
+00:58:07,600 --> 00:58:12,600
+That was the woman who plays Veronica's mother on Riverdale.
+
+1340
+00:58:15,320 --> 00:58:16,680
+The story came out about her,
+
+1341
+00:58:16,680 --> 00:58:19,520
+about how she has like helped the FBI
+
+1342
+00:58:19,520 --> 00:58:21,800
+in like actual sex trafficking cases,
+
+1343
+00:58:21,800 --> 00:58:24,000
+like go undercover and stuff.
+
+1344
+00:58:24,000 --> 00:58:24,840
+Wow.
+
+1345
+00:58:25,720 --> 00:58:27,560
+But very like the last,
+
+1346
+00:58:29,080 --> 00:58:32,160
+and she volunteers, she has her own organization,
+
+1347
+00:58:32,160 --> 00:58:33,440
+volunteers her time.
+
+1348
+00:58:34,480 --> 00:58:36,240
+And either the last paragraph
+
+1349
+00:58:36,240 --> 00:58:38,800
+or second to last paragraph said,
+
+1350
+00:58:38,800 --> 00:58:42,000
+now she is a Scientologist and she says,
+
+1351
+00:58:42,000 --> 00:58:44,320
+the rumors about abuse in that organization
+
+1352
+00:58:44,320 --> 00:58:46,320
+are totally unfounded.
+
+1353
+00:58:46,320 --> 00:58:47,160
+Okay.
+
+1354
+00:58:47,160 --> 00:58:49,000
+Well, if she said it.
+
+1355
+00:58:49,000 --> 00:58:50,360
+She said it, you know.
+
+1356
+00:58:50,360 --> 00:58:51,320
+Hey, but you know,
+
+1357
+00:58:51,320 --> 00:58:54,640
+that's what I like about these celebrity liquor companies.
+
+1358
+00:58:54,640 --> 00:58:57,400
+You know, it's very richy, bougie,
+
+1359
+00:58:59,640 --> 00:59:01,600
+pretty harmless, you know, overall
+
+1360
+00:59:01,600 --> 00:59:04,520
+of like what rich people can do with their time and money.
+
+1361
+00:59:05,480 --> 00:59:06,320
+Yes, I agree.
+
+1362
+00:59:06,320 --> 00:59:07,400
+I mean, let me, you know what?
+
+1363
+00:59:07,400 --> 00:59:09,000
+I'm gonna call an audible here
+
+1364
+00:59:09,000 --> 00:59:11,080
+and I'm gonna give you a quiz.
+
+1365
+00:59:11,080 --> 00:59:11,920
+Would that be okay?
+
+1366
+00:59:11,920 --> 00:59:13,560
+It's not Potato or Jason.
+
+1367
+00:59:13,560 --> 00:59:14,400
+Okay, sure.
+
+1368
+00:59:14,400 --> 00:59:15,320
+Don't worry about that.
+
+1369
+00:59:15,320 --> 00:59:16,440
+That's for only for Marissa.
+
+1370
+00:59:16,440 --> 00:59:17,280
+That's fine.
+
+1371
+00:59:17,280 --> 00:59:18,200
+Yeah.
+
+1372
+00:59:18,200 --> 00:59:19,880
+I'm gonna give you a quiz.
+
+1373
+00:59:19,880 --> 00:59:22,800
+Is this a real celebrity liquor?
+
+1374
+00:59:22,800 --> 00:59:23,640
+Okay.
+
+1375
+00:59:23,640 --> 00:59:26,560
+Let me put my feet up like Randy is here.
+
+1376
+00:59:26,560 --> 00:59:27,400
+Oh my God.
+
+1377
+00:59:27,400 --> 00:59:28,680
+See, Randy plays a guitar too.
+
+1378
+00:59:28,680 --> 00:59:29,680
+Can you imagine?
+
+1379
+00:59:30,920 --> 00:59:31,880
+Can you imagine what it sounds like
+
+1380
+00:59:31,880 --> 00:59:34,480
+when Randy Gerber plays an A minor?
+
+1381
+00:59:34,480 --> 00:59:37,080
+Oh, I wonder what song he played for the reporters
+
+1382
+00:59:37,080 --> 00:59:40,920
+and photographer from Los Angeles Confidential Magazine
+
+1383
+00:59:40,920 --> 00:59:43,720
+where he's playing the guitar with his feet up.
+
+1384
+00:59:43,720 --> 00:59:45,120
+Okay, let's get to the quiz.
+
+1385
+00:59:46,560 --> 00:59:47,880
+You know, what's funny about this is that
+
+1386
+00:59:47,880 --> 00:59:50,880
+when you do this, I can't look at my notes.
+
+1387
+00:59:50,880 --> 00:59:51,720
+Oh, okay.
+
+1388
+00:59:53,080 --> 00:59:54,760
+So, okay, great.
+
+1389
+00:59:54,760 --> 00:59:57,440
+Okay, so we'll do a few of these here.
+
+1390
+00:59:57,440 --> 00:59:59,040
+So these are, you have to tell me
+
+1391
+00:59:59,040 --> 01:00:01,400
+if this is a real celebrity liquor
+
+1392
+01:00:01,400 --> 01:00:04,440
+or a fake celebrity liquor, all right?
+
+1393
+01:00:04,440 --> 01:00:05,280
+Okay.
+
+1394
+01:00:05,280 --> 01:00:06,100
+So very simple.
+
+1395
+01:00:06,100 --> 01:00:06,940
+We don't even have one.
+
+1396
+01:00:06,940 --> 01:00:07,780
+You're not playing against anyone,
+
+1397
+01:00:07,780 --> 01:00:08,600
+so it doesn't really matter,
+
+1398
+01:00:08,600 --> 01:00:10,040
+but everyone can play at home.
+
+1399
+01:00:10,040 --> 01:00:11,160
+Okay.
+
+1400
+01:00:11,160 --> 01:00:15,960
+Is it true that Bob Dylan has a celebrity liquor
+
+1401
+01:00:15,960 --> 01:00:18,120
+called Heaven's Door Whiskey?
+
+1402
+01:00:19,600 --> 01:00:21,720
+Is that true or false?
+
+1403
+01:00:24,080 --> 01:00:25,500
+I think that's true.
+
+1404
+01:00:26,640 --> 01:00:27,720
+You are correct.
+
+1405
+01:00:27,720 --> 01:00:32,720
+Bob Dylan does have a liquor called Heaven's Door Whiskey.
+
+1406
+01:00:33,640 --> 01:00:35,160
+Okay.
+
+1407
+01:00:35,160 --> 01:00:37,660
+All right, question number two.
+
+1408
+01:00:38,800 --> 01:00:43,800
+Does Billy Gibbons from ZZ Top
+
+1409
+01:00:44,120 --> 01:00:46,920
+have a liquor called Pura Vida?
+
+1410
+01:00:50,800 --> 01:00:53,480
+I think that one sounds a little too perfect.
+
+1411
+01:00:53,480 --> 01:00:54,760
+I'm gonna say false.
+
+1412
+01:00:55,640 --> 01:00:56,960
+That is true.
+
+1413
+01:00:56,960 --> 01:01:00,080
+Billy Gibbons does have a liquor called Pura Vida,
+
+1414
+01:01:00,080 --> 01:01:03,480
+which I did not write down what kind of liquor it is.
+
+1415
+01:01:03,480 --> 01:01:04,300
+Okay.
+
+1416
+01:01:05,160 --> 01:01:08,380
+Does, question three.
+
+1417
+01:01:08,380 --> 01:01:13,380
+Does Sting, the musician Sting, not the wrestler,
+
+1418
+01:01:13,460 --> 01:01:18,460
+have a brand of champagne called Champagne in a Bottle?
+
+1419
+01:01:23,100 --> 01:01:23,940
+False.
+
+1420
+01:01:25,300 --> 01:01:26,380
+That is correct.
+
+1421
+01:01:26,380 --> 01:01:27,500
+That is not real.
+
+1422
+01:01:27,500 --> 01:01:28,340
+That is made up.
+
+1423
+01:01:28,340 --> 01:01:29,980
+I made that up.
+
+1424
+01:01:29,980 --> 01:01:32,940
+Here, we'll do a couple more here.
+
+1425
+01:01:32,940 --> 01:01:35,700
+Does, question four.
+
+1426
+01:01:35,700 --> 01:01:40,480
+Does Marilyn Manson have his own brand of absinthe
+
+1427
+01:01:40,480 --> 01:01:42,040
+called Mansonth?
+
+1428
+01:01:44,140 --> 01:01:46,540
+That's gotta be true, right?
+
+1429
+01:01:46,540 --> 01:01:47,500
+That is true.
+
+1430
+01:01:47,500 --> 01:01:48,420
+Okay. Yes.
+
+1431
+01:01:50,340 --> 01:01:53,540
+Okay, let's do one more.
+
+1432
+01:01:53,540 --> 01:01:55,980
+Okay, question five.
+
+1433
+01:01:55,980 --> 01:01:59,380
+Does Judge Larry from the Anna Nicole Smith trial
+
+1434
+01:01:59,380 --> 01:02:04,380
+have his own brand of gin called The Verdict Gin?
+
+1435
+01:02:06,180 --> 01:02:08,140
+Now, Judge Larry is still alive.
+
+1436
+01:02:08,140 --> 01:02:09,540
+Judge Wapner is dead.
+
+1437
+01:02:09,540 --> 01:02:10,380
+Is that correct?
+
+1438
+01:02:10,380 --> 01:02:12,220
+Judge Wapner is dead.
+
+1439
+01:02:12,220 --> 01:02:14,180
+Judge Larry, I believe, is still alive.
+
+1440
+01:02:14,180 --> 01:02:15,500
+I honestly did not check.
+
+1441
+01:02:19,660 --> 01:02:21,780
+I'll say that's false.
+
+1442
+01:02:21,780 --> 01:02:22,620
+You are correct.
+
+1443
+01:02:22,620 --> 01:02:23,440
+That is false.
+
+1444
+01:02:23,440 --> 01:02:26,640
+Judge Larry does not have his own liquor.
+
+1445
+01:02:26,640 --> 01:02:29,460
+Now, okay, so the game could go on and on.
+
+1446
+01:02:29,460 --> 01:02:31,860
+I formulated, or I tabulated,
+
+1447
+01:02:31,860 --> 01:02:33,340
+I don't know what you would say,
+
+1448
+01:02:33,340 --> 01:02:38,340
+a list of 40 different celebrity, real celebrity liquors.
+
+1449
+01:02:39,340 --> 01:02:42,580
+Martha Stewart, Chris Noth,
+
+1450
+01:02:42,580 --> 01:02:46,260
+the Mr. Big from Sex and the City has a tequila.
+
+1451
+01:02:46,260 --> 01:02:48,500
+Luke Bryan has a lager,
+
+1452
+01:02:48,500 --> 01:02:51,360
+the Tulane American Golden Lager.
+
+1453
+01:02:51,360 --> 01:02:54,540
+Kenny Chesney has Blue Chair Bay Rum.
+
+1454
+01:02:54,540 --> 01:02:57,900
+George Strait has Codigo Tequila.
+
+1455
+01:02:57,900 --> 01:03:00,940
+Ludacris, of course, has Conjured Cognac.
+
+1456
+01:03:01,860 --> 01:03:06,860
+Robert De Niro, VDK, A, 6100.
+
+1457
+01:03:07,540 --> 01:03:08,580
+And then, of course,
+
+1458
+01:03:08,580 --> 01:03:10,060
+you know what I should have done in the quiz?
+
+1459
+01:03:10,060 --> 01:03:12,140
+I really should have prepared it better.
+
+1460
+01:03:12,140 --> 01:03:16,740
+Billy Bush has a whiskey called Beach Whiskey.
+
+1461
+01:03:16,740 --> 01:03:18,060
+Oh.
+
+1462
+01:03:18,060 --> 01:03:21,620
+Yes, the famous, grab them by the you know what,
+
+1463
+01:03:22,680 --> 01:03:23,660
+Billy Bush.
+
+1464
+01:03:23,660 --> 01:03:24,660
+Billy Bush.
+
+1465
+01:03:24,660 --> 01:03:28,500
+Has his own brand of whiskey called Beach Whiskey.
+
+1466
+01:03:28,500 --> 01:03:29,580
+So that's fun.
+
+1467
+01:03:29,580 --> 01:03:31,100
+Go and look all of those up.
+
+1468
+01:03:31,100 --> 01:03:33,940
+Of course, I think it'll come out later,
+
+1469
+01:03:33,940 --> 01:03:38,020
+but I mentioned John Bon Jovi's new rosé,
+
+1470
+01:03:38,020 --> 01:03:39,880
+which is called Hampton Water.
+
+1471
+01:03:43,140 --> 01:03:44,740
+Which is very, you know, look,
+
+1472
+01:03:44,740 --> 01:03:46,300
+the more the better, I say.
+
+1473
+01:03:47,660 --> 01:03:50,420
+Post Malone has Maison Number Nine.
+
+1474
+01:03:51,260 --> 01:03:53,260
+Did we know what that is?
+
+1475
+01:03:53,260 --> 01:03:54,900
+I have to look it up.
+
+1476
+01:03:54,900 --> 01:03:56,620
+And you sent me the Snoop Dogg,
+
+1477
+01:03:56,620 --> 01:03:59,520
+Snoop Dogg rolling out his own line of gin.
+
+1478
+01:04:00,400 --> 01:04:02,940
+Right, and he's already been affiliated with other liquors,
+
+1479
+01:04:02,940 --> 01:04:06,540
+but now yes, who knows gin better than Mr. Gin and Juice?
+
+1480
+01:04:08,040 --> 01:04:10,900
+Post Malone's is a rosé as well.
+
+1481
+01:04:10,900 --> 01:04:12,100
+Okay, yeah.
+
+1482
+01:04:12,100 --> 01:04:16,440
+And I believe the fat Jewish, he has a rosé.
+
+1483
+01:04:16,440 --> 01:04:17,600
+Does he really?
+
+1484
+01:04:17,600 --> 01:04:19,020
+Yeah.
+
+1485
+01:04:19,020 --> 01:04:22,660
+Called like, I forget what it's called.
+
+1486
+01:04:22,660 --> 01:04:25,340
+There's a place out in Los Angeles called Howlin' Rays,
+
+1487
+01:04:25,340 --> 01:04:26,860
+which is hot chicken.
+
+1488
+01:04:26,860 --> 01:04:30,780
+And just by happenstance, two friends of mine,
+
+1489
+01:04:30,820 --> 01:04:33,020
+well, I guess a friend of the show, Evan Susser,
+
+1490
+01:04:33,020 --> 01:04:35,500
+we had the Ghost Malone,
+
+1491
+01:04:35,500 --> 01:04:39,900
+which was a special Post Malone created sandwich.
+
+1492
+01:04:39,900 --> 01:04:40,820
+Oh.
+
+1493
+01:04:40,820 --> 01:04:42,940
+Which had a good ghost pepper cheese.
+
+1494
+01:04:42,940 --> 01:04:45,260
+So I have sampled some of his food.
+
+1495
+01:04:45,260 --> 01:04:46,100
+Some of his wares.
+
+1496
+01:04:46,100 --> 01:04:47,300
+Items before, yeah.
+
+1497
+01:04:47,300 --> 01:04:51,340
+I like that sunflower song he did for the Spider-Man movie.
+
+1498
+01:04:51,340 --> 01:04:53,300
+They did a cool video for it.
+
+1499
+01:04:53,300 --> 01:04:55,780
+I don't think I know what you're talking about.
+
+1500
+01:04:55,780 --> 01:04:56,620
+It was a big hit.
+
+1501
+01:04:57,380 --> 01:05:01,540
+Just in the dust, like a sunflower.
+
+1502
+01:05:01,540 --> 01:05:02,820
+There was like a music video
+
+1503
+01:05:02,820 --> 01:05:04,620
+with like comic panels and stuff.
+
+1504
+01:05:04,620 --> 01:05:05,460
+It's good.
+
+1505
+01:05:05,460 --> 01:05:06,280
+Yeah.
+
+1506
+01:05:06,280 --> 01:05:07,620
+I don't know anything about this.
+
+1507
+01:05:07,620 --> 01:05:08,820
+Well, you have to send this to me.
+
+1508
+01:05:08,820 --> 01:05:09,660
+Yeah.
+
+1509
+01:05:10,700 --> 01:05:13,220
+So yeah, so I'm, the more the better.
+
+1510
+01:05:13,220 --> 01:05:15,380
+Of course, The Rock has Tear-A-Mana tequila,
+
+1511
+01:05:15,380 --> 01:05:16,300
+which I have a bottle of.
+
+1512
+01:05:16,300 --> 01:05:17,660
+I have not cracked it open.
+
+1513
+01:05:19,420 --> 01:05:22,100
+But I'm saving that for maybe a special occasion.
+
+1514
+01:05:22,100 --> 01:05:25,060
+Now, The Rock is the other guy
+
+1515
+01:05:25,060 --> 01:05:27,860
+who when you open the Tear-A-Mana website,
+
+1516
+01:05:27,860 --> 01:05:31,100
+it is exactly like the Cosmogor's website.
+
+1517
+01:05:31,100 --> 01:05:32,620
+He is in the field.
+
+1518
+01:05:32,620 --> 01:05:34,540
+He's drinking with the workers.
+
+1519
+01:05:34,540 --> 01:05:36,100
+He's drinking at a picnic table.
+
+1520
+01:05:36,100 --> 01:05:39,260
+He's like really pouring, really heavy pours.
+
+1521
+01:05:40,140 --> 01:05:42,020
+Yes, that's true.
+
+1522
+01:05:42,020 --> 01:05:44,900
+And I think that is a winning strategy.
+
+1523
+01:05:44,900 --> 01:05:46,060
+I have a few more things to say,
+
+1524
+01:05:46,060 --> 01:05:49,140
+and then we'll talk about strategy in a second.
+
+1525
+01:05:49,140 --> 01:05:49,980
+Yeah.
+
+1526
+01:05:50,940 --> 01:05:54,580
+I will say, somebody pointed out to me on our Facebook group
+
+1527
+01:05:55,020 --> 01:05:57,940
+and it was a post by Christopher Arrearilio,
+
+1528
+01:05:57,940 --> 01:05:59,020
+I think is your name.
+
+1529
+01:05:59,020 --> 01:06:02,380
+I apologize if it's not, if I got that wrong,
+
+1530
+01:06:02,380 --> 01:06:04,060
+that in Dumb and Dumber 2,
+
+1531
+01:06:04,980 --> 01:06:08,300
+there is brand product placement
+
+1532
+01:06:08,300 --> 01:06:10,740
+for Cosmogor's in the background.
+
+1533
+01:06:10,740 --> 01:06:11,580
+Ha ha ha.
+
+1534
+01:06:14,420 --> 01:06:15,980
+And I just want to mention that,
+
+1535
+01:06:15,980 --> 01:06:17,700
+like obviously the brand is getting out there.
+
+1536
+01:06:17,700 --> 01:06:20,380
+People are becoming more aware of it.
+
+1537
+01:06:20,380 --> 01:06:23,460
+That was a worldwide smash, I assume, Dumb and Dumber 2.
+
+1538
+01:06:24,660 --> 01:06:28,340
+Yeah, well, not to get too morbid,
+
+1539
+01:06:28,340 --> 01:06:31,420
+but as we learned this week, very sad,
+
+1540
+01:06:31,420 --> 01:06:34,660
+The Rock and his family were fighting coronavirus.
+
+1541
+01:06:34,660 --> 01:06:37,740
+But as you and I were simultaneously working
+
+1542
+01:06:37,740 --> 01:06:39,740
+on this episode, it caught my eye
+
+1543
+01:06:39,740 --> 01:06:42,820
+that he was wearing his TerraMana tequila hoodie.
+
+1544
+01:06:42,820 --> 01:06:45,980
+And there was three picture perfect bottles
+
+1545
+01:06:45,980 --> 01:06:48,860
+of TerraMana tequila in the background,
+
+1546
+01:06:48,860 --> 01:06:51,780
+right in a perfect view of the camera.
+
+1547
+01:06:51,900 --> 01:06:55,980
+Okay, so I like, look, I'm a big wrestling fan.
+
+1548
+01:06:55,980 --> 01:06:57,780
+I was a big wrestling fan when The Rock,
+
+1549
+01:06:57,780 --> 01:06:58,980
+it was The Rock's heyday.
+
+1550
+01:06:58,980 --> 01:07:03,300
+I remember seeing The Rock at the Allstate Arena,
+
+1551
+01:07:03,300 --> 01:07:05,740
+then probably the Rosemont Horizon.
+
+1552
+01:07:05,740 --> 01:07:10,060
+I've never heard any person or group
+
+1553
+01:07:10,060 --> 01:07:12,020
+get the reaction The Rock would get,
+
+1554
+01:07:12,020 --> 01:07:13,380
+like when he would come out.
+
+1555
+01:07:14,300 --> 01:07:16,420
+So I'm just saying I'm a big fan of The Rock.
+
+1556
+01:07:16,420 --> 01:07:19,020
+So I follow him on Instagram now.
+
+1557
+01:07:19,060 --> 01:07:23,700
+And one of the things I like is he posts his cheat meals.
+
+1558
+01:07:23,700 --> 01:07:26,540
+Yeah, he goes nuts with those cheat meals.
+
+1559
+01:07:26,540 --> 01:07:27,660
+Like he really cuts loose.
+
+1560
+01:07:27,660 --> 01:07:29,740
+Yeah, for a while it was sushi.
+
+1561
+01:07:29,740 --> 01:07:31,140
+He would go like, he would literally eat
+
+1562
+01:07:31,140 --> 01:07:34,940
+like 70 pieces of sushi or a hundred pieces of sushi.
+
+1563
+01:07:34,940 --> 01:07:39,700
+And then lately he's been making like giant pancakes
+
+1564
+01:07:39,700 --> 01:07:43,260
+with just the most insane spread of peanut butter on them.
+
+1565
+01:07:43,260 --> 01:07:46,020
+Like just insane amounts.
+
+1566
+01:07:46,020 --> 01:07:47,780
+Like you would think it would be like half the jar
+
+1567
+01:07:47,780 --> 01:07:50,060
+would be on these pancakes.
+
+1568
+01:07:50,060 --> 01:07:51,180
+So I like following that.
+
+1569
+01:07:51,180 --> 01:07:54,540
+Now I've noticed since the tequila,
+
+1570
+01:07:54,540 --> 01:07:56,460
+it's always got, there's always a glass
+
+1571
+01:07:56,460 --> 01:07:59,660
+and a perfectly placed bottle of Terra Mana tequila
+
+1572
+01:07:59,660 --> 01:08:01,060
+in those shots.
+
+1573
+01:08:01,060 --> 01:08:03,540
+So now he's posting like, you know what, I take it back.
+
+1574
+01:08:03,540 --> 01:08:05,340
+It's pancakes, but it's also French toast.
+
+1575
+01:08:05,340 --> 01:08:07,660
+I think that's actually what he's been doing lately.
+
+1576
+01:08:07,660 --> 01:08:09,500
+He's doing this specific French toast.
+
+1577
+01:08:09,500 --> 01:08:12,700
+And you'll always see a bottle of Terra Mana and a glass.
+
+1578
+01:08:12,700 --> 01:08:14,500
+And there's always a little ad there.
+
+1579
+01:08:14,500 --> 01:08:16,580
+He's always hustling.
+
+1580
+01:08:16,580 --> 01:08:17,740
+You gotta respect the hustle.
+
+1581
+01:08:17,740 --> 01:08:20,660
+As Rivers Cuomo said, you can't knock the hustle
+
+1582
+01:08:20,660 --> 01:08:22,940
+in one of his famous songs.
+
+1583
+01:08:22,940 --> 01:08:27,660
+So I have noticed that yes, product placement has crept in
+
+1584
+01:08:27,660 --> 01:08:32,580
+to the formerly pure posts about cheat meals.
+
+1585
+01:08:32,580 --> 01:08:35,500
+A lot of carbs, heavy on the carbs, those cheat meals.
+
+1586
+01:08:35,500 --> 01:08:38,020
+Right. And believe me, I've seen those sushi pictures
+
+1587
+01:08:38,020 --> 01:08:41,460
+and gone and gotten sushi because of it.
+
+1588
+01:08:41,460 --> 01:08:43,660
+Like it gets me hungry for sushi.
+
+1589
+01:08:43,660 --> 01:08:46,140
+So I get what he's doing.
+
+1590
+01:08:46,180 --> 01:08:48,780
+Because like I ended up with a bottle of Terra Mana
+
+1591
+01:08:48,780 --> 01:08:51,580
+and that was just sort of like I willed it into existence.
+
+1592
+01:08:52,660 --> 01:08:53,700
+Yeah. Like that just happened.
+
+1593
+01:08:53,700 --> 01:08:54,740
+That just came about.
+
+1594
+01:08:56,100 --> 01:08:56,940
+So let's, so yeah.
+
+1595
+01:08:56,940 --> 01:08:58,300
+Oh, so let's get through.
+
+1596
+01:08:58,300 --> 01:08:59,740
+Do you have anything else you want to add
+
+1597
+01:08:59,740 --> 01:09:03,620
+about Casa Amigos as a brand as the Gerbers, George Clooney?
+
+1598
+01:09:03,620 --> 01:09:04,780
+You know what I'll say here
+
+1599
+01:09:04,780 --> 01:09:07,140
+that we didn't get to the commercial real quick.
+
+1600
+01:09:07,140 --> 01:09:08,700
+So there's a big famous story.
+
+1601
+01:09:08,700 --> 01:09:11,780
+This is another thing I like about celebrity endorsed
+
+1602
+01:09:11,780 --> 01:09:14,340
+anything is there's a lot of myth-making.
+
+1603
+01:09:14,340 --> 01:09:18,700
+There's a lot of like one story you tell on press junkets.
+
+1604
+01:09:20,140 --> 01:09:23,540
+And the story they love to tell on press junkets
+
+1605
+01:09:23,540 --> 01:09:26,580
+is that George and Randy were out for the night.
+
+1606
+01:09:26,580 --> 01:09:30,980
+They were tying one on and they both came back and George,
+
+1607
+01:09:30,980 --> 01:09:33,220
+you know, or George and Randy both were, you know
+
+1608
+01:09:33,220 --> 01:09:34,820
+three sheets to the wind.
+
+1609
+01:09:34,820 --> 01:09:37,700
+So Randy said that he usually goes to the guest room
+
+1610
+01:09:37,700 --> 01:09:41,420
+not to wake Cindy up when he comes back late like that.
+
+1611
+01:09:41,420 --> 01:09:44,940
+In this instance, George went to the guest room.
+
+1612
+01:09:44,940 --> 01:09:46,580
+So George got into the bed
+
+1613
+01:09:46,580 --> 01:09:48,140
+because he wasn't going to drive home
+
+1614
+01:09:48,140 --> 01:09:49,980
+and it was too far, whatever.
+
+1615
+01:09:49,980 --> 01:09:52,020
+And Cindy came in at 3 a.m.
+
+1616
+01:09:52,020 --> 01:09:55,020
+and she went over and thought Randy was in the bed.
+
+1617
+01:09:55,020 --> 01:09:59,420
+So she got in the bed with George thinking it was Randy.
+
+1618
+01:09:59,420 --> 01:10:03,500
+Now, what a cool, what a crazy situation this was.
+
+1619
+01:10:03,500 --> 01:10:04,980
+They all had a good laugh.
+
+1620
+01:10:04,980 --> 01:10:07,020
+It wasn't Randy, it was George.
+
+1621
+01:10:07,020 --> 01:10:10,300
+I've seen this story written about
+
+1622
+01:10:10,300 --> 01:10:15,140
+in I think at least five pieces of press from this website.
+
+1623
+01:10:15,140 --> 01:10:19,500
+And now what a big, oh, imagine waking up with George Clooney
+
+1624
+01:10:19,500 --> 01:10:21,980
+but it's not so bad to wake up with Cindy Crawford.
+
+1625
+01:10:21,980 --> 01:10:24,620
+Like this is the narrative over and over again.
+
+1626
+01:10:24,620 --> 01:10:26,020
+Isn't this funny?
+
+1627
+01:10:26,020 --> 01:10:29,860
+I will also say side note that all of the press
+
+1628
+01:10:29,860 --> 01:10:32,540
+for any of this stuff is all bought and paid for.
+
+1629
+01:10:32,540 --> 01:10:35,500
+There's not a critical sentence involved
+
+1630
+01:10:35,500 --> 01:10:38,180
+in any writing about anything here.
+
+1631
+01:10:38,180 --> 01:10:40,900
+There's just no one has done any research.
+
+1632
+01:10:40,900 --> 01:10:43,860
+It's just literally they spent a ton of money
+
+1633
+01:10:43,860 --> 01:10:47,300
+on a Forbes article or their publicist did something.
+
+1634
+01:10:47,300 --> 01:10:49,460
+Anyway, I mean, maybe you know,
+
+1635
+01:10:49,460 --> 01:10:51,020
+the tequila we do know is perfect.
+
+1636
+01:10:51,020 --> 01:10:53,060
+So maybe there's no reason to dig or anything.
+
+1637
+01:10:53,060 --> 01:10:54,700
+Maybe there's no reason, yeah.
+
+1638
+01:10:55,820 --> 01:10:58,620
+So, sorry, sorry, to cut you off real quick.
+
+1639
+01:10:58,620 --> 01:11:02,060
+So this story, did you read this story?
+
+1640
+01:11:02,060 --> 01:11:03,380
+If you're going to talk about the story,
+
+1641
+01:11:03,380 --> 01:11:04,340
+I'll allow what you're about to say.
+
+1642
+01:11:04,340 --> 01:11:06,900
+No, no, no, go ahead.
+
+1643
+01:11:06,900 --> 01:11:11,180
+The only other story I found was how their line of mixers
+
+1644
+01:11:11,180 --> 01:11:14,700
+and barware was through William Sonoma.
+
+1645
+01:11:14,700 --> 01:11:16,460
+And it's like, oh, that's where I hit up
+
+1646
+01:11:16,460 --> 01:11:19,060
+for my drink mixers, William Sonoma.
+
+1647
+01:11:20,660 --> 01:11:23,100
+So you see this here, this YouTube link?
+
+1648
+01:11:23,100 --> 01:11:23,940
+Yeah, yeah.
+
+1649
+01:11:23,940 --> 01:11:28,940
+So this is 2013 and you hear the sexy music.
+
+1650
+01:11:29,100 --> 01:11:30,580
+Randy Gerber goes in this commercial.
+
+1651
+01:11:30,580 --> 01:11:33,100
+He opens up the door and Cindy Crawford,
+
+1652
+01:11:33,100 --> 01:11:36,260
+his wife is in bed with George Clooney.
+
+1653
+01:11:37,700 --> 01:11:40,860
+And they don't know, this is crazy.
+
+1654
+01:11:40,860 --> 01:11:41,700
+Can you imagine?
+
+1655
+01:11:41,700 --> 01:11:45,500
+Then they see a big glamour shot of Casamigos, the bottle.
+
+1656
+01:11:45,500 --> 01:11:46,980
+And it says Casamigos tequila.
+
+1657
+01:11:46,980 --> 01:11:48,740
+Now wait, that's not all.
+
+1658
+01:11:48,740 --> 01:11:50,660
+Now George walks in.
+
+1659
+01:11:50,660 --> 01:11:53,980
+He sees his then girlfriend, former WWE wrestler,
+
+1660
+01:11:53,980 --> 01:11:57,020
+Stacey Keebler in bed with Cindy Crawford.
+
+1661
+01:11:57,020 --> 01:11:58,460
+Can you believe this?
+
+1662
+01:12:00,220 --> 01:12:01,460
+And George gives a huh.
+
+1663
+01:12:02,420 --> 01:12:06,420
+And now we see another shot of Casamigos tequila.
+
+1664
+01:12:07,980 --> 01:12:09,380
+But wait, there's more.
+
+1665
+01:12:09,380 --> 01:12:10,340
+There's one more scene.
+
+1666
+01:12:10,340 --> 01:12:11,460
+Here comes Cindy.
+
+1667
+01:12:12,580 --> 01:12:15,780
+And now Randy and George are in the bed together.
+
+1668
+01:12:16,660 --> 01:12:17,940
+Can you believe this?
+
+1669
+01:12:19,100 --> 01:12:21,900
+And there's Stacey Keebler, George's then girlfriend,
+
+1670
+01:12:21,900 --> 01:12:23,340
+former WWE wrestler.
+
+1671
+01:12:29,780 --> 01:12:30,620
+This is crazy.
+
+1672
+01:12:30,780 --> 01:12:32,180
+Jason, can you believe this?
+
+1673
+01:12:32,180 --> 01:12:33,020
+Can you believe this?
+
+1674
+01:12:33,020 --> 01:12:34,580
+This is crazy.
+
+1675
+01:12:34,580 --> 01:12:35,420
+Perfect.
+
+1676
+01:12:35,420 --> 01:12:36,260
+Can you believe this?
+
+1677
+01:12:36,260 --> 01:12:37,740
+Jason, I don't know if you knew this,
+
+1678
+01:12:37,740 --> 01:12:40,300
+Randy and George are boys.
+
+1679
+01:12:40,300 --> 01:12:44,620
+Hi, it's like a perfect improv show.
+
+1680
+01:12:44,620 --> 01:12:47,780
+It's everything you want.
+
+1681
+01:12:47,780 --> 01:12:48,860
+Very crazy.
+
+1682
+01:12:48,860 --> 01:12:50,860
+So there's a couple other commercials.
+
+1683
+01:12:50,860 --> 01:12:54,420
+There's like a more standard, like what you would imagine.
+
+1684
+01:12:54,420 --> 01:12:56,420
+Sorry, I'll share this one more time.
+
+1685
+01:12:56,860 --> 01:13:00,140
+What you would imagine a sort of commercial
+
+1686
+01:13:00,140 --> 01:13:02,420
+for a high-end liquor is.
+
+1687
+01:13:07,220 --> 01:13:09,300
+We owe great times to good friends.
+
+1688
+01:13:10,260 --> 01:13:12,500
+To the glasses that spark conversation.
+
+1689
+01:13:14,260 --> 01:13:16,380
+To the ideas that then pour out.
+
+1690
+01:13:18,860 --> 01:13:21,500
+Hours came from a night like that.
+
+1691
+01:13:21,500 --> 01:13:22,620
+And somehow,
+
+1692
+01:13:22,620 --> 01:13:24,220
+George and Randy are by the bath.
+
+1693
+01:13:27,420 --> 01:13:29,020
+To make our own tequila.
+
+1694
+01:13:30,620 --> 01:13:32,580
+Won't we be proud to pass around?
+
+1695
+01:13:32,580 --> 01:13:34,700
+Yeah, so they're in the fields now talking.
+
+1696
+01:13:34,700 --> 01:13:36,580
+Wasn't meant to leave our house.
+
+1697
+01:13:38,020 --> 01:13:40,420
+But since we made this for friends,
+
+1698
+01:13:40,420 --> 01:13:42,700
+we thought it wouldn't hurt to make a few more.
+
+1699
+01:13:42,700 --> 01:13:44,580
+Oh, they're all laughing.
+
+1700
+01:13:44,580 --> 01:13:45,420
+They're all friends.
+
+1701
+01:13:45,420 --> 01:13:46,980
+Have a glass, amigo.
+
+1702
+01:13:46,980 --> 01:13:48,860
+Our tequila is your tequila.
+
+1703
+01:13:50,260 --> 01:13:52,180
+Our casa is your casa.
+
+1704
+01:13:53,980 --> 01:13:55,140
+Oh my gosh.
+
+1705
+01:13:56,100 --> 01:13:57,740
+That's all you want, right?
+
+1706
+01:13:57,740 --> 01:14:02,660
+I just want to just run, drive through those fields.
+
+1707
+01:14:02,660 --> 01:14:05,420
+Top speed on a motorcycle, no helmet.
+
+1708
+01:14:06,820 --> 01:14:09,660
+Well, I mean, look.
+
+1709
+01:14:09,660 --> 01:14:11,660
+I think we might have an opportunity
+
+1710
+01:14:13,140 --> 01:14:15,900
+to do something like that, you know?
+
+1711
+01:14:15,900 --> 01:14:17,060
+With like friends?
+
+1712
+01:14:17,060 --> 01:14:20,580
+Like friends like say, this guy?
+
+1713
+01:14:22,020 --> 01:14:23,220
+Or these two?
+
+1714
+01:14:24,180 --> 01:14:27,460
+Jason is showing me pictures from the official PR
+
+1715
+01:14:27,460 --> 01:14:29,020
+of Casa Amigos.
+
+1716
+01:14:29,020 --> 01:14:30,740
+There's a picture here of Bono,
+
+1717
+01:14:30,740 --> 01:14:33,500
+Randy Gerber and George Clooney all together.
+
+1718
+01:14:34,380 --> 01:14:37,420
+Oh, is that William H. Mason and Felicity Huffman?
+
+1719
+01:14:37,420 --> 01:14:39,540
+William H. Mason and Felicity Huffman.
+
+1720
+01:14:39,540 --> 01:14:40,660
+And then on the house.
+
+1721
+01:14:40,660 --> 01:14:41,500
+Oh man.
+
+1722
+01:14:41,500 --> 01:14:42,660
+Oh, okay, it's good.
+
+1723
+01:14:42,660 --> 01:14:44,740
+On the house of friends section on the website,
+
+1724
+01:14:44,740 --> 01:14:46,380
+you can see the,
+
+1725
+01:14:46,380 --> 01:14:49,900
+there's Vin Diesel with a drink at the Blood Shop premiere.
+
+1726
+01:14:49,900 --> 01:14:53,020
+Kate Bosworth's birthday party.
+
+1727
+01:14:53,860 --> 01:14:54,900
+Paris Hilton's birthday.
+
+1728
+01:14:54,900 --> 01:14:56,860
+Lauren Conrad's birthday.
+
+1729
+01:14:56,860 --> 01:14:59,500
+Which kind of fulfills my thesis
+
+1730
+01:14:59,500 --> 01:15:01,980
+that the death of culture,
+
+1731
+01:15:01,980 --> 01:15:05,100
+there has been no new celebrities since 2003.
+
+1732
+01:15:07,220 --> 01:15:08,380
+That's possible.
+
+1733
+01:15:08,380 --> 01:15:09,220
+Yeah.
+
+1734
+01:15:10,180 --> 01:15:12,540
+But I mean, Pete Davidson's newer.
+
+1735
+01:15:12,540 --> 01:15:13,380
+That's true.
+
+1736
+01:15:13,380 --> 01:15:15,060
+And Post Malone is on that page.
+
+1737
+01:15:15,060 --> 01:15:17,340
+So I guess you've got a couples.
+
+1738
+01:15:17,340 --> 01:15:18,180
+There's a couple.
+
+1739
+01:15:18,180 --> 01:15:19,000
+You've got a couple.
+
+1740
+01:15:19,000 --> 01:15:19,840
+Not as many.
+
+1741
+01:15:19,840 --> 01:15:22,860
+I agree with the majority of your hypothesis.
+
+1742
+01:15:23,700 --> 01:15:24,540
+Yeah, so you'll find these photos
+
+1743
+01:15:24,540 --> 01:15:27,620
+of completely candid moments.
+
+1744
+01:15:27,620 --> 01:15:29,540
+Just so candid.
+
+1745
+01:15:29,540 --> 01:15:31,300
+William H. Macy, Felicity Huffman
+
+1746
+01:15:31,300 --> 01:15:34,260
+with three different bottles of Casamigos
+
+1747
+01:15:34,260 --> 01:15:37,540
+in front of them on the table as they're cheersing.
+
+1748
+01:15:37,540 --> 01:15:38,380
+That's candid.
+
+1749
+01:15:38,380 --> 01:15:39,820
+There's no way that was set up.
+
+1750
+01:15:41,140 --> 01:15:41,980
+Sure.
+
+1751
+01:15:41,980 --> 01:15:43,340
+The Bono, Bono was holding a bottle
+
+1752
+01:15:43,340 --> 01:15:46,060
+that does not look like it's been opened.
+
+1753
+01:15:46,060 --> 01:15:47,740
+That picture with Bono looks like
+
+1754
+01:15:47,740 --> 01:15:50,700
+they could have Photoshopped that into his hand as well.
+
+1755
+01:15:50,700 --> 01:15:52,180
+It's very possible.
+
+1756
+01:15:52,180 --> 01:15:55,600
+George's head too looks like maybe that was a stand-in.
+
+1757
+01:15:56,700 --> 01:15:59,100
+And they Photoshopped George's face.
+
+1758
+01:16:00,140 --> 01:16:02,100
+Yeah, I don't know if I trust that photo.
+
+1759
+01:16:02,100 --> 01:16:03,700
+This photo looks odd to me.
+
+1760
+01:16:03,700 --> 01:16:06,180
+That photo was from TMZ.
+
+1761
+01:16:06,180 --> 01:16:07,740
+Hmm.
+
+1762
+01:16:07,740 --> 01:16:10,500
+Well, let's get Harvey on the line
+
+1763
+01:16:10,500 --> 01:16:13,340
+and let's see if Harvey can verify that this is authentic.
+
+1764
+01:16:14,900 --> 01:16:16,020
+So yeah, so there's all this.
+
+1765
+01:16:16,020 --> 01:16:17,980
+I mean, look, go to the Casamigos website.
+
+1766
+01:16:17,980 --> 01:16:20,060
+We'll post some of this on Twitter
+
+1767
+01:16:20,060 --> 01:16:22,940
+if you wanna enjoy all of this fun
+
+1768
+01:16:22,940 --> 01:16:26,220
+with these fun celebrities.
+
+1769
+01:16:26,220 --> 01:16:28,900
+Jason, do you have any more from the website
+
+1770
+01:16:28,900 --> 01:16:29,940
+you wanted to talk about?
+
+1771
+01:16:29,940 --> 01:16:33,060
+I think that's pretty much it.
+
+1772
+01:16:33,060 --> 01:16:35,700
+Again, they got a brand partnership with Williams & Nova
+
+1773
+01:16:35,700 --> 01:16:40,700
+where you go to get your glasses or your mixers.
+
+1774
+01:16:42,140 --> 01:16:46,460
+I think that's, but that's kind of the meat of what I had.
+
+1775
+01:16:46,460 --> 01:16:48,260
+Yeah, I just spent a lot of time on that website
+
+1776
+01:16:48,260 --> 01:16:51,220
+watching those fun videos on a loop.
+
+1777
+01:16:51,220 --> 01:16:54,300
+Right, yeah, so you can enjoy this
+
+1778
+01:16:54,300 --> 01:16:58,620
+just like Jason and I did at your own leisure.
+
+1779
+01:16:59,500 --> 01:17:01,220
+Whatever, at your own leisure.
+
+1780
+01:17:01,220 --> 01:17:03,260
+Just enjoy it at your own leisure is what I'm saying.
+
+1781
+01:17:03,260 --> 01:17:04,180
+Yeah.
+
+1782
+01:17:04,180 --> 01:17:06,020
+But here's what I'm thinking.
+
+1783
+01:17:06,020 --> 01:17:07,500
+And we talked about this a little bit.
+
+1784
+01:17:07,500 --> 01:17:12,500
+And full disclosure, my father had a thought,
+
+1785
+01:17:13,340 --> 01:17:14,780
+cause he listens to the show.
+
+1786
+01:17:15,780 --> 01:17:18,140
+And he's heard all the Randy Gerber talk.
+
+1787
+01:17:18,140 --> 01:17:20,980
+I don't think he necessarily knew who Randy was.
+
+1788
+01:17:20,980 --> 01:17:22,660
+But my father said to me,
+
+1789
+01:17:23,580 --> 01:17:27,820
+why doesn't podcast the ride have their own tequila?
+
+1790
+01:17:29,220 --> 01:17:32,260
+And I said, that is a good question.
+
+1791
+01:17:33,420 --> 01:17:35,940
+I love the sound of that.
+
+1792
+01:17:35,940 --> 01:17:38,300
+And I share this idea with you.
+
+1793
+01:17:38,300 --> 01:17:39,140
+Yeah.
+
+1794
+01:17:39,140 --> 01:17:40,740
+And you were just as enthusiastic.
+
+1795
+01:17:41,940 --> 01:17:43,540
+We're very excited about it.
+
+1796
+01:17:43,540 --> 01:17:44,380
+Sure.
+
+1797
+01:17:44,940 --> 01:17:46,580
+We're doing a little brainstorming.
+
+1798
+01:17:46,580 --> 01:17:50,180
+And I think we've come up with what I'll say right now
+
+1799
+01:17:50,180 --> 01:17:51,620
+is a good pitch.
+
+1800
+01:17:52,580 --> 01:17:55,820
+You know, we don't have the full funding yet.
+
+1801
+01:17:55,820 --> 01:17:58,180
+Maybe we need to find our Michael Meldman.
+
+1802
+01:17:59,780 --> 01:18:02,540
+And I'll say this, right now only you and I
+
+1803
+01:18:02,540 --> 01:18:04,100
+are involved in this.
+
+1804
+01:18:04,100 --> 01:18:04,940
+Yeah.
+
+1805
+01:18:04,940 --> 01:18:06,980
+Scott does, Scott Gerber does not know about this.
+
+1806
+01:18:06,980 --> 01:18:09,700
+And we would like to officially extend the possibility
+
+1807
+01:18:09,700 --> 01:18:12,260
+of him being part of our new endeavor,
+
+1808
+01:18:12,260 --> 01:18:13,900
+but he doesn't have to.
+
+1809
+01:18:13,900 --> 01:18:16,020
+I understand if he's busy and he doesn't want
+
+1810
+01:18:16,020 --> 01:18:19,340
+to be part of this, we would love him to be there.
+
+1811
+01:18:19,340 --> 01:18:21,740
+But we're gonna sort of give you a little bit
+
+1812
+01:18:21,740 --> 01:18:22,780
+of a taste right now.
+
+1813
+01:18:22,780 --> 01:18:25,060
+And we're gonna roll out some of the images online
+
+1814
+01:18:25,060 --> 01:18:28,740
+on Twitter to try to get investors,
+
+1815
+01:18:28,740 --> 01:18:31,500
+a Michael Meldman type involved.
+
+1816
+01:18:32,500 --> 01:18:36,860
+And we of course thought the perfect name
+
+1817
+01:18:36,860 --> 01:18:41,220
+for a podcast the ride related to tequila would be
+
+1818
+01:18:41,220 --> 01:18:43,340
+Buenos Chicos Tequila.
+
+1819
+01:18:44,020 --> 01:18:48,260
+Roughly translated, good boy tequila.
+
+1820
+01:18:48,260 --> 01:18:49,380
+Okay.
+
+1821
+01:18:49,380 --> 01:18:50,900
+Good boy tequila.
+
+1822
+01:18:50,900 --> 01:18:51,740
+Think about that.
+
+1823
+01:18:51,740 --> 01:18:53,100
+Think about.
+
+1824
+01:18:53,100 --> 01:18:54,100
+Is that the name?
+
+1825
+01:18:54,100 --> 01:18:56,340
+Is that the name we said?
+
+1826
+01:18:56,340 --> 01:18:58,340
+Did I say a different name?
+
+1827
+01:18:58,340 --> 01:18:59,380
+Possibly.
+
+1828
+01:18:59,380 --> 01:19:00,220
+What was the name?
+
+1829
+01:19:00,220 --> 01:19:01,620
+What was the name we actually agreed on?
+
+1830
+01:19:01,620 --> 01:19:03,660
+Buenos Ninos.
+
+1831
+01:19:03,660 --> 01:19:04,860
+You know, you're right.
+
+1832
+01:19:05,860 --> 01:19:06,700
+You know, you're right.
+
+1833
+01:19:06,700 --> 01:19:08,820
+I've actually gotten the name wrong already.
+
+1834
+01:19:08,820 --> 01:19:13,820
+When I hurriedly wrote this part of the bit on my notes,
+
+1835
+01:19:15,740 --> 01:19:18,060
+I wrote the wrong thing.
+
+1836
+01:19:18,060 --> 01:19:19,780
+Jason is of course correct.
+
+1837
+01:19:19,780 --> 01:19:23,420
+And look, there's gonna be hiccups in all startups.
+
+1838
+01:19:24,260 --> 01:19:29,260
+So the official name is Buenos Ninos Tequila.
+
+1839
+01:19:30,820 --> 01:19:33,020
+Good boys tequila.
+
+1840
+01:19:33,020 --> 01:19:33,860
+Okay.
+
+1841
+01:19:33,860 --> 01:19:35,060
+And I want to give everyone a little taste
+
+1842
+01:19:35,060 --> 01:19:39,780
+of what maybe an ad campaign for this would look like.
+
+1843
+01:19:39,780 --> 01:19:42,300
+And now before anyone comes out with us,
+
+1844
+01:19:42,300 --> 01:19:47,300
+yes, we checked with someone who's Spanish is better.
+
+1845
+01:19:47,300 --> 01:19:51,380
+The grammatical term is Ninos Buenos.
+
+1846
+01:19:51,380 --> 01:19:53,100
+Ninos should come first.
+
+1847
+01:19:53,100 --> 01:19:56,340
+But for selling liquor, it's probably not best
+
+1848
+01:19:56,340 --> 01:20:01,340
+if the first part of your name is children, you know, or boys.
+
+1849
+01:20:01,660 --> 01:20:04,980
+So we're having a little fun, just like Casamigos
+
+1850
+01:20:05,940 --> 01:20:06,780
+just made a portmanteau.
+
+1851
+01:20:06,780 --> 01:20:08,820
+They mushed up House of Friends.
+
+1852
+01:20:08,820 --> 01:20:10,740
+They mushed up Casa and Amigo.
+
+1853
+01:20:10,740 --> 01:20:11,580
+Right.
+
+1854
+01:20:11,580 --> 01:20:12,900
+We're mushing up words.
+
+1855
+01:20:12,900 --> 01:20:15,420
+That's the fun of Buenos Ninos Tequila.
+
+1856
+01:20:15,420 --> 01:20:16,580
+Yeah.
+
+1857
+01:20:16,580 --> 01:20:19,620
+So here, this is sort of like, imagine in your mind,
+
+1858
+01:20:19,620 --> 01:20:22,620
+you're seeing like, you know, a guave.
+
+1859
+01:20:22,620 --> 01:20:25,700
+You're seeing Jason and I on bikes
+
+1860
+01:20:25,700 --> 01:20:28,060
+and we're going through fields.
+
+1861
+01:20:28,060 --> 01:20:30,420
+And it's a beautiful, like beautiful cinematography,
+
+1862
+01:20:30,420 --> 01:20:33,940
+like, you know, Roger Deakins style cinematography.
+
+1863
+01:20:33,940 --> 01:20:35,700
+Okay. And then you hear this.
+
+1864
+01:20:42,620 --> 01:20:44,780
+Buenos Ninos Tequila.
+
+1865
+01:20:44,780 --> 01:20:47,740
+What does it mean to be a good boy?
+
+1866
+01:20:48,660 --> 01:20:51,740
+Is being a good boy something you learn?
+
+1867
+01:20:51,740 --> 01:20:54,660
+Or is it just something you are?
+
+1868
+01:20:54,660 --> 01:20:56,580
+Is there a wizard in the hospital nursery
+
+1869
+01:20:56,580 --> 01:20:59,580
+that grants special good boy status to newborn babies?
+
+1870
+01:21:00,580 --> 01:21:02,500
+It's hard to say really.
+
+1871
+01:21:02,500 --> 01:21:03,780
+We don't know.
+
+1872
+01:21:04,620 --> 01:21:06,140
+And we probably never will.
+
+1873
+01:21:06,140 --> 01:21:08,060
+But there is one thing that the family
+
+1874
+01:21:08,060 --> 01:21:10,860
+of Buenos Ninos Tequila does know.
+
+1875
+01:21:10,860 --> 01:21:13,660
+Great tasting spirits made from the finest guave
+
+1876
+01:21:13,660 --> 01:21:15,460
+in the most unique recipe.
+
+1877
+01:21:15,460 --> 01:21:17,380
+Our patented bottle of tequila
+
+1878
+01:21:17,380 --> 01:21:19,020
+mixes half of George Clooney
+
+1879
+01:21:19,020 --> 01:21:21,460
+and Randy Gerber's Casa Amigos Tequila
+
+1880
+01:21:21,460 --> 01:21:24,060
+with half of the Rocks Terra Mana Tequila
+
+1881
+01:21:24,060 --> 01:21:27,780
+to create a very special, very unique blend.
+
+1882
+01:21:27,780 --> 01:21:31,660
+It's literally so unique, there's no way to reproduce it.
+
+1883
+01:21:31,660 --> 01:21:33,740
+So here's to those wild nights.
+
+1884
+01:21:34,700 --> 01:21:36,460
+And those slow mornings when yeah,
+
+1885
+01:21:36,460 --> 01:21:41,460
+you might not be perfect, but you'll certainly be good.
+
+1886
+01:21:41,740 --> 01:21:44,180
+Buenos Ninos Tequila.
+
+1887
+01:21:44,180 --> 01:21:45,260
+Invest today.
+
+1888
+01:21:48,340 --> 01:21:50,900
+So that's just a little bit of what
+
+1889
+01:21:50,900 --> 01:21:53,060
+like an ad campaign would be like.
+
+1890
+01:21:53,940 --> 01:21:55,900
+Okay. If I could give you
+
+1891
+01:21:55,900 --> 01:21:58,020
+a little constructive criticism start,
+
+1892
+01:21:58,020 --> 01:22:00,500
+we've been collaborating on this for a few days now.
+
+1893
+01:22:00,500 --> 01:22:02,460
+We've been messaging back and forth.
+
+1894
+01:22:03,460 --> 01:22:05,860
+That Black Keys song was so oppressively loud.
+
+1895
+01:22:05,860 --> 01:22:08,340
+I have no idea what you said.
+
+1896
+01:22:08,340 --> 01:22:09,780
+So. Okay.
+
+1897
+01:22:09,780 --> 01:22:11,940
+Well, you'll have to hear the episode then I guess.
+
+1898
+01:22:11,940 --> 01:22:13,140
+Okay.
+
+1899
+01:22:13,140 --> 01:22:15,620
+Are you gonna be able to lower the levels on the song?
+
+1900
+01:22:15,620 --> 01:22:17,220
+Oh, the levels will be fine, yeah.
+
+1901
+01:22:17,220 --> 01:22:18,140
+Oh, okay, great.
+
+1902
+01:22:18,140 --> 01:22:19,780
+Well, I'll listen back to the episode.
+
+1903
+01:22:19,780 --> 01:22:21,940
+Yeah, believe me, whatever it was, it was very good.
+
+1904
+01:22:21,940 --> 01:22:25,180
+Yeah, because I could tell it was very smooth.
+
+1905
+01:22:25,180 --> 01:22:28,300
+Just like a smooth tequila where you remember
+
+1906
+01:22:28,300 --> 01:22:30,660
+and you cherish the night before, you know?
+
+1907
+01:22:30,660 --> 01:22:32,780
+There's no hangover.
+
+1908
+01:22:32,780 --> 01:22:36,940
+Yeah, and yeah, we're going to, I think,
+
+1909
+01:22:36,940 --> 01:22:39,500
+try to conquer the tequila market here.
+
+1910
+01:22:40,340 --> 01:22:41,700
+Yeah. And I think, yeah,
+
+1911
+01:22:41,700 --> 01:22:46,700
+we're gonna bring our goodness to this avenue, you know?
+
+1912
+01:22:47,540 --> 01:22:49,700
+I think that Podcast Survive for Too Long
+
+1913
+01:22:49,700 --> 01:22:54,100
+has not been able to share our brand of goodness.
+
+1914
+01:22:55,540 --> 01:22:57,100
+And that's what we're gonna be doing here.
+
+1915
+01:22:57,100 --> 01:22:59,980
+And that's what I'm very, very excited about.
+
+1916
+01:22:59,980 --> 01:23:00,820
+Yeah.
+
+1917
+01:23:00,820 --> 01:23:03,700
+And as I said in the commercial,
+
+1918
+01:23:03,700 --> 01:23:07,900
+our special blend of half of Casamigos tequila
+
+1919
+01:23:07,900 --> 01:23:12,900
+and half of Terra Mana tequila is very delicious
+
+1920
+01:23:13,020 --> 01:23:15,500
+when you split them half and half.
+
+1921
+01:23:15,500 --> 01:23:17,380
+It's like a perfect mix.
+
+1922
+01:23:17,380 --> 01:23:19,100
+Oh, it's terrific.
+
+1923
+01:23:19,100 --> 01:23:19,940
+Yeah.
+
+1924
+01:23:19,940 --> 01:23:23,660
+So if, look, if you out there in listener land,
+
+1925
+01:23:23,660 --> 01:23:26,740
+if you know someone who has a distillery,
+
+1926
+01:23:26,740 --> 01:23:28,940
+if you know someone who's into a guave,
+
+1927
+01:23:28,940 --> 01:23:30,820
+if you know a Michael Melman type,
+
+1928
+01:23:30,820 --> 01:23:34,020
+if you know a Randy Gerber type, hit us up
+
+1929
+01:23:34,020 --> 01:23:36,780
+because we want to make this a reality.
+
+1930
+01:23:36,780 --> 01:23:38,180
+Yeah. It's time.
+
+1931
+01:23:39,260 --> 01:23:40,860
+It's time for this to happen.
+
+1932
+01:23:40,860 --> 01:23:42,300
+I mean, yeah, we have shirts.
+
+1933
+01:23:42,300 --> 01:23:43,900
+We, you can have a button.
+
+1934
+01:23:43,900 --> 01:23:46,100
+You can make like a pillow sham.
+
+1935
+01:23:46,100 --> 01:23:48,380
+I don't know what you can do on T-Public,
+
+1936
+01:23:48,380 --> 01:23:50,820
+but I think like, like,
+
+1937
+01:23:50,820 --> 01:23:52,140
+I think the listeners will let us know,
+
+1938
+01:23:52,140 --> 01:23:56,300
+would you be interested in Buenos Ninos tequila?
+
+1939
+01:23:57,300 --> 01:23:58,860
+I think the answer is yes.
+
+1940
+01:23:59,740 --> 01:24:03,140
+And again, let me officially say,
+
+1941
+01:24:03,140 --> 01:24:07,940
+Scott Garner, Jason Sheridan, and Michael Carlson
+
+1942
+01:24:07,940 --> 01:24:12,620
+formally invite you to be an equal one third.
+
+1943
+01:24:12,620 --> 01:24:13,860
+Okay, well, you know what?
+
+1944
+01:24:15,940 --> 01:24:20,940
+Let's, okay, you and I will have a slightly bigger stake
+
+1945
+01:24:21,780 --> 01:24:23,140
+in this because we came up with it.
+
+1946
+01:24:23,140 --> 01:24:25,220
+I'd actually, I don't think this is unfair.
+
+1947
+01:24:25,220 --> 01:24:28,740
+I think that we should have, let's figure this out.
+
+1948
+01:24:29,700 --> 01:24:32,300
+You and I will have 40% of the company each
+
+1949
+01:24:32,300 --> 01:24:34,500
+and Scott will have 20 because he didn't come up with this.
+
+1950
+01:24:34,500 --> 01:24:36,940
+So we formally invite Scott Garner
+
+1951
+01:24:36,940 --> 01:24:41,460
+to have 20% of this new tequila venture.
+
+1952
+01:24:41,460 --> 01:24:42,300
+You think that?
+
+1953
+01:24:42,300 --> 01:24:43,380
+I think that's fair.
+
+1954
+01:24:43,380 --> 01:24:46,020
+I think that's fair, but then if you and I share 40,
+
+1955
+01:24:46,020 --> 01:24:47,940
+don't then we also have 20%?
+
+1956
+01:24:49,940 --> 01:24:51,100
+Excuse me, I misspoke.
+
+1957
+01:24:51,100 --> 01:24:54,340
+You have 40, I have 40, Scott has 20.
+
+1958
+01:24:54,340 --> 01:24:55,540
+Okay.
+
+1959
+01:24:55,540 --> 01:24:58,460
+I think it's only fair because we put so much work
+
+1960
+01:24:59,020 --> 01:24:59,940
+into this pitch.
+
+1961
+01:24:59,940 --> 01:25:00,940
+I think so.
+
+1962
+01:25:00,940 --> 01:25:05,940
+I mean, we've been illegally crossing the border
+
+1963
+01:25:06,700 --> 01:25:09,940
+at Tijuana, getting to the highlands of Jalisco
+
+1964
+01:25:09,940 --> 01:25:11,820
+to visit the Agave fields.
+
+1965
+01:25:11,820 --> 01:25:15,860
+Yes, and we've been breaking bread with the workers as well.
+
+1966
+01:25:15,860 --> 01:25:20,300
+You'll see some of these photos on release day
+
+1967
+01:25:21,020 --> 01:25:22,580
+and you'll be very excited.
+
+1968
+01:25:22,580 --> 01:25:24,980
+And I think you'll get just as excited as we are.
+
+1969
+01:25:24,980 --> 01:25:27,620
+So yeah, that's what we're thinking next.
+
+1970
+01:25:27,620 --> 01:25:28,780
+That's what's next for the podcast.
+
+1971
+01:25:28,780 --> 01:25:30,460
+Right, I know you were all thinking it too.
+
+1972
+01:25:30,460 --> 01:25:32,460
+You were saying, when are they gonna do their own liquor?
+
+1973
+01:25:32,460 --> 01:25:34,740
+And we're here, we're at that point.
+
+1974
+01:25:37,220 --> 01:25:39,420
+We can't really do live shows.
+
+1975
+01:25:39,420 --> 01:25:43,260
+I was really looking forward to going back to Orlando
+
+1976
+01:25:43,260 --> 01:25:44,940
+or somewhere like that this year
+
+1977
+01:25:44,940 --> 01:25:48,060
+and live venues kind of on pause at the moment.
+
+1978
+01:25:48,060 --> 01:25:53,060
+So how can we share our love of good times
+
+1979
+01:25:53,460 --> 01:25:56,900
+with the listeners, besides just the podcast
+
+1980
+01:25:56,900 --> 01:25:58,860
+with a premium tequila?
+
+1981
+01:25:58,860 --> 01:26:01,180
+Right, and I think, yes, as far as premium,
+
+1982
+01:26:01,180 --> 01:26:03,260
+I think we're gonna go for the highest end.
+
+1983
+01:26:03,260 --> 01:26:08,180
+I think a price point of $99.99 a bottle.
+
+1984
+01:26:09,220 --> 01:26:11,100
+That's good, yeah, that's good.
+
+1985
+01:26:11,100 --> 01:26:15,220
+Because people see, you see it's under 100.
+
+1986
+01:26:15,220 --> 01:26:18,900
+It's under 100, so you don't think, oh no, three digits.
+
+1987
+01:26:18,900 --> 01:26:19,900
+It's still two.
+
+1988
+01:26:20,940 --> 01:26:22,380
+And yeah, that's what we're going after.
+
+1989
+01:26:22,380 --> 01:26:26,060
+So if you're excited, just keep letting us know.
+
+1990
+01:26:26,060 --> 01:26:27,780
+Please give us that feedback.
+
+1991
+01:26:27,780 --> 01:26:29,820
+If you wanna even maybe tweet at Randy Gerber
+
+1992
+01:26:29,820 --> 01:26:32,220
+or Michael Meldman and let them know,
+
+1993
+01:26:32,220 --> 01:26:33,260
+maybe they would be involved.
+
+1994
+01:26:33,260 --> 01:26:36,300
+I know Randy, he doesn't wanna get spread too thin.
+
+1995
+01:26:36,300 --> 01:26:37,940
+But he's an entrepreneur,
+
+1996
+01:26:37,940 --> 01:26:40,700
+and if he sees a brand like podcast The Ride,
+
+1997
+01:26:40,700 --> 01:26:42,900
+I think he'd be very excited about it.
+
+1998
+01:26:42,900 --> 01:26:44,020
+Yeah.
+
+1999
+01:26:44,020 --> 01:26:47,060
+So, gosh, I mean, I'm exhausted.
+
+2000
+01:26:47,060 --> 01:26:48,780
+I'm sweating.
+
+2001
+01:26:48,780 --> 01:26:51,420
+It got dark while we were doing this.
+
+2002
+01:26:51,420 --> 01:26:53,700
+Well, it was, I mean, we started happy hour.
+
+2003
+01:26:53,740 --> 01:26:57,060
+We started at six o'clock on Friday night.
+
+2004
+01:26:58,980 --> 01:27:01,980
+So I guess, you know, you've all survived podcast The Ride,
+
+2005
+01:27:03,860 --> 01:27:07,460
+but you have yet to experience Buenos Niño.
+
+2006
+01:27:08,420 --> 01:27:11,340
+Buenos, is it Buenos Niño or Buenos Niños?
+
+2007
+01:27:11,340 --> 01:27:13,340
+Niños, probably, that's plural.
+
+2008
+01:27:13,340 --> 01:27:15,140
+Buenos Niños Tequila.
+
+2009
+01:27:16,540 --> 01:27:18,900
+So prepare for that.
+
+2010
+01:27:18,900 --> 01:27:20,860
+So thank you for listening.
+
+2011
+01:27:20,860 --> 01:27:22,940
+Thank you for enjoying.
+
+2012
+01:27:22,940 --> 01:27:25,780
+And stay thirst, our new catchphrase,
+
+2013
+01:27:25,780 --> 01:27:27,780
+stay thirsty, my friends. Stay thirsty.
+
+2014
+01:27:27,780 --> 01:27:32,780
+It's fine, they can't copyright that, it's generic words.
+
+2015
+01:27:32,820 --> 01:27:34,060
+Generic words.
+

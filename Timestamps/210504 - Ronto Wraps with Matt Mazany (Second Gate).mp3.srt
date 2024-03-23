@@ -1,0 +1,8476 @@
+1
+00:00:02,980 --> 00:00:05,380
+Five, four, three, two, one.
+
+2
+00:00:20,880 --> 00:00:23,420
+Okay, so I was trying to understand
+
+3
+00:00:23,420 --> 00:00:25,660
+the park reservation system this morning,
+
+4
+00:00:25,880 --> 00:00:29,440
+because I, you know, I put stuff off sometimes
+
+5
+00:00:29,440 --> 00:00:32,460
+and welcome to podcast, The Ride, The Second Gate.
+
+6
+00:00:32,760 --> 00:00:35,240
+It's a cold start now, we don't do that a lot.
+
+7
+00:00:35,500 --> 00:00:37,100
+But yeah, now we're just going.
+
+8
+00:00:37,700 --> 00:00:39,700
+And you know, I had been wanting to do one of those.
+
+9
+00:00:40,200 --> 00:00:42,540
+So, and the one park ticket calendar
+
+10
+00:00:42,540 --> 00:00:44,640
+is different than the park hopper calendar.
+
+11
+00:00:45,580 --> 00:00:48,700
+And then the one park ticket calendar
+
+12
+00:00:48,700 --> 00:00:52,600
+was changing every half hour what was available.
+
+13
+00:00:53,120 --> 00:00:53,640
+Wait, can I?
+
+14
+00:00:54,620 --> 00:00:56,000
+Context, a little context.
+
+15
+00:00:56,280 --> 00:00:57,360
+Is Mammazani our guest?
+
+16
+00:00:57,360 --> 00:00:58,360
+Matt, yes, go ahead.
+
+17
+00:00:58,400 --> 00:00:58,720
+Yeah, Matt's here.
+
+18
+00:00:58,720 --> 00:00:59,340
+Great to be here.
+
+19
+00:00:59,440 --> 00:01:00,060
+Welcome back.
+
+20
+00:01:00,220 --> 00:01:00,900
+Thanks very much.
+
+21
+00:01:01,200 --> 00:01:02,860
+The one park with the one ticket,
+
+22
+00:01:03,060 --> 00:01:06,200
+is that one calendar for California Adventure and Disneyland?
+
+23
+00:01:06,480 --> 00:01:07,540
+Or is it like, okay.
+
+24
+00:01:07,840 --> 00:01:09,080
+Well, it tells you what's available.
+
+25
+00:01:09,180 --> 00:01:11,840
+So right now for the next however many months,
+
+26
+00:01:12,140 --> 00:01:13,640
+if you want to buy one park ticket,
+
+27
+00:01:13,680 --> 00:01:15,460
+you're pretty much going to California Adventure.
+
+28
+00:01:15,600 --> 00:01:19,160
+Unless you can get the ticket and find a day
+
+29
+00:01:19,160 --> 00:01:23,500
+where suddenly someone has canceled their one park Disneyland outing.
+
+30
+00:01:23,500 --> 00:01:27,040
+Now, people are clearly watching this calendar
+
+31
+00:01:27,040 --> 00:01:30,180
+because when I would refresh it, those days would disappear.
+
+32
+00:01:30,260 --> 00:01:32,560
+If you want to get a park hopper ticket,
+
+33
+00:01:32,560 --> 00:01:34,740
+you have to choose a starting park.
+
+34
+00:01:34,840 --> 00:01:36,500
+Now your starting park,
+
+35
+00:01:36,760 --> 00:01:38,560
+if you want to start a California Adventure,
+
+36
+00:01:38,860 --> 00:01:40,540
+you're pretty much safe to do that.
+
+37
+00:01:40,780 --> 00:01:42,660
+If you want to go to Disneyland,
+
+38
+00:01:43,780 --> 00:01:46,200
+there's a handful of days.
+
+39
+00:01:46,400 --> 00:01:51,280
+And so I guess that's what I'm going to end up doing to get back there,
+
+40
+00:01:51,280 --> 00:01:52,600
+is pay the extra,
+
+41
+00:01:52,780 --> 00:01:56,620
+because this is a difference of like 50 to $60 potentially.
+
+42
+00:01:57,300 --> 00:01:57,780
+Insignificant.
+
+43
+00:01:58,040 --> 00:01:58,100
+Yeah.
+
+44
+00:01:58,180 --> 00:02:01,240
+And then you can get into the other park until 1 p.
+
+45
+00:02:01,240 --> 00:02:01,400
+m.
+
+46
+00:02:01,400 --> 00:02:02,260
+or so.
+
+47
+00:02:02,480 --> 00:02:02,960
+Correct.
+
+48
+00:02:03,280 --> 00:02:03,680
+Yes.
+
+49
+00:02:03,800 --> 00:02:04,980
+And now that's complicated.
+
+50
+00:02:05,000 --> 00:02:06,580
+If you want to do Rise of the Resistance,
+
+51
+00:02:06,700 --> 00:02:11,360
+because the Rise of the Resistance Virtual Queue lottery is at 7 a.
+
+52
+00:02:11,360 --> 00:02:11,520
+m.
+
+53
+00:02:11,520 --> 00:02:12,720
+and then at 1 p.
+
+54
+00:02:12,720 --> 00:02:12,960
+m.
+
+55
+00:02:12,960 --> 00:02:16,280
+So if you're okay with trying it at 1 p.
+
+56
+00:02:12,960 --> 00:02:16,480
+m.
+
+57
+00:02:16,280 --> 00:02:16,480
+,
+
+58
+00:02:16,480 --> 00:02:20,340
+you're fine when you are clear to go back into Disneyland.
+
+59
+00:02:20,340 --> 00:02:23,040
+And it doesn't seem like you'll be locked out of the second park
+
+60
+00:02:23,040 --> 00:02:24,860
+because of the limited reservations.
+
+61
+00:02:25,020 --> 00:02:25,740
+Can you clarify something?
+
+62
+00:02:25,840 --> 00:02:28,820
+So if you got a park hopper and you're doing California to Disneyland,
+
+63
+00:02:29,660 --> 00:02:32,660
+will you be able to get in the Virtual Queue for Rise of the Resistance
+
+64
+00:02:32,660 --> 00:02:34,440
+if you're not at Disneyland already?
+
+65
+00:02:34,660 --> 00:02:39,840
+Okay, as long as you have carted into either Disneyland or California Adventure.
+
+66
+00:02:41,920 --> 00:02:43,400
+Here's, let me say what happened.
+
+67
+00:02:43,480 --> 00:02:47,780
+Jason was describing his frustrating day trying to get Disneyland tickets,
+
+68
+00:02:47,780 --> 00:02:51,540
+and he was burrowing his fingers into his forehead so hard,
+
+69
+00:02:51,660 --> 00:02:54,860
+I thought they might like go in, they might go into his brain.
+
+70
+00:02:55,140 --> 00:02:57,320
+And then he started telling the story and I said,
+
+71
+00:02:57,340 --> 00:02:58,720
+save it for the show.
+
+72
+00:02:58,960 --> 00:02:59,920
+And I was joking.
+
+73
+00:02:59,920 --> 00:03:03,960
+And then everyone else agreed, including Matt, it should be on the show.
+
+74
+00:03:04,220 --> 00:03:06,040
+So I dug my own grave here.
+
+75
+00:03:06,380 --> 00:03:08,860
+But maybe this will help people trying to get tickets.
+
+76
+00:03:09,320 --> 00:03:11,780
+You know, because the topic today, we're talking RontoRaps.
+
+77
+00:03:11,940 --> 00:03:13,160
+It's the Star Wars day.
+
+78
+00:03:13,240 --> 00:03:14,200
+We're talking RontoRaps.
+
+79
+00:03:14,280 --> 00:03:15,940
+Usually these episodes come out on Wednesday.
+
+80
+00:03:15,940 --> 00:03:19,220
+It's Monday early because the Star Wars day fell out on a Tuesday.
+
+81
+00:03:19,220 --> 00:03:20,900
+May the second be with you, everyone.
+
+82
+00:03:21,100 --> 00:03:22,680
+Yeah, may the second be with you.
+
+83
+00:03:22,700 --> 00:03:24,280
+May the fifth be with you.
+
+84
+00:03:24,360 --> 00:03:28,780
+My joke was going to be the boys speak about sausage wraps.
+
+85
+00:03:28,780 --> 00:03:30,700
+And that's a nod to the crawl.
+
+86
+00:03:30,920 --> 00:03:31,960
+Yeah, that's pretty good, right?
+
+87
+00:03:32,060 --> 00:03:33,260
+Rise of the Skywalker crawl.
+
+88
+00:03:33,440 --> 00:03:34,240
+That would have played great.
+
+89
+00:03:34,940 --> 00:03:37,900
+Yeah, I actually really like the dead speak.
+
+90
+00:03:38,000 --> 00:03:40,160
+I think that is a very dynamic way to start.
+
+91
+00:03:40,820 --> 00:03:42,640
+One of the most confusing movies I've ever seen.
+
+92
+00:03:42,640 --> 00:03:48,580
+It's like any movie being called an exclamation point.
+
+93
+00:03:48,760 --> 00:03:50,960
+The only one that's coming to mind is The Informant.
+
+94
+00:03:51,340 --> 00:03:56,700
+But I feel like there's a mystery science theater movie, I think, called I Accused My Parents.
+
+95
+00:03:57,240 --> 00:04:00,400
+And that line is in the movie within the first minute.
+
+96
+00:04:01,400 --> 00:04:05,060
+Now I just wish that it had been episode nine, the dead speak.
+
+97
+00:04:05,180 --> 00:04:07,380
+And then that would have really set the tone.
+
+98
+00:04:07,500 --> 00:04:10,840
+Well, there's the Korean movie, the Korean thriller Mother.
+
+99
+00:04:10,840 --> 00:04:14,820
+And then there's the Darren Aronofsky, Mother, which is one with an exclamation point.
+
+100
+00:04:14,820 --> 00:04:16,360
+So that's how you tell those two apart.
+
+101
+00:04:17,220 --> 00:04:19,460
+I totally forgot a recent exclamation film.
+
+102
+00:04:19,580 --> 00:04:20,100
+Absolutely.
+
+103
+00:04:20,580 --> 00:04:22,800
+And the Albert Brooks mother is just mother.
+
+104
+00:04:23,040 --> 00:04:23,640
+Just mother.
+
+105
+00:04:24,160 --> 00:04:25,780
+OK, so that's different.
+
+106
+00:04:26,220 --> 00:04:27,640
+That's like being said with a groan.
+
+107
+00:04:27,860 --> 00:04:29,120
+Mother, I assume.
+
+108
+00:04:29,140 --> 00:04:30,380
+That's probably the tone, right?
+
+109
+00:04:30,580 --> 00:04:34,260
+So mother is not mother is not mother.
+
+110
+00:04:34,980 --> 00:04:35,140
+Yeah.
+
+111
+00:04:35,980 --> 00:04:37,300
+God, I just want to make sure everyone knows.
+
+112
+00:04:37,300 --> 00:04:40,840
+Is there any punctuation in Don't Tell Mom the Babysitter's Dead?
+
+113
+00:04:43,520 --> 00:04:45,200
+I don't think there is.
+
+114
+00:04:45,320 --> 00:04:48,860
+And maybe that implies that it's like a like let's keep it chill.
+
+115
+00:04:49,060 --> 00:04:50,160
+Everybody calm down.
+
+116
+00:04:50,360 --> 00:04:52,240
+Don't tell mom the babysitter's dead.
+
+117
+00:04:52,460 --> 00:04:56,420
+But if you had an exclamation point, then that implies that the stress level is much higher.
+
+118
+00:04:56,560 --> 00:04:59,280
+And if you put it right in the middle, that's an interesting move.
+
+119
+00:04:59,340 --> 00:05:01,860
+Don't tell mom the babysitter's dead.
+
+120
+00:05:02,860 --> 00:05:05,600
+It's under your breath after the fact.
+
+121
+00:05:05,600 --> 00:05:06,380
+Yeah.
+
+122
+00:05:06,580 --> 00:05:12,100
+Well, I mean, I think a lot of you could really change the tone of a lot of movies with just a couple punctuation marks.
+
+123
+00:05:12,840 --> 00:05:15,680
+Just throw a couple willy nilly into the center.
+
+124
+00:05:15,900 --> 00:05:16,800
+Is that Mr.
+
+125
+00:05:17,500 --> 00:05:18,140
+Speaking to Mr.
+
+126
+00:05:18,140 --> 00:05:21,380
+Viral Questions himself, has anyone done that is a viral question.
+
+127
+00:05:21,480 --> 00:05:23,980
+That honestly seems like a very good idea.
+
+128
+00:05:25,900 --> 00:05:33,760
+Like ruin a movie's title or just affect shape a movie's title by putting a next putting punctuation in the middle.
+
+129
+00:05:33,760 --> 00:05:35,580
+Yeah, that would blow up.
+
+130
+00:05:36,080 --> 00:05:38,480
+That would blow up so hard, I think.
+
+131
+00:05:38,760 --> 00:05:43,480
+And if you tweeted that and then it was got like a hundred thousand likes and responses,
+
+132
+00:05:43,940 --> 00:05:47,140
+what would come to your life and your career from that?
+
+133
+00:05:47,560 --> 00:05:50,860
+What you would reap would be so tremendous.
+
+134
+00:05:51,520 --> 00:05:56,840
+What I understand, what I do understand is why people do this and why they keep doing it.
+
+135
+00:05:56,840 --> 00:06:00,880
+And I think we should all be doing it all the time, seeding that viral content.
+
+136
+00:06:00,880 --> 00:06:06,760
+Man, by the way, we are missing a huge, huge recent exclamation point title.
+
+137
+00:06:07,620 --> 00:06:08,300
+Gutfeld.
+
+138
+00:06:08,920 --> 00:06:11,260
+Oh, my God.
+
+139
+00:06:11,380 --> 00:06:17,740
+We talked about the premiere had so much hype and then we've all lost the thread on Gutfeld.
+
+140
+00:06:17,900 --> 00:06:19,780
+Has anyone been keeping up with it?
+
+141
+00:06:19,780 --> 00:06:21,460
+I haven't seen a recent.
+
+142
+00:06:21,980 --> 00:06:22,280
+Yeah.
+
+143
+00:06:22,740 --> 00:06:24,520
+Is it still on?
+
+144
+00:06:25,180 --> 00:06:25,620
+It is.
+
+145
+00:06:26,580 --> 00:06:27,700
+Yeah, I don't know.
+
+146
+00:06:27,820 --> 00:06:30,880
+Now that Falcon and Winter Soldier is done, once Gutfeld's first season runs out,
+
+147
+00:06:30,880 --> 00:06:33,820
+I'm going to cancel my Disney Plus again and wait for Loki to come out.
+
+148
+00:06:34,280 --> 00:06:39,040
+It's very strange that Disney Disney Plus is the archive on Gutfeld.
+
+149
+00:06:42,260 --> 00:06:45,680
+Growing the library, the great, the riches of Fox.
+
+150
+00:06:46,960 --> 00:06:48,960
+Let's let's introduce him properly.
+
+151
+00:06:49,600 --> 00:06:53,640
+A good friend, writer, comedian, actor, podcaster, Matt Mazzani.
+
+152
+00:06:53,640 --> 00:06:55,120
+Welcome back to the show.
+
+153
+00:06:55,200 --> 00:07:01,780
+I guess early on in the first few months and a guest in real life on so many of our adventures.
+
+154
+00:07:01,960 --> 00:07:03,280
+And I'm happy to have you here, Matt.
+
+155
+00:07:03,740 --> 00:07:05,140
+Mazzani, excavation point.
+
+156
+00:07:05,660 --> 00:07:07,200
+Yeah, Mazzani is here.
+
+157
+00:07:07,500 --> 00:07:08,860
+I'm so excited to be here, man.
+
+158
+00:07:08,860 --> 00:07:12,320
+But there's so much so much to talk about with the amusement parks right now.
+
+159
+00:07:12,440 --> 00:07:15,940
+It's finally like rolling that amusement parks are in people's heads again.
+
+160
+00:07:16,220 --> 00:07:17,440
+We've got crying adults.
+
+161
+00:07:17,680 --> 00:07:21,020
+We've got the rising cases in some places.
+
+162
+00:07:21,020 --> 00:07:26,220
+We got, you know, people are people are chatting about theme parks, the Avengers campus.
+
+163
+00:07:26,640 --> 00:07:27,200
+There's things.
+
+164
+00:07:27,380 --> 00:07:28,060
+It's exciting.
+
+165
+00:07:28,220 --> 00:07:29,960
+This course is all over the place.
+
+166
+00:07:29,980 --> 00:07:31,080
+Yes, it really is.
+
+167
+00:07:31,080 --> 00:07:33,960
+People crying as people mad at the people crying.
+
+168
+00:07:34,160 --> 00:07:34,960
+Choose a Twitter.
+
+169
+00:07:35,220 --> 00:07:38,380
+Are you are you crying Twitter or anti crying Twitter?
+
+170
+00:07:38,520 --> 00:07:40,140
+Where do you guys land on?
+
+171
+00:07:40,320 --> 00:07:41,600
+I like crying adults.
+
+172
+00:07:41,640 --> 00:07:46,480
+I think crying adults are I think we all went through sad shit and we want to look.
+
+173
+00:07:46,520 --> 00:07:47,320
+We want to go to Mr.
+
+174
+00:07:47,440 --> 00:07:48,840
+Toads while riding go to hell.
+
+175
+00:07:48,840 --> 00:07:50,420
+Like that's what we've been waiting for.
+
+176
+00:07:50,740 --> 00:07:52,880
+So, yeah, like I'm going to cry when I see Mr.
+
+177
+00:07:53,040 --> 00:07:53,440
+Toad.
+
+178
+00:07:53,440 --> 00:07:53,760
+Sure.
+
+179
+00:07:53,840 --> 00:07:54,340
+Yeah, sure.
+
+180
+00:07:54,520 --> 00:07:56,360
+I mean, I'll say what I said yesterday.
+
+181
+00:07:58,000 --> 00:08:02,740
+Yeah, people, employees going back to work at a place they like and you're making fun of them.
+
+182
+00:08:02,820 --> 00:08:03,360
+Fuck off.
+
+183
+00:08:03,560 --> 00:08:04,580
+That's what I say.
+
+184
+00:08:05,280 --> 00:08:05,640
+Yeah.
+
+185
+00:08:06,100 --> 00:08:17,760
+But the rewards they get from this likes and retweets and replies, just like when you ask viral questions, you get so much from a cynical shitting on Disney tweet.
+
+186
+00:08:17,760 --> 00:08:23,220
+So much more than the people who go and go on a roller coaster and have a snack like a Ronto wrap.
+
+187
+00:08:23,580 --> 00:08:27,880
+You get like to sit to sit there and tweet is so much better of a lifestyle.
+
+188
+00:08:27,900 --> 00:08:28,560
+I feel.
+
+189
+00:08:28,720 --> 00:08:29,500
+Yeah, I know.
+
+190
+00:08:29,500 --> 00:08:35,660
+I'm sure they're reaping the rewards of making fun of some people emotional after going through a year of a pandemic.
+
+191
+00:08:35,940 --> 00:08:41,660
+After an indisputably after the worst thing of any of our lifetimes by far.
+
+192
+00:08:41,660 --> 00:08:49,160
+How dare you cry at the beginning of going to a place that's like the most fun place.
+
+193
+00:08:49,160 --> 00:08:50,300
+How bizarre.
+
+194
+00:08:51,140 --> 00:08:51,160
+Yeah.
+
+195
+00:08:51,180 --> 00:08:58,700
+Oh, these freaks, these freaks getting along with their brains and the corporations have gotten in their brains.
+
+196
+00:08:58,800 --> 00:09:01,760
+These Disney adult freaks lock them up.
+
+197
+00:09:02,140 --> 00:09:04,960
+I say lock them all up.
+
+198
+00:09:05,580 --> 00:09:06,120
+I log in.
+
+199
+00:09:06,120 --> 00:09:08,660
+I log into Twitter and it's the cynical speak.
+
+200
+00:09:09,140 --> 00:09:10,140
+It's right off the bat.
+
+201
+00:09:10,140 --> 00:09:11,440
+That's what it is.
+
+202
+00:09:11,800 --> 00:09:14,380
+That is a scroll of people being jerks for no reason.
+
+203
+00:09:14,400 --> 00:09:15,180
+Come on, guys.
+
+204
+00:09:16,100 --> 00:09:16,940
+Come on, guys.
+
+205
+00:09:17,120 --> 00:09:17,280
+Better.
+
+206
+00:09:17,440 --> 00:09:18,600
+Let's have some fun.
+
+207
+00:09:19,280 --> 00:09:20,200
+You're absolutely right.
+
+208
+00:09:20,360 --> 00:09:23,340
+It's a busy time, a really fun time.
+
+209
+00:09:24,600 --> 00:09:27,960
+And it's exciting that everything's ramping up so much.
+
+210
+00:09:28,960 --> 00:09:29,400
+I don't know when.
+
+211
+00:09:29,560 --> 00:09:31,420
+Well, as we said, we're all trying to get there.
+
+212
+00:09:31,520 --> 00:09:35,140
+We're figuring out our path to get back into these places.
+
+213
+00:09:35,880 --> 00:09:42,980
+I'm really nostalgic for all this stuff right now, because, Matt, you were there for so many of our some of the best trips to Batu.
+
+214
+00:09:43,360 --> 00:09:46,200
+I feel opening morning of Rise of the Resistance.
+
+215
+00:09:46,420 --> 00:09:50,560
+How long like long ago does this feel that was so nostalgic for it?
+
+216
+00:09:50,620 --> 00:09:52,040
+That was probably honest to God.
+
+217
+00:09:52,060 --> 00:09:54,800
+That might be my favorite Disney day I've ever had.
+
+218
+00:09:54,940 --> 00:09:56,880
+That would the whole Rise of the Resistance day.
+
+219
+00:09:57,140 --> 00:09:58,420
+I remember we went on Casey Jr.
+
+220
+00:09:58,500 --> 00:09:58,920
+that day.
+
+221
+00:09:58,980 --> 00:10:01,120
+I was my first time on the train.
+
+222
+00:10:01,480 --> 00:10:03,860
+Rise of the Resistance, of course, just amazing ride.
+
+223
+00:10:03,860 --> 00:10:06,660
+By that time, we were we were like old vets of Batu.
+
+224
+00:10:06,700 --> 00:10:09,640
+So we knew our way around the Millennium Falcon ride.
+
+225
+00:10:09,640 --> 00:10:12,740
+It was, you know, just a pleasant, pleasant day.
+
+226
+00:10:12,780 --> 00:10:18,080
+But I'm so I am so eager to get back and just like, you know, we're talking Ronto wraps.
+
+227
+00:10:18,120 --> 00:10:25,120
+That is like at this point, I was thinking my my have to do at Disneyland is Mr.
+
+228
+00:10:25,280 --> 00:10:26,360
+Toad and now Ronto wraps.
+
+229
+00:10:26,460 --> 00:10:28,740
+I think I have to do a Ronto wrap whenever I go.
+
+230
+00:10:28,740 --> 00:10:35,500
+Yeah, it's I think universally like, you know, as the reviews started,
+
+231
+00:10:36,080 --> 00:10:40,700
+you know, the Galaxy's Edge reviews started coming in very quickly.
+
+232
+00:10:40,700 --> 00:10:45,120
+And then about a month, a few months later, people were like, well, yeah, would be nice.
+
+233
+00:10:45,380 --> 00:10:48,380
+You know, us especially like, yeah, be nice that there were more characters.
+
+234
+00:10:48,480 --> 00:10:49,940
+There was more interaction.
+
+235
+00:10:50,140 --> 00:10:55,360
+But like, I think right from the gate, you know, everyone was like, man, these are pretty good, huh?
+
+236
+00:10:55,480 --> 00:10:57,280
+Like, I think we can all agree on this.
+
+237
+00:10:57,280 --> 00:11:04,520
+The most universally agreed upon thing in Galaxy's Edge is the Ronto wrap.
+
+238
+00:11:04,860 --> 00:11:10,500
+I believe maybe Rise of Resistance might be tied, but maybe slightly under just like.
+
+239
+00:11:10,500 --> 00:11:14,660
+You put Ogres in there because I was thinking the same thought is it.
+
+240
+00:11:15,400 --> 00:11:17,920
+It's like as close as well.
+
+241
+00:11:18,140 --> 00:11:23,360
+But I feel like the prey, I feel like Ronto wrap is the top.
+
+242
+00:11:23,360 --> 00:11:27,220
+And again, it might be percentage, little percentages, slivers of percentages.
+
+243
+00:11:27,260 --> 00:11:28,920
+I think it's also ease of entry.
+
+244
+00:11:29,040 --> 00:11:30,300
+If Ogres was easy to get into,
+
+245
+00:11:30,320 --> 00:11:34,540
+if I knew I could walk into Galaxy's Edge and just walk into Ogres, I would love that.
+
+246
+00:11:35,040 --> 00:11:36,880
+Like, you can always get a Ronto wrap.
+
+247
+00:11:37,060 --> 00:11:37,920
+It's always available.
+
+248
+00:11:38,280 --> 00:11:39,020
+It's near the restroom.
+
+249
+00:11:39,180 --> 00:11:41,140
+It's like it's your recharge for your whole day.
+
+250
+00:11:41,580 --> 00:11:45,380
+Yeah, you have to do a little less work to get into Ogres now.
+
+251
+00:11:45,500 --> 00:11:49,860
+You still have to kind of do a complicated virtual queue to do Rise of the Resistance.
+
+252
+00:11:49,860 --> 00:11:53,320
+But yeah, you just walk up and order a Ronto wrap or you order it in the app.
+
+253
+00:11:53,560 --> 00:11:55,060
+And they keep adding new.
+
+254
+00:11:55,100 --> 00:11:55,860
+They've iterated.
+
+255
+00:11:55,860 --> 00:11:58,100
+There's like, you know, vegetarian ones.
+
+256
+00:11:58,300 --> 00:11:59,160
+There's chicken ones.
+
+257
+00:11:59,540 --> 00:12:01,060
+In Florida, there's a zucchini one.
+
+258
+00:12:01,100 --> 00:12:02,340
+That sounds gross to me.
+
+259
+00:12:02,540 --> 00:12:03,540
+But oh, breakfast.
+
+260
+00:12:03,760 --> 00:12:05,320
+That sounds nice to me.
+
+261
+00:12:05,820 --> 00:12:07,020
+So you're not a zucchini guy?
+
+262
+00:12:07,480 --> 00:12:08,560
+I'm not a zucchini guy.
+
+263
+00:12:08,680 --> 00:12:10,180
+I just never like it.
+
+264
+00:12:10,180 --> 00:12:11,260
+It never grew on me.
+
+265
+00:12:11,340 --> 00:12:14,460
+Even in like an app form like a like a fried zucchini and ranch.
+
+266
+00:12:14,460 --> 00:12:15,400
+Yeah, yeah, yeah.
+
+267
+00:12:15,540 --> 00:12:17,680
+Like a TGI Fridays, fried zucchini.
+
+268
+00:12:17,680 --> 00:12:23,180
+Is that see that I feel like, you know, you're getting the ranch and the fry is doing some heavy lifting.
+
+269
+00:12:23,380 --> 00:12:24,940
+So I think in that 100 percent.
+
+270
+00:12:25,160 --> 00:12:25,500
+100 percent.
+
+271
+00:12:25,840 --> 00:12:25,960
+Yeah.
+
+272
+00:12:26,100 --> 00:12:32,340
+I think it's a little it's a little bit of a blank slate, a blank canvas to put other stuff on to.
+
+273
+00:12:33,040 --> 00:12:35,640
+And so but yeah, it's not not really my go to.
+
+274
+00:12:35,920 --> 00:12:40,080
+But I love the standard Ronto wrap and I really like the vegetarian one, too.
+
+275
+00:12:40,180 --> 00:12:40,520
+Mm hmm.
+
+276
+00:12:40,940 --> 00:12:42,260
+Yeah, no, I agree.
+
+277
+00:12:42,400 --> 00:12:45,340
+I think I mean, we're all this is the this we agree on this.
+
+278
+00:12:45,340 --> 00:12:46,700
+I mean, this could be like a quick episode.
+
+279
+00:12:46,800 --> 00:12:47,040
+We're going to go.
+
+280
+00:12:47,160 --> 00:12:47,520
+It's great.
+
+281
+00:12:48,040 --> 00:12:49,520
+And everyone really good.
+
+282
+00:12:49,760 --> 00:12:50,560
+They're just they're good.
+
+283
+00:12:50,560 --> 00:12:52,000
+So go get them because they're good.
+
+284
+00:12:53,340 --> 00:13:01,380
+Well, you know, let's talk a little bit about let's do the the spatial context of the Ronto wrap.
+
+285
+00:13:01,420 --> 00:13:06,740
+We call the episode Ronto reps, but it is, of course, from the establishment Ronto Roasters,
+
+286
+00:13:07,080 --> 00:13:12,580
+which I think even before you have the food, which is just immediately one of the best,
+
+287
+00:13:12,580 --> 00:13:15,460
+like quick casual things Disneyland has.
+
+288
+00:13:16,820 --> 00:13:21,380
+I when I heard about this place, I was like, that sounds like one of the best things they have.
+
+289
+00:13:21,420 --> 00:13:22,480
+Then you see it in person.
+
+290
+00:13:22,540 --> 00:13:24,220
+It is one of the best things they have.
+
+291
+00:13:24,300 --> 00:13:28,860
+Just one of the best tableaus, I think, of Galaxy's Edge for sure.
+
+292
+00:13:29,080 --> 00:13:29,560
+Oh, yeah.
+
+293
+00:13:29,620 --> 00:13:34,420
+I mean, in the promo art there was and it's not quite the promo art is a little different,
+
+294
+00:13:34,480 --> 00:13:40,380
+but the basic part of it remains the same is that when I saw the art for Ronto's Roasters,
+
+295
+00:13:40,380 --> 00:13:44,120
+I said, oh, my God, it's a giant pod racing engine.
+
+296
+00:13:44,280 --> 00:13:53,160
+And I was so excited by this because a thing I think and I this will not turn into any sort of critique of the Star Wars movies.
+
+297
+00:13:53,220 --> 00:13:57,340
+But I will say seven, eight, nine, when I was looking forward to those before they come out,
+
+298
+00:13:57,400 --> 00:14:03,600
+I was legitimately excited about the combination of four, five and six Star Wars with the prequels.
+
+299
+00:14:04,340 --> 00:14:08,660
+So just an idea of seeing a big piece of the prequels,
+
+300
+00:14:08,660 --> 00:14:12,920
+which obviously we all have complicated feelings about, but pod racing is cool.
+
+301
+00:14:13,180 --> 00:14:20,140
+The idea that you're going to repurpose a pod racing engine to be cooking food in the themed experience in the in the world building of it.
+
+302
+00:14:20,300 --> 00:14:22,560
+That got me very excited because I was like, OK, good.
+
+303
+00:14:22,680 --> 00:14:26,500
+They're putting everything from the whole history of Star Wars into this land.
+
+304
+00:14:26,980 --> 00:14:34,280
+Well, it's funny because they kind of took the most beloved icon of Episode one, which I think there's two beloved icons, I'll say.
+
+305
+00:14:34,520 --> 00:14:35,700
+It's the double sided lightsaber.
+
+306
+00:14:35,800 --> 00:14:36,860
+People like that.
+
+307
+00:14:36,860 --> 00:14:38,280
+I think it's unequivocal.
+
+308
+00:14:38,480 --> 00:14:39,680
+And then also pod racing.
+
+309
+00:14:39,820 --> 00:14:43,860
+If you don't like episode one, everybody goes like, yeah, the pod racing scene was really cool.
+
+310
+00:14:43,860 --> 00:14:46,980
+And so Darth Maul with the light double sided, I think, as well.
+
+311
+00:14:46,980 --> 00:14:48,240
+Yeah, they all come together, too.
+
+312
+00:14:48,240 --> 00:14:52,480
+And and I also think Duel of the Fates is the best John Williams piece of music he's ever done.
+
+313
+00:14:53,200 --> 00:14:54,220
+Let's throw that out there for number.
+
+314
+00:14:54,220 --> 00:14:54,500
+Sure.
+
+315
+00:14:54,640 --> 00:14:55,480
+I'll agree with that.
+
+316
+00:14:55,760 --> 00:14:56,680
+I yeah.
+
+317
+00:14:57,200 --> 00:15:05,220
+But so I think that they use this thing like and also now the Ronto rap is like the core of the of the Galatis edge experience.
+
+318
+00:15:05,220 --> 00:15:12,520
+I think that it all comes together as like this, like they really figured out what people like about Episode one and Star Wars in general.
+
+319
+00:15:12,540 --> 00:15:13,160
+It's all there.
+
+320
+00:15:13,260 --> 00:15:18,320
+And by the way, if you guys don't mind, I'm going to take another sip from my this is this is pod racer fuel.
+
+321
+00:15:18,360 --> 00:15:20,780
+This is my custom Star Wars beverage I made.
+
+322
+00:15:21,440 --> 00:15:22,820
+What this is.
+
+323
+00:15:23,500 --> 00:15:26,340
+This is I just I just thought, you know, I made my Ronto rap.
+
+324
+00:15:26,340 --> 00:15:28,820
+So I also wanted to make my own Star Wars drink.
+
+325
+00:15:28,840 --> 00:15:32,620
+So this is this is one part spin drift grapefruit.
+
+326
+00:15:32,620 --> 00:15:42,780
+One part sugar free Red Bull and two crushed oranges in here and then some dried cranberries on top that do a little like floaty thing.
+
+327
+00:15:42,800 --> 00:15:46,280
+So my own little Star Wars drink right here, just like little space pebbles.
+
+328
+00:15:46,360 --> 00:15:55,140
+And you have you have invented this yourself and cast this as a drink that would gear up the pilots in the pod races.
+
+329
+00:15:55,140 --> 00:16:02,200
+Yeah, this is like, you know, I'm like, yeah, and they probably do blue milk and like a little bit of like actual pod race fuel.
+
+330
+00:16:02,200 --> 00:16:05,080
+And that's what they do to get like you got to be crazy to pod race.
+
+331
+00:16:05,080 --> 00:16:06,220
+You got to be out of your mind.
+
+332
+00:16:06,380 --> 00:16:07,900
+You got to get a little zuded.
+
+333
+00:16:08,040 --> 00:16:09,160
+Oh, yeah.
+
+334
+00:16:09,180 --> 00:16:12,960
+So Boba getting a little gacked out of his mind to race against Anakin.
+
+335
+00:16:13,420 --> 00:16:15,960
+So it's like honey boo boo's gogo juice.
+
+336
+00:16:17,620 --> 00:16:21,240
+Yeah, that's that's a good metaphor that Star Wars people understand.
+
+337
+00:16:21,240 --> 00:16:22,420
+Yeah, yeah.
+
+338
+00:16:22,420 --> 00:16:22,900
+Go go juice.
+
+339
+00:16:23,160 --> 00:16:26,540
+Do you have a whole back story you've sort of crafted like who made this?
+
+340
+00:16:26,640 --> 00:16:28,440
+What planet did it come from?
+
+341
+00:16:29,020 --> 00:16:31,500
+Or could we could we brainstorm on that right now?
+
+342
+00:16:31,620 --> 00:16:35,860
+I do think it's I all I do know is that this is some Boba's favorite drink.
+
+343
+00:16:36,060 --> 00:16:39,120
+I think Jason, you were on that because I do think he needs to get.
+
+344
+00:16:39,140 --> 00:16:42,240
+Yeah, he's like he murdered people in that race.
+
+345
+00:16:42,400 --> 00:16:42,540
+Right.
+
+346
+00:16:42,620 --> 00:16:43,200
+Am I wrong?
+
+347
+00:16:44,120 --> 00:16:44,360
+Well, yeah.
+
+348
+00:16:44,400 --> 00:16:47,700
+I mean, there were some nefarious tactics being used in that pod race.
+
+349
+00:16:47,700 --> 00:16:52,280
+So I think yeah, I think people were dying and getting hurt really bad in the pod race.
+
+350
+00:16:52,280 --> 00:16:54,300
+And so was the Boba again.
+
+351
+00:16:54,320 --> 00:16:55,720
+I saw I don't know.
+
+352
+00:16:55,720 --> 00:16:56,680
+Oh, he's the guy.
+
+353
+00:16:56,940 --> 00:17:00,100
+He's the kind of like, yeah, yeah, and guy.
+
+354
+00:17:00,680 --> 00:17:05,700
+Yeah, you're like me and you revisit the prequels because everybody says they're good now.
+
+355
+00:17:05,700 --> 00:17:10,420
+And then you give up around the part where Jar Jar's friend goes, blah, blah, blah, blah, blah, blah.
+
+356
+00:17:10,440 --> 00:17:12,980
+Then maybe you don't remember who's the boss.
+
+357
+00:17:13,160 --> 00:17:14,080
+Nass Jar Jar.
+
+358
+00:17:14,080 --> 00:17:17,500
+I don't like when boss Nass shakes his cheeks.
+
+359
+00:17:17,500 --> 00:17:18,720
+I'm sorry, everyone.
+
+360
+00:17:18,720 --> 00:17:19,540
+I'm canceled.
+
+361
+00:17:19,560 --> 00:17:20,340
+I'm sorry.
+
+362
+00:17:20,380 --> 00:17:20,780
+You are.
+
+363
+00:17:21,080 --> 00:17:23,120
+But this is why I remember this guy from the trailer.
+
+364
+00:17:23,120 --> 00:17:23,940
+Oh, yeah.
+
+365
+00:17:24,160 --> 00:17:25,340
+OK, sure.
+
+366
+00:17:26,200 --> 00:17:28,120
+I love all the pod racers.
+
+367
+00:17:28,940 --> 00:17:30,760
+I love one sandage.
+
+368
+00:17:31,020 --> 00:17:32,880
+I love team topicales.
+
+369
+00:17:33,060 --> 00:17:35,820
+I love all the pod racers names that I know.
+
+370
+00:17:36,800 --> 00:17:38,780
+But so Boba is really good.
+
+371
+00:17:39,220 --> 00:17:40,380
+I'm a big fan of him.
+
+372
+00:17:40,500 --> 00:17:42,420
+He looks really scary in some of these photos.
+
+373
+00:17:42,420 --> 00:17:47,560
+Yeah, he takes two slugs of of pod racer fuel before every race for sure.
+
+374
+00:17:47,820 --> 00:17:48,260
+Yeah.
+
+375
+00:17:48,260 --> 00:17:54,500
+So I just want to yeah, briefly, like I think it's Tatooine and Origin probably because that's where a majority of these pod races happen.
+
+376
+00:17:55,380 --> 00:17:58,220
+I would think I mean, you could tie it right to Moss Isley.
+
+377
+00:17:58,260 --> 00:18:03,080
+You could say the Cantina is where they tank up before they go out, maybe.
+
+378
+00:18:03,080 --> 00:18:13,960
+But is this like are the things floating in it like their cranberries in our world behind the scenes, as Wikipedia would say.
+
+379
+00:18:14,260 --> 00:18:18,320
+But in their world, is it like weird frog eggs or something?
+
+380
+00:18:19,820 --> 00:18:22,400
+Who are the little salesman guys, the OOTD guys?
+
+381
+00:18:22,960 --> 00:18:23,360
+The Jawas.
+
+382
+00:18:23,740 --> 00:18:24,320
+The Jawas.
+
+383
+00:18:24,400 --> 00:18:29,040
+Maybe they're like Jawas shits or they're like or like little blobs.
+
+384
+00:18:30,560 --> 00:18:31,980
+Womp rat eyes.
+
+385
+00:18:32,200 --> 00:18:32,700
+Womp rat.
+
+386
+00:18:32,820 --> 00:18:33,760
+I like Womp Rat Eyes.
+
+387
+00:18:33,920 --> 00:18:34,580
+Yeah, like yeah.
+
+388
+00:18:34,580 --> 00:18:43,100
+It's like in Alaska, where I'm from, you go to Dawson, which is which is place you go snowmobile there the winter and it's like negative 15.
+
+389
+00:18:43,120 --> 00:18:48,360
+If you snowmobile there, you're supposed to get a drink where you drink with like a toe inside of it.
+
+390
+00:18:48,800 --> 00:18:52,080
+There's a man who man who died and his like they kept his toe.
+
+391
+00:18:52,240 --> 00:18:55,120
+It's petrified and you just drop it in the shot glass.
+
+392
+00:18:55,160 --> 00:18:56,160
+You don't like drink the toe.
+
+393
+00:18:56,160 --> 00:18:58,460
+You just kind of like drink around the toe.
+
+394
+00:18:58,820 --> 00:19:05,320
+So, yeah, I could I could see it being like Womp Rat Eyes is that kind of like tough guy, you know, the worm in the tequila type thing to do.
+
+395
+00:19:05,540 --> 00:19:05,740
+Right.
+
+396
+00:19:05,780 --> 00:19:06,040
+Right.
+
+397
+00:19:06,120 --> 00:19:09,300
+And Womp Rats are they're how big are they?
+
+398
+00:19:09,400 --> 00:19:11,220
+I'm looking here pretty big.
+
+399
+00:19:11,500 --> 00:19:13,700
+They're kind of like little skittering guys, right?
+
+400
+00:19:13,860 --> 00:19:19,420
+Aren't they aren't they where they put in in the special edition like the Ronto was?
+
+401
+00:19:19,620 --> 00:19:20,760
+Well, the Ronto's put in.
+
+402
+00:19:20,840 --> 00:19:22,740
+No, there's a line in the original Star Wars.
+
+403
+00:19:22,840 --> 00:19:23,240
+Am I wrong?
+
+404
+00:19:23,520 --> 00:19:23,560
+Yeah.
+
+405
+00:19:23,560 --> 00:19:25,540
+Shooting bullsizing Womp Rats.
+
+406
+00:19:25,540 --> 00:19:25,840
+Yeah.
+
+407
+00:19:26,520 --> 00:19:29,600
+Well, here's a Womp Rat that's the size of baby Yoda.
+
+408
+00:19:30,060 --> 00:19:31,980
+And then there's another one.
+
+409
+00:19:32,060 --> 00:19:34,060
+There's other ones that seem to be as big as Luke.
+
+410
+00:19:34,140 --> 00:19:37,100
+But maybe that's just like because it's a poster.
+
+411
+00:19:37,320 --> 00:19:38,220
+So I don't know.
+
+412
+00:19:38,480 --> 00:19:42,300
+We there's no this is all over the place because it was it was in the planning scene.
+
+413
+00:19:42,300 --> 00:19:43,300
+I think he's talking to go.
+
+414
+00:19:43,320 --> 00:19:43,920
+That's no problem.
+
+415
+00:19:43,960 --> 00:19:46,200
+I used to shoot Womp Rats in Baker's Canyon, right?
+
+416
+00:19:46,340 --> 00:19:49,260
+Like, I think I think it's like they're supposed to be small.
+
+417
+00:19:49,780 --> 00:19:49,900
+Right.
+
+418
+00:19:49,920 --> 00:19:52,080
+But there's this picture of Luke on a giant one.
+
+419
+00:19:52,080 --> 00:19:52,660
+So I don't know.
+
+420
+00:19:52,780 --> 00:19:55,080
+Maybe there are like mega Womp Rats and babies.
+
+421
+00:19:55,080 --> 00:19:57,320
+And maybe Luke was just talking about killing the babies.
+
+422
+00:19:57,320 --> 00:19:58,040
+I don't know.
+
+423
+00:19:58,740 --> 00:19:59,700
+I'm not sure.
+
+424
+00:20:00,340 --> 00:20:04,240
+But it's a big creature doesn't mean it would have giant eyes necessarily.
+
+425
+00:20:04,260 --> 00:20:08,400
+So I think I think it being eyes works fine either way.
+
+426
+00:20:08,840 --> 00:20:09,480
+Yeah, that's true.
+
+427
+00:20:09,500 --> 00:20:10,200
+That's a good point.
+
+428
+00:20:10,560 --> 00:20:11,060
+Yeah.
+
+429
+00:20:11,120 --> 00:20:11,280
+Yeah.
+
+430
+00:20:11,280 --> 00:20:13,150
+Well, say they're Womp Rat eyes that you're drinking.
+
+431
+00:20:15,240 --> 00:20:17,280
+So it's it's it's it's Podraise.
+
+432
+00:20:17,280 --> 00:20:19,280
+It's Podraise or fuel Womp Rat eyes.
+
+433
+00:20:19,280 --> 00:20:21,780
+But I don't think like it can't be all Podraise or fuel.
+
+434
+00:20:22,080 --> 00:20:22,880
+That's the red.
+
+435
+00:20:22,880 --> 00:20:23,900
+That's the Red Bull in there.
+
+436
+00:20:23,900 --> 00:20:26,620
+So what's the what's the softer part of this drink could be?
+
+437
+00:20:26,620 --> 00:20:28,480
+What liquid are we missing here?
+
+438
+00:20:28,700 --> 00:20:32,280
+What else is what else is in there that we're like faking an equivalent for?
+
+439
+00:20:33,440 --> 00:20:34,900
+Spindrift grape grapefruit.
+
+440
+00:20:34,940 --> 00:20:42,960
+So like could be Wookiee put piss could be sort of like sour but sweet piss.
+
+441
+00:20:43,220 --> 00:20:47,380
+We're saying no, I don't have that experience.
+
+442
+00:20:47,380 --> 00:20:48,760
+God, God, love me.
+
+443
+00:20:48,820 --> 00:20:49,440
+I wish I could.
+
+444
+00:20:49,480 --> 00:20:51,040
+But I don't know what Wookiee Piss tastes like.
+
+445
+00:20:51,180 --> 00:20:54,300
+It might look it's for sure some kind of piss.
+
+446
+00:20:54,720 --> 00:20:56,360
+It has to be.
+
+447
+00:20:58,520 --> 00:20:59,920
+Wookiee, we could say Wookiee.
+
+448
+00:21:00,000 --> 00:21:03,240
+I mean, that's yeah, that would be.
+
+449
+00:21:03,660 --> 00:21:03,660
+Hmm.
+
+450
+00:21:03,840 --> 00:21:09,380
+But depending on their diet, I mean, we'd have to look up Wookiee Wookiee diet maybe and see how it would.
+
+451
+00:21:10,000 --> 00:21:11,140
+It's all great.
+
+452
+00:21:12,680 --> 00:21:15,420
+Like back to back to fluid.
+
+453
+00:21:15,420 --> 00:21:21,760
+Well, no, like, you know how like you can get collagen to put in like smoothies and oatmeal and stuff.
+
+454
+00:21:21,760 --> 00:21:22,480
+That's true.
+
+455
+00:21:23,160 --> 00:21:30,160
+If people in Star Wars are like, well, add back to, you know, a scoop of back to Scott back to is what Luke is in the back.
+
+456
+00:21:30,340 --> 00:21:32,020
+The tank healing up from his injuries.
+
+457
+00:21:32,100 --> 00:21:38,540
+A number of characters, Finn, I believe, is in a back to tank at the end of The Force Awakens.
+
+458
+00:21:38,760 --> 00:21:40,020
+It's a medical thing.
+
+459
+00:21:40,160 --> 00:21:43,500
+So it would be a medical thing like back to fluid.
+
+460
+00:21:43,500 --> 00:21:45,580
+But maybe there's alcohol in it.
+
+461
+00:21:45,740 --> 00:21:48,000
+Like, I mean, well, this is I don't think is an alcohol drink.
+
+462
+00:21:48,000 --> 00:21:50,040
+But if we want it, maybe that's it.
+
+463
+00:21:50,040 --> 00:21:52,140
+Maybe you do put a little trace of it in there.
+
+464
+00:21:52,240 --> 00:21:53,980
+So that's if you want to make it like stiff.
+
+465
+00:21:53,980 --> 00:21:57,300
+If you want it with a shot of vodka, you ask for it with a back to backer.
+
+466
+00:21:57,940 --> 00:21:58,300
+Yeah.
+
+467
+00:21:59,260 --> 00:22:02,640
+Or you drop it in like like like an Irish Car bomb.
+
+468
+00:22:03,120 --> 00:22:03,480
+Yeah.
+
+469
+00:22:03,660 --> 00:22:11,000
+And it gives it maybe maybe that gives it a medicinal quality like a flaming moh like the cough syrup in a flaming moh.
+
+470
+00:22:11,000 --> 00:22:13,080
+It encourages you to throw it back fast.
+
+471
+00:22:13,360 --> 00:22:14,900
+Like, take don't take your time with this.
+
+472
+00:22:14,920 --> 00:22:18,080
+This isn't a sipper of the right because you got to get out there and race.
+
+473
+00:22:18,620 --> 00:22:19,020
+Yeah.
+
+474
+00:22:20,800 --> 00:22:20,860
+Yeah.
+
+475
+00:22:20,860 --> 00:22:21,060
+Yeah.
+
+476
+00:22:21,140 --> 00:22:21,440
+Good.
+
+477
+00:22:21,520 --> 00:22:22,020
+This is good.
+
+478
+00:22:22,240 --> 00:22:22,640
+Completely.
+
+479
+00:22:23,080 --> 00:22:33,740
+But like not only I think is a good back story and a good drink for Star Wars, I think like this would this would fill up a giant Wikipedia page and be taken as fact readily.
+
+480
+00:22:33,960 --> 00:22:34,320
+Yeah.
+
+481
+00:22:34,340 --> 00:22:36,840
+Can someone in the audience do that for us?
+
+482
+00:22:36,840 --> 00:22:41,280
+Yeah, because we were told Wikipedia is like kind of open source updated.
+
+483
+00:22:41,380 --> 00:22:48,260
+And I think there's a codex or a codec that is the more the official Lucasfilm thing.
+
+484
+00:22:48,720 --> 00:22:55,480
+Let's create right now for Mazani sort of analog Star Wars character for him that he could be like sort of working for.
+
+485
+00:22:55,620 --> 00:22:59,900
+The guy's name is the bartender at Mos Eisley is were W.
+
+486
+00:22:55,620 --> 00:23:00,480
+R.
+
+487
+00:22:59,900 --> 00:23:00,200
+H.
+
+488
+00:23:00,200 --> 00:23:00,480
+E.
+
+489
+00:23:00,480 --> 00:23:06,260
+But let's say like the Mazani standing characters guy who created this drink for the pod racers.
+
+490
+00:23:06,440 --> 00:23:08,640
+This is the bartender, of course, from Mos Eisley.
+
+491
+00:23:09,180 --> 00:23:10,660
+So like name is a man.
+
+492
+00:23:11,300 --> 00:23:13,720
+But like you're so well created Star Wars character.
+
+493
+00:23:13,760 --> 00:23:17,540
+This is for the Wikipedia for this bit of canon we're adding.
+
+494
+00:23:17,860 --> 00:23:22,200
+So I think Maz is a good Maz is always a good Star Wars first name for sure.
+
+495
+00:23:22,260 --> 00:23:24,220
+It just needs like a blast name to kind of.
+
+496
+00:23:24,280 --> 00:23:26,960
+So you'll be like the same name as Maz Kanata is what you're saying.
+
+497
+00:23:26,960 --> 00:23:29,900
+Yeah, I'll be Maz Matana.
+
+498
+00:23:30,800 --> 00:23:31,720
+OK, that's done.
+
+499
+00:23:31,820 --> 00:23:32,380
+I think it's done.
+
+500
+00:23:32,480 --> 00:23:33,140
+I think it's done.
+
+501
+00:23:33,440 --> 00:23:34,920
+I don't think we need to go any farther.
+
+502
+00:23:35,600 --> 00:23:39,460
+Yeah, we all know Maz is a general neutral name in the universe.
+
+503
+00:23:39,980 --> 00:23:40,620
+So we're yeah, we're good.
+
+504
+00:23:40,660 --> 00:23:41,440
+That's going to be good.
+
+505
+00:23:41,740 --> 00:23:41,940
+Maz.
+
+506
+00:23:42,100 --> 00:23:42,720
+What did you say?
+
+507
+00:23:42,960 --> 00:23:43,220
+Manat?
+
+508
+00:23:44,340 --> 00:23:44,740
+Matana.
+
+509
+00:23:45,060 --> 00:23:45,460
+Matana.
+
+510
+00:23:45,640 --> 00:23:47,040
+Because then you can get M.
+
+511
+00:23:45,640 --> 00:23:48,420
+A.
+
+512
+00:23:47,040 --> 00:23:47,420
+A.
+
+513
+00:23:47,420 --> 00:23:47,940
+T.
+
+514
+00:23:47,940 --> 00:23:48,240
+A.
+
+515
+00:23:48,240 --> 00:23:48,420
+A.
+
+516
+00:23:48,700 --> 00:23:51,260
+Throw an umlaut in there somewhere and I think we'll be good.
+
+517
+00:23:51,340 --> 00:23:51,680
+Great.
+
+518
+00:23:52,860 --> 00:23:55,000
+Listener will put all that information into Wikipedia.
+
+519
+00:23:55,000 --> 00:23:56,600
+Now it's official canon.
+
+520
+00:23:57,040 --> 00:23:58,380
+You just have to decide when it happened.
+
+521
+00:23:58,400 --> 00:24:00,780
+There's this terminology all over Wikipedia.
+
+522
+00:24:01,780 --> 00:24:02,960
+This is the Star Wars Wikipedia.
+
+523
+00:24:03,080 --> 00:24:06,240
+If that isn't clear, it's always A B Y.
+
+524
+00:24:06,260 --> 00:24:07,440
+Am I getting those letters right?
+
+525
+00:24:07,580 --> 00:24:11,420
+They like they say there's there's their version of B C and A D.
+
+526
+00:24:11,580 --> 00:24:15,860
+And I'm forgetting what the central point is in our in our world.
+
+527
+00:24:15,900 --> 00:24:17,180
+It's the birth of Christ.
+
+528
+00:24:17,300 --> 00:24:20,780
+But in Star Wars, it's the birth of Anakin.
+
+529
+00:24:21,020 --> 00:24:22,960
+I don't know what's A B Y.
+
+530
+00:24:22,960 --> 00:24:24,040
+That's a good question.
+
+531
+00:24:24,380 --> 00:24:24,520
+Is it?
+
+532
+00:24:24,600 --> 00:24:27,320
+Oh, is it after Battle of Yavin?
+
+533
+00:24:28,220 --> 00:24:28,300
+Yes.
+
+534
+00:24:28,400 --> 00:24:28,480
+Yes.
+
+535
+00:24:28,480 --> 00:24:28,740
+Yes.
+
+536
+00:24:28,740 --> 00:24:28,860
+Yes.
+
+537
+00:24:28,860 --> 00:24:29,960
+It's after the Battle of Yavin.
+
+538
+00:24:30,320 --> 00:24:33,340
+So that's the battle where the first Death Star is blown up.
+
+539
+00:24:33,900 --> 00:24:34,700
+Oh, OK.
+
+540
+00:24:34,780 --> 00:24:35,120
+OK.
+
+541
+00:24:35,380 --> 00:24:38,840
+So this would be B B Y because this is this is this is Podracer.
+
+542
+00:24:38,940 --> 00:24:40,140
+This is Subulba's drink.
+
+543
+00:24:40,760 --> 00:24:43,760
+Mazmatan always cooks it up for him before the big race.
+
+544
+00:24:43,880 --> 00:24:47,760
+Gets him shloded and he goes out there and he kills people with his machine.
+
+545
+00:24:48,160 --> 00:24:48,480
+Mazmatan.
+
+546
+00:24:48,500 --> 00:24:51,120
+The Galactic Senate is still in session.
+
+547
+00:24:51,120 --> 00:24:53,380
+The Jedi Council is still around.
+
+548
+00:24:53,600 --> 00:24:53,800
+Right.
+
+549
+00:24:54,300 --> 00:24:58,940
+And your man, your character, Maz, is like hanging around Mandalorian times, too, I bet.
+
+550
+00:24:59,060 --> 00:25:02,160
+So you could pop up on the show, I think, after we put this on Wikipedia.
+
+551
+00:25:02,360 --> 00:25:03,040
+Oh, man.
+
+552
+00:25:03,580 --> 00:25:06,700
+You're like the Tom Cruise in Cocktail of the Maas eyes.
+
+553
+00:25:06,720 --> 00:25:07,760
+Lee Cantina.
+
+554
+00:25:08,060 --> 00:25:08,220
+Yeah.
+
+555
+00:25:08,320 --> 00:25:12,780
+John Favreau make it happen and not not not Iron Man Favreau.
+
+556
+00:25:12,800 --> 00:25:15,200
+I'm talking about politically connected John Favreau.
+
+557
+00:25:15,940 --> 00:25:17,300
+Get me on Mandalorian.
+
+558
+00:25:17,760 --> 00:25:19,000
+Talk to Obama.
+
+559
+00:25:19,000 --> 00:25:20,240
+Work on it.
+
+560
+00:25:20,240 --> 00:25:20,560
+Yeah.
+
+561
+00:25:21,260 --> 00:25:21,780
+Yeah.
+
+562
+00:25:21,940 --> 00:25:22,460
+Sure.
+
+563
+00:25:22,460 --> 00:25:25,460
+Bomb is a co-producer on the next season of Mandalorian.
+
+564
+00:25:25,500 --> 00:25:26,700
+So you could probably get me on.
+
+565
+00:25:26,940 --> 00:25:27,520
+Yeah, that's true.
+
+566
+00:25:27,580 --> 00:25:27,740
+Yeah.
+
+567
+00:25:27,740 --> 00:25:30,260
+He's developing 10 Star Wars shows right now.
+
+568
+00:25:33,420 --> 00:25:42,000
+We're very we couldn't be more excited that Barack Obama, beloved producer Barack Obama, has joined the Star Wars family.
+
+569
+00:25:46,720 --> 00:25:49,800
+And he's in the animated Clone Wars one.
+
+570
+00:25:49,920 --> 00:25:52,580
+And it's just like, oh, you like you just see the characters on.
+
+571
+00:25:52,640 --> 00:25:55,900
+You're like, oh, it's that weird angular animation.
+
+572
+00:25:57,040 --> 00:26:01,700
+I didn't know if it was Mitch McConnell or Salacious Crumb, you'd say something like that.
+
+573
+00:26:02,060 --> 00:26:02,340
+Yes.
+
+574
+00:26:02,780 --> 00:26:03,180
+Yeah.
+
+575
+00:26:03,380 --> 00:26:06,000
+Everyone's like the whole crew.
+
+576
+00:26:06,640 --> 00:26:08,900
+Whole crew going wild at Star Wars.
+
+577
+00:26:09,020 --> 00:26:11,000
+First in person Star Wars celebration.
+
+578
+00:26:12,700 --> 00:26:15,640
+And Amazon takes the stage and shows the drink off.
+
+579
+00:26:16,240 --> 00:26:16,980
+Oh, man.
+
+580
+00:26:17,400 --> 00:26:18,080
+It's Mazz Metana.
+
+581
+00:26:18,520 --> 00:26:27,880
+This is all like every bit as viable as some stuff that I found on Wikipedia, which is or is this a Star Wars dot fandom?
+
+582
+00:26:28,120 --> 00:26:29,200
+No, no, no, that is Wikipedia.
+
+583
+00:26:29,960 --> 00:26:35,000
+Here's let me pull up the screen that I found for the guy who runs Ronto Roasters.
+
+584
+00:26:36,660 --> 00:26:44,920
+This is it's Baccar, everyone, you know, Baccar, Baccar, who just this this reeks of Imagineer to me.
+
+585
+00:26:44,920 --> 00:26:46,700
+This is just a picture of a man.
+
+586
+00:26:46,940 --> 00:26:48,800
+I think they're making somebody happy.
+
+587
+00:26:48,800 --> 00:26:53,240
+I don't know who who Baccar is, but and which is fine.
+
+588
+00:26:53,280 --> 00:26:54,640
+That's cute when they do it.
+
+589
+00:26:54,640 --> 00:26:56,480
+But he just doesn't look like a Star Wars guy.
+
+590
+00:26:56,480 --> 00:26:57,560
+It looks like a regular guy.
+
+591
+00:26:57,580 --> 00:26:58,220
+Give him a card.
+
+592
+00:26:58,260 --> 00:26:59,060
+Give him a hat.
+
+593
+00:26:59,060 --> 00:27:04,420
+At least he just looks like a guy with like a slightly odd collared shirt.
+
+594
+00:27:04,420 --> 00:27:06,120
+Like just an eye patch.
+
+595
+00:27:06,340 --> 00:27:07,120
+Yeah, fine.
+
+596
+00:27:07,180 --> 00:27:16,820
+An eye patch, like a chromium piece and chrome ear or something like, come on, let's do something that would make him look a little bit more Star Warsy.
+
+597
+00:27:17,000 --> 00:27:17,860
+Something spacey.
+
+598
+00:27:18,040 --> 00:27:30,720
+This is his idea, apparently, to do like he's he combined his obsessions of making food and podracing into one place.
+
+599
+00:27:30,720 --> 00:27:35,980
+He hails from Tatooine, came from a family that worked as butchers for four generations.
+
+600
+00:27:36,220 --> 00:27:38,360
+And he's also an avid fan of podracing.
+
+601
+00:27:39,080 --> 00:27:44,880
+In some comics somewhere, somebody says, if you want to avoid small talk and eat in peace, just don't mention podracing.
+
+602
+00:27:45,580 --> 00:27:47,000
+He's crazy for it.
+
+603
+00:27:47,700 --> 00:27:49,340
+Can't stop talking about it.
+
+604
+00:27:49,420 --> 00:27:50,300
+He's a super fan.
+
+605
+00:27:51,160 --> 00:27:53,240
+He's like a hard though.
+
+606
+00:27:53,620 --> 00:27:54,920
+That's hard to not mention.
+
+607
+00:27:54,920 --> 00:28:01,140
+I feel like someone who doesn't know is going to walk into Rondo Roasters and go like, what the fuck is that?
+
+608
+00:28:01,580 --> 00:28:05,300
+And that's really opens him up for like, well, let me tell you.
+
+609
+00:28:05,860 --> 00:28:06,520
+Yeah, he'll talk.
+
+610
+00:28:06,580 --> 00:28:07,720
+Yeah, he'll talk your ear off.
+
+611
+00:28:07,720 --> 00:28:13,780
+I mean, it's like somebody bringing up like Max Pass to me or something where it's like, don't ask him.
+
+612
+00:28:14,000 --> 00:28:15,820
+He'll talk about it for a few hours.
+
+613
+00:28:16,480 --> 00:28:17,520
+I had this question.
+
+614
+00:28:17,700 --> 00:28:20,500
+Disneyland is open and there is no Max Pass and there's no Fast Pass.
+
+615
+00:28:20,640 --> 00:28:22,000
+Is this your worst nightmare?
+
+616
+00:28:22,000 --> 00:28:34,000
+Well, if you notice what Jason was talking about, his like the scheduling issues, I was kind of doing like I think a Jack Nicholson jiff from Departed where I'm like, yes, I'm enjoying the bureaucracy of this.
+
+617
+00:28:34,000 --> 00:28:36,160
+That's where you get your rocks off now.
+
+618
+00:28:36,400 --> 00:28:36,820
+Yeah.
+
+619
+00:28:37,380 --> 00:28:38,040
+Getting in.
+
+620
+00:28:38,660 --> 00:28:39,060
+Yeah.
+
+621
+00:28:39,140 --> 00:28:45,400
+So Jason was kind of, his thing was stressful and he was presenting a challenge to me to try to find things that open up.
+
+622
+00:28:46,060 --> 00:28:49,360
+So I'll get my rocks off a different place.
+
+623
+00:28:50,060 --> 00:28:54,120
+It'll be a separate checking situation that I'll enjoy.
+
+624
+00:28:54,600 --> 00:28:55,820
+Did you Mike?
+
+625
+00:28:56,660 --> 00:29:00,260
+Speaking of checking, I'm going to bring it up publicly and you can raise this if you want, Mike.
+
+626
+00:29:00,300 --> 00:29:01,980
+I got to publicly thank you.
+
+627
+00:29:02,120 --> 00:29:08,060
+Mike, with your checking powers, I was on a travel job at Just at the Edge when vaccinations were open up.
+
+628
+00:29:08,220 --> 00:29:14,960
+Mike was kind enough to use his checking powers to get me an appointment out of town to get my first vaccination shot.
+
+629
+00:29:15,680 --> 00:29:16,560
+Another city.
+
+630
+00:29:16,560 --> 00:29:18,020
+I was joking about it.
+
+631
+00:29:18,040 --> 00:29:19,000
+I was like, I was on a text.
+
+632
+00:29:19,120 --> 00:29:21,040
+I'm like, oh, what kind of shot do you have?
+
+633
+00:29:21,120 --> 00:29:22,500
+He goes, I haven't got, we were talking a little bit.
+
+634
+00:29:22,520 --> 00:29:24,860
+Then he goes like, give me your, give me your Walgreens account.
+
+635
+00:29:24,900 --> 00:29:25,820
+I'm going to get you an appointment.
+
+636
+00:29:25,860 --> 00:29:27,880
+And all of a sudden, like he uses checking powers.
+
+637
+00:29:27,900 --> 00:29:32,240
+Like the day later I had an appointment for my first Pfizer shot.
+
+638
+00:29:32,460 --> 00:29:33,420
+So thank you, Michael.
+
+639
+00:29:33,780 --> 00:29:35,860
+Your checking powers saved my life.
+
+640
+00:29:35,920 --> 00:29:36,860
+I appreciate you.
+
+641
+00:29:37,000 --> 00:29:37,760
+It's no problem.
+
+642
+00:29:37,860 --> 00:29:44,980
+I had already mastered the Walgreens system because of my parents, because I had gotten both parents shots via Walgreens.
+
+643
+00:29:44,980 --> 00:29:48,720
+So I was in the zone with it and it was no problem.
+
+644
+00:29:48,860 --> 00:29:51,260
+It's just a quick, you check one on whatever I was up by the computer.
+
+645
+00:29:51,460 --> 00:29:51,980
+I check.
+
+646
+00:29:53,280 --> 00:29:55,440
+So it's like you check me into good health.
+
+647
+00:29:55,660 --> 00:29:56,420
+I'm fully baked.
+
+648
+00:29:56,620 --> 00:29:58,040
+I'm running around already.
+
+649
+00:29:58,880 --> 00:30:02,260
+I could walk into Universal Studios tomorrow.
+
+650
+00:30:02,500 --> 00:30:03,940
+I could do it.
+
+651
+00:30:03,980 --> 00:30:05,340
+I think maybe you should.
+
+652
+00:30:06,160 --> 00:30:06,160
+I might.
+
+653
+00:30:06,780 --> 00:30:12,000
+I've been thinking, I was thinking about that today when I was just like, because I was like, oh, it's been a while since I've been on podcast The Ride.
+
+654
+00:30:12,000 --> 00:30:18,320
+I got to, you know, I want to re-see Jurassic Park, the update, because I went on there once and I think it was a little fuzzy.
+
+655
+00:30:18,540 --> 00:30:21,800
+And I want to see if it's all up to stuff now with the whole year of maintenance.
+
+656
+00:30:21,800 --> 00:30:22,280
+Oh, sure.
+
+657
+00:30:22,280 --> 00:30:22,900
+It looks pretty good.
+
+658
+00:30:23,220 --> 00:30:24,400
+It's looking pretty good.
+
+659
+00:30:24,780 --> 00:30:30,540
+I'll be, yeah, I'm almost at the date, the specials second date or after the second date.
+
+660
+00:30:30,780 --> 00:30:31,600
+So who knows?
+
+661
+00:30:31,640 --> 00:30:32,640
+I could be at Jurassic Park.
+
+662
+00:30:32,640 --> 00:30:34,220
+I could be, I don't know.
+
+663
+00:30:34,260 --> 00:30:35,140
+I said this before we started.
+
+664
+00:30:35,180 --> 00:30:36,320
+I could be at these parks.
+
+665
+00:30:36,500 --> 00:30:37,180
+I don't know when.
+
+666
+00:30:37,220 --> 00:30:37,900
+It could be tomorrow.
+
+667
+00:30:37,940 --> 00:30:38,700
+It could be another month.
+
+668
+00:30:38,720 --> 00:30:39,320
+We'll see.
+
+669
+00:30:39,320 --> 00:30:41,840
+But I have the same urge.
+
+670
+00:30:41,940 --> 00:30:44,760
+A friend also was at Universal today and I went, oh, that looks good.
+
+671
+00:30:45,460 --> 00:30:45,940
+Yeah.
+
+672
+00:30:49,660 --> 00:31:00,300
+Oh, I'm trying to work out the, there isn't anything nice to call the waiting, the two weeks or whatever it is for your shot, for your specific shot.
+
+673
+00:31:00,300 --> 00:31:06,920
+But maybe it should be like it's an AD, like an A to S after second shot.
+
+674
+00:31:07,100 --> 00:31:09,100
+If it is a second shot scenario.
+
+675
+00:31:09,720 --> 00:31:10,320
+Oh, I see.
+
+676
+00:31:10,880 --> 00:31:11,160
+Yeah.
+
+677
+00:31:11,640 --> 00:31:15,020
+Like it's the ADY of this.
+
+678
+00:31:15,400 --> 00:31:17,980
+It's a special date that we have nothing cool to call it.
+
+679
+00:31:18,140 --> 00:31:18,300
+Right.
+
+680
+00:31:18,300 --> 00:31:21,560
+After second shot, which is ass, A-S-S.
+
+681
+00:31:22,200 --> 00:31:22,620
+Yeah.
+
+682
+00:31:28,300 --> 00:31:28,560
+Yeah.
+
+683
+00:31:28,560 --> 00:31:31,740
+I have been saying fully baked, but I just don't like that.
+
+684
+00:31:31,740 --> 00:31:35,620
+Like it's just, it's not quite, it doesn't feel right.
+
+685
+00:31:35,620 --> 00:31:35,880
+Right.
+
+686
+00:31:35,900 --> 00:31:37,700
+Cause it's like, it's close.
+
+687
+00:31:38,020 --> 00:31:41,280
+There's something weird about, about the terminology on a lot of it.
+
+688
+00:31:41,340 --> 00:31:42,660
+Your pokies and your jabbies.
+
+689
+00:31:43,660 --> 00:31:44,440
+I'm not sure.
+
+690
+00:31:45,000 --> 00:31:45,540
+I jab.
+
+691
+00:31:46,280 --> 00:31:47,480
+I go like, Ooh.
+
+692
+00:31:47,620 --> 00:31:48,780
+And they, I have jabs.
+
+693
+00:31:49,080 --> 00:31:49,580
+I don't know why.
+
+694
+00:31:49,580 --> 00:31:50,640
+Why is jabs?
+
+695
+00:31:50,660 --> 00:31:52,460
+That seems odd to me.
+
+696
+00:31:52,620 --> 00:31:53,500
+I think fully baked.
+
+697
+00:31:53,640 --> 00:31:58,020
+You can only say if you got both shots from Jim Brewer.
+
+698
+00:31:58,020 --> 00:32:00,520
+Jim Brewer is giving you both shots.
+
+699
+00:32:00,520 --> 00:32:01,460
+Yeah, but he's skeptical.
+
+700
+00:32:01,480 --> 00:32:02,140
+He's skeptical.
+
+701
+00:32:02,140 --> 00:32:02,840
+I think.
+
+702
+00:32:03,100 --> 00:32:03,940
+Oh goody.
+
+703
+00:32:03,960 --> 00:32:05,920
+That's why he stayed half baked.
+
+704
+00:32:08,000 --> 00:32:10,060
+80% is good enough, man.
+
+705
+00:32:10,780 --> 00:32:13,200
+I'm not under the government's control, dude.
+
+706
+00:32:14,020 --> 00:32:14,340
+Yeah.
+
+707
+00:32:14,680 --> 00:32:15,240
+Yeah.
+
+708
+00:32:15,240 --> 00:32:19,760
+No, I can't think of like, maybe roasted, maybe cause we're talking about Rondo roasted.
+
+709
+00:32:19,980 --> 00:32:21,320
+Maybe fully roasted.
+
+710
+00:32:21,840 --> 00:32:22,820
+You can say you're all.
+
+711
+00:32:22,820 --> 00:32:24,220
+Roasted on all sides.
+
+712
+00:32:24,400 --> 00:32:24,920
+Yeah.
+
+713
+00:32:25,160 --> 00:32:25,720
+Yeah.
+
+714
+00:32:27,000 --> 00:32:29,600
+You've gone, I've gone around the spit.
+
+715
+00:32:29,820 --> 00:32:30,200
+Yeah.
+
+716
+00:32:31,240 --> 00:32:33,600
+Eight, eight DJ eight.
+
+717
+00:32:33,680 --> 00:32:35,260
+I can't see my notes right now.
+
+718
+00:32:35,340 --> 00:32:36,160
+Is that his name?
+
+719
+00:32:36,180 --> 00:32:38,220
+The roasting man, the roasting bot.
+
+720
+00:32:38,700 --> 00:32:40,180
+Oh, the roasting bot.
+
+721
+00:32:40,320 --> 00:32:42,620
+Oh, let's talk about the roasting bot, please.
+
+722
+00:32:42,740 --> 00:32:44,060
+I like him more than Bakar.
+
+723
+00:32:44,680 --> 00:32:48,840
+The droid cooking is the guy that Bakar signs the checks.
+
+724
+00:32:50,200 --> 00:32:56,080
+Like Bakar is the one going like, I can't find anyone to work after this galactic Senate fell apart.
+
+725
+00:32:56,180 --> 00:33:00,680
+You know, I can't find anyone willing to work for this few credits.
+
+726
+00:33:01,420 --> 00:33:03,580
+Got to build an employee, I guess.
+
+727
+00:33:04,700 --> 00:33:06,340
+8DJ8 is what I'm seeing.
+
+728
+00:33:08,140 --> 00:33:08,900
+Yeah, he's cool.
+
+729
+00:33:09,100 --> 00:33:09,580
+Does he?
+
+730
+00:33:09,920 --> 00:33:13,320
+I haven't really, I haven't been there in a while.
+
+731
+00:33:13,320 --> 00:33:24,880
+I know that if you stand around, like there's the little sequence of events where the pod race engine shakes a lot and there's different levels of heat and orange to the, and there's meat that's rotating around.
+
+732
+00:33:25,320 --> 00:33:28,220
+Does 8DJ8 say stuff?
+
+733
+00:33:28,240 --> 00:33:29,540
+He says stuff, right?
+
+734
+00:33:30,600 --> 00:33:31,900
+I don't remember him talking.
+
+735
+00:33:32,120 --> 00:33:34,340
+I think he just, he just, he's just arms.
+
+736
+00:33:34,560 --> 00:33:36,720
+He's just, maybe he talks.
+
+737
+00:33:37,020 --> 00:33:37,880
+Does he beat?
+
+738
+00:33:38,220 --> 00:33:38,780
+Kebab.
+
+739
+00:33:38,780 --> 00:33:39,660
+He makes noises.
+
+740
+00:33:39,780 --> 00:33:41,080
+People are going to be upset about this.
+
+741
+00:33:41,160 --> 00:33:43,980
+And I'm realizing now that I didn't even remember this.
+
+742
+00:33:44,560 --> 00:33:45,800
+I thought I saw that he did.
+
+743
+00:33:46,120 --> 00:33:48,260
+He like wisecracking like Flintstones.
+
+744
+00:33:48,320 --> 00:33:50,200
+Like it's a living kind of line.
+
+745
+00:33:50,220 --> 00:33:50,620
+Yeah.
+
+746
+00:33:50,700 --> 00:33:51,340
+People are yelling.
+
+747
+00:33:51,560 --> 00:33:52,320
+I'll look into this.
+
+748
+00:33:52,320 --> 00:33:53,880
+If you guys want to talk amongst yourselves.
+
+749
+00:33:54,240 --> 00:34:03,880
+Well, I will say I would just, I do remember the first time me and Scott went to Galaxy's Edge together and I, I've never seen Scott so happy.
+
+750
+00:34:03,880 --> 00:34:12,880
+And I visited Scott with his child and he, but I've never seen him glow so much as when he was like taking in the, the, the, the pod race engine.
+
+751
+00:34:12,880 --> 00:34:14,720
+And then it started roaring and he was like, whoa.
+
+752
+00:34:14,940 --> 00:34:17,500
+And I just remember, I remember it was such a moment.
+
+753
+00:34:17,780 --> 00:34:18,540
+There it is.
+
+754
+00:34:18,620 --> 00:34:20,020
+Oh, you pulled up there.
+
+755
+00:34:20,020 --> 00:34:21,260
+That was, we were very excited.
+
+756
+00:34:21,360 --> 00:34:23,160
+Oh, the smoke comes out of the engine.
+
+757
+00:34:23,540 --> 00:34:24,560
+I forgot about that.
+
+758
+00:34:24,560 --> 00:34:26,320
+I, yeah, I love this display.
+
+759
+00:34:26,360 --> 00:34:32,720
+Like the, how massive a piece that is shaking around, how realistic the meat is.
+
+760
+00:34:32,840 --> 00:34:34,820
+You know, it's not real meat, but that's well rendered.
+
+761
+00:34:34,900 --> 00:34:36,900
+We were talking about doing fake food, right?
+
+762
+00:34:37,260 --> 00:34:42,120
+I think like the meat on the skewers being cooked under the pod race engine.
+
+763
+00:34:42,620 --> 00:34:45,040
+That's, that's some pretty appetizing looking food for sure.
+
+764
+00:34:45,260 --> 00:34:49,900
+I think it looks better than one actual ingredient in the Rata wraps.
+
+765
+00:34:50,100 --> 00:34:50,720
+I'll say that.
+
+766
+00:34:51,840 --> 00:34:52,760
+Oh, wow.
+
+767
+00:34:52,840 --> 00:34:53,760
+Coming in hot.
+
+768
+00:34:54,460 --> 00:34:54,940
+Oh, interesting.
+
+769
+00:34:55,160 --> 00:34:56,520
+Ooh, I'm excited to get into that.
+
+770
+00:34:56,640 --> 00:34:56,900
+Okay.
+
+771
+00:34:57,060 --> 00:34:57,440
+Okay.
+
+772
+00:34:57,520 --> 00:34:59,280
+Oh, not, not lizards though.
+
+773
+00:34:59,280 --> 00:35:01,460
+The lizards are not the lizards.
+
+774
+00:35:01,460 --> 00:35:02,300
+You don't want to eat those.
+
+775
+00:35:02,580 --> 00:35:03,020
+Yeah.
+
+776
+00:35:03,040 --> 00:35:06,260
+But you know, I have a lot to say about sausage wrap.
+
+777
+00:35:06,260 --> 00:35:08,680
+Like, I don't think that's a surprise to anyone.
+
+778
+00:35:08,960 --> 00:35:11,000
+By the way, we've been talking 35 minutes.
+
+779
+00:35:11,140 --> 00:35:16,940
+We, if somebody listened to this and they have never heard of a Ronto wrap, they don't even know what a Ronto wrap is at this point.
+
+780
+00:35:16,940 --> 00:35:19,580
+We haven't described what a Ronto wrap is.
+
+781
+00:35:19,960 --> 00:35:20,480
+Yeah.
+
+782
+00:35:20,480 --> 00:35:23,440
+Well, this is good of you to police us as an outsider.
+
+783
+00:35:23,760 --> 00:35:25,020
+This happens a lot.
+
+784
+00:35:26,380 --> 00:35:27,800
+The deep end of the episode.
+
+785
+00:35:27,800 --> 00:35:29,120
+And we haven't said the thing yet.
+
+786
+00:35:29,120 --> 00:35:34,060
+It's this good like sausage wrap that you have next to the spot race engine.
+
+787
+00:35:34,360 --> 00:35:34,940
+I have the.
+
+788
+00:35:35,360 --> 00:35:35,980
+It feels spacey.
+
+789
+00:35:36,100 --> 00:35:37,540
+Like I keep saying spacey.
+
+790
+00:35:37,560 --> 00:35:38,900
+That's a bad word to say.
+
+791
+00:35:39,440 --> 00:35:40,520
+Space-ish.
+
+792
+00:35:40,720 --> 00:35:41,480
+Space-esque.
+
+793
+00:35:41,480 --> 00:35:50,580
+It feels like from outer space because the ingredients, while all earthly ingredients are combined in an interesting, odd way, but still very palatable and delicious.
+
+794
+00:35:50,580 --> 00:35:52,420
+What's your favorite Kevin space-esque movie?
+
+795
+00:35:53,960 --> 00:35:55,240
+I fucked the delivery.
+
+796
+00:35:55,380 --> 00:35:58,800
+I would have been really good if I'd nailed it, but it's hard to say Kevin space-esque for the first time.
+
+797
+00:35:59,360 --> 00:36:00,420
+Yeah, yeah, that's a mouthful.
+
+798
+00:36:00,440 --> 00:36:01,640
+That's a lot all at once.
+
+799
+00:36:01,640 --> 00:36:03,860
+A billionaire boss club.
+
+800
+00:36:04,700 --> 00:36:06,820
+That's a good Star Wars reference right there.
+
+801
+00:36:07,040 --> 00:36:08,000
+Oh, yeah, that is good.
+
+802
+00:36:08,460 --> 00:36:19,680
+I have the official menu listing from the website of a Ronto wrap roasted pork grilled pork sausage, peppercorn, corn sauce, tangy slaw wrapped in a pita.
+
+803
+00:36:19,680 --> 00:36:21,920
+That is the traditional Ronto wrap.
+
+804
+00:36:23,320 --> 00:36:32,720
+A Ronto in Star Wars, you know, continuity is surprisingly more majestic than I thought it would be.
+
+805
+00:36:32,840 --> 00:36:39,440
+I forgot that it is the guy added in the special edition of A New Hope that kind of rears up.
+
+806
+00:36:39,480 --> 00:36:47,660
+It's kind of a giraffe dinosaur horse thing that rears up as a speeder goes by as they're going into Mos Eisley.
+
+807
+00:36:47,660 --> 00:36:49,200
+Yeah, on on Tatooine.
+
+808
+00:36:49,260 --> 00:36:56,320
+Yeah, I immediately recognized the Ronto when I saw I never knew I never associated the name with that character.
+
+809
+00:36:56,400 --> 00:37:03,660
+I'm like, oh, yes, really CGI ish new addition to New Hope in the 97 re-release for sure.
+
+810
+00:37:03,780 --> 00:37:12,140
+Talking about icons, I think the Ronto is the icon of the special edition because that's when you think of special edition, you think of that that the guy rearing up and do that's right.
+
+811
+00:37:12,140 --> 00:37:14,140
+That's the exact thing I think of.
+
+812
+00:37:14,140 --> 00:37:18,820
+Well, that and young Java, young Java in the cut.
+
+813
+00:37:19,020 --> 00:37:24,380
+See the CGI, you know, and let's give them credit to young Java.
+
+814
+00:37:24,380 --> 00:37:31,140
+So Boba in the early days of the computer generated imagery in the 90s, they look pretty good.
+
+815
+00:37:31,980 --> 00:37:32,720
+They look pretty good.
+
+816
+00:37:32,720 --> 00:37:37,560
+I don't I still love the weird step on the tail trick.
+
+817
+00:37:37,560 --> 00:37:40,300
+Like they're like, how are we going to get them to get behind him?
+
+818
+00:37:40,300 --> 00:37:44,800
+He had no tail when he worked with his actor and then like the like like Han goes behind.
+
+819
+00:37:44,940 --> 00:37:47,300
+He just suddenly jumps up and like he's like the ring girl.
+
+820
+00:37:47,300 --> 00:37:49,140
+Like he just kind of steps over.
+
+821
+00:37:49,240 --> 00:37:56,240
+It looks very that still looks a little goofy, but they've got a job that makes that like really strange.
+
+822
+00:37:56,460 --> 00:37:57,880
+They've tried to make it better.
+
+823
+00:37:57,920 --> 00:38:01,680
+They think they fixed it a couple of times and it's still it's not going to be perfect ever.
+
+824
+00:38:01,680 --> 00:38:03,000
+But they have finessed it.
+
+825
+00:38:03,120 --> 00:38:09,900
+I just want to real quick say I've looked, watched four movies of this droid and I don't believe he speaks words.
+
+826
+00:38:10,680 --> 00:38:11,360
+Maybe he doesn't.
+
+827
+00:38:11,400 --> 00:38:12,160
+I might be making that.
+
+828
+00:38:12,180 --> 00:38:17,780
+I feel like maybe I would make a faint ghostly voice or it's just the most Easter egg thing.
+
+829
+00:38:18,220 --> 00:38:23,300
+But the fact that I don't remember it too strongly and then you're not finding it like maybe he does not speak.
+
+830
+00:38:23,540 --> 00:38:24,740
+People are mad if they know.
+
+831
+00:38:24,820 --> 00:38:27,840
+I'm so sorry if you've talked to you and had a conversation.
+
+832
+00:38:28,720 --> 00:38:30,900
+It's a great audio environment, though.
+
+833
+00:38:30,900 --> 00:38:32,120
+There's a lot of sounds.
+
+834
+00:38:32,300 --> 00:38:33,240
+There's some music.
+
+835
+00:38:33,300 --> 00:38:38,080
+You hear stuff at different volumes like the marketplace section of a Galaxy's Edge.
+
+836
+00:38:38,100 --> 00:38:38,880
+Very well done.
+
+837
+00:38:39,660 --> 00:38:43,620
+I remember my mom was so blown away, but I believe she had a Ronto rap.
+
+838
+00:38:43,660 --> 00:38:44,440
+Really loved it.
+
+839
+00:38:44,440 --> 00:38:48,080
+And that just that was like the peak of this new area of Disneyland.
+
+840
+00:38:48,080 --> 00:38:50,500
+She was experiencing just like food.
+
+841
+00:38:50,520 --> 00:38:50,920
+Great.
+
+842
+00:38:50,960 --> 00:38:51,960
+That display.
+
+843
+00:38:52,120 --> 00:38:52,760
+So great.
+
+844
+00:38:52,880 --> 00:38:53,440
+Sound design.
+
+845
+00:38:53,440 --> 00:38:53,820
+Great.
+
+846
+00:38:53,820 --> 00:38:57,840
+It is like maybe it is sort of a centerpiece of Galaxy's Edge, I feel.
+
+847
+00:38:58,160 --> 00:38:58,440
+Yes.
+
+848
+00:38:58,460 --> 00:38:59,200
+Yeah, for sure.
+
+849
+00:38:59,680 --> 00:39:04,960
+Where does everybody in this group stand as far as Galaxy's Edge night or day?
+
+850
+00:39:05,480 --> 00:39:06,800
+Where does everybody stand on that?
+
+851
+00:39:07,560 --> 00:39:12,620
+I think I've been there more in the daytime, but it really is very striking at night.
+
+852
+00:39:13,220 --> 00:39:15,280
+I mean, it's hard to it's hard.
+
+853
+00:39:15,600 --> 00:39:15,760
+Night.
+
+854
+00:39:15,900 --> 00:39:17,860
+Everything ends up winning in my mind.
+
+855
+00:39:17,860 --> 00:39:22,560
+I'm trying to think of anything that doesn't isn't improved by the night atmosphere.
+
+856
+00:39:22,560 --> 00:39:23,720
+So I will say night.
+
+857
+00:39:24,280 --> 00:39:30,700
+I think I've liked going there midday partially for the purposes of getting this Ronto rap,
+
+858
+00:39:30,760 --> 00:39:37,020
+maybe doing my longer pass in Batuu during the day and then hitting it again at night.
+
+859
+00:39:37,160 --> 00:39:42,320
+Briefer maybe because I like pop into a single rider Millennium Falcon.
+
+860
+00:39:42,320 --> 00:39:46,800
+Maybe I don't get into Rise of the Resistance until the end of the day.
+
+861
+00:39:47,000 --> 00:39:52,320
+And again, I'm describing things that have only happened like three times because this all closed really fast.
+
+862
+00:39:52,680 --> 00:39:57,240
+But yeah, I think I think a lot of day and a little night chaser.
+
+863
+00:39:57,440 --> 00:39:59,080
+I think that's my favorite way to do it.
+
+864
+00:39:59,100 --> 00:40:00,380
+That way you're yourself.
+
+865
+00:40:01,300 --> 00:40:01,660
+I will.
+
+866
+00:40:01,900 --> 00:40:08,260
+The one thing is we're talking about the sound design, the sound design of like ships flying over your head at night is such a great trick.
+
+867
+00:40:08,260 --> 00:40:13,100
+I feel like you're in a you're a busy spaceport because you wouldn't necessarily see the ships if you're looking up.
+
+868
+00:40:13,300 --> 00:40:19,680
+And I also I think I said this the first time we went to Galaxy said we with his at night and you look up at the sky and you look at the stars and you're in an alien planet.
+
+869
+00:40:19,740 --> 00:40:23,380
+You're like guys like we're we're in space right now, whether you like it or not.
+
+870
+00:40:23,380 --> 00:40:24,920
+We're actually really in space.
+
+871
+00:40:24,920 --> 00:40:27,000
+And I felt I felt like kind of like a high guy.
+
+872
+00:40:27,080 --> 00:40:30,800
+I'm not a high guy, but I felt like a high guy because I was like, well, we're like this.
+
+873
+00:40:30,900 --> 00:40:33,480
+If this was an alien planet, it would look exactly the same.
+
+874
+00:40:33,780 --> 00:40:35,320
+If you looked up, it looked like stars.
+
+875
+00:40:36,000 --> 00:40:37,160
+So I did love that.
+
+876
+00:40:37,300 --> 00:40:42,000
+But I but on the flip side, daytime is like what you see Tatooine in in the movies.
+
+877
+00:40:42,000 --> 00:40:50,320
+So you do have that kind of like, you know, I'll say this specifically in the the Ronto Roasters area daytime.
+
+878
+00:40:50,820 --> 00:40:59,260
+If I'm walking around outside, if I'm getting if I'm looking at the Millennium Falcon for like a photo op or just to get on the single writer line, I'm going to go night for that.
+
+879
+00:40:59,260 --> 00:41:00,060
+So you got to split it.
+
+880
+00:41:00,060 --> 00:41:00,240
+It's hard.
+
+881
+00:41:00,320 --> 00:41:02,520
+It's hard to pick one equitably.
+
+882
+00:41:02,520 --> 00:41:04,060
+Do both if you can't.
+
+883
+00:41:04,120 --> 00:41:05,540
+Yeah, yeah, that's probably the best.
+
+884
+00:41:05,680 --> 00:41:06,740
+Go twice in a day.
+
+885
+00:41:07,260 --> 00:41:17,920
+Did anybody see this odd little fact about the Ronto and where the literal in the making of the film or the special edition where the Ronto came from?
+
+886
+00:41:18,340 --> 00:41:18,560
+No.
+
+887
+00:41:18,780 --> 00:41:31,340
+Which explains the word Ronto, which is that in order to do this, Industrial Light and Magic started with and modified the Brachiosaurus model from Jurassic Park.
+
+888
+00:41:31,340 --> 00:41:34,460
+And that is how you're looking when you're looking at that figure.
+
+889
+00:41:34,460 --> 00:41:41,080
+It is a it is the bones, the base of the Brachiosaurus from Jurassic Park, which am I dumb?
+
+890
+00:41:41,180 --> 00:41:42,880
+Is that is that the Brontosaurus?
+
+891
+00:41:43,060 --> 00:41:45,840
+Is that the same thing or is a Brachiosaurus a different thing?
+
+892
+00:41:46,040 --> 00:41:47,180
+I think there are two different things.
+
+893
+00:41:47,520 --> 00:41:48,420
+My different things.
+
+894
+00:41:48,640 --> 00:41:59,060
+Well, it's confusing because while making the film like until Lucas had really seen it, the animators were referring to it as the Bronto.
+
+895
+00:41:59,060 --> 00:42:05,640
+And then George came in and said, just drop the B and he named he named Ronto personally.
+
+896
+00:42:05,640 --> 00:42:08,480
+And it is Ronto because it's Bronto minus B.
+
+897
+00:42:08,520 --> 00:42:10,060
+That's why that's a great factoid.
+
+898
+00:42:10,140 --> 00:42:10,860
+He's a genius.
+
+899
+00:42:10,860 --> 00:42:11,980
+That's why he's a genius.
+
+900
+00:42:12,340 --> 00:42:15,720
+He comes in, he solves a problem and walks out.
+
+901
+00:42:16,540 --> 00:42:18,240
+I can tell you this without even looking it up, Mike.
+
+902
+00:42:18,300 --> 00:42:20,560
+The Brachiosaurus is a taller dinosaur.
+
+903
+00:42:20,580 --> 00:42:22,000
+It has kind of a ridged head.
+
+904
+00:42:22,000 --> 00:42:24,640
+The Brontosaurus is a little bit of a longer dinosaur.
+
+905
+00:42:24,840 --> 00:42:31,760
+It's head like rides a little lower and it might be a little larger than the Brachiosaurus, but it's generally like it kind of like slings low.
+
+906
+00:42:32,220 --> 00:42:33,220
+A similar silhouette.
+
+907
+00:42:33,680 --> 00:42:35,920
+Yeah, like like you're looking at a distance.
+
+908
+00:42:36,540 --> 00:42:36,540
+Yeah.
+
+909
+00:42:36,980 --> 00:42:38,920
+Oh, but so wait, I might not.
+
+910
+00:42:39,000 --> 00:42:41,520
+Maybe I didn't realize this till right now that it is not.
+
+911
+00:42:41,860 --> 00:42:47,000
+I think I've always thought of the first dinosaur you see in Jurassic Park as a Brontosaurus, but it is not.
+
+912
+00:42:47,920 --> 00:42:50,100
+I believe so.
+
+913
+00:42:50,500 --> 00:42:52,020
+I think they change.
+
+914
+00:42:52,280 --> 00:42:56,840
+They make new discoveries about dinosaurs seemingly every month and they've changed names a lot.
+
+915
+00:42:56,860 --> 00:43:04,520
+And so I I will admit I am not knowledgeable about you didn't learn anything from Jurassic Quest.
+
+916
+00:43:07,160 --> 00:43:08,440
+Jurassic Fantastic.
+
+917
+00:43:09,320 --> 00:43:10,000
+That's what I learned.
+
+918
+00:43:10,080 --> 00:43:12,100
+I learned how to sing a great song.
+
+919
+00:43:12,100 --> 00:43:13,380
+Sing a song.
+
+920
+00:43:15,560 --> 00:43:18,540
+Anyways, so so the Ronto.
+
+921
+00:43:18,740 --> 00:43:18,880
+Yeah.
+
+922
+00:43:19,020 --> 00:43:24,780
+So does it like disturb you guys a little now to like I mean, well, you're eating meat.
+
+923
+00:43:24,780 --> 00:43:36,760
+You're eating an animal product anyway, but are now or if mentally in the little play acting you're doing when you go there to know that you are eating this gigantic, majestic Brachiosaurus-esque creature.
+
+924
+00:43:36,980 --> 00:43:38,000
+Is that bothersome?
+
+925
+00:43:38,180 --> 00:43:39,340
+Now that ruin anything?
+
+926
+00:43:39,340 --> 00:43:41,820
+I don't know that it ruins anything, but it is odd.
+
+927
+00:43:42,060 --> 00:43:43,940
+It is like I'm eating a dinosaur.
+
+928
+00:43:44,860 --> 00:43:50,340
+Now, if we just think about any meat consumption in general, it's odd and it's a little disturbing.
+
+929
+00:43:51,860 --> 00:43:55,240
+But is the size is the size what's so disturbing about it?
+
+930
+00:43:56,180 --> 00:43:56,880
+I'm not sure.
+
+931
+00:43:56,880 --> 00:43:58,380
+It's an interesting question.
+
+932
+00:43:58,600 --> 00:44:01,940
+Could be that just that it looks so cool, but we animals that look cool.
+
+933
+00:44:02,260 --> 00:44:05,720
+So the skittishness that like, oh, it's got feelings.
+
+934
+00:44:05,720 --> 00:44:06,760
+It knows.
+
+935
+00:44:06,880 --> 00:44:08,930
+Yeah, I think that's a clear personality.
+
+936
+00:44:10,000 --> 00:44:10,000
+Yeah.
+
+937
+00:44:10,020 --> 00:44:10,400
+Yeah.
+
+938
+00:44:10,520 --> 00:44:13,220
+That's another problem with meat in general, too.
+
+939
+00:44:13,740 --> 00:44:15,280
+Got to give him credit on that, too.
+
+940
+00:44:15,420 --> 00:44:18,750
+The Ronto list garden wrap 1299 Ronto wrap 1299.
+
+941
+00:44:19,580 --> 00:44:26,340
+I think that's a big hurdle for a lot of people were not trying plant based alternatives in the past was the price point.
+
+942
+00:44:26,340 --> 00:44:32,740
+And if you can get a closer to the price of actual meat, I think it is people come around to it a little more.
+
+943
+00:44:32,740 --> 00:44:47,020
+So do we know in Canon is the vegetarian Ronto wrap actually a Ronto substitute that was developed on tattoo or wherever we are, but to know the vegetarian wrap is actually little Yodas.
+
+944
+00:44:47,020 --> 00:44:49,740
+It's like it's like they're kind of plant based because they're so green.
+
+945
+00:44:49,840 --> 00:44:50,760
+They're photosynthesized.
+
+946
+00:44:50,860 --> 00:44:54,840
+It's really kind of weird because it's like six, one half does the other when it comes to meat consumption.
+
+947
+00:44:54,840 --> 00:44:57,240
+But, you know, it's different on Star Wars.
+
+948
+00:44:57,240 --> 00:45:06,980
+So it's like kind of a clone army of Yodas that are grown for the purpose of eating and selling as plant based alternatives to a Ronto.
+
+949
+00:45:07,460 --> 00:45:18,320
+Yeah, there is a big viral video that happened on Tatooine where they showed these like factories of just like little cloned eyeless Yodas is Yodas that eyes or mouths and they just like they move and stuff, but they're not really alive.
+
+950
+00:45:18,320 --> 00:45:19,720
+So it's not a big deal.
+
+951
+00:45:20,000 --> 00:45:20,980
+Nerve endings.
+
+952
+00:45:21,440 --> 00:45:22,080
+Yeah, exactly.
+
+953
+00:45:22,080 --> 00:45:23,920
+I mean, no, no, there are nerve endings.
+
+954
+00:45:23,920 --> 00:45:25,760
+They do feel pain, but they're not alive.
+
+955
+00:45:25,760 --> 00:45:32,860
+Just so you know, and they're only they're like they're like 3% less cute, like still very cute, but like not as cute.
+
+956
+00:45:32,860 --> 00:45:40,640
+So so it's like like on is it on Camino, which is a clone planet with like all the oceans and the storms from Attack of the Clones?
+
+957
+00:45:40,740 --> 00:45:42,220
+Yeah, they're they're solving the problem.
+
+958
+00:45:42,260 --> 00:45:46,420
+They're making impossible Rontos out there, which are just little Yodas.
+
+959
+00:45:46,580 --> 00:45:46,720
+Yeah.
+
+960
+00:45:46,800 --> 00:45:47,280
+Wow.
+
+961
+00:45:47,380 --> 00:45:48,820
+That's like a from Camino.
+
+962
+00:45:48,940 --> 00:45:50,980
+Big waste, but OK.
+
+963
+00:45:51,920 --> 00:46:02,480
+I think they also I think Ronto wrap is kind of like a catch all like cheesesteak if you really burrow down to it because at the Florida Galaxy's Edge, they had a tip.
+
+964
+00:46:02,600 --> 00:46:04,460
+You're a Bronto, of course, on Batu tip.
+
+965
+00:46:04,460 --> 00:46:05,700
+You're is what they call chicken.
+
+966
+00:46:05,980 --> 00:46:08,360
+So they had a chicken version of the Ronto wrap.
+
+967
+00:46:09,040 --> 00:46:11,140
+So but it doesn't have Ronto meat.
+
+968
+00:46:11,300 --> 00:46:13,440
+It has to be a meat, you know, right?
+
+969
+00:46:13,640 --> 00:46:16,360
+And if they sell tip, you're inside, right?
+
+970
+00:46:16,400 --> 00:46:19,080
+In docking Bay seven docking Bay seven as well.
+
+971
+00:46:19,620 --> 00:46:20,800
+OK, so I see what you're saying.
+
+972
+00:46:21,020 --> 00:46:26,580
+So there's so Ronto vegetarian is probably a different meat, but they just haven't specified or a plant.
+
+973
+00:46:27,280 --> 00:46:30,960
+A Star Wars plant, perhaps, is what this sort of sausage is made out of.
+
+974
+00:46:30,960 --> 00:46:33,080
+They just haven't specified with Canon yet.
+
+975
+00:46:34,400 --> 00:46:42,840
+I don't have my head wrapped around this question, but is there another Disney food that pretends to be not the food it is like we're talking about tipi and roto meat?
+
+976
+00:46:42,880 --> 00:46:49,060
+Is there other Disney foods that like don't have like, oh, this is a mermaid pudding or whatever?
+
+977
+00:46:49,720 --> 00:46:51,400
+Avatar in Avatar land.
+
+978
+00:46:51,920 --> 00:46:55,200
+Yeah, those are those are like weird Avatar beasts of burden.
+
+979
+00:46:55,340 --> 00:46:56,260
+The gray stuff.
+
+980
+00:46:56,600 --> 00:46:57,240
+I believe so.
+
+981
+00:46:58,140 --> 00:47:03,700
+The gray stuff, though, is still like the gray stuff is still like a sweet treat in Beauty and the Beast, right?
+
+982
+00:47:03,980 --> 00:47:06,800
+I thought it was supposed to be like a paté in Beauty and the Beast.
+
+983
+00:47:06,920 --> 00:47:07,320
+Oh, yeah.
+
+984
+00:47:07,440 --> 00:47:10,160
+It's the blood of alive brooms.
+
+985
+00:47:10,400 --> 00:47:11,940
+It's an enchanted broom.
+
+986
+00:47:11,960 --> 00:47:16,660
+And it's when you squeeze it, when you milk the juice out of it, that's the gray stuff.
+
+987
+00:47:16,720 --> 00:47:17,040
+Right.
+
+988
+00:47:17,260 --> 00:47:17,540
+Yeah.
+
+989
+00:47:18,220 --> 00:47:19,020
+That's interesting.
+
+990
+00:47:19,200 --> 00:47:19,460
+Yeah.
+
+991
+00:47:19,540 --> 00:47:20,540
+Is there any other one?
+
+992
+00:47:20,680 --> 00:47:31,080
+You don't eat mighty crons, of course, in that they would not have you would not go on a ride and then be told to eat the this majestic beast.
+
+993
+00:47:31,200 --> 00:47:33,180
+Well, I got four movies to fill.
+
+994
+00:47:33,460 --> 00:47:34,680
+You know, you never know.
+
+995
+00:47:34,720 --> 00:47:44,060
+There might be like a more, you know, a different crop of Navi on the other side of the planet.
+
+996
+00:47:44,180 --> 00:47:46,180
+So it's like the costumes are different here.
+
+997
+00:47:46,180 --> 00:47:49,320
+This is this is far flung speculation.
+
+998
+00:47:49,720 --> 00:47:54,420
+But being that the next three or four Avatar movies are going to be very sea based.
+
+999
+00:47:55,060 --> 00:48:06,140
+Is there a Tokyo Disney Sea Avatar plan for when there is like Avatar Sea and they're going to add on like an Avatar Sea world at at Tokyo Disney?
+
+1000
+00:48:06,280 --> 00:48:08,000
+Is there anything like that?
+
+1001
+00:48:08,500 --> 00:48:09,560
+Sounds good.
+
+1002
+00:48:09,560 --> 00:48:12,260
+Is there room at Tokyo Disney Sea to do anything like that?
+
+1003
+00:48:12,320 --> 00:48:14,220
+Well, there's a big expansion happening now.
+
+1004
+00:48:14,220 --> 00:48:22,420
+I haven't looked at the overall map to see where the expansion pads lie, but it's something I'd be happy to look at very soon.
+
+1005
+00:48:24,780 --> 00:48:25,580
+But I don't know.
+
+1006
+00:48:25,660 --> 00:48:28,200
+I don't know if I don't think there's any plans that we've heard about.
+
+1007
+00:48:28,960 --> 00:48:30,020
+But it's not a bad idea.
+
+1008
+00:48:30,200 --> 00:48:34,000
+And I think there are I think there is more room for sure to expand.
+
+1009
+00:48:34,580 --> 00:48:35,840
+Do they like it in Japan?
+
+1010
+00:48:35,980 --> 00:48:36,380
+Is this one?
+
+1011
+00:48:36,440 --> 00:48:39,440
+There's this odd thing of like there's no galaxy's edge in Japan.
+
+1012
+00:48:39,440 --> 00:48:41,660
+And maybe there's the calculation that they don't care about.
+
+1013
+00:48:41,660 --> 00:48:42,700
+Is that way?
+
+1014
+00:48:42,740 --> 00:48:45,780
+That seems crazy that Japan doesn't like Star Wars.
+
+1015
+00:48:45,980 --> 00:48:48,020
+Why is there no galaxy's edge there?
+
+1016
+00:48:49,060 --> 00:48:49,380
+Huh?
+
+1017
+00:48:49,440 --> 00:48:50,440
+That's a good question.
+
+1018
+00:48:50,620 --> 00:48:51,740
+I think maybe timing.
+
+1019
+00:48:51,920 --> 00:48:56,060
+I think they already were just working on so many new attractions.
+
+1020
+00:48:56,360 --> 00:48:59,600
+Maybe it just didn't line up and maybe the park didn't need it.
+
+1021
+00:48:59,600 --> 00:49:01,500
+I think Paris needs it.
+
+1022
+00:49:01,820 --> 00:49:02,840
+Yeah, that's true.
+
+1023
+00:49:02,860 --> 00:49:03,540
+That makes sense.
+
+1024
+00:49:03,680 --> 00:49:08,120
+By the way, can I jump in on the Tokyo Disney Days questions?
+
+1025
+00:49:08,140 --> 00:49:09,620
+It's been a while since I've been on here.
+
+1026
+00:49:09,620 --> 00:49:11,260
+Oh, and I think it's closed.
+
+1027
+00:49:11,360 --> 00:49:13,360
+But can I throw my two cents opening the way open?
+
+1028
+00:49:13,680 --> 00:49:14,360
+Yeah, open it up.
+
+1029
+00:49:14,360 --> 00:49:14,960
+Let's do it.
+
+1030
+00:49:14,960 --> 00:49:15,420
+All right.
+
+1031
+00:49:15,420 --> 00:49:16,800
+So here's where I land.
+
+1032
+00:49:17,560 --> 00:49:19,100
+Tokyo Disney Sea.
+
+1033
+00:49:19,460 --> 00:49:20,720
+One day.
+
+1034
+00:49:21,000 --> 00:49:22,340
+Tokyo Disney Land.
+
+1035
+00:49:22,640 --> 00:49:23,740
+Half day.
+
+1036
+00:49:23,880 --> 00:49:25,140
+Travel to Osaka.
+
+1037
+00:49:26,180 --> 00:49:27,060
+Universal Japan.
+
+1038
+00:49:27,520 --> 00:49:28,240
+Two days.
+
+1039
+00:49:29,260 --> 00:49:29,660
+What?
+
+1040
+00:49:29,900 --> 00:49:30,620
+Two days at Universal?
+
+1041
+00:49:30,740 --> 00:49:32,100
+That includes the travel?
+
+1042
+00:49:32,520 --> 00:49:35,300
+Well, yeah, because it's going to be a half day travel and it's going to.
+
+1043
+00:49:35,380 --> 00:49:37,320
+Well, no, I think you do.
+
+1044
+00:49:37,320 --> 00:49:42,620
+You could do one day at Universal Japan, but I left a lot of rides on the table when I when I left Universal.
+
+1045
+00:49:43,200 --> 00:49:46,640
+So there's a there's something thrown down that I like.
+
+1046
+00:49:46,780 --> 00:49:49,000
+This is like a little closer to what I said originally.
+
+1047
+00:49:49,440 --> 00:49:53,700
+But now you've been we have not been to Universal Osaka and you have.
+
+1048
+00:49:53,760 --> 00:49:55,060
+So that that's interesting.
+
+1049
+00:49:55,100 --> 00:49:56,120
+That shapes the whole thing.
+
+1050
+00:49:56,160 --> 00:49:58,400
+This is some flame throwing gut felt.
+
+1051
+00:50:01,120 --> 00:50:04,800
+So I'll say I'll say truly, truly a dissonant not joking.
+
+1052
+00:50:04,800 --> 00:50:07,560
+It would be it would be Pooh's Honey Hunt.
+
+1053
+00:50:08,340 --> 00:50:11,920
+And I mean, I do want to see the beauty and the beast thing with that, because that looks amazing.
+
+1054
+00:50:12,420 --> 00:50:16,380
+But everything else, I mean, the pizza place was closed when I went there.
+
+1055
+00:50:16,660 --> 00:50:18,480
+I did say I did say problem.
+
+1056
+00:50:18,800 --> 00:50:20,880
+I did say I had very bad.
+
+1057
+00:50:20,980 --> 00:50:21,700
+I had very bad tours.
+
+1058
+00:50:21,720 --> 00:50:22,120
+Japanese.
+
+1059
+00:50:22,280 --> 00:50:26,020
+There's two things I said where I did the doko deska, which is like, it's like, how do you see things?
+
+1060
+00:50:26,380 --> 00:50:34,780
+And why do you remember asking a poor Japanese woman, Tony Solaroni, doko deska and and she was like,
+
+1061
+00:50:34,780 --> 00:50:35,900
+she told me that it was closed.
+
+1062
+00:50:36,160 --> 00:50:37,440
+And then the other one was I did.
+
+1063
+00:50:37,640 --> 00:50:40,180
+I was looking for some liver lips McGraw merch for you, Mike.
+
+1064
+00:50:40,280 --> 00:50:43,680
+And I did have to ask a woman to give shop liver lips McGraw doko deska.
+
+1065
+00:50:43,820 --> 00:50:47,180
+And she she truly had no idea what I was doko desking.
+
+1066
+00:50:49,360 --> 00:50:52,920
+But and I guess the country bears in Japan was also very charming Disneyland.
+
+1067
+00:50:53,360 --> 00:51:00,600
+But you could do you could do country bears Pooh's Honey Hunt and and Beauty and the Beast in a half day.
+
+1068
+00:51:00,600 --> 00:51:06,140
+And then spend the rest of the day traveling to Osaka because Universal is this is pre Super Nintendo land.
+
+1069
+00:51:06,140 --> 00:51:09,620
+Universal was crazy, like really, really great.
+
+1070
+00:51:09,820 --> 00:51:13,780
+And I can't that that's the other reason is I can't fit on the thrill rides there.
+
+1071
+00:51:13,960 --> 00:51:17,580
+So because they're very Japanese person size and I'm not.
+
+1072
+00:51:17,800 --> 00:51:22,400
+So there is I probably didn't go on maybe four big coasters there.
+
+1073
+00:51:23,060 --> 00:51:26,900
+But I went on Jaws a bunch and I missed the T2 show.
+
+1074
+00:51:27,200 --> 00:51:28,940
+Want to see T2 again?
+
+1075
+00:51:28,940 --> 00:51:33,800
+This big stuff and you still would say and it's still you still have like a big packed day.
+
+1076
+00:51:33,800 --> 00:51:34,760
+I had a packed day.
+
+1077
+00:51:34,760 --> 00:51:35,180
+Wow.
+
+1078
+00:51:35,180 --> 00:51:35,500
+Wow.
+
+1079
+00:51:35,540 --> 00:51:39,080
+Plus there's plus there's a there's a universal Japanese city walk.
+
+1080
+00:51:39,080 --> 00:51:41,780
+And there's one of the only guests quality.
+
+1081
+00:51:41,980 --> 00:51:45,500
+Well, you're like, I mean, I'm not sure anyone's been on maybe just Michael.
+
+1082
+00:51:45,680 --> 00:51:45,860
+I forget.
+
+1083
+00:51:45,960 --> 00:51:50,020
+Like, is anyone qualified to be on the city walk of soccer saga?
+
+1084
+00:51:51,240 --> 00:51:51,720
+Yes.
+
+1085
+00:51:51,820 --> 00:51:53,760
+Justin Emmeriss is a whole thing.
+
+1086
+00:51:53,860 --> 00:51:57,360
+They just have barely them and then and then Matt, that's a good lineup.
+
+1087
+00:51:57,360 --> 00:51:59,020
+Did you do anything in city walk?
+
+1088
+00:51:59,140 --> 00:51:59,540
+Yes.
+
+1089
+00:51:59,800 --> 00:52:06,760
+There was a there was a Western themed like American Western like like like themed arcade where you could go in there.
+
+1090
+00:52:06,760 --> 00:52:07,540
+And it's like, is it?
+
+1091
+00:52:07,600 --> 00:52:08,860
+There's like a lot of arcades in Japan.
+
+1092
+00:52:09,000 --> 00:52:09,800
+Very similar stuff.
+
+1093
+00:52:10,000 --> 00:52:15,740
+But it was very much like like this is an American saloon Western where there's guns everywhere.
+
+1094
+00:52:15,860 --> 00:52:18,120
+And it's just like America because there's guns everywhere.
+
+1095
+00:52:18,120 --> 00:52:19,540
+That was kind of the theme of it.
+
+1096
+00:52:19,860 --> 00:52:23,940
+And there was something on the back wall that was written like, don't mess with me, pal.
+
+1097
+00:52:23,940 --> 00:52:24,440
+Shoot.
+
+1098
+00:52:24,560 --> 00:52:24,820
+Yeah.
+
+1099
+00:52:24,920 --> 00:52:33,260
+It just like it just like said that in big letters and just and it was like, yeah, this this feels like a good estimation of what our wild west cultures like.
+
+1100
+00:52:33,540 --> 00:52:34,360
+They got our ticket.
+
+1101
+00:52:34,720 --> 00:52:36,120
+Yeah, they really do.
+
+1102
+00:52:36,820 --> 00:52:38,180
+And then I think there was a bubble.
+
+1103
+00:52:38,360 --> 00:52:41,080
+There was like the they did have the King Kong there.
+
+1104
+00:52:41,360 --> 00:52:42,180
+There was an ice cream.
+
+1105
+00:52:42,260 --> 00:52:43,620
+They were they were they were even have that in Florida.
+
+1106
+00:52:43,760 --> 00:52:44,480
+That's amazing.
+
+1107
+00:52:44,780 --> 00:52:45,140
+Yeah.
+
+1108
+00:52:46,120 --> 00:52:46,220
+Yeah.
+
+1109
+00:52:46,220 --> 00:52:47,640
+I want you to have Fridays.
+
+1110
+00:52:48,080 --> 00:52:49,660
+Yeah, there is a bunch of stuff like that.
+
+1111
+00:52:49,660 --> 00:52:51,480
+I remember the Western saloon the most.
+
+1112
+00:52:51,880 --> 00:52:54,740
+But I would I would.
+
+1113
+00:52:54,940 --> 00:52:57,500
+Yeah, the universe was so there's so much minion stuff at Universal.
+
+1114
+00:52:57,540 --> 00:52:58,320
+That was amazing.
+
+1115
+00:52:59,080 --> 00:53:05,780
+I had a great moment at Universal Japan where I was leaving and I had like all my bags packed in like a locker at the entrance.
+
+1116
+00:53:05,840 --> 00:53:08,760
+The thing is kind of a little bit outside of the entrance kind of.
+
+1117
+00:53:08,940 --> 00:53:11,080
+And it felt like the backstage area.
+
+1118
+00:53:11,120 --> 00:53:16,040
+And all of a sudden I was sitting there by myself, just kind of fiddle with my fiddling with my luggage, getting it all together.
+
+1119
+00:53:16,040 --> 00:53:21,600
+And maybe two dozen minions just ran by me and there was no music or nothing playing.
+
+1120
+00:53:21,640 --> 00:53:23,860
+They were just like marching out to go do a show.
+
+1121
+00:53:23,860 --> 00:53:25,480
+And I was like, what the fuck?
+
+1122
+00:53:25,660 --> 00:53:27,680
+There's all these and I just started high fiving them all.
+
+1123
+00:53:27,780 --> 00:53:29,220
+And they started high fiving me.
+
+1124
+00:53:29,220 --> 00:53:34,780
+And it was just like I got to high five like 20 minions by myself in a little corner of a locker room.
+
+1125
+00:53:34,800 --> 00:53:35,780
+It was fantastic.
+
+1126
+00:53:35,900 --> 00:53:37,260
+What a great what a great moment.
+
+1127
+00:53:37,620 --> 00:53:38,020
+Wow.
+
+1128
+00:53:38,120 --> 00:53:39,860
+That is a great moment.
+
+1129
+00:53:40,580 --> 00:53:49,240
+So this before Nintendo, we got to get back to Osaka, obviously, to meet the minions like that and go to the bubblegum.
+
+1130
+00:53:50,120 --> 00:53:51,680
+Yeah, I have to see their bubblegum.
+
+1131
+00:53:51,740 --> 00:53:56,960
+But we'll ask Jason, Jason, there was a there was a minions burger, a yellow burger with an eyeball on it.
+
+1132
+00:53:56,980 --> 00:53:57,880
+The bun was yellow.
+
+1133
+00:53:58,300 --> 00:53:59,600
+That's a lot of fun.
+
+1134
+00:53:59,760 --> 00:54:08,600
+The minions I think are very popular internationally because I think it's so much slapstick.
+
+1135
+00:54:08,600 --> 00:54:12,360
+It's so much physical comedy and goofiness and cuteness.
+
+1136
+00:54:12,600 --> 00:54:15,600
+And I think like everywhere in the world can agree on that.
+
+1137
+00:54:15,620 --> 00:54:25,040
+But I I do like the cross-cultural Western stuff, too, like the people planning Disneyland, Paris, Euro Disneyland and Universal Osaka.
+
+1138
+00:54:25,100 --> 00:54:26,120
+Just getting a whiteboard.
+
+1139
+00:54:26,280 --> 00:54:27,820
+It's like, OK, first things first.
+
+1140
+00:54:28,920 --> 00:54:29,960
+Cowboy idiots.
+
+1141
+00:54:30,180 --> 00:54:32,100
+So that's what America is.
+
+1142
+00:54:32,120 --> 00:54:34,920
+So we got to have that next.
+
+1143
+00:54:35,340 --> 00:54:36,380
+TGI Friday.
+
+1144
+00:54:38,900 --> 00:54:40,300
+Forest Gump restaurant.
+
+1145
+00:54:40,360 --> 00:54:41,020
+Yeah, for us.
+
+1146
+00:54:41,120 --> 00:54:45,040
+Oh, yeah, we are legally obligated to have far the forest Gump restaurant.
+
+1147
+00:54:45,520 --> 00:54:47,160
+So that's number two.
+
+1148
+00:54:47,200 --> 00:54:51,860
+There's a there's a TGI Fridays and bubblegum shrimp by Tokyo Dome City as well.
+
+1149
+00:54:52,160 --> 00:54:54,060
+Oh, yeah, I did go to Tokyo Dome City.
+
+1150
+00:54:54,200 --> 00:54:54,380
+I did.
+
+1151
+00:54:54,500 --> 00:54:56,600
+I did miss that, but I didn't want to go to that.
+
+1152
+00:54:57,660 --> 00:55:03,560
+Let I mean, I can't I believe I'm going to apologize for being on a tangent on this show, since that is this show.
+
+1153
+00:55:04,040 --> 00:55:16,340
+But the last thing about Osaka Universal Studios is seeing back draft with like Ron Howard dubbed in Japanese with like the deepest, like manliest Japanese man's voice is just such an amazing.
+
+1154
+00:55:16,520 --> 00:55:19,160
+And it's but it's like Ron Howard's like goofy little face.
+
+1155
+00:55:19,160 --> 00:55:21,520
+It's so it's just a beautiful.
+
+1156
+00:55:21,760 --> 00:55:23,820
+It's such a great time doing back draft again.
+
+1157
+00:55:24,320 --> 00:55:25,220
+Still back draft.
+
+1158
+00:55:25,300 --> 00:55:26,440
+I think I forgot that.
+
+1159
+00:55:26,520 --> 00:55:27,380
+That's crazy.
+
+1160
+00:55:27,760 --> 00:55:28,200
+Wow.
+
+1161
+00:55:28,260 --> 00:55:28,760
+Got to go.
+
+1162
+00:55:28,780 --> 00:55:29,240
+Got to go.
+
+1163
+00:55:29,360 --> 00:55:31,780
+I don't know if Super Nintendo World got rid of it or something like that.
+
+1164
+00:55:31,780 --> 00:55:34,300
+But it's it was a joy to do all that stuff again.
+
+1165
+00:55:34,500 --> 00:55:43,580
+I mean, I'm very excited that the prospect of riding Spider-Man and then walking to ride Jaws like in the same park like that is thrilling to me.
+
+1166
+00:55:43,820 --> 00:55:49,560
+That I've never been on Spider-Man, but that's the first place I've been on Spider-Man because I've never been to Florida Universal Studios.
+
+1167
+00:55:50,000 --> 00:55:52,540
+So Spider-Man was was a was a joy.
+
+1168
+00:55:52,740 --> 00:55:54,860
+What a what a just so fantastic park.
+
+1169
+00:55:54,860 --> 00:55:55,780
+Yeah.
+
+1170
+00:55:56,620 --> 00:55:58,740
+But Mike, is this all madness?
+
+1171
+00:55:59,000 --> 00:56:00,500
+Can you know I'm upset by this day?
+
+1172
+00:56:00,820 --> 00:56:01,220
+Look at my face.
+
+1173
+00:56:01,280 --> 00:56:01,780
+I'm upset.
+
+1174
+00:56:03,300 --> 00:56:13,080
+So if you're folding this in, if you if you're going to now toss in Universal Osaka, how many days of of just pure theme park will it be for you next time you go?
+
+1175
+00:56:13,220 --> 00:56:23,160
+Well, I obviously just off the top of my head, I think I want to add dates to how Tokyo Disney I think it's two days at Disneyland, three days at Tokyo Disney Sea.
+
+1176
+00:56:23,160 --> 00:56:27,680
+You've got up to four, four days at Universal Osaka.
+
+1177
+00:56:29,120 --> 00:56:31,740
+That's what I think off the top of my head.
+
+1178
+00:56:32,800 --> 00:56:35,020
+I spent as many days you want to Disney Sea.
+
+1179
+00:56:35,140 --> 00:56:48,980
+I like if you want to spend that place is fantastic, as everybody said, I could do two days there, but I'd have to be I'd have to have a long Japanese Japan trip to do two days there.
+
+1180
+00:56:49,740 --> 00:56:54,700
+But Disneyland, like I don't know, like there's a lot of stuff that's in our Disneyland that's just as good.
+
+1181
+00:56:54,920 --> 00:56:55,480
+Like what are you going to do?
+
+1182
+00:56:56,060 --> 00:56:58,860
+Like, you know, like I said, honey, honey, amazing.
+
+1183
+00:56:59,920 --> 00:57:03,080
+Every quick service restaurant there has different awesome.
+
+1184
+00:57:03,240 --> 00:57:07,900
+I just mentioned this on the show, different kind of awesome wrappers for the different foods.
+
+1185
+00:57:08,080 --> 00:57:16,040
+And I really next time I go, I would like to see all of the different wrappers for the chicken sandwiches, for the hamburgers, for anything I'm not even thinking about.
+
+1186
+00:57:16,040 --> 00:57:22,200
+And you have to go admire that the roofs and the awnings look exactly like they did in 1983.
+
+1187
+00:57:22,700 --> 00:57:25,000
+And it looks exactly like Disneyland 1983.
+
+1188
+00:57:25,060 --> 00:57:32,360
+If you're going to admire early 80s architecture and take a lot of pictures of it, you just really you get that's going to add time.
+
+1189
+00:57:32,540 --> 00:57:33,180
+Yeah, of course.
+
+1190
+00:57:33,940 --> 00:57:35,260
+So I'm not also at Disneyland.
+
+1191
+00:57:35,320 --> 00:57:36,220
+I'd had a great snack.
+
+1192
+00:57:36,360 --> 00:57:37,480
+I had a cone.
+
+1193
+00:57:37,480 --> 00:57:40,900
+It was a waffle cone with mashed potato and braised beef inside.
+
+1194
+00:57:40,980 --> 00:57:44,280
+That was maybe my favorite Disney meal I had.
+
+1195
+00:57:44,300 --> 00:57:45,100
+That was delicious.
+
+1196
+00:57:46,180 --> 00:57:53,080
+Although they had they had Minion or not Minion, but little Toy Story Green Guy Mochi ice creams at Disney.
+
+1197
+00:57:53,100 --> 00:57:55,640
+See, that was the best pure snack of the trip.
+
+1198
+00:57:55,840 --> 00:57:56,700
+That's very fun.
+
+1199
+00:57:56,720 --> 00:57:57,440
+Yeah, that sounds great.
+
+1200
+00:57:57,460 --> 00:58:00,140
+I'm actually forgetting my was I saying three days?
+
+1201
+00:58:00,140 --> 00:58:00,960
+Was that my argument?
+
+1202
+00:58:01,880 --> 00:58:07,260
+I think at one point in time it was three and now you've expanded to five, which has never been on the table.
+
+1203
+00:58:07,460 --> 00:58:09,320
+Even Tony Baxter did not say five.
+
+1204
+00:58:09,360 --> 00:58:10,500
+Tony said four.
+
+1205
+00:58:11,000 --> 00:58:12,200
+Yeah, I said three.
+
+1206
+00:58:12,200 --> 00:58:15,540
+Three seems so reasonable now that I'm thinking about it with what I just said.
+
+1207
+00:58:16,100 --> 00:58:21,920
+This is the reverse Joe Rody experience where you are sacrificing days.
+
+1208
+00:58:21,980 --> 00:58:29,260
+You could be doing international cultural expeditions to go to theme parks where he would sacrifice like, I don't need to go with theme park.
+
+1209
+00:58:29,260 --> 00:58:32,600
+I'm going to go see, you know, that's the issue for me.
+
+1210
+00:58:32,600 --> 00:58:35,040
+I don't want to go be in Mr.
+
+1211
+00:58:35,200 --> 00:58:38,260
+Culture here, but Mike, if you do that, you have to go to Japan for a month.
+
+1212
+00:58:38,300 --> 00:58:43,220
+That's the only way I will allow you go all the way there and then only go to like Jaws.
+
+1213
+00:58:43,260 --> 00:58:49,860
+You have to add other stuff because Mike, we've got we've got two days to do Wrestle King and we've got to be there both nights of Wrestle Kingdom.
+
+1214
+00:58:50,280 --> 00:58:51,880
+So let's put get that on the table.
+
+1215
+00:58:51,900 --> 00:58:55,940
+You're going to go, which is when January, January 4th and 5th.
+
+1216
+00:58:55,980 --> 00:58:56,380
+Yes.
+
+1217
+00:58:58,380 --> 00:59:04,320
+2021 Mike Carlson is going to be there if you meet him at the Tokyo Dome City the day before Wrestle Kingdom, he'll sign your autographs.
+
+1218
+00:59:04,320 --> 00:59:05,340
+You got to go out there and get them.
+
+1219
+00:59:05,400 --> 00:59:06,480
+Am I doing an appearance?
+
+1220
+00:59:06,920 --> 00:59:07,740
+Yes, absolutely.
+
+1221
+00:59:07,880 --> 00:59:08,860
+We're booking it.
+
+1222
+00:59:09,540 --> 00:59:11,420
+You're being travel doxed, I think.
+
+1223
+00:59:11,500 --> 00:59:12,420
+I mean, that's fine.
+
+1224
+00:59:13,260 --> 00:59:13,580
+Yeah.
+
+1225
+00:59:13,600 --> 00:59:16,640
+So and then we got to go back to Pearl and yeah.
+
+1226
+00:59:16,780 --> 00:59:17,680
+Well, look, that that is it.
+
+1227
+00:59:17,680 --> 00:59:18,960
+That wasn't even part of the days.
+
+1228
+00:59:19,140 --> 00:59:19,240
+Yeah.
+
+1229
+00:59:19,240 --> 00:59:19,840
+If that all right.
+
+1230
+00:59:19,840 --> 00:59:22,080
+If that counts as days, because that's yeah, that's a day.
+
+1231
+00:59:22,080 --> 00:59:26,120
+We have to have more time to go to other goofy ass themed experiences.
+
+1232
+00:59:26,460 --> 00:59:27,240
+That's correct.
+
+1233
+00:59:27,640 --> 00:59:29,820
+It has to be spread around there.
+
+1234
+00:59:30,060 --> 00:59:31,720
+It has to be different things.
+
+1235
+00:59:33,100 --> 00:59:36,200
+I understand now that Studio Ghibli Park looks really amazing.
+
+1236
+00:59:36,200 --> 00:59:40,520
+I know that's like that's far away, but that looks really that could be something that could be something.
+
+1237
+00:59:41,300 --> 00:59:42,720
+Let's let's get back to the two.
+
+1238
+00:59:42,800 --> 00:59:47,860
+We should get back to the two because we have this whole chapter of this that we haven't even haven't even gotten into.
+
+1239
+00:59:47,860 --> 00:59:48,840
+Yeah, no.
+
+1240
+00:59:48,960 --> 00:59:49,480
+Yeah, yeah.
+
+1241
+00:59:49,580 --> 00:59:50,020
+Yeah.
+
+1242
+00:59:50,620 --> 00:59:53,280
+So we because all right.
+
+1243
+00:59:53,380 --> 00:59:54,100
+So Disneyland's open.
+
+1244
+00:59:54,100 --> 00:59:55,300
+People starting to get these.
+
+1245
+00:59:55,300 --> 00:59:56,700
+They were the Ronto wraps again.
+
+1246
+00:59:56,720 --> 00:59:59,560
+They've always they've been just going to Disney World for a long time.
+
+1247
+00:59:59,740 --> 01:00:00,900
+We'll go back and we'll get them.
+
+1248
+01:00:00,940 --> 01:00:02,120
+But we're not quite there.
+
+1249
+01:00:02,160 --> 01:00:03,400
+We're not at Disneyland yet.
+
+1250
+01:00:03,800 --> 01:00:05,040
+We're craving these things.
+
+1251
+01:00:05,040 --> 01:00:08,360
+We wanted to see if it was possible to pull them off at home.
+
+1252
+01:00:08,360 --> 01:00:17,320
+And that is why all of us, I believe we haven't really talked about it, but there is we all attempted to make at home Ronto wraps.
+
+1253
+01:00:18,660 --> 01:00:19,320
+We're correct.
+
+1254
+01:00:19,960 --> 01:00:21,220
+Oh, did everybody give it a shot?
+
+1255
+01:00:21,400 --> 01:00:22,560
+Yes, I tried.
+
+1256
+01:00:23,500 --> 01:00:24,680
+Yeah, yeah, yeah.
+
+1257
+01:00:25,020 --> 01:00:27,640
+Well, that's that's what I'm I'm curious about.
+
+1258
+01:00:27,640 --> 01:00:30,780
+How how skilled were we?
+
+1259
+01:00:31,080 --> 01:00:39,020
+Did anyone get to the car levels or I should say the actual chef who is eight DG eight?
+
+1260
+01:00:39,100 --> 01:00:43,180
+Did anyone feel like an eight DG eight G J eight?
+
+1261
+01:00:43,540 --> 01:00:45,840
+Are you more of a one D one eight?
+
+1262
+01:00:46,800 --> 01:00:50,320
+I certainly stressed myself out doing it.
+
+1263
+01:00:51,020 --> 01:00:53,880
+Yeah, because I went to here.
+
+1264
+01:00:53,920 --> 01:01:00,120
+I went to two grocery stores to obtain the ingredients, some of the ingredients, some of this I already had in the house.
+
+1265
+01:01:00,460 --> 01:01:03,520
+And you're not going to be shocked by what I had in the house.
+
+1266
+01:01:03,620 --> 01:01:05,500
+Ronto meat, Ronto meat already.
+
+1267
+01:01:05,800 --> 01:01:06,260
+Basically.
+
+1268
+01:01:06,900 --> 01:01:09,260
+So I went to two stores.
+
+1269
+01:01:09,560 --> 01:01:10,360
+I came home.
+
+1270
+01:01:10,460 --> 01:01:15,560
+I cooked it and I took I rushed to take pictures of it.
+
+1271
+01:01:15,560 --> 01:01:19,700
+And and then I was just so hungry.
+
+1272
+01:01:19,700 --> 01:01:20,780
+I'm like eating it.
+
+1273
+01:01:20,780 --> 01:01:27,620
+And I was like, should I take a more picture like and the other qualifier, I am awful at taking pictures of food.
+
+1274
+01:01:27,860 --> 01:01:30,300
+I want to say that right off the gate.
+
+1275
+01:01:30,300 --> 01:01:30,680
+Yeah.
+
+1276
+01:01:30,700 --> 01:01:33,540
+So I don't think I sold mine necessarily either.
+
+1277
+01:01:34,020 --> 01:01:36,660
+Yeah, mine looks so pathetic and sad.
+
+1278
+01:01:38,340 --> 01:01:38,340
+Yeah.
+
+1279
+01:01:38,340 --> 01:01:39,660
+Yeah, this is so this whole thing.
+
+1280
+01:01:39,700 --> 01:01:47,040
+I mean, I don't know if we're making this an official contest or if just someone will be confident enough to say that they are the winner at least.
+
+1281
+01:01:47,100 --> 01:01:48,240
+I mean, what a way in.
+
+1282
+01:01:48,400 --> 01:01:49,760
+That's my that's been my guess.
+
+1283
+01:01:50,180 --> 01:01:57,780
+So Zani is a real like, you know, griller and meat smoker like like you you have prepared.
+
+1284
+01:01:57,960 --> 01:02:02,340
+I've had delicious things you've prepared before wings and I think brisket.
+
+1285
+01:02:02,340 --> 01:02:06,640
+Yeah, so well, but this is very indicative of my personality at large.
+
+1286
+01:02:02,340 --> 01:02:13,500
+S.
+
+1287
+01:02:07,280 --> 01:02:12,660
+If we were to be able to meet in person, I know not everybody's A.
+
+1288
+01:02:12,660 --> 01:02:12,820
+S.
+
+1289
+01:02:12,840 --> 01:02:13,500
+two weeks.
+
+1290
+01:02:15,700 --> 01:02:18,860
+But I would I was going to go to like get this special meat.
+
+1291
+01:02:18,880 --> 01:02:20,220
+I was going to smoke the dogs.
+
+1292
+01:02:20,620 --> 01:02:22,860
+I was going to get this like special pita bread, do all this stuff.
+
+1293
+01:02:22,860 --> 01:02:25,620
+And then I was going to make the slaw from like scratch, like Dillis lock.
+
+1294
+01:02:25,620 --> 01:02:28,780
+But I went with a different route because I'm just making it for myself.
+
+1295
+01:02:29,220 --> 01:02:34,300
+And so what I did is I and I have it right here because I have not eaten mine yet.
+
+1296
+01:02:34,300 --> 01:02:34,880
+Oh, wow.
+
+1297
+01:02:35,020 --> 01:02:35,500
+Oh, smart.
+
+1298
+01:02:35,600 --> 01:02:36,400
+We should all show tonight.
+
+1299
+01:02:36,400 --> 01:02:37,340
+Yeah, I took it.
+
+1300
+01:02:37,380 --> 01:02:39,020
+I took a cheesy Gordina crunch.
+
+1301
+01:02:39,880 --> 01:02:40,240
+Whoa.
+
+1302
+01:02:41,700 --> 01:02:42,740
+Oh, yeah, you win.
+
+1303
+01:02:42,880 --> 01:02:43,220
+You win.
+
+1304
+01:02:43,320 --> 01:02:43,640
+You win.
+
+1305
+01:02:44,180 --> 01:02:49,860
+And then I went to Venus, it's all and I got the Aussie dog, which has an a only horseradish sauce.
+
+1306
+01:02:50,880 --> 01:02:51,240
+Sauce.
+
+1307
+01:02:51,820 --> 01:02:53,620
+This is a much smarter approach.
+
+1308
+01:02:53,720 --> 01:02:54,120
+So much.
+
+1309
+01:02:54,660 --> 01:02:57,160
+And I just put the I put the dog.
+
+1310
+01:02:57,320 --> 01:02:58,700
+I didn't even I was going to take the meat out.
+
+1311
+01:02:58,760 --> 01:02:59,180
+I was like, I don't know.
+
+1312
+01:02:59,180 --> 01:03:00,740
+I'm just going to leave the taco meat in.
+
+1313
+01:03:01,820 --> 01:03:03,140
+And and I did that.
+
+1314
+01:03:03,220 --> 01:03:05,800
+So I have a little Frankenstein thing and I'm going to take a bite right now.
+
+1315
+01:03:05,820 --> 01:03:06,480
+I'll tell you how it is.
+
+1316
+01:03:06,560 --> 01:03:07,460
+I'll get away from camera.
+
+1317
+01:03:07,680 --> 01:03:12,740
+This is like and I hate to use the other star reference, but this is like Kirk beating the Kobayashi Maru.
+
+1318
+01:03:12,940 --> 01:03:16,020
+This is a cheating situation where he has won.
+
+1319
+01:03:16,020 --> 01:03:17,280
+But at what cost?
+
+1320
+01:03:17,560 --> 01:03:18,560
+Yeah, yeah.
+
+1321
+01:03:18,680 --> 01:03:19,900
+To himself potentially.
+
+1322
+01:03:20,260 --> 01:03:21,820
+But at what cost for us?
+
+1323
+01:03:21,900 --> 01:03:25,220
+Because I just have a giant bag of like dollar seventy coleslaw.
+
+1324
+01:03:25,880 --> 01:03:28,820
+I have a massive bag of cabbage in the fridge now.
+
+1325
+01:03:28,840 --> 01:03:30,300
+I don't know what to do with you.
+
+1326
+01:03:30,580 --> 01:03:32,200
+Throw it away at a dollar seventy.
+
+1327
+01:03:32,320 --> 01:03:33,200
+Throw it away.
+
+1328
+01:03:34,100 --> 01:03:34,100
+No.
+
+1329
+01:03:34,960 --> 01:03:35,460
+Costco Cabot.
+
+1330
+01:03:35,700 --> 01:03:37,520
+Jason Costco Cabot Sheridan.
+
+1331
+01:03:38,640 --> 01:03:40,900
+Jane better at preparing stuff with vegetables.
+
+1332
+01:03:40,940 --> 01:03:44,900
+So I'm sure she will cook up, figure out a nice salad and toss it with others.
+
+1333
+01:03:44,900 --> 01:03:52,640
+All right, Matt, the reaction I as a bit, I was like going to like, oh, I'm going to like like throw up or not.
+
+1334
+01:03:53,420 --> 01:03:54,680
+That was really good.
+
+1335
+01:03:55,480 --> 01:03:57,660
+And of course, it was good.
+
+1336
+01:03:57,860 --> 01:04:01,120
+And I'd already to crunch one of the best pieces of food you can eat.
+
+1337
+01:04:01,460 --> 01:04:08,620
+And it's the it's the cheesy, gritty, crunch sauce that actually does really feel like the peppercorn sauce in a in a Rondo.
+
+1338
+01:04:08,640 --> 01:04:09,300
+That's really good.
+
+1339
+01:04:09,800 --> 01:04:13,860
+The Aussie dog's a little too spicy because the Rondo dog's not that spicy.
+
+1340
+01:04:14,420 --> 01:04:16,540
+But that's not that far off.
+
+1341
+01:04:17,080 --> 01:04:18,060
+It's it's definitely a cheap.
+
+1342
+01:04:18,220 --> 01:04:26,280
+But boy, does that like if I close my eyes and I can I can see eight DG seven eight or whatever his name is just like rolling his dog.
+
+1343
+01:04:26,680 --> 01:04:27,940
+I don't think that's pretty good.
+
+1344
+01:04:27,980 --> 01:04:28,680
+Seventy nine.
+
+1345
+01:04:28,780 --> 01:04:31,400
+I mean, I think that I think I think that was a good idea.
+
+1346
+01:04:31,400 --> 01:04:35,780
+But I will say you put almost any piece of food inside a cheese gritty to crunch and it's delicious.
+
+1347
+01:04:35,820 --> 01:04:36,680
+There's no way.
+
+1348
+01:04:36,780 --> 01:04:37,180
+Yes.
+
+1349
+01:04:37,200 --> 01:04:37,680
+Cheesy good.
+
+1350
+01:04:37,680 --> 01:04:46,300
+I mean, I think your Dita Crunch shell sauce cheese literally can take almost anything edible or not and make it really delicious.
+
+1351
+01:04:47,060 --> 01:04:52,400
+I mean, get that Popeyes chicken sandwich, cut that patty in half, put that in there and call it the yip yip or the tip.
+
+1352
+01:04:53,680 --> 01:04:55,000
+So that'd be good.
+
+1353
+01:04:55,220 --> 01:04:56,040
+That sandwich.
+
+1354
+01:04:56,160 --> 01:04:57,440
+The chicken sandwich is good.
+
+1355
+01:04:57,460 --> 01:04:58,720
+The fish sandwich is also good.
+
+1356
+01:04:58,880 --> 01:04:59,900
+Way too big, though.
+
+1357
+01:05:00,560 --> 01:05:01,800
+Yeah, you can't have that much fish.
+
+1358
+01:05:01,820 --> 01:05:02,740
+It's like that's a bit much.
+
+1359
+01:05:02,960 --> 01:05:04,800
+It's too much breading and bread and everything.
+
+1360
+01:05:04,800 --> 01:05:06,540
+Yeah, this is so smart.
+
+1361
+01:05:06,540 --> 01:05:07,860
+This is so smart what you've done.
+
+1362
+01:05:07,880 --> 01:05:10,320
+And you've also you defied our expectations.
+
+1363
+01:05:10,440 --> 01:05:14,940
+Yeah, we were thinking that you were going to like hustle it out for 14 hours,
+
+1364
+01:05:16,000 --> 01:05:20,880
+slaving away with the right juices and for no reason for absolutely no for yourself.
+
+1365
+01:05:21,680 --> 01:05:24,880
+Like that's closer to what we did, although we didn't put that much effort into it.
+
+1366
+01:05:24,900 --> 01:05:26,860
+I'm sure you would have done great if you did it, Matt.
+
+1367
+01:05:27,040 --> 01:05:29,800
+But that's so this is a brilliant execution.
+
+1368
+01:05:29,800 --> 01:05:38,880
+Matt, Matt put his targeting system away and just felt it and fired the first on your feet.
+
+1369
+01:05:38,900 --> 01:05:43,480
+I'll be one told to close his eyes and concentrate and not worry too much like we did.
+
+1370
+01:05:44,180 --> 01:05:48,200
+We all blew up in our X wings on our Death Star trench run.
+
+1371
+01:05:48,940 --> 01:05:53,480
+And Lazzani just closed his eyes and zend his way into blowing it up.
+
+1372
+01:05:54,100 --> 01:05:55,840
+We have to talk about our oh, sorry.
+
+1373
+01:05:56,000 --> 01:05:56,520
+Oh, yeah, go ahead.
+
+1374
+01:05:56,520 --> 01:05:57,600
+No, but please talk.
+
+1375
+01:05:57,900 --> 01:06:00,920
+I want to I want to hear everybody else like theirs or didn't like theirs.
+
+1376
+01:06:01,080 --> 01:06:02,480
+I know that the preparation was hard.
+
+1377
+01:06:02,680 --> 01:06:03,620
+How was the landing?
+
+1378
+01:06:05,180 --> 01:06:07,960
+Well, Jason, do you do we miss steps of yours?
+
+1379
+01:06:08,080 --> 01:06:10,320
+What you want to finish out the tail?
+
+1380
+01:06:10,520 --> 01:06:19,980
+Yeah, let me let me walk everyone through this because I was trying to do this in a way where a listener who could get to like a Ralphs or, you know, which is owned by Kroger.
+
+1381
+01:06:19,980 --> 01:06:28,400
+I was trying to do this in a way where it's like, OK, I'm going to try to replicate this with I am a reasonably good cook,
+
+1382
+01:06:28,440 --> 01:06:33,420
+but I was trying to replicate it with like ingredients you could get between a Kroger and a Trader Joe's.
+
+1383
+01:06:33,420 --> 01:06:37,760
+So I already had Hillshire Farms smoked sausage in the house.
+
+1384
+01:06:38,360 --> 01:06:38,840
+Surprising.
+
+1385
+01:06:39,120 --> 01:06:43,920
+And that's what I'm pretty sure the sausage is not that brand necessarily.
+
+1386
+01:06:43,980 --> 01:06:49,460
+I think it's a smoked sausage link and I had a chunk of rope sausage left.
+
+1387
+01:06:49,460 --> 01:06:50,720
+So that's what I use.
+
+1388
+01:06:51,700 --> 01:06:56,960
+So do you always have sausage like a like a like a bunch of links like a dog?
+
+1389
+01:06:57,020 --> 01:06:58,800
+It's like a dog's dream of stealing.
+
+1390
+01:06:59,240 --> 01:07:00,960
+Do you always have this in the house?
+
+1391
+01:07:01,040 --> 01:07:01,880
+I don't always have.
+
+1392
+01:07:02,040 --> 01:07:09,500
+Well, I buy the rope sausage sometimes and cut it into pieces and then freeze some of it and then use some of it within a couple of days.
+
+1393
+01:07:09,740 --> 01:07:11,140
+I've been over there a while.
+
+1394
+01:07:11,140 --> 01:07:16,760
+It's like that Seinfeld episode where Newman and Kramer are making sausages and it's hanging everywhere in your house.
+
+1395
+01:07:16,880 --> 01:07:19,560
+I've seen it.
+
+1396
+01:07:19,840 --> 01:07:23,360
+So they're dancing, dancing, making sausages.
+
+1397
+01:07:24,420 --> 01:07:29,300
+So I use that for the sausage for the wrap itself.
+
+1398
+01:07:30,060 --> 01:07:31,240
+I find PETA.
+
+1399
+01:07:31,500 --> 01:07:33,280
+You get two things with store bought PETA.
+
+1400
+01:07:33,280 --> 01:07:38,120
+It either like it's the stuff from the grocery store that kind of keeps forever.
+
+1401
+01:07:38,420 --> 01:07:45,280
+It's not super flavorful or the Trader Joe's PETA is pretty good, but it goes bad immediately.
+
+1402
+01:07:45,680 --> 01:07:48,820
+Like once they scan out the cash register, it starts to go bad.
+
+1403
+01:07:49,220 --> 01:07:51,260
+So I tried these.
+
+1404
+01:07:51,540 --> 01:07:52,740
+These are really good.
+
+1405
+01:07:53,340 --> 01:07:58,040
+They label them as Middle Eastern style flatbreads and it's a little chewier.
+
+1406
+01:07:59,280 --> 01:08:03,260
+It's kind of like something you might get at a kebab place.
+
+1407
+01:08:03,820 --> 01:08:05,220
+And that was pretty good.
+
+1408
+01:08:05,640 --> 01:08:06,840
+I did the same thing.
+
+1409
+01:08:06,840 --> 01:08:07,740
+That was part of mine.
+
+1410
+01:08:07,740 --> 01:08:08,240
+They were great.
+
+1411
+01:08:08,380 --> 01:08:12,020
+I threw them in the oven on one of the passes and yeah, agreed.
+
+1412
+01:08:12,040 --> 01:08:13,100
+Yeah, ingredient.
+
+1413
+01:08:14,920 --> 01:08:21,520
+By the way, I would say the fast food idea first came from was like, you know, I got to get the PETA bread from I got to go to Zanku Chicken.
+
+1414
+01:08:21,960 --> 01:08:25,160
+And then when the PETA bread they give you there, that's what I'm going to use.
+
+1415
+01:08:25,160 --> 01:08:26,020
+And I'm like, wait a second.
+
+1416
+01:08:26,040 --> 01:08:30,380
+If I would do that, I don't want to have a nice source everything from fast food places.
+
+1417
+01:08:30,380 --> 01:08:31,840
+That is good.
+
+1418
+01:08:32,000 --> 01:08:34,600
+But yeah, great.
+
+1419
+01:08:34,880 --> 01:08:36,900
+Great PETA bread if it comes with your chicken there.
+
+1420
+01:08:37,280 --> 01:08:37,940
+Yes, I agree.
+
+1421
+01:08:39,440 --> 01:08:48,360
+For the slaw mix, I just bought a generic bag of coleslaw mix, green cabbage and carrots, tossed it with vinegar, olive oil, salt and pepper.
+
+1422
+01:08:48,660 --> 01:08:49,520
+That was fine.
+
+1423
+01:08:49,580 --> 01:08:52,520
+I should have let it sit in the fridge and marinate for a little while.
+
+1424
+01:08:53,420 --> 01:08:57,100
+OK, so here's my big take on the other ingredients.
+
+1425
+01:08:57,560 --> 01:09:09,400
+I always thought the white sauce, the peppercorn sauce, originally they called a clutch sauce on the website, which is another name for Alabama white barbecue sauce, which I don't know how to make.
+
+1426
+01:09:10,140 --> 01:09:18,620
+I mean, most sauces are just some combination of like different of like milk yogurt, mayonnaise oil or vinegar, different portions.
+
+1427
+01:09:19,500 --> 01:09:22,380
+So I always thought it kind of reminded me of ranch.
+
+1428
+01:09:22,480 --> 01:09:26,120
+I didn't want to end up with a big bottle of peppercorn dressing or peppercorn ranch.
+
+1429
+01:09:26,160 --> 01:09:32,300
+So I bought the packet of ranch mix and then made that ranch dressing mix.
+
+1430
+01:09:32,620 --> 01:09:33,880
+That's pretty simple.
+
+1431
+01:09:33,980 --> 01:09:37,020
+It's just milk mayonnaise and then the ranch mix.
+
+1432
+01:09:37,440 --> 01:09:38,720
+So I made that.
+
+1433
+01:09:38,960 --> 01:09:40,540
+It's a little too powerful.
+
+1434
+01:09:40,620 --> 01:09:44,940
+I kept adding black pepper to it, but the ranch flavor was just overwhelming it.
+
+1435
+01:09:44,940 --> 01:09:53,480
+And then I am not a big fan of the roast pork slice they use at the park, but I do like carnitas a lot.
+
+1436
+01:09:53,480 --> 01:10:00,360
+So I bought the Trader Joe's like brick of carnitas that they sell that you microwave and then pull it apart with works.
+
+1437
+01:10:01,120 --> 01:10:02,200
+That is delicious.
+
+1438
+01:10:02,520 --> 01:10:04,840
+And so that's what I used for the pork element.
+
+1439
+01:10:05,260 --> 01:10:07,380
+What does everybody in general think of that?
+
+1440
+01:10:07,380 --> 01:10:08,680
+That step of it?
+
+1441
+01:10:08,680 --> 01:10:17,280
+Like, like, is it crucial that there be this like the main thing is a big sausage much longer than the pita hanging off of it.
+
+1442
+01:10:17,280 --> 01:10:24,080
+And then in the middle, there's like a thin but still a little thick like extra piece of pork like wrapping it.
+
+1443
+01:10:24,280 --> 01:10:26,420
+And do does that seem like crucial to you?
+
+1444
+01:10:26,440 --> 01:10:30,820
+Or if they suddenly said we're discontinuing that part, would you be like, good, less pork?
+
+1445
+01:10:31,900 --> 01:10:36,460
+It's there's some texture, but I don't think it's the most flavorful thing.
+
+1446
+01:10:37,460 --> 01:10:45,500
+Yeah, I think I and it's funny because I think the last few times I've had the vegetarian one, so I don't even remember that.
+
+1447
+01:10:45,920 --> 01:10:48,580
+They don't give you anything extra in there for the veggie one.
+
+1448
+01:10:49,060 --> 01:10:49,320
+I'm trying to remember.
+
+1449
+01:10:49,440 --> 01:10:50,220
+I'm trying to remember.
+
+1450
+01:10:51,020 --> 01:10:53,960
+I think you get like cucumbers and stuff on top.
+
+1451
+01:10:54,080 --> 01:10:55,460
+There's like there's an extra veggie.
+
+1452
+01:10:56,460 --> 01:10:56,680
+Yeah, yeah.
+
+1453
+01:10:56,680 --> 01:10:58,520
+There's some crunch or something in there.
+
+1454
+01:10:58,880 --> 01:11:03,580
+So obviously, like if a vegetarian is missing from the vegetarian and I really like the vegetarian, I don't think it's crucial.
+
+1455
+01:11:04,700 --> 01:11:07,340
+Yeah, my gut tells me like I would like it.
+
+1456
+01:11:07,340 --> 01:11:08,700
+I mean, it just sounds good.
+
+1457
+01:11:08,700 --> 01:11:15,840
+And I think it does like the I think but I do think it's probably more for texture, which I think is because it gives your gives your pita a little snap, right?
+
+1458
+01:11:15,880 --> 01:11:19,360
+Gives it a little extra feedback when you bite through.
+
+1459
+01:11:19,500 --> 01:11:25,260
+So, you know, you feel a little, you know, you feel a little mean like Subalba like you're you're like, you know, gnawing at the competition.
+
+1460
+01:11:25,320 --> 01:11:26,860
+And it's more fun that way.
+
+1461
+01:11:26,860 --> 01:11:33,160
+I think it's good for that sort of like medieval feeling of just, yeah, a whole bunch of meat of all different varieties.
+
+1462
+01:11:33,200 --> 01:11:33,680
+Yeah.
+
+1463
+01:11:34,080 --> 01:11:34,600
+Jamming it in.
+
+1464
+01:11:35,000 --> 01:11:38,020
+Some might say a little resistance, if you will.
+
+1465
+01:11:40,920 --> 01:11:41,460
+Some might.
+
+1466
+01:11:41,540 --> 01:11:42,340
+Some might say that.
+
+1467
+01:11:47,340 --> 01:11:49,740
+Is that's what we're waiting for here?
+
+1468
+01:11:49,740 --> 01:11:52,240
+Well, let me let me pull up my pictures.
+
+1469
+01:11:52,440 --> 01:11:53,800
+I thought it tasted good.
+
+1470
+01:11:53,800 --> 01:11:57,600
+I mean, it's kind of hard to mess up with that much pork.
+
+1471
+01:11:57,800 --> 01:11:58,900
+I mean, it's a smaller portion.
+
+1472
+01:11:59,780 --> 01:12:01,640
+You can see the scored sausage.
+
+1473
+01:12:03,300 --> 01:12:05,600
+I only used a little slaw.
+
+1474
+01:12:06,080 --> 01:12:08,660
+Like, this is a thicker sausage.
+
+1475
+01:12:08,700 --> 01:12:10,900
+You know, it's a chunk of the rope sausage.
+
+1476
+01:12:10,980 --> 01:12:12,740
+Here's what it looks like from the side.
+
+1477
+01:12:14,280 --> 01:12:16,160
+And here's a cut it.
+
+1478
+01:12:16,240 --> 01:12:16,960
+Here's a bisection.
+
+1479
+01:12:17,020 --> 01:12:18,820
+Yeah, the bisection doesn't look great.
+
+1480
+01:12:19,160 --> 01:12:21,720
+But like food bloggers do that.
+
+1481
+01:12:21,720 --> 01:12:26,500
+And I don't I don't see the appeal, but I thought it tasted pretty good.
+
+1482
+01:12:27,480 --> 01:12:32,820
+I mean, again, I was starving after I did all this, so I was very excited to have this meal.
+
+1483
+01:12:33,760 --> 01:12:34,500
+I don't know.
+
+1484
+01:12:34,600 --> 01:12:35,940
+I feel about this ranch component.
+
+1485
+01:12:36,100 --> 01:12:38,860
+I don't think that I don't think of that sauce as ranchy.
+
+1486
+01:12:39,460 --> 01:12:42,040
+And I think that I'm just not a big ranch person either.
+
+1487
+01:12:42,080 --> 01:12:44,820
+So I wouldn't have I wouldn't have gone that way with it.
+
+1488
+01:12:44,820 --> 01:12:46,540
+It was definitely my biggest misfire.
+
+1489
+01:12:46,700 --> 01:12:47,660
+Scott, you're totally right.
+
+1490
+01:12:47,660 --> 01:12:54,160
+I should have just bought a bottle of like the Gerard's peppercorn dressing or Ken's peppercorn.
+
+1491
+01:12:54,360 --> 01:12:55,160
+Some peppercorn.
+
+1492
+01:12:55,280 --> 01:12:56,860
+Yeah, because what is peppercorn sauce?
+
+1493
+01:12:57,140 --> 01:13:01,620
+And yeah, but I don't I don't really that would just sit in the fridge forever.
+
+1494
+01:13:02,520 --> 01:13:04,280
+Like, that was my other thought.
+
+1495
+01:13:04,540 --> 01:13:11,060
+It's like, well, now I have a I will I'm still eating carnitas because it makes so much.
+
+1496
+01:13:11,060 --> 01:13:12,360
+Yeah, it's going to go for a while.
+
+1497
+01:13:12,460 --> 01:13:13,040
+Yeah, yeah.
+
+1498
+01:13:13,060 --> 01:13:15,860
+Yeah, I got a lot of extra at this point.
+
+1499
+01:13:15,860 --> 01:13:17,820
+Yeah, but it was very good.
+
+1500
+01:13:18,020 --> 01:13:21,140
+Actually, what I used it with was another one of those flatbreads.
+
+1501
+01:13:21,140 --> 01:13:23,020
+They have this eggplant pepper spread.
+
+1502
+01:13:23,480 --> 01:13:28,860
+And I did some slices of sharp cheddar and kind of made a little pizza in a toaster.
+
+1503
+01:13:29,120 --> 01:13:31,200
+And that was that was pretty good.
+
+1504
+01:13:31,800 --> 01:13:32,500
+Pretty good.
+
+1505
+01:13:32,940 --> 01:13:33,840
+That sounds good.
+
+1506
+01:13:35,640 --> 01:13:44,760
+Yeah, I feel I feel the ranch might be a little the tang of the ranch might feel different than the than the but I couldn't quite if I was going to pull it from scratch,
+
+1507
+01:13:44,760 --> 01:13:47,740
+I couldn't quite say what that peppercorn sauce tastes like.
+
+1508
+01:13:47,740 --> 01:13:48,840
+It's been a while since I had it.
+
+1509
+01:13:49,160 --> 01:13:50,020
+But yes, I know.
+
+1510
+01:13:50,360 --> 01:13:53,220
+I remember I think that was my thinking, too.
+
+1511
+01:13:53,220 --> 01:13:56,640
+It's like I can't quite remember because it's been so long.
+
+1512
+01:13:57,460 --> 01:14:02,480
+And my one complaint any time I've had it is like not enough sauce on this.
+
+1513
+01:14:02,640 --> 01:14:04,260
+It's getting a little dry by the end.
+
+1514
+01:14:04,460 --> 01:14:07,400
+But I think if you're I feel you on that.
+
+1515
+01:14:07,540 --> 01:14:11,800
+But then you can end up with sort of the you know, they kind of serve it on some parchment paper kind of stuff.
+
+1516
+01:14:11,800 --> 01:14:14,000
+And you can end up that can end up pretty wet.
+
+1517
+01:14:14,740 --> 01:14:15,180
+Yeah, yeah, yeah.
+
+1518
+01:14:15,180 --> 01:14:19,300
+I don't want the dried rather have less sauce that end up in a drippy zone.
+
+1519
+01:14:19,880 --> 01:14:19,880
+Yeah.
+
+1520
+01:14:19,900 --> 01:14:32,520
+By the way, the Ronto list garden wrap is listed as plant based sausage, spicy kimchi slaw, sweet pickled cucumber, plant based gochu Chang spread wrapped in pita.
+
+1521
+01:14:32,720 --> 01:14:37,320
+So that one definitely gets a little messy at the end.
+
+1522
+01:14:37,440 --> 01:14:40,020
+But yeah, really, really flavorful.
+
+1523
+01:14:40,020 --> 01:14:42,240
+Yes, for sure.
+
+1524
+01:14:43,600 --> 01:14:45,140
+So so like I would say mild.
+
+1525
+01:14:45,380 --> 01:14:50,640
+Is there like a Star Wars way to rank your confidence in your own?
+
+1526
+01:14:51,940 --> 01:14:56,300
+I don't know what what in universe is the way to do it.
+
+1527
+01:14:57,040 --> 01:15:04,240
+Um, I would give it a well, I mean, it tasted great.
+
+1528
+01:15:04,440 --> 01:15:05,960
+I don't know.
+
+1529
+01:15:06,120 --> 01:15:07,960
+It tasted reasonably accurate.
+
+1530
+01:15:07,960 --> 01:15:08,560
+I don't know.
+
+1531
+01:15:08,700 --> 01:15:08,920
+I don't know.
+
+1532
+01:15:08,980 --> 01:15:09,600
+Star Wars ranking.
+
+1533
+01:15:09,900 --> 01:15:21,140
+I would give it a return of the Jedi like some fun stuff, but not the home run or grand slam as a new Hope or Empire Strikes Back.
+
+1534
+01:15:21,920 --> 01:15:22,360
+Hmm.
+
+1535
+01:15:22,360 --> 01:15:22,800
+Hmm.
+
+1536
+01:15:22,800 --> 01:15:23,340
+Oh, interesting.
+
+1537
+01:15:23,480 --> 01:15:23,840
+We got to go.
+
+1538
+01:15:23,940 --> 01:15:25,660
+We got to go analog to movies.
+
+1539
+01:15:27,280 --> 01:15:28,140
+Going first.
+
+1540
+01:15:28,440 --> 01:15:32,060
+Well, let me double back to mine then since I've since I kind of talked about it rated a little bit.
+
+1541
+01:15:32,060 --> 01:15:33,700
+I'm very happy with my taste.
+
+1542
+01:15:34,480 --> 01:15:36,940
+I do think it was like outside of the box.
+
+1543
+01:15:36,980 --> 01:15:40,700
+I think it's not canon necessarily because there's a little bit of a cheat.
+
+1544
+01:15:40,820 --> 01:15:42,040
+I went a little bit on the dark side.
+
+1545
+01:15:42,340 --> 01:15:45,620
+I'm going to give mine a Knights of the Old Republic.
+
+1546
+01:15:46,280 --> 01:15:49,500
+I think it's a very fun, enjoyable thing.
+
+1547
+01:15:50,080 --> 01:15:51,740
+And I think anybody would enjoy it.
+
+1548
+01:15:51,740 --> 01:15:54,200
+But also don't expect it to be like a real Rondo rap.
+
+1549
+01:15:54,280 --> 01:15:57,520
+It's not like a canon movie, but you're going to have a hell of a time.
+
+1550
+01:15:57,520 --> 01:16:00,660
+You know about Revan, which means you're going to be on this side of the gate.
+
+1551
+01:16:01,040 --> 01:16:03,940
+So, yeah, this is definitely a Knights of the Old Republic.
+
+1552
+01:16:04,220 --> 01:16:04,620
+Mine.
+
+1553
+01:16:04,860 --> 01:16:05,320
+All right.
+
+1554
+01:16:06,260 --> 01:16:06,660
+Hmm.
+
+1555
+01:16:06,660 --> 01:16:08,080
+Yeah, that makes sense.
+
+1556
+01:16:08,420 --> 01:16:08,840
+Good rating.
+
+1557
+01:16:08,920 --> 01:16:09,300
+Good rating.
+
+1558
+01:16:09,760 --> 01:16:11,340
+Should I go next?
+
+1559
+01:16:11,620 --> 01:16:12,020
+Sure.
+
+1560
+01:16:12,200 --> 01:16:14,720
+At least this year's was more disastrous.
+
+1561
+01:16:14,900 --> 01:16:16,620
+Is it better to end with a disaster?
+
+1562
+01:16:17,800 --> 01:16:20,480
+I feel like it's a disaster, but I don't know.
+
+1563
+01:16:20,640 --> 01:16:21,600
+Maybe I'm being dramatic.
+
+1564
+01:16:21,780 --> 01:16:22,580
+I'm not sure.
+
+1565
+01:16:23,080 --> 01:16:24,360
+Well, you're you're in it.
+
+1566
+01:16:24,460 --> 01:16:24,700
+Just.
+
+1567
+01:16:24,900 --> 01:16:25,240
+Yeah.
+
+1568
+01:16:25,400 --> 01:16:25,400
+Yeah.
+
+1569
+01:16:25,400 --> 01:16:26,340
+You take it.
+
+1570
+01:16:26,340 --> 01:16:27,160
+Take a look at this.
+
+1571
+01:16:27,180 --> 01:16:27,620
+You know what?
+
+1572
+01:16:27,660 --> 01:16:28,460
+This is fellas.
+
+1573
+01:16:29,120 --> 01:16:29,520
+OK.
+
+1574
+01:16:31,440 --> 01:16:32,840
+That's very sad.
+
+1575
+01:16:33,160 --> 01:16:34,100
+I have to say.
+
+1576
+01:16:34,960 --> 01:16:35,340
+Yeah.
+
+1577
+01:16:35,440 --> 01:16:35,640
+Yeah.
+
+1578
+01:16:35,760 --> 01:16:38,120
+I mean, we'll post the picture of this.
+
+1579
+01:16:41,420 --> 01:16:42,320
+Here's what happened.
+
+1580
+01:16:42,520 --> 01:16:44,440
+I had the whole I had like one of these recipes
+
+1581
+01:16:45,140 --> 01:16:49,620
+bookmarked and I got to the store and I went, oh, my God, there are 25 ingredients to this recipe.
+
+1582
+01:16:49,780 --> 01:16:51,420
+I cannot do this.
+
+1583
+01:16:51,500 --> 01:16:52,460
+This is impossible.
+
+1584
+01:16:52,600 --> 01:16:53,380
+How am I going to do this?
+
+1585
+01:16:53,380 --> 01:16:54,100
+All right.
+
+1586
+01:16:54,100 --> 01:16:55,760
+I'll start start combining steps.
+
+1587
+01:16:55,760 --> 01:16:57,260
+I really like, OK, I can get Pete I had to go.
+
+1588
+01:16:57,440 --> 01:16:58,220
+I did to Target.
+
+1589
+01:16:58,360 --> 01:16:59,960
+I did Ralph's
+
+1590
+01:17:00,880 --> 01:17:04,500
+for the just bought coleslaw instead of just like slaw,
+
+1591
+01:17:05,440 --> 01:17:06,920
+which is a big mistake.
+
+1592
+01:17:06,980 --> 01:17:09,340
+But I felt like it's close, close enough.
+
+1593
+01:17:10,580 --> 01:17:14,400
+I made I made peppercorn
+
+1594
+01:17:14,400 --> 01:17:19,500
+sauce out of ranch and peppercorn, which I like ranch.
+
+1595
+01:17:19,500 --> 01:17:21,760
+I combine the two of them.
+
+1596
+01:17:21,940 --> 01:17:23,200
+The sauce is fine.
+
+1597
+01:17:25,160 --> 01:17:31,420
+And I had a it's a vegetarian sausage, which I like the one at Disney fine.
+
+1598
+01:17:32,120 --> 01:17:37,320
+And I feel like though, anytime vegetarian meat and it's very it's tough.
+
+1599
+01:17:37,500 --> 01:17:41,060
+You really need to know something's good because it's I don't know.
+
+1600
+01:17:41,100 --> 01:17:44,720
+It's just it's like I almost would rather it just be its own thing
+
+1601
+01:17:44,720 --> 01:17:46,620
+than try to pretend it's meat.
+
+1602
+01:17:46,620 --> 01:17:47,320
+Very often.
+
+1603
+01:17:47,580 --> 01:17:48,400
+Yeah, I felt that way.
+
+1604
+01:17:48,400 --> 01:17:50,720
+And I hadn't tried this and I forget the brand.
+
+1605
+01:17:50,740 --> 01:17:51,800
+I don't want to trash this brand.
+
+1606
+01:17:51,800 --> 01:17:54,900
+It wasn't bad, but it's just like one of those things where like falls apart
+
+1607
+01:17:54,900 --> 01:17:57,520
+in your mouth and your brain is like, this isn't a sausage.
+
+1608
+01:17:57,980 --> 01:18:04,140
+There is a vegetarian Italian sausage that you could fool me that I would think it was meat.
+
+1609
+01:18:04,140 --> 01:18:05,280
+It is so good.
+
+1610
+01:18:05,500 --> 01:18:06,540
+I forget.
+
+1611
+01:18:07,540 --> 01:18:07,860
+Pretty easy.
+
+1612
+01:18:08,240 --> 01:18:09,860
+Yeah, I like impossible meat.
+
+1613
+01:18:10,440 --> 01:18:10,880
+Yes.
+
+1614
+01:18:10,900 --> 01:18:11,720
+For the most part.
+
+1615
+01:18:11,800 --> 01:18:14,800
+And that's that fools me most of the time.
+
+1616
+01:18:14,800 --> 01:18:17,280
+But I ate this and it was sad.
+
+1617
+01:18:17,280 --> 01:18:18,600
+It was real pathetic.
+
+1618
+01:18:19,340 --> 01:18:20,960
+It's a single man.
+
+1619
+01:18:20,960 --> 01:18:22,780
+It's a single man meal.
+
+1620
+01:18:23,700 --> 01:18:29,780
+I'm a bad cook in general, but this really when I looked at what I had done was a new low for me.
+
+1621
+01:18:31,120 --> 01:18:37,820
+So I don't know, I would rate mine maybe like the scene in solo where they name him solo because he's alone.
+
+1622
+01:18:38,600 --> 01:18:41,900
+That would be my rating for what I did here.
+
+1623
+01:18:42,840 --> 01:18:50,600
+Well, it doesn't make sense to me how I'm I'm looking at what you made and I'm saying this is a single man meal and it's sad.
+
+1624
+01:18:51,200 --> 01:18:58,160
+Mazzani went to two fast food places, put one in the other and I'm like, victory, a great achievement of man.
+
+1625
+01:18:58,500 --> 01:19:01,020
+I'm not sure why that is, but I think you would agree.
+
+1626
+01:19:01,160 --> 01:19:02,180
+Oh, I 100 percent agree.
+
+1627
+01:19:02,200 --> 01:19:03,920
+Yeah, I was thrilled when he showed that.
+
+1628
+01:19:04,020 --> 01:19:07,660
+I mean, he's a big cheater, but it was a fantastic idea.
+
+1629
+01:19:08,260 --> 01:19:09,660
+There was never rules, though.
+
+1630
+01:19:09,660 --> 01:19:10,120
+No rules.
+
+1631
+01:19:10,120 --> 01:19:12,000
+He didn't even really say make it.
+
+1632
+01:19:12,000 --> 01:19:12,700
+That's true.
+
+1633
+01:19:12,940 --> 01:19:13,100
+No.
+
+1634
+01:19:14,260 --> 01:19:16,480
+In fact, I made a point.
+
+1635
+01:19:16,600 --> 01:19:25,260
+I made mine like a number of days, like six or seven days ago, because I'm like, I'm going to make this and get it done before we start putting rules on this and I have to make it again.
+
+1636
+01:19:28,720 --> 01:19:37,780
+I guess I can I can go into mine, which now I just want to breeze through because the contest has been won, I feel.
+
+1637
+01:19:38,360 --> 01:19:49,600
+So, I mean, like, all right, I'm trying to base it on there's an unofficial Star Wars cookbook by somebody named Ashley Kraft, where apparently this she seems to have gotten it pretty right.
+
+1638
+01:19:49,700 --> 01:19:51,140
+And there's a website, Ashleycrafted.
+
+1639
+01:19:51,140 --> 01:19:51,580
+com.
+
+1640
+01:19:51,920 --> 01:19:54,920
+This she seems to know what she's talking about.
+
+1641
+01:19:55,260 --> 01:20:02,080
+Something that doesn't is the official Galaxy's Edge cookbook, which they have a Ronto rep and it's just nonsense.
+
+1642
+01:20:02,260 --> 01:20:04,600
+This is like, did anybody run across this?
+
+1643
+01:20:04,600 --> 01:20:07,320
+This is like it's chorizo.
+
+1644
+01:20:07,640 --> 01:20:09,340
+It's like some weird taco situation.
+
+1645
+01:20:09,340 --> 01:20:09,620
+Right.
+
+1646
+01:20:09,940 --> 01:20:09,940
+Right.
+
+1647
+01:20:10,120 --> 01:20:10,640
+I saw that.
+
+1648
+01:20:10,640 --> 01:20:12,140
+What are you talking about?
+
+1649
+01:20:12,380 --> 01:20:12,700
+Yeah.
+
+1650
+01:20:12,960 --> 01:20:16,700
+This is like earlier in the pandemic when they're like, make Dole Whip at home.
+
+1651
+01:20:16,900 --> 01:20:19,140
+OK, first off, get vanilla ice cream.
+
+1652
+01:20:19,420 --> 01:20:20,820
+No, no, get out of here.
+
+1653
+01:20:20,900 --> 01:20:22,300
+There's no dairy and Dole Whip.
+
+1654
+01:20:22,520 --> 01:20:24,020
+That's the big part of it.
+
+1655
+01:20:24,280 --> 01:20:25,460
+Oh, interesting.
+
+1656
+01:20:25,820 --> 01:20:26,120
+Huh.
+
+1657
+01:20:26,540 --> 01:20:33,300
+Maybe they just are they not wanting to give away secrets is that kind of maybe that's what maybe there's also weird.
+
+1658
+01:20:33,300 --> 01:20:36,740
+Baccar is referenced in this copy.
+
+1659
+01:20:37,040 --> 01:20:38,820
+I'm realizing it's kind of small.
+
+1660
+01:20:38,820 --> 01:20:40,520
+It's a little hard to read.
+
+1661
+01:20:41,280 --> 01:20:44,760
+Baccar ain't too eager to share his family secret spice blend.
+
+1662
+01:20:44,780 --> 01:20:47,980
+That's why the Baccar is not given his recipe out.
+
+1663
+01:20:48,720 --> 01:20:51,140
+But I've managed to I don't know who wrote this.
+
+1664
+01:20:51,260 --> 01:20:52,800
+Somebody wrote the Star Wars book.
+
+1665
+01:20:53,560 --> 01:21:01,640
+I'm willing to admit that my version ain't quite as sublime as Baccar's, but smother it in enough chatty and dressing and dressing next to apostrophe.
+
+1666
+01:21:01,640 --> 01:21:03,220
+And you'll barely notice the difference.
+
+1667
+01:21:03,580 --> 01:21:04,080
+I don't know.
+
+1668
+01:21:04,080 --> 01:21:05,220
+I don't like this.
+
+1669
+01:21:05,620 --> 01:21:06,140
+What?
+
+1670
+01:21:06,520 --> 01:21:07,520
+What an insane.
+
+1671
+01:21:07,820 --> 01:21:09,700
+You're this the official book, right?
+
+1672
+01:21:10,160 --> 01:21:10,460
+Yeah.
+
+1673
+01:21:10,600 --> 01:21:11,880
+Disney put this out.
+
+1674
+01:21:11,980 --> 01:21:15,700
+So their official line is like, well, we can't get the recipe.
+
+1675
+01:21:15,800 --> 01:21:17,320
+So here's a fake recipe.
+
+1676
+01:21:17,780 --> 01:21:20,300
+This is not even remotely the same genre.
+
+1677
+01:21:20,520 --> 01:21:22,920
+It's just not the same thing at all.
+
+1678
+01:21:23,180 --> 01:21:25,000
+Yeah, these are like these look like tacos.
+
+1679
+01:21:25,100 --> 01:21:28,320
+Like they're like they're like tacos with guacamole on it.
+
+1680
+01:21:28,340 --> 01:21:28,620
+Yeah.
+
+1681
+01:21:28,620 --> 01:21:32,820
+Which if you're going to involve tacos, then just do it from Taco Bell.
+
+1682
+01:21:32,900 --> 01:21:34,840
+Yeah, with the right taco way.
+
+1683
+01:21:35,280 --> 01:21:36,820
+I did see a disclaimer.
+
+1684
+01:21:37,320 --> 01:21:44,720
+I think either on there was a Ronto wrap recipe that was reprinted on the Today Show website, oddly enough.
+
+1685
+01:21:45,160 --> 01:21:49,300
+But then there was something similar on the Food Network website that had a disclaimer.
+
+1686
+01:21:49,820 --> 01:21:54,340
+This was prepared or submitted by a chef or food preparation professional.
+
+1687
+01:21:54,940 --> 01:21:59,740
+We cannot guarantee the same result if you try to cook it at home.
+
+1688
+01:21:59,740 --> 01:22:06,960
+And I'm wondering if the Star Wars cookbook, it's like, well, people have to make this in a home kitchen, not a consumer grade kitchen.
+
+1689
+01:22:07,040 --> 01:22:09,520
+So what can they get and what can they do?
+
+1690
+01:22:10,100 --> 01:22:12,240
+You know, let's like step it down a little.
+
+1691
+01:22:12,240 --> 01:22:13,160
+Let's step it down.
+
+1692
+01:22:13,340 --> 01:22:14,920
+Well, look, that makes sense.
+
+1693
+01:22:14,920 --> 01:22:22,660
+And that ties into my situation because here I am doing it just like really methodically and like, OK, so the right.
+
+1694
+01:22:22,660 --> 01:22:29,820
+And the slaw that needs to have apple cider vinegar and Dijon mustard and the and the Middle Eastern flatbread will do.
+
+1695
+01:22:29,840 --> 01:22:35,200
+That will be my replacement for not realizing you could like what I could do, whatever I wanted.
+
+1696
+01:22:35,240 --> 01:22:40,320
+Why am I being so slavish to the one thing I did?
+
+1697
+01:22:40,340 --> 01:22:45,840
+Here's my take on the sauce, because I started seeing what was listed in her site and Ashley's sauce.
+
+1698
+01:22:45,840 --> 01:22:51,360
+And I'm like, isn't most of this in Tzatziki because I'm seeing cucumbers in there.
+
+1699
+01:22:51,420 --> 01:22:52,780
+I'm seeing dill.
+
+1700
+01:22:53,660 --> 01:22:54,240
+You know what?
+
+1701
+01:22:54,340 --> 01:22:55,880
+I think that and is it maybe it's yogurt.
+
+1702
+01:22:56,000 --> 01:22:58,940
+So I just went with that Tzatziki from Trader Joe's.
+
+1703
+01:22:59,020 --> 01:23:01,040
+I did a lot of a lot of Trader Joe's.
+
+1704
+01:23:02,700 --> 01:23:08,020
+I decided I was not going to do I'm not going to make to like pork things from scratch.
+
+1705
+01:23:08,120 --> 01:23:08,540
+Why?
+
+1706
+01:23:08,640 --> 01:23:09,840
+That seems like a lot.
+
+1707
+01:23:09,840 --> 01:23:17,860
+And my friends at Cheesemongers Sherman Oaks had sliced porchetta, which is not what is on the thing.
+
+1708
+01:23:17,900 --> 01:23:19,840
+But it like I don't think I've had it before.
+
+1709
+01:23:19,920 --> 01:23:20,880
+It looked really good.
+
+1710
+01:23:20,980 --> 01:23:22,280
+It was very good.
+
+1711
+01:23:22,720 --> 01:23:23,320
+This is fantastic.
+
+1712
+01:23:23,320 --> 01:23:24,620
+It's more like cured meat.
+
+1713
+01:23:24,780 --> 01:23:25,420
+It's Italian.
+
+1714
+01:23:25,920 --> 01:23:30,680
+Probably anybody with any culinary knowledge is saying this is not the same thing at all.
+
+1715
+01:23:30,700 --> 01:23:33,100
+This is not replaced like essentially part of a pork chop.
+
+1716
+01:23:33,300 --> 01:23:36,280
+But whatever I wanted like something thinner, a different texture.
+
+1717
+01:23:36,780 --> 01:23:38,180
+And this fit the bill.
+
+1718
+01:23:38,240 --> 01:23:39,160
+I thought it was great.
+
+1719
+01:23:40,220 --> 01:23:50,420
+And then I get into the sausage situation and I'm thinking, well, really what you know, like somebody like buying props for Galaxy's Edge, like authenticity is the key you see.
+
+1720
+01:23:50,640 --> 01:23:58,460
+And I went back to when they announced all of the food for Galaxy's Edge, like when they had all the nice like, you know, really manicured photos.
+
+1721
+01:23:58,480 --> 01:24:00,400
+I was mainly paying attention to the beer and the wine.
+
+1722
+01:24:00,540 --> 01:24:03,580
+I kind of skipped past what the what the food was going to be.
+
+1723
+01:24:03,580 --> 01:24:10,380
+But I saw that in a really early press release, they called it a Portuguese sausage.
+
+1724
+01:24:11,020 --> 01:24:12,780
+That's sort of stricken from the record now.
+
+1725
+01:24:12,820 --> 01:24:14,100
+You don't always see that now.
+
+1726
+01:24:14,300 --> 01:24:21,560
+But I thought maybe that's the key because I think if I get some Italian thing, it might end up just like maybe you're not going to get that color.
+
+1727
+01:24:21,560 --> 01:24:23,900
+You're not going to get the spice potentially.
+
+1728
+01:24:24,060 --> 01:24:27,440
+I mean, there probably are spicy sausages, but I'm just like now.
+
+1729
+01:24:27,480 --> 01:24:29,100
+And now I was just fixated on it.
+
+1730
+01:24:29,100 --> 01:24:31,240
+I got to do Portuguese sausage.
+
+1731
+01:24:31,240 --> 01:24:33,760
+So where am I going to get that?
+
+1732
+01:24:33,860 --> 01:24:40,400
+I found a specialty sausage place that's kind of between Glendale and Montrose drove out there.
+
+1733
+01:24:40,480 --> 01:24:43,240
+They said they have Portuguese sausage on the website.
+
+1734
+01:24:43,500 --> 01:24:45,220
+This is a fine establishment, by the way.
+
+1735
+01:24:45,220 --> 01:24:45,980
+I had lunch there.
+
+1736
+01:24:46,020 --> 01:24:48,360
+Really liked to Shriner's fine sausages.
+
+1737
+01:24:48,580 --> 01:24:50,920
+Highly recommended in the Glendale area.
+
+1738
+01:24:51,200 --> 01:24:52,980
+So I drive out there.
+
+1739
+01:24:53,100 --> 01:24:55,100
+Hello, Portuguese sausage, please.
+
+1740
+01:24:55,540 --> 01:24:57,000
+I don't think so.
+
+1741
+01:24:57,320 --> 01:24:58,080
+Like, oh, dang.
+
+1742
+01:24:58,300 --> 01:24:59,340
+Well, they have it frozen.
+
+1743
+01:24:59,340 --> 01:25:11,440
+They have one package for actually they have a lot of packages frozen, which makes me think that the Portuguese sausage Linguisa is not necessarily the most like, you know, like flying off the trucks item.
+
+1744
+01:25:11,440 --> 01:25:12,940
+So now I get concerned.
+
+1745
+01:25:13,200 --> 01:25:16,840
+Is there a problem with Linguisa to people not like Linguisa?
+
+1746
+01:25:16,940 --> 01:25:18,340
+I love Linguisa.
+
+1747
+01:25:18,620 --> 01:25:19,820
+Have you had Linguisa before?
+
+1748
+01:25:19,980 --> 01:25:21,160
+I have had Linguisa before.
+
+1749
+01:25:21,280 --> 01:25:25,040
+Yeah, I forget where I have had Portuguese.
+
+1750
+01:25:25,040 --> 01:25:25,720
+You know what?
+
+1751
+01:25:26,040 --> 01:25:29,620
+That was a thing they were pushing at the Disneyland Resort for a while.
+
+1752
+01:25:29,900 --> 01:25:36,340
+I think that was one of the items at Tangerara Terrace you could get as a breakfast meat.
+
+1753
+01:25:36,560 --> 01:25:38,720
+It was like bacon and Portuguese sausage.
+
+1754
+01:25:39,940 --> 01:25:41,640
+Is Linguisa tongue meat?
+
+1755
+01:25:43,340 --> 01:25:44,620
+I don't know.
+
+1756
+01:25:44,740 --> 01:25:45,960
+Maybe not necessarily.
+
+1757
+01:25:46,180 --> 01:25:48,240
+Because it'd be like you think of it like Linguas.
+
+1758
+01:25:48,280 --> 01:25:51,280
+Yeah, you get Linguas and that is not from the same.
+
+1759
+01:25:51,280 --> 01:25:52,760
+Could be.
+
+1760
+01:25:52,760 --> 01:25:56,460
+Now I don't know how I feel if that was a bunch of tongue meat.
+
+1761
+01:25:57,120 --> 01:26:03,840
+I can imagine it's one of those, you know, crazy, it's, you know, it's a big creature walking around stomping around.
+
+1762
+01:26:03,840 --> 01:26:04,520
+That's cool.
+
+1763
+01:26:04,820 --> 01:26:13,140
+But I think it's too soft for sausage filling and usually stewed or braised or boiled, I think.
+
+1764
+01:26:13,960 --> 01:26:14,000
+Yeah.
+
+1765
+01:26:14,000 --> 01:26:14,340
+Okay.
+
+1766
+01:26:14,500 --> 01:26:14,940
+Interesting.
+
+1767
+01:26:15,740 --> 01:26:18,000
+Anyway, I was seeing that makes sense.
+
+1768
+01:26:18,000 --> 01:26:22,060
+If Disney had ever flirted with Linguisa before, maybe that is what they're eating.
+
+1769
+01:26:22,060 --> 01:26:25,540
+Maybe they are doing something in the Portuguese, the Linguisa family.
+
+1770
+01:26:25,800 --> 01:26:27,040
+But I get the thing.
+
+1771
+01:26:27,040 --> 01:26:27,660
+It's frozen.
+
+1772
+01:26:27,900 --> 01:26:29,200
+And then I get it home.
+
+1773
+01:26:29,980 --> 01:26:35,340
+And now I have to bring Erin, my wife, into the story who is a vegetarian and doesn't know anything about anything.
+
+1774
+01:26:35,460 --> 01:26:40,420
+And she's concerned with the whole notion that I'm going to be cooking a bunch of meat in the kitchen and ruining the kitchen.
+
+1775
+01:26:40,420 --> 01:26:44,900
+While she takes care of the baby and probably cleans up the mess that I make after.
+
+1776
+01:26:45,000 --> 01:26:48,880
+And she's like, wait a minute, are these cooked or is this raw?
+
+1777
+01:26:48,920 --> 01:26:50,740
+Is this raw frozen sausage?
+
+1778
+01:26:50,880 --> 01:26:52,200
+I think it's cooked probably.
+
+1779
+01:26:52,460 --> 01:26:55,480
+And then I thought, and it is raw meat inside, clearly.
+
+1780
+01:26:55,520 --> 01:26:58,040
+This is not insane that you would get raw sausage.
+
+1781
+01:26:58,160 --> 01:27:02,800
+But what do I know about, like, I've never, I don't cook meat at home ever.
+
+1782
+01:27:02,840 --> 01:27:05,400
+I cook meat maybe once every two years.
+
+1783
+01:27:05,620 --> 01:27:06,300
+This never happens.
+
+1784
+01:27:06,300 --> 01:27:10,140
+What have I gotten myself into now where I have to like, I have to learn a process.
+
+1785
+01:27:10,140 --> 01:27:15,900
+I have to learn how to make like, I have to look up how to cook raw sausage.
+
+1786
+01:27:16,020 --> 01:27:17,840
+It's kind of this two step process.
+
+1787
+01:27:18,180 --> 01:27:19,420
+Has anybody done this before?
+
+1788
+01:27:19,740 --> 01:27:20,180
+Yes.
+
+1789
+01:27:20,720 --> 01:27:21,100
+You've done.
+
+1790
+01:27:21,260 --> 01:27:23,280
+OK, that's the sausage king.
+
+1791
+01:27:24,620 --> 01:27:25,980
+Did you find it difficult?
+
+1792
+01:27:26,720 --> 01:27:30,200
+Well, I usually it's a raw Italian sausage and I cook it.
+
+1793
+01:27:30,200 --> 01:27:37,320
+So what I think my dad taught me this, you just like raw Italian sausage.
+
+1794
+01:27:37,560 --> 01:27:50,240
+If you sear it on each side, like a few minutes on each side and then toss it in a pot of tomato sauce and cook it real low for an hour or longer or like, you know, half a day.
+
+1795
+01:27:50,360 --> 01:27:52,860
+If it's in a crock pot, it'll cook all the way through.
+
+1796
+01:27:52,860 --> 01:27:58,120
+I think if you were just cooking sausage without the sauce, I would probably suggest either.
+
+1797
+01:27:58,900 --> 01:28:00,880
+I don't know that you want to boil raw sausage.
+
+1798
+01:28:01,000 --> 01:28:04,560
+I think bratwurst you can boil first and then cook it in the pan.
+
+1799
+01:28:04,900 --> 01:28:12,580
+I would have suggested cooking it in the oven or a toaster oven for a short while and then finishing it in the pan or on a grill.
+
+1800
+01:28:12,920 --> 01:28:17,920
+I think you can cook it raw, defrost it in the fridge and then cook it right in the grill.
+
+1801
+01:28:17,960 --> 01:28:19,200
+Does that sound right?
+
+1802
+01:28:19,500 --> 01:28:20,240
+That does sound right.
+
+1803
+01:28:20,240 --> 01:28:28,840
+You know, there's a big thing going on right now in the meat world with steaks because it used to the old conventional wisdom used to be sear first and then cook second.
+
+1804
+01:28:29,100 --> 01:28:31,580
+But now finishing with the sear is the new hot thing.
+
+1805
+01:28:31,580 --> 01:28:32,240
+And I don't know.
+
+1806
+01:28:32,260 --> 01:28:33,420
+I still like to see her first.
+
+1807
+01:28:33,420 --> 01:28:36,840
+I think if I was doing a raw sausage, I think I'd do the same thing because I do the same thing.
+
+1808
+01:28:36,840 --> 01:28:40,040
+If it's like in a sauce, you paint, you know, sear in the pan, then you put in the sauce.
+
+1809
+01:28:40,320 --> 01:28:44,120
+But I would see her in a pan that I maybe I put it in an oven after that, like I do a cast iron.
+
+1810
+01:28:44,160 --> 01:28:46,700
+So I take the whole cast iron and put it in the oven.
+
+1811
+01:28:47,060 --> 01:28:47,380
+Yeah.
+
+1812
+01:28:47,380 --> 01:28:48,500
+That is a low heat.
+
+1813
+01:28:48,720 --> 01:28:49,520
+You know, huh?
+
+1814
+01:28:49,880 --> 01:28:50,560
+Here's what's happening to me.
+
+1815
+01:28:50,560 --> 01:28:54,260
+I'm sweating as I'm just as this is all being described.
+
+1816
+01:28:54,260 --> 01:28:58,400
+As you were saying, I wouldn't do this because I did end up boiling like that.
+
+1817
+01:28:58,420 --> 01:29:03,180
+Like there was kind of a boil for I look up an article on bone app a teeth, which for now I'm doing that.
+
+1818
+01:29:03,220 --> 01:29:04,380
+I'm on bone app a teeth.
+
+1819
+01:29:04,380 --> 01:29:06,280
+I'm like, I'm like, all right.
+
+1820
+01:29:06,380 --> 01:29:10,860
+So like, yeah, but it boiled in a bunch of water and then ended up kind of frying it on both sides.
+
+1821
+01:29:11,000 --> 01:29:16,020
+But like I'm stressed about this all day and Aaron stressed about it for me all day.
+
+1822
+01:29:16,020 --> 01:29:22,280
+And I'm saying like, I don't know, wouldn't it be better if I bought one that was already that was, you know, like already grilled or already smoked?
+
+1823
+01:29:22,460 --> 01:29:25,440
+And Aaron said, you don't know the difference between grilling and smoking, do you?
+
+1824
+01:29:25,440 --> 01:29:27,520
+And I said, no, no, I don't.
+
+1825
+01:29:27,740 --> 01:29:29,020
+I don't do any of this.
+
+1826
+01:29:29,160 --> 01:29:32,880
+Why did the podcast doesn't need this enough for me to do it?
+
+1827
+01:29:32,980 --> 01:29:39,080
+And then like right around this time, I watch I've been slowly finally stepping through the Sopranos.
+
+1828
+01:29:39,080 --> 01:29:45,080
+And I ended up on the season two finale of the Sopranos where Tony has food poisoning
+
+1829
+01:29:45,080 --> 01:29:52,280
+and he's having lots of terrible nightmares and like assessing a lot in his life while he thinks that he is dying from food poisoning.
+
+1830
+01:29:52,440 --> 01:29:57,000
+And I'm Googling about like, could I poison myself from raw port?
+
+1831
+01:29:57,020 --> 01:30:01,160
+Like I'm now I'm dovetailing into Tony Sopranos stress.
+
+1832
+01:30:01,440 --> 01:30:06,480
+Like I'm worried now I'm worried I'm going to end up having bizarre stress nightmares where I shoot all of you.
+
+1833
+01:30:06,580 --> 01:30:13,340
+It's just it's all combining into a terrible stew that seriously I am sweating as I'm describing all of this now.
+
+1834
+01:30:13,340 --> 01:30:18,240
+As I flashback to what yesterday ended up being, I think you were probably in the same.
+
+1835
+01:30:18,680 --> 01:30:26,980
+My mom has made a couple of dishes where like white meat, it starts by boiling white meat chicken and then baking it in a casserole pan.
+
+1836
+01:30:27,080 --> 01:30:34,400
+So like I don't think it's unheard of to cook raw meat in if you really boil it and then finish it another way.
+
+1837
+01:30:34,540 --> 01:30:37,300
+You know, you just need the heat to kill anything.
+
+1838
+01:30:37,300 --> 01:30:42,160
+And several forms of heat give you several passions at which to.
+
+1839
+01:30:43,220 --> 01:30:48,580
+So, yeah, look, a whole bunch of stress, but I figure out how to make these sausages.
+
+1840
+01:30:48,800 --> 01:30:49,860
+I learn a process.
+
+1841
+01:30:50,200 --> 01:30:50,900
+I get it done.
+
+1842
+01:30:51,000 --> 01:30:52,380
+I combine everything.
+
+1843
+01:30:53,800 --> 01:30:56,500
+And let me tell you, it ruled.
+
+1844
+01:30:56,760 --> 01:30:58,540
+It was so great.
+
+1845
+01:30:58,900 --> 01:30:59,760
+It was really great.
+
+1846
+01:30:59,760 --> 01:31:04,600
+And I don't know that I attribute that to myself other than that I figured out how to make myself not die.
+
+1847
+01:31:04,600 --> 01:31:09,680
+But this the linguisa, holy shit, this was a really fantastic food.
+
+1848
+01:31:09,780 --> 01:31:15,400
+I'm really sold on this when I see this on menus from now on, I'm going to get it the right amount of spice.
+
+1849
+01:31:15,520 --> 01:31:19,040
+It didn't look like a weird pepperoni, like weird other linguisa that I saw.
+
+1850
+01:31:19,180 --> 01:31:24,860
+I was just worried that I will have made it and it would have just been as thick as a pepperoni and I bite in and it hurts my teeth.
+
+1851
+01:31:25,100 --> 01:31:26,000
+None of this happened.
+
+1852
+01:31:26,020 --> 01:31:26,640
+It was great.
+
+1853
+01:31:26,840 --> 01:31:29,000
+I'll show you photographs.
+
+1854
+01:31:29,060 --> 01:31:34,040
+I don't know how much it translates, but like seems pretty decent, right?
+
+1855
+01:31:34,820 --> 01:31:36,160
+I don't know.
+
+1856
+01:31:36,760 --> 01:31:39,660
+And then you see the thin pork on the side.
+
+1857
+01:31:39,880 --> 01:31:41,520
+I had a little beer with it too.
+
+1858
+01:31:41,820 --> 01:31:43,780
+It did really transport me.
+
+1859
+01:31:43,800 --> 01:31:45,360
+Let me find more of a close up.
+
+1860
+01:31:45,480 --> 01:31:46,980
+Here's me holding it.
+
+1861
+01:31:47,220 --> 01:31:49,420
+The proud dad of this sausage.
+
+1862
+01:31:49,760 --> 01:31:50,840
+Like, I don't know.
+
+1863
+01:31:51,020 --> 01:31:51,940
+Am I crazy?
+
+1864
+01:31:52,320 --> 01:31:53,260
+Does this look garbage?
+
+1865
+01:31:54,000 --> 01:31:55,000
+That looks great to me.
+
+1866
+01:31:55,000 --> 01:31:57,280
+I would like to say that you looks like you won, honestly.
+
+1867
+01:31:58,940 --> 01:32:03,360
+Maybe in the like authentic doing it way.
+
+1868
+01:32:03,920 --> 01:32:06,740
+And Erin did some of this along with me and helped me figure out some of it.
+
+1869
+01:32:06,740 --> 01:32:10,900
+And she did it with like a with Tofurkey, which was less satisfying as happened with you, Mike.
+
+1870
+01:32:12,480 --> 01:32:15,100
+But, you know, it ended up being pretty solid.
+
+1871
+01:32:15,260 --> 01:32:15,740
+That's fantastic.
+
+1872
+01:32:16,180 --> 01:32:17,860
+I went in for a second go at this.
+
+1873
+01:32:18,000 --> 01:32:21,040
+I had it yesterday and then I had it today again.
+
+1874
+01:32:21,360 --> 01:32:23,820
+So I am all hopped up on pork.
+
+1875
+01:32:24,020 --> 01:32:25,060
+I am porked up.
+
+1876
+01:32:25,060 --> 01:32:31,440
+I am probably going to pass out as soon as we finish this podcast because so many of my meals have been pork lately.
+
+1877
+01:32:32,000 --> 01:32:33,600
+But I feel pretty good about it.
+
+1878
+01:32:33,600 --> 01:32:35,580
+Jason is really proud of you, I think, today.
+
+1879
+01:32:36,020 --> 01:32:36,540
+Wow.
+
+1880
+01:32:37,100 --> 01:32:42,080
+I mentioned things that you knew and you're able to like where we can compare sausage notes.
+
+1881
+01:32:42,180 --> 01:32:45,060
+This is like a good bonding level for us.
+
+1882
+01:32:46,040 --> 01:32:48,600
+The sausage king of Burbank has a new protege.
+
+1883
+01:32:48,600 --> 01:32:56,140
+I actually know a different sausage place in Glendale, the border of Glendale and Burbank, and I'm blanking on it.
+
+1884
+01:32:56,140 --> 01:33:05,960
+It's a German deli and they supply a lot of the like beer halls and beer gardens in L.
+
+1885
+01:32:56,140 --> 01:33:06,940
+A.
+
+1886
+01:33:05,960 --> 01:33:06,540
+, I think.
+
+1887
+01:33:07,640 --> 01:33:10,540
+Oh, so there's the restaurants with that theme and they might come from that place.
+
+1888
+01:33:11,440 --> 01:33:12,840
+Hey, Jason, the usual.
+
+1889
+01:33:14,340 --> 01:33:15,220
+Send me up.
+
+1890
+01:33:15,220 --> 01:33:15,920
+Hello, Jason.
+
+1891
+01:33:16,160 --> 01:33:16,400
+Begay.
+
+1892
+01:33:16,500 --> 01:33:18,420
+It's a scene in the Vandabar.
+
+1893
+01:33:18,940 --> 01:33:20,580
+Yeah, sure, man.
+
+1894
+01:33:21,000 --> 01:33:21,920
+Sounds good.
+
+1895
+01:33:22,080 --> 01:33:22,780
+Open up the trunk.
+
+1896
+01:33:22,980 --> 01:33:24,720
+We have the crates for you.
+
+1897
+01:33:27,000 --> 01:33:32,160
+As like they wheel out twenty one at a time in a big rope.
+
+1898
+01:33:32,360 --> 01:33:34,800
+A German Oompa band plays while he's there.
+
+1899
+01:33:35,260 --> 01:33:38,220
+Some bars will have a stein for you.
+
+1900
+01:33:38,220 --> 01:33:40,960
+You can join a club and they'll have your stein on a hook.
+
+1901
+01:33:40,960 --> 01:33:44,020
+Mine, it's just like sauce, different sausages.
+
+1902
+01:33:44,380 --> 01:33:47,280
+Like a bunch of pure sausage.
+
+1903
+01:33:47,580 --> 01:33:53,960
+So you really felt good when we were at that bachelor party when there was that woman that was paddling men for a dollar.
+
+1904
+01:33:54,440 --> 01:33:58,000
+Yeah, I felt good for a little while until I did not.
+
+1905
+01:33:58,320 --> 01:33:58,940
+Yeah, right.
+
+1906
+01:33:59,280 --> 01:33:59,980
+Go back and tie.
+
+1907
+01:34:00,060 --> 01:34:01,920
+Forget which episode we tell that story on.
+
+1908
+01:34:02,320 --> 01:34:07,340
+Yeah, I so yeah, look, I ended up feeling pretty good about this.
+
+1909
+01:34:08,020 --> 01:34:10,340
+Shriner's fine sausages free ad for them.
+
+1910
+01:34:10,880 --> 01:34:13,420
+Now I have frozen a couple left over.
+
+1911
+01:34:13,420 --> 01:34:16,860
+I have frozen sausages in my fridge and I might do this again.
+
+1912
+01:34:16,860 --> 01:34:18,040
+I might do the run.
+
+1913
+01:34:18,160 --> 01:34:23,200
+It ended up with so much effort, but it ended up being worth it, I think.
+
+1914
+01:34:23,900 --> 01:34:28,800
+Except that, like, of course, Matt is still the wit, like, because you didn't have to do any of this.
+
+1915
+01:34:28,980 --> 01:34:30,720
+No, no, but here's where it comes.
+
+1916
+01:34:30,820 --> 01:34:35,120
+I love this where it's at, because you I am a Sith Lord and you are a Jedi.
+
+1917
+01:34:35,120 --> 01:34:41,760
+I went to I went the way of the dark side and I but I cheated and I half asked my way to get it and it's delicious.
+
+1918
+01:34:41,760 --> 01:34:42,200
+It works.
+
+1919
+01:34:42,240 --> 01:34:42,920
+I'm powerful.
+
+1920
+01:34:43,260 --> 01:34:44,660
+But you did the right thing.
+
+1921
+01:34:44,660 --> 01:34:46,000
+You trained with Master Yoda.
+
+1922
+01:34:46,380 --> 01:34:50,680
+You work through your fears and you came out the other side, a real hero.
+
+1923
+01:34:50,700 --> 01:34:52,620
+And I think you're the you're the Jedi winner.
+
+1924
+01:34:52,740 --> 01:34:54,540
+You like you're the you're a Jedi master now.
+
+1925
+01:34:54,540 --> 01:34:55,380
+You're Obi Wan.
+
+1926
+01:34:55,540 --> 01:34:56,020
+Yeah.
+
+1927
+01:34:56,020 --> 01:34:56,580
+Of the pork.
+
+1928
+01:34:56,580 --> 01:34:57,400
+Oh, my God.
+
+1929
+01:34:57,740 --> 01:34:59,200
+After all, I get it.
+
+1930
+01:34:59,200 --> 01:34:59,500
+Whoa.
+
+1931
+01:34:59,540 --> 01:35:04,200
+And from the person who clearly did the funniest thing, that's an honor.
+
+1932
+01:35:04,200 --> 01:35:09,020
+And there's like an older woman is going to walk by you, Scott, and say like, hey, what's your name?
+
+1933
+01:35:09,060 --> 01:35:13,120
+And you're holding your Ronto wrap and you're going to say Scott and she's going to go, Scott, who?
+
+1934
+01:35:13,600 --> 01:35:15,680
+And you're going to say Scott Skywalker.
+
+1935
+01:35:16,900 --> 01:35:18,960
+Scott Sausagemaker.
+
+1936
+01:35:19,820 --> 01:35:20,620
+Scott Sausagewalker.
+
+1937
+01:35:21,800 --> 01:35:23,340
+Scott Baccar.
+
+1938
+01:35:23,980 --> 01:35:25,420
+Like, what's your name, Scott?
+
+1939
+01:35:25,860 --> 01:35:26,720
+What's your last name?
+
+1940
+01:35:26,800 --> 01:35:28,160
+And you already have a mouthful of Ronto.
+
+1941
+01:35:31,080 --> 01:35:35,040
+And now I'm trying to think of what how to rate it myself.
+
+1942
+01:35:35,220 --> 01:35:45,580
+And I think like what's coming to mind is with a lot of very sweaty efforts,
+
+1943
+01:35:45,740 --> 01:35:53,600
+I was able to mechanically recreate something kind of resembling the original, but at what cost?
+
+1944
+01:35:53,600 --> 01:35:59,760
+And that is I can't think of any Star Wars movies where that you would describe it that way.
+
+1945
+01:35:59,820 --> 01:36:00,900
+Can you?
+
+1946
+01:36:01,280 --> 01:36:03,380
+Well, it's that your Mandalorian.
+
+1947
+01:36:04,280 --> 01:36:05,160
+Your galaxy's edge.
+
+1948
+01:36:05,160 --> 01:36:06,060
+Oh, it's galaxy's edge.
+
+1949
+01:36:06,580 --> 01:36:06,580
+Yeah.
+
+1950
+01:36:07,280 --> 01:36:09,360
+Oh, why do I get galaxy's edge?
+
+1951
+01:36:09,720 --> 01:36:10,920
+I'll take it.
+
+1952
+01:36:11,000 --> 01:36:17,540
+I like it because your equivalent of grief is taking away the people mover Bonta attraction.
+
+1953
+01:36:17,540 --> 01:36:22,940
+Like, oh, we don't have the money, but this is so cool.
+
+1954
+01:36:23,180 --> 01:36:26,680
+I know that is you said it's close to something that resembles the real thing.
+
+1955
+01:36:26,700 --> 01:36:27,520
+But at what cost?
+
+1956
+01:36:27,540 --> 01:36:30,900
+It's like a four billion dollar part that kind of resembles Star Wars.
+
+1957
+01:36:30,960 --> 01:36:31,680
+It's good enough.
+
+1958
+01:36:31,680 --> 01:36:32,920
+It makes us kind of happy.
+
+1959
+01:36:33,460 --> 01:36:34,780
+I think that's galaxy's edge.
+
+1960
+01:36:34,820 --> 01:36:36,040
+That's what that looks like to me.
+
+1961
+01:36:36,040 --> 01:36:37,260
+And that's a winner in my book.
+
+1962
+01:36:37,500 --> 01:36:38,520
+That's a winner in my book.
+
+1963
+01:36:38,540 --> 01:36:43,800
+I feel like I didn't spend four billion dollars to make this single sausage for myself.
+
+1964
+01:36:43,800 --> 01:36:47,660
+But I feel like four billion dollars worth of effort.
+
+1965
+01:36:48,120 --> 01:36:58,940
+You spent you spent a significant amount of gas money crisscrossing the San Fernando Valley for like nice ingredients as opposed to me.
+
+1966
+01:36:58,940 --> 01:37:05,040
+Who's like, all right, Kroger brand and Hillshire Farm brand, please come, come Hidden Valley.
+
+1967
+01:37:05,140 --> 01:37:05,880
+Get in the car.
+
+1968
+01:37:06,300 --> 01:37:06,780
+Yes.
+
+1969
+01:37:06,800 --> 01:37:11,020
+You know, I think they all like I want to say that all of our choices reflect us in some way.
+
+1970
+01:37:11,020 --> 01:37:16,300
+But I don't want to say that about Mike, because I don't I don't look at that dog and see you in it.
+
+1971
+01:37:16,440 --> 01:37:22,060
+I think what you what you should have done do exactly what you did, but then just like wrap it in fruity pebbles.
+
+1972
+01:37:22,060 --> 01:37:25,160
+And then I think I should have more of a spin on it.
+
+1973
+01:37:25,160 --> 01:37:25,660
+I agree.
+
+1974
+01:37:25,820 --> 01:37:31,940
+I also think the sausage, I think you fighting that sausage was truly the key was the was the thing.
+
+1975
+01:37:32,020 --> 01:37:35,320
+I think if I had a better sausage in there, the sauce I made actually was fine.
+
+1976
+01:37:35,320 --> 01:37:38,760
+Obviously coleslaw and slaw is different, but the coleslaw was fine.
+
+1977
+01:37:38,760 --> 01:37:42,020
+And then I put a little spice into it to make it a little more zesty.
+
+1978
+01:37:42,520 --> 01:37:45,420
+And I feel like it's the sausage part was key.
+
+1979
+01:37:45,740 --> 01:37:52,700
+Even with the ugliest presentation, which I showed you there, I believe I could have at least gone, well, it did taste good.
+
+1980
+01:37:52,800 --> 01:37:56,400
+It looks like absolute dog shit, but it could have overcome it.
+
+1981
+01:37:56,740 --> 01:37:56,740
+Yeah.
+
+1982
+01:37:56,860 --> 01:37:59,700
+Well, and I'm I feel like I had an adventure.
+
+1983
+01:37:59,960 --> 01:38:02,820
+I discovered an establishment that I like a lot.
+
+1984
+01:38:02,820 --> 01:38:06,740
+New type of food, a new way to bond with Jason.
+
+1985
+01:38:07,000 --> 01:38:09,300
+We're linguis of buddies now.
+
+1986
+01:38:09,960 --> 01:38:13,060
+And I reaped the rewards of my journeys.
+
+1987
+01:38:13,460 --> 01:38:17,220
+And yeah, you are saw your brothers in sausage today.
+
+1988
+01:38:17,320 --> 01:38:20,820
+You're just you're just standing on Naboo holding your sausage over your head.
+
+1989
+01:38:21,000 --> 01:38:23,000
+That that that that that that that that that.
+
+1990
+01:38:23,080 --> 01:38:23,680
+Yeah.
+
+1991
+01:38:23,920 --> 01:38:27,100
+Just celebrating with Bosnian.
+
+1992
+01:38:28,100 --> 01:38:28,980
+Oh, man.
+
+1993
+01:38:29,540 --> 01:38:29,540
+Yes.
+
+1994
+01:38:29,960 --> 01:38:34,100
+I said I didn't like Bosnian, but I'm in such a good mood after how good this ended up tasting.
+
+1995
+01:38:34,380 --> 01:38:37,740
+I'd show I'd I'd I'd grill him up for Bosnian all day.
+
+1996
+01:38:37,740 --> 01:38:40,880
+He can rattle him around in his CGI mouth all he wants.
+
+1997
+01:38:41,680 --> 01:38:42,620
+I think he's funny.
+
+1998
+01:38:43,580 --> 01:38:45,580
+Oh, I like Bosnian.
+
+1999
+01:38:45,740 --> 01:38:46,640
+I like Bosnian.
+
+2000
+01:38:46,660 --> 01:38:50,560
+Of course, he's not like the my my man here sitting here is Dexter Jetster,
+
+2001
+01:38:50,980 --> 01:38:54,100
+who, of course, would make probably a great Ronto wrap if he asked him.
+
+2002
+01:38:54,140 --> 01:38:54,720
+I don't ask them.
+
+2003
+01:38:54,720 --> 01:38:56,360
+I don't know if it's on the menu, but.
+
+2004
+01:38:56,360 --> 01:38:57,380
+Oh, yeah.
+
+2005
+01:38:57,820 --> 01:38:58,900
+It will whip you up something.
+
+2006
+01:38:59,620 --> 01:39:04,800
+Do you think that's one thing I want to say before we get out of it is just like that the stakes of Star Wars
+
+2007
+01:39:04,800 --> 01:39:11,580
+and the majesty of Star Wars and the incredible journeys and the and the war battles that are fought in life and death.
+
+2008
+01:39:11,860 --> 01:39:15,680
+They do that in the midst of all this, that people are eating like fast,
+
+2009
+01:39:15,880 --> 01:39:23,520
+casual hot dogs sometimes I think is really funny, like that that they don't show you these scenes usually,
+
+2010
+01:39:23,520 --> 01:39:31,360
+but that like imagine your favorite episode of The Mandalorian and then imagine like three parts where he's stopping to eat a hot dog.
+
+2011
+01:39:31,940 --> 01:39:33,360
+I think that would be great.
+
+2012
+01:39:33,420 --> 01:39:36,500
+I think that's the if Jason was on staff on that show,
+
+2013
+01:39:36,500 --> 01:39:39,840
+that would obviously be assigned to him to fit to write those episodes.
+
+2014
+01:39:40,440 --> 01:39:45,600
+I I'm on record as saying like I've wanted to drink the blue milk since I was a child.
+
+2015
+01:39:45,680 --> 01:39:47,060
+Yeah, which I found shocking.
+
+2016
+01:39:47,440 --> 01:39:52,360
+Very first thing I did like I like disappeared from the group
+
+2017
+01:39:52,360 --> 01:39:59,180
+and just reappeared that opening day at like eight, ten in the morning with blue milk all over my face.
+
+2018
+01:39:59,180 --> 01:40:03,200
+Yes, I was shocked by that revelation because that was never anything where I was.
+
+2019
+01:40:03,200 --> 01:40:09,520
+It was I said that butter beer is like, oh, yeah, of course, every kid was like reading that book or seeing those movies and going, I got to try that.
+
+2020
+01:40:09,800 --> 01:40:13,800
+But the blue milk was this like kind of gross thing and a weird cup in the middle of the desert.
+
+2021
+01:40:13,920 --> 01:40:14,520
+Like, I don't know.
+
+2022
+01:40:15,000 --> 01:40:15,740
+I want to eat.
+
+2023
+01:40:15,880 --> 01:40:16,280
+I would eat.
+
+2024
+01:40:16,420 --> 01:40:21,460
+I guess they kind of like raise instant bread, like weird looking blue bread.
+
+2025
+01:40:21,460 --> 01:40:23,840
+Well, raising bread is a totally different story.
+
+2026
+01:40:24,000 --> 01:40:27,700
+The raisins and bread is one of the best things in the whole nine movies.
+
+2027
+01:40:28,440 --> 01:40:29,780
+I love that bread.
+
+2028
+01:40:30,320 --> 01:40:36,460
+I think one of the side dishes at Talking Bay seven kind of comes with or no, one of them comes with a blueberry muffin.
+
+2029
+01:40:36,660 --> 01:40:46,820
+Like I do like the interesting angles they took at Star Wars Galaxy's Edge where like your platter is ribs, a blueberry muffin and some coleslaw.
+
+2030
+01:40:46,820 --> 01:40:51,280
+Like that is an alien presentation, but it all kind of makes sense.
+
+2031
+01:40:51,460 --> 01:40:53,080
+I like I like the Talking Bay food.
+
+2032
+01:40:53,080 --> 01:40:53,780
+I like the dessert.
+
+2033
+01:40:53,880 --> 01:40:56,240
+The little puffy dessert is really great there.
+
+2034
+01:40:56,280 --> 01:40:57,800
+Both of them are delicious.
+
+2035
+01:40:57,800 --> 01:40:58,240
+Yeah.
+
+2036
+01:40:58,560 --> 01:41:02,840
+What are the odds that the Mandalorian the next season will feature a Ronto rap?
+
+2037
+01:41:02,920 --> 01:41:04,380
+What do you think the odds are that happening?
+
+2038
+01:41:04,760 --> 01:41:11,860
+Like is somebody casually eating a Ronto rap or like Mando walks up or like, you know, it's like Mando and he's having a big old Ronto rap.
+
+2039
+01:41:12,280 --> 01:41:13,180
+What was giving?
+
+2040
+01:41:13,180 --> 01:41:15,200
+Oh, they should have had like Karl Weathers.
+
+2041
+01:41:15,480 --> 01:41:15,960
+Yeah.
+
+2042
+01:41:16,100 --> 01:41:17,440
+Like had a Ronto rap or something.
+
+2043
+01:41:18,700 --> 01:41:19,900
+I know Bakar.
+
+2044
+01:41:20,760 --> 01:41:21,640
+Good frenzy.
+
+2045
+01:41:21,740 --> 01:41:23,300
+Or let's yeah, let's put Bakar.
+
+2046
+01:41:23,360 --> 01:41:24,660
+Let's make Bakar a character.
+
+2047
+01:41:24,920 --> 01:41:31,840
+I think there's a decent chance they've tried to add stuff and there are little references to like Black Spire Outpost and Solo.
+
+2048
+01:41:32,420 --> 01:41:36,100
+And I forget there's one more somewhere else that popped up and they have the book.
+
+2049
+01:41:36,220 --> 01:41:38,460
+So I don't think it's that crazy that that would happen.
+
+2050
+01:41:38,640 --> 01:41:39,680
+I really don't.
+
+2051
+01:41:39,680 --> 01:41:43,900
+You can see the droid in the comic book and the Galaxy's Edge comic book.
+
+2052
+01:41:44,060 --> 01:41:44,820
+He's like walking around.
+
+2053
+01:41:45,100 --> 01:41:51,500
+We haven't seen Black Spire Outpost yet on screen, but I don't think I think that'll happen.
+
+2054
+01:41:51,680 --> 01:41:54,520
+I don't think I think that'll be what I think.
+
+2055
+01:41:54,760 --> 01:41:58,380
+Maybe you have to open it like, yeah, going into Batuu would get you there.
+
+2056
+01:41:58,400 --> 01:42:01,000
+But I like to think that this is not you don't only get this there.
+
+2057
+01:42:01,000 --> 01:42:19,140
+Well, like my hope is that my mythology is that this is like the movie, the founders, the McDonald's founder situation where there's Bakar and then some like sleazier guy comes and steals the recipe from Bakar, takes it to every other planet.
+
+2058
+01:42:19,140 --> 01:42:27,120
+And now there's like, you know, super corporate Ronto places everywhere that you go in the Star Wars universe.
+
+2059
+01:42:27,120 --> 01:42:33,560
+You just landed on a Disney plus show that I would 100 percent rush like the Ronto rap founder movie.
+
+2060
+01:42:34,020 --> 01:42:42,340
+Just this whole story, this saga of Bakar versus this like Jabba the Jabba the Hutt style guy like a Huttese guy who steals the recipe.
+
+2061
+01:42:43,400 --> 01:42:47,140
+That's like a yeah, he's a he's a crazy alien guy.
+
+2062
+01:42:47,300 --> 01:42:47,860
+Absolutely.
+
+2063
+01:42:48,100 --> 01:42:48,500
+Yeah.
+
+2064
+01:42:48,500 --> 01:42:51,100
+How about Kroc the Hutt?
+
+2065
+01:42:51,440 --> 01:42:54,560
+Like if he's like Ray Kroc, who is a nefarious character in some ways.
+
+2066
+01:42:55,340 --> 01:43:00,060
+Or call him just Kroc maybe Kroc and you can you can spell it in a Star Wars-y way.
+
+2067
+01:43:00,820 --> 01:43:01,640
+Yeah, yeah.
+
+2068
+01:43:02,560 --> 01:43:07,040
+Maybe and maybe he's he's like subtitled to he speaks in a bizarre.
+
+2069
+01:43:08,080 --> 01:43:10,100
+Yeah, bizarre language, you got a subtitle.
+
+2070
+01:43:10,100 --> 01:43:16,140
+And yeah, I mean, just like watching the watching a small business get crushed into the ground.
+
+2071
+01:43:16,380 --> 01:43:18,460
+Well, that's they're going to make all these shows.
+
+2072
+01:43:18,660 --> 01:43:19,960
+I want to see that happen.
+
+2073
+01:43:20,100 --> 01:43:21,380
+But in space, great.
+
+2074
+01:43:22,000 --> 01:43:32,760
+Someone someone hires the Mandalorian or hires there's like two McDonald's brothers of the Star Wars universe hire bounty hunters like we need you to get back at Kroc for us.
+
+2075
+01:43:33,020 --> 01:43:35,580
+He took everything from us.
+
+2076
+01:43:37,240 --> 01:43:42,380
+Look, well, and then like the gold, they he dies in the end.
+
+2077
+01:43:42,540 --> 01:43:47,620
+They kill him and then they use his meat to create the next big food phenomenon.
+
+2078
+01:43:47,860 --> 01:43:53,020
+Listen, Jon Favreau, if you're listening to this, tell Jon Lovett about it and then get this get this on.
+
+2079
+01:43:53,080 --> 01:43:57,480
+Get this through the podcast network that will get to Obama that will get this to Disney Plus.
+
+2080
+01:43:57,480 --> 01:43:58,580
+We want to sell the show.
+
+2081
+01:43:58,620 --> 01:44:02,800
+So Jon Favreau, not Iron Man, Jon Favreau, speechwriter Jon Favreau.
+
+2082
+01:44:02,800 --> 01:44:09,480
+Please, I know you're a little tuckered out from Freedom Day or whatever Joe Biden declared it the other day.
+
+2083
+01:44:09,600 --> 01:44:14,240
+I know you're a little low low, but like, let's get to work on this.
+
+2084
+01:44:14,880 --> 01:44:17,820
+OK, happy Freedom Day, everyone.
+
+2085
+01:44:17,900 --> 01:44:19,300
+Happy Freedom Day, guys.
+
+2086
+01:44:19,440 --> 01:44:19,660
+I forgot.
+
+2087
+01:44:20,040 --> 01:44:20,360
+Freedom Day.
+
+2088
+01:44:20,440 --> 01:44:21,160
+Happy Life Day.
+
+2089
+01:44:21,300 --> 01:44:24,580
+I think this was a great journey we all took together.
+
+2090
+01:44:24,780 --> 01:44:25,340
+I'm at Mazani.
+
+2091
+01:44:25,360 --> 01:44:27,220
+You survived podcast, The Ride.
+
+2092
+01:44:27,840 --> 01:44:28,600
+What a blast.
+
+2093
+01:44:28,760 --> 01:44:29,960
+So happy to have you back.
+
+2094
+01:44:30,040 --> 01:44:31,440
+Let's exit through the gift shop.
+
+2095
+01:44:31,440 --> 01:44:33,080
+Is there anything you would like to plug?
+
+2096
+01:44:33,580 --> 01:44:35,340
+Yeah, I've got a couple of podcasts.
+
+2097
+01:44:35,420 --> 01:44:35,960
+Give them a listen.
+
+2098
+01:44:36,000 --> 01:44:42,200
+The first one is Get It Again, a wrestling podcast where we listen to we watch WCW Thunder from start to finish.
+
+2099
+01:44:42,920 --> 01:44:43,900
+But W.
+
+2100
+01:44:42,920 --> 01:44:45,660
+E.
+
+2101
+01:44:43,900 --> 01:44:44,120
+W.
+
+2102
+01:44:44,220 --> 01:44:45,660
+has screwed that up with Peacock.
+
+2103
+01:44:45,660 --> 01:44:50,760
+And now we are watching Wrestle Society X, which is the MTV wrestling show from the 2000s.
+
+2104
+01:44:50,820 --> 01:44:51,380
+It's horrible.
+
+2105
+01:44:51,600 --> 01:44:52,580
+So come listen to us.
+
+2106
+01:44:52,580 --> 01:44:54,180
+We've all worked in the wrestling industry.
+
+2107
+01:44:54,460 --> 01:44:58,740
+The other one is the Art of Arting, a fine art podcast, the opposite of a wrestling podcast.
+
+2108
+01:44:58,740 --> 01:45:02,860
+This is a fine art podcast where I interview artists while I paint their portrait.
+
+2109
+01:45:03,280 --> 01:45:04,700
+It's a whole thing.
+
+2110
+01:45:05,080 --> 01:45:07,300
+So check out the Art of Arting and Get It Again.
+
+2111
+01:45:08,340 --> 01:45:11,940
+Geez, wonderful, wonderful lineup covering the entire gamut.
+
+2112
+01:45:12,920 --> 01:45:18,120
+And as for us, keep it tuned here to podcast The Ride at the Second Gate for three bonus episodes every month.
+
+2113
+01:45:18,980 --> 01:45:21,260
+Go check out Shriner's Sausages.
+
+2114
+01:45:21,620 --> 01:45:21,760
+Get it?
+
+2115
+01:45:21,760 --> 01:45:24,420
+Everybody get on the Linguisa train.
+
+2116
+01:45:26,600 --> 01:45:30,040
+And hey, may the pork be with you.
+
+2117
+01:45:31,160 --> 01:45:32,320
+I love that.
+
+2118
+01:45:33,420 --> 01:45:35,400
+Not just today, but every day.
+
+2119
+01:45:35,700 --> 01:45:37,580
+Make that last all year round.
+

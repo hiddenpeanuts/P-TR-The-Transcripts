@@ -1,0 +1,7396 @@
+1
+00:00:00,000 --> 00:00:03,000
+I don't believe we've been introduced.
+
+2
+00:00:03,000 --> 00:00:08,000
+I'm Sebastian Jekyll.
+
+3
+00:00:08,000 --> 00:00:10,000
+You're just a program on a computer?
+
+4
+00:00:10,000 --> 00:00:12,000
+I know, isn't it something?
+
+5
+00:00:12,000 --> 00:00:14,000
+I had plans to bowl tonight.
+
+6
+00:00:16,000 --> 00:00:20,000
+Level one, kid. Start.
+
+7
+00:00:20,000 --> 00:00:22,000
+It's a brand new game.
+
+8
+00:00:30,000 --> 00:00:35,000
+Well, you absolutely didn't ask for it, and here it is.
+
+9
+00:00:35,000 --> 00:00:40,000
+Today, folks, is the day of the jackal.
+
+10
+00:00:40,000 --> 00:00:43,000
+Here on podcast, the ride, the second gate.
+
+11
+00:00:43,000 --> 00:00:47,000
+I'm Scott Gardner, joined by the cold steel kid, Mike Carlson.
+
+12
+00:00:47,000 --> 00:00:49,000
+I am here, yes, I am here.
+
+13
+00:00:49,000 --> 00:00:51,000
+I'm here to help you get started.
+
+14
+00:00:51,000 --> 00:00:53,000
+I'm here to help you get started.
+
+15
+00:00:53,000 --> 00:00:55,000
+I'm here to help you get started.
+
+16
+00:00:55,000 --> 00:00:57,000
+I'm here to help you get started.
+
+17
+00:00:57,000 --> 00:00:59,000
+Here's the cold steel kid, Mike Carlson.
+
+18
+00:00:59,000 --> 00:01:02,000
+I am here, yes, I am the cold steel kid.
+
+19
+00:01:02,000 --> 00:01:04,000
+I want everyone to remember that.
+
+20
+00:01:04,000 --> 00:01:06,000
+I want this to be official jackal day,
+
+21
+00:01:06,000 --> 00:01:08,000
+so next year when you're listening to this,
+
+22
+00:01:08,000 --> 00:01:10,000
+or when you're not, I want, okay,
+
+23
+00:01:10,000 --> 00:01:14,000
+listen to this episode every year is what I'm trying to say.
+
+24
+00:01:14,000 --> 00:01:16,000
+Once a year, it's jackal day,
+
+25
+00:01:16,000 --> 00:01:19,000
+and it will be, what is it coming out on the 25th?
+
+26
+00:01:19,000 --> 00:01:20,000
+May 25th.
+
+27
+00:01:20,000 --> 00:01:23,000
+Yeah, so on the 25th, that is officially jackal day.
+
+28
+00:01:23,000 --> 00:01:25,000
+Listen to this episode, watch your favorite episodes
+
+29
+00:01:25,000 --> 00:01:28,000
+of Deadly Games, and remember that the cold steel kid sent you.
+
+30
+00:01:28,000 --> 00:01:33,000
+All right, get rid of all future associations with May 25th.
+
+31
+00:01:33,000 --> 00:01:36,000
+Future jackal day celebrator, Jason Sheridan.
+
+32
+00:01:36,000 --> 00:01:38,000
+Hey, kid.
+
+33
+00:01:38,000 --> 00:01:40,000
+Is that jackal?
+
+34
+00:01:40,000 --> 00:01:41,000
+I guess.
+
+35
+00:01:41,000 --> 00:01:45,000
+It's the only thing, as I was going out this morning,
+
+36
+00:01:45,000 --> 00:01:51,000
+I realized the only line, line that really stuck in my brain
+
+37
+00:01:51,000 --> 00:01:54,000
+is how he calls people kid a lot.
+
+38
+00:01:54,000 --> 00:01:55,000
+Oh, okay.
+
+39
+00:01:55,000 --> 00:01:59,000
+Specifically the one character, the lead character, Dr. Gus Lloyd,
+
+40
+00:01:59,000 --> 00:02:05,000
+but then I feel like he branches out and just starts calling all of his antagonists.
+
+41
+00:02:05,000 --> 00:02:07,000
+Anybody he's kind of needling becomes kid.
+
+42
+00:02:07,000 --> 00:02:08,000
+Yeah.
+
+43
+00:02:08,000 --> 00:02:10,000
+But then there's some significance to the kid.
+
+44
+00:02:10,000 --> 00:02:11,000
+There's a lot here.
+
+45
+00:02:11,000 --> 00:02:15,000
+This will be a spoiler heavy episode.
+
+46
+00:02:15,000 --> 00:02:19,000
+We'll do nothing but spoil Deadly, the UPN story.
+
+47
+00:02:19,000 --> 00:02:23,000
+Well, hang on, I want to set you up, Mike, to do it.
+
+48
+00:02:23,000 --> 00:02:27,000
+Mike, what is today's topic?
+
+49
+00:02:27,000 --> 00:02:28,000
+Sebastian Jackal.
+
+50
+00:02:28,000 --> 00:02:29,000
+Okay.
+
+51
+00:02:29,000 --> 00:02:34,000
+During the early years of the UPN network, there were different shows I would watch.
+
+52
+00:02:34,000 --> 00:02:38,000
+I remember Star Trek Voyager would air on this channel,
+
+53
+00:02:38,000 --> 00:02:40,000
+even though I believe it was syndicated.
+
+54
+00:02:40,000 --> 00:02:44,000
+And when you watch videos of deadly games on YouTube,
+
+55
+00:02:44,000 --> 00:02:46,000
+there are ads for Star Trek Voyager.
+
+56
+00:02:46,000 --> 00:02:47,000
+Heavy presence.
+
+57
+00:02:47,000 --> 00:02:48,000
+Heavy.
+
+58
+00:02:48,000 --> 00:02:50,000
+Everything is in the crater of Star Trek Voyager.
+
+59
+00:02:50,000 --> 00:02:51,000
+Yes.
+
+60
+00:02:51,000 --> 00:02:55,000
+We have to thank the YouTube account Deadly Games Cool Show.
+
+61
+00:02:55,000 --> 00:02:59,000
+That's two words, Deadly Games, one word, Cool Show, one word.
+
+62
+00:02:59,000 --> 00:03:01,000
+It's a person's name.
+
+63
+00:03:01,000 --> 00:03:02,000
+Yeah.
+
+64
+00:03:02,000 --> 00:03:03,000
+Deadly Games Cool Show.
+
+65
+00:03:03,000 --> 00:03:04,000
+Deadly Games Cool Show.
+
+66
+00:03:04,000 --> 00:03:07,000
+They have uploaded everything from the series.
+
+67
+00:03:07,000 --> 00:03:10,000
+Well, yeah, not quite.
+
+68
+00:03:10,000 --> 00:03:11,000
+Okay, okay.
+
+69
+00:03:11,000 --> 00:03:13,000
+90% of it.
+
+70
+00:03:13,000 --> 00:03:14,000
+But basics.
+
+71
+00:03:14,000 --> 00:03:15,000
+The basics.
+
+72
+00:03:15,000 --> 00:03:16,000
+Yeah, back to this.
+
+73
+00:03:16,000 --> 00:03:21,000
+So during that time, I remember watching an ad for a new UPN show,
+
+74
+00:03:21,000 --> 00:03:25,000
+and it had an ad with Brent Spiner in it, one of my favorites.
+
+75
+00:03:25,000 --> 00:03:26,000
+That was the way in.
+
+76
+00:03:26,000 --> 00:03:28,000
+And I said, oh, I got to watch this.
+
+77
+00:03:28,000 --> 00:03:29,000
+Look at this.
+
+78
+00:03:29,000 --> 00:03:32,000
+Brent Spiner branching out, doing something different,
+
+79
+00:03:32,000 --> 00:03:35,000
+playing what seemed to be a villain, and I was correct.
+
+80
+00:03:35,000 --> 00:03:38,000
+And the show was Deadly Games.
+
+81
+00:03:38,000 --> 00:03:43,000
+And I watched it, and Christopher Lloyd was on it, of course I liked at the time.
+
+82
+00:03:43,000 --> 00:03:46,000
+And who did Christopher Lloyd play on the UPN series, Deadly Games?
+
+83
+00:03:46,000 --> 00:03:48,000
+And Christopher Lloyd was a regular on the show,
+
+84
+00:03:48,000 --> 00:03:51,000
+and he was sort of billed last because he was the big name, the big get,
+
+85
+00:03:51,000 --> 00:03:54,000
+and he was the big character, the iconic character of the show,
+
+86
+00:03:54,000 --> 00:03:57,000
+and they knew it before, obviously they wrote it that way.
+
+87
+00:03:57,000 --> 00:04:01,000
+But this character's name was Sebastian Jackle.
+
+88
+00:04:01,000 --> 00:04:07,000
+So what you're saying is Sebastian Jackle is a character from the UPN series,
+
+89
+00:04:07,000 --> 00:04:09,000
+Deadly Games, played by Christopher Lloyd.
+
+90
+00:04:09,000 --> 00:04:10,000
+That is what I'm saying.
+
+91
+00:04:10,000 --> 00:04:12,000
+I took the long road to get there.
+
+92
+00:04:12,000 --> 00:04:18,000
+But yeah, Sebastian Jackle is Christopher Lloyd's character on UPN's Deadly Games.
+
+93
+00:04:18,000 --> 00:04:25,000
+Yeah, imprinted on you like a young pup seeing its mother for the first time.
+
+94
+00:04:27,000 --> 00:04:28,000
+Yeah, that is true.
+
+95
+00:04:28,000 --> 00:04:31,000
+His iconic white suit, I would never forget it.
+
+96
+00:04:31,000 --> 00:04:35,000
+Let me ask you, both of you, I know we've talked about this before,
+
+97
+00:04:35,000 --> 00:04:38,000
+but neither of you remember this at the time, correct?
+
+98
+00:04:38,000 --> 00:04:39,000
+No.
+
+99
+00:04:39,000 --> 00:04:40,000
+Okay.
+
+100
+00:04:40,000 --> 00:04:47,000
+No, and I kind of, when you mentioned it, I feel like it was a thing where I,
+
+101
+00:04:47,000 --> 00:04:51,000
+I don't know, I feel like there's a lot of B-movie syndicated television stuff
+
+102
+00:04:51,000 --> 00:04:53,000
+that just mushes together.
+
+103
+00:04:53,000 --> 00:04:56,000
+Your Brisco, what is it?
+
+104
+00:04:56,000 --> 00:04:57,000
+Brisco County Jr.
+
+105
+00:04:57,000 --> 00:05:03,000
+Brisco County Jr. meshes with tremors, sequels, meshes with whatever was on USA Upl.
+
+106
+00:05:03,000 --> 00:05:08,000
+Yeah, Nowhere Man on UPN, which is a show I watched the whole season of,
+
+107
+00:05:08,000 --> 00:05:11,000
+and then all of course we've talked about many of the syndicate, other syndicated shows,
+
+108
+00:05:11,000 --> 00:05:17,000
+Relic Hunter, VIP, Gene Roddenberry's, what, Andromeda something?
+
+109
+00:05:17,000 --> 00:05:18,000
+Andromeda, yes.
+
+110
+00:05:18,000 --> 00:05:20,000
+But this was not really syndicated.
+
+111
+00:05:20,000 --> 00:05:22,000
+This was a prime time.
+
+112
+00:05:22,000 --> 00:05:23,000
+Yeah, yeah, yeah.
+
+113
+00:05:23,000 --> 00:05:25,000
+Tuesdays at 8 p.m.
+
+114
+00:05:25,000 --> 00:05:32,000
+and in the classic 90s move seemingly aired out of order based on a fan site I saw.
+
+115
+00:05:32,000 --> 00:05:34,000
+Yeah, it does feel that way.
+
+116
+00:05:34,000 --> 00:05:40,000
+Well, okay, that's interesting you found proof of that because there's one that feels like could have been the ender,
+
+117
+00:05:40,000 --> 00:05:41,000
+but it kind of comes in the middle.
+
+118
+00:05:41,000 --> 00:05:42,000
+Yeah, it's weird.
+
+119
+00:05:42,000 --> 00:05:43,000
+It's a little confusing.
+
+120
+00:05:43,000 --> 00:05:46,000
+Yeah, I jumped around a lot.
+
+121
+00:05:46,000 --> 00:05:53,000
+I think I watched six and a half episodes.
+
+122
+00:05:53,000 --> 00:05:57,000
+And now when I said like it's not fully complete online,
+
+123
+00:05:57,000 --> 00:06:01,000
+there is a 13th episode that is not, was not aired, was not released,
+
+124
+00:06:01,000 --> 00:06:03,000
+but there, I mean, it might be on the DVD.
+
+125
+00:06:03,000 --> 00:06:06,000
+There was a DVD release like four or five years ago.
+
+126
+00:06:06,000 --> 00:06:16,000
+Yeah, the synopsis of that episode is Belinda, the leather clad ex-girlfriend, wants revenge on all men.
+
+127
+00:06:16,000 --> 00:06:19,000
+She can only be defeated by a golden ball.
+
+128
+00:06:19,000 --> 00:06:25,000
+So fortunately that one's not, we can't tell you about the golden ball.
+
+129
+00:06:25,000 --> 00:06:29,000
+We should now explain what the show's premise is, I think.
+
+130
+00:06:29,000 --> 00:06:31,000
+Yeah, yeah, you're going to be a little lost.
+
+131
+00:06:31,000 --> 00:06:32,000
+Yeah.
+
+132
+00:06:32,000 --> 00:06:35,000
+But what's the character, main character?
+
+133
+00:06:35,000 --> 00:06:36,000
+Dr. Gus.
+
+134
+00:06:36,000 --> 00:06:37,000
+Dr. Gus Lloyd.
+
+135
+00:06:37,000 --> 00:06:38,000
+Thank you.
+
+136
+00:06:38,000 --> 00:06:39,000
+Dr. Gus Lloyd.
+
+137
+00:06:39,000 --> 00:06:40,000
+A very divorced man.
+
+138
+00:06:40,000 --> 00:06:41,000
+He's very divorced.
+
+139
+00:06:44,000 --> 00:06:45,000
+I like this characterization.
+
+140
+00:06:45,000 --> 00:06:50,000
+Yes, because just seething with bitterness.
+
+141
+00:06:50,000 --> 00:06:51,000
+Yeah, he's angry and angry.
+
+142
+00:06:51,000 --> 00:06:54,000
+Yeah, yeah, he really fuels the entire show.
+
+143
+00:06:54,000 --> 00:06:57,000
+There's a lot of 90s bad habits.
+
+144
+00:06:57,000 --> 00:07:00,000
+There's a lot of 90s indulgences in this.
+
+145
+00:07:00,000 --> 00:07:08,000
+Some are cute and charming and some you're like, oh, it has been 30, almost 30 years, hasn't it?
+
+146
+00:07:08,000 --> 00:07:18,000
+Well, I mean, some of this stuff is really like what Brent Spiner's character Danny Schlecht does to Gus's ex-wife and his best friend.
+
+147
+00:07:18,000 --> 00:07:19,000
+I think it's very cruel.
+
+148
+00:07:19,000 --> 00:07:20,000
+Yeah.
+
+149
+00:07:20,000 --> 00:07:22,000
+Oh, yes, puts them in a compromising.
+
+150
+00:07:22,000 --> 00:07:23,000
+Yeah.
+
+151
+00:07:23,000 --> 00:07:24,000
+Drugs them.
+
+152
+00:07:24,000 --> 00:07:26,000
+Danny Schlecht drugs them.
+
+153
+00:07:26,000 --> 00:07:27,000
+Drugs them.
+
+154
+00:07:27,000 --> 00:07:29,000
+This is your way in, was the Brent Spiner.
+
+155
+00:07:29,000 --> 00:07:30,000
+You watched the Joker.
+
+156
+00:07:30,000 --> 00:07:31,000
+Scandalous.
+
+157
+00:07:31,000 --> 00:07:38,000
+I also really do remember the Cathy Ireland promo is coming and I remember the scenes from this.
+
+158
+00:07:38,000 --> 00:07:39,000
+Cathy Ireland.
+
+159
+00:07:39,000 --> 00:07:41,000
+Cathy Ireland, yeah.
+
+160
+00:07:41,000 --> 00:07:47,000
+Now that episode, one, could have used a lot more jackal, the Cathy Ireland episode.
+
+161
+00:07:47,000 --> 00:07:53,000
+Also, separate from that, very unpleasant, like a shockingly unpleasant episode.
+
+162
+00:07:53,000 --> 00:07:55,000
+Just that one?
+
+163
+00:07:55,000 --> 00:07:57,000
+No, that one especially.
+
+164
+00:07:57,000 --> 00:08:09,000
+If you've ever been in an environment and someone has dismissed as like, oh, there's a real male energy to that, like as a negative, this episode, I think especially that.
+
+165
+00:08:09,000 --> 00:08:11,000
+I guess.
+
+166
+00:08:11,000 --> 00:08:12,000
+I think it's all.
+
+167
+00:08:12,000 --> 00:08:14,000
+Yeah, it's all the same to me.
+
+168
+00:08:14,000 --> 00:08:16,000
+It's all pretty bad, but this one.
+
+169
+00:08:16,000 --> 00:08:18,000
+You mean because Cathy Ireland is playing like a.
+
+170
+00:08:18,000 --> 00:08:20,000
+The horniest character in fiction.
+
+171
+00:08:20,000 --> 00:08:21,000
+Yeah, sure.
+
+172
+00:08:21,000 --> 00:08:23,000
+Yeah, it's really weird.
+
+173
+00:08:23,000 --> 00:08:24,000
+I don't know.
+
+174
+00:08:24,000 --> 00:08:26,000
+Both guys are kind of skeezy.
+
+175
+00:08:26,000 --> 00:08:27,000
+The whole series.
+
+176
+00:08:27,000 --> 00:08:29,000
+Fighting Cathy Ireland off though.
+
+177
+00:08:29,000 --> 00:08:30,000
+He is.
+
+178
+00:08:30,000 --> 00:08:31,000
+He is.
+
+179
+00:08:31,000 --> 00:08:33,000
+But I.
+
+180
+00:08:33,000 --> 00:08:35,000
+Yeah, but there's no jackal.
+
+181
+00:08:35,000 --> 00:08:36,000
+There's no jackal to balance it.
+
+182
+00:08:36,000 --> 00:08:37,000
+That's the biggest issue.
+
+183
+00:08:37,000 --> 00:08:40,000
+There's a lack of jackal energy is the primary.
+
+184
+00:08:40,000 --> 00:08:41,000
+Yeah.
+
+185
+00:08:41,000 --> 00:08:42,000
+Yeah.
+
+186
+00:08:42,000 --> 00:08:43,000
+He kind of makes it cartoony.
+
+187
+00:08:43,000 --> 00:08:45,000
+Sorry to take us on a tangent.
+
+188
+00:08:45,000 --> 00:08:48,000
+You were explaining the set up to Dr. Gus Lloyd's troubles.
+
+189
+00:08:48,000 --> 00:08:50,000
+It's crucial to know what the.
+
+190
+00:08:50,000 --> 00:08:52,000
+Because I also.
+
+191
+00:08:52,000 --> 00:08:54,000
+Jason and I hadn't seen the show.
+
+192
+00:08:54,000 --> 00:08:56,000
+I also didn't know anything about the show.
+
+193
+00:08:56,000 --> 00:09:01,000
+I didn't know like the general palette and world that it is.
+
+194
+00:09:01,000 --> 00:09:04,000
+And it's all pretty delightful to stumble upon.
+
+195
+00:09:04,000 --> 00:09:07,000
+It's a great premise for a bad 90s show.
+
+196
+00:09:07,000 --> 00:09:08,000
+Yeah.
+
+197
+00:09:08,000 --> 00:09:09,000
+Yeah.
+
+198
+00:09:09,000 --> 00:09:11,000
+So perfect premise for a terrible show.
+
+199
+00:09:11,000 --> 00:09:16,000
+With a really good fake out with a first scene where if you don't know what's going on,
+
+200
+00:09:16,000 --> 00:09:19,000
+you say out loud what the fuck is going on.
+
+201
+00:09:19,000 --> 00:09:20,000
+Yes.
+
+202
+00:09:20,000 --> 00:09:22,000
+I think it sticks that landing pretty well.
+
+203
+00:09:22,000 --> 00:09:24,000
+But let's spoil what's going on.
+
+204
+00:09:24,000 --> 00:09:25,000
+Yeah.
+
+205
+00:09:25,000 --> 00:09:26,000
+Tell us about Dr.
+
+206
+00:09:26,000 --> 00:09:27,000
+Gus.
+
+207
+00:09:27,000 --> 00:09:28,000
+Well, Dr.
+
+208
+00:09:28,000 --> 00:09:32,000
+Gus has created a video game where he's the main character called and his,
+
+209
+00:09:32,000 --> 00:09:36,000
+I guess, avatar or whatever in the game is the Cold Steel Kid.
+
+210
+00:09:36,000 --> 00:09:40,000
+And he has populated this video game with a bunch of bosses,
+
+211
+00:09:40,000 --> 00:09:44,000
+villains that are based on people in his real life.
+
+212
+00:09:44,000 --> 00:09:45,000
+Yes.
+
+213
+00:09:45,000 --> 00:09:50,000
+People have who have, you know, slighted him or like driven him nuts.
+
+214
+00:09:50,000 --> 00:09:55,000
+People like his old garbage man and his his ex mother-in-law.
+
+215
+00:09:55,000 --> 00:09:56,000
+He has a lot of enemies.
+
+216
+00:09:56,000 --> 00:09:58,000
+He has a lot of enemies.
+
+217
+00:09:58,000 --> 00:10:00,000
+For the new, yeah.
+
+218
+00:10:00,000 --> 00:10:07,000
+Do you guys have enough, even do you think you have enough enemies in the world for even a 13 episode,
+
+219
+00:10:07,000 --> 00:10:10,000
+for even a truncated run series?
+
+220
+00:10:10,000 --> 00:10:13,000
+I mean, if we're talking like a minor slights, maybe.
+
+221
+00:10:13,000 --> 00:10:15,000
+Yeah, I guess if you open it up to Dr.
+
+222
+00:10:15,000 --> 00:10:20,000
+Gus's level, which is very pit, he's so anybody qualifies as a villain.
+
+223
+00:10:20,000 --> 00:10:22,000
+Anybody looked at him the wrong way.
+
+224
+00:10:22,000 --> 00:10:26,000
+He's not a particularly sympathetic character,
+
+225
+00:10:26,000 --> 00:10:31,000
+except in the fact that he has the tropings of 90s every man,
+
+226
+00:10:31,000 --> 00:10:34,000
+like a 90s TV. He kind of looks like Kirk Cameron.
+
+227
+00:10:34,000 --> 00:10:40,000
+He wears a lot of button up plaid shirts over white T-shirts with very light jeans.
+
+228
+00:10:40,000 --> 00:10:45,000
+And that was how you communicate like, hey, this person's a regular guy.
+
+229
+00:10:45,000 --> 00:10:50,000
+He's not rich. If he was rich, he'd be in a nice fancy suit like Sebastian Jackal.
+
+230
+00:10:50,000 --> 00:10:51,000
+That's right.
+
+231
+00:10:51,000 --> 00:10:55,000
+You're rooting for obviously it's the guy in the plaid.
+
+232
+00:10:55,000 --> 00:11:03,000
+Of course. So then something goes wrong and all the characters and Sebastian Jackal enter our world.
+
+233
+00:11:03,000 --> 00:11:07,000
+Yes. Well, you need to mention in addition to programming,
+
+234
+00:11:07,000 --> 00:11:19,000
+an incredibly photo realistic game, even more realistic than say, lethal enforcers or revolution X games that like digitized photos and made the move a little.
+
+235
+00:11:19,000 --> 00:11:27,000
+Yeah, like those early Sega CD games that Scottie Pippen basketball game for Sega CD that was like photo, like it was video, but it was still odd.
+
+236
+00:11:27,000 --> 00:11:37,000
+Yeah. So in addition to programming a very advanced video game based on his real life, former lover and enemies,
+
+237
+00:11:37,000 --> 00:11:50,000
+and then essentially a cartoon character, Sebastian Jackal, he was he figured out the solution to perpetual motion or unlimited energy.
+
+238
+00:11:50,000 --> 00:11:53,000
+He did kind of. Yeah. He creates this energy device.
+
+239
+00:11:53,000 --> 00:12:02,000
+Yeah, he's like a brilliant inventor. Yeah. So that's right. Wait, I have it written down that he works for Dr.
+
+240
+00:12:02,000 --> 00:12:16,000
+Judy Chang. He's a grant funded researcher at a university in Los Angeles, and he's trying to create anti-matter via a laser wave that he and his partner, Peter Rucker, have been developing.
+
+241
+00:12:16,000 --> 00:12:24,000
+Yeah, that's his main project. The video game that looks photo realistic, the video game that looks like a 90s syndicated show.
+
+242
+00:12:24,000 --> 00:12:27,000
+Yes. Fully live action where nothing cartoony ever happens.
+
+243
+00:12:27,000 --> 00:12:36,000
+Men will create a photo realistic 90s video game instead of going to therapy.
+
+244
+00:12:36,000 --> 00:12:44,000
+You said you did you just I don't want to spoil this already because this is too early, but did you watch the episode, the end of Jackal?
+
+245
+00:12:44,000 --> 00:12:53,000
+Episode four, episode four. It's the one with you said something in that speech that I thought maybe indicated you didn't know a big reveal.
+
+246
+00:12:53,000 --> 00:12:57,000
+Who's in episode four? How do we it's the one with this?
+
+247
+00:12:57,000 --> 00:13:06,000
+I don't want to spoil it. Yeah, I think I think what I did is I watched one through three jump to five.
+
+248
+00:13:06,000 --> 00:13:09,000
+There's a big spoilers, a big reveal. You actually might not know.
+
+249
+00:13:09,000 --> 00:13:12,000
+Four is maybe the most crucial one.
+
+250
+00:13:12,000 --> 00:13:19,000
+Yeah, I figured out in five because in five they act like the premise of the show is over.
+
+251
+00:13:19,000 --> 00:13:22,000
+They're like, yes, you're the game.
+
+252
+00:13:22,000 --> 00:13:25,000
+We've beaten the game. Jackal has to come back.
+
+253
+00:13:25,000 --> 00:13:28,000
+Yes. And that's why you only get a digitized Jackal.
+
+254
+00:13:28,000 --> 00:13:31,000
+Yeah, yeah. Right. There's a big but I think there's a big thing.
+
+255
+00:13:31,000 --> 00:13:34,000
+I'm glad we get to maybe unleash this on you.
+
+256
+00:13:34,000 --> 00:13:36,000
+No, yeah, I'm not sure. There's a big reveal.
+
+257
+00:13:36,000 --> 00:13:40,000
+We shouldn't say four. There's really two, two big thing.
+
+258
+00:13:40,000 --> 00:13:44,000
+Let's get through everything about Jackal until the turn.
+
+259
+00:13:44,000 --> 00:13:49,000
+A brilliant two mega pieces of information added in that episode.
+
+260
+00:13:49,000 --> 00:13:53,000
+You know, I was just kind of going on my gut and going on the the mini bosses.
+
+261
+00:13:53,000 --> 00:14:00,000
+Yeah, the monster of the week, the bad guy of the week, which is where you get a lot of the big guest stars.
+
+262
+00:14:00,000 --> 00:14:05,000
+Yeah, right. I'm surprised you didn't watch the end of Jackal because it's got Jackal's name in it.
+
+263
+00:14:05,000 --> 00:14:11,000
+I I think I probably glanced over it because so many of the other titles are so generic.
+
+264
+00:14:11,000 --> 00:14:14,000
+Mm hmm. So it was too interesting.
+
+265
+00:14:14,000 --> 00:14:16,000
+It was probably too interesting.
+
+266
+00:14:16,000 --> 00:14:23,000
+And also, like I, I, the YouTube channel was well organized, but in a confusing fashion.
+
+267
+00:14:23,000 --> 00:14:29,000
+Was that crazy? Was there one episode where everything was like mislabeled number one?
+
+268
+00:14:29,000 --> 00:14:33,000
+Like I started clicking because because they don't have the full episodes on.
+
+269
+00:14:33,000 --> 00:14:38,000
+It's like one of four parts and then one of them I was completely out of order.
+
+270
+00:14:38,000 --> 00:14:44,000
+Maybe the Kathy Ireland one. I was maybe I was just confused from watching that one's a two part or two.
+
+271
+00:14:44,000 --> 00:14:46,000
+So maybe that's what it was jumbled there.
+
+272
+00:14:46,000 --> 00:14:50,000
+Can I just maybe we should all say our our viewing journeys.
+
+273
+00:14:50,000 --> 00:14:54,000
+Jason seems like you watched like six of them jumping around.
+
+274
+00:14:54,000 --> 00:15:02,000
+I watched one, two, three, most of five, but didn't finish it because I didn't want to commit to watching part two.
+
+275
+00:15:02,000 --> 00:15:09,000
+Then I jumped to I think seven and then I jumped to twelve and didn't finish it.
+
+276
+00:15:09,000 --> 00:15:13,000
+OK, sure. Twelve is the villain.
+
+277
+00:15:13,000 --> 00:15:17,000
+The villain is a guest star.
+
+278
+00:15:17,000 --> 00:15:22,000
+But then I saw in the thumbnail that Jerry Stiller was also a guest star.
+
+279
+00:15:22,000 --> 00:15:27,000
+But like so many other episodes that could use more Jackal, this could use more Jerry Stiller.
+
+280
+00:15:27,000 --> 00:15:30,000
+Oh, very much so. And it's disappointing that he's not the villain.
+
+281
+00:15:30,000 --> 00:15:32,000
+That's what I was hoping. We all saw it, I'm sure.
+
+282
+00:15:32,000 --> 00:15:34,000
+I clicked him and oh, please. And then he's not.
+
+283
+00:15:34,000 --> 00:15:38,000
+Yeah, the most tantalizing thumbnail nudity would not have been as exciting.
+
+284
+00:15:38,000 --> 00:15:40,000
+Doesn't matter. Yeah, who cares? Jerry Stiller.
+
+285
+00:15:40,000 --> 00:15:45,000
+We were like, oh, God, 90s. I broke the remote.
+
+286
+00:15:45,000 --> 00:15:47,000
+I got to recharge it now.
+
+287
+00:15:47,000 --> 00:15:50,000
+Yeah, yeah, that was very exciting to see that. But yeah, disappointing.
+
+288
+00:15:50,000 --> 00:15:56,000
+My viewing journey is that after getting a sense of the quality of the show,
+
+289
+00:15:56,000 --> 00:16:02,000
+I changed my plan of watching all of them to watching only the Sebastian Jackal scenes.
+
+290
+00:16:02,000 --> 00:16:07,000
+So I have seen every scene that the character Sebastian Jackal,
+
+291
+00:16:07,000 --> 00:16:10,000
+Christopher Lloyd's character on the UPN series, Deadly Games.
+
+292
+00:16:10,000 --> 00:16:14,000
+I've seen every Sebastian Jackal scene that exists.
+
+293
+00:16:14,000 --> 00:16:19,000
+Now, you might want to put an asterisk next to the word scene in what I just said.
+
+294
+00:16:19,000 --> 00:16:27,000
+By the end, it became I was physically present in a room where every Sebastian Jackal scene was on.
+
+295
+00:16:27,000 --> 00:16:33,000
+And I would sort of look up if anything. But once I got a sense of like the pattern of it,
+
+296
+00:16:33,000 --> 00:16:39,000
+like it just the show becomes and look, I really like Sebastian Jackal.
+
+297
+00:16:39,000 --> 00:16:41,000
+Of course. I really like Christopher Lloyd in it.
+
+298
+00:16:41,000 --> 00:16:45,000
+But it kind of becomes all right, every Jackal scene is the same.
+
+299
+00:16:45,000 --> 00:16:50,000
+Essentially, once you've seen one, you've kind of seen them all once in a while.
+
+300
+00:16:50,000 --> 00:16:54,000
+You get at least a visually interesting difference in a Sebastian Jackal scene.
+
+301
+00:16:54,000 --> 00:16:58,000
+Like I completely agree with you. Usually it's the same thing. He's doing his little smile.
+
+302
+00:16:58,000 --> 00:17:04,000
+He's like kind of playing like kind of an old time like charmer kind of a guy kind of.
+
+303
+00:17:04,000 --> 00:17:07,000
+I think the music's also doing a lot of the heavy lifting there.
+
+304
+00:17:07,000 --> 00:17:13,000
+But then once in a while you get Sebastian Jackal in a boat with Shirley Jones drinking champagne,
+
+305
+00:17:13,000 --> 00:17:16,000
+which is fantastic. Well, yes.
+
+306
+00:17:16,000 --> 00:17:21,000
+And I got very excited when I saw the guest star in the second episode was Shirley Jones,
+
+307
+00:17:21,000 --> 00:17:25,000
+Marion the librarian from the movie version of The Music Man.
+
+308
+00:17:25,000 --> 00:17:28,000
+Of course, the Partridge family. Of course. Yes.
+
+309
+00:17:28,000 --> 00:17:34,000
+Yeah. But she is not she is not the ex mother-in-law.
+
+310
+00:17:34,000 --> 00:17:39,000
+She's not the new potential mother-in-law in the first.
+
+311
+00:17:39,000 --> 00:17:42,000
+There's a mother-in-law who's a pain in the ass in the pilot.
+
+312
+00:17:42,000 --> 00:17:48,000
+And then the second episode has a mother-in-law who's cold.
+
+313
+00:17:48,000 --> 00:17:54,000
+Do you see what I'm saying? It's a little it's a little confusing.
+
+314
+00:17:54,000 --> 00:17:59,000
+Yeah. The second episode with Shirley Jones called One Mean Mother.
+
+315
+00:17:59,000 --> 00:18:04,000
+First up, so it's called Kill Shot. Oh, I did kind of a hybrid of what you're talking about.
+
+316
+00:18:04,000 --> 00:18:11,000
+I watched like five or six episodes and then I sort of zoomed through a lot of them to find some Jackal stuff like Shirley Jones.
+
+317
+00:18:11,000 --> 00:18:14,000
+I will admit I didn't end up watching the whole episode,
+
+318
+00:18:14,000 --> 00:18:21,000
+but I did zoom through to see a wonderful scene of just in a little tiny speedboat or with a motor.
+
+319
+00:18:21,000 --> 00:18:24,000
+It had a motor Jackal sipping champagne. Yes.
+
+320
+00:18:24,000 --> 00:18:26,000
+With Shirley Jones. He ships him champagne a lot.
+
+321
+00:18:26,000 --> 00:18:30,000
+Cameo appearance in that one by the Queen Mary. Oh, yeah.
+
+322
+00:18:30,000 --> 00:18:32,000
+Cemented into the ground.
+
+323
+00:18:32,000 --> 00:18:41,000
+There's great focus. Very clearly it's one cruise ship that they've run to get on and then a very different ship that pulls away from the dock, I believe.
+
+324
+00:18:41,000 --> 00:18:46,000
+Oh, that's right. Yeah. The Queen Mary doesn't go anywhere. Hurry, get on the Queen Mary before it leaves.
+
+325
+00:18:46,000 --> 00:18:52,000
+There's a great there's like a the episode, the dentist episode with the evil dentist.
+
+326
+00:18:52,000 --> 00:18:57,000
+There's an exterior and Lindsay was just happy she was not watching any of this, but she just happened to see the screen.
+
+327
+00:18:57,000 --> 00:19:01,000
+And she goes, that's my dentist and everything. It was her dentist's office.
+
+328
+00:19:01,000 --> 00:19:03,000
+Yeah. Whoa. Yeah.
+
+329
+00:19:03,000 --> 00:19:06,000
+There I think Jane did the same thing.
+
+330
+00:19:06,000 --> 00:19:11,000
+She's like, I've gone to that building. It's over. Yeah, it's over. Yeah.
+
+331
+00:19:11,000 --> 00:19:13,000
+It's pretty recognizable, I think.
+
+332
+00:19:13,000 --> 00:19:21,000
+If you've been over there at all, I will say I explained the premise to Jane and she joined me watching one random middle episode.
+
+333
+00:19:21,000 --> 00:19:23,000
+It might have been the Kathy Ireland episode.
+
+334
+00:19:23,000 --> 00:19:28,000
+And she her reaction was just like, what is this? Yeah. What is going on?
+
+335
+00:19:28,000 --> 00:19:32,000
+And that is the one with the least jackal, it seems like.
+
+336
+00:19:32,000 --> 00:19:37,000
+So I didn't even like all that. I was like, oh, look, he's on the screen. He's on the screen.
+
+337
+00:19:37,000 --> 00:19:39,000
+But OK, let's let's see.
+
+338
+00:19:39,000 --> 00:19:47,000
+And then I think we watched a little of the I guess it would be the dentist one together, which has more jackal or the garbage man one.
+
+339
+00:19:48,000 --> 00:20:00,000
+Aaron's reaction to this mainly was at some point yesterday as I was rounding the corner to like episode 11, she walked by and said, I feel like you've been watching the show for three months.
+
+340
+00:20:00,000 --> 00:20:07,000
+Me too. I'm not even watching sporadic scenes. I just really slowed down.
+
+341
+00:20:07,000 --> 00:20:10,000
+I think a lot of the money is in is in the beginning.
+
+342
+00:20:10,000 --> 00:20:18,000
+And I think it's fair to primarily focus on on jackal jackal by by leaps and bounds.
+
+343
+00:20:18,000 --> 00:20:20,000
+The best part. Yeah. Yeah.
+
+344
+00:20:20,000 --> 00:20:23,000
+And I guess I should say it since I haven't watched literally every frame of it.
+
+345
+00:20:23,000 --> 00:20:28,000
+But I will say that the Danny Schlecht Brent Spiner episode is very good.
+
+346
+00:20:28,000 --> 00:20:32,000
+It's the best episode, I think that I saw right when you were did you see?
+
+347
+00:20:32,000 --> 00:20:34,000
+Did you watch Danny? I did. Yes.
+
+348
+00:20:34,000 --> 00:20:35,000
+He's got a lot to do.
+
+349
+00:20:35,000 --> 00:20:38,000
+He is he plays multiple like versions of himself.
+
+350
+00:20:38,000 --> 00:20:41,000
+Yeah, he seems like he's having a great time.
+
+351
+00:20:41,000 --> 00:20:49,000
+He seems like he took what he was given and ran with it and is like putting more like zhuzh more character in it.
+
+352
+00:20:49,000 --> 00:20:53,000
+And most other actors are. Did you see this episode?
+
+353
+00:20:53,000 --> 00:20:56,000
+I was this was I was starting to tap out.
+
+354
+00:20:56,000 --> 00:20:59,000
+I don't want it to be a Danny. I don't want it to be a Danny Schlecht episode.
+
+355
+00:20:59,000 --> 00:21:01,000
+It's a special. That'll be its own.
+
+356
+00:21:01,000 --> 00:21:07,000
+But Danny Schlecht, when he's finished doing something like finished completing his evil plan, he like kind of looks at the camera.
+
+357
+00:21:07,000 --> 00:21:09,000
+There's maybe a wide angle lens.
+
+358
+00:21:09,000 --> 00:21:14,000
+So he looks a little distorted and he goes, My work here is done.
+
+359
+00:21:14,000 --> 00:21:25,000
+And they also definitely when he's the bad guy, they definitely they make him up when he's like on the phone, when he's like the actual person it's based on.
+
+360
+00:21:25,000 --> 00:21:27,000
+Yeah. They make him look very normal.
+
+361
+00:21:27,000 --> 00:21:31,000
+And when he's the bad guy, they make him look a little like data.
+
+362
+00:21:31,000 --> 00:21:38,000
+Like, well, like, like, if we're going to be really accurate, like data's brother, Lour, who is evil.
+
+363
+00:21:38,000 --> 00:21:41,000
+Oh, of course. Sure. All right.
+
+364
+00:21:41,000 --> 00:21:44,000
+I get more actually what you're saying.
+
+365
+00:21:44,000 --> 00:21:47,000
+I love you would love Lour. Everyone here would love Lour.
+
+366
+00:21:47,000 --> 00:21:48,000
+You would love Lour. You would love Lour.
+
+367
+00:21:48,000 --> 00:21:54,000
+By the way, whoever I mean, I know some of the people involved in making this, whoever did it are huge Star Trek fans.
+
+368
+00:21:54,000 --> 00:22:04,000
+And I'm not just because it's LeVar Burton on one episode and what could Brent Spiner, the guy who played Barkley on Star Trek The Next Generation is on this and his name is Dwight Schultz.
+
+369
+00:22:04,000 --> 00:22:08,000
+Well, we should say Leonard Nimoy directed the pilot.
+
+370
+00:22:08,000 --> 00:22:15,000
+Yes. And as a producer and then Adam Nimoy directed another one as well.
+
+371
+00:22:15,000 --> 00:22:18,000
+Yeah. Yeah. Heavy Nimoy involved.
+
+372
+00:22:18,000 --> 00:22:26,000
+Even the is not Christopher Lloyd part of the franchise via Star Trek 3. Is that correct?
+
+373
+00:22:26,000 --> 00:22:29,000
+You mean directing? No, Christopher Lloyd's in it.
+
+374
+00:22:29,000 --> 00:22:33,000
+Oh, yes. Yes. Sorry. Sorry. Blanked out. Yeah. Yeah. Klingon. Yeah.
+
+375
+00:22:33,000 --> 00:22:44,000
+So it's all so this I feel like there was a clear directive from UPN to give us a side product, something with a little bit of Star Trek magic.
+
+376
+00:22:44,000 --> 00:22:49,000
+Yes, we can't make another we can't afford another Star Trek show.
+
+377
+00:22:49,000 --> 00:22:54,000
+But if just give us something that we could kind of at least pair with it or cross promote. Right.
+
+378
+00:22:54,000 --> 00:23:01,000
+There were some promos. I forget if I saw this within a Deadly Games episode or if it was a separate thing.
+
+379
+00:23:01,000 --> 00:23:07,000
+I was curious, like the general climate of UPN besides this in 1995.
+
+380
+00:23:07,000 --> 00:23:16,000
+If we haven't said that's when this aired. Not the very this wasn't one of the deadly games was not an inaugural UPN show, but it was one of the first.
+
+381
+00:23:16,000 --> 00:23:22,000
+Yeah. Really in the launch, the proud history of this great network that RIP is no longer with us.
+
+382
+00:23:22,000 --> 00:23:29,000
+But or did it call is it called something else? Is there a UPN? Well, UPN and WB merged to be CW. Oh, yeah.
+
+383
+00:23:29,000 --> 00:23:39,000
+And is part of CW. OK. And this is early enough that like so it airs the fall into the fall of 95 into the start of 96.
+
+384
+00:23:39,000 --> 00:23:49,000
+One of the episodes the credits are playing and the announcer goes, you know, tomorrow, tune in for the comedy event of 1996, the premiere of the new show, Moesha.
+
+385
+00:23:49,000 --> 00:23:57,000
+And like huge hit for UPN. One of their on their way to find it. Finally, what it was a big hit. Yeah.
+
+386
+00:23:57,000 --> 00:24:02,000
+Interesting. But until then, they're fishing and they're trying to throw out other things.
+
+387
+00:24:02,000 --> 00:24:08,000
+There's one show they had one show called with the inexplicable title Platypus Man. Oh, yeah.
+
+388
+00:24:08,000 --> 00:24:20,000
+I remember Platypus Man. Platypus Man was not you hear it and you think is this going to be some sort of like pre the tick like funny oddball superhero show?
+
+389
+00:24:20,000 --> 00:24:37,000
+But no, it's based on the standup comedy of Richard Jeni, who has had a bit about male platypuses being solitary and comparing current 90s male every man living to that of a platypus.
+
+390
+00:24:37,000 --> 00:24:51,000
+Looks like the boring thing ever. And then platypus man would be paired with something called pigsty and pigsty was a show about four slobs living with a hot girl in a messy apartment.
+
+391
+00:24:51,000 --> 00:25:01,000
+And I bring up pigsty because I found a promo for it where at the beginning of the promo, they say, got those post Voyager blues.
+
+392
+00:25:01,000 --> 00:25:06,000
+Check out big style and then some unfunny shots of pigsty.
+
+393
+00:25:06,000 --> 00:25:11,000
+Like, that's interesting. They're totally framing it as like, all right, if you're here for Voyager, then stick around for pigsty.
+
+394
+00:25:11,000 --> 00:25:23,000
+And then at the end of it, then a blues singer comes on and sings. So go on, put on pigsty for those post Voyager blues.
+
+395
+00:25:24,000 --> 00:25:32,000
+That guy singing a song about what is coming up next. That was a marketing gimmick in the 90s.
+
+396
+00:25:32,000 --> 00:25:34,000
+Like a lot of them. Yeah.
+
+397
+00:25:34,000 --> 00:25:37,000
+Stick around for meta buddy.
+
+398
+00:25:37,000 --> 00:25:43,000
+There's always white blues singers had to be that or maybe like kind of New Orleans.
+
+399
+00:25:43,000 --> 00:25:44,000
+Michigan J. Frog.
+
+400
+00:25:44,000 --> 00:25:45,000
+Oh, yes.
+
+401
+00:25:45,000 --> 00:25:50,000
+Yes, that was in the same family. I watch unhappily ever after.
+
+402
+00:25:50,000 --> 00:25:54,000
+But that's one of the it's one of the weirdest things ever sung.
+
+403
+00:25:54,000 --> 00:25:58,000
+Watch pigsty for the post Voyager blues.
+
+404
+00:25:58,000 --> 00:26:02,000
+So every so all like all roads pointed to Voyager.
+
+405
+00:26:02,000 --> 00:26:03,000
+Yeah, yeah.
+
+406
+00:26:03,000 --> 00:26:05,000
+That was the one thing I'm looking in pigsty.
+
+407
+00:26:05,000 --> 00:26:11,000
+One of the episodes titled one of the episodes is titled Aaron go barf.
+
+408
+00:26:11,000 --> 00:26:21,000
+That is not the first time I have heard Aaron go bra turned into like Aaron go bras, you know, like some sort of bad.
+
+409
+00:26:21,000 --> 00:26:28,000
+And sitcom titles. If you go back and read sitcom titles throughout the it's really kind of bleak.
+
+410
+00:26:28,000 --> 00:26:31,000
+They're either just nothing or it's like I don't know.
+
+411
+00:26:31,000 --> 00:26:43,000
+I don't know. Simpsons had good titles. If you go, if you had the book, a guide to our favorite family and the multiple other volumes that had to follow it that were significantly skinnier.
+
+412
+00:26:43,000 --> 00:26:45,000
+Yeah, yeah, yeah. Yeah.
+
+413
+00:26:45,000 --> 00:26:47,000
+They had some fun titles.
+
+414
+00:26:47,000 --> 00:26:52,000
+The picture of like the promos with the like metal behind it is really rich.
+
+415
+00:26:52,000 --> 00:26:54,000
+Richard fonts throughout.
+
+416
+00:26:54,000 --> 00:26:55,000
+Yeah.
+
+417
+00:26:55,000 --> 00:27:03,000
+Yeah, here's, here's my other little bits of UPN context just for the just to paint the picture what deadly games landed in.
+
+418
+00:27:03,000 --> 00:27:07,000
+So, Jason, you said Tuesdays at eight. This was opposite Roseanne.
+
+419
+00:27:07,000 --> 00:27:09,000
+That's where this had to air.
+
+420
+00:27:09,000 --> 00:27:11,000
+Of course, it did not go well.
+
+421
+00:27:11,000 --> 00:27:15,000
+It landed at number 100 in the ratings.
+
+422
+00:27:15,000 --> 00:27:25,000
+And in 1995, if you were at number 100, that means that only only a pitiful 2.8 million people on watched your show.
+
+423
+00:27:25,000 --> 00:27:32,000
+That was an average episode of the 2.8 million people saw Sebastian Jackal every week.
+
+424
+00:27:32,000 --> 00:27:41,000
+If I could put this next to my favorite fact about TV viewing that I've learned recently, you guys are familiar with the Apple show, The Problem with Jon Stewart.
+
+425
+00:27:41,000 --> 00:27:42,000
+I am familiar.
+
+426
+00:27:42,000 --> 00:27:46,000
+He is bad. John's back. He's back. He's taken everybody to task once more.
+
+427
+00:27:46,000 --> 00:27:54,000
+And you know how many people watch a not the beginning, but like the seventh episode of The Problem with Jon Stewart.
+
+428
+00:27:54,000 --> 00:28:01,000
+They magically a streaming service released a number and it lets you know why they don't ever do this.
+
+429
+00:28:01,000 --> 00:28:03,000
+I want to take a guess how many people watch.
+
+430
+00:28:03,000 --> 00:28:04,000
+75,000.
+
+431
+00:28:04,000 --> 00:28:05,000
+Mike, 75.
+
+432
+00:28:05,000 --> 00:28:08,000
+I'm going to say 150,000.
+
+433
+00:28:08,000 --> 00:28:12,000
+Mike is closer because the answer is 40,000.
+
+434
+00:28:12,000 --> 00:28:14,000
+Mine was a joke response.
+
+435
+00:28:14,000 --> 00:28:15,000
+You were almost double.
+
+436
+00:28:15,000 --> 00:28:17,000
+I did a joke answer.
+
+437
+00:28:17,000 --> 00:28:19,000
+You might have noticed I didn't laugh at it.
+
+438
+00:28:19,000 --> 00:28:20,000
+I did know.
+
+439
+00:28:20,000 --> 00:28:21,000
+It was even worse.
+
+440
+00:28:21,000 --> 00:28:23,000
+I thought it'd be like 250 or something.
+
+441
+00:28:23,000 --> 00:28:24,000
+No 40.
+
+442
+00:28:24,000 --> 00:28:32,000
+And now people watch the clips online, but 40,000 Gen X NYU grads are loving episode seven.
+
+443
+00:28:32,000 --> 00:28:38,000
+How many of those is episode seven where he begs Bob Iger to start a news network?
+
+444
+00:28:38,000 --> 00:28:40,000
+Because I did see that.
+
+445
+00:28:40,000 --> 00:28:48,000
+Why does that always happen where it's like, take your money and make a truth telling servant like and it's never.
+
+446
+00:28:48,000 --> 00:28:54,000
+Well, tax right off after the like, go handsome billionaire to do it.
+
+447
+00:28:54,000 --> 00:29:00,000
+Chris Evans is assembling moderates of all parties to really get to the heart of God.
+
+448
+00:29:00,000 --> 00:29:01,000
+No.
+
+449
+00:29:01,000 --> 00:29:12,000
+So anyway, the audience of every appearance of Sebastian Jackal was 70 times that of Jon Stewart in 2022.
+
+450
+00:29:12,000 --> 00:29:13,000
+Wow.
+
+451
+00:29:13,000 --> 00:29:15,000
+Jackal versus Stewart.
+
+452
+00:29:15,000 --> 00:29:16,000
+Jackal wins.
+
+453
+00:29:16,000 --> 00:29:18,000
+Sorry, kid.
+
+454
+00:29:18,000 --> 00:29:21,000
+This is not your moment of Zen.
+
+455
+00:29:24,000 --> 00:29:31,000
+Jackal is like a character who wandered in from a better show.
+
+456
+00:29:31,000 --> 00:29:32,000
+Yeah, completely.
+
+457
+00:29:32,000 --> 00:29:33,000
+Yeah.
+
+458
+00:29:33,000 --> 00:29:37,000
+Imagine a show where everybody's like as fun as it dressed as fun as him.
+
+459
+00:29:37,000 --> 00:29:44,000
+He just and I feel like Christopher Lloyd is taking it easy to like he's he's at the point in his career.
+
+460
+00:29:44,000 --> 00:29:47,000
+At the point in his career where he knows what he's good at.
+
+461
+00:29:47,000 --> 00:29:50,000
+He's and he this must have been a nice gig.
+
+462
+00:29:50,000 --> 00:29:54,000
+I'm not saying a nice payday, but you show up same costume every week.
+
+463
+00:29:54,000 --> 00:29:58,000
+You probably work two days a week because he is not in a lot of scenes.
+
+464
+00:29:58,000 --> 00:30:00,000
+I think less and less as it went on.
+
+465
+00:30:00,000 --> 00:30:01,000
+Less and less.
+
+466
+00:30:01,000 --> 00:30:04,000
+You show up in like a desk chair.
+
+467
+00:30:04,000 --> 00:30:05,000
+You turn around in a desk chair.
+
+468
+00:30:05,000 --> 00:30:10,000
+You pull up in your big old white car, your fancy Studebaker or whatever.
+
+469
+00:30:10,000 --> 00:30:14,000
+And you go like, better luck next time, kiddos.
+
+470
+00:30:14,000 --> 00:30:18,000
+And then you drive away at five miles an hour.
+
+471
+00:30:18,000 --> 00:30:22,000
+Jason's watching this going, oh, this job.
+
+472
+00:30:22,000 --> 00:30:23,000
+Oh, what a wonderful job.
+
+473
+00:30:23,000 --> 00:30:31,000
+I would kill to show up, choose some scenery and an all white suit, drink like ginger ale and a champagne flute.
+
+474
+00:30:31,000 --> 00:30:33,000
+And, you know, go home.
+
+475
+00:30:33,000 --> 00:30:35,000
+So we got to think of one for Jason.
+
+476
+00:30:35,000 --> 00:30:36,000
+Show runners.
+
+477
+00:30:37,000 --> 00:30:44,000
+Like you just go a little like what's a fancy stuffy name like you you for me.
+
+478
+00:30:44,000 --> 00:30:47,000
+These and what's a scary animal?
+
+479
+00:30:47,000 --> 00:30:49,000
+Oh, Wolverine.
+
+480
+00:30:49,000 --> 00:30:51,000
+You you for me.
+
+481
+00:30:51,000 --> 00:30:54,000
+He's Wolverine.
+
+482
+00:30:54,000 --> 00:30:55,000
+I'll take it.
+
+483
+00:30:55,000 --> 00:30:56,000
+I love it.
+
+484
+00:30:56,000 --> 00:30:57,000
+And then some lame.
+
+485
+00:30:57,000 --> 00:31:02,000
+Oh, like, you know, like sorry, Dr.
+
+486
+00:31:02,000 --> 00:31:12,000
+Frank's, but this it's the day I'm not going to write it for like your electric car is never going to get off the ground.
+
+487
+00:31:12,000 --> 00:31:13,000
+That's great.
+
+488
+00:31:13,000 --> 00:31:14,000
+Yeah.
+
+489
+00:31:14,000 --> 00:31:17,000
+There's a power or maybe raw like raw.
+
+490
+00:31:17,000 --> 00:31:18,000
+Come on, Pop TV.
+
+491
+00:31:18,000 --> 00:31:20,000
+Let's make this happen.
+
+492
+00:31:20,000 --> 00:31:21,000
+Yeah.
+
+493
+00:31:21,000 --> 00:31:22,000
+Still going.
+
+494
+00:31:22,000 --> 00:31:23,000
+I think so.
+
+495
+00:31:23,000 --> 00:31:24,000
+OK.
+
+496
+00:31:24,000 --> 00:31:25,000
+Probably somehow.
+
+497
+00:31:25,000 --> 00:31:27,000
+I think I just Schitt's Creek.
+
+498
+00:31:27,000 --> 00:31:29,000
+Twenty two hours a day.
+
+499
+00:31:29,000 --> 00:31:34,000
+It's sure that Schitt's Creek is like you be UPN's Voyager.
+
+500
+00:31:34,000 --> 00:31:38,000
+It's the same thing where that's sort of like it's great.
+
+501
+00:31:38,000 --> 00:31:45,000
+So let's just those are some let's just say some basic stuff about Jack.
+
+502
+00:31:45,000 --> 00:31:46,000
+Oh, we talked about.
+
+503
+00:31:46,000 --> 00:31:47,000
+So there's the car.
+
+504
+00:31:47,000 --> 00:31:49,000
+He's always it's always suit.
+
+505
+00:31:49,000 --> 00:31:55,000
+He kind of looks like the author Tom Wolf, writer of Bonfire Vanities.
+
+506
+00:31:55,000 --> 00:31:56,000
+Yeah.
+
+507
+00:31:56,000 --> 00:31:57,000
+Very slick.
+
+508
+00:31:57,000 --> 00:32:01,000
+And then that's kind of nicely paired with there's always there's a lot of cigars.
+
+509
+00:32:01,000 --> 00:32:03,000
+There's a lot of champagne.
+
+510
+00:32:03,000 --> 00:32:14,000
+In fact, when he first appears, it were not at first appears, but when he first goes into the real world, he steps off the screen as if in a much cheaper Stargate.
+
+511
+00:32:14,000 --> 00:32:19,000
+He's much, much, much cheaper steps into our world.
+
+512
+00:32:19,000 --> 00:32:23,000
+But then goes back, grabs that glass of champagne.
+
+513
+00:32:23,000 --> 00:32:26,000
+He's not going to let one drop of champagne go to waste.
+
+514
+00:32:26,000 --> 00:32:28,000
+So I'm digging this guy.
+
+515
+00:32:28,000 --> 00:32:30,000
+But he's the first character you see.
+
+516
+00:32:30,000 --> 00:32:31,000
+Yeah.
+
+517
+00:32:31,000 --> 00:32:35,000
+In the in the pilot, his first character, you see the first character you hear.
+
+518
+00:32:35,000 --> 00:32:36,000
+Yes. Yeah.
+
+519
+00:32:36,000 --> 00:32:46,000
+When you're sort of in video game world more, he means he's the epitome of class, I would say extremely charming.
+
+520
+00:32:46,000 --> 00:32:47,000
+I agree.
+
+521
+00:32:48,000 --> 00:32:57,000
+He has a cane like a very thin cane and he can just like do quick blasts of explosions.
+
+522
+00:32:57,000 --> 00:32:58,000
+Fire.
+
+523
+00:32:58,000 --> 00:32:59,000
+Yeah. Yeah.
+
+524
+00:32:59,000 --> 00:33:00,000
+Well, fireballs.
+
+525
+00:33:00,000 --> 00:33:02,000
+That's cool. Can kind of do without even thinking about it.
+
+526
+00:33:02,000 --> 00:33:03,000
+It's just pointed behind him.
+
+527
+00:33:03,000 --> 00:33:06,000
+Got some people behind him causing some trouble.
+
+528
+00:33:06,000 --> 00:33:07,000
+Poof.
+
+529
+00:33:07,000 --> 00:33:14,000
+He's presented as like some sort of a homicidal maniac, but he doesn't really like kill that many.
+
+530
+00:33:14,000 --> 00:33:15,000
+He's not really.
+
+531
+00:33:15,000 --> 00:33:18,000
+He seems pretty benign and honestly.
+
+532
+00:33:18,000 --> 00:33:19,000
+Yeah.
+
+533
+00:33:19,000 --> 00:33:22,000
+They make it sound like he's like, oh, you should fear him.
+
+534
+00:33:22,000 --> 00:33:28,000
+And he is a master manipulator and he can kind of just materialize or like appear.
+
+535
+00:33:28,000 --> 00:33:38,000
+In reality, it's just like, yeah, he just kind of walks into this screen, walks onto the screen, but he doesn't use the powers to like, OK, Dr.
+
+536
+00:33:38,000 --> 00:33:39,000
+Gus, we just asleep.
+
+537
+00:33:39,000 --> 00:33:41,000
+We're going to beat the shit out of it.
+
+538
+00:33:41,000 --> 00:33:42,000
+Yeah.
+
+539
+00:33:42,000 --> 00:33:45,000
+And he's also he's got the Joker thing with Gus law.
+
+540
+00:33:45,000 --> 00:33:46,000
+I mean, Gus, Dr.
+
+541
+00:33:46,000 --> 00:33:51,000
+Gus Lloyd is like Batman and Sebastian Jackal's like the Joker, even though they're Brent Spiner's playing a Joker.
+
+542
+00:33:51,000 --> 00:33:58,000
+That's not don't get confused in the sense that Jackal wants to do this forever.
+
+543
+00:33:58,000 --> 00:34:06,000
+He wants to continue this endless dance between Gus and himself because he helps defeat Danny Schlecht in the episode.
+
+544
+00:34:06,000 --> 00:34:09,000
+So he's not above helping Gus is what I'm saying.
+
+545
+00:34:09,000 --> 00:34:11,000
+So I know he's a villain.
+
+546
+00:34:11,000 --> 00:34:12,000
+He's a villain.
+
+547
+00:34:12,000 --> 00:34:13,000
+He's the big bad guy.
+
+548
+00:34:13,000 --> 00:34:14,000
+He's kind of not.
+
+549
+00:34:14,000 --> 00:34:18,000
+I kind of feel like he likes the cat and mouse game continuing between him and Dr.
+
+550
+00:34:18,000 --> 00:34:19,000
+Gus Lloyd.
+
+551
+00:34:19,000 --> 00:34:20,000
+Yeah, I think that's right.
+
+552
+00:34:20,000 --> 00:34:25,000
+Of course, because Danny Schlecht was programmed into the game by the real Danny Schlecht.
+
+553
+00:34:25,000 --> 00:34:27,000
+Well, Jason, that's a yes, of course.
+
+554
+00:34:27,000 --> 00:34:28,000
+That's a big reveal.
+
+555
+00:34:28,000 --> 00:34:29,000
+That's a big reveal.
+
+556
+00:34:29,000 --> 00:34:30,000
+So it's a henchman.
+
+557
+00:34:30,000 --> 00:34:34,000
+But I feel like that's a doctor that Sebastian Jackal doesn't have control.
+
+558
+00:34:34,000 --> 00:34:40,000
+We have to explain, of course, that like they don't know where this character came from because this is a it looks like this guy, Danny Schlecht.
+
+559
+00:34:40,000 --> 00:34:42,000
+And it's how could this be a character in the game?
+
+560
+00:34:42,000 --> 00:34:44,000
+They didn't program this in the game.
+
+561
+00:34:44,000 --> 00:34:46,000
+So how is this part of it?
+
+562
+00:34:46,000 --> 00:34:49,000
+When all the other villains were programmed, programmed, Gus Lloyd.
+
+563
+00:34:49,000 --> 00:34:50,000
+Right.
+
+564
+00:34:50,000 --> 00:34:51,000
+So so so Dr.
+
+565
+00:34:51,000 --> 00:34:56,000
+Gus Lloyd sees this guy looks just like his friend, Danny Schlecht, and he goes, you're Danny Schlecht, aren't you?
+
+566
+00:34:56,000 --> 00:34:57,000
+And he goes, no, I'm not Danny Schlecht.
+
+567
+00:34:57,000 --> 00:35:01,000
+And it's Brent Spiner doing a different like a nerd voice now because he's pretending to be a handyman.
+
+568
+00:35:01,000 --> 00:35:08,000
+His other genius friend who likes to torture him, which like, you know, he mails his house keys to Iraq.
+
+569
+00:35:09,000 --> 00:35:11,000
+Is a big practical joker.
+
+570
+00:35:11,000 --> 00:35:22,000
+So finally it's revealed in the episode when he finally talks to the real Danny Schlecht, which is Brent Spiner dressed up like Michael Douglas on wall in Wall Street or like or whatever.
+
+571
+00:35:22,000 --> 00:35:23,000
+That's the movie, right?
+
+572
+00:35:23,000 --> 00:35:24,000
+He's in Wall Street.
+
+573
+00:35:24,000 --> 00:35:29,000
+Yeah. But then he there is another character later on when like Dr.
+
+574
+00:35:29,000 --> 00:35:32,000
+Gus Lloyd's house is going to be repossessed.
+
+575
+00:35:32,000 --> 00:35:35,000
+Yes, that looks that is dressed just like Danny Schlecht.
+
+576
+00:35:35,000 --> 00:35:36,000
+Yes, but it's not related.
+
+577
+00:35:36,000 --> 00:35:40,000
+So I just wanted to real quick say that Danny Schlecht reveals to Dr.
+
+578
+00:35:40,000 --> 00:35:53,000
+Gus Lloyd that a couple of weeks ago, months ago when he was sitting in Danny Schlecht's lab waiting for him, he decided to just program a character into the video game himself that looks like he had that ability.
+
+579
+00:35:53,000 --> 00:36:02,000
+Yes, he knew enough of the specific coding language of the video game that looks like a 90s syndicated show filmed in reality.
+
+580
+00:36:02,000 --> 00:36:03,000
+Yes, exactly.
+
+581
+00:36:03,000 --> 00:36:04,000
+That's what he reveals.
+
+582
+00:36:04,000 --> 00:36:05,000
+He's a perfect version of him.
+
+583
+00:36:05,000 --> 00:36:08,000
+So multiple perfect versions of himself into the game.
+
+584
+00:36:08,000 --> 00:36:11,000
+And he's like, I can't believe it took you this long to find it.
+
+585
+00:36:11,000 --> 00:36:12,000
+Come on, man.
+
+586
+00:36:12,000 --> 00:36:15,000
+That's because he's a practical joker.
+
+587
+00:36:15,000 --> 00:36:19,000
+He's a practical joker, but he's a different kind of like sleazy buddy.
+
+588
+00:36:19,000 --> 00:36:20,000
+Yeah.
+
+589
+00:36:20,000 --> 00:36:25,000
+Than Peter, the other Grant based scientist.
+
+590
+00:36:25,000 --> 00:36:26,000
+Yes.
+
+591
+00:36:26,000 --> 00:36:27,000
+There's a regular on the show.
+
+592
+00:36:27,000 --> 00:36:28,000
+Peter Rucker.
+
+593
+00:36:28,000 --> 00:36:29,000
+Dr. Peter Rucker.
+
+594
+00:36:29,000 --> 00:36:30,000
+Yeah, Dr. Peter Rucker.
+
+595
+00:36:30,000 --> 00:36:34,000
+And they do go into the like, well, this is true.
+
+596
+00:36:34,000 --> 00:36:35,000
+What else is true?
+
+597
+00:36:35,000 --> 00:36:38,000
+They're going to have to re up that grant at some point.
+
+598
+00:36:38,000 --> 00:36:51,000
+And the Dr. Gus Lewis money guy or landlord or bank man, I don't know what his relationship was, is going to start asking questions like you're spending a lot of money recently.
+
+599
+00:36:52,000 --> 00:36:59,000
+Like they do analyze like, I kind of like this, that they're like, well, how are you doing all this stuff?
+
+600
+00:36:59,000 --> 00:37:01,000
+How are you affording this?
+
+601
+00:37:01,000 --> 00:37:02,000
+You like that the notion?
+
+602
+00:37:02,000 --> 00:37:10,000
+I kind of like that they acknowledge that like if you have to fight a supervillain, you have to, you know, fund it out of pocket.
+
+603
+00:37:10,000 --> 00:37:11,000
+I thought you liked it.
+
+604
+00:37:11,000 --> 00:37:18,000
+Just the element of like there's a Mr. Mooney on the show, like from the Lucy show where he would like be like, Lucille, you're spending too much money again.
+
+605
+00:37:18,000 --> 00:37:25,000
+Yeah, some of the real villain of this show is Dr. Gus Lloyd's financial irresponsibility.
+
+606
+00:37:25,000 --> 00:37:26,000
+That's true.
+
+607
+00:37:26,000 --> 00:37:30,000
+Should we make flashcards for the audience and send them?
+
+608
+00:37:30,000 --> 00:37:31,000
+Maybe.
+
+609
+00:37:31,000 --> 00:37:37,000
+Do we have time before the episode comes out to send flashcards in the mail so that everyone can learn all of these?
+
+610
+00:37:37,000 --> 00:37:38,000
+Follow along here.
+
+611
+00:37:38,000 --> 00:37:39,000
+True.
+
+612
+00:37:39,000 --> 00:37:43,000
+We'll send them yarn as well so they can draw connections between.
+
+613
+00:37:43,000 --> 00:37:47,000
+We have to send them multiple cards of Schlecht, Danny Schlecht.
+
+614
+00:37:47,000 --> 00:37:53,000
+Because if you're looking at Danny Schlecht card number one, that doesn't tell you the whole Danny Schlecht story.
+
+615
+00:37:53,000 --> 00:37:54,000
+No, it does not.
+
+616
+00:37:54,000 --> 00:37:56,000
+You're going to encounter multiple Danny Schlecht's.
+
+617
+00:37:56,000 --> 00:37:57,000
+Mm hmm.
+
+618
+00:37:57,000 --> 00:37:58,000
+Yes, correct.
+
+619
+00:37:58,000 --> 00:37:59,000
+Yeah, I think that's we're going to do our best.
+
+620
+00:37:59,000 --> 00:38:02,000
+We may not be able to get them out in time.
+
+621
+00:38:02,000 --> 00:38:03,000
+So back to Jack.
+
+622
+00:38:03,000 --> 00:38:05,000
+Back to Jackal, of course.
+
+623
+00:38:05,000 --> 00:38:14,000
+Jackal says, I think in that Danny Schlecht episode, just help illustrate my point about Batman and the Joker with Jackal and Lloyd.
+
+624
+00:38:14,000 --> 00:38:16,000
+Prove that Jackal is the Joker.
+
+625
+00:38:16,000 --> 00:38:22,000
+And he says, I mean, he says to, he explains why he has defeated Danny Schlecht for them.
+
+626
+00:38:22,000 --> 00:38:27,000
+And he says, there's room for only one CEO on the board of Jackal land.
+
+627
+00:38:30,000 --> 00:38:33,000
+You know, he wants to be that top dog and he wants to always be.
+
+628
+00:38:33,000 --> 00:38:34,000
+He likes that.
+
+629
+00:38:34,000 --> 00:38:35,000
+Yeah.
+
+630
+00:38:35,000 --> 00:38:41,000
+This is this is kind of seeded throughout that Jackal wants to recreate our world in his image.
+
+631
+00:38:41,000 --> 00:38:44,000
+The phrase Jackal land said another time.
+
+632
+00:38:44,000 --> 00:38:46,000
+That's what he wants the world to.
+
+633
+00:38:46,000 --> 00:38:47,000
+Yeah.
+
+634
+00:38:47,000 --> 00:38:53,000
+If you're wondering what his plan is in episode one, Dr.
+
+635
+00:38:53,000 --> 00:39:00,000
+Gus, who programmed him, knows what the plan, how bad it could get because his ex-wife says, what's he want to do?
+
+636
+00:39:00,000 --> 00:39:04,000
+And he says, level by level, people will die.
+
+637
+00:39:04,000 --> 00:39:08,000
+Cities will burn and Jackal will eventually rule a lifeless planet.
+
+638
+00:39:08,000 --> 00:39:09,000
+Yeah.
+
+639
+00:39:09,000 --> 00:39:13,000
+He's really into the garbage truck and smoke stacks.
+
+640
+00:39:13,000 --> 00:39:18,000
+He really wants to just roast and waste, even though he wears an all white ensemble.
+
+641
+00:39:18,000 --> 00:39:19,000
+Right.
+
+642
+00:39:19,000 --> 00:39:20,000
+Surely get dirty.
+
+643
+00:39:20,000 --> 00:39:21,000
+Yeah.
+
+644
+00:39:21,000 --> 00:39:23,000
+If there's no life, who's going to clean your suit?
+
+645
+00:39:23,000 --> 00:39:26,000
+There's one episode where he's out by like by a playground.
+
+646
+00:39:26,000 --> 00:39:27,000
+Oh yeah.
+
+647
+00:39:27,000 --> 00:39:30,000
+Because he's going to do something like set the playground on fire or something.
+
+648
+00:39:30,000 --> 00:39:32,000
+And then what's her name?
+
+649
+00:39:32,000 --> 00:39:35,000
+Like uses the ice cream truck to lure all the kids.
+
+650
+00:39:35,000 --> 00:39:36,000
+She says, like, oh, free ice cream.
+
+651
+00:39:36,000 --> 00:39:37,000
+Oh, Lauren Ambrose.
+
+652
+00:39:37,000 --> 00:39:40,000
+Lauren Ambrose says free ice cream.
+
+653
+00:39:40,000 --> 00:39:42,000
+Gus Lloyd's ex-wife Lauren Ambrose.
+
+654
+00:39:42,000 --> 00:39:44,000
+Dr. Gus Lloyd's ex-wife Lauren Ambrose.
+
+655
+00:39:44,000 --> 00:39:49,000
+Her character in the game is just called the girl kind of regress it kind of condescending.
+
+656
+00:39:49,000 --> 00:39:57,000
+We even left this out and I'm apologize for jumping all around here is that he programmed the female character in the video game to look like his ex-wife.
+
+657
+00:39:57,000 --> 00:39:58,000
+Yeah.
+
+658
+00:39:58,000 --> 00:40:02,000
+He started making the video game as his marriage fell apart.
+
+659
+00:40:02,000 --> 00:40:03,000
+Yeah.
+
+660
+00:40:03,000 --> 00:40:10,000
+And then he made this thing where he's like saving her and she's choosing him all the time, even though they have gotten a divorce.
+
+661
+00:40:10,000 --> 00:40:18,000
+So when characters from his video game start showing up in the world and bothering his real life ex-wife, she is very shocked to learn of any of this.
+
+662
+00:40:18,000 --> 00:40:19,000
+Yeah.
+
+663
+00:40:19,000 --> 00:40:20,000
+You did what?
+
+664
+00:40:20,000 --> 00:40:23,000
+There's a game that you play where I am what and I'm called what?
+
+665
+00:40:23,000 --> 00:40:24,000
+Yeah.
+
+666
+00:40:24,000 --> 00:40:30,000
+They have a real will they won't they dynamic and very little on screen chemistry.
+
+667
+00:40:30,000 --> 00:40:31,000
+Yeah.
+
+668
+00:40:31,000 --> 00:40:34,000
+It's a real tell don't show relationship.
+
+669
+00:40:34,000 --> 00:40:43,000
+Meanwhile, Lauren Ambrose, the ex-wife and Sebastian Jackal also have zero chemistry.
+
+670
+00:40:43,000 --> 00:40:51,000
+They just sort of talk once in a while, but that didn't stop one artist from making the only Sebastian Jackal fan art that I could find.
+
+671
+00:40:51,000 --> 00:40:52,000
+Come on now.
+
+672
+00:40:53,000 --> 00:41:09,000
+And it's two pictures of just him lovingly embracing this ex-wife character who, again, they don't ever it's not even like that he might there's no episode where he turns her evil and seduces her or tricks her.
+
+673
+00:41:09,000 --> 00:41:11,000
+They don't even they just kind of like talk sometimes.
+
+674
+00:41:11,000 --> 00:41:17,000
+So it's really weird that there's these and Jackal is presented like an angel and there he is.
+
+675
+00:41:18,000 --> 00:41:23,000
+This looks like she just graduated from college and he's proud.
+
+676
+00:41:23,000 --> 00:41:24,000
+Yeah.
+
+677
+00:41:24,000 --> 00:41:25,000
+He's her dad and he's very proud.
+
+678
+00:41:25,000 --> 00:41:26,000
+First one in the family.
+
+679
+00:41:26,000 --> 00:41:29,000
+Lauren Ashborn.
+
+680
+00:41:29,000 --> 00:41:30,000
+I'm sorry.
+
+681
+00:41:30,000 --> 00:41:33,000
+Your name is Lauren Ashborn, but Lauren Jackal has a nice ring to it too.
+
+682
+00:41:33,000 --> 00:41:34,000
+Sure does.
+
+683
+00:41:34,000 --> 00:41:35,000
+Lauren Ashborn.
+
+684
+00:41:35,000 --> 00:41:36,000
+Sorry.
+
+685
+00:41:36,000 --> 00:41:37,000
+What were you saying?
+
+686
+00:41:37,000 --> 00:41:38,000
+I don't know.
+
+687
+00:41:38,000 --> 00:41:40,000
+Whatever he told me the first time I probably just repeated it.
+
+688
+00:41:40,000 --> 00:41:41,000
+Oh yeah.
+
+689
+00:41:41,000 --> 00:41:43,000
+I'm all over the place.
+
+690
+00:41:43,000 --> 00:41:49,000
+So he goes to this Jackal goes to the playground and he goes there's no swings in Jackal land.
+
+691
+00:41:49,000 --> 00:41:54,000
+Like that's because he keeps talking about Jackal land, which is like a paradise.
+
+692
+00:41:54,000 --> 00:42:02,000
+It has no people, which is just smoke and ash and ash so you can be eating ash.
+
+693
+00:42:02,000 --> 00:42:12,000
+Jackal land reminds me of I'm so sorry to dump another info dump of another universe, but it reminds me of scat land, which is a place that was created by Jackal.
+
+694
+00:42:13,000 --> 00:42:16,000
+It was created on the album by scat man John.
+
+695
+00:42:16,000 --> 00:42:18,000
+Do we know the song scat man?
+
+696
+00:42:18,000 --> 00:42:21,000
+I'm a scat man.
+
+697
+00:42:21,000 --> 00:42:25,000
+So much sense that you say, do you know scat land?
+
+698
+00:42:25,000 --> 00:42:26,000
+And I go no.
+
+699
+00:42:26,000 --> 00:42:28,000
+And Jason goes, yeah.
+
+700
+00:42:28,000 --> 00:42:30,000
+All the sense in the world.
+
+701
+00:42:30,000 --> 00:42:33,000
+The craziest story about how I know about scat land.
+
+702
+00:42:33,000 --> 00:42:35,000
+Mike has told me.
+
+703
+00:42:35,000 --> 00:42:36,000
+Wait, one thing at a time.
+
+704
+00:42:36,000 --> 00:42:41,000
+Was it you say what scat land is and then you tell me what don't tell me the story of how you found it.
+
+705
+00:42:41,000 --> 00:42:43,000
+Mike has told me about it numerous times.
+
+706
+00:42:43,000 --> 00:42:45,000
+Oh, I see.
+
+707
+00:42:45,000 --> 00:42:46,000
+All right.
+
+708
+00:42:46,000 --> 00:42:47,000
+Never mind.
+
+709
+00:42:47,000 --> 00:42:49,000
+That wasn't all a story.
+
+710
+00:42:49,000 --> 00:42:50,000
+That's why we're here.
+
+711
+00:42:50,000 --> 00:42:56,000
+By the way, the reason we're all here now is Mike talking about Sebastian Jackal's.
+
+712
+00:42:56,000 --> 00:42:59,000
+It's catered from the telegames many times.
+
+713
+00:42:59,000 --> 00:43:00,000
+So now we have a new one.
+
+714
+00:43:00,000 --> 00:43:01,000
+All right.
+
+715
+00:43:01,000 --> 00:43:02,000
+What's scat land and scat man?
+
+716
+00:43:02,000 --> 00:43:04,000
+You know this song, this one.
+
+717
+00:43:04,000 --> 00:43:05,000
+You ever heard this?
+
+718
+00:43:05,000 --> 00:43:07,000
+No, really.
+
+719
+00:43:07,000 --> 00:43:09,000
+People have heard.
+
+720
+00:43:09,000 --> 00:43:14,000
+This sucks dick.
+
+721
+00:43:14,000 --> 00:43:16,000
+What are you telling me about scat land?
+
+722
+00:43:16,000 --> 00:43:20,000
+Anyway, it was I use it as a back at wrestling theme for me in high school.
+
+723
+00:43:20,000 --> 00:43:23,000
+But it was it was made by this guy named Scatman John who has passed away.
+
+724
+00:43:23,000 --> 00:43:27,000
+But he has a concept album that this is.
+
+725
+00:43:27,000 --> 00:43:29,000
+This has come up before.
+
+726
+00:43:29,000 --> 00:43:30,000
+Of course it has.
+
+727
+00:43:30,000 --> 00:43:31,000
+Of course it has.
+
+728
+00:43:31,000 --> 00:43:34,000
+I got trapped to get this for the second on the show.
+
+729
+00:43:34,000 --> 00:43:35,000
+Right.
+
+730
+00:43:35,000 --> 00:43:36,000
+It must have been.
+
+731
+00:43:36,000 --> 00:43:37,000
+I believe it's on the show.
+
+732
+00:43:37,000 --> 00:43:38,000
+Amusement land.
+
+733
+00:43:38,000 --> 00:43:44,000
+There's the album is called Scatman's World and it's a concept album about utopia called scat land.
+
+734
+00:43:44,000 --> 00:43:47,000
+So we've been we've been somewhere down this street.
+
+735
+00:43:47,000 --> 00:43:48,000
+I agree.
+
+736
+00:43:48,000 --> 00:43:49,000
+You trapped me in this garage.
+
+737
+00:43:49,000 --> 00:43:50,000
+Jackal land.
+
+738
+00:43:50,000 --> 00:43:52,000
+Second time talking about scat land.
+
+739
+00:43:52,000 --> 00:43:54,000
+Jackal. I think it was years ago actually.
+
+740
+00:43:54,000 --> 00:43:57,000
+Jackal land reminded me of scat land and I won't get into scat land right now,
+
+741
+00:43:57,000 --> 00:44:00,000
+but it's a utopia where everybody lives in harmony.
+
+742
+00:44:00,000 --> 00:44:03,000
+And that's brought about via scatting.
+
+743
+00:44:03,000 --> 00:44:04,000
+Yes, it is.
+
+744
+00:44:04,000 --> 00:44:07,000
+Scatting is a positive thing.
+
+745
+00:44:07,000 --> 00:44:10,000
+And scat land is a better place than jackal land.
+
+746
+00:44:10,000 --> 00:44:11,000
+100 percent.
+
+747
+00:44:11,000 --> 00:44:13,000
+Scat land is like a perfect place to live.
+
+748
+00:44:13,000 --> 00:44:21,000
+And it's all described in the song scat man's world and songs of song of scat land.
+
+749
+00:44:21,000 --> 00:44:27,000
+How much are we going to will it be a wave of comments demanding scat land the episode?
+
+750
+00:44:27,000 --> 00:44:28,000
+I don't know.
+
+751
+00:44:28,000 --> 00:44:29,000
+Or just one.
+
+752
+00:44:29,000 --> 00:44:30,000
+I don't know.
+
+753
+00:44:30,000 --> 00:44:34,000
+Are people going to do the math of like well Scott hates it so we got to do it.
+
+754
+00:44:34,000 --> 00:44:35,000
+I don't know.
+
+755
+00:44:35,000 --> 00:44:36,000
+We'll see.
+
+756
+00:44:36,000 --> 00:44:38,000
+I'm not I'm not saying anything.
+
+757
+00:44:38,000 --> 00:44:42,000
+I'm just saying it remind us scat land and jackal land.
+
+758
+00:44:42,000 --> 00:44:44,000
+Remind me of land.
+
+759
+00:44:44,000 --> 00:44:45,000
+Lands that people want to land.
+
+760
+00:44:45,000 --> 00:44:47,000
+Based on their goals.
+
+761
+00:44:47,000 --> 00:44:51,000
+Be that constant scatting or nothing but smoke and ash.
+
+762
+00:44:51,000 --> 00:44:52,000
+Right.
+
+763
+00:44:52,000 --> 00:44:55,000
+What else is important to know about Jackal?
+
+764
+00:44:55,000 --> 00:45:01,000
+The car that he drives is a 1935 Chrysler Airstream C6.
+
+765
+00:45:01,000 --> 00:45:05,000
+I got curious if this is a car that Jay Leno owns.
+
+766
+00:45:05,000 --> 00:45:06,000
+Good idea.
+
+767
+00:45:06,000 --> 00:45:07,000
+And I looked it up.
+
+768
+00:45:07,000 --> 00:45:10,000
+He does not Jay Leno does not own a 1935 Chrysler Airstream CX.
+
+769
+00:45:10,000 --> 00:45:16,000
+He owns a blue 1934 Chrysler Airflow CX.
+
+770
+00:45:16,000 --> 00:45:17,000
+Wait I said six.
+
+771
+00:45:17,000 --> 00:45:18,000
+Okay.
+
+772
+00:45:18,000 --> 00:45:19,000
+But like he's got if he's got one.
+
+773
+00:45:19,000 --> 00:45:21,000
+Leno's got the car the year before.
+
+774
+00:45:21,000 --> 00:45:22,000
+It doesn't have a white.
+
+775
+00:45:22,000 --> 00:45:23,000
+It's blue.
+
+776
+00:45:23,000 --> 00:45:27,000
+It was during a pandemic episode of Jay Leno's garage.
+
+777
+00:45:27,000 --> 00:45:33,000
+And I just want to say Jay I appreciate you still giving us the tours when things were at their lowest.
+
+778
+00:45:33,000 --> 00:45:36,000
+So he was first year 2020.
+
+779
+00:45:36,000 --> 00:45:37,000
+Yeah.
+
+780
+00:45:37,000 --> 00:45:38,000
+Okay.
+
+781
+00:45:38,000 --> 00:45:39,000
+I mean I guess it's outside you know.
+
+782
+00:45:39,000 --> 00:45:40,000
+Or was he wearing a mask?
+
+783
+00:45:40,000 --> 00:45:42,000
+Is there a mask that fits his head?
+
+784
+00:45:42,000 --> 00:45:45,000
+I want an enclosed car 2020.
+
+785
+00:45:45,000 --> 00:45:47,000
+I don't want a top down one.
+
+786
+00:45:47,000 --> 00:45:51,000
+And both that military production act.
+
+787
+00:45:51,000 --> 00:45:55,000
+No I think it was only him.
+
+788
+00:45:55,000 --> 00:45:57,000
+I think they gave him a mobile set.
+
+789
+00:45:57,000 --> 00:45:58,000
+There were no cameramen.
+
+790
+00:45:58,000 --> 00:45:59,000
+Oh yeah.
+
+791
+00:45:59,000 --> 00:46:03,000
+So it was just him alone in his garage talking about the cars.
+
+792
+00:46:03,000 --> 00:46:06,000
+So just you know what he does every day.
+
+793
+00:46:06,000 --> 00:46:16,000
+Wow there's a different alternate 2020 where that becomes the big pandemic hit over the Bo Burnham special.
+
+794
+00:46:16,000 --> 00:46:20,000
+The Jay Leno in the garage with one camera.
+
+795
+00:46:20,000 --> 00:46:27,000
+The power of a man just kind of going mad as we all are and teaching us about Chrysler Airflows.
+
+796
+00:46:27,000 --> 00:46:28,000
+Yeah.
+
+797
+00:46:28,000 --> 00:46:33,000
+I mean that could have been some good news over the pandemic.
+
+798
+00:46:33,000 --> 00:46:34,000
+You know.
+
+799
+00:46:34,000 --> 00:46:36,000
+They just gave us good news about his transmission.
+
+800
+00:46:36,000 --> 00:46:37,000
+What was that?
+
+801
+00:46:37,000 --> 00:46:41,000
+That politician was like the best thing for the inside of a man is the outside of a horse.
+
+802
+00:46:41,000 --> 00:46:43,000
+Jay Leno says that about cars.
+
+803
+00:46:43,000 --> 00:46:45,000
+What politician said that?
+
+804
+00:46:45,000 --> 00:46:46,000
+I think Mike Pence said that.
+
+805
+00:46:46,000 --> 00:46:47,000
+The first thing?
+
+806
+00:46:47,000 --> 00:46:48,000
+Say it again.
+
+807
+00:46:48,000 --> 00:46:49,000
+What is it?
+
+808
+00:46:49,000 --> 00:46:50,000
+It's so odd.
+
+809
+00:46:50,000 --> 00:46:51,000
+Hold on.
+
+810
+00:46:51,000 --> 00:46:52,000
+I'm going to look it up.
+
+811
+00:46:52,000 --> 00:46:53,000
+I want to get it right.
+
+812
+00:46:53,000 --> 00:46:54,000
+I always get quotes.
+
+813
+00:46:54,000 --> 00:46:56,000
+Is the inside of a horse?
+
+814
+00:46:56,000 --> 00:46:57,000
+What does that mean?
+
+815
+00:46:57,000 --> 00:46:59,000
+What's best for the inside of a man?
+
+816
+00:46:59,000 --> 00:47:00,000
+Okay.
+
+817
+00:47:00,000 --> 00:47:01,000
+Is the outside of a horse?
+
+818
+00:47:01,000 --> 00:47:02,000
+Is the outside of a horse.
+
+819
+00:47:02,000 --> 00:47:03,000
+It's skin?
+
+820
+00:47:03,000 --> 00:47:05,000
+So like taking a ride, taking a ride on a horse.
+
+821
+00:47:05,000 --> 00:47:07,000
+The outside of a horse.
+
+822
+00:47:07,000 --> 00:47:12,000
+That's better than if you flipped it because if it was for the outside of you then it's like.
+
+823
+00:47:12,000 --> 00:47:14,000
+So you're supposed to have sex with a horse.
+
+824
+00:47:14,000 --> 00:47:15,000
+It's two things.
+
+825
+00:47:15,000 --> 00:47:17,000
+I almost got it.
+
+826
+00:47:17,000 --> 00:47:22,000
+I've often said there's nothing better for the inside of a man than the outside of a horse.
+
+827
+00:47:22,000 --> 00:47:23,000
+Oh Reagan said it.
+
+828
+00:47:23,000 --> 00:47:25,000
+He was quoting Reagan.
+
+829
+00:47:25,000 --> 00:47:26,000
+Two layers.
+
+830
+00:47:26,000 --> 00:47:28,000
+Two pens and Reagan.
+
+831
+00:47:28,000 --> 00:47:30,000
+Two big time weirdos.
+
+832
+00:47:30,000 --> 00:47:31,000
+Oh man.
+
+833
+00:47:31,000 --> 00:47:32,000
+The outside of a.
+
+834
+00:47:32,000 --> 00:47:35,000
+That is very serial killer.
+
+835
+00:47:35,000 --> 00:47:37,000
+Sloppy sounding quote honestly.
+
+836
+00:47:37,000 --> 00:47:38,000
+Outside.
+
+837
+00:47:38,000 --> 00:47:41,000
+Nothing better for the inside of a man than a car.
+
+838
+00:47:41,000 --> 00:47:42,000
+So the outside.
+
+839
+00:47:42,000 --> 00:47:46,000
+Well then that would be the inside of a man than the outside of a car which means you'd
+
+840
+00:47:46,000 --> 00:47:47,000
+be sitting on it.
+
+841
+00:47:47,000 --> 00:47:48,000
+You're working on it.
+
+842
+00:47:48,000 --> 00:47:49,000
+You're washing it.
+
+843
+00:47:49,000 --> 00:47:50,000
+You're sitting on it.
+
+844
+00:47:50,000 --> 00:47:51,000
+But driving is the one you got to.
+
+845
+00:47:51,000 --> 00:47:52,000
+Driving is the one.
+
+846
+00:47:52,000 --> 00:47:53,000
+You want to drive.
+
+847
+00:47:53,000 --> 00:47:54,000
+You want to be inside.
+
+848
+00:47:54,000 --> 00:47:55,000
+I guess he would prefer the.
+
+849
+00:47:55,000 --> 00:47:58,000
+Nothing better for the inside of a man than the inside of a car.
+
+850
+00:47:58,000 --> 00:47:59,000
+Yeah that's it.
+
+851
+00:47:59,000 --> 00:48:00,000
+Okay.
+
+852
+00:48:00,000 --> 00:48:01,000
+Perfect.
+
+853
+00:48:01,000 --> 00:48:02,000
+We fixed it.
+
+854
+00:48:02,000 --> 00:48:03,000
+We punched it.
+
+855
+00:48:03,000 --> 00:48:07,000
+And there will be some smoky smoggy cars in Jack-o-Lantern.
+
+856
+00:48:07,000 --> 00:48:08,000
+Oh yeah.
+
+857
+00:48:08,000 --> 00:48:09,000
+The smokiest.
+
+858
+00:48:09,000 --> 00:48:12,000
+There's a by the way there's a Deadly Games Wikipedia.
+
+859
+00:48:12,000 --> 00:48:13,000
+Yes.
+
+860
+00:48:13,000 --> 00:48:18,000
+And which reminds you that he's not just you it's on the table to call him not just Sebastian
+
+861
+00:48:18,000 --> 00:48:20,000
+Jackal but also the Jackal.
+
+862
+00:48:20,000 --> 00:48:21,000
+Yeah.
+
+863
+00:48:21,000 --> 00:48:23,000
+And here's here's just some quick facts.
+
+864
+00:48:23,000 --> 00:48:26,000
+Jackal realizes that he's an antagonist of a computer game.
+
+865
+00:48:26,000 --> 00:48:29,000
+He is smug theatrical and sadistic in the extreme.
+
+866
+00:48:29,000 --> 00:48:32,000
+He takes great joy in the carnage that he causes.
+
+867
+00:48:32,000 --> 00:48:36,000
+He routinely expresses disgust at the things that give others happiness.
+
+868
+00:48:36,000 --> 00:48:39,000
+Oh I hear that say.
+
+869
+00:48:39,000 --> 00:48:40,000
+Yeah.
+
+870
+00:48:40,000 --> 00:48:41,000
+Paints the picture of the guy.
+
+871
+00:48:41,000 --> 00:48:47,000
+The other thing we know about him is that he everyone in the he is could not be more
+
+872
+00:48:47,000 --> 00:48:48,000
+terrified.
+
+873
+00:48:48,000 --> 00:48:55,000
+He's like a on the loose Hannibal Lecter to everyone in the show even though what he mainly
+
+874
+00:48:55,000 --> 00:49:00,000
+does is walk into a room or just be there already by surprise like one where everybody's
+
+875
+00:49:00,000 --> 00:49:04,000
+in a nice restaurant and then somebody is walking around playing a violin and guess
+
+876
+00:49:04,000 --> 00:49:05,000
+what it's Jackal.
+
+877
+00:49:05,000 --> 00:49:13,000
+So he kind of like walks up or just appears surprised to see me kid and then like you
+
+878
+00:49:13,000 --> 00:49:16,000
+and I you and me kid you'll see.
+
+879
+00:49:16,000 --> 00:49:17,000
+He walks away.
+
+880
+00:49:17,000 --> 00:49:23,000
+They were like we have to figure out a way to have a villain who's very scary and very
+
+881
+00:49:23,000 --> 00:49:24,000
+thin.
+
+882
+00:49:24,000 --> 00:49:28,000
+Everybody's very threatened by him but he never does anything.
+
+883
+00:49:28,000 --> 00:49:32,000
+And because we have to have a show we can film he's always got to be in the room with
+
+884
+00:49:32,000 --> 00:49:39,000
+the heroes and he's an old man so he can't be chased or on the run or like jumping over
+
+885
+00:49:39,000 --> 00:49:41,000
+chairs or diving out of a window.
+
+886
+00:49:41,000 --> 00:49:42,000
+Yeah.
+
+887
+00:49:42,000 --> 00:49:44,000
+How do we have a villain who all he does is talk.
+
+888
+00:49:44,000 --> 00:49:49,000
+Yeah it's they didn't figure it out.
+
+889
+00:49:49,000 --> 00:49:52,000
+They didn't maybe nail it.
+
+890
+00:49:52,000 --> 00:49:56,000
+Sometimes yeah you go well how would that sustain for seven up to seven seasons and
+
+891
+00:49:56,000 --> 00:49:57,000
+this wouldn't have.
+
+892
+00:49:57,000 --> 00:49:59,000
+No because I started collapsing.
+
+893
+00:49:59,000 --> 00:50:02,000
+The other thing that it started falling apart for me and there's you know we could talk
+
+894
+00:50:02,000 --> 00:50:07,000
+about some of these other villains who I like but I think where I really checked out was
+
+895
+00:50:07,000 --> 00:50:12,000
+by around episode 11 and I'm like there's been so many episodes in a row where Jackal
+
+896
+00:50:12,000 --> 00:50:18,000
+drives up in a car with another guy and those used to be famous like Shirley Jones or LeVar
+
+897
+00:50:18,000 --> 00:50:19,000
+Burton.
+
+898
+00:50:19,000 --> 00:50:24,000
+Yeah I don't know who they are and they always have a gun that's a weird kind of gun.
+
+899
+00:50:24,000 --> 00:50:30,000
+Yeah that you know this one's like a mulch farmer so he fires worms at you.
+
+900
+00:50:30,000 --> 00:50:31,000
+Yeah.
+
+901
+00:50:31,000 --> 00:50:37,000
+Or this one is this was a that's a fake one but a real one is a dentist with a like a
+
+902
+00:50:37,000 --> 00:50:43,000
+like a like a drill that shoots lightning or one is a garbage man who has a gun that
+
+903
+00:50:43,000 --> 00:50:45,000
+fires trash bags.
+
+904
+00:50:45,000 --> 00:50:46,000
+Yeah.
+
+905
+00:50:46,000 --> 00:50:48,000
+Oh man it's always some weird.
+
+906
+00:50:48,000 --> 00:50:51,000
+Chris Angel had that when you saw his show.
+
+907
+00:50:51,000 --> 00:50:53,000
+He had a gun that shot the garbage.
+
+908
+00:50:53,000 --> 00:50:56,000
+I was being in a big wind tunnel of trash bags.
+
+909
+00:50:56,000 --> 00:50:59,000
+He was the ultimate trash man.
+
+910
+00:50:59,000 --> 00:51:02,000
+So you know it wore out its welcome a little bit.
+
+911
+00:51:02,000 --> 00:51:08,000
+Compare that to in a very early episode the first episode actually.
+
+912
+00:51:08,000 --> 00:51:12,000
+He says one I guess it would be Dr.
+
+913
+00:51:12,000 --> 00:51:18,000
+Gus Lloyd says I programmed dozens of them very optimistic of the writers that there
+
+914
+00:51:18,000 --> 00:51:20,000
+was going to be dozens of episode.
+
+915
+00:51:20,000 --> 00:51:26,000
+I programmed dozens of villains in this game which also means again a lot of these villains
+
+916
+00:51:27,000 --> 00:51:35,000
+based on people he has garages against he has dozens of like ex ex mechanics who slighted
+
+917
+00:51:35,000 --> 00:51:42,000
+him dentist garbage men his mother-in-law his practical Joker friend and then also Sebastian
+
+918
+00:51:42,000 --> 00:51:47,000
+Jackal who seemingly made out of whole cloth like made from scratch.
+
+919
+00:51:47,000 --> 00:51:55,000
+Well you know I think I think we could get maybe it's time to we might as well reveal
+
+920
+00:51:55,000 --> 00:51:58,000
+it but I do feel fucked up and I will go watch it.
+
+921
+00:51:58,000 --> 00:52:06,000
+No this is well this is this is pretty exciting in in episode four the end of Jackal.
+
+922
+00:52:06,000 --> 00:52:10,000
+And the end of Jack two major things happen.
+
+923
+00:52:10,000 --> 00:52:16,000
+One of them is that well here's this is a before I saw this episode I saw this bizarre
+
+924
+00:52:16,000 --> 00:52:23,000
+fact in the Wikipedia which is a lot to get all at once without knowing the context.
+
+925
+00:52:23,000 --> 00:52:29,000
+Baseball cards do great harm to Jackal especially Mickey Mantle's rookie card to destroy Jackal
+
+926
+00:52:29,000 --> 00:52:33,000
+one needs an autographed Bobby Mercer baseball card.
+
+927
+00:52:33,000 --> 00:52:33,000
+
+
+928
+00:52:33,000 --> 00:52:37,000
+When this is a ball this either one is wrong.
+
+929
+00:52:37,000 --> 00:52:38,000
+Right.
+
+930
+00:52:38,000 --> 00:52:39,000
+It's a ball.
+
+931
+00:52:39,000 --> 00:52:44,000
+By Mercer baseball ball but baseball ball when hit with it.
+
+932
+00:52:44,000 --> 00:52:49,000
+When hit with enough baseball cards Jackal's suit turns red.
+
+933
+00:52:49,000 --> 00:52:50,000
+Yes.
+
+934
+00:52:50,000 --> 00:52:53,000
+Revealing him to be Gus's interpretation of Satan.
+
+935
+00:52:53,000 --> 00:52:54,000
+Yes.
+
+936
+00:52:54,000 --> 00:52:57,000
+So reveal number one.
+
+937
+00:52:57,000 --> 00:53:03,000
+Is Satan in the end of Jackal they hit him and then he turns red kind of like a video
+
+938
+00:53:03,000 --> 00:53:07,000
+game when like you would fight be rock steady and they would start glowing red at the sort
+
+939
+00:53:07,000 --> 00:53:08,000
+of the end.
+
+940
+00:53:08,000 --> 00:53:12,000
+So if you listener thought that all right these guys have shown all their cards this
+
+941
+00:53:12,000 --> 00:53:16,000
+is a white suited villain and I'm not going to listen anymore.
+
+942
+00:53:16,000 --> 00:53:17,000
+Guess what.
+
+943
+00:53:17,000 --> 00:53:18,000
+Yeah.
+
+944
+00:53:18,000 --> 00:53:19,000
+He's got a red suited villain.
+
+945
+00:53:19,000 --> 00:53:21,000
+He's got a red suit and he's the devil.
+
+946
+00:53:21,000 --> 00:53:24,000
+So Dr. Gus Lloyd is scared of the devil.
+
+947
+00:53:24,000 --> 00:53:25,000
+Well.
+
+948
+00:53:25,000 --> 00:53:26,000
+Well.
+
+949
+00:53:26,000 --> 00:53:27,000
+Yes.
+
+950
+00:53:27,000 --> 00:53:31,000
+Or is it his father.
+
+951
+00:53:31,000 --> 00:53:32,000
+Well.
+
+952
+00:53:32,000 --> 00:53:33,000
+Well.
+
+953
+00:53:33,000 --> 00:53:34,000
+You are.
+
+954
+00:53:34,000 --> 00:53:35,000
+Yes.
+
+955
+00:53:35,000 --> 00:53:36,000
+Correct.
+
+956
+00:53:36,000 --> 00:53:37,000
+No one else to play that.
+
+957
+00:53:37,000 --> 00:53:40,000
+Sebastian Jackal is the most obvious possible.
+
+958
+00:53:40,000 --> 00:53:42,000
+It is the most obvious.
+
+959
+00:53:42,000 --> 00:53:45,000
+Who do you have the most complicated relationship with.
+
+960
+00:53:45,000 --> 00:53:46,000
+Yeah.
+
+961
+00:53:46,000 --> 00:53:47,000
+Who slighted you the most.
+
+962
+00:53:47,000 --> 00:53:50,000
+Jordan Kenneth Lloyd the father.
+
+963
+00:53:50,000 --> 00:53:56,000
+Lloyd of Dr. Gus Lloyd Christopher Lloyd is Jordan Kenneth Lloyd.
+
+964
+00:53:56,000 --> 00:54:01,000
+So yes at the end of this episode where they think they've defeated Jackal forever they
+
+965
+00:54:01,000 --> 00:54:06,000
+go to meet Gus's father and imagine the ex-wife.
+
+966
+00:54:06,000 --> 00:54:08,000
+She never met the father it seems.
+
+967
+00:54:08,000 --> 00:54:09,000
+He's very surprised.
+
+968
+00:54:09,000 --> 00:54:13,000
+Well you've spent a whole episode running from Jackal and we killed it.
+
+969
+00:54:13,000 --> 00:54:14,000
+He's gone.
+
+970
+00:54:14,000 --> 00:54:15,000
+Jackal's dead.
+
+971
+00:54:15,000 --> 00:54:19,000
+And who walks into this book this mansion party you're at.
+
+972
+00:54:19,000 --> 00:54:20,000
+But Jackal.
+
+973
+00:54:20,000 --> 00:54:21,000
+But it's not Jackal.
+
+974
+00:54:21,000 --> 00:54:23,000
+It's your ex-husband's father.
+
+975
+00:54:23,000 --> 00:54:26,000
+Jordan Kenneth Lloyd your father.
+
+976
+00:54:26,000 --> 00:54:28,000
+This is the most.
+
+977
+00:54:28,000 --> 00:54:32,000
+This is like a pretty clean premise.
+
+978
+00:54:32,000 --> 00:54:39,000
+The Cathy Ireland episode without Jackal is so like OK I programmed this cover girl into
+
+979
+00:54:39,000 --> 00:54:42,000
+the game and she's really into you.
+
+980
+00:54:42,000 --> 00:54:45,000
+And then he seems like he's about to get back together with the ex-wife.
+
+981
+00:54:45,000 --> 00:54:50,000
+But then Jackal is communicating just from within the computer which he hadn't done a
+
+982
+00:54:50,000 --> 00:54:51,000
+lot before.
+
+983
+00:54:51,000 --> 00:54:57,000
+Like there's a lot more plates in the you know spinning in the next one.
+
+984
+00:54:57,000 --> 00:55:01,000
+I'm assuming because they have to bring Jackal they have to get it back.
+
+985
+00:55:01,000 --> 00:55:05,000
+Probably by this point Chris agree is like all right what does it actually mean for me
+
+986
+00:55:05,000 --> 00:55:07,000
+to be in an episode.
+
+987
+00:55:07,000 --> 00:55:12,000
+What is the thinnest definition of in the show you can imagine.
+
+988
+00:55:12,000 --> 00:55:18,000
+Yeah Christopher Lloyd also great turn as a father in nobody.
+
+989
+00:55:18,000 --> 00:55:21,000
+The Bob Odenkirk movie.
+
+990
+00:55:21,000 --> 00:55:22,000
+Very funny.
+
+991
+00:55:22,000 --> 00:55:25,000
+Yeah buddy wait but he's not the devil or he's not a video game.
+
+992
+00:55:25,000 --> 00:55:26,000
+No he's not.
+
+993
+00:55:26,000 --> 00:55:27,000
+Why am I watching nobody.
+
+994
+00:55:27,000 --> 00:55:30,000
+Well but there is a reveal about the father.
+
+995
+00:55:30,000 --> 00:55:31,000
+OK cool.
+
+996
+00:55:31,000 --> 00:55:34,000
+He's God.
+
+997
+00:55:34,000 --> 00:55:37,000
+Well he's kind of got the power.
+
+998
+00:55:37,000 --> 00:55:42,000
+Everyone's kind of God is very cool with guns.
+
+999
+00:55:42,000 --> 00:55:49,000
+If you like shootouts and they reveal a cool reveal of who the adopted brother is too.
+
+1000
+00:55:49,000 --> 00:55:50,000
+OK.
+
+1001
+00:55:50,000 --> 00:55:52,000
+In nobody I don't want to ruin it.
+
+1002
+00:55:52,000 --> 00:55:55,000
+Christopher Lloyd also in that Seth MacFarlane West Wild West movie.
+
+1003
+00:55:55,000 --> 00:55:57,000
+A million ways to die in the West.
+
+1004
+00:55:57,000 --> 00:55:59,000
+As Doc Brown basically.
+
+1005
+00:55:59,000 --> 00:56:00,000
+Oh right.
+
+1006
+00:56:00,000 --> 00:56:02,000
+Yeah that was another one you said.
+
+1007
+00:56:02,000 --> 00:56:04,000
+Christopher Lloyd likes to work.
+
+1008
+00:56:04,000 --> 00:56:05,000
+Yeah.
+
+1009
+00:56:05,000 --> 00:56:06,000
+Let's just say that.
+
+1010
+00:56:06,000 --> 00:56:07,000
+I'll say this.
+
+1011
+00:56:07,000 --> 00:56:09,000
+Surely Jones likes to work.
+
+1012
+00:56:09,000 --> 00:56:10,000
+You look at her IMDB.
+
+1013
+00:56:10,000 --> 00:56:12,000
+She's still working quite a bit.
+
+1014
+00:56:12,000 --> 00:56:13,000
+Recently.
+
+1015
+00:56:13,000 --> 00:56:14,000
+Recently.
+
+1016
+00:56:14,000 --> 00:56:15,000
+Good for her.
+
+1017
+00:56:15,000 --> 00:56:20,000
+I feel like you had something else about this this devil father episode.
+
+1018
+00:56:20,000 --> 00:56:21,000
+I forgot it.
+
+1019
+00:56:21,000 --> 00:56:22,000
+If I did.
+
+1020
+00:56:22,000 --> 00:56:24,000
+I may have but I there's so many things going around.
+
+1021
+00:56:24,000 --> 00:56:28,000
+I'm living a little bit and jackal and in my head and living a little bit in scat land in my head.
+
+1022
+00:56:28,000 --> 00:56:29,000
+Oh you know.
+
+1023
+00:56:29,000 --> 00:56:33,000
+I've got well I've got jackal on one shoulder and scat man John on the other.
+
+1024
+00:56:35,000 --> 00:56:37,000
+More tangents kid.
+
+1025
+00:56:37,000 --> 00:56:38,000
+You got him.
+
+1026
+00:56:38,000 --> 00:56:41,000
+Keep him in this garage all day.
+
+1027
+00:56:41,000 --> 00:56:42,000
+On the other shoulder.
+
+1028
+00:56:42,000 --> 00:56:44,000
+It's give it about papa.
+
+1029
+00:56:44,000 --> 00:56:46,000
+Just scat to the episodes over.
+
+1030
+00:56:46,000 --> 00:56:47,000
+Thanks guys.
+
+1031
+00:56:47,000 --> 00:56:49,000
+Here's well then.
+
+1032
+00:56:49,000 --> 00:56:53,000
+Yeah they defeat jackal in this episode with this autographed baseball.
+
+1033
+00:56:53,000 --> 00:56:57,000
+But then when they meet the father he lovingly brings up the baseball.
+
+1034
+00:56:57,000 --> 00:56:58,000
+Yeah.
+
+1035
+00:56:58,000 --> 00:57:01,000
+And they talk about going to baseball games together when he was a kid.
+
+1036
+00:57:01,000 --> 00:57:05,000
+And he says.
+
+1037
+00:57:05,000 --> 00:57:08,000
+I wrote it down as you you the kid.
+
+1038
+00:57:08,000 --> 00:57:09,000
+Eight.
+
+1039
+00:57:09,000 --> 00:57:10,000
+That can't be right.
+
+1040
+00:57:10,000 --> 00:57:13,000
+You the kid eight four hot dogs.
+
+1041
+00:57:13,000 --> 00:57:15,000
+And one baseball.
+
+1042
+00:57:15,000 --> 00:57:17,000
+And one baseball.
+
+1043
+00:57:17,000 --> 00:57:22,000
+And then the ex wife says wow four hot dogs for the kid.
+
+1044
+00:57:22,000 --> 00:57:23,000
+So the.
+
+1045
+00:57:23,000 --> 00:57:29,000
+So the thing that he says as a villain is something that the father says to him in real life and it seems loving.
+
+1046
+00:57:29,000 --> 00:57:33,000
+But am I wrong that the father seems like a lovely man.
+
+1047
+00:57:33,000 --> 00:57:34,000
+No they.
+
+1048
+00:57:34,000 --> 00:57:35,000
+Yes I was expecting.
+
+1049
+00:57:35,000 --> 00:57:44,000
+OK here we're going to see like that cold kind of monster which would inspire him to make a video game where the most evil man who is the devil is the bad guy.
+
+1050
+00:57:44,000 --> 00:57:48,000
+But yes he is not showing that to us in that scene.
+
+1051
+00:57:48,000 --> 00:57:58,000
+I don't know if maybe he some some older men they relax as they get older and they maybe they weren't as big of a monster as when they were raising their kid when the kid was little.
+
+1052
+00:57:58,000 --> 00:57:59,000
+Well maybe the.
+
+1053
+00:57:59,000 --> 00:58:10,000
+Yeah what if the actual what we don't see is that the doc Jordan Lloyd had a fire cane in real life.
+
+1054
+00:58:10,000 --> 00:58:12,000
+So he he's relaxed.
+
+1055
+00:58:12,000 --> 00:58:16,000
+But when I was a kid he'd have he'd blast him with that fire cane every day.
+
+1056
+00:58:16,000 --> 00:58:17,000
+Yeah.
+
+1057
+00:58:17,000 --> 00:58:21,000
+Yeah maybe yes B plus not an A.
+
+1058
+00:58:21,000 --> 00:58:22,000
+You know what to do.
+
+1059
+00:58:22,000 --> 00:58:24,000
+Go get your fire cane.
+
+1060
+00:58:24,000 --> 00:58:27,000
+Go get my fire cane so I can shoot it at you.
+
+1061
+00:58:27,000 --> 00:58:29,000
+That's what you say.
+
+1062
+00:58:29,000 --> 00:58:30,000
+Yeah.
+
+1063
+00:58:30,000 --> 00:58:31,000
+Or no hot dogs for dinner.
+
+1064
+00:58:31,000 --> 00:58:32,000
+Very possible.
+
+1065
+00:58:32,000 --> 00:58:37,000
+It was the original helicopter parent and I would toss you out of a helicopter.
+
+1066
+00:58:37,000 --> 00:58:38,000
+Which does happen in the pilot.
+
+1067
+00:58:38,000 --> 00:58:39,000
+Well Dr.
+
+1068
+00:58:39,000 --> 00:58:41,000
+Gus Louis almost falls out of helicopter.
+
+1069
+00:58:41,000 --> 00:58:43,000
+I should believe they missed that opportunity.
+
+1070
+00:58:43,000 --> 00:58:44,000
+But kill shot does the.
+
+1071
+00:58:44,000 --> 00:58:51,000
+Player shot falls to a watery grave because his weakness was water and he falls into a big lake.
+
+1072
+00:58:51,000 --> 00:58:54,000
+That's another lame thing about the show that it's also OK.
+
+1073
+00:58:54,000 --> 00:59:00,000
+How do we have a show where a villain just talks in rooms and doesn't aside from sometimes a fire cane.
+
+1074
+00:59:00,000 --> 00:59:01,000
+Not much happens.
+
+1075
+00:59:01,000 --> 00:59:08,000
+The the other then it's like OK it's got to be an action show but it's kind of a family network a little.
+
+1076
+00:59:08,000 --> 00:59:11,000
+So no blood and no guns no.
+
+1077
+00:59:11,000 --> 00:59:12,000
+Yeah right right.
+
+1078
+00:59:12,000 --> 00:59:19,000
+So this video game construct gives us the premise that the villains are all defeated by weird things.
+
+1079
+00:59:19,000 --> 00:59:21,000
+As I said baseball cards.
+
+1080
+00:59:21,000 --> 00:59:27,000
+What happens in that is that the ex-wife puts a baseball card in his pocket and his suit turns red.
+
+1081
+00:59:27,000 --> 00:59:33,000
+Instead of this there's no gun is not the simplicity of a gun and you kill a guy.
+
+1082
+00:59:33,000 --> 00:59:38,000
+But everybody else it's like it's like water guns or even I think in one case juice.
+
+1083
+00:59:38,000 --> 00:59:39,000
+The.
+
+1084
+00:59:39,000 --> 00:59:40,000
+You.
+
+1085
+00:59:40,000 --> 00:59:41,000
+Yeah.
+
+1086
+00:59:41,000 --> 00:59:42,000
+Somebody with dirt.
+
+1087
+00:59:42,000 --> 00:59:43,000
+Yeah.
+
+1088
+00:59:43,000 --> 00:59:44,000
+The.
+
+1089
+00:59:44,000 --> 00:59:48,000
+Oh my God I'm blanking which I guess it's the oh no.
+
+1090
+00:59:48,000 --> 00:59:52,000
+So dirt is one I think it's the mother in law.
+
+1091
+00:59:52,000 --> 00:59:57,000
+Yeah the mother is Charlie Jones it's dirt but when it's the garbage man it's cleaning products.
+
+1092
+00:59:57,000 --> 00:59:58,000
+OK OK.
+
+1093
+00:59:58,000 --> 01:00:05,000
+So this man he makes a video game where he can throw a bunch of dirt on his mother.
+
+1094
+01:00:05,000 --> 01:00:15,000
+Well yeah you blast her with like a dirt gun at some point and then it turns out it's actually surely Jones it's not evil surely.
+
+1095
+01:00:15,000 --> 01:00:16,000
+Yeah.
+
+1096
+01:00:16,000 --> 01:00:17,000
+What I wouldn't give to.
+
+1097
+01:00:17,000 --> 01:00:20,000
+Blast my mother in law with a bunch of dirt.
+
+1098
+01:00:20,000 --> 01:00:21,000
+Hey.
+
+1099
+01:00:21,000 --> 01:00:23,000
+Eat dirt gun.
+
+1100
+01:00:23,000 --> 01:00:28,000
+This is really yes this is like your 90s like man.
+
+1101
+01:00:28,000 --> 01:00:29,000
+Fanta like.
+
+1102
+01:00:29,000 --> 01:00:30,000
+Yeah.
+
+1103
+01:00:30,000 --> 01:00:33,000
+Kathy Ireland's there and you get to blast your mother in law with dirt.
+
+1104
+01:00:33,000 --> 01:00:37,000
+It's like the two things that most dads in the 90s were thinking about.
+
+1105
+01:00:37,000 --> 01:00:38,000
+Yeah.
+
+1106
+01:00:38,000 --> 01:00:42,000
+Rooted for we're cheering the guy who wants to shoot an old lady with dirt.
+
+1107
+01:00:42,000 --> 01:00:47,000
+So your ex wife is a fool for divorcing you.
+
+1108
+01:00:47,000 --> 01:00:52,000
+So you have to get her back by never leaving her alone like everything.
+
+1109
+01:00:52,000 --> 01:00:58,000
+If you stripped every of you explain this show very dryly it's like oh is this a horror show.
+
+1110
+01:00:58,000 --> 01:00:59,000
+Very troubling.
+
+1111
+01:00:59,000 --> 01:01:04,000
+You wake up if you woke any of our dads up in the middle of the night in 1994 you'd be like what do you want.
+
+1112
+01:01:04,000 --> 01:01:09,000
+Shoot my mother in law with dirt and Kathy Ireland at my door.
+
+1113
+01:01:09,000 --> 01:01:11,000
+Yeah.
+
+1114
+01:01:11,000 --> 01:01:13,000
+I just want to go to both of them.
+
+1115
+01:01:13,000 --> 01:01:16,000
+The big inventor show in the parking lot.
+
+1116
+01:01:16,000 --> 01:01:17,000
+Acts of terror.
+
+1117
+01:01:17,000 --> 01:01:25,000
+Yeah that's a big the the Levar Burton episode kind of that one at least has some the sci fi element of like he's the boss.
+
+1118
+01:01:25,000 --> 01:01:30,000
+He's a boss who fires you and he's got a glove that shoots exploding pink slips.
+
+1119
+01:01:30,000 --> 01:01:32,000
+I have this little clip.
+
+1120
+01:01:32,000 --> 01:01:33,000
+Please.
+
+1121
+01:01:33,000 --> 01:01:34,000
+Yeah.
+
+1122
+01:01:34,000 --> 01:01:37,000
+Now this is before they had worn out the bizarre guns.
+
+1123
+01:01:37,000 --> 01:01:40,000
+I think we're still in good good territory here.
+
+1124
+01:01:40,000 --> 01:01:42,000
+This is episode three.
+
+1125
+01:01:42,000 --> 01:01:52,000
+Just what kind of flip side security operation are you running here mister.
+
+1126
+01:01:52,000 --> 01:01:55,000
+You're fired.
+
+1127
+01:01:55,000 --> 01:01:57,000
+What the hell is that.
+
+1128
+01:01:57,000 --> 01:01:58,000
+What do you think it is.
+
+1129
+01:01:58,000 --> 01:01:59,000
+Exploding pink slip.
+
+1130
+01:01:59,000 --> 01:02:03,000
+Come on.
+
+1131
+01:02:03,000 --> 01:02:05,000
+What do you think it is.
+
+1132
+01:02:05,000 --> 01:02:06,000
+It is.
+
+1133
+01:02:06,000 --> 01:02:08,000
+Exploding pink slip.
+
+1134
+01:02:08,000 --> 01:02:16,000
+And yeah he does have a robotic arm that just a little pink slip reloads Terminator style.
+
+1135
+01:02:16,000 --> 01:02:18,000
+Terminated.
+
+1136
+01:02:18,000 --> 01:02:19,000
+And he fires.
+
+1137
+01:02:19,000 --> 01:02:28,000
+There's a lot of shooting of like people don't explode a lot but like a trash can will or just a shed that's nearby.
+
+1138
+01:02:28,000 --> 01:02:31,000
+Anything around is fair game.
+
+1139
+01:02:31,000 --> 01:02:38,000
+Levar Burton has a very funny funny in that it's a very strange delivery.
+
+1140
+01:02:38,000 --> 01:02:43,000
+He pulls like a guy out of a truck cab and he goes get down out of the cab driver.
+
+1141
+01:02:43,000 --> 01:02:46,000
+You're punching out early today.
+
+1142
+01:02:46,000 --> 01:02:52,000
+With like that level of excitement and he's just like hey man maybe ask for another take on that.
+
+1143
+01:02:52,000 --> 01:02:54,000
+Maybe maybe run that back.
+
+1144
+01:02:54,000 --> 01:02:57,000
+Maybe also cut that line in half.
+
+1145
+01:02:57,000 --> 01:03:00,000
+Like they were handing out second takes on deadly.
+
+1146
+01:03:00,000 --> 01:03:02,000
+I think you could get a second.
+
+1147
+01:03:02,000 --> 01:03:06,000
+I was just like that's such a mouthful to say what you're trying to like.
+
+1148
+01:03:06,000 --> 01:03:07,000
+Why did you make him say that much.
+
+1149
+01:03:07,000 --> 01:03:12,000
+Most of these episodes look like they have the budget of a Power Rangers episode like the original Power Rangers.
+
+1150
+01:03:12,000 --> 01:03:16,000
+I was going to say it very much reminds me of a theme park stunt show.
+
+1151
+01:03:16,000 --> 01:03:21,000
+If you took the budget of a theme park stunt show and tried to shoot a television show with it.
+
+1152
+01:03:21,000 --> 01:03:28,000
+Every episode has like three things where you go oh and then at the end credits they show them all again.
+
+1153
+01:03:28,000 --> 01:03:31,000
+So they kind of get like a second little bang for the buck.
+
+1154
+01:03:31,000 --> 01:03:39,000
+Which are like a lot of the humor that I hate to say this because I was looking for things that I could play in the episode.
+
+1155
+01:03:39,000 --> 01:03:42,000
+And a lot of them it's just it's all about looks and weird yells.
+
+1156
+01:03:42,000 --> 01:03:57,000
+I'll try to post as much to the socials as I can just because some of the scenes little snippets of scenes I think are not the ones that are not far from like Walker Texas Ranger lever style.
+
+1157
+01:03:57,000 --> 01:04:00,000
+Like what the fuck's going on there.
+
+1158
+01:04:00,000 --> 01:04:03,000
+But a lot don't quite translate.
+
+1159
+01:04:03,000 --> 01:04:06,000
+You know you have to see Jackal.
+
+1160
+01:04:06,000 --> 01:04:14,000
+Okay you have to see Gus looking like a cheap Rambo like a dollar store Rambo.
+
+1161
+01:04:14,000 --> 01:04:20,000
+And he's shooting a football player with a gun with a hose and then the hose stops working.
+
+1162
+01:04:20,000 --> 01:04:26,000
+And then Jackal shows that he's got a little knife that he sliced the knife.
+
+1163
+01:04:26,000 --> 01:04:28,000
+A straight razor.
+
+1164
+01:04:28,000 --> 01:04:32,000
+Isn't it like what an old barber would use and he cut a hose with it.
+
+1165
+01:04:32,000 --> 01:04:33,000
+He cut a hose with it.
+
+1166
+01:04:33,000 --> 01:04:35,000
+And then I mean I'll play just the end.
+
+1167
+01:04:35,000 --> 01:04:37,000
+This is more for us I think than the listener.
+
+1168
+01:04:37,000 --> 01:04:41,000
+I don't know how much it will read.
+
+1169
+01:04:41,000 --> 01:04:52,000
+Then a Jeep drives away and a football player throws an exploding football.
+
+1170
+01:04:52,000 --> 01:04:54,000
+It blows up and says game over.
+
+1171
+01:04:54,000 --> 01:04:56,000
+Tombstones pop up.
+
+1172
+01:04:56,000 --> 01:04:57,000
+That's okay.
+
+1173
+01:04:57,000 --> 01:05:01,000
+So what they knew of video games appeared to be game over.
+
+1174
+01:05:01,000 --> 01:05:04,000
+Villains or bosses.
+
+1175
+01:05:04,000 --> 01:05:06,000
+And that's kind of it.
+
+1176
+01:05:06,000 --> 01:05:10,000
+Yeah because there's no nothing silly shows up in this.
+
+1177
+01:05:10,000 --> 01:05:17,000
+There's no bowser's or like you know little minions running around.
+
+1178
+01:05:17,000 --> 01:05:20,000
+It's just yeah there's essentially kids.
+
+1179
+01:05:20,000 --> 01:05:26,000
+It's all it's long psychological torture sessions with one other human.
+
+1180
+01:05:26,000 --> 01:05:33,000
+Yeah and like a self-contained episodes with a very thin through line.
+
+1181
+01:05:33,000 --> 01:05:43,000
+If you go back and look at some of the creators of this show they worked on a lot of like A-Team kind of shows or like Journeyman.
+
+1182
+01:05:43,000 --> 01:05:44,000
+I got to shout this out.
+
+1183
+01:05:44,000 --> 01:05:46,000
+This was so weird to discover.
+
+1184
+01:05:46,000 --> 01:05:49,000
+The one creator and writer Paul Birnbaum.
+
+1185
+01:05:49,000 --> 01:05:51,000
+Did you guys look him up?
+
+1186
+01:05:51,000 --> 01:05:52,000
+No.
+
+1187
+01:05:52,000 --> 01:05:55,000
+He is like a real like an old school Journeyman writer.
+
+1188
+01:05:55,000 --> 01:06:01,000
+He has written the scripts for the Nick Cage kind of sci-fi vehicle Next from a few years ago.
+
+1189
+01:06:01,000 --> 01:06:07,000
+He wrote this script for Hollywoodland where Ben Affleck plays George Reeves.
+
+1190
+01:06:07,000 --> 01:06:08,000
+And the superman actor.
+
+1191
+01:06:08,000 --> 01:06:10,000
+And Adrian Brody is trying to figure solve the murder.
+
+1192
+01:06:10,000 --> 01:06:15,000
+And then he wrote all four Halloween Town Disney Channel original movies.
+
+1193
+01:06:15,000 --> 01:06:16,000
+Oh wow.
+
+1194
+01:06:16,000 --> 01:06:19,000
+That would be Halloween Town Halloween Town 2.
+
+1195
+01:06:19,000 --> 01:06:24,000
+Calibars Revenge Halloween Town High and of course returned to Halloween Town.
+
+1196
+01:06:24,000 --> 01:06:25,000
+Calibar.
+
+1197
+01:06:25,000 --> 01:06:26,000
+Calibar.
+
+1198
+01:06:26,000 --> 01:06:27,000
+Next year Calibar episode.
+
+1199
+01:06:27,000 --> 01:06:28,000
+Calibar.
+
+1200
+01:06:28,000 --> 01:06:29,000
+Calibar.
+
+1201
+01:06:29,000 --> 01:06:35,000
+I you know I did not I was Disney Channel original movies not not big in my house.
+
+1202
+01:06:35,000 --> 01:06:37,000
+But but we're big in Janes.
+
+1203
+01:06:37,000 --> 01:06:42,000
+And she we did watch Halloween Town around Halloween one year.
+
+1204
+01:06:42,000 --> 01:06:47,000
+And I think the way she got me to watch it was saying well the grandma is Debbie Reynolds.
+
+1205
+01:06:47,000 --> 01:06:49,000
+And I was like sign me up.
+
+1206
+01:06:49,000 --> 01:06:50,000
+I'm there.
+
+1207
+01:06:50,000 --> 01:06:52,000
+You tap dance into the room.
+
+1208
+01:06:52,000 --> 01:06:53,000
+Yeah.
+
+1209
+01:06:53,000 --> 01:06:56,000
+The Phantom of the Megaplex I think is the one where.
+
+1210
+01:06:56,000 --> 01:06:58,000
+Who is Calibar?
+
+1211
+01:06:58,000 --> 01:06:59,000
+I'm intrigued by the name.
+
+1212
+01:06:59,000 --> 01:07:00,000
+I think he's the evil.
+
+1213
+01:07:00,000 --> 01:07:01,000
+I think he's the bad guy.
+
+1214
+01:07:01,000 --> 01:07:05,000
+Did you is anything like ooze level or Jekyll level.
+
+1215
+01:07:05,000 --> 01:07:08,000
+I'm really struggling to remember.
+
+1216
+01:07:08,000 --> 01:07:09,000
+You don't remember at all.
+
+1217
+01:07:09,000 --> 01:07:11,000
+Calibar Halloween Town.
+
+1218
+01:07:11,000 --> 01:07:12,000
+What's it called?
+
+1219
+01:07:12,000 --> 01:07:14,000
+He's got a top hat.
+
+1220
+01:07:14,000 --> 01:07:15,000
+Yeah.
+
+1221
+01:07:15,000 --> 01:07:16,000
+He's got a little little staff.
+
+1222
+01:07:16,000 --> 01:07:17,000
+He's a warlock.
+
+1223
+01:07:17,000 --> 01:07:20,000
+He was once the boyfriend of Gwen.
+
+1224
+01:07:20,000 --> 01:07:21,000
+Okay.
+
+1225
+01:07:21,000 --> 01:07:22,000
+There's potential here.
+
+1226
+01:07:22,000 --> 01:07:23,000
+Yeah there is potential.
+
+1227
+01:07:23,000 --> 01:07:24,000
+I'll have to take a look and see.
+
+1228
+01:07:24,000 --> 01:07:26,000
+Listeners can let us know if you think.
+
+1229
+01:07:26,000 --> 01:07:32,000
+Phantom of the Megaplex a similar arc where I like jumped out of my chair when we watched
+
+1230
+01:07:32,000 --> 01:07:34,000
+it because I was like it's Mickey Rooney.
+
+1231
+01:07:34,000 --> 01:07:37,000
+The old guy who works at the movie theater.
+
+1232
+01:07:37,000 --> 01:07:38,000
+It's Mickey Rooney.
+
+1233
+01:07:38,000 --> 01:07:43,200
+There's a was it on the Dana Carvey David's Bay podcast where he's because Dana Carvey
+
+1234
+01:07:43,200 --> 01:07:47,000
+was on a sitcom with Mickey Rooney before Saturday Night Live.
+
+1235
+01:07:47,000 --> 01:07:48,000
+Oh yeah.
+
+1236
+01:07:48,000 --> 01:07:49,000
+Nathan Lane.
+
+1237
+01:07:49,000 --> 01:07:50,000
+Yeah.
+
+1238
+01:07:50,000 --> 01:07:54,000
+And he just has many stories of Mickey Rooney like Holt like Mickey Rooney carrying a gun
+
+1239
+01:07:54,000 --> 01:07:56,000
+on set with him.
+
+1240
+01:07:56,000 --> 01:07:57,000
+What?
+
+1241
+01:07:57,000 --> 01:07:58,000
+In a studio.
+
+1242
+01:07:58,000 --> 01:08:03,000
+Just maybe had it like holster and a gun and just was a true maniac.
+
+1243
+01:08:03,000 --> 01:08:09,000
+Just not a not a doesn't seem like exaggerated at all that he was a total crazy person.
+
+1244
+01:08:09,000 --> 01:08:13,000
+You but here we are lighting up about stars of yesteryear.
+
+1245
+01:08:13,000 --> 01:08:19,000
+We're missing that one of today's top stars makes one of their first appearances in anything
+
+1246
+01:08:19,000 --> 01:08:20,000
+in this show.
+
+1247
+01:08:20,000 --> 01:08:25,000
+Did you guys catch that in this LeVar Burton episode there's a scene between Christopher
+
+1248
+01:08:25,000 --> 01:08:28,000
+Lloyd LeVar Burton and a young Jeremy Renner.
+
+1249
+01:08:28,000 --> 01:08:29,000
+I did.
+
+1250
+01:08:29,000 --> 01:08:30,000
+I missed it.
+
+1251
+01:08:30,000 --> 01:08:31,000
+Jeremy's in there.
+
+1252
+01:08:31,000 --> 01:08:32,000
+Wow.
+
+1253
+01:08:32,000 --> 01:08:33,000
+I got it.
+
+1254
+01:08:33,000 --> 01:08:38,000
+We saw it on IMDB and I couldn't I was on the lookout but I figured it would probably
+
+1255
+01:08:38,000 --> 01:08:39,000
+be so quick I would miss it.
+
+1256
+01:08:39,000 --> 01:08:40,000
+It's pretty fast.
+
+1257
+01:08:40,000 --> 01:08:41,000
+Yeah.
+
+1258
+01:08:41,000 --> 01:08:42,000
+Yeah.
+
+1259
+01:08:42,000 --> 01:08:43,000
+But he makes a mark.
+
+1260
+01:08:43,000 --> 01:08:50,000
+You look at this young mechanic or something and go boy I want to hear this guy's music
+
+1261
+01:08:50,000 --> 01:08:52,000
+as soon as possible.
+
+1262
+01:08:52,000 --> 01:08:54,000
+Does heaven have a name?
+
+1263
+01:08:54,000 --> 01:08:57,000
+What's his take on the House of the Rising Sun?
+
+1264
+01:08:57,000 --> 01:08:58,000
+Wow.
+
+1265
+01:08:58,000 --> 01:08:59,000
+Man.
+
+1266
+01:08:59,000 --> 01:09:00,000
+That's great.
+
+1267
+01:09:00,000 --> 01:09:01,000
+His big break.
+
+1268
+01:09:01,000 --> 01:09:02,000
+Yeah.
+
+1269
+01:09:02,000 --> 01:09:03,000
+So you can win.
+
+1270
+01:09:03,000 --> 01:09:09,360
+That's that's one thing to get you to head to Deadly Games Cool Show.
+
+1271
+01:09:09,360 --> 01:09:11,680
+What else is fun in this?
+
+1272
+01:09:11,680 --> 01:09:12,920
+There's just there.
+
+1273
+01:09:12,920 --> 01:09:13,920
+What's nice at least.
+
+1274
+01:09:13,920 --> 01:09:14,920
+Yes.
+
+1275
+01:09:14,920 --> 01:09:21,440
+The show is not is is not a good show and in a lot of episodes is not bad enough in
+
+1276
+01:09:21,440 --> 01:09:23,240
+a lot of ways.
+
+1277
+01:09:23,240 --> 01:09:29,080
+Some episode again the Spiner episode is good for Deadly Games but there will be at least
+
+1278
+01:09:29,160 --> 01:09:34,760
+a couple times they'll say Jackal in the episode which always works and it's always funny and
+
+1279
+01:09:34,760 --> 01:09:38,680
+then sometimes they say like there's one episode where they're just like Hasta la vista Jackal.
+
+1280
+01:09:38,680 --> 01:09:39,680
+Yes.
+
+1281
+01:09:39,680 --> 01:09:40,680
+Wait.
+
+1282
+01:09:40,680 --> 01:09:41,680
+Oh wait.
+
+1283
+01:09:41,680 --> 01:09:42,680
+Do I have that?
+
+1284
+01:09:42,680 --> 01:09:43,680
+I think I have that queued up.
+
+1285
+01:09:43,680 --> 01:09:44,680
+This is a big moment.
+
+1286
+01:09:44,680 --> 01:09:45,680
+This is the one that you missed.
+
+1287
+01:09:45,680 --> 01:09:49,400
+First of all just I want to give you a second to be shocked by this red suit.
+
+1288
+01:09:49,400 --> 01:09:52,600
+I mean that's the end of this in the episode for the end of Jackal.
+
+1289
+01:09:52,600 --> 01:09:57,760
+So this is after the Mickey Mantle baseball card makes his suit red and he is the devil
+
+1290
+01:09:57,760 --> 01:10:04,440
+now and then this is where the magic baseball is going to be thrown at him.
+
+1291
+01:10:04,440 --> 01:10:07,440
+So here we go.
+
+1292
+01:10:07,440 --> 01:10:24,800
+Hasta la vista Jackal.
+
+1293
+01:10:24,800 --> 01:10:25,800
+So that's cool.
+
+1294
+01:10:26,680 --> 01:10:28,320
+What do you want out of Christopher Lloyd?
+
+1295
+01:10:28,320 --> 01:10:29,320
+Crazy yells.
+
+1296
+01:10:29,320 --> 01:10:30,320
+Yeah.
+
+1297
+01:10:30,320 --> 01:10:36,360
+I mean this is really your way to get if you wanted a little more Judge Doom at kind of
+
+1298
+01:10:36,360 --> 01:10:43,840
+quarter speed just a lazier Judge Doom and if you didn't like the Judge Doom.
+
+1299
+01:10:43,840 --> 01:10:48,360
+I like Judge Doom but I don't like all that stuff with like a cartoons in the real world
+
+1300
+01:10:48,360 --> 01:10:51,160
+and Mickey Mouse and Bugs Bunny and stuff.
+
+1301
+01:10:51,160 --> 01:10:57,880
+What if instead Judge Doom was surrounded by guys who should be in sprint commercials?
+
+1302
+01:10:57,880 --> 01:11:01,440
+That's what the show can provide for you.
+
+1303
+01:11:01,440 --> 01:11:04,400
+I literally learned this as we started recording.
+
+1304
+01:11:04,400 --> 01:11:06,400
+Stephen Kay the guy who played Peter Walker.
+
+1305
+01:11:06,400 --> 01:11:08,600
+Oh yeah you found it huh?
+
+1306
+01:11:08,600 --> 01:11:14,840
+The relation the first off in 2014 he married Piper Parabot.
+
+1307
+01:11:14,840 --> 01:11:15,840
+Wow.
+
+1308
+01:11:15,840 --> 01:11:16,840
+Who he was.
+
+1309
+01:11:16,840 --> 01:11:20,160
+Well he worked on Covert Affairs.
+
+1310
+01:11:20,160 --> 01:11:22,280
+He directed and produced Covert Affairs.
+
+1311
+01:11:22,280 --> 01:11:24,280
+She was one of the stars of that.
+
+1312
+01:11:24,280 --> 01:11:27,160
+That show lasted for five seasons on USA.
+
+1313
+01:11:27,160 --> 01:11:28,160
+Yes.
+
+1314
+01:11:28,160 --> 01:11:29,160
+Fucking about.
+
+1315
+01:11:29,160 --> 01:11:31,000
+Covert Affairs.
+
+1316
+01:11:31,000 --> 01:11:37,000
+He had previously dated Desperate Housewives actresses Terry Hatcher and Eva Longoria.
+
+1317
+01:11:37,000 --> 01:11:38,000
+Two of them?
+
+1318
+01:11:38,000 --> 01:11:39,000
+Two of them.
+
+1319
+01:11:39,000 --> 01:11:43,400
+Wow that's like Adam Durowitz from Con and Crows dating Courtney Cox and Jennifer Aniston.
+
+1320
+01:11:43,400 --> 01:11:49,760
+That it's almost exactly like that because he had sure enough directed projects that
+
+1321
+01:11:49,760 --> 01:11:50,760
+they were in.
+
+1322
+01:11:50,760 --> 01:11:51,760
+Sure.
+
+1323
+01:11:51,760 --> 01:11:52,760
+So.
+
+1324
+01:11:52,760 --> 01:11:53,760
+The judge is a powerful guy you know.
+
+1325
+01:11:53,760 --> 01:11:54,760
+Geez.
+
+1326
+01:11:54,760 --> 01:11:56,320
+He's directed a lot.
+
+1327
+01:11:56,320 --> 01:11:59,480
+You didn't find what I was about to reference.
+
+1328
+01:11:59,480 --> 01:12:03,600
+He's directed many episodes of a show I have not yet watched Yellowstone.
+
+1329
+01:12:03,600 --> 01:12:04,600
+Wow.
+
+1330
+01:12:04,600 --> 01:12:08,760
+Hey why are we fucking around with Sebastian Jackle here when you still haven't watched
+
+1331
+01:12:08,760 --> 01:12:09,760
+Yellowstone?
+
+1332
+01:12:09,760 --> 01:12:14,160
+I haven't watched it but Stephen Kay directed maybe 13 something like that.
+
+1333
+01:12:14,160 --> 01:12:16,920
+So the fact that he played Peter Rucker is thriving.
+
+1334
+01:12:17,160 --> 01:12:19,960
+Yeah he directed the Sylvester Stallone movie Get Carter.
+
+1335
+01:12:19,960 --> 01:12:20,960
+Yeah.
+
+1336
+01:12:20,960 --> 01:12:21,960
+What?
+
+1337
+01:12:21,960 --> 01:12:22,960
+Yes.
+
+1338
+01:12:22,960 --> 01:12:24,200
+The remake of the Michael Caine one.
+
+1339
+01:12:24,200 --> 01:12:25,640
+He works a lot it looks like.
+
+1340
+01:12:25,640 --> 01:12:26,640
+Geez.
+
+1341
+01:12:26,640 --> 01:12:27,640
+Yeah he directed.
+
+1342
+01:12:27,640 --> 01:12:30,760
+Sons of Anarchy, Friday Night Lights, Quantico.
+
+1343
+01:12:30,760 --> 01:12:31,760
+The Shield.
+
+1344
+01:12:31,760 --> 01:12:37,040
+Wow I'm glad that he found maybe his true calling in directing because acting wise he
+
+1345
+01:12:37,040 --> 01:12:38,680
+is quite annoying.
+
+1346
+01:12:38,680 --> 01:12:43,000
+I was very happy to skip any scenes involving Peter Rucker.
+
+1347
+01:12:43,000 --> 01:12:44,000
+He talks to himself.
+
+1348
+01:12:44,000 --> 01:12:46,800
+He's like talking to himself and he goes why am I talking to myself?
+
+1349
+01:12:46,880 --> 01:12:48,560
+I mean that's the writing look.
+
+1350
+01:12:48,560 --> 01:12:49,560
+Yeah yeah.
+
+1351
+01:12:49,560 --> 01:12:50,560
+Yeah yeah.
+
+1352
+01:12:50,560 --> 01:12:55,480
+Yes well there's one thing that he says that there's no way to turn it into anything better
+
+1353
+01:12:55,480 --> 01:13:04,600
+which is the okay the one you were saying where the prankster Schlecht.
+
+1354
+01:13:04,600 --> 01:13:05,600
+Danny Schlecht.
+
+1355
+01:13:05,600 --> 01:13:06,600
+Danny Schlecht.
+
+1356
+01:13:06,600 --> 01:13:07,600
+Yeah.
+
+1357
+01:13:07,600 --> 01:13:15,040
+That he puts the guy's ex-wife and his best friend Peter in a compromising position so
+
+1358
+01:13:15,080 --> 01:13:18,640
+So the Gus walks in and sees them in bed naked together.
+
+1359
+01:13:18,640 --> 01:13:19,640
+Yes.
+
+1360
+01:13:19,640 --> 01:13:20,960
+And what other conclusions could you draw?
+
+1361
+01:13:20,960 --> 01:13:24,920
+He doesn't know that something is afoot then this tableau was arranged.
+
+1362
+01:13:24,920 --> 01:13:29,800
+It was a big prank and Peter at some point says you really think I came over here to
+
+1363
+01:13:29,800 --> 01:13:30,800
+boink your wife?
+
+1364
+01:13:30,800 --> 01:13:31,800
+Oh god.
+
+1365
+01:13:31,800 --> 01:13:34,800
+Once in every 90s.
+
+1366
+01:13:34,800 --> 01:13:37,800
+Boink in reality.
+
+1367
+01:13:37,800 --> 01:13:42,040
+Sorry just anybody like oh come on boink me boink me.
+
+1368
+01:13:42,040 --> 01:13:44,760
+Oh boink me.
+
+1369
+01:13:45,000 --> 01:13:46,000
+Yeah there's a lot.
+
+1370
+01:13:46,000 --> 01:13:48,320
+A network sensor or something saying stuff like that.
+
+1371
+01:13:48,320 --> 01:13:54,040
+There's another episode where they go to Vegas.
+
+1372
+01:13:54,040 --> 01:14:02,680
+Dr. Gus Lloyd spawns his car to get money to win the back rent he has to pay but then
+
+1373
+01:14:02,680 --> 01:14:08,040
+goes on a losing streak and the running thread through that is that he remembers a lot of
+
+1374
+01:14:08,040 --> 01:14:15,960
+details from him and his ex-wife's relationship but they both keep getting stuff wrong and
+
+1375
+01:14:15,960 --> 01:14:23,160
+I don't like yeah just the vibe of the two main male characters is like of course we're
+
+1376
+01:14:23,160 --> 01:14:28,600
+guys so we're idiots and we're scumbags and we're messy but we're also geniuses.
+
+1377
+01:14:28,600 --> 01:14:30,840
+It's very strange.
+
+1378
+01:14:30,840 --> 01:14:36,320
+You're running through the you were running Deadly Games through the 2020s filter.
+
+1379
+01:14:36,320 --> 01:14:37,320
+Somebody had to do it.
+
+1380
+01:14:37,320 --> 01:14:39,840
+It's very on the nose.
+
+1381
+01:14:39,840 --> 01:14:41,520
+It's just like I don't know.
+
+1382
+01:14:41,520 --> 01:14:45,480
+Be better writers of Deadly Games.
+
+1383
+01:14:45,480 --> 01:14:50,320
+The show is you know what I was going to say is that it's like the thing they can do because
+
+1384
+01:14:50,320 --> 01:14:53,840
+they can't do violence but they can do horny and they can do body.
+
+1385
+01:14:53,840 --> 01:14:55,280
+They can say boink.
+
+1386
+01:14:55,280 --> 01:14:56,280
+They can do body though.
+
+1387
+01:14:56,280 --> 01:14:57,280
+They can say boink.
+
+1388
+01:14:57,280 --> 01:14:59,600
+They can talk about just what guys talk about like boinking.
+
+1389
+01:14:59,600 --> 01:15:07,240
+This show is a 13 episode homemade commercial that won the Doritos rocked a Super Bowl
+
+1390
+01:15:07,240 --> 01:15:08,240
+contest.
+
+1391
+01:15:08,240 --> 01:15:13,160
+I'm just saying it's a very European show you know because it's not as violent but it's
+
+1392
+01:15:13,160 --> 01:15:17,960
+very sexual so it's a lot more comfortable with that.
+
+1393
+01:15:17,960 --> 01:15:23,040
+And in the filmmaking too it's very surprising and experimental.
+
+1394
+01:15:23,040 --> 01:15:27,040
+And very obviously like if they only have one take to do things you know quick.
+
+1395
+01:15:27,040 --> 01:15:30,640
+That's how the European filmmakers work and they have a four hour lunch.
+
+1396
+01:15:30,640 --> 01:15:31,640
+Yeah.
+
+1397
+01:15:31,640 --> 01:15:32,640
+Sure.
+
+1398
+01:15:33,640 --> 01:15:38,480
+Let's run this moment here through the prism of European filmmaking.
+
+1399
+01:15:38,480 --> 01:15:42,560
+This is a part where I don't again I'm only watching jackal scenes.
+
+1400
+01:15:42,560 --> 01:15:45,000
+I'm surprised I caught this one because he's not even in it.
+
+1401
+01:15:45,000 --> 01:15:46,000
+It's just his voice.
+
+1402
+01:15:46,000 --> 01:15:50,680
+But there is an episode where I don't even know who the characters are.
+
+1403
+01:15:50,680 --> 01:15:54,200
+They're at I think one is the ex-wife or the other guy I don't know.
+
+1404
+01:15:54,200 --> 01:15:55,480
+They're at a drive-in theater.
+
+1405
+01:15:55,480 --> 01:16:00,240
+They're there to see Ace Ventura when nature calls.
+
+1406
+01:16:00,240 --> 01:16:03,560
+He's very snarky about the movie.
+
+1407
+01:16:03,560 --> 01:16:09,360
+I don't know exactly what's going on but imagine if you were in a drive-in theater and the
+
+1408
+01:16:09,360 --> 01:16:15,800
+trailers were hacked by the devil himself and you're watching no mere regular trailer
+
+1409
+01:16:15,800 --> 01:16:19,000
+but an evil devil trailer.
+
+1410
+01:16:30,240 --> 01:16:35,960
+That man had the brilliance and the power to bring him to his knees and that man called
+
+1411
+01:16:35,960 --> 01:16:39,520
+upon the car mechanic.
+
+1412
+01:16:39,520 --> 01:16:45,520
+Ross Logan is the car mechanic coming much sooner than you think.
+
+1413
+01:16:49,520 --> 01:16:50,960
+Digital explosions.
+
+1414
+01:16:50,960 --> 01:16:53,280
+The audience goes nuts for that trailer.
+
+1415
+01:16:53,280 --> 01:16:54,280
+They love it.
+
+1416
+01:16:54,280 --> 01:16:58,000
+Glad you caught that one Scott because you don't see Sebastian Jackal but you do hear
+
+1417
+01:16:58,000 --> 01:16:59,000
+Sebastian.
+
+1418
+01:16:59,000 --> 01:17:00,000
+Yeah I know I almost missed it.
+
+1419
+01:17:00,760 --> 01:17:02,760
+Yeah it was very high odds I was going to miss it.
+
+1420
+01:17:02,760 --> 01:17:07,080
+But that's a great because you want to hear Lloyd screaming and you want to hear him shouting
+
+1421
+01:17:07,080 --> 01:17:12,080
+RUN RUN RUN RUN.
+
+1422
+01:17:12,080 --> 01:17:14,480
+I feel like he's a little out of character.
+
+1423
+01:17:14,480 --> 01:17:18,760
+I don't think Jackal's ever amped up to that degree but I guess you tell Jackal to narrate
+
+1424
+01:17:18,760 --> 01:17:25,440
+a trailer and you get Jackal times 30.
+
+1425
+01:17:25,440 --> 01:17:27,040
+He doesn't yell ever really.
+
+1426
+01:17:27,040 --> 01:17:28,040
+Jackal doesn't.
+
+1427
+01:17:28,040 --> 01:17:29,040
+He's very calm.
+
+1428
+01:17:29,080 --> 01:17:31,120
+Once in a while he gets a little intense but that's it.
+
+1429
+01:17:31,120 --> 01:17:34,200
+I wouldn't say he ever gets to that decibel level.
+
+1430
+01:17:34,200 --> 01:17:37,360
+More about cutting comments kid.
+
+1431
+01:17:37,360 --> 01:17:38,840
+He makes friends sometimes.
+
+1432
+01:17:38,840 --> 01:17:43,360
+They show up at a bowling alley at one point and Jackal's walking out with a bowling team
+
+1433
+01:17:43,360 --> 01:17:48,360
+and a real salt to the earth guy and the guy goes like you come by.
+
+1434
+01:17:48,360 --> 01:17:53,120
+We didn't think you were going to be good at bowling and then we took a chance on you.
+
+1435
+01:17:53,120 --> 01:17:57,160
+Come by the factory some time and we'll have some chow off the truck.
+
+1436
+01:17:57,960 --> 01:18:03,000
+It's like I really should have watched the credits to see if that actor was credit as
+
+1437
+01:18:03,000 --> 01:18:07,560
+like blue collar Joe blue collar man.
+
+1438
+01:18:07,560 --> 01:18:13,800
+My favorite condiment there is is the salt of the earth.
+
+1439
+01:18:13,800 --> 01:18:16,040
+The show is an hour long.
+
+1440
+01:18:16,040 --> 01:18:17,040
+Do we say that?
+
+1441
+01:18:17,040 --> 01:18:18,040
+That's a lot of difficulty.
+
+1442
+01:18:18,040 --> 01:18:19,040
+Did we say that?
+
+1443
+01:18:19,040 --> 01:18:20,040
+Because that I think is a big problem.
+
+1444
+01:18:20,040 --> 01:18:22,240
+It feels so much longer.
+
+1445
+01:18:22,240 --> 01:18:24,960
+We probably should have said that earlier.
+
+1446
+01:18:24,960 --> 01:18:25,960
+I get it.
+
+1447
+01:18:25,960 --> 01:18:26,960
+OK.
+
+1448
+01:18:26,960 --> 01:18:29,960
+That makes a lot to sustain.
+
+1449
+01:18:29,960 --> 01:18:32,200
+Yeah.
+
+1450
+01:18:32,200 --> 01:18:38,440
+I was hoping somebody had made a super cut of Jackal moments, but somebody has.
+
+1451
+01:18:38,440 --> 01:18:41,960
+It's just they put music under it and there's no dialogue.
+
+1452
+01:18:41,960 --> 01:18:42,960
+Oh no.
+
+1453
+01:18:42,960 --> 01:18:43,960
+Oh, it's a fan.
+
+1454
+01:18:43,960 --> 01:18:45,080
+It's just like the fan cams.
+
+1455
+01:18:45,080 --> 01:18:46,080
+Somebody made.
+
+1456
+01:18:46,080 --> 01:18:47,080
+Yes.
+
+1457
+01:18:47,080 --> 01:18:48,080
+Well, somebody made here.
+
+1458
+01:18:48,080 --> 01:18:49,080
+Let me find it here.
+
+1459
+01:18:49,080 --> 01:18:54,680
+And it's like a non-English song, but somebody made a salute to Jackal, which I believe is
+
+1460
+01:18:54,680 --> 01:18:55,680
+sincere.
+
+1461
+01:18:55,680 --> 01:19:12,360
+What a song.
+
+1462
+01:19:12,360 --> 01:19:13,360
+Perfect guitar.
+
+1463
+01:19:13,360 --> 01:19:14,360
+Mid 90s guitar.
+
+1464
+01:19:14,360 --> 01:19:15,360
+Raises toes.
+
+1465
+01:19:15,360 --> 01:19:26,760
+Yeah, it's like all the like he looks great in the suit and yeah.
+
+1466
+01:19:26,760 --> 01:19:27,760
+What is that called?
+
+1467
+01:19:27,760 --> 01:19:28,760
+What is the name of that video?
+
+1468
+01:19:28,760 --> 01:19:31,480
+Just as Sebastian Jackal, it was made eight years ago.
+
+1469
+01:19:31,480 --> 01:19:32,480
+Great.
+
+1470
+01:19:32,480 --> 01:19:33,880
+OK, so he's been represented.
+
+1471
+01:19:33,880 --> 01:19:39,080
+We are not the first thing to acknowledge and celebrate Sebastian Jackal, but we're the
+
+1472
+01:19:39,080 --> 01:19:40,520
+longest to.
+
+1473
+01:19:40,520 --> 01:19:44,520
+And there's one comment on the video and it says, I remember Deadly Games back in high
+
+1474
+01:19:44,520 --> 01:19:49,200
+school, Sebastian Jackal was an awesome villain and the user name is Bluntasaurus.
+
+1475
+01:19:49,200 --> 01:19:50,200
+Nice.
+
+1476
+01:19:50,200 --> 01:19:51,200
+Crunchy.
+
+1477
+01:19:51,200 --> 01:19:59,240
+Here's your poll quote for the Blu-ray Bluntasaurus restoration of Deadly Games.
+
+1478
+01:19:59,240 --> 01:20:03,760
+There's other again, I really was not paying attention to these last few episodes.
+
+1479
+01:20:03,760 --> 01:20:06,040
+There's one with a needle.
+
+1480
+01:20:06,040 --> 01:20:11,400
+We already had an evil pink slip guy and as an evil divorce lawyer who shoots, I can't
+
+1481
+01:20:11,400 --> 01:20:14,320
+even tell what just kind of yellow glows.
+
+1482
+01:20:15,320 --> 01:20:23,200
+Legal legal forms, affidavits, I don't know, but that character's plan is to electrify
+
+1483
+01:20:23,200 --> 01:20:27,040
+the chairs of the Supreme Court justices.
+
+1484
+01:20:27,040 --> 01:20:31,400
+They have to go to the Supreme Court and stop, which that's come on.
+
+1485
+01:20:31,400 --> 01:20:33,600
+Hey, don't do that.
+
+1486
+01:20:33,600 --> 01:20:36,800
+No, no, that'd be a shame.
+
+1487
+01:20:36,800 --> 01:20:37,800
+Just no.
+
+1488
+01:20:37,800 --> 01:20:42,680
+Those are doing five figures important in our times.
+
+1489
+01:20:42,680 --> 01:20:43,680
+No, no.
+
+1490
+01:20:43,680 --> 01:20:44,680
+I was.
+
+1491
+01:20:44,680 --> 01:20:48,680
+Do you have another?
+
+1492
+01:20:48,680 --> 01:20:52,040
+How many other highlights of Jackal before we I have an idea for the end?
+
+1493
+01:20:52,040 --> 01:20:56,560
+So make sure you take a quick good glance.
+
+1494
+01:20:56,560 --> 01:20:58,560
+This is our chance.
+
+1495
+01:20:58,560 --> 01:21:00,360
+So a gun that shoots trash bags.
+
+1496
+01:21:00,360 --> 01:21:03,760
+I said it was a part where he says he is going to.
+
+1497
+01:21:03,760 --> 01:21:09,520
+Well, firstly, there's a scene that he walks into and eats, eats a decorative soap out
+
+1498
+01:21:09,520 --> 01:21:11,520
+of his hand.
+
+1499
+01:21:11,600 --> 01:21:12,600
+All right.
+
+1500
+01:21:12,600 --> 01:21:13,600
+So chomp chomp.
+
+1501
+01:21:13,600 --> 01:21:16,280
+And then he's going to be messing up his house somehow.
+
+1502
+01:21:16,280 --> 01:21:18,640
+I think they may have blown a wall out of his house.
+
+1503
+01:21:18,640 --> 01:21:24,120
+And then he says, I might just put this on the inaugural cover of Jackal and homes and
+
+1504
+01:21:24,120 --> 01:21:25,360
+gardens.
+
+1505
+01:21:25,360 --> 01:21:27,000
+A lot of Jackal endeavors.
+
+1506
+01:21:27,000 --> 01:21:28,960
+He's got a lot of irons in the fire.
+
+1507
+01:21:28,960 --> 01:21:29,960
+Yeah.
+
+1508
+01:21:29,960 --> 01:21:35,960
+In the camp counselor episode where the villain is Anthony Michael Hall.
+
+1509
+01:21:35,960 --> 01:21:38,000
+Oh, yes. He's the evil camp counselor.
+
+1510
+01:21:38,000 --> 01:21:39,560
+Yeah, he's the evil camp counselor.
+
+1511
+01:21:39,560 --> 01:21:45,080
+That one, especially confusing for Jane to hop in on because it involves them.
+
+1512
+01:21:45,080 --> 01:21:50,520
+They have to go to a store called the Spy Guy, which is a guy who sells like home surveillance
+
+1513
+01:21:50,520 --> 01:21:51,520
+equipment.
+
+1514
+01:21:51,520 --> 01:21:58,080
+But the Spy Guy is not there because he's appearing on a show called Eric, a Jerry Springer
+
+1515
+01:21:58,080 --> 01:21:59,960
+type show.
+
+1516
+01:21:59,960 --> 01:22:05,040
+And they only know this because a guy tells them that and then says, oh, there was a sign
+
+1517
+01:22:05,040 --> 01:22:06,040
+on the door.
+
+1518
+01:22:06,040 --> 01:22:07,600
+Guess it's not there anymore.
+
+1519
+01:22:07,600 --> 01:22:13,220
+And they're like, oh, the camp counselor must have been here and taken the sign with him.
+
+1520
+01:22:13,220 --> 01:22:17,200
+And this is after the camp counselor drains their bank accounts.
+
+1521
+01:22:17,200 --> 01:22:23,380
+So that was a bad one to hop in on because there are like that's like five subplots that
+
+1522
+01:22:23,380 --> 01:22:25,880
+are this is all very unnecessary.
+
+1523
+01:22:25,880 --> 01:22:27,080
+It's very confusing.
+
+1524
+01:22:27,080 --> 01:22:32,760
+You got even more confusion there because it's a daytime show called Eric spelled with
+
+1525
+01:22:32,760 --> 01:22:34,080
+a K.
+
+1526
+01:22:34,200 --> 01:22:39,600
+And then you're in the studio and you see photos in the green room of Eric Estrada.
+
+1527
+01:22:39,600 --> 01:22:45,440
+But then the show starts and it's like, here's your guest host, Jimmy Walker.
+
+1528
+01:22:45,440 --> 01:22:51,560
+And then Jimmy JJ Walker is the host of Eric, a show that context clues tells us, tell us
+
+1529
+01:22:51,560 --> 01:22:54,200
+are you is usually hosted by Eric Estrada.
+
+1530
+01:22:54,200 --> 01:22:55,280
+Huh?
+
+1531
+01:22:55,280 --> 01:22:57,320
+Why do we need to process all this?
+
+1532
+01:22:57,320 --> 01:22:58,960
+And what happened to make this have?
+
+1533
+01:22:58,960 --> 01:23:04,720
+I think that they got bailed on by Eric Estrada.
+
+1534
+01:23:04,720 --> 01:23:12,200
+He like somebody offered him free lunch or like a convention was going to pay him more
+
+1535
+01:23:12,200 --> 01:23:14,720
+going to pay him more than sorry.
+
+1536
+01:23:14,720 --> 01:23:15,720
+Nothing I can do.
+
+1537
+01:23:15,720 --> 01:23:19,760
+So they're like, crap, can we get Jimmy Walker here within the hour?
+
+1538
+01:23:19,760 --> 01:23:21,520
+And the answer was they could.
+
+1539
+01:23:21,520 --> 01:23:24,240
+So but what they couldn't do was repaint all this side.
+
+1540
+01:23:24,240 --> 01:23:26,400
+They can't make a bunch of Jimmy signs.
+
+1541
+01:23:26,400 --> 01:23:27,400
+Somebody started.
+
+1542
+01:23:27,400 --> 01:23:28,400
+They only got the Jay done.
+
+1543
+01:23:28,640 --> 01:23:29,640
+All right.
+
+1544
+01:23:29,640 --> 01:23:30,640
+Nevermind.
+
+1545
+01:23:30,640 --> 01:23:31,640
+He's a guest host of Eric.
+
+1546
+01:23:31,640 --> 01:23:34,760
+Go and you are watching much more closely than you alluded to.
+
+1547
+01:23:34,760 --> 01:23:37,680
+Well, I well, yeah, there's huge parts I would I would bail on.
+
+1548
+01:23:37,680 --> 01:23:43,280
+But I think if I see media, if I see a movie trailer or I see a show, I mean, I got to
+
+1549
+01:23:43,280 --> 01:23:48,240
+know the details with the show and what details Eric guest host Eric and issues based talk
+
+1550
+01:23:48,240 --> 01:23:52,720
+show, not like a comedy show, guest hosted by Jimmy Walker.
+
+1551
+01:23:52,720 --> 01:23:54,960
+Everyone involved in the show is a goofball.
+
+1552
+01:23:54,960 --> 01:23:56,760
+Why are they doing daytime shows?
+
+1553
+01:23:56,760 --> 01:24:00,160
+And they're talking about like controlling relationships.
+
+1554
+01:24:00,160 --> 01:24:06,800
+That's why they have a surveillance expert on to, I guess, explain how people could watch
+
+1555
+01:24:06,800 --> 01:24:10,120
+the people trying to control.
+
+1556
+01:24:10,120 --> 01:24:14,160
+So it's whatever message is unclear.
+
+1557
+01:24:14,160 --> 01:24:17,680
+It's so much of this is just like, yeah, we got to get this script on and we got to shoot
+
+1558
+01:24:17,680 --> 01:24:20,800
+this in five days, four days, probably.
+
+1559
+01:24:20,800 --> 01:24:25,820
+That one you end up the I think the grand plan and that one involves causing damage
+
+1560
+01:24:25,860 --> 01:24:27,900
+at the ultimate camp Camp David.
+
+1561
+01:24:28,140 --> 01:24:32,460
+So there's a part where there's jogging and then just this is in part two.
+
+1562
+01:24:32,460 --> 01:24:38,020
+Maybe you might miss this. But late in part two, they cut to the jogging group and of
+
+1563
+01:24:38,020 --> 01:24:40,180
+Secret Service agents and then the president.
+
+1564
+01:24:40,180 --> 01:24:43,500
+Like it is Bill Clinton, not actually him.
+
+1565
+01:24:43,500 --> 01:24:47,340
+But they you think, OK, so they're going to show this from a distance and imply Bill
+
+1566
+01:24:47,340 --> 01:24:49,100
+Clinton. But then it gets way closer.
+
+1567
+01:24:49,220 --> 01:24:52,180
+And there's a little scene of somebody talking to President Clinton.
+
+1568
+01:24:52,660 --> 01:24:56,740
+You're just showing Clinton in the show and it's just some guy like
+
+1569
+01:24:56,740 --> 01:25:00,700
+you're sure the season to you've heightened to the president.
+
+1570
+01:25:01,180 --> 01:25:07,300
+And then you're going to the few episodes later, they might pour toxic sludge
+
+1571
+01:25:07,300 --> 01:25:11,260
+at the top of the Hollywood Bowl where it would cascade down through the crowd.
+
+1572
+01:25:11,340 --> 01:25:14,100
+Oh, yeah. And he is playing that night.
+
+1573
+01:25:14,220 --> 01:25:16,100
+I missed that detail. That's it there.
+
+1574
+01:25:16,780 --> 01:25:18,700
+It's a Tom Fetty Hollywood Bowl.
+
+1575
+01:25:18,700 --> 01:25:20,420
+Tom Fetty Hollywood Bowl concert.
+
+1576
+01:25:21,980 --> 01:25:27,660
+Unless I missed it by a country mile, I did not see Tom Fetty because most of the
+
+1577
+01:25:27,980 --> 01:25:29,460
+climax takes place.
+
+1578
+01:25:30,340 --> 01:25:36,100
+Not like an over overlook where the Hollywood sign is in the background.
+
+1579
+01:25:36,100 --> 01:25:40,660
+I believe it's the overlook right above the Hollywood dog park, which is a mile away
+
+1580
+01:25:40,660 --> 01:25:42,980
+from the Hollywood Bowl in the other direction.
+
+1581
+01:25:43,100 --> 01:25:45,140
+Yeah, you think that, oh, we're going to get some real stuff here.
+
+1582
+01:25:45,220 --> 01:25:47,220
+This is going to be a big fight at a concert.
+
+1583
+01:25:47,220 --> 01:25:48,780
+And then they go, look, that service road.
+
+1584
+01:25:48,780 --> 01:25:50,940
+Go up there. Go up the service road.
+
+1585
+01:25:50,940 --> 01:25:55,300
+We have the stock footage of a crowded Hollywood Bowl concert from the back row.
+
+1586
+01:25:56,380 --> 01:26:00,860
+Jackal succeeds. Then all these people from a concert six years ago will be dead.
+
+1587
+01:26:02,860 --> 01:26:05,380
+I have one more line. I have one line.
+
+1588
+01:26:05,460 --> 01:26:07,220
+Oh, yes. Not said by Jackal.
+
+1589
+01:26:07,220 --> 01:26:09,300
+I think it's said by Detective Dorn.
+
+1590
+01:26:11,020 --> 01:26:14,020
+And he says at the end of a scene, he goes, I'm going to be going to see
+
+1591
+01:26:14,020 --> 01:26:15,420
+Beatlemania tonight.
+
+1592
+01:26:15,860 --> 01:26:17,820
+Ringo's playing himself.
+
+1593
+01:26:18,860 --> 01:26:20,380
+OK, great.
+
+1594
+01:26:20,380 --> 01:26:22,220
+Pretty. Yeah.
+
+1595
+01:26:22,220 --> 01:26:23,380
+Ringo Dig.
+
+1596
+01:26:23,380 --> 01:26:27,100
+Beatlemania, pretty big in the 90s, I think that like cover.
+
+1597
+01:26:27,100 --> 01:26:28,780
+Yeah, the cover band. Yeah.
+
+1598
+01:26:30,060 --> 01:26:31,700
+A good reference.
+
+1599
+01:26:31,700 --> 01:26:35,180
+There's a lot of good like comedy go to references.
+
+1600
+01:26:35,580 --> 01:26:39,060
+There's a sheer amount of mentions of like, well, oh, that's the other.
+
+1601
+01:26:39,100 --> 01:26:42,020
+Yeah. Shirley Jones, the villain, Shirley Jones,
+
+1602
+01:26:42,020 --> 01:26:45,140
+his mother and Lully always thought was cold.
+
+1603
+01:26:45,140 --> 01:26:48,140
+So she shoots ice bolts.
+
+1604
+01:26:48,140 --> 01:26:52,740
+You know, finally, what we all think about our mothers in law,
+
+1605
+01:26:53,060 --> 01:26:54,860
+the truth portrayed on.
+
+1606
+01:26:54,860 --> 01:26:56,700
+Yeah. A figurative cold.
+
+1607
+01:26:56,700 --> 01:26:59,660
+Not the literal.
+
+1608
+01:26:59,740 --> 01:27:01,540
+My mother-in-law listens to this, I believe.
+
+1609
+01:27:01,540 --> 01:27:04,620
+Oh, just kidding, man.
+
+1610
+01:27:04,620 --> 01:27:07,220
+No, no shade and no dirt guns.
+
+1611
+01:27:07,220 --> 01:27:09,020
+No, no good dirt.
+
+1612
+01:27:09,020 --> 01:27:12,540
+Coming your way, but you do have two tickets to a mysterious cruise.
+
+1613
+01:27:13,780 --> 01:27:16,220
+My favorite Jackal monologue is this.
+
+1614
+01:27:16,940 --> 01:27:21,980
+It's about camps, horseback riding canoeing, water skiing.
+
+1615
+01:27:22,300 --> 01:27:25,940
+The very idea of summer camp makes my stomach turn.
+
+1616
+01:27:26,260 --> 01:27:30,180
+These children should be doing something useful, like working long hours
+
+1617
+01:27:30,180 --> 01:27:33,540
+and a sweatshop producing Jackal memorabilia.
+
+1618
+01:27:33,740 --> 01:27:40,740
+I mean, there needs to be a supercut of the Jackal scenes.
+
+1619
+01:27:40,780 --> 01:27:41,540
+Yeah, yeah.
+
+1620
+01:27:41,540 --> 01:27:44,980
+If somebody needs to do that, I'll throw some clips up at least, if not a supercut.
+
+1621
+01:27:44,980 --> 01:27:46,780
+I'll do a cut. You don't have to do supercut.
+
+1622
+01:27:46,780 --> 01:27:49,300
+I'm just saying I'm just saying that's what it should be.
+
+1623
+01:27:49,340 --> 01:27:52,340
+Some cuts. But so where are you heading with?
+
+1624
+01:27:52,780 --> 01:27:54,980
+Well, I do. We know we talked about it earlier.
+
+1625
+01:27:54,980 --> 01:28:00,340
+Like if we really could think about who would be in our deadly games game.
+
+1626
+01:28:00,340 --> 01:28:02,340
+And I was just thinking we could start from the point of
+
+1627
+01:28:02,900 --> 01:28:07,900
+number one would be the person that told us we couldn't get a seat at Ballast
+
+1628
+01:28:07,900 --> 01:28:10,260
+Point at downtown Disney a few weeks ago.
+
+1629
+01:28:10,260 --> 01:28:13,780
+Yeah, right. That would be one of our villains of the week.
+
+1630
+01:28:13,780 --> 01:28:17,380
+The hostess at Ballast Point, downtown Disney.
+
+1631
+01:28:17,900 --> 01:28:19,820
+Who shoots little
+
+1632
+01:28:21,740 --> 01:28:27,140
+she shoots a restaurant buzzers, but not good.
+
+1633
+01:28:27,140 --> 01:28:28,620
+Yeah, not because it'll ever be.
+
+1634
+01:28:28,620 --> 01:28:33,700
+All it does is attach itself to you and buzz you to death, buzz you till you explode.
+
+1635
+01:28:34,020 --> 01:28:35,380
+Right. Yes.
+
+1636
+01:28:35,380 --> 01:28:39,580
+And then I guess you can defeat her by somehow getting
+
+1637
+01:28:40,380 --> 01:28:44,300
+the reservation reservation for the restaurant.
+
+1638
+01:28:44,340 --> 01:28:46,500
+Well, you squeeze you squeeze grapefruit.
+
+1639
+01:28:47,300 --> 01:28:50,060
+Oh, well, that yes, we give a shit about grapefruit.
+
+1640
+01:28:51,420 --> 01:28:53,820
+Jason would have to like the arc for Jason in the episode
+
+1641
+01:28:53,820 --> 01:28:58,140
+would be begrudgingly acknowledging that we should be shit about the grapefruit.
+
+1642
+01:28:58,420 --> 01:29:00,980
+You know, after today, I do give a shit about grapefruit.
+
+1643
+01:29:00,980 --> 01:29:03,100
+You should have a grapefruit.
+
+1644
+01:29:03,100 --> 01:29:06,420
+But yeah, you know, you can all obviously our dads are all jackals.
+
+1645
+01:29:07,140 --> 01:29:08,340
+Yeah, every scenario.
+
+1646
+01:29:08,340 --> 01:29:10,380
+Imagine your dad and everyone listen at home.
+
+1647
+01:29:10,380 --> 01:29:13,820
+Imagine your dad in a white suit, dripping champagne.
+
+1648
+01:29:14,140 --> 01:29:16,460
+That's your own personal jackal.
+
+1649
+01:29:16,460 --> 01:29:18,220
+So we all have jackals.
+
+1650
+01:29:18,220 --> 01:29:21,380
+I just turned mine into John Hammond.
+
+1651
+01:29:21,380 --> 01:29:23,300
+The classic white suit.
+
+1652
+01:29:23,300 --> 01:29:24,420
+Yeah, it's short sleeve.
+
+1653
+01:29:24,420 --> 01:29:26,540
+Hammond would have the short sleeve. That's true. Yeah.
+
+1654
+01:29:27,220 --> 01:29:30,020
+But yeah, if any other slice you can think of,
+
+1655
+01:29:31,460 --> 01:29:35,580
+I'm trying to think, you know, they didn't have the jelly donut at Dunkin
+
+1656
+01:29:36,180 --> 01:29:39,100
+a couple of weeks ago that I had ordered via the mobile app.
+
+1657
+01:29:39,380 --> 01:29:41,900
+Although they were very nice now to think about and give me a different donut
+
+1658
+01:29:41,900 --> 01:29:43,740
+and more of them to make up for it.
+
+1659
+01:29:43,740 --> 01:29:46,580
+So they are not on the villain list as I'm talking through this.
+
+1660
+01:29:47,140 --> 01:29:48,220
+But it's something they could have been.
+
+1661
+01:29:48,220 --> 01:29:50,980
+They were they were they could have been put in your deadly game.
+
+1662
+01:29:50,980 --> 01:29:52,620
+They were close. Yeah.
+
+1663
+01:29:52,620 --> 01:29:53,740
+One false move.
+
+1664
+01:29:53,740 --> 01:29:56,540
+Well, wait, and that also added another wrinkle
+
+1665
+01:29:56,540 --> 01:30:02,620
+because you sent me a screen grab of a local, not a next door post.
+
+1666
+01:30:02,620 --> 01:30:03,540
+Or like a Facebook.
+
+1667
+01:30:03,540 --> 01:30:05,820
+I'm on the Burbank Bank Facebook group.
+
+1668
+01:30:06,460 --> 01:30:10,500
+And someone said I was at the Dunkin Donuts and they told me
+
+1669
+01:30:10,500 --> 01:30:14,420
+they were all from different stores that the entire staff had quit the day before.
+
+1670
+01:30:14,420 --> 01:30:15,620
+I think that happened two weeks ago.
+
+1671
+01:30:15,620 --> 01:30:18,100
+The entire staff of the Dunkin Donuts over here in Burbank quit.
+
+1672
+01:30:18,220 --> 01:30:19,300
+Whoa. Yeah.
+
+1673
+01:30:19,300 --> 01:30:22,300
+Hmm. But no, they probably have some deadly games.
+
+1674
+01:30:22,620 --> 01:30:24,260
+Whoever caused that walk.
+
+1675
+01:30:24,260 --> 01:30:27,660
+Whoever was the boss of the franchise owner, the franchise owner,
+
+1676
+01:30:28,340 --> 01:30:30,740
+the local Dunkin Donuts franchise owner can be a villain.
+
+1677
+01:30:30,740 --> 01:30:34,500
+The dunker, the dunker, Sebastian Dunkle.
+
+1678
+01:30:36,100 --> 01:30:37,060
+Yeah, that's good.
+
+1679
+01:30:37,060 --> 01:30:38,740
+Better check your bags.
+
+1680
+01:30:38,740 --> 01:30:40,540
+There might be something wrong in there.
+
+1681
+01:30:40,540 --> 01:30:41,260
+Mm hmm.
+
+1682
+01:30:41,260 --> 01:30:42,020
+Jason, did you get to know?
+
+1683
+01:30:42,020 --> 01:30:45,180
+Is there anybody get an order wrong lately when you were getting any food or?
+
+1684
+01:30:45,180 --> 01:30:49,700
+I just when I I went inside to pick up a mobile order recently,
+
+1685
+01:30:49,700 --> 01:30:51,100
+it was just kind of chaos.
+
+1686
+01:30:51,100 --> 01:30:52,700
+OK, it's just like 20.
+
+1687
+01:30:52,700 --> 01:30:54,940
+I'm talking about in general, though, if you picked up food
+
+1688
+01:30:54,940 --> 01:30:56,540
+and like the sauce was wrong.
+
+1689
+01:30:56,540 --> 01:31:00,300
+I they have they have like shut the window and been like, have a good day.
+
+1690
+01:31:00,300 --> 01:31:02,020
+And I'm like, I had food.
+
+1691
+01:31:02,020 --> 01:31:03,540
+I had sandwich. Huh?
+
+1692
+01:31:03,540 --> 01:31:05,260
+Oh, just a fast food.
+
+1693
+01:31:05,260 --> 01:31:08,380
+Whatever whoever was there was like almost sent.
+
+1694
+01:31:08,380 --> 01:31:09,820
+You're still talking about Dunkin, aren't you?
+
+1695
+01:31:09,820 --> 01:31:12,060
+My order. Yeah, I'm talking about just over.
+
+1696
+01:31:12,060 --> 01:31:12,660
+Just a general.
+
+1697
+01:31:12,660 --> 01:31:14,140
+It doesn't have to be Dunkin related.
+
+1698
+01:31:14,140 --> 01:31:15,780
+That's what I'm saying. Yeah.
+
+1699
+01:31:15,780 --> 01:31:17,220
+I'm saying, do you have any food?
+
+1700
+01:31:17,220 --> 01:31:18,940
+Yeah, I got a was.
+
+1701
+01:31:18,940 --> 01:31:21,100
+I think everyone has dealt with this at some point.
+
+1702
+01:31:21,100 --> 01:31:23,420
+A broken McDonald's ice cream machine.
+
+1703
+01:31:24,020 --> 01:31:25,220
+Sure. Yeah, yeah.
+
+1704
+01:31:25,220 --> 01:31:28,740
+And the recently one there is that is there someone to do?
+
+1705
+01:31:28,740 --> 01:31:31,860
+Do you pin that ultimately on the CEO?
+
+1706
+01:31:32,380 --> 01:31:34,300
+I would be that the installer.
+
+1707
+01:31:34,300 --> 01:31:36,780
+Oh, yeah, it could be whoever is in charge of equipment.
+
+1708
+01:31:36,780 --> 01:31:38,220
+I mean, there's one repair.
+
+1709
+01:31:38,220 --> 01:31:41,900
+There's one company that makes them who sends out repair people.
+
+1710
+01:31:42,300 --> 01:31:46,620
+But I feel like who's ever in charge of McDonald's industrial equipment supply?
+
+1711
+01:31:47,340 --> 01:31:52,620
+The supply man, the warehouse guy, the supplier.
+
+1712
+01:31:53,260 --> 01:31:58,500
+Yeah. OK, so how does this so he installs shoddy ice cream.
+
+1713
+01:31:58,580 --> 01:32:01,700
+Right. Machines.
+
+1714
+01:32:01,700 --> 01:32:04,020
+It is in elevated Jackal.
+
+1715
+01:32:04,020 --> 01:32:04,900
+What is that like?
+
+1716
+01:32:04,900 --> 01:32:10,540
+Does he have the power to like the point at them and then they get electrified?
+
+1717
+01:32:10,540 --> 01:32:14,300
+Do they blow up or just shoot ice cream everywhere that blinds you?
+
+1718
+01:32:14,300 --> 01:32:15,940
+It's got to be an ice cream gun, I think.
+
+1719
+01:32:15,940 --> 01:32:17,220
+Oh, it's just an ice gun.
+
+1720
+01:32:17,220 --> 01:32:21,420
+I think he simplified it just out a like not standardized,
+
+1721
+01:32:21,860 --> 01:32:23,900
+somewhat liquefied amounts.
+
+1722
+01:32:23,900 --> 01:32:26,300
+Like, yeah, this is not up to company standards.
+
+1723
+01:32:27,060 --> 01:32:30,340
+I think like just an ice cream man, like a white suited good humor man.
+
+1724
+01:32:30,380 --> 01:32:31,140
+Oh, that's good.
+
+1725
+01:32:31,140 --> 01:32:36,620
+Like so another like and so then Jackal can go like, I like this guy's style.
+
+1726
+01:32:37,700 --> 01:32:39,660
+Your dad, Jackal. Huh?
+
+1727
+01:32:39,660 --> 01:32:42,940
+Yeah, personal dad, Jackal.
+
+1728
+01:32:42,940 --> 01:32:46,380
+You must he must have been shopping at the Jackal's warehouse.
+
+1729
+01:32:48,380 --> 01:32:50,660
+You're going to like the way I look.
+
+1730
+01:32:50,660 --> 01:32:51,860
+It's a guarantee.
+
+1731
+01:32:51,860 --> 01:32:57,260
+It's also good to think of your personal dad, Jackal's weakness as well.
+
+1732
+01:32:57,620 --> 01:33:01,100
+Like how Jackal has the baseball card or the baseball.
+
+1733
+01:33:01,220 --> 01:33:04,500
+Which so the weakness is something good and nice.
+
+1734
+01:33:04,540 --> 01:33:07,860
+You write dad that you associate your dad with.
+
+1735
+01:33:07,940 --> 01:33:09,780
+Right. And that's the Achilles.
+
+1736
+01:33:09,780 --> 01:33:11,540
+That's the Jackal Achilles heel.
+
+1737
+01:33:11,540 --> 01:33:16,220
+Yeah. Yeah. My dad runs canned food drives at the church.
+
+1738
+01:33:16,260 --> 01:33:19,300
+So he is is a can of cream corn.
+
+1739
+01:33:19,460 --> 01:33:20,580
+Yeah. Yeah. Yeah.
+
+1740
+01:33:20,580 --> 01:33:21,900
+Create. Yeah.
+
+1741
+01:33:21,900 --> 01:33:26,820
+I have to throw canned corn at my dad to get back at him for
+
+1742
+01:33:27,380 --> 01:33:28,940
+helping all those needy people.
+
+1743
+01:33:28,940 --> 01:33:29,740
+OK, good. Yeah.
+
+1744
+01:33:29,740 --> 01:33:31,900
+Can corn and pie stuff instead of me.
+
+1745
+01:33:31,900 --> 01:33:34,660
+He was helping all these people and Jackal at Jackal.
+
+1746
+01:33:34,660 --> 01:33:37,340
+Now your dad, your private Jackal, your personal.
+
+1747
+01:33:37,380 --> 01:33:39,020
+Everyone has a personal Jackal.
+
+1748
+01:33:39,020 --> 01:33:40,580
+Everyone has a personal Jackal.
+
+1749
+01:33:40,620 --> 01:33:42,580
+You have to return.
+
+1750
+01:33:42,580 --> 01:33:47,060
+You give your Jackal the twenty dollars that he would have given you
+
+1751
+01:33:47,060 --> 01:33:49,660
+when he heard you were, oh, you're going to mall with the friends.
+
+1752
+01:33:49,660 --> 01:33:51,580
+Here you go. Have fun.
+
+1753
+01:33:51,580 --> 01:33:54,780
+And I slice him with it. Yeah.
+
+1754
+01:33:54,780 --> 01:33:57,980
+Don't help me have a good time.
+
+1755
+01:33:57,980 --> 01:34:00,340
+My dad, I guess my dad,
+
+1756
+01:34:00,340 --> 01:34:03,380
+when I asked for a guitar, he just gave me one of his old guitars.
+
+1757
+01:34:03,380 --> 01:34:05,900
+When I was 16, maybe it's a guitar.
+
+1758
+01:34:05,900 --> 01:34:08,180
+I like to smash it over his head.
+
+1759
+01:34:08,420 --> 01:34:10,900
+Jeffrey Jackal's head, not my dad.
+
+1760
+01:34:10,900 --> 01:34:17,060
+The computer Jeffrey Jackal, which is my father's villainous avatar, I guess.
+
+1761
+01:34:17,220 --> 01:34:19,140
+Yeah. What do you think?
+
+1762
+01:34:19,140 --> 01:34:20,100
+What do you want your dad?
+
+1763
+01:34:20,100 --> 01:34:21,740
+What's your villain dad? How do you get to feed?
+
+1764
+01:34:21,740 --> 01:34:24,380
+How do you defeat him? Oh, how do I defeat him?
+
+1765
+01:34:24,380 --> 01:34:26,260
+Hmm. Yeah.
+
+1766
+01:34:26,260 --> 01:34:27,740
+Well, that's what I think.
+
+1767
+01:34:27,740 --> 01:34:29,220
+That's what I was saying for mine.
+
+1768
+01:34:29,220 --> 01:34:30,820
+They give the 20.
+
+1769
+01:34:30,820 --> 01:34:34,540
+You give him the 20 or you turn the 20 like, oh, he gave me this
+
+1770
+01:34:34,540 --> 01:34:37,300
+20 dollar bill because he heard I was going to the mall.
+
+1771
+01:34:37,300 --> 01:34:39,780
+Turn into a paper airplane or something, throw it back.
+
+1772
+01:34:40,540 --> 01:34:41,500
+OK, all right.
+
+1773
+01:34:41,500 --> 01:34:44,820
+Buy yourself something demonic. Yeah.
+
+1774
+01:34:46,020 --> 01:34:49,860
+So let's hear. Tell us what your personal Jackal.
+
+1775
+01:34:49,900 --> 01:34:52,180
+I have a I think in terms of
+
+1776
+01:34:53,460 --> 01:34:56,700
+slights to put into my own deadly game, I have a
+
+1777
+01:34:57,300 --> 01:35:00,340
+I'm coming up with a boss named the co-host.
+
+1778
+01:35:00,620 --> 01:35:06,980
+And what the co-host does is keep bringing up this scat oriented.
+
+1779
+01:35:06,980 --> 01:35:11,420
+OK, place or album or premise.
+
+1780
+01:35:11,540 --> 01:35:14,500
+Right over and over again.
+
+1781
+01:35:14,500 --> 01:35:18,220
+And he also goes by Narleson.
+
+1782
+01:35:18,260 --> 01:35:21,100
+OK, and I guess you would defeat him.
+
+1783
+01:35:21,100 --> 01:35:24,500
+So you just you know, you're when he's around, your ears just get flooded
+
+1784
+01:35:24,500 --> 01:35:26,860
+with nothing but scatting. Right. Of course.
+
+1785
+01:35:26,860 --> 01:35:32,340
+So I guess I have to like electrify the microphone wire.
+
+1786
+01:35:33,820 --> 01:35:36,300
+I do or do I just throw them?
+
+1787
+01:35:36,300 --> 01:35:37,540
+I just throw the microphone.
+
+1788
+01:35:37,540 --> 01:35:39,420
+You throw the microphone and then you don't care.
+
+1789
+01:35:41,220 --> 01:35:42,940
+Although that might be too violent for the show.
+
+1790
+01:35:42,940 --> 01:35:44,140
+Yeah, it might be too violent.
+
+1791
+01:35:44,140 --> 01:35:46,940
+You might want to do like a thing where like you're like a humor
+
+1792
+01:35:47,340 --> 01:35:49,700
+and talk to him with a microphone for like
+
+1793
+01:35:50,780 --> 01:35:55,220
+60 to 90 minutes and just let him go go on about scatting.
+
+1794
+01:35:55,700 --> 01:35:57,460
+What's the opposite of scatting?
+
+1795
+01:35:57,460 --> 01:35:59,220
+Just clear, clear talking.
+
+1796
+01:35:59,220 --> 01:36:01,740
+I guess they're. Yeah, I guess so.
+
+1797
+01:36:02,100 --> 01:36:06,100
+That is. So I have to hack your headphone.
+
+1798
+01:36:06,100 --> 01:36:09,060
+His head for the co-hosts headphones play
+
+1799
+01:36:09,580 --> 01:36:12,820
+clear sounding audio that isn't rhythmic or
+
+1800
+01:36:13,820 --> 01:36:15,860
+scatish in any way.
+
+1801
+01:36:15,860 --> 01:36:18,460
+I can think of the most deadly games villains for you.
+
+1802
+01:36:18,460 --> 01:36:21,940
+Yeah, like like the the punk rocker,
+
+1803
+01:36:22,460 --> 01:36:25,140
+which is Billy Joe Armstrong.
+
+1804
+01:36:25,140 --> 01:36:28,980
+I guess I have a massed a lot of villains on this show specifically.
+
+1805
+01:36:29,620 --> 01:36:31,180
+The punk rocker.
+
+1806
+01:36:31,180 --> 01:36:33,700
+The never the never grow up or the never.
+
+1807
+01:36:33,900 --> 01:36:34,460
+Yeah.
+
+1808
+01:36:34,460 --> 01:36:37,900
+Never grow up pervert little boy in a green unit.
+
+1809
+01:36:40,380 --> 01:36:42,740
+But yeah, I mean, we can we can talk about guest star.
+
+1810
+01:36:42,740 --> 01:36:44,220
+We would have guest stars to.
+
+1811
+01:36:44,220 --> 01:36:47,140
+You know, I haven't missed a lot of villains lately, which is people
+
+1812
+01:36:47,140 --> 01:36:51,380
+tweeting at me pictures of Peter Pan from the Chip and Dale movie.
+
+1813
+01:36:51,540 --> 01:36:52,300
+Yes, I see.
+
+1814
+01:36:52,300 --> 01:36:55,460
+Yes, there's like I'm up to like 50 villains, I think.
+
+1815
+01:36:57,860 --> 01:36:59,420
+Yeah, so I don't know.
+
+1816
+01:36:59,420 --> 01:37:03,340
+I mean, the way imagination can run wild with the universe of deadly games.
+
+1817
+01:37:03,340 --> 01:37:07,420
+And yeah, what it opens up, what this show carved out
+
+1818
+01:37:07,860 --> 01:37:13,140
+with its unique premise of putting people who've slightly annoyed you.
+
+1819
+01:37:13,180 --> 01:37:16,780
+Yeah. But casting them as the devil and especially
+
+1820
+01:37:17,420 --> 01:37:21,180
+your father, who seems very lovely once you've. Yeah.
+
+1821
+01:37:21,460 --> 01:37:25,060
+Actually, I have to reverse engineer it where I drive my
+
+1822
+01:37:25,660 --> 01:37:30,540
+dad, Sebastian Jackal, to the mall on Wednesday for new comic book day.
+
+1823
+01:37:31,220 --> 01:37:33,220
+I trick him.
+
+1824
+01:37:33,860 --> 01:37:35,780
+This is, you know what?
+
+1825
+01:37:35,780 --> 01:37:37,900
+I think the lesson of this
+
+1826
+01:37:37,900 --> 01:37:41,780
+after all this time, the build up to Sebastian Jackal and the episode itself.
+
+1827
+01:37:42,020 --> 01:37:44,460
+I think the message is go hug your dad.
+
+1828
+01:37:45,380 --> 01:37:46,980
+Your dad's not a jackal.
+
+1829
+01:37:46,980 --> 01:37:51,180
+Your dad's no devil, no matter what kind of suit and hat he's wearing.
+
+1830
+01:37:51,860 --> 01:37:53,740
+I've met a few. I've met a few actual jackals.
+
+1831
+01:37:53,740 --> 01:37:56,300
+But yeah, I mean, if you look, you're right.
+
+1832
+01:37:56,340 --> 01:37:58,100
+Mostly, yeah, he's not.
+
+1833
+01:37:58,100 --> 01:38:02,420
+But if he is, find his version of the baseball card.
+
+1834
+01:38:02,940 --> 01:38:03,460
+Yeah.
+
+1835
+01:38:03,460 --> 01:38:05,820
+And see if you don't feel great about your dad's slip
+
+1836
+01:38:05,820 --> 01:38:09,220
+baseball card into his pocket, turn a suit red.
+
+1837
+01:38:09,260 --> 01:38:09,860
+What happens?
+
+1838
+01:38:09,860 --> 01:38:12,700
+Turn your dad's suit red is what we're saying.
+
+1839
+01:38:13,940 --> 01:38:17,980
+If you if you have to, if it if it's deserved, it comes to that. Yeah.
+
+1840
+01:38:18,340 --> 01:38:24,660
+So well, you serve you survive this episode of the Jackal show.
+
+1841
+01:38:24,900 --> 01:38:27,420
+Jackal cast.
+
+1842
+01:38:29,500 --> 01:38:31,020
+Stayed in.
+
+1843
+01:38:31,020 --> 01:38:31,900
+Keep it tuned in.
+
+1844
+01:38:31,900 --> 01:38:35,060
+Keep it here for three bonus Jackal of the month.
+
+1845
+01:38:36,540 --> 01:38:38,340
+Thought you could get rid of me.
+
+1846
+01:38:38,340 --> 01:38:40,140
+Not so easy, kid.
+
+1847
+01:38:40,140 --> 01:38:42,940
+More bonus content coming right here.
+
+1848
+01:38:44,740 --> 01:38:45,740
+Well, we did it.
+
+1849
+01:38:45,740 --> 01:38:47,300
+We did it. Yep.
+

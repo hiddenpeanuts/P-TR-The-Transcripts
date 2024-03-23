@@ -1,0 +1,6000 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:23,000
+Welcome to Podcast The Ride, The Second Gate.
+
+3
+00:00:23,000 --> 00:00:27,000
+I'm Scott Gardner. My co-hosts are Mike Carlson and Jason Sheridan.
+
+4
+00:00:27,000 --> 00:00:30,000
+I'm kind of ripping through the intro. Feel free to say hi.
+
+5
+00:00:30,000 --> 00:00:31,000
+I don't mean to go that fast.
+
+6
+00:00:31,000 --> 00:00:32,000
+Hello.
+
+7
+00:00:32,000 --> 00:00:33,000
+Hi.
+
+8
+00:00:33,000 --> 00:00:37,000
+I'm making speed here and I'll tell you why because I want to get to something.
+
+9
+00:00:37,000 --> 00:00:46,000
+So we recently put out a call for gripes, for complaints that the audience has about the show.
+
+10
+00:00:46,000 --> 00:00:49,000
+And we're going through those and we'll have a whole episode about them.
+
+11
+00:00:49,000 --> 00:00:54,000
+But there's one that we wanted to rectify as quickly as possible.
+
+12
+00:00:54,000 --> 00:00:56,000
+And I will read that right now.
+
+13
+00:00:56,000 --> 00:01:00,000
+Actually not an anonymous gripe they named themselves.
+
+14
+00:01:00,000 --> 00:01:03,000
+Yeah, I got a gripe. More Nick Mundy.
+
+15
+00:01:03,000 --> 00:01:10,000
+Preferably introduced with the 1985 version of Real American by Rick Derringer.
+
+16
+00:01:10,000 --> 00:01:13,000
+And that's from Tom from Cleveland.
+
+17
+00:01:13,000 --> 00:01:20,000
+So, Tom from Cleveland, today is your American day.
+
+18
+00:01:20,000 --> 00:01:41,000
+Ladies and gentlemen, please welcome the bad man, the crypto dandy, the godfather of podcast, the ride, Nick Mundy.
+
+19
+00:01:41,000 --> 00:01:43,000
+Go ahead. Now, now you go talk.
+
+20
+00:01:43,000 --> 00:01:46,000
+That song's way less cool.
+
+21
+00:01:46,000 --> 00:01:48,000
+Well, then what?
+
+22
+00:01:48,000 --> 00:01:50,000
+What do you mean just in general?
+
+23
+00:01:50,000 --> 00:01:52,000
+For just so many reasons.
+
+24
+00:01:52,000 --> 00:01:55,000
+Hey, thanks for having me. Thanks. Thanks, Tom.
+
+25
+00:01:55,000 --> 00:02:02,000
+Yeah, Tom. Tom has given Nick Mundy the theme of a real life villain now.
+
+26
+00:02:02,000 --> 00:02:05,000
+Well, you know what?
+
+27
+00:02:05,000 --> 00:02:14,000
+Look, this is a little embarrassing, but I brought my own music.
+
+28
+00:02:14,000 --> 00:02:17,000
+It's got some Steve Miller.
+
+29
+00:02:17,000 --> 00:02:25,000
+You just had a drop at the ready? You hit a button all pro. You didn't even have to share the zoom screen.
+
+30
+00:02:25,000 --> 00:02:28,000
+That's what I brought.
+
+31
+00:02:28,000 --> 00:02:34,000
+I would like to say that I also had music ready for Nick Mundy to be played in.
+
+32
+00:02:34,000 --> 00:02:36,000
+He gets three entrance themes?
+
+33
+00:02:36,000 --> 00:02:44,000
+Yeah. I had a couple different options and I was ready to go on the fly depending on what it was, but I'll just go with this one.
+
+34
+00:02:44,000 --> 00:02:54,000
+This is, of course, a super cut of the Entourage theme, just the oh yeah part.
+
+35
+00:02:54,000 --> 00:03:01,000
+Oh yeah. Oh yeah. Oh yeah. Oh yeah.
+
+36
+00:03:01,000 --> 00:03:04,000
+We'll just play that for the whole podcast, I think.
+
+37
+00:03:04,000 --> 00:03:08,000
+Yeah. Oh yeah. Oh yeah. Oh yeah.
+
+38
+00:03:08,000 --> 00:03:11,000
+So we were all prepared, I think.
+
+39
+00:03:11,000 --> 00:03:15,000
+And no one went with Jurassic Quest.
+
+40
+00:03:15,000 --> 00:03:17,000
+Well, we're going to get to that.
+
+41
+00:03:17,000 --> 00:03:23,000
+Jurassic. Jurassic Quest. Colossal. Fantastic.
+
+42
+00:03:23,000 --> 00:03:27,000
+Jason, you're spoiling the song from the thing we're talking about today.
+
+43
+00:03:27,000 --> 00:03:28,000
+Oh boy.
+
+44
+00:03:28,000 --> 00:03:31,000
+The title and the graphic probably did too.
+
+45
+00:03:31,000 --> 00:03:33,000
+Yeah, well, sure.
+
+46
+00:03:33,000 --> 00:03:36,000
+Yeah, yeah, yeah. I guess people know what this is about.
+
+47
+00:03:36,000 --> 00:03:44,000
+Yeah, you know, we're talking about Jurassic Quest, the dinosaur experience in a parking lot due to the ongoing pandemic.
+
+48
+00:03:44,000 --> 00:03:54,000
+We'll get to that. I do just want to say, even though I don't want Nick to get a big head off of that request because another gripe was too much talk about Nick Mundy.
+
+49
+00:03:54,000 --> 00:04:00,000
+And that one was kept anonymous. So you've got fans and you've got haters both.
+
+50
+00:04:00,000 --> 00:04:04,000
+Look, man, this country is very bipartisan.
+
+51
+00:04:04,000 --> 00:04:08,000
+So we're pretty divided and I don't know. It's a divided country.
+
+52
+00:04:08,000 --> 00:04:12,000
+Yeah. But wait, was the second one, Sheridan?
+
+53
+00:04:12,000 --> 00:04:14,000
+Only you can tell us.
+
+54
+00:04:14,000 --> 00:04:18,000
+No, I wrote all the unhinged gripes.
+
+55
+00:04:18,000 --> 00:04:20,000
+Okay.
+
+56
+00:04:20,000 --> 00:04:29,000
+I wrote the Vendetta based ones. I wrote the ones of like, well, here is what I think these people's journeys are.
+
+57
+00:04:29,000 --> 00:04:33,000
+Here is my head cannon. You've all killed before.
+
+58
+00:04:33,000 --> 00:04:35,000
+And this is your confession.
+
+59
+00:04:35,000 --> 00:04:45,000
+Yeah, well, we won't know, though, because we I mean, it would be funny if we were doing a trick with the gripes and we could see everyone who posted them and we just lied to them and said, but I think we can't.
+
+60
+00:04:45,000 --> 00:04:50,000
+I don't think there's actually a way to do it. So we'll never really know who Jason Sheridan is in the gripes.
+
+61
+00:04:50,000 --> 00:04:53,000
+Yes, we'll never know for sure.
+
+62
+00:04:53,000 --> 00:04:58,000
+I would like to real quick before we get into Jurassic Quest, which I would like to talk about at length.
+
+63
+00:04:58,000 --> 00:05:14,000
+You've recently come up on the podcast because you were made a very generous offer by Jason Sheridan and I who are going into business together with a tequila, with a Buenos Ninos tequila.
+
+64
+00:05:14,000 --> 00:05:23,000
+Something that we wanted to do because one of our heroes in business also has a tequila, Mr. Randy Gerber.
+
+65
+00:05:23,000 --> 00:05:28,000
+Nick, I don't know if you remember this, but there was a story that was told on the last.
+
+66
+00:05:28,000 --> 00:05:33,000
+It was the last time you were on. I think it might have been that has.
+
+67
+00:05:33,000 --> 00:05:37,000
+So I'm not sure if you're aware, but ever since you left, absolutely not aware.
+
+68
+00:05:37,000 --> 00:05:50,000
+OK, so, you know, you stormed out of the podcast because the story was told and what's happened is it has never stopped coming up over the course of a year and a half.
+
+69
+00:05:50,000 --> 00:05:54,000
+How long has it been? I believe I stormed off.
+
+70
+00:05:54,000 --> 00:05:59,000
+I believe I just undid Carlson's microphone. You unplugged my microphone and the middle of the story.
+
+71
+00:06:00,000 --> 00:06:14,000
+Now, if we really want to relitigate exactly sort of what happened, I was just telling the story of Randy Gerber, Cindy Crawford's husband, and then Jason unbeknownst to me also had a piece of knowledge about the briefcase story and he was able to add to it.
+
+72
+00:06:14,000 --> 00:06:24,000
+So we both kind of came together in an unexpected way to understand the joy of what Randy Gerber, Cindy Crawford's husband has done for the country at large in the world.
+
+73
+00:06:24,000 --> 00:06:31,000
+Yeah, and it's kind of like how Randy Gerber and George Clooney came together to make a premium tequila brand.
+
+74
+00:06:31,000 --> 00:06:33,000
+It's exactly like that.
+
+75
+00:06:33,000 --> 00:06:40,000
+Mike, is the person on is this you change your zoom background? Is that Randy Gerber? I don't know.
+
+76
+00:06:40,000 --> 00:06:45,000
+I genuinely don't know because he's such an anonymous person to me.
+
+77
+00:06:45,000 --> 00:06:50,000
+This is leaving right now. Guys, no, just left here.
+
+78
+00:06:50,000 --> 00:06:53,000
+I'll prove it. We'll screenshot it.
+
+79
+00:06:53,000 --> 00:06:57,000
+And he wasn't wrong to you have no and there's nothing keeping you here.
+
+80
+00:06:57,000 --> 00:07:01,000
+We don't even have a door that we could lock to keep you in.
+
+81
+00:07:01,000 --> 00:07:05,000
+You're you're in another state. You're far away. Right. Yeah, I got about 15 minutes.
+
+82
+00:07:05,000 --> 00:07:09,000
+Okay. Okay. So how much Randy do we got? You're gonna have to plow through it, Mike.
+
+83
+00:07:09,000 --> 00:07:16,000
+So yeah, so all I'm saying is that we offered you a spot on the Buenos Ninos tequila team.
+
+84
+00:07:17,000 --> 00:07:22,000
+But you said you were not going to we made up a big photo, a photo while Jason and I were on bikes,
+
+85
+00:07:22,000 --> 00:07:32,000
+like the famous picture of George Clooney and Randy Gerber on the famous, a very funny photo that is very funny without any other context or explanation.
+
+86
+00:07:32,000 --> 00:07:37,000
+It's always hilarious just on its own when you see it. Right. Right. That is right.
+
+87
+00:07:37,000 --> 00:07:40,000
+It's on the top. It's on a truck. And you go, well, who's that guy with George Clooney?
+
+88
+00:07:40,000 --> 00:07:43,000
+And you find out it's sitting. Crawford's husband. It's funny as fuck.
+
+89
+00:07:43,000 --> 00:07:49,000
+You're laughing your ass off. And you guys, you know, you wanted to give it a tribute.
+
+90
+00:07:49,000 --> 00:07:54,000
+So when you said you were open to it, I just wanted to know where you were at with it.
+
+91
+00:07:54,000 --> 00:07:59,000
+If you if you were thinking any more about it, it seemed like you were open to it.
+
+92
+00:07:59,000 --> 00:08:06,000
+And let me check my. Check my crypto app.
+
+93
+00:08:06,000 --> 00:08:11,000
+You have not sent me any tasos payments.
+
+94
+00:08:11,000 --> 00:08:14,000
+I have not accepting tasos payments, which is a cryptocurrency.
+
+95
+00:08:14,000 --> 00:08:18,000
+I'm only accepting tasos at worse Algorand.
+
+96
+00:08:18,000 --> 00:08:27,000
+So until you start paying up and some tasos just down four percent, we could move on.
+
+97
+00:08:27,000 --> 00:08:35,000
+OK, well, I will call me the crypto dandy on bad YouTube for nothing.
+
+98
+00:08:35,000 --> 00:08:37,000
+Well, look, you are the crypto dandy.
+
+99
+00:08:37,000 --> 00:08:40,000
+We all know that. And I will send you some tasos.
+
+100
+00:08:40,000 --> 00:08:44,000
+And what's great about tasos is you can stake it. Yep.
+
+101
+00:08:44,000 --> 00:08:47,000
+Which is something that we're watching.
+
+102
+00:08:47,000 --> 00:08:51,000
+You get into instead of dinosaurs in a parking lot today. Jesus Christ.
+
+103
+00:08:51,000 --> 00:08:56,000
+What is tasos? Is tasos a celebrity branded Bitcoin?
+
+104
+00:08:56,000 --> 00:08:59,000
+It's also a movie star and some guys endeavor.
+
+105
+00:08:59,000 --> 00:09:04,000
+I don't believe there's a celebrity attached to tasos.
+
+106
+00:09:04,000 --> 00:09:06,000
+I believe it's something different than that.
+
+107
+00:09:06,000 --> 00:09:13,000
+But I would be interested to know if there was a Randy Gerber Bitcoin, a Randy Gerber cryptocurrency.
+
+108
+00:09:13,000 --> 00:09:16,000
+Maybe podcast the right should have their own cryptocurrency.
+
+109
+00:09:16,000 --> 00:09:20,000
+I'm starting to think now that might not be a bad idea.
+
+110
+00:09:20,000 --> 00:09:24,000
+I mean, it would be there a naming mechanism for them or is it just kind of boy.
+
+111
+00:09:24,000 --> 00:09:27,000
+You want boy coins? Is that what you just said? Yeah.
+
+112
+00:09:27,000 --> 00:09:31,000
+Oh, I don't know. Good boy.
+
+113
+00:09:31,000 --> 00:09:35,000
+I'm worried that's already something and it's something we don't want to get anywhere near.
+
+114
+00:09:35,000 --> 00:09:39,000
+Boy coins. Good boy coins, maybe? Too mouthy.
+
+115
+00:09:39,000 --> 00:09:42,000
+Well, yeah, closer, closer.
+
+116
+00:09:42,000 --> 00:09:46,000
+How about seat coins? No, no, no, no.
+
+117
+00:09:46,000 --> 00:09:50,000
+What? OK.
+
+118
+00:09:50,000 --> 00:09:53,000
+What else? What other things are on the podcast?
+
+119
+00:09:53,000 --> 00:09:58,000
+Fake rock coin? Wet coin. Wet coin? Wet coins?
+
+120
+00:09:58,000 --> 00:10:01,000
+We're going to jail for saying any of these words.
+
+121
+00:10:01,000 --> 00:10:03,000
+We will. We're not going to make it through the end of this.
+
+122
+00:10:03,000 --> 00:10:09,000
+There will be FBI presence in all of our respective Algo boy.
+
+123
+00:10:09,000 --> 00:10:11,000
+That's it. Well, that would be.
+
+124
+00:10:11,000 --> 00:10:23,000
+No, Scott, I got it. I think when it comes to the crypto world, there's a lot more conspiracy theory psychopaths and Silicon Valley libertarian weirdos that the government is surveilling before us.
+
+125
+00:10:23,000 --> 00:10:25,000
+It's a long list.
+
+126
+00:10:25,000 --> 00:10:32,000
+Elon Musk is tweeting about boy coin right now and seed coin instead of seed coin.
+
+127
+00:10:32,000 --> 00:10:36,000
+Honestly, that's my pick for the name, but we could talk about it off air.
+
+128
+00:10:36,000 --> 00:10:40,000
+Yeah. Instead of paying his employees, health care is giving them boy coin.
+
+129
+00:10:40,000 --> 00:10:45,000
+Yeah, we're going to pay our guests in boy coin and seed coin.
+
+130
+00:10:45,000 --> 00:10:52,000
+That's if you work for Tesla, you now get paid in podcasts, the rides, cryptocurrency.
+
+131
+00:10:52,000 --> 00:10:55,000
+Yeah, because, you know, it can be fun. Crypto can be.
+
+132
+00:10:55,000 --> 00:11:01,000
+There's Dogecoin, which is the dog. That's kind of a meme currency.
+
+133
+00:11:01,000 --> 00:11:09,000
+Well, now I feel like Scott, I'm over here laughing so much like he laughing at that picture.
+
+134
+00:11:09,000 --> 00:11:11,000
+This is not the main show, right?
+
+135
+00:11:11,000 --> 00:11:13,000
+No.
+
+136
+00:11:13,000 --> 00:11:15,000
+No, it's the second gate. Thank God.
+
+137
+00:11:15,000 --> 00:11:18,000
+Yeah, yeah, this is the other one.
+
+138
+00:11:18,000 --> 00:11:21,000
+So there's even less pressure to stay on top.
+
+139
+00:11:21,000 --> 00:11:26,000
+The one where people pay their hard earned boy coin to listen to.
+
+140
+00:11:26,000 --> 00:11:27,000
+That's correct.
+
+141
+00:11:27,000 --> 00:11:31,000
+You're making sure you're ensuring that it is boy coin and not seed.
+
+142
+00:11:31,000 --> 00:11:33,000
+He doesn't like seed coin.
+
+143
+00:11:33,000 --> 00:11:44,000
+I think I'm oddly I'm more on board with boy coin as my aversion to seed has grown almost as high as my aversion to the Randy Gerber story.
+
+144
+00:11:44,000 --> 00:11:50,000
+All right. Well, fine. It's a boy coin. That's the official podcast to ride cryptocurrency.
+
+145
+00:11:50,000 --> 00:11:55,000
+I'll look. I don't think there is one yet that's called boy coin.
+
+146
+00:11:55,000 --> 00:11:58,000
+But if there is, then we'll go to see coin. But I'm comfortable.
+
+147
+00:11:58,000 --> 00:12:01,000
+I'm very comfortable now with calling it that.
+
+148
+00:12:01,000 --> 00:12:06,000
+So so I thank you again. You've you helped us get this podcast started.
+
+149
+00:12:06,000 --> 00:12:13,000
+And now you're helping us have basically just some weird Internet grift Internet money grift going on.
+
+150
+00:12:13,000 --> 00:12:16,000
+So thank you for that.
+
+151
+00:12:16,000 --> 00:12:19,000
+Yeah. Did you play your theme?
+
+152
+00:12:19,000 --> 00:12:22,000
+Did you just play your theme again? It's a little hard to hear.
+
+153
+00:12:22,000 --> 00:12:27,000
+Yeah. I don't crank it. Sounds like interference.
+
+154
+00:12:27,000 --> 00:12:30,000
+I have some more Steve Miller whispering.
+
+155
+00:12:30,000 --> 00:12:31,000
+Hmm.
+
+156
+00:12:31,000 --> 00:12:34,000
+Yeah. Well, we'll just I'll put in Steve Miller.
+
+157
+00:12:34,000 --> 00:12:39,000
+I'll just put in the Joker like we were every time you say something cool.
+
+158
+00:12:39,000 --> 00:12:41,000
+It was just do it in post.
+
+159
+00:12:41,000 --> 00:12:46,000
+I'll add in. Look, I've been in Texas and listen to Steve Miller nonstop for nine months.
+
+160
+00:12:46,000 --> 00:12:48,000
+Yeah. Let's let's do this podcast.
+
+161
+00:12:48,000 --> 00:12:55,000
+Well, America has been, you know, forced to deal with Steve Miller's bullshit for four years with that Trump administration.
+
+162
+00:12:55,000 --> 00:12:58,000
+I mean, come on now.
+
+163
+00:12:58,000 --> 00:13:02,000
+What's that? Oh, Stephen Mill. Oh, I think.
+
+164
+00:13:02,000 --> 00:13:04,000
+OK, there we go.
+
+165
+00:13:04,000 --> 00:13:10,000
+Should have. Well, yeah, it's the same name, but the the E.N. changes a lot.
+
+166
+00:13:10,000 --> 00:13:12,000
+He's leaving again. Oh, no.
+
+167
+00:13:12,000 --> 00:13:14,000
+OK, we better get into this thing.
+
+168
+00:13:14,000 --> 00:13:16,000
+Nick, you brought up. Yeah.
+
+169
+00:13:16,000 --> 00:13:27,000
+You when when it became clear that this all was going to take approximately longer than a presidential term to play out the virus and all you very intelligently
+
+170
+00:13:27,000 --> 00:13:29,000
+made it made it back to Texas.
+
+171
+00:13:29,000 --> 00:13:31,000
+You've been hanging out in Texas for a while.
+
+172
+00:13:31,000 --> 00:13:38,000
+Yeah, you know, I have a I have a child and while we enjoyed our place, we had a nice place.
+
+173
+00:13:38,000 --> 00:13:47,000
+Kids like to do things and run around and and and play enjoy.
+
+174
+00:13:47,000 --> 00:13:52,000
+They are newly on the years like children want to experience being alive.
+
+175
+00:13:52,000 --> 00:13:55,000
+Yeah, they don't want to.
+
+176
+00:13:55,000 --> 00:14:05,000
+They don't want to watch their father plan trips to Gelson's at 11 at night covered in plastic, putting bag after bag over yourself.
+
+177
+00:14:05,000 --> 00:14:15,000
+Yeah. So, you know, we made the move to take an RV and drove across country state in Texas and it's been working out for us.
+
+178
+00:14:15,000 --> 00:14:19,000
+And, you know, we're we're joined our home. We miss everyone there.
+
+179
+00:14:19,000 --> 00:14:26,000
+But I mean, it's a shithole in Texas, too, as far as like, you know, people are just filled.
+
+180
+00:14:26,000 --> 00:14:29,000
+But Rutgers is just filled to the brim.
+
+181
+00:14:29,000 --> 00:14:33,000
+Well, our fund records is literally closed outside at the other day.
+
+182
+00:14:33,000 --> 00:14:41,000
+And it's it's still the Burbank one. It's like stained with the logo like the close on the spot is still there.
+
+183
+00:14:41,000 --> 00:14:44,000
+This fund records has a drive through.
+
+184
+00:14:44,000 --> 00:14:47,000
+I am so jealous of this. They closed Fudd Rutgers here.
+
+185
+00:14:47,000 --> 00:14:50,000
+And now you're telling me there's a drive through there, which is even better.
+
+186
+00:14:50,000 --> 00:14:55,000
+I like the inside of Fudd Rutgers because it hasn't changed since 1993.
+
+187
+00:14:55,000 --> 00:15:00,000
+I don't know how to be like, hey, can you fill the basket filled with cheese from the cheese pump?
+
+188
+00:15:00,000 --> 00:15:02,000
+I don't know how to ask that in a drive through.
+
+189
+00:15:02,000 --> 00:15:09,000
+Well, that yeah, that's the only thing I was thinking would be a problem, too, because obviously, as everyone out there knows, you don't order a cheeseburger from Fudd Rutgers.
+
+190
+00:15:09,000 --> 00:15:16,000
+You get a regular hamburger and then you smother it with the pump that has like nacho cheese inside.
+
+191
+00:15:16,000 --> 00:15:18,000
+That's, of course, one of the greatest hacks.
+
+192
+00:15:18,000 --> 00:15:20,000
+Jason knows what I'm talking about.
+
+193
+00:15:20,000 --> 00:15:24,000
+I do know what you're talking about. Those burgers are not good, though.
+
+194
+00:15:24,000 --> 00:15:25,000
+That is not correct.
+
+195
+00:15:25,000 --> 00:15:27,000
+The atmosphere, the atmosphere.
+
+196
+00:15:27,000 --> 00:15:29,000
+You are wrong, sir.
+
+197
+00:15:29,000 --> 00:15:30,000
+The atmosphere is great.
+
+198
+00:15:30,000 --> 00:15:32,000
+And I love a toppings bar.
+
+199
+00:15:33,000 --> 00:15:39,000
+Look, Jason, especially once Burbank had an in and out of five guys and a shake.
+
+200
+00:15:39,000 --> 00:15:41,000
+Like, I mean, come on, this is Jason's.
+
+201
+00:15:41,000 --> 00:15:43,000
+Jason, we've come so far.
+
+202
+00:15:43,000 --> 00:15:44,000
+Jason, we've come so far.
+
+203
+00:15:44,000 --> 00:15:49,000
+I know I do recall Scott eating Fudd Rutgers with me for the first time like three years ago.
+
+204
+00:15:49,000 --> 00:15:52,000
+And Scott may be sharing the exact opinion Jason has.
+
+205
+00:15:52,000 --> 00:15:58,000
+Yeah, look, you know, it's good to align with Jason when I can.
+
+206
+00:15:58,000 --> 00:16:05,000
+We don't line up on boat ride issues, but I think we do line up on what burgers make you ill.
+
+207
+00:16:05,000 --> 00:16:08,000
+And Fudd Rutgers is one of those burgers.
+
+208
+00:16:08,000 --> 00:16:17,000
+But you would have to admit that I think at the time you were sitting in the Tonight Show booth in the Burbank Fudd Rutgers, which made everything all right.
+
+209
+00:16:17,000 --> 00:16:21,000
+I'm really sad that that is gone, primarily.
+
+210
+00:16:21,000 --> 00:16:22,000
+Like, that's Burbank history.
+
+211
+00:16:22,000 --> 00:16:28,000
+There was a maybe their biggest booth was devoted to the Jay Leno Tonight Show.
+
+212
+00:16:28,000 --> 00:16:33,000
+I guess some Carson in there, but it was very Leno centric, never acknowledged Conan or Jimmy Fallon.
+
+213
+00:16:33,000 --> 00:16:36,000
+Unlike the ride, it stayed all Leno.
+
+214
+00:16:36,000 --> 00:16:40,000
+You have to imagine Jay was in there at some point, maybe at many points.
+
+215
+00:16:40,000 --> 00:16:48,000
+And whatever establishment takes over that space, I think should maintain the Tonight Show with Jay Leno booth.
+
+216
+00:16:48,000 --> 00:16:49,000
+Oh, yeah, I agree.
+
+217
+00:16:49,000 --> 00:16:55,000
+It's it was just like basically it was a bigger booth with some pictures of Jay surrounding the booth.
+
+218
+00:16:55,000 --> 00:16:57,000
+In case it says it.
+
+219
+00:16:57,000 --> 00:17:01,000
+But with the logo really big, like painted on that wall, that that was cool.
+
+220
+00:17:01,000 --> 00:17:04,000
+Nick, Nick, do you have a favorite Fudd Rutgers of your life?
+
+221
+00:17:04,000 --> 00:17:11,000
+Yeah, there's one near the Willowbrook Mall in where the town I grew up.
+
+222
+00:17:11,000 --> 00:17:17,000
+And I remember being a kid because, like, after baseball games, you would go there and it had a big arcade.
+
+223
+00:17:17,000 --> 00:17:21,000
+And then also had wall to wall, like different flavored strawberry daiquiris.
+
+224
+00:17:21,000 --> 00:17:22,000
+Wow.
+
+225
+00:17:22,000 --> 00:17:23,000
+More boozy.
+
+226
+00:17:23,000 --> 00:17:24,000
+Oh, wow.
+
+227
+00:17:24,000 --> 00:17:25,000
+Interesting.
+
+228
+00:17:25,000 --> 00:17:26,000
+We really only had like beer there.
+
+229
+00:17:26,000 --> 00:17:29,000
+And I think they only really had beer at the Burbank one, too.
+
+230
+00:17:29,000 --> 00:17:32,000
+It was it was a it's I think it's still open.
+
+231
+00:17:32,000 --> 00:17:34,000
+But this one does not have a drive through.
+
+232
+00:17:34,000 --> 00:17:35,000
+Wow.
+
+233
+00:17:35,000 --> 00:17:37,000
+And it's probably still filled with people.
+
+234
+00:17:37,000 --> 00:17:40,000
+Did they close the Fudd Rutgers in Buena Park, California?
+
+235
+00:17:40,000 --> 00:17:42,000
+I think they might have.
+
+236
+00:17:42,000 --> 00:17:45,000
+Yeah, I think they might have to this man.
+
+237
+00:17:45,000 --> 00:17:48,000
+Texas sounds better and better the more I hear about it.
+
+238
+00:17:48,000 --> 00:17:49,000
+All right.
+
+239
+00:17:49,000 --> 00:17:55,000
+Well, there's an awesome guy currently making a lot of noise out there.
+
+240
+00:17:55,000 --> 00:17:57,000
+This is this dude, Ted Cruz.
+
+241
+00:17:57,000 --> 00:17:58,000
+Yeah.
+
+242
+00:17:58,000 --> 00:18:05,000
+And if you so if you go to Texas, you can be closer to him, maybe run into him, maybe in the packed Fudd Rutgers.
+
+243
+00:18:05,000 --> 00:18:06,000
+I'm gonna.
+
+244
+00:18:06,000 --> 00:18:08,000
+Yeah, yeah, I think you might.
+
+245
+00:18:08,000 --> 00:18:14,000
+And that's really where you're beating us in general, Nick, is that you're that you could end up friends with Ted Cruz.
+
+246
+00:18:14,000 --> 00:18:16,000
+At any point, I'm going to pants him.
+
+247
+00:18:16,000 --> 00:18:17,000
+Yeah.
+
+248
+00:18:17,000 --> 00:18:24,000
+When you're when you're all maskless in a Fudd Rutgers, I'm going to pants him in front of his children.
+
+249
+00:18:24,000 --> 00:18:25,000
+Yeah.
+
+250
+00:18:25,000 --> 00:18:26,000
+Well, that's good.
+
+251
+00:18:26,000 --> 00:18:28,000
+I mean, he'll he'll probably just enjoy it.
+
+252
+00:18:28,000 --> 00:18:31,000
+And then you can maybe talk some sense into him in general.
+
+253
+00:18:31,000 --> 00:18:39,000
+Yeah, they know I'll pants him, embarrass him, emasculate him, and then I'll, you know, try to steal an election for me.
+
+254
+00:18:39,000 --> 00:18:40,000
+It's what Trump did to him.
+
+255
+00:18:40,000 --> 00:18:43,000
+So yeah, I mean, so then he'll be at your board.
+
+256
+00:18:43,000 --> 00:18:46,000
+So then he'll be at your beck and call for the rest of his life.
+
+257
+00:18:46,000 --> 00:18:47,000
+He'll love you.
+
+258
+00:18:47,000 --> 00:18:50,000
+Right. And you guys will be going to Steve Miller band concerts together after.
+
+259
+00:18:50,000 --> 00:18:51,000
+Oh, don't you dare.
+
+260
+00:18:51,000 --> 00:18:52,000
+What?
+
+261
+00:18:52,000 --> 00:18:53,000
+Don't you dare.
+
+262
+00:18:53,000 --> 00:18:54,000
+Yeah.
+
+263
+00:18:54,000 --> 00:18:55,000
+All right. All right.
+
+264
+00:18:55,000 --> 00:18:56,000
+You don't have to go to that.
+
+265
+00:18:56,000 --> 00:19:01,000
+You can go to any number of the comedy clubs that are likely operating in Texas.
+
+266
+00:19:01,000 --> 00:19:12,000
+Any number of the covid riddled stand up comedians going around the country, go like, oh, this thing like pulling the mask, doing mask like like stage work like.
+
+267
+00:19:12,000 --> 00:19:15,000
+Complaining about covid while getting it and spreading it.
+
+268
+00:19:16,000 --> 00:19:18,000
+You and Ted arm arms over each other.
+
+269
+00:19:19,000 --> 00:19:20,000
+Laughing it up.
+
+270
+00:19:21,000 --> 00:19:22,000
+This is going to be a great thing.
+
+271
+00:19:22,000 --> 00:19:25,000
+This Texas and we're going to come visit and we're going to all hang out with Ted.
+
+272
+00:19:26,000 --> 00:19:27,000
+This is fantastic.
+
+273
+00:19:27,000 --> 00:19:28,000
+This couldn't be better.
+
+274
+00:19:29,000 --> 00:19:30,000
+You can do local pickup.
+
+275
+00:19:30,000 --> 00:19:32,000
+You can save on shipping for Joe Rogan.
+
+276
+00:19:32,000 --> 00:19:35,000
+New tropics like the brain.
+
+277
+00:19:37,000 --> 00:19:40,000
+I mean, I'm in Joe Rogan's podcast room right now.
+
+278
+00:19:40,000 --> 00:19:41,000
+The bunker, the weird worker.
+
+279
+00:19:41,000 --> 00:19:42,000
+Yes.
+
+280
+00:19:42,000 --> 00:19:43,000
+Yeah.
+
+281
+00:19:43,000 --> 00:19:44,000
+Yeah, that's good.
+
+282
+00:19:44,000 --> 00:19:45,000
+You should get the lights.
+
+283
+00:19:45,000 --> 00:19:46,000
+You should get lights up.
+
+284
+00:19:46,000 --> 00:20:01,000
+And like he has when I see those YouTube clips where it looks like he's in, it looks like it's a fake background of like a of a bunk of like a maybe like a 90 syndicated TV show about a like a shelter, a bomb shelter.
+
+285
+00:20:01,000 --> 00:20:02,000
+Maybe is what it looks like.
+
+286
+00:20:02,000 --> 00:20:06,000
+I just thought he'd like he went to an abandoned fries and took the theming.
+
+287
+00:20:07,000 --> 00:20:08,000
+Yeah. You know, put it up against the wall.
+
+288
+00:20:08,000 --> 00:20:09,000
+I wish.
+
+289
+00:20:09,000 --> 00:20:14,000
+Hey, we won't disparage Steve Miller if you don't disparage abandoned fries.
+
+290
+00:20:14,000 --> 00:20:15,000
+I'm not.
+
+291
+00:20:15,000 --> 00:20:20,000
+Hey, the by the way, the fries in Houston is oil themed.
+
+292
+00:20:21,000 --> 00:20:23,000
+Oh, we were supposed to.
+
+293
+00:20:23,000 --> 00:20:29,000
+I forgot you were a little mad when we talked about fries because we didn't incorporate your your knowledge of the Texas ones.
+
+294
+00:20:29,000 --> 00:20:30,000
+So, yeah, oil themed.
+
+295
+00:20:31,000 --> 00:20:33,000
+Do you remember any of the main features of it?
+
+296
+00:20:34,000 --> 00:20:35,000
+In 20 years.
+
+297
+00:20:36,000 --> 00:20:37,000
+No.
+
+298
+00:20:37,000 --> 00:20:38,000
+No.
+
+299
+00:20:39,000 --> 00:20:40,000
+Oh, OK.
+
+300
+00:20:41,000 --> 00:20:48,000
+Well, maybe next episode, you could go over there and show and like we could discuss it.
+
+301
+00:20:48,000 --> 00:20:51,000
+You'll be our like man on the ground in Texas for all the themed entertainment there.
+
+302
+00:20:51,000 --> 00:20:58,000
+Look, I don't want to like podcast the ride you guys up, but I was the one who discovered Dinosaur World 2.
+
+303
+00:20:59,000 --> 00:21:01,000
+Yes, Dinosaur World.
+
+304
+00:21:01,000 --> 00:21:02,000
+Yes, Dinosaur World.
+
+305
+00:21:02,000 --> 00:21:04,000
+The thing we're talking about today.
+
+306
+00:21:04,000 --> 00:21:07,000
+Well, you know, let's start heading that way.
+
+307
+00:21:08,000 --> 00:21:23,000
+Yeah, because this just this grew out of Nick, you sending us photos of this thing that you you did and you took your daughter to and we thought, well, that seems like enough being that most of the episode about it.
+
+308
+00:21:23,000 --> 00:21:25,000
+You've got a show on a goddamn font.
+
+309
+00:21:25,000 --> 00:21:26,000
+I think it was plenty.
+
+310
+00:21:26,000 --> 00:21:28,000
+So did we do a show on it?
+
+311
+00:21:28,000 --> 00:21:30,000
+Did we do an episode about a font?
+
+312
+00:21:30,000 --> 00:21:31,000
+We should.
+
+313
+00:21:31,000 --> 00:21:32,000
+Yeah, we should.
+
+314
+00:21:32,000 --> 00:21:33,000
+Which one did what we do?
+
+315
+00:21:33,000 --> 00:21:36,000
+But that sounds like we did do that, but I can't think of what we did.
+
+316
+00:21:36,000 --> 00:21:38,000
+Maybe I was maybe a mandelion.
+
+317
+00:21:38,000 --> 00:21:41,000
+But, uh, well, you know, you're going to make it happen, though.
+
+318
+00:21:41,000 --> 00:21:45,000
+But we absolutely there's there's a couple of fonts I could think of.
+
+319
+00:21:45,000 --> 00:21:47,000
+Yeah, we could definitely do one on fonts.
+
+320
+00:21:47,000 --> 00:21:48,000
+I mean, we're not the real font.
+
+321
+00:21:48,000 --> 00:21:53,000
+We are definitely adjacent to we seem like the type of guys who would be really into fonts.
+
+322
+00:21:53,000 --> 00:21:54,000
+I'll say that.
+
+323
+00:21:54,000 --> 00:21:57,000
+Yeah, but I guess so.
+
+324
+00:21:57,000 --> 00:22:08,000
+So, uh, so it was my kid's birthday and the year before we went, we took her to Disneyland and she had a lot of fun, even though she was only one.
+
+325
+00:22:08,000 --> 00:22:12,000
+And we were like, hey, maybe this is like a yearly tradition.
+
+326
+00:22:12,000 --> 00:22:13,000
+Ha ha ha ha ha.
+
+327
+00:22:13,000 --> 00:22:14,000
+The hubris.
+
+328
+00:22:14,000 --> 00:22:21,000
+Um, and so we wanted to do something for her birthday because.
+
+329
+00:22:22,000 --> 00:22:27,000
+We were just looking for something to do that was different than any other ordinary day.
+
+330
+00:22:27,000 --> 00:22:36,000
+And then my mom was like, hey, at the Katie Mills mall, which is on the other side of town of Houston, there's this dinosaur thing.
+
+331
+00:22:36,000 --> 00:22:38,000
+And I was like, cool, I don't even know what it is.
+
+332
+00:22:38,000 --> 00:22:39,000
+Let's do it.
+
+333
+00:22:39,000 --> 00:22:42,000
+So, uh, looked it up.
+
+334
+00:22:42,000 --> 00:22:47,000
+I looked it up, bought a ticket for like 60 bucks.
+
+335
+00:22:47,000 --> 00:22:53,000
+And they sent us a SoundCloud file and they sent us to the mall.
+
+336
+00:22:53,000 --> 00:23:00,000
+And we drove around and looked at dinosaurs while SoundCloud file played and it was not sunk up.
+
+337
+00:23:00,000 --> 00:23:02,000
+And it was awesome.
+
+338
+00:23:02,000 --> 00:23:03,000
+Yeah.
+
+339
+00:23:03,000 --> 00:23:04,000
+Yeah.
+
+340
+00:23:04,000 --> 00:23:05,000
+Like one of the best things you've done all year.
+
+341
+00:23:05,000 --> 00:23:08,000
+I mean, yeah, maybe it was, uh, you know.
+
+342
+00:23:08,000 --> 00:23:11,000
+Uh, look, maybe it was just doing something.
+
+343
+00:23:11,000 --> 00:23:12,000
+Oh yeah.
+
+344
+00:23:12,000 --> 00:23:20,000
+But, uh, cause it's, it's just, it's literally dinosaurs are in a mall parking lot and you're driving around them slowly.
+
+345
+00:23:20,000 --> 00:23:21,000
+Oh, yes.
+
+346
+00:23:21,000 --> 00:23:22,000
+So, okay.
+
+347
+00:23:22,000 --> 00:23:23,000
+So I did this.
+
+348
+00:23:23,000 --> 00:23:32,000
+I did this out here in Pasadena and we've done a few of these drive through experiences and by and large, they're fine.
+
+349
+00:23:32,000 --> 00:23:33,000
+They're okay.
+
+350
+00:23:33,000 --> 00:23:42,000
+We drove through six flags and really what I was hoping for was to crash into a roller coaster and end up in a ditch and have to be rescued from the six flags.
+
+351
+00:23:42,000 --> 00:23:43,000
+And that didn't happen.
+
+352
+00:23:43,000 --> 00:23:48,000
+It was just sort of, we drove through and there were some nice lights and a lot of stretches of not interesting stuff.
+
+353
+00:23:48,000 --> 00:23:49,000
+And it was fine.
+
+354
+00:23:49,000 --> 00:23:50,000
+It was fine.
+
+355
+00:23:50,000 --> 00:23:51,000
+All these things are fine.
+
+356
+00:23:51,000 --> 00:23:52,000
+Okay.
+
+357
+00:23:52,000 --> 00:23:53,000
+All the Halloween thing I did was fine.
+
+358
+00:23:53,000 --> 00:23:54,000
+Nice little thing.
+
+359
+00:23:54,000 --> 00:23:57,000
+I went to Jurassic Quest and I go, well, it's going to be fine.
+
+360
+00:23:57,000 --> 00:23:58,000
+Like all these other things.
+
+361
+00:23:58,000 --> 00:24:03,000
+The difference is that magic SoundCloud file you brought up.
+
+362
+00:24:03,000 --> 00:24:04,000
+Okay.
+
+363
+00:24:04,000 --> 00:24:09,000
+I didn't actually realize that there was that component until I was actually there.
+
+364
+00:24:09,000 --> 00:24:12,000
+So I drove up and it's literally in the parking lot.
+
+365
+00:24:12,000 --> 00:24:14,000
+I can just see everything already.
+
+366
+00:24:14,000 --> 00:24:15,000
+It's not even hidden.
+
+367
+00:24:15,000 --> 00:24:17,000
+There's no dinosaurs hidden behind things.
+
+368
+00:24:17,000 --> 00:24:19,000
+And I was like, oh, well, that's kind of a bummer.
+
+369
+00:24:19,000 --> 00:24:21,000
+I was hoping, you know, you turn on the right.
+
+370
+00:24:21,000 --> 00:24:23,000
+Were some of the employees on roller skates for you?
+
+371
+00:24:23,000 --> 00:24:24,000
+What's that?
+
+372
+00:24:24,000 --> 00:24:26,000
+Were some of the employees on roller skates for you?
+
+373
+00:24:26,000 --> 00:24:27,000
+No, that sounds better though.
+
+374
+00:24:27,000 --> 00:24:28,000
+Okay.
+
+375
+00:24:28,000 --> 00:24:29,000
+Wow.
+
+376
+00:24:29,000 --> 00:24:31,000
+So I go, oh, I guess it's all right.
+
+377
+00:24:31,000 --> 00:24:32,000
+So you just drive through.
+
+378
+00:24:32,000 --> 00:24:35,000
+I can think I can see the whole like track already.
+
+379
+00:24:35,000 --> 00:24:38,000
+I find the SoundCloud file and let me play with this.
+
+380
+00:24:38,000 --> 00:24:40,000
+Jason alluded to this earlier.
+
+381
+00:24:40,000 --> 00:24:42,000
+Jason, did you end up doing this?
+
+382
+00:24:42,000 --> 00:24:43,000
+I did do this.
+
+383
+00:24:43,000 --> 00:24:44,000
+Yeah, I did this too.
+
+384
+00:24:44,000 --> 00:24:46,000
+And I agree.
+
+385
+00:24:46,000 --> 00:24:48,000
+I thought it was awesome.
+
+386
+00:24:48,000 --> 00:24:54,000
+I, Mike, I will echo what you said that like, yeah, a lot of these drive through things are fine.
+
+387
+00:24:54,000 --> 00:25:04,000
+And this, I think Jane told me, we looked it up like right around almost maybe even the same day, Scott, you texted that like, Nick, you had done this.
+
+388
+00:25:04,000 --> 00:25:09,000
+And the first thing I Googled was just a roller.
+
+389
+00:25:09,000 --> 00:25:14,000
+The picture I got was a dinosaur statue surrounded by caution tape.
+
+390
+00:25:14,000 --> 00:25:16,000
+And I was like, oh, well, that doesn't look very good.
+
+391
+00:25:16,000 --> 00:25:18,000
+It doesn't look like it moves.
+
+392
+00:25:18,000 --> 00:25:19,000
+Not the case.
+
+393
+00:25:19,000 --> 00:25:20,000
+They move quite a bit.
+
+394
+00:25:20,000 --> 00:25:21,000
+I was shocked.
+
+395
+00:25:21,000 --> 00:25:23,000
+Yes, they do move, which is fun.
+
+396
+00:25:23,000 --> 00:25:24,000
+What are they?
+
+397
+00:25:24,000 --> 00:25:25,000
+Are they puppets?
+
+398
+00:25:25,000 --> 00:25:26,000
+Are they animatronics?
+
+399
+00:25:26,000 --> 00:25:27,000
+They're animatronics.
+
+400
+00:25:27,000 --> 00:25:28,000
+Yeah, they're.
+
+401
+00:25:28,000 --> 00:25:29,000
+Yeah.
+
+402
+00:25:29,000 --> 00:25:34,000
+And they'll be so I think it's it'll be like a tall like if it's a T-Rex or whatever, it'll be it's very tall.
+
+403
+00:25:34,000 --> 00:25:40,000
+But the head is on some sort of an electronic swivel or something like a little pieces of them move.
+
+404
+00:25:40,000 --> 00:25:47,000
+It's not some full crazy animatronic, but like there's enough movement to like suggest that it's a robot.
+
+405
+00:25:47,000 --> 00:25:49,000
+OK, so here's the robot.
+
+406
+00:25:49,000 --> 00:25:50,000
+That it's a robot.
+
+407
+00:25:50,000 --> 00:25:53,000
+OK, so here's here's when I perked up here.
+
+408
+00:25:53,000 --> 00:25:54,000
+I'm going to play.
+
+409
+00:25:54,000 --> 00:26:04,000
+I started playing this in the car and my theme park brain immediately was excited in a way it hadn't been in any of these drive through places.
+
+410
+00:26:19,000 --> 00:26:20,000
+Jurassic.
+
+411
+00:26:20,000 --> 00:26:21,000
+Fantastic.
+
+412
+00:26:21,000 --> 00:26:22,000
+Dinosaurs.
+
+413
+00:26:22,000 --> 00:26:23,000
+Jurassic.
+
+414
+00:26:23,000 --> 00:26:24,000
+Jurassic.
+
+415
+00:26:24,000 --> 00:26:25,000
+Jurassic.
+
+416
+00:26:25,000 --> 00:26:26,000
+Jurassic.
+
+417
+00:26:26,000 --> 00:26:35,000
+So that's a little piece of it.
+
+418
+00:26:35,000 --> 00:26:36,000
+They played at the end.
+
+419
+00:26:36,000 --> 00:26:44,000
+And then what basically happens is they have a whole narrative where people narrate what they what you're seeing as far as the dinosaurs.
+
+420
+00:26:44,000 --> 00:26:50,000
+And they also have little theme park tropes like one of the dinosaurs escaped that happens.
+
+421
+00:26:50,000 --> 00:26:55,000
+So this is the missing component from all of these drive through experiences.
+
+422
+00:26:55,000 --> 00:27:03,000
+It doesn't matter that basically it's like the dinosaurs are just set up in a in a line like they're waiting to go into some like they're waiting for a concert.
+
+423
+00:27:03,000 --> 00:27:04,000
+It doesn't matter.
+
+424
+00:27:04,000 --> 00:27:05,000
+That doesn't matter at all.
+
+425
+00:27:05,000 --> 00:27:08,000
+It only it matters is that there's a narrative like a theme park ride.
+
+426
+00:27:08,000 --> 00:27:11,000
+This is what Jurassic Quest is nailed that the other place.
+
+427
+00:27:11,000 --> 00:27:22,000
+Yes. And you get to hear all your friends show up like Dino Dustin prehistoric and Nick Safari Sarah Captain Caleb Park Ranger Marty.
+
+428
+00:27:22,000 --> 00:27:23,000
+Yes.
+
+429
+00:27:23,000 --> 00:27:25,000
+Wait wait wait.
+
+430
+00:27:25,000 --> 00:27:27,000
+What do you mean the six flags.
+
+431
+00:27:27,000 --> 00:27:32,000
+Oh we we drove through a six flags for the holiday light.
+
+432
+00:27:32,000 --> 00:27:37,000
+They had a holiday lights celebration at Six Flags and we got to drive our car through the six flags.
+
+433
+00:27:37,000 --> 00:27:39,000
+The walkways are very wide.
+
+434
+00:27:39,000 --> 00:27:40,000
+Yeah.
+
+435
+00:27:40,000 --> 00:27:42,000
+You can drive your car through a six flags.
+
+436
+00:27:43,000 --> 00:27:44,000
+Why?
+
+437
+00:27:45,000 --> 00:27:47,000
+Because they're like candy cane.
+
+438
+00:27:47,000 --> 00:27:51,000
+I mean it's because there's because all of us are trying to get the saddest Christmas of our lives.
+
+439
+00:27:51,000 --> 00:27:52,000
+That's why Nick.
+
+440
+00:27:53,000 --> 00:27:56,000
+Yeah. Because we can't do anything more fun than a Jurassic Quest kicks that ass.
+
+441
+00:27:57,000 --> 00:27:59,000
+Clearly. Obviously I didn't do it.
+
+442
+00:27:59,000 --> 00:28:01,000
+And now I'm I'm sort of regretting it.
+
+443
+00:28:01,000 --> 00:28:02,000
+I should take the kid.
+
+444
+00:28:03,000 --> 00:28:08,000
+Well he's kind of I don't think he would know what was going on and he'd probably fall asleep.
+
+445
+00:28:08,000 --> 00:28:09,000
+Yeah but it's also doing something.
+
+446
+00:28:10,000 --> 00:28:11,000
+Yeah that's true.
+
+447
+00:28:12,000 --> 00:28:13,000
+Well you got me there.
+
+448
+00:28:13,000 --> 00:28:16,000
+That's the underrated aspect of this is I went and did something.
+
+449
+00:28:18,000 --> 00:28:19,000
+Yeah.
+
+450
+00:28:19,000 --> 00:28:20,000
+That's the main thing it has going on.
+
+451
+00:28:20,000 --> 00:28:21,000
+That is good.
+
+452
+00:28:21,000 --> 00:28:25,000
+It felt good to drive to Pasadena to the Rose Bowl and do something.
+
+453
+00:28:25,000 --> 00:28:26,000
+Yeah.
+
+454
+00:28:26,000 --> 00:28:34,000
+Before we go too far just so you don't think this is a thing that that's in the past like dinosaurs and you can't do.
+
+455
+00:28:34,000 --> 00:28:39,000
+As you're hearing this I think it still is available for a couple of days in Pasadena if you're in the L.A.
+
+456
+00:28:39,000 --> 00:28:44,000
+area at the Pomona Fairplex in February in Orange County.
+
+457
+00:28:44,000 --> 00:28:45,000
+Go to Pomona.
+
+458
+00:28:45,000 --> 00:28:47,000
+Jacksonville Florida Orlando.
+
+459
+00:28:47,000 --> 00:28:48,000
+It's like there.
+
+460
+00:28:48,000 --> 00:28:49,000
+Oh wait maybe Jacksonville's over.
+
+461
+00:28:50,000 --> 00:28:51,000
+San Diego it's coming too.
+
+462
+00:28:51,000 --> 00:28:57,000
+So if you are curious about this it might be coming to your town especially if you're in Southern California.
+
+463
+00:28:58,000 --> 00:29:00,000
+Yeah they have two touring companies.
+
+464
+00:29:00,000 --> 00:29:10,000
+Usually this Jurassic Quest experience is a walkthrough but they managed to like seemingly pretty quickly pivot to a drive through experience.
+
+465
+00:29:10,000 --> 00:29:20,000
+And yeah like you're saying did a good job and and that audio file is the most theme parkie of any of the drive through things.
+
+466
+00:29:20,000 --> 00:29:21,000
+I had to give them credit too.
+
+467
+00:29:22,000 --> 00:29:25,000
+I think I was getting very claustrophobic at a lot of those drive throughs.
+
+468
+00:29:26,000 --> 00:29:37,000
+They set up those like steel fence kind of guardrails sort of things and Jurassic Quest just opted to buy every surplus traffic cone in America.
+
+469
+00:29:37,000 --> 00:29:40,000
+And that was much more preferable.
+
+470
+00:29:40,000 --> 00:29:43,000
+And Jurassic Quest you can do during the daytime.
+
+471
+00:29:43,000 --> 00:29:52,000
+I think if you have to drive through like snaking switchbacks at one or two miles an hour daylight is a lot more fun.
+
+472
+00:29:52,000 --> 00:29:59,000
+Or two miles an hour daylight is much better to do at nighttime at least in my opinion.
+
+473
+00:29:59,000 --> 00:30:03,000
+I think for ours you could only do it do it during the daytime.
+
+474
+00:30:03,000 --> 00:30:04,000
+They weren't.
+
+475
+00:30:05,000 --> 00:30:06,000
+I liked how.
+
+476
+00:30:08,000 --> 00:30:18,000
+Simple it was and also like oh man they're just making a shit ton of money like I don't know but you ours was packed.
+
+477
+00:30:19,000 --> 00:30:24,000
+Oh yes I went at three o'clock on Wednesday and it was it was crowded.
+
+478
+00:30:24,000 --> 00:30:40,000
+It didn't really back up though it moved at a nice pace which was good because as soon as I got into the like start of it I had a low gas low gas came on and I was like oh no.
+
+479
+00:30:40,000 --> 00:30:41,000
+No.
+
+480
+00:30:42,000 --> 00:30:49,000
+Thankfully you only end up driving about like four or five miles when all is said and done so it really didn't matter.
+
+481
+00:30:49,000 --> 00:30:54,000
+Oh man if you could have only stalled into the middle of Jurassic Quest and stop the line.
+
+482
+00:30:54,000 --> 00:31:01,000
+I know I was thinking that as well but I'm sure they have some emergency proceed.
+
+483
+00:31:01,000 --> 00:31:06,000
+There was like a pullout halfway through where there were some port of parties and stuff.
+
+484
+00:31:06,000 --> 00:31:09,000
+Dennis Nedry of Jurassic Quest.
+
+485
+00:31:10,000 --> 00:31:12,000
+Out of gas out of gas over here.
+
+486
+00:31:14,000 --> 00:31:17,000
+Yeah but Scott you got to go to Pomona one you know that one's gonna be badass.
+
+487
+00:31:18,000 --> 00:31:21,000
+Yeah sure yeah Pomona is cool.
+
+488
+00:31:21,000 --> 00:31:23,000
+I've been to the fair.
+
+489
+00:31:24,000 --> 00:31:29,000
+Yeah well maybe I will maybe maybe now I got to make it out to out to Pomona.
+
+490
+00:31:29,000 --> 00:31:35,000
+This was a weird experience for me too because I had never in my life been to the Rose Bowl before.
+
+491
+00:31:36,000 --> 00:31:44,000
+And during the pandemic I have been twice once to shoot a commercial on the 50 yard line and once to drive by dinosaurs.
+
+492
+00:31:45,000 --> 00:31:48,000
+That's right. Oh my god you're in the middle of the Rose Bowl.
+
+493
+00:31:48,000 --> 00:31:49,000
+Yes.
+
+494
+00:31:49,000 --> 00:31:51,000
+What a way to experience a place.
+
+495
+00:31:51,000 --> 00:31:52,000
+Yeah.
+
+496
+00:31:52,000 --> 00:31:53,000
+The only way to experience it.
+
+497
+00:31:54,000 --> 00:31:59,000
+I saw you two on that 360 tour where the black eyed peas opened for them.
+
+498
+00:31:59,000 --> 00:32:00,000
+Oh hell yeah.
+
+499
+00:32:00,000 --> 00:32:04,000
+So so how was it weird to leave before the main act.
+
+500
+00:32:06,000 --> 00:32:08,000
+You know they could never be topped.
+
+501
+00:32:08,000 --> 00:32:12,000
+Once once once I heard I'm a bee.
+
+502
+00:32:12,000 --> 00:32:14,000
+I was out of there.
+
+503
+00:32:15,000 --> 00:32:17,000
+I said screw this you two crap.
+
+504
+00:32:17,000 --> 00:32:19,000
+And Fergie did all her spelling songs.
+
+505
+00:32:20,000 --> 00:32:21,000
+Yeah.
+
+506
+00:32:22,000 --> 00:32:34,000
+That you know really if that tour had happened more closer to when we do the podcast that would be a good topic because they had a very themed like stage with like a magic microphone that came down from the sky.
+
+507
+00:32:34,000 --> 00:32:36,000
+It was very much like a mic.
+
+508
+00:32:36,000 --> 00:32:38,000
+Well it was like a circular.
+
+509
+00:32:38,000 --> 00:32:41,000
+Monday did you do go to you two shows I forget is that too.
+
+510
+00:32:42,000 --> 00:32:44,000
+No that's not cool enough.
+
+511
+00:32:44,000 --> 00:32:45,000
+OK.
+
+512
+00:32:45,000 --> 00:32:53,000
+It had like it was like almost like a circle like a neon circle with a microphone in it and Bono would swing from it during the show.
+
+513
+00:32:54,000 --> 00:32:56,000
+He's having a themed experience.
+
+514
+00:32:56,000 --> 00:32:58,000
+We're like watching him go on a ride.
+
+515
+00:32:58,000 --> 00:32:59,000
+Yeah.
+
+516
+00:32:59,000 --> 00:33:00,000
+Yeah.
+
+517
+00:33:00,000 --> 00:33:06,000
+And we should probably eventually do like the zoo TV tour where he's Mr.
+
+518
+00:33:06,000 --> 00:33:10,000
+Mick whatever his name is the devil character that we've talked about before.
+
+519
+00:33:12,000 --> 00:33:13,000
+McPhisto Mr.
+
+520
+00:33:13,000 --> 00:33:14,000
+McPhisto.
+
+521
+00:33:14,000 --> 00:33:16,000
+I can't believe you implanted that in my head.
+
+522
+00:33:16,000 --> 00:33:17,000
+Along with the story.
+
+523
+00:33:19,000 --> 00:33:20,000
+Mr. McPhisto Mr.
+
+524
+00:33:20,000 --> 00:33:26,000
+McPhisto got all of his devil friends together and gave him a briefcase of a million hell bugs.
+
+525
+00:33:27,000 --> 00:33:38,000
+You didn't stuff you're going to be saying Scott when you're on like your death bed you're going to have dementia you're going to be in your like late 80s and you're going to be like Randy Gerber and George Clooney created tequila company and Mr.
+
+526
+00:33:38,000 --> 00:33:40,000
+McPhisto is Bono's alter ego.
+
+527
+00:33:41,000 --> 00:33:44,000
+You make a mistake inspired by Bono's.
+
+528
+00:33:45,000 --> 00:33:46,000
+Any of that.
+
+529
+00:33:46,000 --> 00:33:47,000
+No didn't need any of that gimmick crap.
+
+530
+00:33:48,000 --> 00:33:49,000
+Steve Miller.
+
+531
+00:33:50,000 --> 00:33:51,000
+That's no yeah.
+
+532
+00:33:51,000 --> 00:33:52,000
+He did.
+
+533
+00:33:52,000 --> 00:33:55,000
+So he didn't do like costumes or stagecraft.
+
+534
+00:33:56,000 --> 00:33:57,000
+Wasn't popular enough.
+
+535
+00:33:58,000 --> 00:34:00,000
+He didn't make enough money to pay for it.
+
+536
+00:34:00,000 --> 00:34:02,000
+Not even an abracadabra era.
+
+537
+00:34:03,000 --> 00:34:04,000
+He didn't like come.
+
+538
+00:34:04,000 --> 00:34:06,000
+They didn't all come out of a big group magician's hat.
+
+539
+00:34:08,000 --> 00:34:14,000
+I mean they wanted to but Dennis Young took up all the like the magic hats of the time and just wouldn't like.
+
+540
+00:34:15,000 --> 00:34:19,000
+He cleared out all the theatrical warehouses yes to do the Kilroy was here tour.
+
+541
+00:34:19,000 --> 00:34:30,000
+My my dream episode if we're going to start getting in if we're including poorly conceived theatrical concert experiences then Kilroy is here is my.
+
+542
+00:34:30,000 --> 00:34:32,000
+Tommy Shaw wouldn't put up with that shit.
+
+543
+00:34:32,000 --> 00:34:33,000
+Yeah.
+
+544
+00:34:33,000 --> 00:34:34,000
+He's a rocker he's the renegade.
+
+545
+00:34:35,000 --> 00:34:36,000
+He doesn't want to come out and read lines.
+
+546
+00:34:37,000 --> 00:34:45,000
+I don't want to get us derailed even more but somebody has pointed out before before that you would Nick Monday would be a great guest on a kiss meets the Phantom of the Park episode.
+
+547
+00:34:46,000 --> 00:34:48,000
+Oh yeah good idea.
+
+548
+00:34:49,000 --> 00:34:50,000
+That thing sucks.
+
+549
+00:34:50,000 --> 00:34:51,000
+But yeah I watch it.
+
+550
+00:34:53,000 --> 00:34:54,000
+It's like a really good opening.
+
+551
+00:34:54,000 --> 00:34:59,000
+It's an opening that convinces you it's going to be a good film and then a good film.
+
+552
+00:35:00,000 --> 00:35:05,000
+That it's not going to be horrible and then you guys do a podcast where like you talk about why.
+
+553
+00:35:06,000 --> 00:35:11,000
+Tommy Shaw sticks is better than Dennis the youngs is or do I need to just start that podcast.
+
+554
+00:35:11,000 --> 00:35:20,000
+Well we would have I think some difficulty there because even though I have my problems with Kuro is here Dennis the young is better in my book.
+
+555
+00:35:21,000 --> 00:35:25,000
+Wow this is this going to be you're going to make him mad Scott.
+
+556
+00:35:26,000 --> 00:35:27,000
+Sorry.
+
+557
+00:35:27,000 --> 00:35:38,000
+Well but maybe that's the combative net we argue about in weekly episodes over the course of five years we argue about who's better Dennis the younger Tommy Shaw for seven listeners.
+
+558
+00:35:38,000 --> 00:35:40,000
+Can you pivot then to what is that.
+
+559
+00:35:40,000 --> 00:35:41,000
+What would be J.Y.
+
+560
+00:35:42,000 --> 00:35:43,000
+Hmm. Yeah.
+
+561
+00:35:43,000 --> 00:35:45,000
+Oh J.Y. listens to hear if he's mentioned.
+
+562
+00:35:45,000 --> 00:35:46,000
+Yeah.
+
+563
+00:35:47,000 --> 00:35:48,000
+Mostly not.
+
+564
+00:35:49,000 --> 00:35:53,000
+Van Hagar I hear what you're saying but I think it's too many people care.
+
+565
+00:35:53,000 --> 00:35:57,000
+We have to like corner the market of an issue that no one pays attention to.
+
+566
+00:35:57,000 --> 00:36:00,000
+Yeah that's a debate someone's had in the last year.
+
+567
+00:36:01,000 --> 00:36:02,000
+Yes.
+
+568
+00:36:02,000 --> 00:36:05,000
+Like someone is in the world said like oh what do you think who you think is better.
+
+569
+00:36:05,000 --> 00:36:11,000
+Although I guess you could go Sharon you could say well Sharon era is the best version of Van Halen.
+
+570
+00:36:11,000 --> 00:36:13,000
+That's probably nobody's arguing for that.
+
+571
+00:36:14,000 --> 00:36:16,000
+I'd like to run this all Sharon arguments.
+
+572
+00:36:16,000 --> 00:36:17,000
+What was that Nick.
+
+573
+00:36:17,000 --> 00:36:18,000
+Here's your own might argue.
+
+574
+00:36:19,000 --> 00:36:20,000
+Maybe that's the best way.
+
+575
+00:36:20,000 --> 00:36:21,000
+Probably not.
+
+576
+00:36:21,000 --> 00:36:22,000
+He has a high opinion of himself.
+
+577
+00:36:22,000 --> 00:36:23,000
+Anyway Jurassic Quest.
+
+578
+00:36:23,000 --> 00:36:24,000
+Back to Jurassic Quest.
+
+579
+00:36:24,000 --> 00:36:27,000
+What's the music situation to the rest of it.
+
+580
+00:36:27,000 --> 00:36:28,000
+Is there a lot like this.
+
+581
+00:36:29,000 --> 00:36:48,000
+There's not other songs like that but there is just sort of like music that like you're in the jungle and like insect sound effects and there's not really any there's like some sort of like little beats to make it like a little more exciting but there's no fun songs.
+
+582
+00:36:48,000 --> 00:36:49,000
+Other than it's the same.
+
+583
+00:36:49,000 --> 00:36:50,000
+They just did.
+
+584
+00:36:50,000 --> 00:36:53,000
+They did one song and they played it at the start in the front.
+
+585
+00:36:53,000 --> 00:36:57,000
+There's no like musical number in the middle with dinosaurs which would have been a very good idea.
+
+586
+00:36:58,000 --> 00:36:59,000
+There's narration.
+
+587
+00:36:59,000 --> 00:37:09,000
+They use a lot of like transitional elements and some stings and they tell you like they they account that the sinking.
+
+588
+00:37:09,000 --> 00:37:12,000
+Yeah as Monday alluded to the sinking is not perfect.
+
+589
+00:37:12,000 --> 00:37:14,000
+Basically they tell you when to play.
+
+590
+00:37:14,000 --> 00:37:15,000
+They tell you when to pause.
+
+591
+00:37:15,000 --> 00:37:24,000
+Because like it's going to back up a little or in a couple cases we got like ahead of their narration and just kind of had to like let it play out.
+
+592
+00:37:24,000 --> 00:37:28,000
+But the dinosaurs are like pretty close together again.
+
+593
+00:37:28,000 --> 00:37:35,000
+Just just like real quick like putting it together with sending everyone.
+
+594
+00:37:35,000 --> 00:37:39,000
+Yeah YouTube link and or SoundCloud link you can use either and it's the same.
+
+595
+00:37:39,000 --> 00:37:41,000
+It does work surprisingly well.
+
+596
+00:37:41,000 --> 00:37:50,000
+Yeah I had to readjust a little bit because I had gotten ahead and then like look I some of the dinosaurs are a little similar to each other.
+
+597
+00:37:50,000 --> 00:37:57,000
+OK they seem like they had 40 dinosaurs set up and it's not like they're so some of them are so different from the other.
+
+598
+00:37:57,000 --> 00:37:59,000
+So I'd be like is that what is this one.
+
+599
+00:37:59,000 --> 00:38:00,000
+Is this a.
+
+600
+00:38:00,000 --> 00:38:03,000
+OK and then I went back and I finally got it synced up.
+
+601
+00:38:03,000 --> 00:38:05,000
+But that's also because I wasn't prepared.
+
+602
+00:38:05,000 --> 00:38:07,000
+I should have been prepared from the beginning.
+
+603
+00:38:07,000 --> 00:38:12,000
+But the funniest thing is when they go pause recording now.
+
+604
+00:38:12,000 --> 00:38:13,000
+Yeah.
+
+605
+00:38:13,000 --> 00:38:17,000
+Which is like necessary but it is funny to break up the.
+
+606
+00:38:17,000 --> 00:38:22,000
+So I went with my parents because they wanted to.
+
+607
+00:38:22,000 --> 00:38:24,000
+You know it was my kid's birthday.
+
+608
+00:38:24,000 --> 00:38:25,000
+Yeah.
+
+609
+00:38:25,000 --> 00:38:29,000
+We didn't stop the pausing because my dad just wanted to get through it.
+
+610
+00:38:29,000 --> 00:38:31,000
+And then he wanted to put on the news.
+
+611
+00:38:32,000 --> 00:38:36,000
+So halfway we're just just listen to the news.
+
+612
+00:38:36,000 --> 00:38:40,000
+So by the time you get to like the big finale guys you're here.
+
+613
+00:38:40,000 --> 00:38:41,000
+Yeah that was.
+
+614
+00:38:41,000 --> 00:38:46,000
+We were pulling into the first dinosaur because he started it soon as we got the ticket.
+
+615
+00:38:46,000 --> 00:38:51,000
+So like Rachel Maddow narrated the finale of Jurassic Quest for you.
+
+616
+00:38:51,000 --> 00:38:53,000
+The Dalles up today ending.
+
+617
+00:38:53,000 --> 00:38:55,000
+Yeah I mean it was a streak.
+
+618
+00:38:56,000 --> 00:38:59,000
+Yeah you can imagine what was happening.
+
+619
+00:38:59,000 --> 00:39:01,000
+I don't remember anything that happened.
+
+620
+00:39:01,000 --> 00:39:05,000
+So I'd have to go back and check the archives of what happened in the news.
+
+621
+00:39:05,000 --> 00:39:07,000
+It seems like nothing's really happened.
+
+622
+00:39:07,000 --> 00:39:16,000
+What happened was an all star armada of lawyers like Rudy and Lin Wood took the country back in the name of all patriots.
+
+623
+00:39:16,000 --> 00:39:18,000
+I think I think that's what happened.
+
+624
+00:39:18,000 --> 00:39:20,000
+Well I think that's what happened.
+
+625
+00:39:20,000 --> 00:39:27,000
+Well and then soon as we finished my wife Dallara was like hey you got to tell Scott and Carlson about this.
+
+626
+00:39:27,000 --> 00:39:32,000
+And then my dad was like why why would they care they're not children.
+
+627
+00:39:32,000 --> 00:39:34,000
+And you had a lot to explain.
+
+628
+00:39:34,000 --> 00:39:37,000
+Yeah and then I explained what the show was.
+
+629
+00:39:37,000 --> 00:39:40,000
+And that was a difficult conversation.
+
+630
+00:39:40,000 --> 00:39:45,000
+Did you have to hold him back from wanting to drive out here and beat us up.
+
+631
+00:39:45,000 --> 00:39:51,000
+No it's like yeah you know like you know if they make money good.
+
+632
+00:39:51,000 --> 00:40:00,000
+So you said there was a money component to it and then he was a little bit more like oh all right well I guess if there if there's some monetary gain from.
+
+633
+00:40:00,000 --> 00:40:04,000
+So they so they like do it for charity and then like no no.
+
+634
+00:40:04,000 --> 00:40:09,000
+Nick said I'm not sure what their money deal is but I thought I'm going to propose that they start a big crowd.
+
+635
+00:40:09,000 --> 00:40:11,000
+And then then they'll be making money.
+
+636
+00:40:11,000 --> 00:40:12,000
+Yeah.
+
+637
+00:40:12,000 --> 00:40:13,000
+So they have a bunch of kids.
+
+638
+00:40:13,000 --> 00:40:17,000
+No one really does.
+
+639
+00:40:17,000 --> 00:40:19,000
+Did you go to.
+
+640
+00:40:19,000 --> 00:40:24,000
+Did you go to a Disney World Nick as a child with your family.
+
+641
+00:40:24,000 --> 00:40:27,000
+Yeah we went three times.
+
+642
+00:40:27,000 --> 00:40:32,000
+Could we have your dad on to interview him about those trips.
+
+643
+00:40:32,000 --> 00:40:33,000
+Not you just me.
+
+644
+00:40:33,000 --> 00:40:38,000
+Could we have your dad on to interview him about those trips.
+
+645
+00:40:38,000 --> 00:40:41,000
+Not you just your dad.
+
+646
+00:40:41,000 --> 00:40:45,000
+See what would his memory of those trips be what he does he remember.
+
+647
+00:40:45,000 --> 00:40:49,000
+Could we like get in depth about Pirates of the Caribbean with him.
+
+648
+00:40:49,000 --> 00:40:52,000
+Oh no you wouldn't know what the hell that is.
+
+649
+00:40:52,000 --> 00:41:00,000
+I did he like the ride where you go past hydroponic plants and see how see various types of seeds are grown.
+
+650
+00:41:00,000 --> 00:41:04,000
+Yeah I think we went on a cruise one time.
+
+651
+00:41:04,000 --> 00:41:06,000
+And he got hammered.
+
+652
+00:41:06,000 --> 00:41:12,000
+And then I was I was five years old and I wanted a twenty dollar bill and acted like a brat.
+
+653
+00:41:12,000 --> 00:41:16,000
+And he wanted to throw me off the boat.
+
+654
+00:41:16,000 --> 00:41:20,000
+That's a thrilling story.
+
+655
+00:41:20,000 --> 00:41:24,000
+But look I was a brat.
+
+656
+00:41:24,000 --> 00:41:25,000
+You were five though.
+
+657
+00:41:25,000 --> 00:41:26,000
+I doubt he remembers.
+
+658
+00:41:26,000 --> 00:41:27,000
+Oh no.
+
+659
+00:41:27,000 --> 00:41:33,000
+Well the best trip was we went in high school and it was at the ESPN hotel which we've established.
+
+660
+00:41:33,000 --> 00:41:35,000
+Which doesn't exist.
+
+661
+00:41:35,000 --> 00:41:36,000
+We did not establish that.
+
+662
+00:41:36,000 --> 00:41:38,000
+This is where it came up before.
+
+663
+00:41:38,000 --> 00:41:39,000
+There is there is a.
+
+664
+00:41:39,000 --> 00:41:41,000
+Yeah we were at the ESPN hotel that we've all established.
+
+665
+00:41:41,000 --> 00:41:42,000
+No you were not real.
+
+666
+00:41:42,000 --> 00:41:43,000
+Not real.
+
+667
+00:41:43,000 --> 00:41:49,000
+You were likely at the Boardwalk hotel which has an ESPN restaurant.
+
+668
+00:41:49,000 --> 00:41:56,000
+So and at the ESPN hotel there was an arcade there and we all played time crisis for most of the trip.
+
+669
+00:41:56,000 --> 00:41:58,000
+We spent most of the trip just playing time crisis.
+
+670
+00:41:58,000 --> 00:42:00,000
+So you know that's a relatable story.
+
+671
+00:42:00,000 --> 00:42:06,000
+If you were going to Disney in the 90s there early 2000s you were playing some time crisis in hotel arcades.
+
+672
+00:42:06,000 --> 00:42:07,000
+At the ESPN hotel.
+
+673
+00:42:07,000 --> 00:42:19,000
+I just think we need a voice like your dad's once in a while because we're living in we're living in a fantasy land here where people all generally understand what we talk about when we're talking about living with the land.
+
+674
+00:42:19,000 --> 00:42:22,000
+Or we talk about the original journey into imagination.
+
+675
+00:42:23,000 --> 00:42:32,000
+But it would be nice to get a real world voice once in a while to be like shut up you nerds you know so we can get like a little bit of perspective on how the world might view us.
+
+676
+00:42:32,000 --> 00:42:35,000
+I think you'd be like.
+
+677
+00:42:35,000 --> 00:42:38,000
+I don't know if you'd call you nerds probably just weirdos.
+
+678
+00:42:38,000 --> 00:42:39,000
+Okay that's fine.
+
+679
+00:42:39,000 --> 00:42:40,000
+All right well.
+
+680
+00:42:40,000 --> 00:42:41,000
+Call us that.
+
+681
+00:42:41,000 --> 00:42:45,000
+Dude was it tough to tell him that you caused the podcast that all this is.
+
+682
+00:42:45,000 --> 00:42:46,000
+No that was fine.
+
+683
+00:42:46,000 --> 00:42:49,000
+He was like why didn't you do it.
+
+684
+00:42:49,000 --> 00:42:50,000
+Like why were you on it.
+
+685
+00:42:50,000 --> 00:42:52,000
+Yeah like well that was a dumb idea to give away.
+
+686
+00:42:52,000 --> 00:42:57,000
+I was like yeah but I didn't give a shit about rides and he was like yeah it makes sense.
+
+687
+00:42:57,000 --> 00:43:03,000
+Yeah you leave the podcast whenever you're on it you get up and we can't keep you here for more than an hour.
+
+688
+00:43:03,000 --> 00:43:06,000
+Yeah I think I would not be a good host to the show.
+
+689
+00:43:06,000 --> 00:43:09,000
+I think you have the right hosts doing it.
+
+690
+00:43:09,000 --> 00:43:15,000
+It's very humble of you to admit that you should be one of the regular hosts of 200 episodes.
+
+691
+00:43:15,000 --> 00:43:21,000
+I'm sure there's other people who like like the Disney Star Wars better than you guys that would be better better hosts adapted.
+
+692
+00:43:21,000 --> 00:43:22,000
+Let's not get into that.
+
+693
+00:43:22,000 --> 00:43:29,000
+We're going to the gripes in that probably wouldn't grow and grow sardonic and sarcastic and probably bring up politics less.
+
+694
+00:43:29,000 --> 00:43:34,000
+I think those I think those hosts would probably be better but compared to me I think you guys are way better.
+
+695
+00:43:34,000 --> 00:43:38,000
+Okay well there's obviously a spectrum and we're doing all right on the spectrum.
+
+696
+00:43:38,000 --> 00:43:40,000
+There's nothing but notes a lot of notes.
+
+697
+00:43:40,000 --> 00:43:56,000
+We were talking about your notes because you it didn't seem like you'd heard the podcast in a long time and then you listen to an episode about a ride called Horizons which if you like theme parks people love the rides people love to talk about.
+
+698
+00:43:56,000 --> 00:44:04,000
+And then you heard the episode and told both Mike and I separately and listen to that show about that ride I know what the fuck you're talking about.
+
+699
+00:44:04,000 --> 00:44:08,000
+Yeah I like look I'm not trying to be a jerk but what the hell was that about.
+
+700
+00:44:08,000 --> 00:44:15,000
+Well see now we're doing a thing where we make sure that we say the basics about what the ride is.
+
+701
+00:44:15,000 --> 00:44:16,000
+I'm calling it Monday's Law.
+
+702
+00:44:16,000 --> 00:44:21,000
+We're following Monday's Law and we're saying I'm not calling it that.
+
+703
+00:44:21,000 --> 00:44:23,000
+We're calling that's fine man.
+
+704
+00:44:23,000 --> 00:44:34,000
+Two or three of us are calling it that so I would like I would like Scott though to explain Horizons real quick to Monday and see if you can let him understand what it was.
+
+705
+00:44:34,000 --> 00:44:46,000
+Oh yeah well see it's a ride about different visions of the future you know back in the past people like Jules Verne had ideas of what the future might be but you know then in the 80s General Electric came along.
+
+706
+00:44:46,000 --> 00:44:47,000
+What was this ride on?
+
+707
+00:44:47,000 --> 00:44:48,000
+What's that?
+
+708
+00:44:48,000 --> 00:44:50,000
+Like Epcot Center.
+
+709
+00:44:50,000 --> 00:44:58,000
+It was at Epcot Center which was really near the Boardwalk Hotel where the ESPN restaurant was not the ESPN Hotel.
+
+710
+00:44:58,000 --> 00:45:07,000
+Now and if you're walking to Epcot from the Boardwalk Hotel you need to remember you're going to be entering in the other entrance of the International Gateway not the main entrance where you would pick up the monorail.
+
+711
+00:45:07,000 --> 00:45:15,000
+You use the International Gateway which takes you in a world showcase and it's actually really charming and it's like a part of the hotel experience that we all discovered that we liked.
+
+712
+00:45:15,000 --> 00:45:19,000
+It's just you know beautiful landscaping and manicuring around there.
+
+713
+00:45:19,000 --> 00:45:25,000
+Yeah now you can take the Disney Skyliner and see a great view of of this entrance.
+
+714
+00:45:25,000 --> 00:45:27,000
+The Skyliner which isn't the Skyway.
+
+715
+00:45:27,000 --> 00:45:29,000
+Not the Skyway.
+
+716
+00:45:29,000 --> 00:45:30,000
+Yeah.
+
+717
+00:45:30,000 --> 00:45:32,000
+I'm sorry COVID has changed the world.
+
+718
+00:45:32,000 --> 00:45:34,000
+I only go through amusement parks in my car.
+
+719
+00:45:34,000 --> 00:45:36,000
+Yes so do we.
+
+720
+00:45:36,000 --> 00:45:40,000
+Ninosaur World is ahead of the curve.
+
+721
+00:45:40,000 --> 00:45:44,000
+I'm not getting out of my car for anything ever again.
+
+722
+00:45:44,000 --> 00:45:50,000
+So maybe if Disney World offers a drive through if there was a drive through Horizons you would maybe do it but.
+
+723
+00:45:50,000 --> 00:45:55,000
+Well we're talking about like if things ever get back to normal ha ha ha ha.
+
+724
+00:45:55,000 --> 00:46:00,000
+Now that we're closer to Disney World the law has never been so we could.
+
+725
+00:46:00,000 --> 00:46:02,000
+You could go to Disney World but it's open.
+
+726
+00:46:02,000 --> 00:46:04,000
+Yeah you should go.
+
+727
+00:46:04,000 --> 00:46:06,000
+I'm not going now.
+
+728
+00:46:06,000 --> 00:46:07,000
+Go for it.
+
+729
+00:46:07,000 --> 00:46:10,000
+Mike you want to get out of the car to see me.
+
+730
+00:46:10,000 --> 00:46:11,000
+Yeah.
+
+731
+00:46:11,000 --> 00:46:13,000
+I'm scared of this thing man.
+
+732
+00:46:13,000 --> 00:46:19,000
+No Mike's not going but Nick you're going to go rough it up with Ted Cruz and pull off your masks and then bring Ted.
+
+733
+00:46:19,000 --> 00:46:23,000
+You and Ted in Animal Kingdom looking at the animals arm in arm.
+
+734
+00:46:23,000 --> 00:46:24,000
+Come on.
+
+735
+00:46:24,000 --> 00:46:27,000
+Are they real animals or they like Dinosaur World.
+
+736
+00:46:27,000 --> 00:46:29,000
+No these are real animals.
+
+737
+00:46:29,000 --> 00:46:36,000
+There are fake dinosaurs in Animal Kingdom on a ride called Dinosaur but there are also a lot of them.
+
+738
+00:46:36,000 --> 00:46:37,000
+Can I sit in my Subaru?
+
+739
+00:46:37,000 --> 00:46:38,000
+What's that?
+
+740
+00:46:38,000 --> 00:46:40,000
+Can I sit in my Subaru?
+
+741
+00:46:40,000 --> 00:46:42,000
+You could you just wouldn't see very much.
+
+742
+00:46:42,000 --> 00:46:43,000
+Yeah.
+
+743
+00:46:43,000 --> 00:46:45,000
+You'd see other cars.
+
+744
+00:46:45,000 --> 00:46:46,000
+That's why like.
+
+745
+00:46:46,000 --> 00:46:49,000
+I mean Jurassic Park has got it all figured out.
+
+746
+00:46:49,000 --> 00:46:53,000
+It's like they take they take mall parking lots which were way full.
+
+747
+00:46:53,000 --> 00:46:57,000
+You guys didn't say the right name of this the entire time.
+
+748
+00:46:57,000 --> 00:46:58,000
+Yeah but I loved it.
+
+749
+00:46:58,000 --> 00:47:00,000
+Jurassic Quest.
+
+750
+00:47:00,000 --> 00:47:05,000
+I'm going to make my own because the dinosaurs weren't even that great.
+
+751
+00:47:05,000 --> 00:47:09,000
+But like you if you just steal some.
+
+752
+00:47:09,000 --> 00:47:11,000
+I'm not going to disagree with that.
+
+753
+00:47:11,000 --> 00:47:12,000
+I thought they were pretty good.
+
+754
+00:47:12,000 --> 00:47:13,000
+They were pretty good.
+
+755
+00:47:13,000 --> 00:47:14,000
+It was 50.
+
+756
+00:47:14,000 --> 00:47:17,000
+That's the going rate for all of these drive through things.
+
+757
+00:47:17,000 --> 00:47:18,000
+It's pretty much what they cost.
+
+758
+00:47:18,000 --> 00:47:19,000
+Yeah.
+
+759
+00:47:19,000 --> 00:47:21,000
+And this 50 bucks for Christmas lights.
+
+760
+00:47:21,000 --> 00:47:22,000
+Yeah we did.
+
+761
+00:47:22,000 --> 00:47:23,000
+Yeah.
+
+762
+00:47:23,000 --> 00:47:28,000
+Well it was twenty five dollars a person to drive through six flags and when we know why.
+
+763
+00:47:28,000 --> 00:47:29,000
+I brought it.
+
+764
+00:47:29,000 --> 00:47:30,000
+So I paid fifty dollars.
+
+765
+00:47:30,000 --> 00:47:31,000
+Yes.
+
+766
+00:47:31,000 --> 00:47:33,000
+For to see Christmas lights in a closed theme park.
+
+767
+00:47:33,000 --> 00:47:34,000
+It was mostly dark.
+
+768
+00:47:34,000 --> 00:47:35,000
+Yeah.
+
+769
+00:47:35,000 --> 00:47:36,000
+What did you ask us Nick?
+
+770
+00:47:36,000 --> 00:47:38,000
+Why didn't he hide in another blanket.
+
+771
+00:47:38,000 --> 00:47:39,000
+Yeah.
+
+772
+00:47:40,000 --> 00:47:41,000
+What did you ask us Nick?
+
+773
+00:47:41,000 --> 00:47:45,000
+Why didn't he hide in another blanket when he went through so you'd only have to pay 25 bucks.
+
+774
+00:47:45,000 --> 00:47:47,000
+Well because we're good boys.
+
+775
+00:47:47,000 --> 00:47:48,000
+We're good boys.
+
+776
+00:47:48,000 --> 00:47:50,000
+We follow rules like our parents told us to.
+
+777
+00:47:50,000 --> 00:47:52,000
+Why didn't he pay in boy coin?
+
+778
+00:47:52,000 --> 00:47:54,000
+It didn't exist at the time.
+
+779
+00:47:54,000 --> 00:47:55,000
+This was 2020.
+
+780
+00:47:55,000 --> 00:47:56,000
+We just had the idea.
+
+781
+00:47:56,000 --> 00:47:57,000
+We had the mock up.
+
+782
+00:47:57,000 --> 00:48:00,000
+We had a sketch of one but they didn't take it foolishly.
+
+783
+00:48:00,000 --> 00:48:03,000
+Did you guys go in three cars or all together?
+
+784
+00:48:03,000 --> 00:48:05,000
+We did not go all together.
+
+785
+00:48:05,000 --> 00:48:07,000
+We did not go all together.
+
+786
+00:48:07,000 --> 00:48:08,000
+We're quarantined.
+
+787
+00:48:08,000 --> 00:48:09,000
+We're quarantined.
+
+788
+00:48:09,000 --> 00:48:10,000
+It's a pandemic.
+
+789
+00:48:10,000 --> 00:48:11,000
+What are you talking about?
+
+790
+00:48:11,000 --> 00:48:13,000
+Well there's a carbon footprint to think about too.
+
+791
+00:48:13,000 --> 00:48:14,000
+We can't like forget about that.
+
+792
+00:48:14,000 --> 00:48:16,000
+Oh that's out the window in California.
+
+793
+00:48:16,000 --> 00:48:19,000
+Oh the reusable cups, the plastic, everything's back.
+
+794
+00:48:19,000 --> 00:48:20,000
+No more reusable cups.
+
+795
+00:48:20,000 --> 00:48:21,000
+You know.
+
+796
+00:48:21,000 --> 00:48:23,000
+What are you guys using straws again?
+
+797
+00:48:25,000 --> 00:48:26,000
+We're using straws.
+
+798
+00:48:26,000 --> 00:48:27,000
+Yeah.
+
+799
+00:48:27,000 --> 00:48:29,000
+I use ten straws a day now.
+
+800
+00:48:29,000 --> 00:48:34,000
+You could barely drive through Jurassic Quest here because there were so many straws strewn all over the ground.
+
+801
+00:48:34,000 --> 00:48:36,000
+The dinosaurs are tripping.
+
+802
+00:48:36,000 --> 00:48:38,000
+Yeah it's a wasteland over here.
+
+803
+00:48:38,000 --> 00:48:40,000
+You got out just in time before this thing.
+
+804
+00:48:40,000 --> 00:48:42,000
+We're about to sink into the ocean.
+
+805
+00:48:42,000 --> 00:48:44,000
+It's real bad news here.
+
+806
+00:48:44,000 --> 00:48:53,000
+I will say some facts I learned that the velociraptor is a little furry and he's not as big as you think.
+
+807
+00:48:53,000 --> 00:48:54,000
+We drove by some things.
+
+808
+00:48:54,000 --> 00:48:56,000
+Oh yeah that was a big thing.
+
+809
+00:48:56,000 --> 00:48:57,000
+Yes.
+
+810
+00:48:57,000 --> 00:49:03,000
+Because we all think of, when we think of Raptor, we think of of course the character Blue from Jurassic World.
+
+811
+00:49:03,000 --> 00:49:05,000
+That's what we think of.
+
+812
+00:49:05,000 --> 00:49:06,000
+We all know the movie.
+
+813
+00:49:06,000 --> 00:49:08,000
+We can name all the main characters.
+
+814
+00:49:08,000 --> 00:49:17,000
+But our favorite character is Blue the Raptor that is trained by Owen Dennis, the main character of Jurassic World.
+
+815
+00:49:17,000 --> 00:49:18,000
+Wait.
+
+816
+00:49:18,000 --> 00:49:19,000
+No.
+
+817
+00:49:19,000 --> 00:49:20,000
+Claire Dennis.
+
+818
+00:49:20,000 --> 00:49:21,000
+Owen Grady.
+
+819
+00:49:21,000 --> 00:49:22,000
+Owen Grady.
+
+820
+00:49:22,000 --> 00:49:23,000
+You're right.
+
+821
+00:49:23,000 --> 00:49:25,000
+I mixed up the two characters.
+
+822
+00:49:25,000 --> 00:49:27,000
+I'll edit this out so people won't.
+
+823
+00:49:27,000 --> 00:49:29,000
+Oh they won't even know my mistake.
+
+824
+00:49:29,000 --> 00:49:34,000
+What was the name of the guy who owned the mansion that they did the horror movie in for the last one?
+
+825
+00:49:35,000 --> 00:49:36,000
+Hmm.
+
+826
+00:49:36,000 --> 00:49:38,000
+That actually happened right?
+
+827
+00:49:38,000 --> 00:49:41,000
+That just wasn't like bullshit I made up in my mind.
+
+828
+00:49:41,000 --> 00:49:42,000
+Yes that's right.
+
+829
+00:49:42,000 --> 00:49:44,000
+John Hammond's former business partner.
+
+830
+00:49:44,000 --> 00:49:45,000
+Yes.
+
+831
+00:49:45,000 --> 00:49:46,000
+Yeah.
+
+832
+00:49:46,000 --> 00:49:48,000
+I don't know his name but we're talking about Blue here.
+
+833
+00:49:48,000 --> 00:49:50,000
+We're trying to talk about Blue.
+
+834
+00:49:50,000 --> 00:49:58,000
+So we drove by and honestly the Raptors are the size of maybe like a mid-sized dog.
+
+835
+00:49:58,000 --> 00:49:59,000
+Like maybe a bigger dog.
+
+836
+00:49:59,000 --> 00:50:00,000
+Maybe like even not.
+
+837
+00:50:01,000 --> 00:50:07,000
+But like a St. Bernard felt like it was bigger than these Raptors and I was shocked to learn this that we've been lied to.
+
+838
+00:50:07,000 --> 00:50:14,000
+And they make like little snide remarks about Jurassic Park and sort of the popular theory about dinosaurs.
+
+839
+00:50:14,000 --> 00:50:18,000
+I'm like no they're not as big as you think they are.
+
+840
+00:50:18,000 --> 00:50:23,000
+And like the Diloposaurus who in Jurassic Park they show shoots acid.
+
+841
+00:50:23,000 --> 00:50:25,000
+They don't do that.
+
+842
+00:50:25,000 --> 00:50:26,000
+That is a made up thing.
+
+843
+00:50:26,000 --> 00:50:30,000
+Oh but they did have the Jurassic Park 3 dinosaur bad guy.
+
+844
+00:50:31,000 --> 00:50:33,000
+Wait what with the big fin?
+
+845
+00:50:33,000 --> 00:50:35,000
+The Spinosaurus?
+
+846
+00:50:35,000 --> 00:50:37,000
+There is a Spinosaurus in this drive-thru.
+
+847
+00:50:37,000 --> 00:50:38,000
+The Spinosaurus.
+
+848
+00:50:38,000 --> 00:50:39,000
+Oh yeah totally.
+
+849
+00:50:39,000 --> 00:50:40,000
+They had the Jurassic 3.
+
+850
+00:50:40,000 --> 00:50:41,000
+Yeah that's what I was like.
+
+851
+00:50:41,000 --> 00:50:44,000
+Oh shit it's the Jurassic 3 bad guy dinosaur.
+
+852
+00:50:44,000 --> 00:50:51,000
+Yeah so they throw shade at Jurassic Park the whole time because Jurassic Park lied to us about a number of things.
+
+853
+00:50:51,000 --> 00:50:52,000
+Yeah.
+
+854
+00:50:52,000 --> 00:50:53,000
+I was surprised.
+
+855
+00:50:53,000 --> 00:50:56,000
+I knew some I knew it was a bit of a fantasy film.
+
+856
+00:50:56,000 --> 00:51:01,000
+Do you think Dinosaur World is BD Wong's revenge against Jurassic World?
+
+857
+00:51:01,000 --> 00:51:05,000
+Did you just are you when you say Dinosaur World you're talking about this drive-thru thing that's Jurassic Quest?
+
+858
+00:51:05,000 --> 00:51:06,000
+Yeah.
+
+859
+00:51:08,000 --> 00:51:17,000
+In Canon you're saying BD Wong's character has created a parking lot dinosaur drive-thru to correct the record on dinosaurs.
+
+860
+00:51:17,000 --> 00:51:21,000
+He is getting progressively more evil as those movies go on.
+
+861
+00:51:21,000 --> 00:51:23,000
+He was an evil before.
+
+862
+00:51:23,000 --> 00:51:25,000
+What's his character's name?
+
+863
+00:51:25,000 --> 00:51:27,000
+BD Wong.
+
+864
+00:51:27,000 --> 00:51:30,000
+Yes that's right Dr. BD Wong.
+
+865
+00:51:30,000 --> 00:51:37,000
+I cannot remember but yeah he's pretty villainous in the haunted house one the last one which I liked I liked Fallen Kingdom.
+
+866
+00:51:38,000 --> 00:51:52,000
+Yeah so I do think and I'm I'm I'm being serious so you do learn something because we've had our brains warped by this prop this fantasy propaganda for too long these Jurassic Park.
+
+867
+00:51:52,000 --> 00:51:54,000
+Dinosaur misinformation.
+
+868
+00:51:54,000 --> 00:51:55,000
+Yeah.
+
+869
+00:51:55,000 --> 00:51:56,000
+The Jurassic house was kick-ass.
+
+870
+00:51:56,000 --> 00:51:57,000
+Yeah.
+
+871
+00:51:57,000 --> 00:51:59,000
+I agree.
+
+872
+00:51:59,000 --> 00:52:00,000
+So.
+
+873
+00:52:00,000 --> 00:52:11,000
+A lot of these guys had feathers a lot of the animatronic dinosaurs had feathers and a lot of them looked like little turds like this wormy little guy this Anzu.
+
+874
+00:52:11,000 --> 00:52:19,000
+This is one of the last dinosaurs you see at the experience and he looks like like an ostrich that got in a fight or an emu.
+
+875
+00:52:19,000 --> 00:52:23,000
+There's a pronunciation guide and you still you said it wrong still.
+
+876
+00:52:23,000 --> 00:52:24,000
+Is it Anzu?
+
+877
+00:52:24,000 --> 00:52:25,000
+Yeah.
+
+878
+00:52:25,000 --> 00:52:26,000
+Okay.
+
+879
+00:52:26,000 --> 00:52:27,000
+Right there.
+
+880
+00:52:27,000 --> 00:52:28,000
+Anzu.
+
+881
+00:52:28,000 --> 00:52:30,000
+Hey you didn't go shut up Scott.
+
+882
+00:52:30,000 --> 00:52:31,000
+Yeah.
+
+883
+00:52:31,000 --> 00:52:34,000
+But I can read a sign.
+
+884
+00:52:34,000 --> 00:52:37,000
+It was tiny the print was tiny from that photo.
+
+885
+00:52:37,000 --> 00:52:57,000
+There are a lot like it felt like we've all been to museums and field trips before and sometimes you'd go to one of those like I'm trying to think we went to something called the JFK health world when I was little in the Schomburgish area and it was very much a more themed type like museum learning experience
+
+886
+00:52:57,000 --> 00:52:59,000
+which I like there was a slide in it.
+
+887
+00:52:59,000 --> 00:53:16,000
+This felt like one of like a better version of a boring thing you would do as a kid because you would learn something I do think as a kid I would have been from age let's say two to 16 afraid of these dinosaurs a little bit.
+
+888
+00:53:16,000 --> 00:53:18,000
+Maybe not 16 maybe like 13.
+
+889
+00:53:18,000 --> 00:53:20,000
+My two year old was laughing at them.
+
+890
+00:53:20,000 --> 00:53:21,000
+That's good.
+
+891
+00:53:21,000 --> 00:53:25,000
+Look, you've you've probably raising your child to be a lot tougher than I was.
+
+892
+00:53:25,000 --> 00:53:28,000
+I was raised to be afraid of the world.
+
+893
+00:53:28,000 --> 00:53:30,000
+This is what I was taught.
+
+894
+00:53:30,000 --> 00:53:34,000
+This is still what I'm being taught by my mother.
+
+895
+00:53:34,000 --> 00:53:48,000
+But I think that as a kid I would have been a little freaked but I would have learned something which is good for kids and I think doing it at night would be cooler as well because I think especially you're a little kid you're in the back seat.
+
+896
+00:53:48,000 --> 00:53:50,000
+You're kind of peering out to see what's next.
+
+897
+00:53:50,000 --> 00:53:53,000
+I think there would have been a little more like realism.
+
+898
+00:53:53,000 --> 00:53:55,000
+But then you're going to see the Costco cones.
+
+899
+00:53:55,000 --> 00:53:58,000
+You're not going to see them and you're going to bump right into them.
+
+900
+00:53:58,000 --> 00:54:00,000
+Well, that's what that's up to dad.
+
+901
+00:54:00,000 --> 00:54:04,000
+Dad has to do a good job than driving to not bump into the cones.
+
+902
+00:54:04,000 --> 00:54:13,000
+You know, you're it's interesting because you can really sort of think of this like you're the guy driving the boat on the jungle cruise.
+
+903
+00:54:13,000 --> 00:54:27,000
+You know, like you're kind of there's a there's a narrator also going in the car with a SoundCloud file, but you could probably then start throwing in your own jokes and then you could even add a little bit of excitement with the car.
+
+904
+00:54:27,000 --> 00:54:30,000
+Like you could speed up real fast, pretend you're going to hit the car in front of you.
+
+905
+00:54:30,000 --> 00:54:34,000
+Like you can then control the experience for your kid in a way.
+
+906
+00:54:34,000 --> 00:54:39,000
+So I think that I'm recommending to people if they do this with their children, have fun with it.
+
+907
+00:54:39,000 --> 00:54:46,000
+Don't put yourself in danger, but you could really like live out your sort of your fantasy of working at a Disney park.
+
+908
+00:54:46,000 --> 00:54:47,000
+You're right.
+
+909
+00:54:47,000 --> 00:54:52,000
+We did something similar of trying to figure out how you would steal one.
+
+910
+00:54:52,000 --> 00:54:54,000
+Hmm.
+
+911
+00:54:54,000 --> 00:54:55,000
+I think I'd be happy.
+
+912
+00:54:55,000 --> 00:54:56,000
+You guys think about that too.
+
+913
+00:54:56,000 --> 00:54:57,000
+I did.
+
+914
+00:54:57,000 --> 00:54:59,000
+Okay. Yeah, I actually did.
+
+915
+00:54:59,000 --> 00:55:05,000
+And Jane, I think I was going through, uh, because God bless her.
+
+916
+00:55:05,000 --> 00:55:06,000
+All these drive through things.
+
+917
+00:55:06,000 --> 00:55:11,000
+I am the one white knuckling it like, okay, don't hit the don't hit the cones.
+
+918
+00:55:11,000 --> 00:55:12,000
+Don't hit the thing.
+
+919
+00:55:12,000 --> 00:55:17,000
+And so Jane is taking pictures, but she did get a short video of me going like that.
+
+920
+00:55:17,000 --> 00:55:23,000
+I think that one will fit in the trunk because there are some real like goofy looking.
+
+921
+00:55:23,000 --> 00:55:28,000
+I could see kids laughing at it because there's some real goofy looking little dirty dinosaurs.
+
+922
+00:55:28,000 --> 00:55:30,000
+Some of them have very silly claws.
+
+923
+00:55:30,000 --> 00:55:33,000
+Were you you just you kind of breezed by it.
+
+924
+00:55:33,000 --> 00:55:35,000
+You said the phrase white knuckling.
+
+925
+00:55:35,000 --> 00:55:38,000
+Were you afraid while you were driving through this?
+
+926
+00:55:38,000 --> 00:55:42,000
+Well, I was a little concerned about running out of gas.
+
+927
+00:55:42,000 --> 00:55:44,000
+But that's right.
+
+928
+00:55:44,000 --> 00:55:50,000
+I my car tells me like you have 30 you've got like 30 miles left or so.
+
+929
+00:55:50,000 --> 00:55:53,000
+So I think it only got down to like 25 miles left.
+
+930
+00:55:53,000 --> 00:55:57,000
+So you're saying it was more gas based and not you were afraid of the parking lot terrain.
+
+931
+00:55:57,000 --> 00:55:59,000
+Well, probably gas.
+
+932
+00:55:59,000 --> 00:56:00,000
+But also like that many.
+
+933
+00:56:00,000 --> 00:56:01,000
+It's a little claustrophobic.
+
+934
+00:56:01,000 --> 00:56:05,000
+All of these things like that many cars crammed into these little spaces.
+
+935
+00:56:05,000 --> 00:56:10,000
+I don't think that's an unreasonable thing to throw out.
+
+936
+00:56:10,000 --> 00:56:15,000
+It is the phrase white knuckling applied to a speed of two miles per hour.
+
+937
+00:56:15,000 --> 00:56:16,000
+That's true.
+
+938
+00:56:16,000 --> 00:56:17,000
+Yes.
+
+939
+00:56:17,000 --> 00:56:18,000
+But I don't want to suck it dry.
+
+940
+00:56:18,000 --> 00:56:22,000
+I don't want to run out of gas or tap a car, you know, or tap a dinosaur.
+
+941
+00:56:22,000 --> 00:56:23,000
+That's the other.
+
+942
+00:56:23,000 --> 00:56:24,000
+Oh, man.
+
+943
+00:56:24,000 --> 00:56:29,000
+Some of the tails wag and the cars in front of me were getting real close to those wagging tails.
+
+944
+00:56:29,000 --> 00:56:30,000
+I yes, I did.
+
+945
+00:56:30,000 --> 00:56:36,000
+I was like, OK, I think I could drive the car and I think I could get it so the tail could crack the windshield a little bit.
+
+946
+00:56:36,000 --> 00:56:38,000
+Maybe. Yeah.
+
+947
+00:56:38,000 --> 00:56:39,000
+We wanted it to.
+
+948
+00:56:39,000 --> 00:56:48,000
+You wanted to get the car to get broken by a dinosaur in a fantasy world, of course, the logistics of going to fix it.
+
+949
+00:56:48,000 --> 00:56:52,000
+Maybe not worth a Patreon episode of podcast the ride.
+
+950
+00:56:52,000 --> 00:56:57,000
+But in my fantasy world, it would be funny if a robot dinosaur cracked my windshield.
+
+951
+00:56:58,000 --> 00:57:00,000
+Yes, I was driving a.
+
+952
+00:57:00,000 --> 00:57:02,000
+Bordor F-150 four by four.
+
+953
+00:57:02,000 --> 00:57:05,000
+So we were bigger than the dinosaurs.
+
+954
+00:57:05,000 --> 00:57:07,000
+You were like a couple.
+
+955
+00:57:07,000 --> 00:57:08,000
+Yeah.
+
+956
+00:57:08,000 --> 00:57:12,000
+You were taller like you were probably like eye to eye with the T-Rex.
+
+957
+00:57:12,000 --> 00:57:13,000
+Yep.
+
+958
+00:57:13,000 --> 00:57:14,000
+I balled it.
+
+959
+00:57:14,000 --> 00:57:15,000
+Wow.
+
+960
+00:57:15,000 --> 00:57:16,000
+The T-Rex probably like kind of look away.
+
+961
+00:57:16,000 --> 00:57:18,000
+It was so afraid of your car.
+
+962
+00:57:18,000 --> 00:57:20,000
+Scott, how have you not done this, man?
+
+963
+00:57:20,000 --> 00:57:22,000
+I don't know.
+
+964
+00:57:22,000 --> 00:57:25,000
+Yeah, it is because I.
+
+965
+00:57:25,000 --> 00:57:30,000
+I do think I could go by myself, but that feels weird.
+
+966
+00:57:30,000 --> 00:57:34,000
+I do not leave your child and and wife home.
+
+967
+00:57:34,000 --> 00:57:35,000
+Yeah.
+
+968
+00:57:35,000 --> 00:57:36,000
+You're going to dinosaur house.
+
+969
+00:57:36,000 --> 00:57:38,000
+I just he would fall asleep.
+
+970
+00:57:38,000 --> 00:57:43,000
+I don't know if they charge for somebody under one year old, but he would like a car.
+
+971
+00:57:43,000 --> 00:57:44,000
+It's by car.
+
+972
+00:57:44,000 --> 00:57:45,000
+Yeah.
+
+973
+00:57:45,000 --> 00:57:46,000
+So you're OK.
+
+974
+00:57:46,000 --> 00:57:47,000
+Oh, OK.
+
+975
+00:57:47,000 --> 00:57:52,000
+Because Six Flags was per person, which was kind of a posters in my book.
+
+976
+00:57:52,000 --> 00:57:53,000
+Yeah.
+
+977
+00:57:53,000 --> 00:57:54,000
+So all right.
+
+978
+00:57:54,000 --> 00:57:55,000
+So that's better.
+
+979
+00:57:55,000 --> 00:57:59,000
+That's why like a fifty dollars if you got the you pack the car, it sounds like that's
+
+980
+00:57:59,000 --> 00:58:02,000
+a pretty like it sounds like it's like ten dollars per person.
+
+981
+00:58:02,000 --> 00:58:03,000
+That's not crazy.
+
+982
+00:58:03,000 --> 00:58:04,000
+Yeah.
+
+983
+00:58:04,000 --> 00:58:08,000
+How close do these these kids can say characters?
+
+984
+00:58:08,000 --> 00:58:10,000
+It's a weird way to describe dinosaur.
+
+985
+00:58:10,000 --> 00:58:11,000
+Go close to these characters.
+
+986
+00:58:11,000 --> 00:58:12,000
+Get to you.
+
+987
+00:58:12,000 --> 00:58:19,000
+These loud characters like what that because with the way a car seat has to be like, what
+
+988
+00:58:19,000 --> 00:58:21,000
+do I I'm like, what do you even see it?
+
+989
+00:58:21,000 --> 00:58:22,000
+I'm not sure.
+
+990
+00:58:22,000 --> 00:58:23,000
+We you pick him up.
+
+991
+00:58:23,000 --> 00:58:24,000
+OK.
+
+992
+00:58:24,000 --> 00:58:25,000
+Yeah.
+
+993
+00:58:25,000 --> 00:58:26,000
+Because you're going slow.
+
+994
+00:58:26,000 --> 00:58:27,000
+You're not.
+
+995
+00:58:27,000 --> 00:58:28,000
+Yeah, yeah, yeah.
+
+996
+00:58:28,000 --> 00:58:29,000
+I could take him out.
+
+997
+00:58:29,000 --> 00:58:30,000
+That's right.
+
+998
+00:58:30,000 --> 00:58:33,000
+He's not a lot of kids poking out of like sunroofs when I was doing it.
+
+999
+00:58:33,000 --> 00:58:34,000
+Oh, OK.
+
+1000
+00:58:34,000 --> 00:58:35,000
+OK.
+
+1001
+00:58:35,000 --> 00:58:37,000
+Which is probably my baby out of the sunroom.
+
+1002
+00:58:37,000 --> 00:58:44,000
+You don't want to stick the baby out of the sunroom like Rafiki, the baby.
+
+1003
+00:58:45,000 --> 00:58:51,000
+And homage to Michael Jackson in the hotel room and to past guests, Candice LeRae and
+
+1004
+00:58:51,000 --> 00:58:53,000
+Johnny Garganos plan.
+
+1005
+00:58:53,000 --> 00:58:55,000
+Oh, they were going to.
+
+1006
+00:58:55,000 --> 00:58:56,000
+Oh, that's right.
+
+1007
+00:58:56,000 --> 00:58:59,000
+Weren't they going to declare that the child didn't make it?
+
+1008
+00:58:59,000 --> 00:59:01,000
+That they were going to declare that Candice dead.
+
+1009
+00:59:01,000 --> 00:59:03,000
+I was dead as well.
+
+1010
+00:59:03,000 --> 00:59:10,000
+Oh, that the birth killed both mother and child and then reveal triumphantly Rafiki style
+
+1011
+00:59:10,000 --> 00:59:14,000
+that that a real monkey was holding the baby, I believe was the point.
+
+1012
+00:59:14,000 --> 00:59:15,000
+It did involve an ape.
+
+1013
+00:59:15,000 --> 00:59:16,000
+Yes.
+
+1014
+00:59:16,000 --> 00:59:17,000
+This was a strange.
+
+1015
+00:59:17,000 --> 00:59:22,000
+We got to check in on that plan sometime this year and see how that's going.
+
+1016
+00:59:22,000 --> 00:59:23,000
+They did turn heels.
+
+1017
+00:59:23,000 --> 00:59:27,000
+They've been they've been doing great work as heels on NXT.
+
+1018
+00:59:27,000 --> 00:59:30,000
+So maybe we know a photo was pulled up and we ignored it.
+
+1019
+00:59:30,000 --> 00:59:31,000
+Yeah, sorry.
+
+1020
+00:59:31,000 --> 00:59:32,000
+Doing it.
+
+1021
+00:59:32,000 --> 00:59:33,000
+Oh, shit.
+
+1022
+00:59:33,000 --> 00:59:35,000
+Because I knew it was you because it was geotagged to Katie Mills.
+
+1023
+00:59:35,000 --> 00:59:37,000
+And I have a lot of questions about Katie Mills.
+
+1024
+00:59:37,000 --> 00:59:39,000
+But we'll talk about dinosaurs.
+
+1025
+00:59:39,000 --> 00:59:40,000
+Pick their ass in football.
+
+1026
+00:59:40,000 --> 00:59:43,000
+Katie Mills was a school.
+
+1027
+00:59:43,000 --> 00:59:45,000
+Katie was Katie.
+
+1028
+00:59:45,000 --> 00:59:46,000
+OK, that's a that's a town.
+
+1029
+00:59:46,000 --> 00:59:47,000
+That's a suburb.
+
+1030
+00:59:47,000 --> 00:59:48,000
+Mm hmm.
+
+1031
+00:59:48,000 --> 00:59:51,000
+Yeah, their football stadium had turf, which sucked.
+
+1032
+00:59:51,000 --> 00:59:55,000
+Yeah, but this has turf and it's cool.
+
+1033
+00:59:55,000 --> 00:59:58,000
+Yeah, turf under the dino.
+
+1034
+00:59:58,000 --> 01:00:00,000
+That's really that's really cool.
+
+1035
+01:00:00,000 --> 01:00:04,000
+Scott, would you have as a kid have been afraid of something like that?
+
+1036
+01:00:04,000 --> 01:00:05,000
+Say you were seven or eight.
+
+1037
+01:00:05,000 --> 01:00:08,000
+I know we've talked about you have a fear of big things in small places.
+
+1038
+01:00:08,000 --> 01:00:11,000
+This is obviously outdoors, but still it's pretty big.
+
+1039
+01:00:11,000 --> 01:00:12,000
+It is. You're correct.
+
+1040
+01:00:12,000 --> 01:00:15,000
+It is the the outdoor issue would make it OK.
+
+1041
+01:00:15,000 --> 01:00:19,000
+I don't like when there is a big thing in an enclosed space.
+
+1042
+01:00:19,000 --> 01:00:20,000
+There is this issue.
+
+1043
+01:00:20,000 --> 01:00:25,000
+If this was in a mills mall, I think it might have a bother me more.
+
+1044
+01:00:25,000 --> 01:00:30,000
+But they aren't that big, as you said, because if they're going by, how big the real.
+
+1045
+01:00:30,000 --> 01:00:32,000
+Well, what was the biggest dinosaur you feel like?
+
+1046
+01:00:32,000 --> 01:00:34,000
+It was a fish dinosaur.
+
+1047
+01:00:34,000 --> 01:00:35,000
+Oh, the Megalodon.
+
+1048
+01:00:35,000 --> 01:00:36,000
+That was awesome.
+
+1049
+01:00:36,000 --> 01:00:39,000
+They had a Megalodon, the Meg, the Meg.
+
+1050
+01:00:39,000 --> 01:00:40,000
+Oh, Meg.
+
+1051
+01:00:40,000 --> 01:00:41,000
+The Meg.
+
+1052
+01:00:41,000 --> 01:00:42,000
+Yes, Meg.
+
+1053
+01:00:42,000 --> 01:00:43,000
+And they were moved.
+
+1054
+01:00:43,000 --> 01:00:46,000
+It was like it was doing swimming most.
+
+1055
+01:00:46,000 --> 01:00:49,000
+It was waggling around, but it was like huge.
+
+1056
+01:00:49,000 --> 01:00:50,000
+Yeah, it was big.
+
+1057
+01:00:50,000 --> 01:00:51,000
+It wasn't.
+
+1058
+01:00:51,000 --> 01:00:53,000
+It wasn't that wasn't the tallest one.
+
+1059
+01:00:53,000 --> 01:00:56,000
+I think that T-Rex or the T-Rex was probably the tallest one.
+
+1060
+01:00:56,000 --> 01:01:03,000
+OK, but I mean, the T-Rex felt like it was 20 feet tall, maybe 25.
+
+1061
+01:01:03,000 --> 01:01:06,000
+It's bigger than some of the photos would suggest.
+
+1062
+01:01:06,000 --> 01:01:11,000
+So, geez, I would have definitely been freaked as a kid.
+
+1063
+01:01:11,000 --> 01:01:13,000
+Jason, would you have been freaked as a kid?
+
+1064
+01:01:13,000 --> 01:01:17,000
+Well, in most circumstances, yes, but I was a real dinosaur kid.
+
+1065
+01:01:17,000 --> 01:01:18,000
+I had a lot of dinosaur toys.
+
+1066
+01:01:18,000 --> 01:01:26,000
+I loved to go into the Philadelphia Natural History Museum and the Franklin Institute in Philadelphia.
+
+1067
+01:01:26,000 --> 01:01:30,000
+What was your favorite dinosaur as a child?
+
+1068
+01:01:30,000 --> 01:01:35,000
+Oh, I liked, you know, they we've learned so much since then.
+
+1069
+01:01:35,000 --> 01:01:37,000
+So I don't remember.
+
+1070
+01:01:37,000 --> 01:01:39,000
+I don't know what it's called now.
+
+1071
+01:01:39,000 --> 01:01:40,000
+I don't remember what it was called then.
+
+1072
+01:01:40,000 --> 01:01:50,000
+But the one with the tail that they all have tails, the tail that has like a big bony like water thing.
+
+1073
+01:01:50,000 --> 01:01:55,000
+No, not the same as the one who had like spikes coming out of the side.
+
+1074
+01:01:55,000 --> 01:01:57,000
+Oh, yeah, there was a dino rider with one of those.
+
+1075
+01:01:57,000 --> 01:01:58,000
+Yeah.
+
+1076
+01:01:58,000 --> 01:02:05,000
+And then the tail had a big bone, like almost bone growth, bone ball at the back.
+
+1077
+01:02:05,000 --> 01:02:08,000
+Have you guys done a dino riders episode?
+
+1078
+01:02:08,000 --> 01:02:09,000
+We haven't.
+
+1079
+01:02:09,000 --> 01:02:12,000
+I was going to say, who's everybody's favorite dino rider as a kid?
+
+1080
+01:02:12,000 --> 01:02:16,000
+Did you like this is like the the the Dennis DeYoung Tommy Shaw debate.
+
+1081
+01:02:16,000 --> 01:02:19,000
+Are you a valorian or are you a Rulon?
+
+1082
+01:02:19,000 --> 01:02:26,000
+Wait, no, I think the Laureans are maybe dinosaurs and Rulons are aliens.
+
+1083
+01:02:26,000 --> 01:02:28,000
+OK, yeah, they're a race of aliens.
+
+1084
+01:02:28,000 --> 01:02:31,000
+I dino riders is a cartoon.
+
+1085
+01:02:31,000 --> 01:02:34,000
+I don't remember dino riders.
+
+1086
+01:02:34,000 --> 01:02:36,000
+I never watched it.
+
+1087
+01:02:36,000 --> 01:02:38,000
+Can anyone name a dino rider?
+
+1088
+01:02:38,000 --> 01:02:40,000
+I just looked it up.
+
+1089
+01:02:40,000 --> 01:02:41,000
+So I've already.
+
+1090
+01:02:41,000 --> 01:02:42,000
+What was that Nick?
+
+1091
+01:02:42,000 --> 01:02:43,000
+Dinosaur.
+
+1092
+01:02:43,000 --> 01:02:44,000
+Hmm.
+
+1093
+01:02:44,000 --> 01:02:47,000
+I'm not seeing that in the list.
+
+1094
+01:02:47,000 --> 01:02:49,000
+It's not on the list.
+
+1095
+01:02:49,000 --> 01:02:50,000
+Tykeane.
+
+1096
+01:02:50,000 --> 01:02:53,000
+Hector.
+
+1097
+01:02:53,000 --> 01:02:55,000
+I was more of a Silver Hawk guy.
+
+1098
+01:02:55,000 --> 01:02:57,000
+Who's your favorite?
+
+1099
+01:02:57,000 --> 01:02:59,000
+I like the guy with the guitar.
+
+1100
+01:02:59,000 --> 01:03:00,000
+Yeah.
+
+1101
+01:03:00,000 --> 01:03:01,000
+What's this?
+
+1102
+01:03:01,000 --> 01:03:02,000
+What were you?
+
+1103
+01:03:02,000 --> 01:03:06,000
+Do you ever watch Cowboys of Mumaesa?
+
+1104
+01:03:06,000 --> 01:03:08,000
+That I watched.
+
+1105
+01:03:08,000 --> 01:03:09,000
+Yeah.
+
+1106
+01:03:09,000 --> 01:03:11,000
+OK, maybe that was after you.
+
+1107
+01:03:11,000 --> 01:03:13,000
+Who's everybody's favorite street shark?
+
+1108
+01:03:13,000 --> 01:03:14,000
+Street sharks.
+
+1109
+01:03:14,000 --> 01:03:15,000
+Yeah, it was.
+
+1110
+01:03:15,000 --> 01:03:16,000
+Yeah.
+
+1111
+01:03:16,000 --> 01:03:17,000
+Well, who?
+
+1112
+01:03:17,000 --> 01:03:18,000
+Yeah.
+
+1113
+01:03:18,000 --> 01:03:20,000
+Big Slammoo, obviously.
+
+1114
+01:03:20,000 --> 01:03:23,000
+Big Slammoo is easily the best street shark.
+
+1115
+01:03:23,000 --> 01:03:24,000
+There's no question.
+
+1116
+01:03:24,000 --> 01:03:27,000
+Was he the one who roller bladed?
+
+1117
+01:03:27,000 --> 01:03:28,000
+Sure.
+
+1118
+01:03:28,000 --> 01:03:31,000
+Yeah, I'm pretty sure.
+
+1119
+01:03:31,000 --> 01:03:34,000
+I like the one who had roller blades.
+
+1120
+01:03:34,000 --> 01:03:36,000
+Or did they all roller blade?
+
+1121
+01:03:36,000 --> 01:03:41,000
+I thought that was the whole thing is they were roller blading sharks with pants.
+
+1122
+01:03:41,000 --> 01:03:46,000
+Who is everyone's favorite dinosaur on the show dinosaurs?
+
+1123
+01:03:46,000 --> 01:03:48,000
+Well, come on.
+
+1124
+01:03:48,000 --> 01:03:51,000
+It's streaming soon on Disney Plus if not already.
+
+1125
+01:03:51,000 --> 01:03:52,000
+Why, well, come on.
+
+1126
+01:03:52,000 --> 01:03:54,000
+Was there an obvious answer?
+
+1127
+01:03:54,000 --> 01:03:55,000
+Isn't it Baby Sinclair?
+
+1128
+01:03:55,000 --> 01:03:56,000
+It has to be Baby Sinclair.
+
+1129
+01:03:56,000 --> 01:03:57,000
+No, it doesn't have to be.
+
+1130
+01:03:57,000 --> 01:03:58,000
+What do you mean?
+
+1131
+01:03:58,000 --> 01:03:59,000
+It could be the boss.
+
+1132
+01:03:59,000 --> 01:04:01,000
+It could be the mean Triceratops boss.
+
+1133
+01:04:01,000 --> 01:04:03,000
+It's not going to be the boss.
+
+1134
+01:04:03,000 --> 01:04:04,000
+I think it is the boss.
+
+1135
+01:04:04,000 --> 01:04:05,000
+You think it's the boss?
+
+1136
+01:04:05,000 --> 01:04:10,000
+Or Robbie, who got addicted to steroids or something.
+
+1137
+01:04:10,000 --> 01:04:11,000
+I like Robbie.
+
+1138
+01:04:11,000 --> 01:04:12,000
+That was pretty cool.
+
+1139
+01:04:12,000 --> 01:04:13,000
+But I'm a Baby Sinclair man.
+
+1140
+01:04:13,000 --> 01:04:15,000
+The mob was hot.
+
+1141
+01:04:15,000 --> 01:04:18,000
+You were attracted to the mom dinosaur?
+
+1142
+01:04:18,000 --> 01:04:19,000
+Sure, we all were.
+
+1143
+01:04:19,000 --> 01:04:21,000
+With Jessica Walter's voice?
+
+1144
+01:04:21,000 --> 01:04:22,000
+Yeah, I'm sorry.
+
+1145
+01:04:22,000 --> 01:04:25,000
+I'm not afraid of my sexuality, guys.
+
+1146
+01:04:25,000 --> 01:04:26,000
+Dinosaur woman.
+
+1147
+01:04:26,000 --> 01:04:27,000
+That's fair.
+
+1148
+01:04:27,000 --> 01:04:28,000
+Attraction.
+
+1149
+01:04:28,000 --> 01:04:34,000
+Who's the most attractive dinosaur in Jurassic Quest?
+
+1150
+01:04:34,000 --> 01:04:35,000
+That's a good question.
+
+1151
+01:04:35,000 --> 01:04:37,000
+Yeah, that's a really good question.
+
+1152
+01:04:37,000 --> 01:04:38,000
+I don't know.
+
+1153
+01:04:38,000 --> 01:04:42,000
+I think some of the aquatic ones.
+
+1154
+01:04:42,000 --> 01:04:45,000
+You're more of a Troy McClure type.
+
+1155
+01:04:45,000 --> 01:04:46,000
+Yes.
+
+1156
+01:04:46,000 --> 01:04:50,000
+I'm going to the Aquaria.
+
+1157
+01:04:50,000 --> 01:04:51,000
+I like the idea.
+
+1158
+01:04:51,000 --> 01:04:55,000
+I will say the first thing that came to my mind is the Meg, honestly, when you said that
+
+1159
+01:04:55,000 --> 01:04:56,000
+question.
+
+1160
+01:04:56,000 --> 01:04:57,000
+Can you name?
+
+1161
+01:04:57,000 --> 01:04:59,000
+Yeah, maybe that's really all it was.
+
+1162
+01:04:59,000 --> 01:05:02,000
+There was no dinosaur in a blonde wig.
+
+1163
+01:05:02,000 --> 01:05:06,000
+If they had one of those, perhaps I would have said, oh, that one.
+
+1164
+01:05:06,000 --> 01:05:08,000
+I think it's the Meg.
+
+1165
+01:05:08,000 --> 01:05:12,000
+Maybe they do a fun thing at night and they dress some of the dinosaurs up.
+
+1166
+01:05:12,000 --> 01:05:13,000
+That's a plus, though.
+
+1167
+01:05:13,000 --> 01:05:17,000
+I don't think they can do it at night because the employees have to roller skate.
+
+1168
+01:05:17,000 --> 01:05:20,000
+Oh, here's the Ankylosaurus.
+
+1169
+01:05:20,000 --> 01:05:21,000
+Ankylosaur.
+
+1170
+01:05:21,000 --> 01:05:25,000
+That was the one I liked as a kid because he had a lot going on.
+
+1171
+01:05:25,000 --> 01:05:26,000
+And that is real.
+
+1172
+01:05:26,000 --> 01:05:28,000
+What do you call that thing at the end?
+
+1173
+01:05:28,000 --> 01:05:29,000
+A club?
+
+1174
+01:05:29,000 --> 01:05:31,000
+Yeah, it's kind of like a club.
+
+1175
+01:05:31,000 --> 01:05:33,000
+Yeah, it's like a club.
+
+1176
+01:05:34,000 --> 01:05:36,000
+It's kind of like a ball.
+
+1177
+01:05:36,000 --> 01:05:41,000
+It's like a trying to think what you call like what do you call the ball the prisoner has
+
+1178
+01:05:41,000 --> 01:05:46,000
+around its ankle, their ankle, a ball ball and change that it is there?
+
+1179
+01:05:46,000 --> 01:05:48,000
+There's not a fancy name for that.
+
+1180
+01:05:48,000 --> 01:05:50,000
+I mean, as a weapon, it's like a maze.
+
+1181
+01:05:50,000 --> 01:05:51,000
+It's a maze.
+
+1182
+01:05:51,000 --> 01:05:52,000
+Right.
+
+1183
+01:05:52,000 --> 01:05:53,000
+Yeah.
+
+1184
+01:05:53,000 --> 01:05:54,000
+Are we sure that dinosaur existed?
+
+1185
+01:05:54,000 --> 01:05:58,000
+Because like a lot of like dinosaur discoveries was bullshit.
+
+1186
+01:05:58,000 --> 01:06:01,000
+Maybe it was just like a regular dinosaur with a little bit of a little bit of a little
+
+1187
+01:06:01,000 --> 01:06:06,000
+shit. Maybe it was just like a regular dinosaur with like a rock attached to its tail.
+
+1188
+01:06:06,000 --> 01:06:11,000
+Like an unrelated rock just happened to be buried next to the one that they found.
+
+1189
+01:06:11,000 --> 01:06:12,000
+Maybe.
+
+1190
+01:06:12,000 --> 01:06:14,000
+So dinosaurs actually exist.
+
+1191
+01:06:14,000 --> 01:06:16,000
+You think maybe are you a truther?
+
+1192
+01:06:16,000 --> 01:06:19,000
+Do you think that they there were no dinosaurs?
+
+1193
+01:06:19,000 --> 01:06:25,000
+Look, dinosaurs existed, but on a flat earth.
+
+1194
+01:06:25,000 --> 01:06:27,000
+By the ice walls.
+
+1195
+01:06:27,000 --> 01:06:28,000
+Yeah.
+
+1196
+01:06:28,000 --> 01:06:34,000
+I think my favorite as a kid, my favorite dinosaur here I'll show you right now was this one.
+
+1197
+01:06:34,000 --> 01:06:44,000
+Oh, you pulled up a picture of Riff from Barney, the like clearly inferior fourth rejected fourth
+
+1198
+01:06:44,000 --> 01:06:47,000
+character, the Pucci of the Barney gang.
+
+1199
+01:06:47,000 --> 01:06:51,000
+Do you Nick, do you know about Riff Barney's nephew?
+
+1200
+01:06:51,000 --> 01:06:52,000
+What is he?
+
+1201
+01:06:52,000 --> 01:06:55,000
+No, my kid doesn't watch this crap.
+
+1202
+01:06:55,000 --> 01:06:56,000
+That's right.
+
+1203
+01:06:56,000 --> 01:06:58,000
+Well, I think your kids should see Riff.
+
+1204
+01:06:58,000 --> 01:07:01,000
+Riff plays the saxophone and loves jazz music.
+
+1205
+01:07:01,000 --> 01:07:05,000
+He's orange and he has like a smoker's voice.
+
+1206
+01:07:05,000 --> 01:07:09,000
+So does Bill Clinton and look where that got us.
+
+1207
+01:07:09,000 --> 01:07:11,000
+Riff was not on the Epstein Island though.
+
+1208
+01:07:11,000 --> 01:07:15,000
+So Riff is clean.
+
+1209
+01:07:15,000 --> 01:07:16,000
+Not on the logs.
+
+1210
+01:07:16,000 --> 01:07:20,000
+Yeah, Riff is not on the flight logs.
+
+1211
+01:07:20,000 --> 01:07:23,000
+Here's one thing we haven't mentioned so far.
+
+1212
+01:07:23,000 --> 01:07:28,000
+This drive through themed attraction has a drive through gift shop at the end.
+
+1213
+01:07:28,000 --> 01:07:29,000
+Yes.
+
+1214
+01:07:29,000 --> 01:07:31,000
+Did anyone get possible?
+
+1215
+01:07:31,000 --> 01:07:32,000
+More theme park.
+
+1216
+01:07:32,000 --> 01:07:38,000
+This is why I said this feels the most like a theme park thing I've done since quarantine started
+
+1217
+01:07:38,000 --> 01:07:43,000
+because they have all of the trappings of a theme park experience, including the gift shop,
+
+1218
+01:07:43,000 --> 01:07:48,000
+which is also drive through, which I did not get anything, but I love the idea that I could get
+
+1219
+01:07:48,000 --> 01:07:51,000
+merchandise from the ride from this.
+
+1220
+01:07:51,000 --> 01:07:53,000
+Did you get the drive through photo?
+
+1221
+01:07:53,000 --> 01:07:56,000
+Did everyone get the drive through photo after the drive through gift shop?
+
+1222
+01:07:56,000 --> 01:07:57,000
+Oh, we didn't have that.
+
+1223
+01:07:57,000 --> 01:08:00,000
+Oh, I did get it.
+
+1224
+01:08:00,000 --> 01:08:04,000
+And I'm remembering now that I left the QR code in the car and I forgot to bring it up.
+
+1225
+01:08:04,000 --> 01:08:05,000
+So I'll find my car.
+
+1226
+01:08:05,000 --> 01:08:07,000
+I looked like shit that day.
+
+1227
+01:08:07,000 --> 01:08:11,000
+I mean, I've looked like shit the whole pandemic, but I looked especially bad that day.
+
+1228
+01:08:11,000 --> 01:08:16,000
+And just the man taking a picture of me disheveled in my car.
+
+1229
+01:08:16,000 --> 01:08:17,000
+Were you by yourself?
+
+1230
+01:08:17,000 --> 01:08:19,000
+I was by myself. Yes.
+
+1231
+01:08:19,000 --> 01:08:20,000
+Oh shit.
+
+1232
+01:08:20,000 --> 01:08:21,000
+They probably called someone.
+
+1233
+01:08:21,000 --> 01:08:26,000
+Yeah, no, I was on a cross country police chase post.
+
+1234
+01:08:26,000 --> 01:08:31,000
+They're like, what is that man older man doing alone in the Jurassic quest?
+
+1235
+01:08:31,000 --> 01:08:33,000
+I probably podcast.
+
+1236
+01:08:33,000 --> 01:08:34,000
+Yeah.
+
+1237
+01:08:34,000 --> 01:08:38,000
+Well, that's finally when that I was it was like sort of the fugitive situation where I was in the tunnel
+
+1238
+01:08:38,000 --> 01:08:43,000
+and there was like police with guns pointed at me and I was like, I have a podcast.
+
+1239
+01:08:43,000 --> 01:08:45,000
+And they went, oh, OK.
+
+1240
+01:08:45,000 --> 01:08:46,000
+And they put the guns down.
+
+1241
+01:08:46,000 --> 01:08:52,000
+When you guys review podcasts, you were like the hat, like the Derby that says press on it.
+
+1242
+01:08:52,000 --> 01:08:57,000
+No, Jason should Jason thought about it.
+
+1243
+01:08:57,000 --> 01:08:58,000
+I have a reporter.
+
+1244
+01:08:58,000 --> 01:09:00,000
+So yeah, here's to do that.
+
+1245
+01:09:00,000 --> 01:09:02,000
+Here's our picture.
+
+1246
+01:09:02,000 --> 01:09:04,000
+The dog came along.
+
+1247
+01:09:04,000 --> 01:09:06,000
+I am in the pitch black.
+
+1248
+01:09:06,000 --> 01:09:09,000
+I don't like there's no the sun is setting.
+
+1249
+01:09:09,000 --> 01:09:11,000
+So it looks like I am just in the shadows.
+
+1250
+01:09:11,000 --> 01:09:16,000
+My dog has been awakened is still like half asleep.
+
+1251
+01:09:16,000 --> 01:09:19,000
+I had a bunch of boxes in the back seat of my car.
+
+1252
+01:09:19,000 --> 01:09:22,000
+My photo is still on those boxes in your car.
+
+1253
+01:09:22,000 --> 01:09:23,000
+They're different boxes.
+
+1254
+01:09:23,000 --> 01:09:24,000
+Dude, it's been a year.
+
+1255
+01:09:24,000 --> 01:09:26,000
+It's different boxes.
+
+1256
+01:09:26,000 --> 01:09:31,000
+I cleaned all the boxes you saw out and then there's new boxes in there now.
+
+1257
+01:09:31,000 --> 01:09:32,000
+There's new.
+
+1258
+01:09:32,000 --> 01:09:34,000
+I don't believe you.
+
+1259
+01:09:34,000 --> 01:09:35,000
+You could car. You could date the boxes.
+
+1260
+01:09:35,000 --> 01:09:37,000
+I swear I can prove it.
+
+1261
+01:09:37,000 --> 01:09:41,000
+Hey, podcast, the ride, Patreon, Boykoin fans.
+
+1262
+01:09:41,000 --> 01:09:45,000
+If you think those boxes are old boxes, say yes on the pole.
+
+1263
+01:09:45,000 --> 01:09:46,000
+Put a poll up.
+
+1264
+01:09:46,000 --> 01:09:48,000
+Give Nick a hell yeah.
+
+1265
+01:09:48,000 --> 01:09:53,000
+Has Mike changed the boxes in his car during the pandemic?
+
+1266
+01:09:53,000 --> 01:09:56,000
+I swear they're newer boxes.
+
+1267
+01:09:56,000 --> 01:09:58,000
+I thought it makes it better.
+
+1268
+01:09:58,000 --> 01:10:00,000
+In addition to the old boxes.
+
+1269
+01:10:00,000 --> 01:10:03,000
+Yeah. Oh, you think I just put new boxes on the old boxes?
+
+1270
+01:10:03,000 --> 01:10:04,000
+Absolutely.
+
+1271
+01:10:04,000 --> 01:10:06,000
+Larger box mess in the car. It's possible.
+
+1272
+01:10:06,000 --> 01:10:08,000
+You take the boxes out.
+
+1273
+01:10:08,000 --> 01:10:13,000
+There. Well, it's a whole it's another podcast explained to you.
+
+1274
+01:10:13,000 --> 01:10:15,000
+There's a story with the boxes.
+
+1275
+01:10:15,000 --> 01:10:16,000
+Get the boxes.
+
+1276
+01:10:16,000 --> 01:10:18,000
+There should be no boxes in the car.
+
+1277
+01:10:18,000 --> 01:10:20,000
+I got boxes in the car too.
+
+1278
+01:10:20,000 --> 01:10:22,000
+And I got to get them out.
+
+1279
+01:10:22,000 --> 01:10:24,000
+You got your boxes out.
+
+1280
+01:10:24,000 --> 01:10:25,000
+You know why I found out?
+
+1281
+01:10:25,000 --> 01:10:26,000
+Because I didn't want to.
+
+1282
+01:10:26,000 --> 01:10:31,000
+I've been like taking a break from going in stores if I don't really, really have to.
+
+1283
+01:10:31,000 --> 01:10:41,000
+But I found there's this charity called Give Back Box where you can put like stuff you're going to send to Goodwill in a box and they'll just send you a UPS code and it just drop.
+
+1284
+01:10:41,000 --> 01:10:42,000
+They just pick it up.
+
+1285
+01:10:42,000 --> 01:10:49,000
+Send that to me because now Nick Nick is going to feel really bad because one of the boxes had stuff for charity.
+
+1286
+01:10:49,000 --> 01:10:51,000
+So that's even worse.
+
+1287
+01:10:51,000 --> 01:10:53,000
+You've been just holding it hostage.
+
+1288
+01:10:53,000 --> 01:10:58,000
+You're making fun of me for being charitable, which is just deplorable.
+
+1289
+01:10:58,000 --> 01:11:05,000
+You know, I had stuff there ready to go and now look, I've been made a laughing stock for giving things away.
+
+1290
+01:11:05,000 --> 01:11:07,000
+You could give all those things behind you away.
+
+1291
+01:11:07,000 --> 01:11:09,000
+No, toys.
+
+1292
+01:11:09,000 --> 01:11:15,000
+No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, noshot.
+
+1293
+01:11:15,000 --> 01:11:17,000
+No needy children might enjoy your toys, Mike.
+
+1294
+01:11:17,000 --> 01:11:19,000
+The Triceratons soldiers?
+
+1295
+01:11:19,000 --> 01:11:20,000
+No.
+
+1296
+01:11:20,000 --> 01:11:21,000
+What are they from?
+
+1297
+01:11:21,000 --> 01:11:24,000
+We haven't even discussed these dinosaurs this whole time.
+
+1298
+01:11:24,000 --> 01:11:26,000
+So these are characters from the Ninja Turtles.
+
+1299
+01:11:26,000 --> 01:11:28,000
+These are the Triceratons.
+
+1300
+01:11:28,000 --> 01:11:30,000
+This is General.
+
+1301
+01:11:30,000 --> 01:11:32,000
+Well, this is an infantryman.
+
+1302
+01:11:32,000 --> 01:11:34,000
+This is General.
+
+1303
+01:11:34,000 --> 01:11:36,000
+There's Xerix.
+
+1304
+01:11:36,000 --> 01:11:39,000
+And the other character's name is Xorx.
+
+1305
+01:11:39,000 --> 01:11:40,000
+Okay.
+
+1306
+01:11:40,000 --> 01:11:42,000
+And which one of them is the most attractive?
+
+1307
+01:11:42,000 --> 01:11:44,000
+Well, it depends what color you like.
+
+1308
+01:11:44,000 --> 01:11:46,000
+Because they're all different colors.
+
+1309
+01:11:46,000 --> 01:11:50,000
+Oh, so it depends on what color they are.
+
+1310
+01:11:50,000 --> 01:11:51,000
+Okay.
+
+1311
+01:11:51,000 --> 01:11:52,000
+Hey, don't do that.
+
+1312
+01:11:52,000 --> 01:11:53,000
+Oh, Mike.
+
+1313
+01:11:53,000 --> 01:11:55,000
+You stepped in it again.
+
+1314
+01:11:55,000 --> 01:11:57,000
+You're up against the ropes.
+
+1315
+01:11:57,000 --> 01:11:59,000
+Mike lost his podcast.
+
+1316
+01:11:59,000 --> 01:12:04,000
+One more blow and Mundy's going to run away with this whole thing.
+
+1317
+01:12:04,000 --> 01:12:09,000
+What have we missed?
+
+1318
+01:12:09,000 --> 01:12:11,000
+Anything Nick wants to say about that?
+
+1319
+01:12:11,000 --> 01:12:13,000
+They did not have a concession stand.
+
+1320
+01:12:13,000 --> 01:12:16,000
+Okay, you didn't have that, but you did have roller skating,
+
+1321
+01:12:16,000 --> 01:12:21,000
+which is a pretty big plus up and should be instituted nationwide at Jurassic Quests.
+
+1322
+01:12:21,000 --> 01:12:22,000
+And anything.
+
+1323
+01:12:22,000 --> 01:12:23,000
+All things.
+
+1324
+01:12:23,000 --> 01:12:26,000
+I looked up the parent company.
+
+1325
+01:12:26,000 --> 01:12:30,000
+So Jurassic West is founded in about 2013.
+
+1326
+01:12:30,000 --> 01:12:32,000
+They have two traveling shows.
+
+1327
+01:12:32,000 --> 01:12:38,000
+One was doing more Southeast and one's been doing the West Coast.
+
+1328
+01:12:38,000 --> 01:12:44,000
+At some point, they got bought by a group called L2 Capital Partners out of Devon, Pennsylvania,
+
+1329
+01:12:44,000 --> 01:12:47,000
+just down the road from King of Prussian Ball.
+
+1330
+01:12:47,000 --> 01:12:53,000
+L2 Capital Partners as one of the most interesting of parent companies,
+
+1331
+01:12:53,000 --> 01:12:58,000
+one of the most interesting combination of ownerships I have ever seen.
+
+1332
+01:12:58,000 --> 01:13:03,000
+In addition to Jurassic Quest, they own a company that makes traffic rumble strips,
+
+1333
+01:13:03,000 --> 01:13:08,000
+a company that does snow removal and landscaping,
+
+1334
+01:13:08,000 --> 01:13:13,000
+something, a company that deals with, quote, spray applied environmental coatings
+
+1335
+01:13:14,000 --> 01:13:19,000
+that solve some of the world's most complex soil stabilization issues,
+
+1336
+01:13:19,000 --> 01:13:24,000
+a rug retailer and an outdoor camping equipment company.
+
+1337
+01:13:24,000 --> 01:13:27,000
+And then they also own Jurassic Quest.
+
+1338
+01:13:27,000 --> 01:13:30,000
+That spray thing is a front. That's too complicated.
+
+1339
+01:13:30,000 --> 01:13:34,000
+They make arms. They sell arms to our enemies abroad.
+
+1340
+01:13:34,000 --> 01:13:39,000
+I was waiting for something sinister and there is a staffing company they own,
+
+1341
+01:13:39,000 --> 01:13:41,000
+but it seems pretty benign.
+
+1342
+01:13:41,000 --> 01:13:46,000
+I didn't really come across anything too sinister with L2 Capital Partners. Shocking.
+
+1343
+01:13:46,000 --> 01:13:51,000
+I like L2 Capital Partners is up there with King Features Syndicate, I will say, as far as
+
+1344
+01:13:51,000 --> 01:13:54,000
+dullest names you could ever imagine.
+
+1345
+01:13:54,000 --> 01:13:57,000
+Nick thoughts about L2 Capital Partners.
+
+1346
+01:13:59,000 --> 01:14:03,000
+Nick is crocheting. Nick has resorted to crocheting.
+
+1347
+01:14:03,000 --> 01:14:06,000
+He's just getting... He's going to leave. He's... Oh, God. OK.
+
+1348
+01:14:06,000 --> 01:14:09,000
+We're at this point in the Monday episodes yet again.
+
+1349
+01:14:09,000 --> 01:14:14,000
+Any other highlights we haven't mentioned that you'd like to cover about your trip to...
+
+1350
+01:14:14,000 --> 01:14:16,000
+You know what? This is what I'd say about...
+
+1351
+01:14:16,000 --> 01:14:18,000
+Can you name the place? Can you name it?
+
+1352
+01:14:20,000 --> 01:14:22,000
+Dinosaur... Place.
+
+1353
+01:14:23,000 --> 01:14:25,000
+Sure. Close enough. OK.
+
+1354
+01:14:25,000 --> 01:14:30,000
+Look, especially if you have kids or are a kid...
+
+1355
+01:14:32,000 --> 01:14:34,000
+Actually, you have a lot of families listen to the...
+
+1356
+01:14:34,000 --> 01:14:35,000
+We're holding toys from needy kids.
+
+1357
+01:14:35,000 --> 01:14:36,000
+Yeah.
+
+1358
+01:14:36,000 --> 01:14:38,000
+Do you have a lot of families listen to the show?
+
+1359
+01:14:38,000 --> 01:14:40,000
+We do have a couple. Maybe.
+
+1360
+01:14:40,000 --> 01:14:44,000
+Yeah. We've met like parent and child combinations.
+
+1361
+01:14:44,000 --> 01:14:46,000
+It was like, we like to listen to your show and talk about it.
+
+1362
+01:14:46,000 --> 01:14:51,000
+Look, if you have kids or you know kids and you can do it safely, why don't you go down to Pomona
+
+1363
+01:14:51,000 --> 01:14:56,000
+or your equivalent Pomona and go check out the dinosaurs.
+
+1364
+01:14:56,000 --> 01:14:58,000
+You're cutting an ad for them right now.
+
+1365
+01:14:58,000 --> 01:15:00,000
+It kills an hour.
+
+1366
+01:15:00,000 --> 01:15:04,000
+And it killed an hour and a half on Podcast The Ride.
+
+1367
+01:15:04,000 --> 01:15:09,000
+Podcast The Ride. If I could kill slightly more time, you got to tell me what's going on at Katie Mills.
+
+1368
+01:15:09,000 --> 01:15:13,000
+I have to know what... If the mall was open, what could I be doing?
+
+1369
+01:15:13,000 --> 01:15:15,000
+It probably is open. It might be open.
+
+1370
+01:15:15,000 --> 01:15:19,000
+You could... Oh, there's an In-N-Out near there now.
+
+1371
+01:15:19,000 --> 01:15:20,000
+Whoa. OK.
+
+1372
+01:15:20,000 --> 01:15:23,000
+That's not that different. Yeah, there's an Ikea.
+
+1373
+01:15:23,000 --> 01:15:25,000
+Oh, yeah.
+
+1374
+01:15:25,000 --> 01:15:28,000
+I don't know much about Katie, except we kicked their ass in football.
+
+1375
+01:15:29,000 --> 01:15:33,000
+Good for you. Did you physically harm any people from there?
+
+1376
+01:15:33,000 --> 01:15:37,000
+No, I got... I mean, I got my face smashed into like the turf.
+
+1377
+01:15:38,000 --> 01:15:42,000
+Oh, and the turf hurt... Oh, OK. So turf hurts more than grass.
+
+1378
+01:15:42,000 --> 01:15:45,000
+Yeah, because it was just like some... It was like fake grass over cement.
+
+1379
+01:15:45,000 --> 01:15:47,000
+Oof. Wow.
+
+1380
+01:15:47,000 --> 01:15:51,000
+It was like good turf. It was 1997 turf.
+
+1381
+01:15:51,000 --> 01:15:54,000
+Did you ever get into a brawl with any kids at a shopping mall?
+
+1382
+01:15:55,000 --> 01:15:57,000
+No. Like in Karate Kid?
+
+1383
+01:15:58,000 --> 01:16:00,000
+Yeah. I mean, yeah. Similar to that.
+
+1384
+01:16:00,000 --> 01:16:02,000
+No.
+
+1385
+01:16:02,000 --> 01:16:04,000
+The parking lot of a shopping mall?
+
+1386
+01:16:05,000 --> 01:16:07,000
+Nope. I've never been in a brawl.
+
+1387
+01:16:07,000 --> 01:16:09,000
+Not a brawl?
+
+1388
+01:16:09,000 --> 01:16:13,000
+You've just like bothered other kids, but maybe not a full-on brawl.
+
+1389
+01:16:13,000 --> 01:16:15,000
+What do you mean, I bothered other kids?
+
+1390
+01:16:15,000 --> 01:16:18,000
+You like hassled. Yeah, there you go.
+
+1391
+01:16:18,000 --> 01:16:21,000
+You hurt the water slide. You were up on the top.
+
+1392
+01:16:21,000 --> 01:16:24,000
+Oh, that was just like... That was just tomfoolery.
+
+1393
+01:16:24,000 --> 01:16:27,000
+Did you ever commit tomfoolery at a mall?
+
+1394
+01:16:29,000 --> 01:16:31,000
+No. Or a parking lot?
+
+1395
+01:16:31,000 --> 01:16:33,000
+No.
+
+1396
+01:16:33,000 --> 01:16:39,000
+Did you ever like, I don't know, like grab the pennies out of a fountain and whip them at kids in a mall?
+
+1397
+01:16:39,000 --> 01:16:41,000
+No, I didn't do that stuff. No.
+
+1398
+01:16:41,000 --> 01:16:43,000
+Oh, okay.
+
+1399
+01:16:43,000 --> 01:16:45,000
+I rolled basketballs. I'm just looking for a story here.
+
+1400
+01:16:45,000 --> 01:16:47,000
+No, I didn't like...
+
+1401
+01:16:47,000 --> 01:16:52,000
+I wasn't like a kid named Buzz just like, you know, picking on nerds.
+
+1402
+01:16:53,000 --> 01:16:55,000
+Well, you were saving nerds.
+
+1403
+01:16:56,000 --> 01:17:00,000
+This is what we assume about you because you're...
+
+1404
+01:17:00,000 --> 01:17:05,000
+No, I rolled basketballs in the Six Flags. I mean, come on, that's different.
+
+1405
+01:17:05,000 --> 01:17:15,000
+That to us, to the good boys that are us, that is akin to just walking up to a group of a dozen kids in a mall and drowning them all in a fountain.
+
+1406
+01:17:15,000 --> 01:17:18,000
+That's how that reads to us, because we're good.
+
+1407
+01:17:18,000 --> 01:17:20,000
+We wouldn't do something like that.
+
+1408
+01:17:20,000 --> 01:17:23,000
+Yeah, well, your boy coin's not doing good right now.
+
+1409
+01:17:23,000 --> 01:17:24,000
+What is it down?
+
+1410
+01:17:24,000 --> 01:17:26,000
+Checking this. Oh, no, it's down.
+
+1411
+01:17:26,000 --> 01:17:30,000
+By how many boy points?
+
+1412
+01:17:30,000 --> 01:17:32,000
+Oh, man.
+
+1413
+01:17:33,000 --> 01:17:37,000
+Elon's out on the boys. He wants nothing to do with it.
+
+1414
+01:17:37,000 --> 01:17:38,000
+Oh, man.
+
+1415
+01:17:38,000 --> 01:17:41,000
+Now his employees aren't getting healthcare or boy coins.
+
+1416
+01:17:41,000 --> 01:17:45,000
+Oh, my God. We're ruining the world. Boy coin is toxic.
+
+1417
+01:17:45,000 --> 01:17:53,000
+We'll cancel the program, and I guess we'll end this program unless anything else anybody wants to get in.
+
+1418
+01:17:53,000 --> 01:17:58,000
+Would you everyone encourage people to go to Dinosaur's place?
+
+1419
+01:17:58,000 --> 01:18:01,000
+Yes, absolutely. Yeah, definitely do it.
+
+1420
+01:18:01,000 --> 01:18:14,000
+If you can do it at night, try to make sure you have the YouTube geared up or the SoundCloud downloaded before you go and really try to time it well so you won't be struggling with it while you're driving.
+
+1421
+01:18:14,000 --> 01:18:20,000
+Or you can do what we did and just listen to it on the way and you get it knocked out and then you can just focus on whatever else you want to listen to.
+
+1422
+01:18:20,000 --> 01:18:26,000
+Well, here's what I would say. If you really want to do it, listen to it a couple times to study up on it beforehand.
+
+1423
+01:18:26,000 --> 01:18:29,000
+No. Yes, I would agree with that.
+
+1424
+01:18:29,000 --> 01:18:39,000
+And listen to it after I listened to about half of it after I did it when I was making notes for the show and caught stuff I didn't catch before.
+
+1425
+01:18:39,000 --> 01:18:41,000
+I did not do any of that.
+
+1426
+01:18:41,000 --> 01:18:47,000
+They're still finding new dinosaurs. They're still finding it's fun and they're discovering different stuff about the dinosaurs they did know about.
+
+1427
+01:18:47,000 --> 01:18:51,000
+And yeah, they they do a pretty good job with this.
+
+1428
+01:18:51,000 --> 01:18:58,000
+You know, I've heard of SoundCloud rappers, but I guess with this thing you have SoundCloud Raptors.
+
+1429
+01:18:58,000 --> 01:19:01,000
+Anyway, continue. That's just good clean fun.
+
+1430
+01:19:01,000 --> 01:19:03,000
+And I think everyone can agree on that.
+
+1431
+01:19:03,000 --> 01:19:06,000
+If kids are listening, that's fine for you.
+
+1432
+01:19:06,000 --> 01:19:09,000
+You guys can take this as the podcast, the ride guarantee.
+
+1433
+01:19:09,000 --> 01:19:12,000
+It's better than the Star Wars land.
+
+1434
+01:19:12,000 --> 01:19:18,000
+Wait, I don't think you I don't think we dislike the Star Wars.
+
+1435
+01:19:18,000 --> 01:19:20,000
+No, we like the Star Wars Star Wars.
+
+1436
+01:19:20,000 --> 01:19:22,000
+Yeah. And this is better than that.
+
+1437
+01:19:22,000 --> 01:19:27,000
+It's oh, you're still you're saying, OK, because you've been to Star Wars land.
+
+1438
+01:19:27,000 --> 01:19:29,000
+Yeah, once.
+
+1439
+01:19:29,000 --> 01:19:34,000
+And when you like you like dinosaur place better than Star Wars land.
+
+1440
+01:19:34,000 --> 01:19:36,000
+Yeah, we all did.
+
+1441
+01:19:36,000 --> 01:19:41,000
+I think you're operating on different expectations when you approach either of them.
+
+1442
+01:19:41,000 --> 01:19:45,000
+So I don't know that you would put them on the same level.
+
+1443
+01:19:45,000 --> 01:19:49,000
+I don't know. He's going to Monday is going to put them on the same level.
+
+1444
+01:19:49,000 --> 01:19:53,000
+There was a there was somebody in a dinosaur suit I wanted to mention as well that walked around.
+
+1445
+01:19:53,000 --> 01:19:59,000
+It's one of those. It's not maybe as good as the blue suit at Universal, but it's pretty good.
+
+1446
+01:19:59,000 --> 01:20:05,000
+And then the dinosaur walked up to my car, peered in, was disgusted that I was a man alone.
+
+1447
+01:20:05,000 --> 01:20:11,000
+And then he walked to the next car, which was that was a nice little bit that I didn't get that at mine.
+
+1448
+01:20:11,000 --> 01:20:13,000
+Yeah, I get that in mind either.
+
+1449
+01:20:13,000 --> 01:20:16,000
+And then when I turned around, I turned a corner.
+
+1450
+01:20:16,000 --> 01:20:22,000
+The person had gotten out of the suit and the suit was just hanging on a rack.
+
+1451
+01:20:22,000 --> 01:20:25,000
+As if somebody had killed it and taken its skin.
+
+1452
+01:20:25,000 --> 01:20:27,000
+It was a dino hide.
+
+1453
+01:20:27,000 --> 01:20:30,000
+They should give you the opportunity to hunt them.
+
+1454
+01:20:30,000 --> 01:20:34,000
+If you're in your early 20s or teenager, I recommend working at this place.
+
+1455
+01:20:34,000 --> 01:20:36,000
+It seemed like a lot of fun. That would be good.
+
+1456
+01:20:36,000 --> 01:20:38,000
+Yeah, that is a good piece of advice for sure.
+
+1457
+01:20:38,000 --> 01:20:48,000
+If there's the one see a teen, if Valencia teens are out of work now because Magic Mountain is closed, go and work at a Jurassic quest.
+
+1458
+01:20:48,000 --> 01:20:50,000
+So, yeah, I recommend it.
+
+1459
+01:20:50,000 --> 01:21:01,000
+It seems like if your kid is like five to like eleven, maybe four to eleven, that seems like maybe the optimum time for the kids out of it.
+
+1460
+01:21:01,000 --> 01:21:04,000
+I mean, I did it myself, but you just do. Yeah, there you go.
+
+1461
+01:21:04,000 --> 01:21:08,000
+Yeah, Nick's got to pull his daughter back in because she liked it.
+
+1462
+01:21:08,000 --> 01:21:10,000
+Right. What's your love to review that really matters?
+
+1463
+01:21:10,000 --> 01:21:12,000
+And it was her birthday. She did a good. You know what?
+
+1464
+01:21:12,000 --> 01:21:15,000
+Here's the earnest thing. She's now obsessed with dinosaurs.
+
+1465
+01:21:16,000 --> 01:21:20,000
+She has dinosaurs. She goes, she like loves playing with dinosaurs.
+
+1466
+01:21:20,000 --> 01:21:23,000
+Well, then that's I take that back. It's like two to eleven.
+
+1467
+01:21:23,000 --> 01:21:29,000
+Yeah, just don't be Mike by himself complaining about the Disney Star Wars movies as well.
+
+1468
+01:21:29,000 --> 01:21:33,000
+I'm not like Mitchell. That's not like my whole identity.
+
+1469
+01:21:33,000 --> 01:21:37,000
+Yeah, I think. Are you thinking of a different comedy podcast?
+
+1470
+01:21:37,000 --> 01:21:39,000
+No, I'm comedy podcasting.
+
+1471
+01:21:39,000 --> 01:21:43,000
+Mike is talking about Star Wars at a Buffalo Wild Wings is.
+
+1472
+01:21:43,000 --> 01:21:48,000
+Wait, is a Buffalo Wild Wings open for indoor dining right now in Texas?
+
+1473
+01:21:48,000 --> 01:21:50,000
+Got to be right. Five minutes down the street.
+
+1474
+01:21:50,000 --> 01:21:53,000
+She five minutes paradise.
+
+1475
+01:21:53,000 --> 01:21:56,000
+Well, guys, podcast the ride is moving.
+
+1476
+01:21:56,000 --> 01:22:01,000
+Well, let's get to know we're going to just like Rogan.
+
+1477
+01:22:01,000 --> 01:22:07,000
+We're moving to Texas. We're going to and we'll be pulling up a booth at the Buffalo Wild Wings.
+
+1478
+01:22:07,000 --> 01:22:10,000
+We're inviting Ted Cruz. I bet he's got some fun Star Wars thoughts.
+
+1479
+01:22:10,000 --> 01:22:13,000
+I bet he does some fun Star Wars impressions. Oh, wow.
+
+1480
+01:22:13,000 --> 01:22:17,000
+If it's anything like his Simpsons voices, then I'm sure they're a delight.
+
+1481
+01:22:17,000 --> 01:22:26,000
+Oh, God. Jesus. And they're all going to be extra funny when we all take Joe Rogan's DMT that he offers everyone.
+
+1482
+01:22:26,000 --> 01:22:31,000
+When you get into the state, get into the state. It's offered to new residents.
+
+1483
+01:22:31,000 --> 01:22:36,000
+When you guys in the DMT now, what's that? Are you guys doing DMT now?
+
+1484
+01:22:36,000 --> 01:22:40,000
+No, Joe Rogan always is talking about the empty, isn't he?
+
+1485
+01:22:40,000 --> 01:22:47,000
+No, not till we get to Texas. We'll be doing DMT. We'll be doing BWW.
+
+1486
+01:22:47,000 --> 01:22:52,000
+Well, I mean, like BWW. That's what I like. That's my drug of choice.
+
+1487
+01:22:52,000 --> 01:22:55,000
+Thanks for having me on.
+
+1488
+01:22:55,000 --> 01:23:01,000
+Hey, wait, that's not as works. I say when you get I'll do it. We'll do it.
+
+1489
+01:23:01,000 --> 01:23:07,000
+Nick Mundy, you survived podcast, the ride. Now you can say thank you.
+
+1490
+01:23:07,000 --> 01:23:10,000
+I already did. All right. We covered it.
+
+1491
+01:23:10,000 --> 01:23:17,000
+What we didn't cover is exiting through the drive through gift shop. Nick, is there anything you'd like to plug?
+
+1492
+01:23:17,000 --> 01:23:20,000
+No, this show. Great.
+
+1493
+01:23:20,000 --> 01:23:26,000
+Oh, and you just want to. So you'd like to plug the Steve Miller band, apparently.
+
+1494
+01:23:26,000 --> 01:23:28,000
+All right. Yes. Well, it's here to play.
+
+1495
+01:23:28,000 --> 01:23:31,000
+It's actually not me. Oh, it's not. Oh, OK.
+
+1496
+01:23:31,000 --> 01:23:36,000
+Play us out, Steve. All right. Yeah. Sounds good to me. Thanks for subscribing. Thanks for listening.
+
+1497
+01:23:36,000 --> 01:23:38,000
+Play us out, Steve Miller.
+
+1498
+01:23:46,000 --> 01:23:49,000
+We're just going to wait until we get to the park. Yeah.
+
+1499
+01:23:49,000 --> 01:23:52,000
+You didn't know that? Wait till this part. Here we go.
+
+1500
+01:23:52,000 --> 01:23:55,000
+We're all right. Now we're out.
+

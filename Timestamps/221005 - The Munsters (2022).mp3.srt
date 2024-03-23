@@ -1,0 +1,9156 @@
+1
+00:00:00,000 --> 00:00:03,000
+["The Cemetery Gate Theme"]
+
+2
+00:00:17,160 --> 00:00:21,080
+Welcome to Hauntcast, The Fright, The Cemetery Gate,
+
+3
+00:00:21,080 --> 00:00:24,800
+where you may come face to face with your ultimate fear,
+
+4
+00:00:24,800 --> 00:00:28,320
+explaining to your significant other why you pay money
+
+5
+00:00:28,360 --> 00:00:31,880
+to hear analysis of Daniel Roebuck films.
+
+6
+00:00:33,880 --> 00:00:35,240
+We'll figure out the names later,
+
+7
+00:00:35,240 --> 00:00:36,360
+I'm Scott Gardner,
+
+8
+00:00:36,360 --> 00:00:37,520
+any spooky names to come.
+
+9
+00:00:37,520 --> 00:00:40,440
+I'm trying to explain how the podcast that started
+
+10
+00:00:40,440 --> 00:00:42,160
+as a theme park podcast got here too.
+
+11
+00:00:42,160 --> 00:00:45,200
+I thought though it was a theme park podcast,
+
+12
+00:00:45,200 --> 00:00:47,800
+and now it's a more Daniel Roebuck.
+
+13
+00:00:47,800 --> 00:00:49,580
+More Daniel Roebuck.
+
+14
+00:00:51,040 --> 00:00:52,440
+Yeah, I'm like Carl, somebody you probably,
+
+15
+00:00:52,440 --> 00:00:54,860
+if you're paying us, you know, I think at this point.
+
+16
+00:00:54,860 --> 00:00:56,480
+Jason Sheridan is here.
+
+17
+00:00:56,480 --> 00:01:01,360
+Yeah, now I'm wondering about his filmography.
+
+18
+00:01:01,360 --> 00:01:03,840
+Like what else is, what am I forgetting?
+
+19
+00:01:03,840 --> 00:01:05,920
+Daniel Roebuck, of course, if you're just tuning in,
+
+20
+00:01:05,920 --> 00:01:07,160
+if this is your first second gate,
+
+21
+00:01:07,160 --> 00:01:08,680
+if this is the first episode of Podcast The Fright,
+
+22
+00:01:08,680 --> 00:01:09,520
+which would be very weird, but if it's popular.
+
+23
+00:01:09,520 --> 00:01:11,720
+Or if you heard it and you just don't remember that
+
+24
+00:01:11,720 --> 00:01:13,400
+kind of unremarkable name. Oh yes, if for some reason
+
+25
+00:01:13,400 --> 00:01:15,960
+you don't know the name Daniel Roebuck,
+
+26
+00:01:15,960 --> 00:01:19,620
+that is the man who played Jay Leno in the HBO movie,
+
+27
+00:01:19,620 --> 00:01:22,760
+The Late Shift, which is a topic we've done two and a half
+
+28
+00:01:22,760 --> 00:01:24,680
+hours on. A very long episode.
+
+29
+00:01:24,680 --> 00:01:26,200
+On Patreon. About.
+
+30
+00:01:27,160 --> 00:01:30,640
+And he comes up in today's episode as he takes the mantle
+
+31
+00:01:30,640 --> 00:01:33,320
+of the count.
+
+32
+00:01:33,320 --> 00:01:35,680
+Don't even get me started.
+
+33
+00:01:35,680 --> 00:01:36,520
+The convergence.
+
+34
+00:01:36,520 --> 00:01:38,560
+We'll get each other, we'll all get started
+
+35
+00:01:38,560 --> 00:01:39,400
+a little later.
+
+36
+00:01:39,400 --> 00:01:42,280
+Yes, so if you're wondering, I think there's two,
+
+37
+00:01:42,280 --> 00:01:44,160
+you can justify that we're doing this episode
+
+38
+00:01:44,160 --> 00:01:45,120
+for two reasons.
+
+39
+00:01:45,120 --> 00:01:47,360
+That it's Daniel Roebuck, somebody we've discussed
+
+40
+00:01:47,360 --> 00:01:50,040
+at length, and then we were talking about the Munsters
+
+41
+00:01:50,040 --> 00:01:53,280
+a lot, and then all of a sudden, around that same time,
+
+42
+00:01:53,280 --> 00:01:56,600
+this was announced that Daniel Roebuck was playing
+
+43
+00:01:56,600 --> 00:01:57,800
+Grandpa Munster.
+
+44
+00:01:57,800 --> 00:01:59,240
+It was suspiciously close.
+
+45
+00:01:59,240 --> 00:02:00,600
+It was crazy. I don't remember the timeline,
+
+46
+00:02:00,600 --> 00:02:03,240
+but yes, we got very fixated on Daniel Roebuck,
+
+47
+00:02:03,240 --> 00:02:07,000
+fake Leno, and then we talked about Grandpa,
+
+48
+00:02:07,000 --> 00:02:09,480
+separate from the other Munsters for a long time.
+
+49
+00:02:09,480 --> 00:02:10,320
+Yes, and the actor.
+
+50
+00:02:10,320 --> 00:02:11,400
+It's been a lot of Munsters discussion,
+
+51
+00:02:11,400 --> 00:02:15,340
+but then these two intro, fake Leno becomes fake Grandpa,
+
+52
+00:02:15,340 --> 00:02:17,600
+or fake Grand Poe, as I like to say.
+
+53
+00:02:17,600 --> 00:02:19,440
+Of course. Based off of one ad he did,
+
+54
+00:02:19,440 --> 00:02:22,240
+where he said, hey, it's me, Grandpa,
+
+55
+00:02:22,240 --> 00:02:24,920
+which may have been avoiding copyright.
+
+56
+00:02:24,920 --> 00:02:26,600
+Well, no, they're not avoiding copyright
+
+57
+00:02:26,600 --> 00:02:27,760
+by calling him the Count.
+
+58
+00:02:27,760 --> 00:02:30,200
+It's just a weird choice they made.
+
+59
+00:02:30,200 --> 00:02:31,040
+I don't know.
+
+60
+00:02:31,040 --> 00:02:31,880
+We got a lot of them.
+
+61
+00:02:31,880 --> 00:02:33,600
+Yeah, it's hard to...
+
+62
+00:02:33,600 --> 00:02:38,000
+Anyway, I enjoyed, I saw Daniel Roebuck
+
+63
+00:02:38,000 --> 00:02:41,880
+in an episode of The Parkers, the old UPN show,
+
+64
+00:02:41,880 --> 00:02:43,640
+with Monique and Countess Vaughn,
+
+65
+00:02:43,640 --> 00:02:45,560
+which is on Netflix, and it's a lot of fun.
+
+66
+00:02:45,560 --> 00:02:46,720
+Pretty reliable, yeah.
+
+67
+00:02:46,720 --> 00:02:49,600
+Genuine, very funny shit in that show.
+
+68
+00:02:49,600 --> 00:02:51,720
+And Daniel, I saw Daniel Roebuck in Gassed.
+
+69
+00:02:52,520 --> 00:02:55,200
+I gotta collect all the Roebuck performances.
+
+70
+00:02:55,200 --> 00:02:57,800
+He's in some bigger, I was trying to remember,
+
+71
+00:02:57,800 --> 00:03:00,200
+oh, I think he's agent Cody Banks' dad.
+
+72
+00:03:00,200 --> 00:03:01,040
+Oh, he is?
+
+73
+00:03:01,040 --> 00:03:03,080
+Wow. Wow, that's great.
+
+74
+00:03:03,080 --> 00:03:04,480
+Yep, yep, yep.
+
+75
+00:03:04,480 --> 00:03:05,320
+That's pretty big.
+
+76
+00:03:05,320 --> 00:03:06,400
+That's almost a title role.
+
+77
+00:03:06,400 --> 00:03:08,120
+Yeah, and he's been at it forever.
+
+78
+00:03:08,120 --> 00:03:10,760
+I know you said he had done some religious movies,
+
+79
+00:03:10,760 --> 00:03:11,600
+I believe.
+
+80
+00:03:11,600 --> 00:03:13,160
+Maybe lately in the...
+
+81
+00:03:13,160 --> 00:03:15,000
+Oh, The Fugitive, that's the one.
+
+82
+00:03:15,000 --> 00:03:17,640
+And US Marshals, so that's a recurring role
+
+83
+00:03:17,640 --> 00:03:18,840
+in The Fugitiveiverse.
+
+84
+00:03:18,840 --> 00:03:19,680
+Oh, wow. Wow.
+
+85
+00:03:19,680 --> 00:03:21,440
+Okay, is he like on the team?
+
+86
+00:03:22,280 --> 00:03:23,120
+Fugitiveverse?
+
+87
+00:03:23,120 --> 00:03:24,320
+Yeah. That's more confusing.
+
+88
+00:03:24,320 --> 00:03:26,320
+I like it with extra bullshit.
+
+89
+00:03:26,320 --> 00:03:27,280
+Fugitiveiverse.
+
+90
+00:03:27,280 --> 00:03:28,120
+That's good, yeah.
+
+91
+00:03:28,120 --> 00:03:30,160
+Is he on Tommy Lee Jones' team, do we know?
+
+92
+00:03:30,160 --> 00:03:31,000
+Not sure.
+
+93
+00:03:31,000 --> 00:03:33,120
+He's a deputy marshal, that sounds like he's on the team.
+
+94
+00:03:33,120 --> 00:03:34,720
+Oh, I was gonna say US Marshals then.
+
+95
+00:03:34,720 --> 00:03:35,560
+Yeah, yeah.
+
+96
+00:03:35,560 --> 00:03:36,800
+Because US, yeah.
+
+97
+00:03:36,800 --> 00:03:38,320
+So yeah, he's in the...
+
+98
+00:03:38,320 --> 00:03:40,560
+But he's in a bunch of Rob Zombie movies.
+
+99
+00:03:40,560 --> 00:03:41,800
+Right, he's a player.
+
+100
+00:03:41,800 --> 00:03:45,040
+As is everyone who plays the primary monsters,
+
+101
+00:03:45,040 --> 00:03:49,200
+because it was baffling casting to me,
+
+102
+00:03:49,200 --> 00:03:51,000
+a person who does not pay a lot of attention
+
+103
+00:03:51,520 --> 00:03:52,800
+to the filmography of Rob Zombie.
+
+104
+00:03:52,800 --> 00:03:53,640
+Right.
+
+105
+00:03:53,640 --> 00:03:54,600
+But then like, oh, I see.
+
+106
+00:03:54,600 --> 00:03:57,240
+It is a lot of people who are in all of his things.
+
+107
+00:03:57,240 --> 00:03:59,200
+Those are his players, yeah.
+
+108
+00:03:59,200 --> 00:04:01,640
+We will dive into The Munsters,
+
+109
+00:04:01,640 --> 00:04:05,240
+a film released in this year, 2022,
+
+110
+00:04:05,240 --> 00:04:08,120
+but I'm told that Jason has a little bit of business.
+
+111
+00:04:08,120 --> 00:04:08,960
+Sure, yeah.
+
+112
+00:04:08,960 --> 00:04:11,480
+In the spirit of the season,
+
+113
+00:04:11,480 --> 00:04:14,480
+I have some treats before we get into the trick
+
+114
+00:04:14,480 --> 00:04:15,440
+of this movie. Oh, boy.
+
+115
+00:04:15,440 --> 00:04:18,960
+The trick being that this is even called a movie.
+
+116
+00:04:19,200 --> 00:04:24,200
+So I brought you guys some little treats back
+
+117
+00:04:24,640 --> 00:04:26,520
+for your children.
+
+118
+00:04:26,520 --> 00:04:28,840
+This is Mr. Taffy.
+
+119
+00:04:28,840 --> 00:04:29,680
+Oh, wow.
+
+120
+00:04:29,680 --> 00:04:31,880
+The mascot of Shriver's saltwater taffy
+
+121
+00:04:31,880 --> 00:04:34,080
+in Ocean City, New Jersey, St. Paul.
+
+122
+00:04:34,080 --> 00:04:35,880
+It's a little taffy, you boy.
+
+123
+00:04:35,880 --> 00:04:37,600
+Yeah, you each get a taffy.
+
+124
+00:04:37,600 --> 00:04:38,440
+I'm gonna toss it.
+
+125
+00:04:38,440 --> 00:04:39,280
+I'm gonna catch it.
+
+126
+00:04:39,280 --> 00:04:40,120
+Toss it, yeah.
+
+127
+00:04:40,120 --> 00:04:40,960
+Oh, boy.
+
+128
+00:04:40,960 --> 00:04:42,280
+Oh, I like seeing him come at me.
+
+129
+00:04:42,280 --> 00:04:44,120
+Mr. Taffy from Shriver's.
+
+130
+00:04:44,120 --> 00:04:44,960
+Yes.
+
+131
+00:04:44,960 --> 00:04:46,280
+Wow, thank you.
+
+132
+00:04:46,280 --> 00:04:47,120
+He's great.
+
+133
+00:04:47,280 --> 00:04:50,160
+He's a well-made for being a local.
+
+134
+00:04:50,160 --> 00:04:52,080
+This little, this is not extra figure.
+
+135
+00:04:52,080 --> 00:04:54,800
+This plush is only available at this taffy place.
+
+136
+00:04:54,800 --> 00:04:55,720
+It's very well done.
+
+137
+00:04:55,720 --> 00:04:56,800
+They have a bigger one too,
+
+138
+00:04:56,800 --> 00:04:59,080
+but the little ones are more tasteful.
+
+139
+00:04:59,080 --> 00:04:59,920
+Did you get us?
+
+140
+00:04:59,920 --> 00:05:02,320
+Scott and I, you gotta each get the bigger one too, right?
+
+141
+00:05:02,320 --> 00:05:03,720
+This is for the baby and this is for.
+
+142
+00:05:03,720 --> 00:05:05,880
+I bought three of them, two for your children
+
+143
+00:05:05,880 --> 00:05:07,680
+and one for my adult girlfriend.
+
+144
+00:05:07,680 --> 00:05:08,680
+Thank you.
+
+145
+00:05:09,800 --> 00:05:13,120
+And now I also have a real treat
+
+146
+00:05:13,120 --> 00:05:15,120
+because we didn't get the first iteration
+
+147
+00:05:15,120 --> 00:05:16,840
+of this on microphone.
+
+148
+00:05:17,560 --> 00:05:19,040
+I've got a can here, Scott,
+
+149
+00:05:19,040 --> 00:05:21,320
+for you to try of Coca-Cola Dream World
+
+150
+00:05:22,760 --> 00:05:24,600
+that if you wanna try that on here.
+
+151
+00:05:24,600 --> 00:05:25,440
+Is it cold at least?
+
+152
+00:05:25,440 --> 00:05:26,480
+It is cold.
+
+153
+00:05:26,480 --> 00:05:28,600
+Mikey, there's, just to be courteous,
+
+154
+00:05:28,600 --> 00:05:29,440
+here's one for you as well.
+
+155
+00:05:29,440 --> 00:05:30,360
+Oh, thank you, yeah.
+
+156
+00:05:30,360 --> 00:05:32,440
+Wait, now why, does this have anything to do with anything
+
+157
+00:05:32,440 --> 00:05:34,400
+or you just want me to have this shit?
+
+158
+00:05:34,400 --> 00:05:35,720
+Well, you had, so it's the second,
+
+159
+00:05:35,720 --> 00:05:38,040
+it's the new Coca-Cola Creations
+
+160
+00:05:38,040 --> 00:05:40,040
+is they've been doing these mysterious flavors
+
+161
+00:05:40,040 --> 00:05:40,960
+where they don't say what it is
+
+162
+00:05:40,960 --> 00:05:42,240
+and they just give it a fun name.
+
+163
+00:05:42,240 --> 00:05:43,080
+No.
+
+164
+00:05:43,080 --> 00:05:45,000
+And you had the Cosmos one, is that what it's called?
+
+165
+00:05:45,000 --> 00:05:45,840
+Starlight.
+
+166
+00:05:45,840 --> 00:05:46,760
+Starlight, okay.
+
+167
+00:05:47,680 --> 00:05:48,520
+And you had that and hated it
+
+168
+00:05:48,520 --> 00:05:49,640
+and now Jason wants you to try this
+
+169
+00:05:49,640 --> 00:05:51,400
+and see if you'll hate this equally, I think.
+
+170
+00:05:51,400 --> 00:05:52,240
+Okay, okay.
+
+171
+00:05:52,240 --> 00:05:53,060
+That's what I'm guessing is.
+
+172
+00:05:53,060 --> 00:05:53,900
+I'm curious.
+
+173
+00:05:53,900 --> 00:05:54,720
+The impetus.
+
+174
+00:05:54,720 --> 00:05:55,560
+I'm curious on this.
+
+175
+00:05:55,560 --> 00:05:56,520
+Some people like the can.
+
+176
+00:05:56,520 --> 00:05:57,760
+The can is cool.
+
+177
+00:05:57,760 --> 00:06:00,280
+Is this, I'm sorry, is this the one you were drinking
+
+178
+00:06:00,280 --> 00:06:03,860
+when you broke the news of your daughter?
+
+179
+00:06:03,860 --> 00:06:05,200
+Is this the type, you were,
+
+180
+00:06:05,200 --> 00:06:08,240
+there was a soda being discussed, you did a fake out.
+
+181
+00:06:08,240 --> 00:06:09,080
+You're like a little bundle of joy.
+
+182
+00:06:09,080 --> 00:06:09,920
+Yes, oh, it was, yeah, yeah, it was, it was.
+
+183
+00:06:09,920 --> 00:06:10,760
+Okay, okay, great.
+
+184
+00:06:10,760 --> 00:06:11,600
+This is the Zero Sugar
+
+185
+00:06:11,600 --> 00:06:13,320
+which I think is not as good as the regular.
+
+186
+00:06:13,320 --> 00:06:15,480
+In this instance, I thought that the Starlight
+
+187
+00:06:15,480 --> 00:06:18,000
+was actually better or at least the same.
+
+188
+00:06:18,000 --> 00:06:18,840
+So. All right.
+
+189
+00:06:18,840 --> 00:06:19,920
+I'm gonna try to sip off Mike.
+
+190
+00:06:19,920 --> 00:06:20,760
+I think you're gonna hate this is what I'm gonna say.
+
+191
+00:06:20,760 --> 00:06:22,880
+But it's, you're gonna hear the opening of the can.
+
+192
+00:06:22,880 --> 00:06:23,720
+All right.
+
+193
+00:06:23,720 --> 00:06:24,540
+I mean that's sad.
+
+194
+00:06:24,540 --> 00:06:25,380
+I hope you're not a problem with that.
+
+195
+00:06:25,380 --> 00:06:26,220
+Yeah, that's a good.
+
+196
+00:06:26,220 --> 00:06:27,040
+Everyone likes that sound.
+
+197
+00:06:27,040 --> 00:06:27,880
+That's a good noise, yeah.
+
+198
+00:06:27,880 --> 00:06:28,720
+That's refreshing.
+
+199
+00:06:28,720 --> 00:06:30,200
+That was me talking about the sound,
+
+200
+00:06:30,200 --> 00:06:32,400
+not the taste which I haven't had yet.
+
+201
+00:06:32,400 --> 00:06:33,280
+Okay, let's see.
+
+202
+00:06:37,320 --> 00:06:39,760
+It's, I would say again,
+
+203
+00:06:39,760 --> 00:06:41,320
+this is the flavor of dream.
+
+204
+00:06:41,320 --> 00:06:42,920
+I'm, this is dream flavor.
+
+205
+00:06:42,920 --> 00:06:43,760
+Dream world.
+
+206
+00:06:43,760 --> 00:06:44,580
+Dream.
+
+207
+00:06:45,800 --> 00:06:49,880
+This is my same feeling about the previous thing.
+
+208
+00:06:49,880 --> 00:06:52,800
+The previous flavor that is an idea.
+
+209
+00:06:52,800 --> 00:06:54,840
+Flavors are ideas now.
+
+210
+00:06:54,840 --> 00:06:57,420
+And that is that, I think the taste is okay,
+
+211
+00:06:57,420 --> 00:06:59,720
+but the after, it just like,
+
+212
+00:06:59,720 --> 00:07:00,800
+it's just like. That's the Zero.
+
+213
+00:07:00,800 --> 00:07:02,160
+Chemical swirl.
+
+214
+00:07:02,160 --> 00:07:03,200
+That's the Zero, yeah.
+
+215
+00:07:03,200 --> 00:07:04,040
+Yeah, yeah.
+
+216
+00:07:04,040 --> 00:07:05,560
+That's why you should have gotten the other.
+
+217
+00:07:05,560 --> 00:07:06,480
+Well, what's in a Zero?
+
+218
+00:07:06,480 --> 00:07:09,600
+How can it be called Zero and then whatever is in it.
+
+219
+00:07:09,600 --> 00:07:10,440
+Well, it's probably like. Wingers.
+
+220
+00:07:10,440 --> 00:07:12,240
+Aspartame, I assume.
+
+221
+00:07:12,240 --> 00:07:13,680
+It's probably the Aspartame.
+
+222
+00:07:13,680 --> 00:07:17,000
+But I think Cherry Coke Zero, I think is pretty good.
+
+223
+00:07:17,000 --> 00:07:19,200
+Yeah, but they all, look, I like Zeroes too,
+
+224
+00:07:19,200 --> 00:07:21,200
+but they do have a strange little,
+
+225
+00:07:21,200 --> 00:07:22,040
+yeah, it's Aspartame.
+
+226
+00:07:22,040 --> 00:07:23,640
+It's the little aftertaste.
+
+227
+00:07:23,640 --> 00:07:24,680
+And that's what that is.
+
+228
+00:07:24,680 --> 00:07:25,960
+It's the artificial sweetener.
+
+229
+00:07:25,960 --> 00:07:30,000
+I admittedly didn't like this one as much as Starlight.
+
+230
+00:07:30,000 --> 00:07:31,800
+I'm more of a Starlight fan, but I like.
+
+231
+00:07:31,800 --> 00:07:34,040
+So you like the flavor of Starlight
+
+232
+00:07:34,040 --> 00:07:37,520
+more than you like the flavor of dream world.
+
+233
+00:07:37,520 --> 00:07:40,200
+Yes, but I think Starlight Zero,
+
+234
+00:07:40,200 --> 00:07:43,400
+I liked better than Dream World Zero.
+
+235
+00:07:43,920 --> 00:07:45,560
+But I think Dream World Regular
+
+236
+00:07:45,560 --> 00:07:47,280
+is better than Dream World Zero.
+
+237
+00:07:47,280 --> 00:07:48,120
+Fair enough.
+
+238
+00:07:48,120 --> 00:07:51,240
+It just kind of tastes like apricots to me.
+
+239
+00:07:51,240 --> 00:07:52,480
+Sure. A little bit.
+
+240
+00:07:52,480 --> 00:07:53,720
+Like the hint of.
+
+241
+00:07:54,720 --> 00:07:56,280
+I'm baffled by these.
+
+242
+00:07:56,280 --> 00:07:58,880
+I mean, I like that, but it's like, where do we go from here?
+
+243
+00:07:58,880 --> 00:08:03,320
+Like this soda's, it's responsibility flavored.
+
+244
+00:08:03,320 --> 00:08:05,040
+It's Liberty flavored.
+
+245
+00:08:05,040 --> 00:08:06,520
+Well, I guess it could be like Mario.
+
+246
+00:08:06,520 --> 00:08:08,280
+It's consent flavored.
+
+247
+00:08:08,280 --> 00:08:09,120
+Now that's good.
+
+248
+00:08:09,120 --> 00:08:11,040
+I'm glad we're getting that idea into a flavor.
+
+249
+00:08:11,040 --> 00:08:12,000
+I agree.
+
+250
+00:08:12,000 --> 00:08:14,760
+It could be just like Mario Galaxy worlds.
+
+251
+00:08:14,760 --> 00:08:17,400
+It's like space and there's a dream world with clouds.
+
+252
+00:08:17,400 --> 00:08:21,600
+And then we go to like a sand world or something.
+
+253
+00:08:21,600 --> 00:08:25,200
+Or then there's a big, everything's big, big world.
+
+254
+00:08:25,200 --> 00:08:26,840
+So it could be like that.
+
+255
+00:08:26,840 --> 00:08:28,480
+I like the abstraction
+
+256
+00:08:28,480 --> 00:08:32,320
+because none of these flavors are like a real item anyway.
+
+257
+00:08:33,600 --> 00:08:35,120
+Why not get crazy with it?
+
+258
+00:08:35,120 --> 00:08:37,880
+Well, at least you got a Mr. Taffy out of the bar.
+
+259
+00:08:37,880 --> 00:08:39,000
+Sure did.
+
+260
+00:08:39,000 --> 00:08:40,400
+That's a one out of two.
+
+261
+00:08:40,400 --> 00:08:41,220
+I think you're right.
+
+262
+00:08:41,220 --> 00:08:43,020
+Aspartame, I don't know what's going on with that.
+
+263
+00:08:43,020 --> 00:08:43,860
+Let's see aspartame, yeah.
+
+264
+00:08:43,860 --> 00:08:45,620
+I don't, yeah, I'm gonna keep that.
+
+265
+00:08:45,620 --> 00:08:47,260
+If you drink, I mean, don't drink diet soda,
+
+266
+00:08:47,260 --> 00:08:48,980
+but if you drink diet soda, you get used to it
+
+267
+00:08:48,980 --> 00:08:50,460
+or you hate it, yeah.
+
+268
+00:08:50,460 --> 00:08:51,980
+Yeah.
+
+269
+00:08:51,980 --> 00:08:54,220
+Okay, so well, thank you for this.
+
+270
+00:08:54,220 --> 00:08:56,820
+And I will cherish Mr. Taffy.
+
+271
+00:08:56,820 --> 00:08:59,340
+He really is, he looks like, he's like gray.
+
+272
+00:08:59,340 --> 00:09:01,420
+So he's like unflavored Taffy.
+
+273
+00:09:01,420 --> 00:09:02,260
+Yeah.
+
+274
+00:09:02,260 --> 00:09:04,340
+I guess, well, it's not always colored.
+
+275
+00:09:04,340 --> 00:09:06,140
+Yeah, it usually is.
+
+276
+00:09:06,140 --> 00:09:09,940
+Yeah, usually the color is just to like trick your mind.
+
+277
+00:09:09,940 --> 00:09:11,900
+The color doesn't, all the flavor in me.
+
+278
+00:09:11,900 --> 00:09:12,740
+That's a different.
+
+279
+00:09:12,740 --> 00:09:15,900
+Could be white, but it's usually just to differentiate, yeah.
+
+280
+00:09:15,900 --> 00:09:17,340
+Uh-huh.
+
+281
+00:09:17,340 --> 00:09:19,820
+And is there a big Mr. Taffy wandering around?
+
+282
+00:09:19,820 --> 00:09:21,940
+There is a walk around Mr. Taffy.
+
+283
+00:09:21,940 --> 00:09:24,060
+Wow, oh boy.
+
+284
+00:09:24,060 --> 00:09:26,980
+I don't think I've previously familiar with a Taffy,
+
+285
+00:09:26,980 --> 00:09:28,300
+with a walk around Taffy.
+
+286
+00:09:28,300 --> 00:09:29,820
+I don't know if it's the only one.
+
+287
+00:09:29,820 --> 00:09:31,020
+That's the first I'm aware of.
+
+288
+00:09:31,020 --> 00:09:33,820
+So it sets the bar and I approve of Mr. Taffy.
+
+289
+00:09:33,820 --> 00:09:34,940
+I just wanna let the listener know,
+
+290
+00:09:34,940 --> 00:09:37,380
+he's an anthropomorphic piece of Taffy.
+
+291
+00:09:37,380 --> 00:09:40,700
+He's got little blue foot, like footies or shoes.
+
+292
+00:09:40,700 --> 00:09:42,740
+He's got two blue wristbands.
+
+293
+00:09:42,740 --> 00:09:46,020
+He's got a blue vest and no pants and a bow tie.
+
+294
+00:09:46,940 --> 00:09:50,940
+And I'm looking at him like he's like walking up
+
+295
+00:09:50,940 --> 00:09:53,940
+to my laptop, looking right at a picture of Daniel Roebuck.
+
+296
+00:09:55,380 --> 00:09:57,940
+Like he wants to be friends with him.
+
+297
+00:09:57,940 --> 00:10:01,260
+Slightly different coloring and he could be Mr. Sausage.
+
+298
+00:10:01,260 --> 00:10:02,100
+Yep.
+
+299
+00:10:02,100 --> 00:10:02,940
+With the way that the top of his head goes.
+
+300
+00:10:02,940 --> 00:10:05,180
+Oh yeah, true, and then the little tie off at the top.
+
+301
+00:10:05,180 --> 00:10:08,300
+Yeah, that could be Sausage casing, absolutely.
+
+302
+00:10:08,300 --> 00:10:09,780
+Well, thank you for this, Jason.
+
+303
+00:10:09,780 --> 00:10:14,780
+And I think we need the positivity going in today.
+
+304
+00:10:14,780 --> 00:10:15,900
+I'm trying something different.
+
+305
+00:10:15,900 --> 00:10:18,060
+I'm trying to inject some positivity.
+
+306
+00:10:19,140 --> 00:10:22,420
+We are kicking off HOTCAST The Fright season,
+
+307
+00:10:22,420 --> 00:10:24,020
+which I am excited about.
+
+308
+00:10:24,900 --> 00:10:26,980
+And we are doing it with this,
+
+309
+00:10:26,980 --> 00:10:31,020
+with the newest, biggest horror film.
+
+310
+00:10:31,020 --> 00:10:33,460
+By saying that, I'm ignoring a couple of these ones
+
+311
+00:10:33,500 --> 00:10:36,780
+that people like a lot, with Smile and.
+
+312
+00:10:36,780 --> 00:10:37,860
+Oh yeah, yeah.
+
+313
+00:10:37,860 --> 00:10:38,700
+What's the other one?
+
+314
+00:10:38,700 --> 00:10:39,540
+Barbarian and Pearl.
+
+315
+00:10:39,540 --> 00:10:42,100
+Yeah, which I need to see all these films.
+
+316
+00:10:42,100 --> 00:10:46,020
+Instead, we took some time to watch The Munsters
+
+317
+00:10:46,020 --> 00:10:48,860
+as made by Rob Zombie.
+
+318
+00:10:48,860 --> 00:10:50,460
+So again, we know why we're here.
+
+319
+00:10:50,460 --> 00:10:52,380
+This was a real triangulation of.
+
+320
+00:10:52,380 --> 00:10:53,260
+We had to do it.
+
+321
+00:10:53,260 --> 00:10:55,940
+Of HOTCAST The Fright interests.
+
+322
+00:10:57,180 --> 00:11:02,180
+And yeah, I mean, well, what's some stuff to say about it
+
+323
+00:11:02,580 --> 00:11:03,420
+at the top?
+
+324
+00:11:03,420 --> 00:11:05,300
+I mean, this has been building for a little while
+
+325
+00:11:05,300 --> 00:11:08,340
+and people might've expected us to do an episode about it.
+
+326
+00:11:08,340 --> 00:11:11,100
+I saw a lot of chatter, kind of internet wide,
+
+327
+00:11:11,100 --> 00:11:13,780
+not even in our little bubble,
+
+328
+00:11:13,780 --> 00:11:16,140
+but about the trailer,
+
+329
+00:11:16,140 --> 00:11:17,860
+because the trailer really set the tone.
+
+330
+00:11:17,860 --> 00:11:21,140
+The trailer was a pretty jaw-dropping trailer.
+
+331
+00:11:21,140 --> 00:11:23,540
+Well, I hate to, okay, so there was a first trailer
+
+332
+00:11:23,540 --> 00:11:25,540
+that was a teaser that was just the intro,
+
+333
+00:11:25,540 --> 00:11:27,500
+like the old school black and white intro.
+
+334
+00:11:27,500 --> 00:11:28,860
+Then the second trailer is the one
+
+335
+00:11:28,860 --> 00:11:30,220
+I think you're talking about, right?
+
+336
+00:11:30,220 --> 00:11:31,340
+Yeah, yeah, that's right.
+
+337
+00:11:31,340 --> 00:11:34,180
+Yeah, essentially the opening sequence of the show
+
+338
+00:11:34,180 --> 00:11:36,780
+where Herman bursts through a door.
+
+339
+00:11:36,780 --> 00:11:38,100
+Again, and here's the big,
+
+340
+00:11:38,100 --> 00:11:40,140
+if you don't intend on watching any of this,
+
+341
+00:11:40,140 --> 00:11:44,020
+the monsters, of course, this family,
+
+342
+00:11:44,020 --> 00:11:47,300
+this all-American family of monsters,
+
+343
+00:11:47,300 --> 00:11:51,620
+and the show was just a sitcom about their misadventures,
+
+344
+00:11:51,620 --> 00:11:56,060
+but the movie turned out to be a prequel
+
+345
+00:11:56,060 --> 00:11:59,220
+showing how the family came together.
+
+346
+00:11:59,220 --> 00:12:01,460
+Yeah, and that made me pretty mad.
+
+347
+00:12:02,460 --> 00:12:06,100
+I wasn't really pleased with that choice.
+
+348
+00:12:06,980 --> 00:12:10,500
+Yeah, meaning A, because in the trailer,
+
+349
+00:12:10,500 --> 00:12:13,100
+that is maybe the big reveal of the trailer,
+
+350
+00:12:13,100 --> 00:12:16,820
+is that they call it a love story,
+
+351
+00:12:16,820 --> 00:12:19,820
+they couch it in some further terminology,
+
+352
+00:12:19,820 --> 00:12:22,820
+but it is about, so it's a prequel
+
+353
+00:12:22,820 --> 00:12:26,140
+to a really silly 60s sitcom,
+
+354
+00:12:26,140 --> 00:12:30,540
+where you find out how the silly characters got together
+
+355
+00:12:30,540 --> 00:12:32,180
+and the in-law obstacles
+
+356
+00:12:32,180 --> 00:12:34,940
+that were in the way of them getting together.
+
+357
+00:12:34,940 --> 00:12:37,860
+So therefore, it is Viva Rock Vegas.
+
+358
+00:12:37,860 --> 00:12:39,140
+That is what we're watching.
+
+359
+00:12:39,140 --> 00:12:42,820
+It is the Viva Rock Vegas of the monsters.
+
+360
+00:12:42,820 --> 00:12:45,780
+Though in this case, it is just called the monsters,
+
+361
+00:12:45,780 --> 00:12:46,980
+which really confuses it.
+
+362
+00:12:46,980 --> 00:12:48,740
+It's not becoming the monsters.
+
+363
+00:12:48,740 --> 00:12:49,580
+The monsters begins.
+
+364
+00:12:49,580 --> 00:12:50,420
+It's not the pre-monsters.
+
+365
+00:12:50,420 --> 00:12:52,260
+Monsters' origins, the beginning.
+
+366
+00:12:52,260 --> 00:12:53,580
+Monsters rising.
+
+367
+00:12:53,620 --> 00:12:56,380
+Will you be my monster?
+
+368
+00:12:56,380 --> 00:12:59,660
+Will you take this woman to be your awfully wedded monster?
+
+369
+00:12:59,660 --> 00:13:01,220
+It is none of those things.
+
+370
+00:13:01,220 --> 00:13:02,060
+That's true.
+
+371
+00:13:02,940 --> 00:13:03,980
+That's the majority of it,
+
+372
+00:13:03,980 --> 00:13:06,300
+but it's also like there's three other plots going on
+
+373
+00:13:06,300 --> 00:13:09,100
+that just sort of, they don't end concisely.
+
+374
+00:13:09,100 --> 00:13:11,660
+They just kind of are lingering,
+
+375
+00:13:11,660 --> 00:13:13,660
+and then nothing comes of it.
+
+376
+00:13:15,460 --> 00:13:17,860
+I think the same. Meandering, you might call.
+
+377
+00:13:18,900 --> 00:13:20,740
+Pretty quickly watching this, I was like,
+
+378
+00:13:20,740 --> 00:13:23,620
+you know what I think I like about the monsters?
+
+379
+00:13:23,620 --> 00:13:27,900
+That it is a family of cartoonish monsters
+
+380
+00:13:27,900 --> 00:13:30,220
+and their normal looking niece,
+
+381
+00:13:31,140 --> 00:13:35,700
+and they just do kind of stock sitcom plots.
+
+382
+00:13:35,700 --> 00:13:36,540
+Yes.
+
+383
+00:13:36,540 --> 00:13:38,460
+And they think they're normal.
+
+384
+00:13:38,460 --> 00:13:39,580
+They think they're an average,
+
+385
+00:13:39,580 --> 00:13:41,660
+they were the average American family
+
+386
+00:13:41,660 --> 00:13:43,140
+at the end of the block.
+
+387
+00:13:43,140 --> 00:13:44,460
+I think you're correct about that.
+
+388
+00:13:44,460 --> 00:13:46,020
+I think you're right.
+
+389
+00:13:46,020 --> 00:13:48,700
+That's all the prem, yeah, that's all good stuff
+
+390
+00:13:48,700 --> 00:13:49,820
+that makes it fun and special.
+
+391
+00:13:49,820 --> 00:13:51,780
+The hijinks. Fun and specific.
+
+392
+00:13:51,780 --> 00:13:53,020
+That's the backbone,
+
+393
+00:13:53,020 --> 00:13:54,860
+and obviously they get into hijinks.
+
+394
+00:13:54,860 --> 00:13:57,820
+I saw a couple of few months ago where one,
+
+395
+00:13:57,820 --> 00:14:00,700
+they go camping, and of course one of them gets hammered
+
+396
+00:14:00,700 --> 00:14:01,980
+into the ground.
+
+397
+00:14:01,980 --> 00:14:04,500
+I believe it's Herman, so he's like a totem pole.
+
+398
+00:14:05,660 --> 00:14:08,380
+One, Herman goes to try to sort something out
+
+399
+00:14:08,380 --> 00:14:10,740
+at Maryland's college,
+
+400
+00:14:10,740 --> 00:14:13,980
+and they think he's their new football prospect,
+
+401
+00:14:13,980 --> 00:14:16,860
+so he does a bunch of football practices.
+
+402
+00:14:16,860 --> 00:14:19,460
+Okay, I watched one today where Herman is recruited
+
+403
+00:14:19,460 --> 00:14:21,180
+by the Dodgers to play baseball.
+
+404
+00:14:21,180 --> 00:14:22,180
+I mean, that's great.
+
+405
+00:14:22,180 --> 00:14:23,300
+Are there real Dodgers in it?
+
+406
+00:14:23,300 --> 00:14:24,140
+Yes, yes.
+
+407
+00:14:24,140 --> 00:14:25,700
+Whoa, do you know who?
+
+408
+00:14:25,700 --> 00:14:26,540
+Do you know who in your brain is?
+
+409
+00:14:26,540 --> 00:14:27,380
+Shoot, DeRosha?
+
+410
+00:14:27,380 --> 00:14:28,220
+DeRosha?
+
+411
+00:14:28,220 --> 00:14:29,060
+DeRosha?
+
+412
+00:14:29,060 --> 00:14:30,940
+Did they get Sandy Kovacs?
+
+413
+00:14:30,940 --> 00:14:31,980
+No, I don't think so.
+
+414
+00:14:31,980 --> 00:14:32,820
+Okay.
+
+415
+00:14:33,580 --> 00:14:34,420
+What's the guy's name?
+
+416
+00:14:34,420 --> 00:14:37,260
+I, Leo DeRosha.
+
+417
+00:14:37,260 --> 00:14:38,100
+Okay.
+
+418
+00:14:38,100 --> 00:14:40,780
+He plays himself, he recruits Herman for the Dodgers.
+
+419
+00:14:40,780 --> 00:14:41,620
+Okay.
+
+420
+00:14:41,620 --> 00:14:42,900
+I've said this before on the show.
+
+421
+00:14:42,900 --> 00:14:46,260
+The main thrust of the show is that they put Herman,
+
+422
+00:14:46,260 --> 00:14:49,060
+played by a guy named Fred Gwynn, who was very tall,
+
+423
+00:14:49,060 --> 00:14:50,860
+they put Herman, who's dressed like a Frankenstein,
+
+424
+00:14:50,860 --> 00:14:53,140
+in a lot of silly outfits.
+
+425
+00:14:53,140 --> 00:14:55,460
+That's the main comedy of the show,
+
+426
+00:14:55,460 --> 00:14:57,340
+and I mean that in a fun, a good way.
+
+427
+00:14:57,340 --> 00:14:58,260
+Yeah, yeah.
+
+428
+00:14:58,260 --> 00:15:00,820
+We might, maybe I said exactly this before,
+
+429
+00:15:00,820 --> 00:15:02,260
+but you know, you talk about,
+
+430
+00:15:02,260 --> 00:15:04,700
+there's that comedy phrase, hat on a hat,
+
+431
+00:15:04,700 --> 00:15:06,420
+and that is all that the show is.
+
+432
+00:15:06,420 --> 00:15:07,260
+Yes, yes.
+
+433
+00:15:07,260 --> 00:15:10,140
+It is a family of monsters who then have to dress
+
+434
+00:15:10,140 --> 00:15:13,980
+as other stuff on top of their monster look.
+
+435
+00:15:13,980 --> 00:15:17,580
+There's like a single joke that they run into the ground
+
+436
+00:15:17,580 --> 00:15:20,220
+every episode, is that the monsters think
+
+437
+00:15:20,220 --> 00:15:23,860
+scary things are good, and think normal things are weird.
+
+438
+00:15:23,860 --> 00:15:27,460
+This is a joke that is overused on each episode
+
+439
+00:15:27,460 --> 00:15:30,980
+a million times, some of them funny, most of them you go,
+
+440
+00:15:30,980 --> 00:15:33,100
+well, you kinda heard that joke in the last episode.
+
+441
+00:15:33,100 --> 00:15:35,580
+But the other thing is that Herman,
+
+442
+00:15:35,580 --> 00:15:37,820
+like Homer Simpson in many times,
+
+443
+00:15:37,820 --> 00:15:40,180
+gets like a new job every episode.
+
+444
+00:15:40,180 --> 00:15:41,020
+Yeah.
+
+445
+00:15:41,020 --> 00:15:42,300
+And does something silly.
+
+446
+00:15:42,300 --> 00:15:46,500
+Ends up in some scenario where people find it unusual,
+
+447
+00:15:46,500 --> 00:15:49,700
+but are not like, oh my God, you're a monster,
+
+448
+00:15:49,700 --> 00:15:50,780
+I should run.
+
+449
+00:15:50,780 --> 00:15:51,620
+Right.
+
+450
+00:15:51,620 --> 00:15:54,980
+It's just people are like a little quizzical at most,
+
+451
+00:15:54,980 --> 00:15:57,380
+but they allow him to do the job,
+
+452
+00:15:57,380 --> 00:15:59,100
+often be very good at the job,
+
+453
+00:15:59,100 --> 00:16:01,620
+but then it just kind of ends of its own accord.
+
+454
+00:16:01,620 --> 00:16:04,660
+Now, I would also say, I guess I simplified too much.
+
+455
+00:16:04,660 --> 00:16:08,700
+The show also is lives and dies because Fred Gwyn
+
+456
+00:16:08,700 --> 00:16:10,220
+and Al Lewis are funny.
+
+457
+00:16:10,220 --> 00:16:11,060
+Yes.
+
+458
+00:16:11,060 --> 00:16:12,300
+The two of them are funny.
+
+459
+00:16:12,300 --> 00:16:15,900
+Fred Gwyn is very funny at playing like a little boy man,
+
+460
+00:16:15,900 --> 00:16:19,860
+who's very selfish and insecure and conceited.
+
+461
+00:16:19,860 --> 00:16:22,860
+Waves his arms around in a mildly disturbing,
+
+462
+00:16:22,860 --> 00:16:25,460
+he does like, ah, ah, ah, ah.
+
+463
+00:16:25,460 --> 00:16:27,700
+He like a toddler, it's very strange.
+
+464
+00:16:27,700 --> 00:16:29,700
+He's legit really funny.
+
+465
+00:16:29,700 --> 00:16:32,020
+There's an episode today I also watched
+
+466
+00:16:32,020 --> 00:16:34,500
+because I had to get the taste out of my mouth.
+
+467
+00:16:35,660 --> 00:16:37,300
+I know what you're talking about, getting taste saved.
+
+468
+00:16:37,300 --> 00:16:38,140
+Yeah, yeah.
+
+469
+00:16:38,140 --> 00:16:42,260
+The aspartame of the fakeness of the new monsters.
+
+470
+00:16:42,260 --> 00:16:45,420
+Yes, all that's, vurver, it's a metaphor.
+
+471
+00:16:45,660 --> 00:16:47,660
+What if the whole movie was aspartame?
+
+472
+00:16:47,660 --> 00:16:48,500
+There's a whole,
+
+473
+00:16:49,620 --> 00:16:53,580
+Herman is, two guys are trying to run an insurance scam,
+
+474
+00:16:53,580 --> 00:16:56,700
+so they fool Herman into thinking he's a movie star.
+
+475
+00:16:56,700 --> 00:16:58,300
+And they keep like setting up shots
+
+476
+00:16:58,300 --> 00:16:59,820
+so he can get hurt accidentally,
+
+477
+00:16:59,820 --> 00:17:01,780
+so they can collect money.
+
+478
+00:17:01,780 --> 00:17:03,740
+And it's like these character actors like,
+
+479
+00:17:03,740 --> 00:17:05,620
+yeah, here's what we gotta do, yeah.
+
+480
+00:17:05,620 --> 00:17:07,380
+And then they fool Herman into thinking he's a movie star.
+
+481
+00:17:07,380 --> 00:17:08,900
+So by the end, he's wearing like a beret
+
+482
+00:17:08,900 --> 00:17:11,900
+and he's smoking a long cigar and he's very conceited.
+
+483
+00:17:11,900 --> 00:17:14,740
+And he like, now he won't do the lines as is.
+
+484
+00:17:14,740 --> 00:17:15,940
+And it's really funny.
+
+485
+00:17:15,940 --> 00:17:18,020
+It's funny, it's a big cartoon and Fred Gwynn,
+
+486
+00:17:18,020 --> 00:17:19,260
+very funny in it.
+
+487
+00:17:20,140 --> 00:17:22,740
+The makeup is like so entrancing to watch.
+
+488
+00:17:22,740 --> 00:17:24,500
+Yes, there's the look also.
+
+489
+00:17:24,500 --> 00:17:26,220
+Like we talked about Garfield being just like,
+
+490
+00:17:26,220 --> 00:17:28,460
+mostly the look is why you like Garfield.
+
+491
+00:17:28,460 --> 00:17:29,300
+Yeah.
+
+492
+00:17:29,300 --> 00:17:30,580
+Because the drawings, it's similar to here.
+
+493
+00:17:30,580 --> 00:17:32,740
+It's very fun to look at him and El Lou.
+
+494
+00:17:32,740 --> 00:17:34,980
+Like it's those two characters, and Eddie,
+
+495
+00:17:34,980 --> 00:17:37,340
+and his wife.
+
+496
+00:17:37,340 --> 00:17:38,180
+Well, I can't think of his wife.
+
+497
+00:17:38,180 --> 00:17:39,140
+Lily. Lily.
+
+498
+00:17:39,140 --> 00:17:39,980
+Thank you.
+
+499
+00:17:39,980 --> 00:17:40,820
+Oh yeah.
+
+500
+00:17:40,820 --> 00:17:43,500
+Garfield gets a lot of mileage.
+
+501
+00:17:43,500 --> 00:17:45,180
+I forgot whether I said this on the episode,
+
+502
+00:17:45,180 --> 00:17:48,740
+but the various ways he finds to utilize
+
+503
+00:17:48,740 --> 00:17:51,860
+his little rectangular bed.
+
+504
+00:17:51,860 --> 00:17:53,940
+The little purple bed with the blue blanket.
+
+505
+00:17:53,940 --> 00:17:54,860
+It's fun to look at the drawings, yes.
+
+506
+00:17:54,860 --> 00:17:56,700
+He scrunches up like a cat.
+
+507
+00:17:56,700 --> 00:17:59,980
+Sometimes he's laying sprawled out on it.
+
+508
+00:17:59,980 --> 00:18:02,500
+And it's satisfying.
+
+509
+00:18:02,500 --> 00:18:04,700
+All the ways he finds to be lazy,
+
+510
+00:18:04,700 --> 00:18:09,020
+like a real cat that they lie crazy sometimes.
+
+511
+00:18:09,020 --> 00:18:11,140
+Okay, so I think we've,
+
+512
+00:18:11,140 --> 00:18:13,420
+okay, the monsters didn't run forever.
+
+513
+00:18:14,340 --> 00:18:16,620
+There wasn't maybe the most legs for this concept.
+
+514
+00:18:16,620 --> 00:18:19,260
+It went, it's a bizarre,
+
+515
+00:18:19,260 --> 00:18:24,260
+the numbers are like 37 episodes a season.
+
+516
+00:18:24,500 --> 00:18:25,660
+Two seasons.
+
+517
+00:18:25,660 --> 00:18:28,260
+Yes, there was like 70 episodes.
+
+518
+00:18:28,260 --> 00:18:29,260
+Yeah, a ton.
+
+519
+00:18:29,260 --> 00:18:32,620
+But all on Peacock, you guys might've discovered.
+
+520
+00:18:32,620 --> 00:18:35,860
+So yes, we've broken down what's funny
+
+521
+00:18:35,860 --> 00:18:38,340
+about the monsters here.
+
+522
+00:18:38,340 --> 00:18:42,100
+I don't know that Rob's happy knows
+
+523
+00:18:42,100 --> 00:18:43,140
+what's funny about them.
+
+524
+00:18:44,100 --> 00:18:47,300
+He puts Herman in outfits, I'll give him that.
+
+525
+00:18:47,300 --> 00:18:49,380
+So he knows that's funny.
+
+526
+00:18:49,380 --> 00:18:51,260
+But other than that.
+
+527
+00:18:51,260 --> 00:18:53,820
+Now, let's say this.
+
+528
+00:18:55,060 --> 00:19:00,060
+In his defense, he is for sure a big monsters fan.
+
+529
+00:19:02,300 --> 00:19:04,220
+A huge monsters fan for decades.
+
+530
+00:19:04,220 --> 00:19:06,180
+I've heard this, yes, for years.
+
+531
+00:19:06,180 --> 00:19:07,020
+He has this song.
+
+532
+00:19:07,020 --> 00:19:08,940
+In the most, yes, there's the song,
+
+533
+00:19:08,940 --> 00:19:11,660
+Dracula, which is where some of the confusion is.
+
+534
+00:19:11,660 --> 00:19:12,740
+What was it again?
+
+535
+00:19:13,260 --> 00:19:17,820
+The Dracula is grandpa's car, not the monster's car,
+
+536
+00:19:17,820 --> 00:19:19,980
+which is the monster's coach.
+
+537
+00:19:19,980 --> 00:19:23,780
+But the monster's coach is in the video for Dracula.
+
+538
+00:19:23,780 --> 00:19:24,620
+Yes, I think.
+
+539
+00:19:24,620 --> 00:19:25,740
+It's confusing the entire.
+
+540
+00:19:25,740 --> 00:19:26,580
+Yes.
+
+541
+00:19:26,580 --> 00:19:28,220
+Well, doesn't that tell you a little bit
+
+542
+00:19:28,220 --> 00:19:30,980
+that he's clearly a fan.
+
+543
+00:19:30,980 --> 00:19:31,820
+Yes.
+
+544
+00:19:31,820 --> 00:19:35,620
+And the fandom is further proven by his cribs,
+
+545
+00:19:35,620 --> 00:19:37,460
+which I watched today.
+
+546
+00:19:37,460 --> 00:19:41,460
+Then the cribs, there's so much monster in his house.
+
+547
+00:19:41,460 --> 00:19:44,220
+He mentions them a lot.
+
+548
+00:19:44,220 --> 00:19:46,460
+The movie is called here.
+
+549
+00:19:46,460 --> 00:19:47,940
+No, Here Come the Monsters was a later.
+
+550
+00:19:47,940 --> 00:19:49,900
+That was like a 90s Fox.
+
+551
+00:19:49,900 --> 00:19:51,860
+Monsters Go Home, is that the name of?
+
+552
+00:19:51,860 --> 00:19:54,140
+Monsters Go Home is the original casting.
+
+553
+00:19:54,140 --> 00:19:54,980
+Yeah.
+
+554
+00:19:54,980 --> 00:19:57,380
+He does not only a poster in his house.
+
+555
+00:19:57,380 --> 00:20:01,020
+He apparently does a commentary on the DVD for this film.
+
+556
+00:20:01,020 --> 00:20:01,860
+Okay.
+
+557
+00:20:01,860 --> 00:20:04,740
+So he's been versed in monsters fan.
+
+558
+00:20:04,740 --> 00:20:07,300
+Yeah, yeah, really associated.
+
+559
+00:20:07,300 --> 00:20:09,540
+Maybe like is the reason he's even like
+
+560
+00:20:09,580 --> 00:20:11,300
+his scary guy persona.
+
+561
+00:20:11,300 --> 00:20:12,420
+You know, like I like.
+
+562
+00:20:12,420 --> 00:20:13,260
+Could be, yeah.
+
+563
+00:20:13,260 --> 00:20:14,540
+There's a chance that without the monsters,
+
+564
+00:20:14,540 --> 00:20:16,740
+he's not like doesn't model his whole band
+
+565
+00:20:16,740 --> 00:20:18,860
+and his whole life after like horror and.
+
+566
+00:20:18,860 --> 00:20:22,340
+And the fact that he like, I don't know much about the guy,
+
+567
+00:20:22,340 --> 00:20:25,820
+but you know, you compare to a Marilyn Manson
+
+568
+00:20:25,820 --> 00:20:27,420
+who seems like a horrible man.
+
+569
+00:20:27,420 --> 00:20:28,260
+Yes.
+
+570
+00:20:28,260 --> 00:20:30,180
+The Rob Zombie seems like, well, he's got this like,
+
+571
+00:20:30,180 --> 00:20:33,780
+he's like married forever and she's in the movie
+
+572
+00:20:33,780 --> 00:20:36,220
+and she's in all the movies and they get along great.
+
+573
+00:20:36,220 --> 00:20:37,060
+Yes.
+
+574
+00:20:37,060 --> 00:20:38,260
+And like even the house seemed nice.
+
+575
+00:20:38,300 --> 00:20:39,980
+I felt like the house was a crazy monster house,
+
+576
+00:20:39,980 --> 00:20:42,780
+but there was just a regular kitchen and like,
+
+577
+00:20:42,780 --> 00:20:45,020
+and people seem to have respect for these films
+
+578
+00:20:45,020 --> 00:20:47,740
+that he makes, which I've never seen one of them,
+
+579
+00:20:47,740 --> 00:20:50,340
+but people enjoy them and he like, I don't know.
+
+580
+00:20:50,340 --> 00:20:53,020
+I, I get, I don't, I maybe I'm missing some bad stuff.
+
+581
+00:20:53,020 --> 00:20:53,860
+No, I think you're.
+
+582
+00:20:53,860 --> 00:20:55,700
+Like he's kind of a normal guy.
+
+583
+00:20:55,700 --> 00:20:56,540
+Yes.
+
+584
+00:20:56,540 --> 00:20:58,940
+Monster garb, much like the monsters.
+
+585
+00:20:58,940 --> 00:20:59,780
+Yes, I agree.
+
+586
+00:20:59,780 --> 00:21:02,380
+I'm glad you said that up top on this episode
+
+587
+00:21:02,380 --> 00:21:05,140
+to make sure before we start talking about the movie.
+
+588
+00:21:05,140 --> 00:21:08,220
+I do think I like, this is the whole thing I have with it
+
+589
+00:21:09,180 --> 00:21:11,820
+is that as though I'm watching it and not enjoying it,
+
+590
+00:21:11,820 --> 00:21:16,060
+spoiler, I am like, you know, do your thing, Rob.
+
+591
+00:21:16,060 --> 00:21:19,060
+Like his little industry, which I've never checked out,
+
+592
+00:21:19,060 --> 00:21:23,220
+but I love a good little bubble of media
+
+593
+00:21:23,220 --> 00:21:24,660
+that is not hurting anybody.
+
+594
+00:21:24,660 --> 00:21:26,780
+Seems like people like Rob Zombie's movie,
+
+595
+00:21:26,780 --> 00:21:28,460
+cool, have at it.
+
+596
+00:21:28,460 --> 00:21:31,460
+This doesn't ruin me watching the monster, the old monster.
+
+597
+00:21:31,460 --> 00:21:33,780
+No, no, no, nothing like that.
+
+598
+00:21:33,780 --> 00:21:37,140
+And I will also say, what if we,
+
+599
+00:21:37,180 --> 00:21:41,340
+what, what if we played the monsters more straight?
+
+600
+00:21:41,340 --> 00:21:42,460
+I guess not even straight.
+
+601
+00:21:42,460 --> 00:21:45,220
+What if we focused on the horror elements a little
+
+602
+00:21:45,220 --> 00:21:49,140
+was also the thinking I think behind the Brian Fuller,
+
+603
+00:21:49,140 --> 00:21:50,900
+Brian Singer pilot mocking.
+
+604
+00:21:50,900 --> 00:21:51,740
+For sure.
+
+605
+00:21:51,740 --> 00:21:55,900
+Where it's like, let's take it a little more seriously.
+
+606
+00:21:55,900 --> 00:21:58,500
+This, I think trying to be a little more comedic.
+
+607
+00:21:58,500 --> 00:21:59,580
+A little more.
+
+608
+00:21:59,580 --> 00:22:01,220
+Yeah, but.
+
+609
+00:22:01,220 --> 00:22:03,500
+Speaking of director monsters.
+
+610
+00:22:03,500 --> 00:22:04,340
+We got to one.
+
+611
+00:22:04,340 --> 00:22:05,340
+Yeah.
+
+612
+00:22:06,220 --> 00:22:08,260
+I was gonna say the movie is full of comedy music.
+
+613
+00:22:08,260 --> 00:22:09,100
+Yeah.
+
+614
+00:22:09,100 --> 00:22:09,940
+Yeah.
+
+615
+00:22:09,940 --> 00:22:10,900
+Yes.
+
+616
+00:22:10,900 --> 00:22:13,180
+Which is, do you guys have any sense
+
+617
+00:22:13,180 --> 00:22:14,900
+of the previous Rob Zombie movies?
+
+618
+00:22:14,900 --> 00:22:19,700
+Are they gory and not like this in any way?
+
+619
+00:22:19,700 --> 00:22:21,740
+Devil's Rejects, very gory.
+
+620
+00:22:21,740 --> 00:22:23,780
+Yeah, there are rated horror movies.
+
+621
+00:22:23,780 --> 00:22:24,620
+Yeah.
+
+622
+00:22:24,620 --> 00:22:27,540
+Yeah, and nothing he's done is a bit of PG comedy.
+
+623
+00:22:27,540 --> 00:22:28,700
+For sure that, but I wanted,
+
+624
+00:22:28,700 --> 00:22:32,140
+this movie made me wonder if they're all a little campy.
+
+625
+00:22:32,140 --> 00:22:32,980
+Oh.
+
+626
+00:22:32,980 --> 00:22:34,940
+And maybe perhaps not even crazy bloody.
+
+627
+00:22:35,540 --> 00:22:38,100
+If like his style is just more like pulp,
+
+628
+00:22:38,100 --> 00:22:40,340
+kind of silly even in its horror.
+
+629
+00:22:40,340 --> 00:22:42,140
+But it sounds like they are like.
+
+630
+00:22:42,140 --> 00:22:42,980
+Grindhousey.
+
+631
+00:22:42,980 --> 00:22:43,820
+Sort of hardcore.
+
+632
+00:22:43,820 --> 00:22:44,660
+Okay, okay.
+
+633
+00:22:44,660 --> 00:22:45,500
+Yeah.
+
+634
+00:22:45,500 --> 00:22:47,940
+Yeah, I mean he did one of those fake grindhouse trailers
+
+635
+00:22:47,940 --> 00:22:49,420
+for the movie Grindhouse.
+
+636
+00:22:49,420 --> 00:22:50,260
+Yes.
+
+637
+00:22:50,260 --> 00:22:51,100
+Oh yeah.
+
+638
+00:22:51,100 --> 00:22:54,100
+And Devil's Rejects is I think a year or two before that.
+
+639
+00:22:54,100 --> 00:22:57,180
+That was very big in the 2000s there for a while.
+
+640
+00:22:57,180 --> 00:22:58,020
+Kind of grindhousey.
+
+641
+00:22:58,020 --> 00:22:59,660
+I'm not steeped in Mr. Zombie's work.
+
+642
+00:22:59,660 --> 00:23:02,060
+I've seen the Devil's Rejects.
+
+643
+00:23:02,980 --> 00:23:03,820
+And I'm trying to remember.
+
+644
+00:23:03,820 --> 00:23:05,420
+That's like gross I think.
+
+645
+00:23:05,420 --> 00:23:06,660
+It's kind of gross.
+
+646
+00:23:06,660 --> 00:23:07,500
+Okay.
+
+647
+00:23:07,500 --> 00:23:08,320
+Okay.
+
+648
+00:23:08,320 --> 00:23:10,900
+But obviously he has a love for, yeah, campy.
+
+649
+00:23:10,900 --> 00:23:13,940
+The amount of like Dutch angle,
+
+650
+00:23:13,940 --> 00:23:16,540
+like Batman, 60s Batman angles in this movie.
+
+651
+00:23:16,540 --> 00:23:19,980
+I could be wrong, but I bet he's a fan of that too.
+
+652
+00:23:19,980 --> 00:23:20,820
+Yeah, yeah, I bet.
+
+653
+00:23:20,820 --> 00:23:21,640
+Yeah, yeah.
+
+654
+00:23:21,640 --> 00:23:24,540
+Which all made me want to root for it, but you know.
+
+655
+00:23:24,540 --> 00:23:27,060
+I wanted to, okay, I wanted to root for it too.
+
+656
+00:23:27,060 --> 00:23:30,540
+And even in the first 20 minutes, I remember,
+
+657
+00:23:30,540 --> 00:23:32,700
+I go, okay, I don't.
+
+658
+00:23:32,940 --> 00:23:35,340
+Because a lot of the chatter around the trailer
+
+659
+00:23:35,340 --> 00:23:40,340
+was like very digitally, the audio felt unfinished.
+
+660
+00:23:40,340 --> 00:23:41,900
+Yes, yeah.
+
+661
+00:23:41,900 --> 00:23:43,540
+And you're like, well, this is other movies
+
+662
+00:23:43,540 --> 00:23:44,900
+didn't look like this.
+
+663
+00:23:44,900 --> 00:23:46,340
+This looks like a sketch or something.
+
+664
+00:23:46,340 --> 00:23:49,180
+Like this looks like a iPhone sketch or something.
+
+665
+00:23:49,180 --> 00:23:50,660
+It kind of looks like an episode
+
+666
+00:23:50,660 --> 00:23:52,800
+of like the Goosebumps TV show.
+
+667
+00:23:52,800 --> 00:23:53,640
+Yes.
+
+668
+00:23:53,640 --> 00:23:54,620
+Yeah.
+
+669
+00:23:54,620 --> 00:23:56,980
+But all that to say, I'm watching it and I go,
+
+670
+00:23:56,980 --> 00:23:59,980
+you know what, I actually don't hate how this looks.
+
+671
+00:23:59,980 --> 00:24:00,820
+I don't hate it.
+
+672
+00:24:00,820 --> 00:24:01,660
+This is exactly where I was at.
+
+673
+00:24:02,380 --> 00:24:03,380
+We're very in tandem.
+
+674
+00:24:03,380 --> 00:24:04,900
+First 10 minutes, 20 minutes,
+
+675
+00:24:04,900 --> 00:24:07,420
+because there's a big clunky looking robot.
+
+676
+00:24:07,420 --> 00:24:10,060
+There's some pretty interesting makeup,
+
+677
+00:24:10,060 --> 00:24:12,900
+but it's very lo-fi, but it's fun.
+
+678
+00:24:12,900 --> 00:24:14,620
+And aesthetically, and you're like,
+
+679
+00:24:14,620 --> 00:24:17,060
+okay, I guess it's cheap, but he's throwing this
+
+680
+00:24:17,060 --> 00:24:18,980
+green light on everything.
+
+681
+00:24:18,980 --> 00:24:21,100
+But I don't hate the look of this.
+
+682
+00:24:21,100 --> 00:24:25,000
+You could make a fun movie, a fun, really low budget movie
+
+683
+00:24:25,000 --> 00:24:28,660
+with the sets and the lighting and the costumes.
+
+684
+00:24:28,660 --> 00:24:29,500
+Sure.
+
+685
+00:24:29,500 --> 00:24:31,820
+Basically how I just decorated my front yard
+
+686
+00:24:31,820 --> 00:24:34,180
+is green and purple lights.
+
+687
+00:24:34,180 --> 00:24:38,620
+I used the visual language of the monster.
+
+688
+00:24:38,620 --> 00:24:41,460
+So it works as Halloween decorations, for sure.
+
+689
+00:24:41,460 --> 00:24:43,100
+That is the lighting, the holo,
+
+690
+00:24:43,100 --> 00:24:46,420
+it is like good Halloween colored lighting,
+
+691
+00:24:46,420 --> 00:24:50,500
+or like a Fangoria magazine photo spread.
+
+692
+00:24:50,500 --> 00:24:51,340
+Sure.
+
+693
+00:24:55,340 --> 00:24:57,460
+The other elements, I think Jane and I
+
+694
+00:24:57,460 --> 00:24:59,700
+both came to the conclusion of like,
+
+695
+00:24:59,700 --> 00:25:02,420
+some of this feels like a student film.
+
+696
+00:25:02,420 --> 00:25:07,220
+And then I had it all, I went up to with a student film
+
+697
+00:25:07,220 --> 00:25:10,860
+where one very rich alumni gave them a donation
+
+698
+00:25:10,860 --> 00:25:14,340
+and they spent it all on lighting package, like all on.
+
+699
+00:25:14,340 --> 00:25:16,260
+We have the best, these student films
+
+700
+00:25:16,260 --> 00:25:17,100
+are gonna look amazing.
+
+701
+00:25:17,100 --> 00:25:20,340
+We have the best lights you can check out from the cage.
+
+702
+00:25:20,340 --> 00:25:21,860
+But cameras, not so much.
+
+703
+00:25:21,860 --> 00:25:25,220
+No, you're just gonna shoot on your iPhone anyway.
+
+704
+00:25:26,020 --> 00:25:28,500
+480 or 720 or something.
+
+705
+00:25:28,500 --> 00:25:29,420
+Yeah, yeah.
+
+706
+00:25:29,420 --> 00:25:32,340
+Well, so some of this is because,
+
+707
+00:25:32,340 --> 00:25:34,380
+there was certainly the question of why not black and white?
+
+708
+00:25:34,380 --> 00:25:36,980
+And the original teaser was black and white,
+
+709
+00:25:36,980 --> 00:25:38,780
+that looks like the opening of the show.
+
+710
+00:25:38,780 --> 00:25:40,540
+And they were, and like photos from the set
+
+711
+00:25:40,540 --> 00:25:41,940
+were black and white, so people were thinking,
+
+712
+00:25:41,940 --> 00:25:43,900
+you know what I thought the whole time
+
+713
+00:25:43,900 --> 00:25:47,340
+was that the movie was about the making of the show.
+
+714
+00:25:47,340 --> 00:25:48,780
+I thought it was a behind the scenes
+
+715
+00:25:48,780 --> 00:25:50,700
+of the monsters or something.
+
+716
+00:25:50,700 --> 00:25:52,620
+Or that I pictured like a much darker,
+
+717
+00:25:52,620 --> 00:25:56,060
+I thought it was gonna be like a fucked up monsters.
+
+718
+00:25:56,060 --> 00:25:58,860
+Oh, well, when somebody said it was PG,
+
+719
+00:25:58,860 --> 00:26:00,860
+I was like, oh, he's just gonna do it, huh?
+
+720
+00:26:00,860 --> 00:26:01,860
+Yeah, yeah.
+
+721
+00:26:01,860 --> 00:26:04,220
+So I thought maybe initially that was something like that.
+
+722
+00:26:04,220 --> 00:26:06,500
+But yeah, once it was like, oh, this is a PG movie,
+
+723
+00:26:06,500 --> 00:26:08,900
+I'm like, oh, I think he's just gonna try to do it.
+
+724
+00:26:08,900 --> 00:26:10,660
+And make it for families and stuff.
+
+725
+00:26:10,660 --> 00:26:14,140
+Yeah, yeah, well, so it's not black and white
+
+726
+00:26:14,140 --> 00:26:15,620
+at the studios insistence.
+
+727
+00:26:15,620 --> 00:26:18,660
+That was the one thing they thought that would limit
+
+728
+00:26:18,660 --> 00:26:20,380
+the audience for it.
+
+729
+00:26:20,380 --> 00:26:24,060
+So this technicolor green purple thing
+
+730
+00:26:24,060 --> 00:26:26,500
+we're talking about was his attempts to make it
+
+731
+00:26:26,500 --> 00:26:30,060
+not just kind of a blah looking thing.
+
+732
+00:26:30,060 --> 00:26:30,900
+Right.
+
+733
+00:26:30,900 --> 00:26:34,020
+So I'm exactly with you, 15, 20 minutes.
+
+734
+00:26:34,020 --> 00:26:37,460
+I'm like, I think maybe this was an interesting choice.
+
+735
+00:26:37,460 --> 00:26:39,580
+And then why did we turn?
+
+736
+00:26:39,580 --> 00:26:40,940
+Was there just too much of it?
+
+737
+00:26:40,940 --> 00:26:42,100
+Do you just get tired of?
+
+738
+00:26:42,100 --> 00:26:47,100
+Well, I think where I really turned was,
+
+739
+00:26:47,220 --> 00:26:52,220
+Herman shows up, it takes 30 minutes for Herman to show up.
+
+740
+00:26:53,420 --> 00:26:55,180
+And I think I checked the time and I went,
+
+741
+00:26:55,180 --> 00:26:56,580
+well, hold on a second here.
+
+742
+00:26:56,580 --> 00:26:58,260
+This movie's two hours long.
+
+743
+00:26:58,260 --> 00:27:00,980
+Herman is showing up 30 minutes in.
+
+744
+00:27:00,980 --> 00:27:01,820
+What are we doing?
+
+745
+00:27:01,820 --> 00:27:03,060
+Like, what are we doing here?
+
+746
+00:27:03,060 --> 00:27:07,020
+That was a big, you know, I know this is not a horror film,
+
+747
+00:27:07,020 --> 00:27:10,340
+but when I checked the runtime at the beginning
+
+748
+00:27:10,340 --> 00:27:13,460
+and saw an hour 50, it gave me quite a fright.
+
+749
+00:27:13,460 --> 00:27:15,580
+Uh-huh, yeah, so I was like, too,
+
+750
+00:27:15,740 --> 00:27:17,180
+that's a kind of a long, whatever.
+
+751
+00:27:17,180 --> 00:27:20,700
+I'm not anti long movie, but I went, okay.
+
+752
+00:27:20,700 --> 00:27:23,620
+And then Herman, it takes 30 minutes and you're like,
+
+753
+00:27:23,620 --> 00:27:26,820
+okay, this is really slow.
+
+754
+00:27:26,820 --> 00:27:28,580
+I'm really this kind of, it's like,
+
+755
+00:27:28,580 --> 00:27:32,140
+there's a fatigue that set in for me around that time
+
+756
+00:27:32,140 --> 00:27:35,060
+that I think that's probably when most people,
+
+757
+00:27:35,060 --> 00:27:36,780
+if they had an optimistic feeling of like,
+
+758
+00:27:36,780 --> 00:27:39,020
+well, it looks kind of interesting for a low budget movie
+
+759
+00:27:39,020 --> 00:27:41,900
+and okay, like there's some supporting actors,
+
+760
+00:27:41,900 --> 00:27:44,420
+I feel like they're doing some interesting stuff
+
+761
+00:27:44,420 --> 00:27:47,740
+for making a meal of things and you could kind of like,
+
+762
+00:27:47,740 --> 00:27:50,140
+oh, okay, that looks so, okay.
+
+763
+00:27:50,140 --> 00:27:54,900
+The Nosferatu guy is, Lily goes on a date with,
+
+764
+00:27:54,900 --> 00:27:57,900
+I will say that he's already kind of fundamentally blows
+
+765
+00:27:57,900 --> 00:27:59,020
+the joke of the monsters there,
+
+766
+00:27:59,020 --> 00:28:03,660
+cause it's like, Lily would like the weird vampire man.
+
+767
+00:28:03,660 --> 00:28:05,700
+She would, like the joke,
+
+768
+00:28:05,700 --> 00:28:07,380
+Lily goes on a date with a Nosferatu guy,
+
+769
+00:28:07,380 --> 00:28:09,140
+she's not with Herman yet and she's like,
+
+770
+00:28:09,140 --> 00:28:11,860
+disgusted by, so weird and she doesn't like him.
+
+771
+00:28:11,860 --> 00:28:13,140
+And I was like, but the joke of the monsters is
+
+772
+00:28:13,140 --> 00:28:15,740
+she should be out with like a handsome man
+
+773
+00:28:15,740 --> 00:28:18,140
+who makes a lot of money, who looks normal.
+
+774
+00:28:18,140 --> 00:28:18,980
+Yeah.
+
+775
+00:28:18,980 --> 00:28:19,820
+That's already, he's already-
+
+776
+00:28:19,820 --> 00:28:22,220
+Yes, and that would just go like the guys out there,
+
+777
+00:28:22,220 --> 00:28:23,500
+they're monsters. Yeah, right.
+
+778
+00:28:23,500 --> 00:28:24,820
+And they should all be handsome men.
+
+779
+00:28:24,820 --> 00:28:27,940
+He's already blown the main joke of the monsters.
+
+780
+00:28:27,940 --> 00:28:29,660
+That's the joke of every episode
+
+781
+00:28:29,660 --> 00:28:31,660
+and it's already out the window.
+
+782
+00:28:31,660 --> 00:28:34,860
+The rules are kind of wobbly, I would say.
+
+783
+00:28:34,860 --> 00:28:35,860
+Very wobbly.
+
+784
+00:28:35,860 --> 00:28:36,700
+Because- The logic,
+
+785
+00:28:36,700 --> 00:28:38,260
+internal logic of the movie,
+
+786
+00:28:39,900 --> 00:28:41,500
+skipping to the end, but-
+
+787
+00:28:41,500 --> 00:28:42,340
+Yeah.
+
+788
+00:28:42,340 --> 00:28:44,420
+You see humans throughout the whole movie
+
+789
+00:28:44,420 --> 00:28:47,020
+and then the end of the movie is Herman seeing humans
+
+790
+00:28:47,020 --> 00:28:50,220
+when they move to America and him freaking out.
+
+791
+00:28:50,220 --> 00:28:51,780
+And I, well, Lindsay was watching the movie with me
+
+792
+00:28:51,780 --> 00:28:53,500
+at this point, she goes, he saw-
+
+793
+00:28:53,500 --> 00:28:55,980
+Yeah, they were in a cafe in Paris.
+
+794
+00:28:55,980 --> 00:28:58,220
+Yes, they saw humans in Paris and they didn't flip out
+
+795
+00:28:58,220 --> 00:28:59,940
+and now he sees humans and he's flipping out
+
+796
+00:28:59,940 --> 00:29:00,780
+and he thinks they're weird.
+
+797
+00:29:00,780 --> 00:29:02,740
+Like if they had established the whole movie,
+
+798
+00:29:02,740 --> 00:29:04,820
+like they'd never, they only saw monsters before,
+
+799
+00:29:04,820 --> 00:29:06,900
+that's one, but like they'd been with humans already.
+
+800
+00:29:06,900 --> 00:29:07,740
+Yeah.
+
+801
+00:29:07,740 --> 00:29:08,820
+You're like, what, huh?
+
+802
+00:29:08,820 --> 00:29:10,380
+I have two notes back to back.
+
+803
+00:29:10,380 --> 00:29:12,620
+One says 30 minutes in, this is brutal.
+
+804
+00:29:12,620 --> 00:29:15,860
+And then one says, there's still 40 minutes left.
+
+805
+00:29:15,860 --> 00:29:17,100
+Yeah. Yeah.
+
+806
+00:29:17,100 --> 00:29:19,580
+And then what's funny is we're watching it
+
+807
+00:29:19,580 --> 00:29:23,180
+and they have this whole like subplot of going to America
+
+808
+00:29:23,180 --> 00:29:25,780
+and then it just, like just started and we clicked
+
+809
+00:29:25,780 --> 00:29:27,820
+and I go, there's only 10 minutes left.
+
+810
+00:29:27,820 --> 00:29:32,820
+Yes, the last bit of the movie feels like a backdoor pilot.
+
+811
+00:29:33,220 --> 00:29:36,060
+It feels like they're setting up the status quo
+
+812
+00:29:36,060 --> 00:29:37,580
+of the monsters.
+
+813
+00:29:37,580 --> 00:29:39,460
+Right, but nothing is like resolved.
+
+814
+00:29:39,460 --> 00:29:42,020
+There's nothing feeling like resolved feeling.
+
+815
+00:29:42,020 --> 00:29:44,060
+It's just- The stories don't really.
+
+816
+00:29:44,060 --> 00:29:46,180
+Nothing has a resolution.
+
+817
+00:29:46,180 --> 00:29:47,660
+It's really strange.
+
+818
+00:29:47,660 --> 00:29:50,860
+It's like on top of just like certain elements not working,
+
+819
+00:29:50,860 --> 00:29:53,420
+none of the stories feel like they've been resolved
+
+820
+00:29:53,420 --> 00:29:54,380
+at the end.
+
+821
+00:29:54,380 --> 00:29:56,700
+They just sort of, the plots are left dangling.
+
+822
+00:29:56,700 --> 00:29:59,820
+I guess so like, oh, now you see the monsters TV show
+
+823
+00:29:59,820 --> 00:30:02,820
+to see what happens, but it's, imagine a movie
+
+824
+00:30:02,820 --> 00:30:05,620
+where nothing, I mean, I guess it's sort of like Marvel,
+
+825
+00:30:05,620 --> 00:30:09,220
+but even Marvel and their worst outings,
+
+826
+00:30:09,220 --> 00:30:11,740
+they try to give you like some feeling of resolution,
+
+827
+00:30:11,740 --> 00:30:14,140
+even though they want you to watch the next 10 things.
+
+828
+00:30:14,140 --> 00:30:17,220
+Well, and it's a bold move to not be conclusive
+
+829
+00:30:17,220 --> 00:30:20,300
+when the movie you're talking about has all of the promise
+
+830
+00:30:20,300 --> 00:30:23,660
+of the monsters 2022 as opposed to,
+
+831
+00:30:23,660 --> 00:30:26,580
+I guess the first Marvel we did not know
+
+832
+00:30:26,580 --> 00:30:28,060
+there would be 50 Marvels,
+
+833
+00:30:28,060 --> 00:30:30,820
+but I don't think there will be 50 monsters.
+
+834
+00:30:30,820 --> 00:30:32,340
+I don't know.
+
+835
+00:30:32,340 --> 00:30:35,380
+I think it was watched a lot, maybe the first week.
+
+836
+00:30:35,380 --> 00:30:37,620
+It was in the top 10 of-
+
+837
+00:30:37,620 --> 00:30:38,460
+Is that, that's good.
+
+838
+00:30:38,940 --> 00:30:41,180
+At a top 10 on Netflix.
+
+839
+00:30:41,180 --> 00:30:42,020
+Yeah.
+
+840
+00:30:42,020 --> 00:30:42,860
+It's good.
+
+841
+00:30:42,860 --> 00:30:44,100
+And they still, they cancel shit in the top 10.
+
+842
+00:30:44,100 --> 00:30:44,940
+That's true.
+
+843
+00:30:44,940 --> 00:30:46,620
+All the time, but so it's not that good.
+
+844
+00:30:46,620 --> 00:30:47,980
+Good point.
+
+845
+00:30:47,980 --> 00:30:50,220
+But it's still like, you're kidding, really?
+
+846
+00:30:50,220 --> 00:30:51,060
+Yeah.
+
+847
+00:30:51,060 --> 00:30:52,620
+Is that just, is it his fandom?
+
+848
+00:30:52,620 --> 00:30:54,020
+Is it, it's a name?
+
+849
+00:30:54,020 --> 00:30:57,420
+I don't want to, I, I, I'd like to think
+
+850
+00:30:57,420 --> 00:30:59,860
+that it's all big monster heads out there,
+
+851
+00:30:59,860 --> 00:31:02,140
+but how many of those are still alive?
+
+852
+00:31:02,140 --> 00:31:03,180
+There is some buzz though.
+
+853
+00:31:03,180 --> 00:31:05,620
+I will say to just the, oh, there's a new monsters.
+
+854
+00:31:05,620 --> 00:31:07,580
+Like I've seen people that aren't like people
+
+855
+00:31:07,580 --> 00:31:09,220
+I know a little bit on Twitter and everyone's like,
+
+856
+00:31:09,220 --> 00:31:10,540
+I'm watching the new monsters.
+
+857
+00:31:10,540 --> 00:31:13,260
+And I'm like, oh, I guess everyone is watching this.
+
+858
+00:31:13,260 --> 00:31:16,700
+People were intrigued by zombie X monsters.
+
+859
+00:31:16,700 --> 00:31:19,940
+It is, it makes a lot of sense on paper.
+
+860
+00:31:19,940 --> 00:31:21,300
+And then you just, but then you're,
+
+861
+00:31:21,300 --> 00:31:23,700
+you maybe feel like you're not getting enough.
+
+862
+00:31:23,700 --> 00:31:26,300
+Maybe you're not getting enough of either side, you know?
+
+863
+00:31:26,300 --> 00:31:29,380
+It's not the, like the grittiness that seemingly
+
+864
+00:31:29,380 --> 00:31:32,220
+is in the zombie for the Rob Zombie films.
+
+865
+00:31:32,220 --> 00:31:37,220
+And then it's not like, it's, it's not not funny.
+
+866
+00:31:38,260 --> 00:31:41,140
+It's not like, not everything fails, but then it's not like,
+
+867
+00:31:41,140 --> 00:31:44,780
+but it was like joke professionals doing the monsters.
+
+868
+00:31:44,780 --> 00:31:46,020
+And it was tight.
+
+869
+00:31:46,020 --> 00:31:48,340
+There was a new thing every 10 seconds,
+
+870
+00:31:48,340 --> 00:31:49,340
+which this is not.
+
+871
+00:31:49,340 --> 00:31:51,300
+No, I said, I was like, there's no,
+
+872
+00:31:51,300 --> 00:31:53,700
+there's like a joke every five minutes.
+
+873
+00:31:53,700 --> 00:31:56,780
+That doesn't necessarily land.
+
+874
+00:31:56,780 --> 00:31:57,620
+Yeah.
+
+875
+00:31:57,620 --> 00:31:59,420
+It's joke islands.
+
+876
+00:31:59,420 --> 00:32:04,420
+I think struggling, I mean, a big thing in like
+
+877
+00:32:04,540 --> 00:32:08,420
+comedy classes is like, okay, this is the like,
+
+878
+00:32:08,420 --> 00:32:12,500
+not fun part, but you have to establish a base reality.
+
+879
+00:32:12,500 --> 00:32:15,340
+What's called a base reality of like, okay,
+
+880
+00:32:15,340 --> 00:32:18,180
+this is a world, this is a normal world.
+
+881
+00:32:18,180 --> 00:32:21,220
+So if people are walking around wearing like, you know,
+
+882
+00:32:21,220 --> 00:32:23,380
+shoes on their heads, it's weird.
+
+883
+00:32:23,380 --> 00:32:27,100
+If it's a world where everyone wears the shoe on their head,
+
+884
+00:32:27,100 --> 00:32:29,300
+that's normal then, okay?
+
+885
+00:32:29,300 --> 00:32:33,380
+And this movie, most of it takes place
+
+886
+00:32:33,380 --> 00:32:36,460
+in a cartoony Transylvania,
+
+887
+00:32:37,620 --> 00:32:39,580
+and then eventually ends up in a cartoony,
+
+888
+00:32:39,580 --> 00:32:43,140
+like modern 50s America.
+
+889
+00:32:43,140 --> 00:32:48,140
+Like so, but it's hard to go, like, it's not playing,
+
+890
+00:32:48,220 --> 00:32:49,700
+it's playing by its own rules,
+
+891
+00:32:49,700 --> 00:32:51,420
+but the rules are so confusing.
+
+892
+00:32:51,420 --> 00:32:54,740
+Like Mike said about like Lily dating a Nosferatu,
+
+893
+00:32:54,740 --> 00:32:55,660
+you know?
+
+894
+00:32:55,660 --> 00:32:57,020
+Well, that's just, I'm not even,
+
+895
+00:32:57,020 --> 00:32:59,180
+that's not even necessarily a rule.
+
+896
+00:32:59,180 --> 00:33:01,460
+Like here's what I would say,
+
+897
+00:33:01,460 --> 00:33:05,020
+putting too many rules on the monsters seems foolhardy.
+
+898
+00:33:05,020 --> 00:33:07,780
+I would say that perhaps the reality of the monsters
+
+899
+00:33:07,780 --> 00:33:11,380
+doesn't need to be questioned too hard in this movie.
+
+900
+00:33:11,380 --> 00:33:14,020
+No, but I think this movie
+
+901
+00:33:14,020 --> 00:33:17,420
+may have like thrown too much stuff out.
+
+902
+00:33:17,420 --> 00:33:18,260
+Yeah.
+
+903
+00:33:18,260 --> 00:33:20,860
+Where it's in just like a weird, surreal world,
+
+904
+00:33:20,860 --> 00:33:23,500
+and you don't get any of the basic dynamic
+
+905
+00:33:23,500 --> 00:33:24,340
+that is what we need.
+
+906
+00:33:24,340 --> 00:33:27,380
+Right, but it's not even necessarily embracing
+
+907
+00:33:27,380 --> 00:33:29,380
+the surrealness, you know?
+
+908
+00:33:30,380 --> 00:33:32,060
+Yeah, it's, yes, you're right.
+
+909
+00:33:32,060 --> 00:33:33,940
+It's trying to do too much,
+
+910
+00:33:33,940 --> 00:33:38,180
+and you are losing some of, yeah, the basic,
+
+911
+00:33:38,180 --> 00:33:40,980
+the basic, the tenants of like, okay,
+
+912
+00:33:40,980 --> 00:33:43,220
+if you were a Kevin Feige, a Kathleen Kennedy,
+
+913
+00:33:43,220 --> 00:33:44,220
+you know, you would have a list,
+
+914
+00:33:44,220 --> 00:33:47,540
+the tenants of what a monster property is,
+
+915
+00:33:47,540 --> 00:33:50,340
+what an IP, when you were using the beloved IP
+
+916
+00:33:50,340 --> 00:33:53,780
+of the monsters, here are the four, the pillars.
+
+917
+00:33:53,780 --> 00:33:56,020
+It's these things, these documents
+
+918
+00:33:56,020 --> 00:33:58,460
+that make our favorite films so great.
+
+919
+00:33:58,460 --> 00:34:00,300
+Yeah, exactly, because they all have the,
+
+920
+00:34:00,300 --> 00:34:02,180
+all these big franchises have these now.
+
+921
+00:34:02,180 --> 00:34:05,060
+Now, if people want us to be the Kennedy Feiges
+
+922
+00:34:05,060 --> 00:34:06,900
+of the monster verse, I think we could do it,
+
+923
+00:34:06,900 --> 00:34:07,820
+the three of us.
+
+924
+00:34:07,820 --> 00:34:10,420
+I pitch us for a lot of jobs, and I think this is a,
+
+925
+00:34:10,420 --> 00:34:13,660
+this is maybe going forward, maybe the best chance we have
+
+926
+00:34:14,740 --> 00:34:17,220
+as far as something I'm pitching us for is to be
+
+927
+00:34:17,220 --> 00:34:20,300
+sort of the godfathers of the monster verse,
+
+928
+00:34:20,300 --> 00:34:21,980
+to really expand the franchise,
+
+929
+00:34:21,980 --> 00:34:24,420
+because we know the core tenants.
+
+930
+00:34:24,420 --> 00:34:26,940
+We know what makes the monsters monsters.
+
+931
+00:34:26,940 --> 00:34:30,620
+With my episode and a half that I've watched
+
+932
+00:34:30,620 --> 00:34:34,780
+in the last two years, and my sort of paying attention
+
+933
+00:34:34,780 --> 00:34:38,580
+to the show when I was eight and sick from school,
+
+934
+00:34:38,580 --> 00:34:41,860
+watching it on the tiniest TV in our house,
+
+935
+00:34:41,860 --> 00:34:46,100
+I think based on that, I understand the property.
+
+936
+00:34:46,100 --> 00:34:48,220
+I know what they are.
+
+937
+00:34:48,220 --> 00:34:53,220
+But yeah, he explains how Herman is created,
+
+938
+00:34:53,740 --> 00:34:58,020
+how they get to get, it's just too much,
+
+939
+00:34:58,020 --> 00:34:59,540
+and it doesn't hang together.
+
+940
+00:34:59,540 --> 00:35:01,820
+It doesn't follow that logic.
+
+941
+00:35:01,820 --> 00:35:03,980
+And yes, it's missing, the monsters is like,
+
+942
+00:35:03,980 --> 00:35:05,820
+it's fun, like, yeah, it's schemes.
+
+943
+00:35:05,820 --> 00:35:07,060
+The whole thing is just schemes,
+
+944
+00:35:07,060 --> 00:35:08,340
+which is what old television was.
+
+945
+00:35:08,340 --> 00:35:10,260
+Lucy just had schemes every week.
+
+946
+00:35:10,260 --> 00:35:11,100
+Yeah.
+
+947
+00:35:11,100 --> 00:35:11,920
+A new scheme.
+
+948
+00:35:11,920 --> 00:35:14,260
+Seemingly a lot of just him trying to be like,
+
+949
+00:35:15,140 --> 00:35:18,460
+in the media, this one, Herman is a rock star.
+
+950
+00:35:18,460 --> 00:35:20,340
+This one, he is a movie star.
+
+951
+00:35:20,340 --> 00:35:22,340
+Now he's writing for the paper.
+
+952
+00:35:22,340 --> 00:35:24,340
+Now he's on the sports team.
+
+953
+00:35:24,340 --> 00:35:27,180
+Now he's the vice president of America.
+
+954
+00:35:27,180 --> 00:35:28,540
+I don't know if that one happened,
+
+955
+00:35:28,540 --> 00:35:30,260
+but he can only assume.
+
+956
+00:35:30,260 --> 00:35:31,420
+I mean, it should.
+
+957
+00:35:31,420 --> 00:35:34,180
+Herman must have run for office at some point.
+
+958
+00:35:34,180 --> 00:35:35,020
+Yeah.
+
+959
+00:35:35,020 --> 00:35:36,940
+Here, I don't know, maybe I'm jumping all over the place.
+
+960
+00:35:36,940 --> 00:35:39,100
+Here's something that bothers me about the movie.
+
+961
+00:35:39,100 --> 00:35:41,420
+And this is not necessarily a performance.
+
+962
+00:35:41,420 --> 00:35:42,260
+Here's something that really,
+
+963
+00:35:42,260 --> 00:35:44,700
+this is one of my top things that has bothered.
+
+964
+00:35:44,700 --> 00:35:47,940
+Grandpa Monster doesn't hate Herman.
+
+965
+00:35:47,940 --> 00:35:50,260
+He doesn't loathe him for real.
+
+966
+00:35:50,420 --> 00:35:52,700
+He's annoyed by him regularly on the show.
+
+967
+00:35:52,700 --> 00:35:53,540
+You're saying in the show.
+
+968
+00:35:53,540 --> 00:35:54,380
+Yes, in the show.
+
+969
+00:35:54,380 --> 00:35:55,340
+Everybody gets along.
+
+970
+00:35:55,340 --> 00:35:56,180
+They get along.
+
+971
+00:35:56,180 --> 00:35:57,620
+Grandpa is annoyed at Herman.
+
+972
+00:35:57,620 --> 00:35:59,980
+He says, look what you did, you big dummy, sometimes.
+
+973
+00:35:59,980 --> 00:36:01,900
+And that's who he thinks Herman's stupid.
+
+974
+00:36:01,900 --> 00:36:05,500
+But he likes Herman, and they get in the hijinks together.
+
+975
+00:36:05,500 --> 00:36:07,820
+In the movie, Grandpa hates Herman,
+
+976
+00:36:07,820 --> 00:36:09,180
+and it's never resolved.
+
+977
+00:36:10,260 --> 00:36:11,980
+He hates him the whole time.
+
+978
+00:36:11,980 --> 00:36:14,820
+Yeah, you really need, well, it has to be like,
+
+979
+00:36:15,060 --> 00:36:15,900
+you know,
+
+980
+00:36:17,980 --> 00:36:20,860
+we do a prequel like Monsters University.
+
+981
+00:36:20,860 --> 00:36:21,700
+Yeah.
+
+982
+00:36:21,700 --> 00:36:22,540
+It's weird.
+
+983
+00:36:22,540 --> 00:36:24,380
+Wait, we know these characters are best friends.
+
+984
+00:36:24,380 --> 00:36:25,220
+Right.
+
+985
+00:36:25,220 --> 00:36:27,460
+Now this film has started and they hate each other.
+
+986
+00:36:27,460 --> 00:36:30,060
+How this journey surely must take us to a point
+
+987
+00:36:30,060 --> 00:36:30,900
+where they are best friends by the end.
+
+988
+00:36:30,900 --> 00:36:31,820
+That's what I thought.
+
+989
+00:36:31,820 --> 00:36:33,660
+Oh, well, there'll be a point when Grandpa goes,
+
+990
+00:36:33,660 --> 00:36:35,180
+oh, great, you know what,
+
+991
+00:36:35,180 --> 00:36:37,100
+Herman's not such a bad guy or whatever.
+
+992
+00:36:37,100 --> 00:36:37,940
+And then they like shake hands.
+
+993
+00:36:37,940 --> 00:36:39,460
+After what we've been through,
+
+994
+00:36:39,460 --> 00:36:42,500
+this adventure through Paris and out of Transylvania
+
+995
+00:36:42,500 --> 00:36:43,700
+and what have you. No.
+
+996
+00:36:43,780 --> 00:36:45,980
+Now, I don't think you're such a dummy.
+
+997
+00:36:45,980 --> 00:36:50,180
+This is why I said something very insulting,
+
+998
+00:36:50,180 --> 00:36:51,380
+where I said, I don't know if anyone knows
+
+999
+00:36:51,380 --> 00:36:53,860
+what's good about or funny about the Monsters.
+
+1000
+00:36:53,860 --> 00:36:56,660
+It's like, that's not the relationship of the character.
+
+1001
+00:36:56,660 --> 00:36:58,380
+Like, he doesn't hate him.
+
+1002
+00:36:59,420 --> 00:37:01,620
+So it makes it not that fun.
+
+1003
+00:37:01,620 --> 00:37:03,740
+It makes it not fun for him the whole time to be like,
+
+1004
+00:37:03,740 --> 00:37:06,740
+I gotta get rid of this lousy Herman Munster.
+
+1005
+00:37:06,740 --> 00:37:09,460
+And then it never resolved, never changes.
+
+1006
+00:37:09,460 --> 00:37:10,300
+Yeah.
+
+1007
+00:37:10,300 --> 00:37:15,300
+I mean, we are one summer out from the Space Jam sequel.
+
+1008
+00:37:16,300 --> 00:37:17,140
+Well.
+
+1009
+00:37:17,140 --> 00:37:17,980
+With very, which.
+
+1010
+00:37:17,980 --> 00:37:18,820
+You could forget.
+
+1011
+00:37:18,820 --> 00:37:23,420
+Kind of similar, like, do you like the Looney Tunes?
+
+1012
+00:37:23,420 --> 00:37:26,820
+It seems like you all hate the Looney Tunes.
+
+1013
+00:37:28,420 --> 00:37:31,100
+I don't know that you got what was fun about the Looney Tunes.
+
+1014
+00:37:31,100 --> 00:37:34,500
+I don't know that you got what was fun about Space Jam 1.
+
+1015
+00:37:34,500 --> 00:37:36,340
+Like. 1000%, yes, yeah.
+
+1016
+00:37:36,340 --> 00:37:38,900
+I, God, we just wanna make,
+
+1017
+00:37:38,900 --> 00:37:41,780
+LeBron has a lot of contractual obligations
+
+1018
+00:37:41,780 --> 00:37:43,820
+to advertise different products.
+
+1019
+00:37:43,820 --> 00:37:45,820
+And we are trying to launch a streaming service
+
+1020
+00:37:45,820 --> 00:37:49,060
+that we will completely pull back a year and a half later.
+
+1021
+00:37:49,060 --> 00:37:52,900
+So if they would just let us do these tasks
+
+1022
+00:37:52,900 --> 00:37:56,580
+and not make us have a coyote and a road runner
+
+1023
+00:37:56,580 --> 00:37:59,700
+and all this shit, we could, you know,
+
+1024
+00:37:59,700 --> 00:38:01,140
+we could make a fine piece of content.
+
+1025
+00:38:01,140 --> 00:38:04,180
+Can't this be about LeBron and the characters
+
+1026
+00:38:04,180 --> 00:38:05,780
+from A Clockwork Orange?
+
+1027
+00:38:05,780 --> 00:38:06,620
+Can't we?
+
+1028
+00:38:06,620 --> 00:38:07,460
+Yeah.
+
+1029
+00:38:07,460 --> 00:38:09,260
+Can we showcase our other IPs?
+
+1030
+00:38:09,260 --> 00:38:11,260
+A basketball player in a digital world
+
+1031
+00:38:11,260 --> 00:38:12,780
+while the, what are they called?
+
+1032
+00:38:12,780 --> 00:38:14,140
+The Druigs or the.
+
+1033
+00:38:14,140 --> 00:38:14,980
+Oh, I don't remember.
+
+1034
+00:38:14,980 --> 00:38:15,820
+What's that term?
+
+1035
+00:38:15,820 --> 00:38:16,660
+I'm gonna get that right.
+
+1036
+00:38:16,660 --> 00:38:18,180
+Oh, yeah, yeah, yeah.
+
+1037
+00:38:18,180 --> 00:38:20,340
+Well, you know, while the Clockwork Orange guys
+
+1038
+00:38:20,340 --> 00:38:23,660
+clap silently, while this group of rapists
+
+1039
+00:38:23,660 --> 00:38:25,700
+all cheer the basketball game,
+
+1040
+00:38:25,700 --> 00:38:28,980
+and then while the Danny DeVito penguin,
+
+1041
+00:38:28,980 --> 00:38:30,620
+not played by Danny DeVito.
+
+1042
+00:38:30,620 --> 00:38:31,900
+And the Burgess Meredith penguin,
+
+1043
+00:38:31,900 --> 00:38:32,740
+not played by Burgess Meredith.
+
+1044
+00:38:32,740 --> 00:38:34,980
+And the different penguin.
+
+1045
+00:38:34,980 --> 00:38:35,980
+Multiple penguins.
+
+1046
+00:38:36,140 --> 00:38:38,420
+What we need to do is enter the Penguivers,
+
+1047
+00:38:38,420 --> 00:38:41,820
+but then have neither member of the Penguivers do anything.
+
+1048
+00:38:41,820 --> 00:38:42,660
+Right.
+
+1049
+00:38:42,660 --> 00:38:45,140
+They need to clap at basketball.
+
+1050
+00:38:45,140 --> 00:38:45,980
+Yeah.
+
+1051
+00:38:45,980 --> 00:38:47,100
+That is, boy, you know what?
+
+1052
+00:38:47,100 --> 00:38:50,660
+It remains a film I'm much angrier at than The Monsters.
+
+1053
+00:38:50,660 --> 00:38:53,580
+The Monsters was just deflating and frustrating.
+
+1054
+00:38:53,580 --> 00:38:54,420
+Yes, I agree.
+
+1055
+00:38:54,420 --> 00:38:57,420
+But boy, that was a space sham.
+
+1056
+00:38:57,420 --> 00:38:58,420
+That was pretty bad.
+
+1057
+00:38:58,420 --> 00:39:01,180
+But imagine this, like, I know, I've got the title.
+
+1058
+00:39:01,180 --> 00:39:02,220
+I've got it.
+
+1059
+00:39:02,220 --> 00:39:04,060
+A new legacy.
+
+1060
+00:39:04,060 --> 00:39:07,340
+Can you imagine if a sequel to something
+
+1061
+00:39:07,340 --> 00:39:09,820
+that came back years later had the word legacy in it?
+
+1062
+00:39:09,820 --> 00:39:11,820
+Has anything ever done that before?
+
+1063
+00:39:11,820 --> 00:39:13,140
+Intern checks, yes.
+
+1064
+00:39:14,020 --> 00:39:15,980
+49 films.
+
+1065
+00:39:15,980 --> 00:39:17,340
+Shut up, shut the fuck up.
+
+1066
+00:39:17,340 --> 00:39:19,100
+A new legacy.
+
+1067
+00:39:19,100 --> 00:39:22,500
+The most inventive title there could ever be.
+
+1068
+00:39:22,500 --> 00:39:23,340
+Yeah.
+
+1069
+00:39:23,340 --> 00:39:25,460
+Look, to get a movie made, you have to convince
+
+1070
+00:39:25,460 --> 00:39:29,820
+some of the dumbest people alive, executives, to make it.
+
+1071
+00:39:29,820 --> 00:39:32,740
+And then, unfortunately, a little of their panache
+
+1072
+00:39:32,740 --> 00:39:36,180
+makes it into a lot of modern movies.
+
+1073
+00:39:36,180 --> 00:39:37,180
+That is true, yeah.
+
+1074
+00:39:37,180 --> 00:39:38,300
+Which is why, get rid of that.
+
+1075
+00:39:38,300 --> 00:39:40,780
+What we need is Kathy Kennedy and her rules.
+
+1076
+00:39:40,780 --> 00:39:43,380
+This is what makes films great.
+
+1077
+00:39:43,380 --> 00:39:45,220
+Well, OK, you mentioned that.
+
+1078
+00:39:45,220 --> 00:39:46,980
+This is a thing that irked me.
+
+1079
+00:39:46,980 --> 00:39:51,980
+The creation of Herman Munster, the naming of Herman Munster,
+
+1080
+00:39:51,980 --> 00:39:55,540
+is the same as a Han Solo.
+
+1081
+00:39:55,540 --> 00:40:00,660
+Oh, Han, you're alone, Solo, like Herman.
+
+1082
+00:40:00,660 --> 00:40:02,500
+Which now we know was not.
+
+1083
+00:40:02,500 --> 00:40:05,980
+Maybe not an idea from Eiger, but an idea encouraged by Eiger.
+
+1084
+00:40:05,980 --> 00:40:06,980
+He loved it, yeah.
+
+1085
+00:40:06,980 --> 00:40:08,420
+That's why he wanted to make it.
+
+1086
+00:40:08,420 --> 00:40:09,980
+Yes, yes, yes.
+
+1087
+00:40:09,980 --> 00:40:11,740
+No one will snark about that.
+
+1088
+00:40:11,740 --> 00:40:12,460
+Yes, yes.
+
+1089
+00:40:12,460 --> 00:40:14,260
+We're talking about the man who titled his book
+
+1090
+00:40:14,260 --> 00:40:16,980
+The Ride of a Lifetime while he was the head of a company
+
+1091
+00:40:16,980 --> 00:40:20,740
+that actively does not call their attractions rides.
+
+1092
+00:40:20,740 --> 00:40:22,420
+That is true.
+
+1093
+00:40:22,420 --> 00:40:23,020
+So, yes.
+
+1094
+00:40:23,020 --> 00:40:24,180
+What a fuck up.
+
+1095
+00:40:24,180 --> 00:40:27,980
+Well, OK, can we also say that the origin of Herman Munster,
+
+1096
+00:40:27,980 --> 00:40:29,980
+can someone remind me that there's
+
+1097
+00:40:29,980 --> 00:40:35,140
+a mad scientist who's trying to make a very smart Frankenstein's
+
+1098
+00:40:35,140 --> 00:40:39,140
+monster and he puts like there's two twins that both die.
+
+1099
+00:40:39,140 --> 00:40:41,420
+One is smart and one is a standup comedian.
+
+1100
+00:40:41,420 --> 00:40:41,780
+Yeah.
+
+1101
+00:40:41,780 --> 00:40:45,060
+And he puts the he accidentally puts the standup comedian's brain
+
+1102
+00:40:45,060 --> 00:40:48,860
+inside the Frankenstein's monster and not the smart guy's brain.
+
+1103
+00:40:48,860 --> 00:40:49,780
+Am I right about that?
+
+1104
+00:40:49,780 --> 00:40:50,460
+That is correct.
+
+1105
+00:40:50,460 --> 00:40:53,180
+OK, this is 20 minutes of the movie.
+
+1106
+00:40:53,180 --> 00:40:53,500
+Yeah.
+
+1107
+00:40:53,500 --> 00:40:54,020
+Or more.
+
+1108
+00:40:54,020 --> 00:40:59,780
+That might be the 30 minutes of this other character making Herman.
+
+1109
+00:40:59,780 --> 00:41:01,060
+The Herman slowdown.
+
+1110
+00:41:01,060 --> 00:41:01,860
+Yeah.
+
+1111
+00:41:01,860 --> 00:41:04,620
+And I should be where things really kick into gear.
+
+1112
+00:41:04,620 --> 00:41:06,060
+Yes.
+
+1113
+00:41:06,060 --> 00:41:11,140
+So there's a whole origin there leading up to the naming of Herman,
+
+1114
+00:41:11,140 --> 00:41:13,100
+which, yes, is very yes by her.
+
+1115
+00:41:13,100 --> 00:41:16,380
+What's the man's name who plays early or hey, or hey, Gershian?
+
+1116
+00:41:16,380 --> 00:41:17,180
+Yeah.
+
+1117
+00:41:17,180 --> 00:41:17,780
+And he's good.
+
+1118
+00:41:17,780 --> 00:41:19,220
+He's I liked him.
+
+1119
+00:41:19,220 --> 00:41:20,820
+Yeah.
+
+1120
+00:41:20,820 --> 00:41:23,340
+So, yes, there's a lot of that.
+
+1121
+00:41:23,340 --> 00:41:23,860
+Yeah.
+
+1122
+00:41:23,860 --> 00:41:28,740
+A quarter of the movie is this while Lily is going on dates
+
+1123
+00:41:28,780 --> 00:41:30,780
+and trying to find a husband.
+
+1124
+00:41:30,780 --> 00:41:36,980
+The whole thing is like a little thought exercise of like if we if this movie
+
+1125
+00:41:36,980 --> 00:41:42,380
+existed exactly as is and with the same look and maybe for my thought exercise,
+
+1126
+00:41:42,380 --> 00:41:45,500
+you have to change the characters names, but otherwise it's the same length
+
+1127
+00:41:45,740 --> 00:41:48,380
+and the same actors and the same director.
+
+1128
+00:41:48,700 --> 00:41:52,260
+But the movie was called like the monster Ellie's.
+
+1129
+00:41:52,540 --> 00:41:56,700
+This is an original film about a monster family and how a monster
+
+1130
+00:41:56,860 --> 00:41:58,580
+husband and wife got together.
+
+1131
+00:41:58,580 --> 00:42:00,260
+But they're the count.
+
+1132
+00:42:00,260 --> 00:42:05,100
+The father in law was a little upset, but also three other things are happening.
+
+1133
+00:42:06,900 --> 00:42:07,580
+Like what?
+
+1134
+00:42:07,580 --> 00:42:09,980
+This is no way we would be here.
+
+1135
+00:42:09,980 --> 00:42:11,620
+We would not be talking about it.
+
+1136
+00:42:11,620 --> 00:42:13,140
+No, no one would be.
+
+1137
+00:42:13,140 --> 00:42:14,860
+No one would have told us to watch it.
+
+1138
+00:42:14,860 --> 00:42:17,460
+I don't think we would have done it if Robuck wasn't in this.
+
+1139
+00:42:17,860 --> 00:42:20,220
+Yeah, I don't think we necessarily owe this to the audience
+
+1140
+00:42:20,220 --> 00:42:21,980
+unless Robuck is in it and he is.
+
+1141
+00:42:21,980 --> 00:42:23,260
+Well, let's talk Robuck.
+
+1142
+00:42:23,260 --> 00:42:24,380
+What do we what do we think?
+
+1143
+00:42:24,380 --> 00:42:27,700
+Does he does he explode off the screen the same way he does
+
+1144
+00:42:27,700 --> 00:42:30,660
+when he shatters his photo with Helen Kushnick?
+
+1145
+00:42:31,860 --> 00:42:32,780
+You are a ragged.
+
+1146
+00:42:32,780 --> 00:42:33,940
+You're right.
+
+1147
+00:42:33,940 --> 00:42:37,180
+I think Rogan, I can't I have to quote it.
+
+1148
+00:42:37,260 --> 00:42:42,940
+I said the thing about Grandpa earlier because I think it it's it's hamster.
+
+1149
+00:42:42,940 --> 00:42:44,340
+It gets him stuck.
+
+1150
+00:42:44,340 --> 00:42:50,060
+I think he is not able to embody the Al Lewis character
+
+1151
+00:42:50,740 --> 00:42:53,740
+because he's stuck kind of really being upset the whole movie.
+
+1152
+00:42:54,140 --> 00:42:55,700
+And he's I don't know if that's his choice.
+
+1153
+00:42:55,700 --> 00:42:56,900
+It feels like it's the script.
+
+1154
+00:42:56,900 --> 00:43:00,660
+The script is like you hate Herman the whole time.
+
+1155
+00:43:01,060 --> 00:43:01,900
+And he's sort of stuck.
+
+1156
+00:43:01,900 --> 00:43:05,700
+He gets to do a little antics when he like mixes up a potion,
+
+1157
+00:43:06,180 --> 00:43:09,740
+which is a very another common thing on the monsters is Grandpa
+
+1158
+00:43:09,740 --> 00:43:12,020
+turning things into things accidentally.
+
+1159
+00:43:12,620 --> 00:43:15,060
+He gets things like turns himself into a wolf man.
+
+1160
+00:43:15,580 --> 00:43:18,820
+I think he turns somebody else into a wolf,
+
+1161
+00:43:19,180 --> 00:43:21,780
+like a wolf man in monster go home.
+
+1162
+00:43:21,780 --> 00:43:25,300
+Maybe like it's a lot of money to there's an army base
+
+1163
+00:43:25,300 --> 00:43:28,140
+and he turns all the soldiers in a wolf man.
+
+1164
+00:43:28,140 --> 00:43:30,380
+Yeah. So I don't know.
+
+1165
+00:43:30,380 --> 00:43:34,860
+I think he does a good job, but I don't think he has a lot to work with
+
+1166
+00:43:35,700 --> 00:43:37,860
+when it comes to the dialogue.
+
+1167
+00:43:37,860 --> 00:43:39,980
+Mm hmm. He's got that.
+
+1168
+00:43:39,980 --> 00:43:41,660
+He's like you.
+
+1169
+00:43:41,660 --> 00:43:44,140
+You sense that he is a guy who likes
+
+1170
+00:43:45,340 --> 00:43:47,420
+old old stuff and old hokey.
+
+1171
+00:43:47,420 --> 00:43:51,740
+And you could tell he's got a joy for the it's good casting.
+
+1172
+00:43:52,340 --> 00:43:56,180
+Yeah, I would say, but there's not not a lot to to work with.
+
+1173
+00:43:56,420 --> 00:44:01,260
+There's a yeah, like the Al Lewis is the great performance of Al Lewis.
+
+1174
+00:44:01,420 --> 00:44:03,660
+One of the performances of our time.
+
+1175
+00:44:03,660 --> 00:44:05,300
+He's got this twinkle in his eye.
+
+1176
+00:44:05,300 --> 00:44:09,580
+It's fun to see him. He gets schemes to it's fun to watch him and Herman
+
+1177
+00:44:09,860 --> 00:44:11,700
+like do stupid shit.
+
+1178
+00:44:11,700 --> 00:44:15,060
+I don't know. There's just there's something like it's just like a grandpa was upset.
+
+1179
+00:44:15,060 --> 00:44:17,100
+Like I think it was a character.
+
+1180
+00:44:17,100 --> 00:44:19,180
+I mean, he was a character and he was a huckster.
+
+1181
+00:44:19,740 --> 00:44:24,140
+And like he just started living the gimmick later in his life.
+
+1182
+00:44:24,140 --> 00:44:26,220
+He just never stopped being grandpa.
+
+1183
+00:44:26,220 --> 00:44:28,940
+Al Lewis was. Yeah, Al Lewis is a lunatic.
+
+1184
+00:44:29,380 --> 00:44:31,260
+Yeah, vaudeville lunatic.
+
+1185
+00:44:31,260 --> 00:44:34,980
+Yeah, who had developed a crazy persona on stage
+
+1186
+00:44:35,420 --> 00:44:40,660
+and was a very funny natural performer and just put makeup on him.
+
+1187
+00:44:41,020 --> 00:44:42,740
+And he was fun to watch.
+
+1188
+00:44:42,740 --> 00:44:44,900
+He was very fun to watch in that role.
+
+1189
+00:44:44,900 --> 00:44:48,660
+You know how there's that there's the thing of that I'm sure we've stepped into
+
+1190
+00:44:48,660 --> 00:44:51,740
+and a lot of people, there's audience members who get upset,
+
+1191
+00:44:52,420 --> 00:44:54,940
+who may who maybe liked the new Star Wars movies
+
+1192
+00:44:55,140 --> 00:44:58,500
+and they get upset when podcasters snark on the new Star Wars movies.
+
+1193
+00:44:58,780 --> 00:45:01,980
+And I'm just flushing charm to life that
+
+1194
+00:45:03,300 --> 00:45:07,020
+if if that syndrome happened for the if there's people listening
+
+1195
+00:45:07,020 --> 00:45:11,220
+who are like, yeah, Al Lewis was your grandpa.
+
+1196
+00:45:11,260 --> 00:45:14,100
+OK, but maybe it's time to pass the torch to a net.
+
+1197
+00:45:14,100 --> 00:45:17,260
+Maybe there's these kids out there who love Daniel Roebuck.
+
+1198
+00:45:17,260 --> 00:45:21,140
+And that's their the count is their grandpa.
+
+1199
+00:45:21,220 --> 00:45:23,260
+And Al Lewis, he's gone.
+
+1200
+00:45:23,260 --> 00:45:25,060
+OK, he can't be in them anymore.
+
+1201
+00:45:25,060 --> 00:45:28,460
+And his restaurant owned by the mob or something
+
+1202
+00:45:28,660 --> 00:45:31,260
+where he sat and read a newspaper in the front of the lobby.
+
+1203
+00:45:31,380 --> 00:45:33,860
+It's closed. OK, get over it.
+
+1204
+00:45:33,860 --> 00:45:35,500
+You're an adult.
+
+1205
+00:45:35,500 --> 00:45:39,140
+I'm sorry, Grandpa can't be like you remembered him when you were a kid.
+
+1206
+00:45:39,340 --> 00:45:42,140
+This is telling a different story with the character of Grandpa.
+
+1207
+00:45:42,140 --> 00:45:45,740
+Some of us grew up with Jerry O'Connell. OK.
+
+1208
+00:45:47,540 --> 00:45:51,180
+Some of us grew up with Edward Herman playing Herman.
+
+1209
+00:45:51,740 --> 00:45:53,500
+Oh, wow. Which is in the 90s.
+
+1210
+00:45:53,500 --> 00:45:54,580
+Yes. Gilmore. Yeah.
+
+1211
+00:45:54,580 --> 00:45:59,940
+Yes. You know, there's little girls out there who they're growing up now.
+
+1212
+00:46:00,100 --> 00:46:03,820
+And to them, their Maryland is no Maryland.
+
+1213
+00:46:04,860 --> 00:46:10,340
+That they love that my daughter is going to be a vacant void for Halloween.
+
+1214
+00:46:10,420 --> 00:46:13,260
+But then there was also well, I guess I could say there's going to be people
+
+1215
+00:46:13,260 --> 00:46:15,500
+that were talking about the pilot of the monsters,
+
+1216
+00:46:15,500 --> 00:46:17,860
+but they probably did not see that until years later.
+
+1217
+00:46:18,140 --> 00:46:20,180
+Oh, no, it aired. It probably aired.
+
+1218
+00:46:20,180 --> 00:46:22,500
+Which one do you mean? You mean the one with Happy Dermen
+
+1219
+00:46:22,500 --> 00:46:25,260
+instead of Butch Patrick is what I'm talking about.
+
+1220
+00:46:25,340 --> 00:46:29,300
+You waved your arms wildly to tell me Happy Dermen.
+
+1221
+00:46:29,300 --> 00:46:30,980
+Mary Happy Dermen.
+
+1222
+00:46:30,980 --> 00:46:35,620
+Maryland also changed actors to what's a Darren situation.
+
+1223
+00:46:35,620 --> 00:46:37,180
+Yes, that's true.
+
+1224
+00:46:37,180 --> 00:46:39,540
+Well, that was these names are all nonsense.
+
+1225
+00:46:39,860 --> 00:46:43,380
+Cloppy Glonk Glonk was chirpy chick check.
+
+1226
+00:46:45,660 --> 00:46:50,020
+Happy Dermen was my Eddie Munster when it was a darker show.
+
+1227
+00:46:50,300 --> 00:46:54,540
+That was aggravating to me that Eddie and Marilyn were not in it.
+
+1228
+00:46:54,540 --> 00:46:58,580
+How did the movie also not end with Herman? I'm pregnant. Yeah. Yeah.
+
+1229
+00:46:59,060 --> 00:47:01,860
+All these obvious things you would think that they're pregnant.
+
+1230
+00:47:01,860 --> 00:47:06,180
+Tummy's going like, oh, it's like monster sounds. Yeah.
+
+1231
+00:47:06,180 --> 00:47:11,500
+Yeah. Also, for a guy who made a music video about the Dragula,
+
+1232
+00:47:11,500 --> 00:47:14,060
+but starring the Munsters coach, no crazy car.
+
+1233
+00:47:14,620 --> 00:47:16,300
+Right. That is also why you're right.
+
+1234
+00:47:16,300 --> 00:47:17,740
+You're 100 percent correct.
+
+1235
+00:47:17,740 --> 00:47:21,460
+How was there not a Dragula fan?
+
+1236
+00:47:21,460 --> 00:47:25,580
+I think he's I think he got very optimistic that this is one of many
+
+1237
+00:47:25,580 --> 00:47:27,940
+monsters that he's still going to do.
+
+1238
+00:47:27,940 --> 00:47:28,660
+And maybe he's right.
+
+1239
+00:47:28,660 --> 00:47:32,140
+Maybe it was such a big hit on Netflix and the budget was so low
+
+1240
+00:47:32,420 --> 00:47:34,300
+that we are in for more.
+
+1241
+00:47:34,300 --> 00:47:35,460
+It could be.
+
+1242
+00:47:35,460 --> 00:47:39,420
+Let me take this conversation in this direction, which is
+
+1243
+00:47:40,180 --> 00:47:42,380
+one thing we haven't discussed in terms of behind the scenes,
+
+1244
+00:47:42,380 --> 00:47:44,780
+how it came together, which is the company.
+
+1245
+00:47:44,780 --> 00:47:47,060
+This is made by Universal.
+
+1246
+00:47:47,060 --> 00:47:50,820
+Yes, but more specifically, Universal 1440.
+
+1247
+00:47:51,060 --> 00:47:52,220
+Yeah, something that was pointed out.
+
+1248
+00:47:52,220 --> 00:47:54,580
+Our friend Van Roveshow pointed this out when people were kind of dunking
+
+1249
+00:47:54,580 --> 00:47:57,780
+on the trailer. He was a little like, OK, but remember,
+
+1250
+00:47:58,100 --> 00:48:02,340
+maybe what you might not realize is this is made by this low budget
+
+1251
+00:48:02,620 --> 00:48:04,220
+crank amount division.
+
+1252
+00:48:04,220 --> 00:48:08,860
+So if you're commenting on this looks so cheap, like they just cranked it out.
+
+1253
+00:48:09,100 --> 00:48:11,860
+That is probably what happened because that is the mission
+
+1254
+00:48:11,860 --> 00:48:13,780
+of the company. Right.
+
+1255
+00:48:13,780 --> 00:48:17,740
+And what I bring this up now to say that
+
+1256
+00:48:18,740 --> 00:48:22,580
+being a weird sheep disaster does not necessarily mean they won't make more
+
+1257
+00:48:22,740 --> 00:48:25,500
+because it's the entire that they say.
+
+1258
+00:48:26,340 --> 00:48:29,260
+They make a lot of sequels to movies that aren't where you don't even like
+
+1259
+00:48:29,260 --> 00:48:30,980
+the first movie.
+
+1260
+00:48:30,980 --> 00:48:32,500
+Let me go through there.
+
+1261
+00:48:32,500 --> 00:48:35,300
+The proud filmography of Universal 1440.
+
+1262
+00:48:36,780 --> 00:48:39,540
+They're the ones who made that weird Woody Woodpecker
+
+1263
+00:48:39,860 --> 00:48:43,660
+that they like shady Woody Woodpecker movie in 2017.
+
+1264
+00:48:43,700 --> 00:48:46,020
+OK, why is there this now?
+
+1265
+00:48:46,020 --> 00:48:49,420
+But mostly it's sequels from their kindergarten cop to with Dolph Lundgren.
+
+1266
+00:48:49,420 --> 00:48:53,860
+Right, right. I believe I've watched the they got the ownership of the
+
+1267
+00:48:53,860 --> 00:48:58,100
+the long, long storied Land Before Time franchise.
+
+1268
+00:48:58,100 --> 00:48:58,980
+Yeah, yeah.
+
+1269
+00:48:58,980 --> 00:49:02,580
+They did the most recent with Land Before Time 14.
+
+1270
+00:49:02,580 --> 00:49:04,380
+Journey of the Brave.
+
+1271
+00:49:04,380 --> 00:49:08,700
+We're now in X1V where then that they're probably cursing
+
+1272
+00:49:08,700 --> 00:49:11,620
+that they chose Roman numerals when they started doing these.
+
+1273
+00:49:11,620 --> 00:49:14,740
+Is it the same is it the same dinas as Little Foot, still the star
+
+1274
+00:49:14,740 --> 00:49:16,380
+of the Land Before Time 14?
+
+1275
+00:49:16,380 --> 00:49:19,380
+I think so, because they just get new kids every time.
+
+1276
+00:49:19,380 --> 00:49:20,860
+It's like, right. Right.
+
+1277
+00:49:20,860 --> 00:49:21,700
+Wait, what's the kid?
+
+1278
+00:49:21,700 --> 00:49:26,540
+Oh, well, like the the peanuts, I say, as Jason is dressed exactly like Linus.
+
+1279
+00:49:26,540 --> 00:49:29,620
+Yeah, we should discuss that.
+
+1280
+00:49:29,620 --> 00:49:32,860
+I think, yeah, I think we're still a little so it's just like, all right.
+
+1281
+00:49:32,860 --> 00:49:38,300
+We just need to find a new five year old, pay their pay him six hundred dollars
+
+1282
+00:49:38,700 --> 00:49:39,860
+maybe. Yeah, look at it.
+
+1283
+00:49:39,860 --> 00:49:41,700
+Yeah. Little Foot, Chomper.
+
+1284
+00:49:41,700 --> 00:49:44,900
+All my friends are still are still having adventures.
+
+1285
+00:49:44,900 --> 00:49:46,900
+We're the first movie I saw in a theater.
+
+1286
+00:49:46,900 --> 00:49:50,300
+Yeah. To and there's some of course, Petri Stor.
+
+1287
+00:49:51,180 --> 00:49:55,180
+So they're forever children, but we know death is inevitable for them
+
+1288
+00:49:55,180 --> 00:49:57,340
+due to the extinction and level events.
+
+1289
+00:49:58,020 --> 00:50:00,140
+Yes. Yeah. But we get a lot of time with them.
+
+1290
+00:50:00,140 --> 00:50:01,980
+Wow. Rob Paulson still in the mix.
+
+1291
+00:50:01,980 --> 00:50:04,020
+Hey, OK. Reba in the mix.
+
+1292
+00:50:04,300 --> 00:50:06,220
+Who? Reba Reba.
+
+1293
+00:50:06,220 --> 00:50:08,380
+McIntyre is a dinosaur.
+
+1294
+00:50:08,380 --> 00:50:11,500
+I don't know. She's at a Barry Bostwick is in it.
+
+1295
+00:50:12,380 --> 00:50:16,300
+Barry Bostwick is in like the majority of these.
+
+1296
+00:50:16,780 --> 00:50:19,580
+Barry Bostwick is the king of these straight to video.
+
+1297
+00:50:19,580 --> 00:50:21,180
+I'm surprised he's not the monster.
+
+1298
+00:50:21,180 --> 00:50:23,700
+I'm surprised he didn't play Herman.
+
+1299
+00:50:23,700 --> 00:50:26,860
+I don't know which of these exactly he's in, but I'm fairly confident
+
+1300
+00:50:26,860 --> 00:50:29,020
+he's in Granddaddy Daycare.
+
+1301
+00:50:29,020 --> 00:50:30,060
+Wow. Really?
+
+1302
+00:50:30,060 --> 00:50:32,940
+Daycare. And he is definitely
+
+1303
+00:50:34,620 --> 00:50:35,660
+don't quote me on that just in case.
+
+1304
+00:50:35,660 --> 00:50:39,620
+I'm pretty sure he's the Paul Giamatti equivalent in Bigger Fatter Liar.
+
+1305
+00:50:39,620 --> 00:50:41,980
+Is that? Wow. Really?
+
+1306
+00:50:41,980 --> 00:50:44,140
+Bigger. I did not know that one.
+
+1307
+00:50:44,580 --> 00:50:46,700
+I liked that. I liked Big Fat Liar.
+
+1308
+00:50:46,700 --> 00:50:49,620
+I have two notes, two areas.
+
+1309
+00:50:49,620 --> 00:50:50,900
+I would plus it up.
+
+1310
+00:50:52,420 --> 00:50:53,780
+The keynote. No, no, no. Liar.
+
+1311
+00:50:53,780 --> 00:50:55,060
+I like keep him a liar.
+
+1312
+00:50:55,060 --> 00:50:55,940
+Definitely keep him alive.
+
+1313
+00:50:55,940 --> 00:50:58,540
+Twenty seventeens, bigger fatter liar.
+
+1314
+00:50:59,620 --> 00:51:00,820
+And I believe you are.
+
+1315
+00:51:00,820 --> 00:51:02,940
+Yep. Barry Bostwick is Larry Wolf.
+
+1316
+00:51:02,940 --> 00:51:04,340
+If. Oh, that's right. He's a wolf.
+
+1317
+00:51:04,340 --> 00:51:07,340
+Wolf is the name of the guy and this must be his dad or his
+
+1318
+00:51:08,380 --> 00:51:09,380
+wow.
+
+1319
+00:51:10,740 --> 00:51:12,180
+I don't look. I don't want to.
+
+1320
+00:51:12,180 --> 00:51:13,260
+I don't mean to.
+
+1321
+00:51:13,260 --> 00:51:15,980
+Barry Bostwick is not fatter than Paul Giamatti.
+
+1322
+00:51:16,180 --> 00:51:17,660
+No, at least at the time.
+
+1323
+00:51:17,660 --> 00:51:19,540
+They're not saying it necessarily.
+
+1324
+00:51:19,540 --> 00:51:20,980
+They're using it in the line.
+
+1325
+00:51:20,980 --> 00:51:23,460
+The lying is what is fat lies.
+
+1326
+00:51:23,460 --> 00:51:24,820
+OK, got it. Yeah.
+
+1327
+00:51:24,820 --> 00:51:28,620
+Jarhead three, the siege three, whatever to
+
+1328
+00:51:29,100 --> 00:51:31,740
+Scorpion King five Book of Souls.
+
+1329
+00:51:31,740 --> 00:51:32,900
+Oh, I didn't know that one.
+
+1330
+00:51:32,900 --> 00:51:35,940
+Five. Who's the Scorpion King and Scorpion King five?
+
+1331
+00:51:36,380 --> 00:51:39,140
+I don't know, but Lou Ferrigno was starting to be in a
+
+1332
+00:51:40,300 --> 00:51:43,900
+who's there's a wrestler I'm not coming up with a way to know.
+
+1333
+00:51:43,900 --> 00:51:45,460
+Not really. Kimbo Slice.
+
+1334
+00:51:45,460 --> 00:51:47,380
+Oh, yeah.
+
+1335
+00:51:47,380 --> 00:51:49,420
+But I don't know if any of them are the Scorpion King.
+
+1336
+00:51:49,420 --> 00:51:51,220
+Scorpion King Book of Souls.
+
+1337
+00:51:51,220 --> 00:51:53,180
+I'm sorry. I pulled up the list.
+
+1338
+00:51:53,180 --> 00:51:55,940
+There's one on here that has no pun intended.
+
+1339
+00:51:55,940 --> 00:51:57,260
+Taken my breath away.
+
+1340
+00:51:57,260 --> 00:51:58,380
+Yes. Yeah, let's hear it.
+
+1341
+00:51:58,380 --> 00:52:01,060
+Hi. How high to.
+
+1342
+00:52:01,060 --> 00:52:02,660
+Oh, that's great.
+
+1343
+00:52:02,660 --> 00:52:05,340
+With it's like one kind of relevant rapper.
+
+1344
+00:52:05,340 --> 00:52:07,500
+Oh, Lil Yachty's in it. Yeah.
+
+1345
+00:52:07,500 --> 00:52:08,700
+All right. Uh huh.
+
+1346
+00:52:08,700 --> 00:52:09,460
+Oh, wow. Lou.
+
+1347
+00:52:09,460 --> 00:52:12,620
+Yeah, Lou Ferrigno is in Scorpion King four Quest for Power.
+
+1348
+00:52:13,740 --> 00:52:16,060
+Rudger Hauer also in there.
+
+1349
+00:52:16,060 --> 00:52:17,380
+One of his last roles, I believe.
+
+1350
+00:52:17,380 --> 00:52:19,100
+Wow. God. Yeah.
+
+1351
+00:52:19,100 --> 00:52:20,860
+He died in 2019. I.
+
+1352
+00:52:22,500 --> 00:52:25,060
+It's I don't know where to even start with that.
+
+1353
+00:52:25,060 --> 00:52:27,580
+Let me go in the weirdest from here.
+
+1354
+00:52:27,740 --> 00:52:30,180
+Bench warmers to breaking balls.
+
+1355
+00:52:31,380 --> 00:52:33,220
+Starring John Lovett.
+
+1356
+00:52:33,220 --> 00:52:35,220
+Wow. Really?
+
+1357
+00:52:35,220 --> 00:52:40,220
+That's that he's that he now is like the B team of Rob Schneider.
+
+1358
+00:52:42,100 --> 00:52:46,180
+Cop and a half new recruit with Lou Diamond.
+
+1359
+00:52:46,180 --> 00:52:48,340
+Wow. Cop and a half.
+
+1360
+00:52:48,340 --> 00:52:51,100
+There's probably listeners who do not know what cop and a half is.
+
+1361
+00:52:51,340 --> 00:52:53,340
+I do. I'm listening.
+
+1362
+00:52:53,340 --> 00:52:57,380
+They know, you know, it's Bert Reynolds teamed up with a precocious little kid.
+
+1363
+00:52:57,580 --> 00:53:01,420
+Directed by Henry Winkler, the source of the Joey Lawrence song.
+
+1364
+00:53:01,540 --> 00:53:04,460
+Nothing My Love Won't Fix Can't Fix, one of them.
+
+1365
+00:53:06,140 --> 00:53:10,020
+The this one cannot believe.
+
+1366
+00:53:10,020 --> 00:53:12,220
+And then this never came across any of our desks.
+
+1367
+00:53:12,220 --> 00:53:14,860
+All right, PD to really all right.
+
+1368
+00:53:14,860 --> 00:53:16,820
+PD got a sequel.
+
+1369
+00:53:16,820 --> 00:53:18,980
+Right, PD. No one like that for one.
+
+1370
+00:53:19,780 --> 00:53:23,660
+Wow. And then the funniest one, not the fight, but I like it.
+
+1371
+00:53:24,380 --> 00:53:26,980
+Dragonheart Battle for the Heartfire.
+
+1372
+00:53:26,980 --> 00:53:28,900
+The Heartfire. Yeah, heart fire.
+
+1373
+00:53:28,900 --> 00:53:30,660
+We got heart in the title twice.
+
+1374
+00:53:30,660 --> 00:53:33,500
+Dragonheart to how that's years after the first one.
+
+1375
+00:53:33,900 --> 00:53:38,420
+Oh, no, no, no, it's not to it's for that's another.
+
+1376
+00:53:38,420 --> 00:53:39,540
+Where the other ones go.
+
+1377
+00:53:39,540 --> 00:53:42,940
+Dragonheart 2 is Dragonheart, a new beginning from 2000.
+
+1378
+00:53:42,980 --> 00:53:44,100
+That was old. Yeah.
+
+1379
+00:53:44,100 --> 00:53:45,620
+Yeah, that one they jumped on.
+
+1380
+00:53:45,620 --> 00:53:49,380
+But then they were like, when are we going to make some sequels to Dragonheart 2?
+
+1381
+00:53:49,420 --> 00:53:51,500
+Dragonheart 3, the sorcerer's curse.
+
+1382
+00:53:52,420 --> 00:53:54,420
+No, I'm going to sorcerer would do.
+
+1383
+00:53:54,420 --> 00:53:55,900
+That was more. That was 2015.
+
+1384
+00:53:55,900 --> 00:53:58,180
+So that's a 15 year break between Dragonhearts.
+
+1385
+00:53:58,700 --> 00:54:03,860
+I think at some point it stopped being Drago, the Sean Connery dragon,
+
+1386
+00:54:04,140 --> 00:54:07,420
+though I'm not totally sure. I don't.
+
+1387
+00:54:07,420 --> 00:54:10,220
+I'm not sure the dragon voice has shifted.
+
+1388
+00:54:10,340 --> 00:54:12,660
+But the most recent one is Patrick Stewart.
+
+1389
+00:54:13,060 --> 00:54:16,300
+Patrick Stewart is doing these straight to video, which I know, you know,
+
+1390
+00:54:16,300 --> 00:54:18,420
+he probably doesn't have to go for room. Yeah.
+
+1391
+00:54:18,420 --> 00:54:21,380
+I'm sorry. Did you already mention Inside Man?
+
+1392
+00:54:21,540 --> 00:54:24,300
+Call it Inside Man, call in most want it.
+
+1393
+00:54:24,380 --> 00:54:27,100
+The sequel to Spike Lee's Inside Man.
+
+1394
+00:54:27,340 --> 00:54:29,180
+What? Weird.
+
+1395
+00:54:29,860 --> 00:54:31,420
+Like some of them are good.
+
+1396
+00:54:31,420 --> 00:54:33,620
+And so like, that's a quietly good little move.
+
+1397
+00:54:33,620 --> 00:54:34,620
+Like, yes. Yeah.
+
+1398
+00:54:34,620 --> 00:54:36,140
+Some of them are like notorious.
+
+1399
+00:54:36,140 --> 00:54:40,060
+Does that like RIPD for sure was a heema.
+
+1400
+00:54:40,100 --> 00:54:43,500
+I mean, I don't know what the people who make some of these movies,
+
+1401
+00:54:43,500 --> 00:54:46,580
+everyone probably has a different philosophy about making a sequel
+
+1402
+00:54:46,580 --> 00:54:49,020
+to a cop and a half, a cop and a half, for instance.
+
+1403
+00:54:49,460 --> 00:54:52,180
+But I assume Rob was using this as a way.
+
+1404
+00:54:52,180 --> 00:54:53,980
+OK, I can do a low budget and I can.
+
+1405
+00:54:53,980 --> 00:54:55,860
+Because that's his dream to do this.
+
+1406
+00:54:55,860 --> 00:54:58,300
+But this must have been the only way Universal was like,
+
+1407
+00:54:58,300 --> 00:55:01,220
+we'll give you money to do this, as if we give you very little money.
+
+1408
+00:55:01,500 --> 00:55:02,460
+I think so. Yeah.
+
+1409
+00:55:02,460 --> 00:55:05,420
+This might be the this might be the only way they're going to make Bros 2.
+
+1410
+00:55:05,820 --> 00:55:08,420
+I think you're sure. Sure.
+
+1411
+00:55:08,420 --> 00:55:10,620
+Let's do a new beginning. Right.
+
+1412
+00:55:11,420 --> 00:55:14,460
+And it'll be to Bros 3 battle for the heart fire.
+
+1413
+00:55:14,460 --> 00:55:16,860
+You get two hundred and fifty thousand to make it.
+
+1414
+00:55:16,860 --> 00:55:18,220
+Two hundred fifty K.
+
+1415
+00:55:19,900 --> 00:55:23,820
+Yeah. So Rob must have been like sort of covertly look like he was like,
+
+1416
+00:55:23,820 --> 00:55:26,380
+we got to figure out a way to get me Munsters. Yeah.
+
+1417
+00:55:26,860 --> 00:55:29,980
+Because this must I guess the studio doesn't see it as a high priority
+
+1418
+00:55:29,980 --> 00:55:33,260
+to make Munsters or they had maybe they needed somebody with they had more faith
+
+1419
+00:55:33,260 --> 00:55:37,940
+because I think Rob has a very hardcore audience, smallish audience.
+
+1420
+00:55:38,460 --> 00:55:40,060
+So it seems like it should.
+
+1421
+00:55:40,060 --> 00:55:42,940
+I don't know. Maybe just lined up this way kind of in like
+
+1422
+00:55:43,740 --> 00:55:48,300
+stream averse post covid like let's let's align this with this
+
+1423
+00:55:48,820 --> 00:55:51,580
+end of the company and it makes more sense like this.
+
+1424
+00:55:51,740 --> 00:55:55,660
+I don't think there's a way Rob Zombie's Munsters goes into theaters in this year.
+
+1425
+00:55:56,180 --> 00:55:58,820
+Like maybe yeah, maybe 10 years ago. Right.
+
+1426
+00:55:58,900 --> 00:56:01,740
+But I think the economics are to maybe they're like,
+
+1427
+00:56:01,740 --> 00:56:05,900
+maybe we can build a weird little culty thing on video and maybe they are.
+
+1428
+00:56:05,940 --> 00:56:08,020
+Are they not all the reviews? Yeah.
+
+1429
+00:56:08,020 --> 00:56:12,340
+And I could totally that was my big takeaway is like this. I could.
+
+1430
+00:56:13,340 --> 00:56:17,700
+You know, I had a lot more specific stuff to shit on with
+
+1431
+00:56:18,220 --> 00:56:20,420
+Pinocchio was the Mecha's Pinocchio. Yeah.
+
+1432
+00:56:20,500 --> 00:56:25,860
+We talked about that on Blink Check and that feels like such a failure
+
+1433
+00:56:25,860 --> 00:56:28,060
+in what it's trying to be.
+
+1434
+00:56:28,060 --> 00:56:30,300
+And this is a failure to the Munsters.
+
+1435
+00:56:30,300 --> 00:56:34,980
+But in terms of being like a kooky, low fight, the horror comedy,
+
+1436
+00:56:35,260 --> 00:56:36,900
+I think it does get that.
+
+1437
+00:56:36,900 --> 00:56:39,140
+I just have no interest in that.
+
+1438
+00:56:39,140 --> 00:56:41,420
+I don't want to see that.
+
+1439
+00:56:41,420 --> 00:56:44,500
+Like I think it succeeds in being the weird merc
+
+1440
+00:56:45,340 --> 00:56:47,460
+that it is. Does that make any sense? Yeah.
+
+1441
+00:56:47,460 --> 00:56:49,300
+But it's not it's not.
+
+1442
+00:56:49,300 --> 00:56:51,180
+I wouldn't call it like campy.
+
+1443
+00:56:52,780 --> 00:56:55,460
+Well, it is. I mean, it is trying to be campy.
+
+1444
+00:56:55,660 --> 00:56:57,780
+It's trying to be campy. Yeah.
+
+1445
+00:56:57,780 --> 00:56:59,460
+But it's I don't think it's.
+
+1446
+00:56:59,460 --> 00:57:00,260
+Well, it's not.
+
+1447
+00:57:00,260 --> 00:57:05,020
+I mean, Pinocchio, Pinoc, Disney, Pinocchio is is, you know,
+
+1448
+00:57:05,020 --> 00:57:09,260
+a concerted effort by a corporation to
+
+1449
+00:57:09,700 --> 00:57:12,660
+resell you nostalgia.
+
+1450
+00:57:13,220 --> 00:57:16,500
+And this you can I do feel like there's like he
+
+1451
+00:57:17,260 --> 00:57:19,180
+I know that Rob loves this.
+
+1452
+00:57:19,180 --> 00:57:21,140
+I bet there wasn't a ton of studio interference.
+
+1453
+00:57:21,260 --> 00:57:24,180
+I think he probably got close to making the movie he wanted to make.
+
+1454
+00:57:24,420 --> 00:57:27,740
+It doesn't feel so cynical or anything.
+
+1455
+00:57:27,740 --> 00:57:29,740
+Pinocchio feels a bit cynical.
+
+1456
+00:57:29,740 --> 00:57:32,500
+I think you might say stream and all of these.
+
+1457
+00:57:32,540 --> 00:57:35,980
+The moment in the most cynical film, the reamed all the Disney remakes
+
+1458
+00:57:35,980 --> 00:57:38,820
+are cynical in a lot of ways where I've said, I think I said on Blank Check,
+
+1459
+00:57:38,820 --> 00:57:40,940
+or it's just these are these are savings bond.
+
+1460
+00:57:40,940 --> 00:57:46,340
+These are just a corporation knowing that their bottom line will be padded.
+
+1461
+00:57:46,580 --> 00:57:50,060
+X amount of money because it's a name and it's basically the same thing
+
+1462
+00:57:50,060 --> 00:57:51,140
+you saw when you were little.
+
+1463
+00:57:51,140 --> 00:57:53,060
+And now you're going to let your kids see it.
+
+1464
+00:57:53,060 --> 00:57:56,300
+And your kids want to see a shiny CGI Pinocchio face.
+
+1465
+00:57:56,820 --> 00:58:00,780
+So but yeah, this is not that this is not the cynical
+
+1466
+00:58:00,780 --> 00:58:03,460
+cash in of the Munsters brand.
+
+1467
+00:58:03,460 --> 00:58:06,540
+We're like, yeah, like it was passion fueling it.
+
+1468
+00:58:06,620 --> 00:58:10,540
+And there was passion for the way that it is, the way that it was made.
+
+1469
+00:58:10,540 --> 00:58:12,420
+I just don't vibe with.
+
+1470
+00:58:12,420 --> 00:58:15,380
+Yeah. He wanted to take.
+
+1471
+00:58:15,380 --> 00:58:20,260
+I think he was just interested in the very surface level elements of the Munsters.
+
+1472
+00:58:20,300 --> 00:58:23,180
+Like the way they look, they think that's it.
+
+1473
+00:58:23,220 --> 00:58:23,820
+They're monsters.
+
+1474
+00:58:23,820 --> 00:58:27,300
+I agree that that is why we understand dress who's in his other movies.
+
+1475
+00:58:27,300 --> 00:58:28,340
+Dress up like Herman.
+
+1476
+00:58:28,340 --> 00:58:33,420
+It's like when I was a kid and I was really into the Ghostbusters cartoon,
+
+1477
+00:58:33,420 --> 00:58:37,540
+I got really into like, yes, they fight ghosts.
+
+1478
+00:58:37,780 --> 00:58:39,180
+They're Ghostbusters.
+
+1479
+00:58:39,180 --> 00:58:41,660
+The comedy was a secondary concern.
+
+1480
+00:58:41,660 --> 00:58:43,100
+What a kid it is.
+
+1481
+00:58:43,100 --> 00:58:45,780
+It's like he got fed the kid information.
+
+1482
+00:58:46,380 --> 00:58:50,180
+The stuff you like as a kid is the is permanent in the outfits.
+
+1483
+00:58:50,620 --> 00:58:55,020
+It's like some zany angles, zany stuff like he all the sort of superficial
+
+1484
+00:58:55,020 --> 00:58:57,580
+stuff is there and the look of it is there.
+
+1485
+00:58:57,900 --> 00:58:59,580
+He does have a specific look for it.
+
+1486
+00:58:59,580 --> 00:59:01,260
+So but it's like,
+
+1487
+00:59:02,260 --> 00:59:06,140
+if you want a comedy movie, it's got to have the jokes have to come faster.
+
+1488
+00:59:06,700 --> 00:59:10,500
+It's kind of isn't it crazy also when you compare it that this is like
+
+1489
+00:59:10,900 --> 00:59:12,940
+there's been TV movies, right?
+
+1490
+00:59:12,940 --> 00:59:17,020
+But like the first like after the fact monsters movie
+
+1491
+00:59:17,540 --> 00:59:22,300
+really is this and then you compare it to the kinds of movies
+
+1492
+00:59:22,300 --> 00:59:24,260
+that the Adams family got.
+
+1493
+00:59:24,540 --> 00:59:29,300
+Well, which are great masterpieces, gothic, beautifully shot,
+
+1494
+00:59:29,300 --> 00:59:31,900
+immaculatly incredible performances.
+
+1495
+00:59:32,300 --> 00:59:34,380
+Second one, funnier, better.
+
+1496
+00:59:34,380 --> 00:59:38,300
+Yes, I mean, it's like I think they were nominated for Oscars for like set.
+
+1497
+00:59:38,460 --> 00:59:42,420
+I mean, like filmically, I mean, I don't need to make the argument
+
+1498
+00:59:42,420 --> 00:59:46,780
+that those are great, but like how unfair that the Adams family got this
+
+1499
+00:59:46,780 --> 00:59:49,420
+like like a true film.
+
+1500
+00:59:49,420 --> 00:59:52,140
+And then this got a lot of shot on a phone.
+
+1501
+00:59:52,140 --> 00:59:55,860
+It didn't wasn't the biggest hit, but a Broadway musical based on Adams family.
+
+1502
+00:59:55,860 --> 00:59:57,900
+There's a new Tim Burton produced.
+
+1503
+00:59:57,900 --> 01:00:01,740
+I mean, the show, it's like they have they're running a marathon
+
+1504
+01:00:01,740 --> 01:00:04,820
+and they have like a 15 mile head start.
+
+1505
+01:00:05,540 --> 01:00:08,980
+And the Adams family was a cartoon, a comic strip first. Yes.
+
+1506
+01:00:09,540 --> 01:00:12,660
+But I think the Munsters is a better show than the Adams family.
+
+1507
+01:00:12,900 --> 01:00:14,340
+Oh, yeah. Yeah, I agree.
+
+1508
+01:00:14,340 --> 01:00:17,300
+Yeah, because I've tried to watch both of them and like this fun stuff
+
+1509
+01:00:17,300 --> 01:00:20,660
+about Adams family and it's fun to watch most of those performers.
+
+1510
+01:00:20,660 --> 01:00:24,100
+But Munsters is an energy and I don't know.
+
+1511
+01:00:24,100 --> 01:00:26,420
+I think I don't want to look.
+
+1512
+01:00:26,420 --> 01:00:28,060
+I'm not shitting at John Astin.
+
+1513
+01:00:28,060 --> 01:00:29,260
+I like John Astin a lot.
+
+1514
+01:00:29,260 --> 01:00:33,220
+But Herman and Grandpa are a little more fun than any of the Adams family.
+
+1515
+01:00:33,220 --> 01:00:34,540
+Absolutely. Yeah.
+
+1516
+01:00:34,540 --> 01:00:38,980
+But I think I mean, I, Scott, I think you mentioned it earlier,
+
+1517
+01:00:38,980 --> 01:00:42,620
+but like the absence of like a room full of Joe Crider
+
+1518
+01:00:42,740 --> 01:00:47,180
+like ringers is you can kind of feel it in this.
+
+1519
+01:00:47,180 --> 01:00:50,140
+And I'm sure they didn't have like
+
+1520
+01:00:50,140 --> 01:00:54,180
+fucking budget to put together a punch up room, you know.
+
+1521
+01:00:54,180 --> 01:00:55,380
+Yeah, yeah.
+
+1522
+01:00:55,380 --> 01:00:58,620
+It made me there's not a lot of like things I'd like to take a shot at,
+
+1523
+01:00:58,620 --> 01:01:01,180
+but it made me kind of want to take a shot at the Munsters.
+
+1524
+01:01:01,220 --> 01:01:03,540
+I'll be honest. I thought it like who cares about it.
+
+1525
+01:01:03,700 --> 01:01:07,180
+But I was watching and I was like, I could take I could write this Munster script.
+
+1526
+01:01:07,180 --> 01:01:09,660
+I was like, I never thought that I don't I don't.
+
+1527
+01:01:10,020 --> 01:01:12,780
+This thought will leave me, by the way, I think very quickly.
+
+1528
+01:01:12,780 --> 01:01:14,980
+Yeah, but there's other things to do with your life.
+
+1529
+01:01:14,980 --> 01:01:16,140
+Other things to do with my life.
+
+1530
+01:01:16,140 --> 01:01:18,580
+But I definitely was like, give me a shot at the Munsters.
+
+1531
+01:01:18,580 --> 01:01:21,700
+Maybe I think that would be a wacky, kooky
+
+1532
+01:01:22,180 --> 01:01:26,340
+Munsters TV show would probably be the hardest sell right now.
+
+1533
+01:01:26,500 --> 01:01:31,260
+And I think someone will hit on like a more wacky,
+
+1534
+01:01:31,300 --> 01:01:35,860
+like kind of sitcom, traditional sitcom.
+
+1535
+01:01:35,860 --> 01:01:39,620
+And then it'll be like the new hot thing, like Kooky.
+
+1536
+01:01:39,620 --> 01:01:41,620
+Munsters are just a sitcom in general.
+
+1537
+01:01:41,620 --> 01:01:42,820
+Sitcom in general.
+
+1538
+01:01:42,820 --> 01:01:44,820
+But I think for 20 years, my friend.
+
+1539
+01:01:44,820 --> 01:01:46,020
+Yeah, that's true.
+
+1540
+01:01:46,020 --> 01:01:48,100
+So but there's a little there's a little.
+
+1541
+01:01:48,100 --> 01:01:48,980
+Chalk.
+
+1542
+01:01:48,980 --> 01:01:51,060
+You need to bring back the Munsters.
+
+1543
+01:01:51,060 --> 01:01:52,380
+That's what I figured out.
+
+1544
+01:01:52,380 --> 01:01:55,140
+It could be that could be the truth.
+
+1545
+01:01:55,140 --> 01:01:57,020
+That could be the formula.
+
+1546
+01:01:57,020 --> 01:02:01,220
+Yeah. If somebody was really determined, we need our magic shows.
+
+1547
+01:02:01,700 --> 01:02:04,300
+Back. That's confusing because there's magic shows.
+
+1548
+01:02:04,300 --> 01:02:06,940
+I mean, shows with magic in them and monsters.
+
+1549
+01:02:06,940 --> 01:02:11,580
+Yeah. Genies and witches, which is what we all grew up like.
+
+1550
+01:02:11,580 --> 01:02:14,460
+Yes, the show is I feel like we grew up watching them because of Nick at Night.
+
+1551
+01:02:14,460 --> 01:02:17,780
+And our our parents were all the most excited to show us those.
+
+1552
+01:02:17,860 --> 01:02:19,620
+Yes. Stuff they grew up with.
+
+1553
+01:02:19,620 --> 01:02:20,740
+Oh, you got to see this one.
+
+1554
+01:02:20,740 --> 01:02:23,060
+You got to see the witch show in the gene.
+
+1555
+01:02:23,060 --> 01:02:25,420
+There's a witch show and a genie show.
+
+1556
+01:02:25,420 --> 01:02:27,100
+They're basically kind of the same gimmick.
+
+1557
+01:02:27,100 --> 01:02:30,060
+Yeah. But by the way, they're not the monster show.
+
+1558
+01:02:30,380 --> 01:02:31,820
+Yeah, there's two monster shows.
+
+1559
+01:02:31,820 --> 01:02:32,980
+There's two.
+
+1560
+01:02:32,980 --> 01:02:35,420
+My lady, your marriage to a powers woman.
+
+1561
+01:02:35,780 --> 01:02:36,740
+They were into our reuse.
+
+1562
+01:02:36,740 --> 01:02:38,460
+She was not married to Major Nelson.
+
+1563
+01:02:38,460 --> 01:02:40,300
+He was she wanted to get married to her.
+
+1564
+01:02:40,300 --> 01:02:42,940
+OK, she was just like they eventually did get married.
+
+1565
+01:02:42,940 --> 01:02:46,180
+OK, OK. But she wanted to marry Major Nelson, but he was against it.
+
+1566
+01:02:46,260 --> 01:02:49,620
+And I dream of Jeannie, which we need to talk about.
+
+1567
+01:02:49,620 --> 01:02:51,740
+I dream of Jeannie more on the show, I guess.
+
+1568
+01:02:51,740 --> 01:02:53,460
+It might be somehow the first time.
+
+1569
+01:02:53,460 --> 01:02:54,340
+That's pretty incredible.
+
+1570
+01:02:54,340 --> 01:02:57,060
+Have I not said the name Barbara Eden on the show before?
+
+1571
+01:02:57,060 --> 01:02:57,940
+I feel like I have.
+
+1572
+01:02:57,940 --> 01:03:00,020
+If you know Jeannie from I dream of Jeannie.
+
+1573
+01:03:00,620 --> 01:03:02,500
+Still alive, although I shouldn't have said that.
+
+1574
+01:03:02,500 --> 01:03:03,580
+Not going to worry.
+
+1575
+01:03:03,580 --> 01:03:07,620
+I know we're going to be I can't believe I'm going to do it again.
+
+1576
+01:03:08,140 --> 01:03:10,500
+Well, look, he's lived a great couple of months since then.
+
+1577
+01:03:10,500 --> 01:03:12,860
+I can't believe we didn't cause Buzz Aldrin's death.
+
+1578
+01:03:12,860 --> 01:03:15,820
+Oh, yeah, I know. I was sure we were.
+
+1579
+01:03:17,060 --> 01:03:19,020
+I just saw the
+
+1580
+01:03:20,260 --> 01:03:23,620
+one of those this day in Disney history accounts I follow.
+
+1581
+01:03:24,460 --> 01:03:28,300
+In 2009, there was like a ticker tape parade
+
+1582
+01:03:28,300 --> 01:03:31,420
+for a Buzz Lightyear toy that had come back from space.
+
+1583
+01:03:32,180 --> 01:03:33,580
+It was either on the space
+
+1584
+01:03:33,580 --> 01:03:38,100
+and then Buzz Aldrin was also there and like took a picture holding it.
+
+1585
+01:03:38,540 --> 01:03:41,420
+And I'm like, oh, yeah, OK.
+
+1586
+01:03:41,420 --> 01:03:44,780
+Fall of the recession, fall of 2009.
+
+1587
+01:03:44,780 --> 01:03:46,500
+I was like, recession.
+
+1588
+01:03:46,500 --> 01:03:49,460
+Yeah, pretty, pretty cost effective.
+
+1589
+01:03:49,660 --> 01:03:51,940
+Limited time of magic.
+
+1590
+01:03:51,940 --> 01:03:52,860
+That's good.
+
+1591
+01:03:53,460 --> 01:03:55,900
+You know, I'll say the credits are great.
+
+1592
+01:03:56,700 --> 01:03:58,860
+The credits is a fun little animated sequence.
+
+1593
+01:03:58,860 --> 01:04:00,980
+They got a fun little song playing there.
+
+1594
+01:04:00,980 --> 01:04:02,940
+It's like a Monster Mash ripoff.
+
+1595
+01:04:02,940 --> 01:04:04,500
+I go, well, this is good like this.
+
+1596
+01:04:04,500 --> 01:04:05,620
+I like these credits a lot.
+
+1597
+01:04:05,620 --> 01:04:08,380
+Yeah, the one trailer was just the end of the movie.
+
+1598
+01:04:08,380 --> 01:04:09,820
+It's that's yeah, right.
+
+1599
+01:04:09,820 --> 01:04:13,260
+They show that little the recreation of the opening.
+
+1600
+01:04:13,260 --> 01:04:15,060
+Yeah, original opening.
+
+1601
+01:04:15,060 --> 01:04:17,660
+Well, this might be the time where I'm backed into a corner.
+
+1602
+01:04:17,660 --> 01:04:19,740
+How long have we been going a little over an hour about that?
+
+1603
+01:04:19,740 --> 01:04:21,220
+Something like that.
+
+1604
+01:04:21,220 --> 01:04:24,780
+I wanted to see how far I could get through the episode without saying
+
+1605
+01:04:24,780 --> 01:04:27,620
+I did not finish this film.
+
+1606
+01:04:27,620 --> 01:04:29,220
+I was like, I thought about it.
+
+1607
+01:04:29,220 --> 01:04:30,500
+I thought about it.
+
+1608
+01:04:30,500 --> 01:04:31,380
+I thought about it.
+
+1609
+01:04:31,380 --> 01:04:32,900
+You all thought we all thought about it.
+
+1610
+01:04:32,900 --> 01:04:35,940
+I was I was kind of hoping maybe we all did.
+
+1611
+01:04:35,940 --> 01:04:36,820
+Wouldn't that have been funny?
+
+1612
+01:04:36,820 --> 01:04:37,980
+And we didn't want to tell each other.
+
+1613
+01:04:37,980 --> 01:04:38,620
+I'll say this.
+
+1614
+01:04:38,620 --> 01:04:43,580
+I watched 10 minutes of it and I was mad because the first or second line
+
+1615
+01:04:43,580 --> 01:04:45,500
+was like, gee, you think?
+
+1616
+01:04:45,500 --> 01:04:45,940
+Yeah.
+
+1617
+01:04:45,940 --> 01:04:46,660
+Oh, yeah.
+
+1618
+01:04:46,660 --> 01:04:47,180
+Yeah.
+
+1619
+01:04:47,180 --> 01:04:49,220
+And then Grandpa goes, oh, my back.
+
+1620
+01:04:49,220 --> 01:04:51,580
+And I was like, all right, I'm back on board.
+
+1621
+01:04:51,580 --> 01:04:54,500
+And then I watched half an hour and I.
+
+1622
+01:04:54,580 --> 01:04:55,420
+How far did you get?
+
+1623
+01:04:55,420 --> 01:04:56,140
+Did you get what kids say?
+
+1624
+01:04:56,140 --> 01:04:58,020
+Andrew Peterson, where a virus show?
+
+1625
+01:04:58,020 --> 01:04:59,220
+You didn't even get there.
+
+1626
+01:04:59,220 --> 01:05:02,380
+You were I almost admitted it because you were talking about the half hour point.
+
+1627
+01:05:02,380 --> 01:05:03,980
+I made it to 38 minutes.
+
+1628
+01:05:03,980 --> 01:05:07,460
+That's all. That's how I said I missed most of the movie.
+
+1629
+01:05:07,460 --> 01:05:08,580
+Yeah, yes.
+
+1630
+01:05:08,580 --> 01:05:09,180
+I hate it.
+
+1631
+01:05:09,180 --> 01:05:12,180
+It sounded like I was doing Herman's voice from this movie.
+
+1632
+01:05:12,180 --> 01:05:13,620
+Thirty eight minutes.
+
+1633
+01:05:13,620 --> 01:05:14,620
+Thirty eight minutes.
+
+1634
+01:05:14,620 --> 01:05:17,500
+I got that where I even have no no.
+
+1635
+01:05:18,220 --> 01:05:21,340
+I got to where
+
+1636
+01:05:21,340 --> 01:05:23,620
+Herman was like playing in a band.
+
+1637
+01:05:23,620 --> 01:05:24,420
+He's in a club.
+
+1638
+01:05:24,420 --> 01:05:27,340
+He's like a real aggressive punk song.
+
+1639
+01:05:27,340 --> 01:05:31,780
+And that's sort of based on one of the episodes when Herman is is like a drag
+
+1640
+01:05:31,780 --> 01:05:32,980
+kind of racing guy.
+
+1641
+01:05:32,980 --> 01:05:34,500
+And yes.
+
+1642
+01:05:34,500 --> 01:05:37,380
+And that's kind of I'm sorry you stop there because at least that's a montage
+
+1643
+01:05:37,380 --> 01:05:38,700
+and there's some energy to that.
+
+1644
+01:05:38,700 --> 01:05:42,500
+I just like I don't know what it was about that in particular.
+
+1645
+01:05:42,500 --> 01:05:45,580
+I just like the music choice.
+
+1646
+01:05:45,660 --> 01:05:47,180
+No, the song is fine.
+
+1647
+01:05:47,180 --> 01:05:50,340
+I just you know, I think it's it's around where I wrote down one of my last notes
+
+1648
+01:05:50,340 --> 01:05:52,860
+was it's not bad enough.
+
+1649
+01:05:52,860 --> 01:05:53,860
+Well, that's true.
+
+1650
+01:05:53,860 --> 01:05:54,700
+That's true.
+
+1651
+01:05:54,700 --> 01:05:55,580
+You're right.
+
+1652
+01:05:55,580 --> 01:05:58,460
+Pinocchio was so wretched like that.
+
+1653
+01:05:58,460 --> 01:05:59,780
+Truly, that is an F.
+
+1654
+01:05:59,780 --> 01:06:01,340
+That is one of the worst movies ever.
+
+1655
+01:06:01,340 --> 01:06:05,260
+I still like Honest John from Pinocchio better than any character in this movie.
+
+1656
+01:06:05,380 --> 01:06:10,340
+I yeah, I so I watched the first few minutes and then I had to go out.
+
+1657
+01:06:10,420 --> 01:06:14,620
+And then I started like I like watched a little more.
+
+1658
+01:06:14,620 --> 01:06:18,820
+And then I started jumping around the streaming services and like on Peacock.
+
+1659
+01:06:18,820 --> 01:06:20,220
+They're like leaving soon.
+
+1660
+01:06:20,220 --> 01:06:21,780
+The Brendan Fraser mummy.
+
+1661
+01:06:21,780 --> 01:06:23,700
+And I'm like, first off, you own this.
+
+1662
+01:06:23,700 --> 01:06:25,300
+How is it leaving soon?
+
+1663
+01:06:25,300 --> 01:06:30,300
+But I was like, what if I just showed up and it did the same as you did?
+
+1664
+01:06:30,300 --> 01:06:32,020
+Just got away with it for as long as I could.
+
+1665
+01:06:32,020 --> 01:06:37,700
+I was like, guys, I just watched the Brendan Fraser mummy for the millionth time again.
+
+1666
+01:06:37,700 --> 01:06:39,220
+Yeah, I was going to say, you're here.
+
+1667
+01:06:39,220 --> 01:06:43,140
+Two movies are the Brendan Fraser mummy and born identity.
+
+1668
+01:06:43,620 --> 01:06:46,020
+And now you see, I would put the Now You See Me series.
+
+1669
+01:06:46,740 --> 01:06:48,580
+Yeah. So wait, really?
+
+1670
+01:06:48,580 --> 01:06:50,020
+I didn't think I don't think I knew that.
+
+1671
+01:06:50,020 --> 01:06:54,700
+Oh, for like in in they're ridiculous.
+
+1672
+01:06:54,700 --> 01:06:58,940
+But if they're on cable and I'm flipping channels, it's like, I'll stop and watch this.
+
+1673
+01:06:58,940 --> 01:07:01,780
+I would too. No, I know what bad enough.
+
+1674
+01:07:02,060 --> 01:07:03,860
+That's what's up with those movies.
+
+1675
+01:07:03,860 --> 01:07:06,860
+Yeah, pretty bad, but pretty watchably bad.
+
+1676
+01:07:06,980 --> 01:07:12,900
+I but so then like the lay I had like 30 one night.
+
+1677
+01:07:12,900 --> 01:07:15,100
+I had like 30 minutes in the movie left.
+
+1678
+01:07:15,420 --> 01:07:18,500
+And I was like, all right, I'm going to take a weed gummy.
+
+1679
+01:07:18,940 --> 01:07:23,540
+And this is the kind I'm taking it late at night and it'll make me sleepy.
+
+1680
+01:07:23,660 --> 01:07:25,660
+And I'm going to erase my weed gummy.
+
+1681
+01:07:25,660 --> 01:07:27,540
+I'm going to try to finish this movie.
+
+1682
+01:07:27,540 --> 01:07:29,180
+And I fucked up. And I didn't.
+
+1683
+01:07:29,180 --> 01:07:32,340
+I fell asleep with like 15 minutes left.
+
+1684
+01:07:32,340 --> 01:07:34,580
+I was so mad that I had to go back and do it.
+
+1685
+01:07:34,580 --> 01:07:38,940
+I was the last 15 minutes, which is when like the last 20, 30 minutes,
+
+1686
+01:07:38,940 --> 01:07:43,460
+they start to get somewhere like when they get to America, literally get somewhere.
+
+1687
+01:07:43,460 --> 01:07:46,020
+But they don't get anywhere.
+
+1688
+01:07:46,460 --> 01:07:48,980
+There's kind of going back in my mind when I was talking about the end,
+
+1689
+01:07:48,980 --> 01:07:50,460
+it's got was just nodding along.
+
+1690
+01:07:50,460 --> 01:07:52,340
+Yeah. Yeah. See about it.
+
+1691
+01:07:52,340 --> 01:07:54,540
+30. I didn't say anything.
+
+1692
+01:07:54,540 --> 01:07:56,900
+I just kind of like I stayed silent.
+
+1693
+01:07:56,900 --> 01:07:59,780
+You said something and I agree. You're saying something you were. Yeah.
+
+1694
+01:08:00,140 --> 01:08:01,700
+So they real quick, I was just like, yeah.
+
+1695
+01:08:01,700 --> 01:08:04,540
+So the last 20 minutes, all of a sudden, it's like there's a they think
+
+1696
+01:08:04,540 --> 01:08:08,100
+there's a problem and they have to go to America and they have a Halloween party
+
+1697
+01:08:08,700 --> 01:08:11,220
+and they meet Cassandra Peterson, the liar who plays.
+
+1698
+01:08:11,220 --> 01:08:14,940
+Everyone's really cool because I'm not saying it to sell you on the move.
+
+1699
+01:08:15,100 --> 01:08:18,780
+Oh, no, no. I shall not be going back. So boring.
+
+1700
+01:08:19,300 --> 01:08:20,780
+Yeah, that's the issue.
+
+1701
+01:08:20,780 --> 01:08:25,540
+The boring is the killer of, you know, it's why.
+
+1702
+01:08:25,540 --> 01:08:29,940
+Look, you people maybe know I have this affinity in connection with the room,
+
+1703
+01:08:29,940 --> 01:08:32,980
+which is the gold standard of crazy bad movies.
+
+1704
+01:08:32,980 --> 01:08:34,820
+It's not boring.
+
+1705
+01:08:34,820 --> 01:08:39,220
+It's boring once when there's a sex scene you don't need way deep into it.
+
+1706
+01:08:39,220 --> 01:08:40,900
+And we call that the seventh inning stretch.
+
+1707
+01:08:40,900 --> 01:08:42,900
+And you just that's your chance to like go to the bathroom.
+
+1708
+01:08:43,260 --> 01:08:46,100
+So it's it's, you know, calculated, not calculated, but it's
+
+1709
+01:08:46,340 --> 01:08:48,220
+be selectively boring. Yeah.
+
+1710
+01:08:48,220 --> 01:08:51,140
+Just but you can't be so mushy.
+
+1711
+01:08:51,180 --> 01:08:53,020
+Yeah. For so long.
+
+1712
+01:08:53,020 --> 01:08:54,260
+I almost didn't. Yeah.
+
+1713
+01:08:54,260 --> 01:08:57,580
+I had to talk myself out of stopping it.
+
+1714
+01:08:57,580 --> 01:08:59,420
+I said, no, you should. Well, you have to finish it.
+
+1715
+01:08:59,420 --> 01:09:04,460
+Finish it. You have to finish it because I saw 40 minutes left and I went, oh, OK.
+
+1716
+01:09:04,940 --> 01:09:09,700
+And then it's that there is starting to get towards more hijinks.
+
+1717
+01:09:09,700 --> 01:09:15,620
+Like she's dressed the real estate agent is dressed like a witch.
+
+1718
+01:09:15,740 --> 01:09:20,140
+OK, but here's another here's another just bizarre thing.
+
+1719
+01:09:20,500 --> 01:09:25,220
+OK, Cassandra Peterson is a real estate agent that's going to sell the mocking
+
+1720
+01:09:25,220 --> 01:09:28,700
+1313 Mockingbird Lane, which is the Munster's house, and it is the Munster's house.
+
+1721
+01:09:29,060 --> 01:09:31,540
+And she's like, well, by the way, next time you see me,
+
+1722
+01:09:31,540 --> 01:09:33,500
+I'm going to be dressed up for a Halloween party.
+
+1723
+01:09:33,500 --> 01:09:36,580
+So don't get scared because it's Halloween.
+
+1724
+01:09:36,580 --> 01:09:39,380
+Yeah. So she opens the door and sees them.
+
+1725
+01:09:39,380 --> 01:09:40,940
+And she passes out.
+
+1726
+01:09:40,940 --> 01:09:42,300
+I go, well, I start yelling.
+
+1727
+01:09:42,300 --> 01:09:43,700
+I go, I go, no, no, no, no.
+
+1728
+01:09:43,700 --> 01:09:45,660
+It's Halloween. Why would she?
+
+1729
+01:09:45,660 --> 01:09:48,500
+She's supposed to say, oh, great costumes.
+
+1730
+01:09:48,780 --> 01:09:51,060
+And then they say no when she passes out.
+
+1731
+01:09:51,060 --> 01:09:52,420
+And I'm just like yelling to Lindsey.
+
+1732
+01:09:52,420 --> 01:09:55,620
+She goes, I know it's what is she met them already.
+
+1733
+01:09:55,620 --> 01:09:57,180
+No, she's on the phone with them.
+
+1734
+01:09:57,180 --> 01:09:59,180
+OK, but still, it's Halloween.
+
+1735
+01:09:59,180 --> 01:10:00,700
+She's established. It's Halloween.
+
+1736
+01:10:00,700 --> 01:10:03,180
+The joke is she passes out afterward.
+
+1737
+01:10:03,460 --> 01:10:08,460
+So she passes out and then she gets up and goes, oh, those are good costumes.
+
+1738
+01:10:08,700 --> 01:10:10,620
+And I go, what? Who wrote this?
+
+1739
+01:10:10,620 --> 01:10:12,100
+I know who wrote it. Rob Zombie did.
+
+1740
+01:10:12,100 --> 01:10:14,020
+But I go, I don't understand.
+
+1741
+01:10:14,020 --> 01:10:16,700
+These are the basic tenets of the monsters.
+
+1742
+01:10:16,780 --> 01:10:21,820
+This gag is in every episode where they go great costume and they go, what cost?
+
+1743
+01:10:21,900 --> 01:10:23,180
+Like, it's the same thing.
+
+1744
+01:10:23,180 --> 01:10:25,900
+Every episode. I drove me to driving nuts.
+
+1745
+01:10:25,900 --> 01:10:27,820
+Easy. It's just missing layups.
+
+1746
+01:10:27,820 --> 01:10:30,260
+It's a little layups are being missed left and right.
+
+1747
+01:10:30,260 --> 01:10:31,620
+The bar is very low.
+
+1748
+01:10:31,620 --> 01:10:34,820
+I even went in the section of it because this all happened quick.
+
+1749
+01:10:34,820 --> 01:10:36,980
+Because remember, I was saying I was first 15 minutes.
+
+1750
+01:10:36,980 --> 01:10:38,260
+I was like, yeah, not so bad.
+
+1751
+01:10:38,260 --> 01:10:39,620
+And then, boy, did I just.
+
+1752
+01:10:39,620 --> 01:10:42,340
+Yeah, it didn't even turn as I said, it's not F.
+
+1753
+01:10:42,340 --> 01:10:43,460
+It just turned into C.
+
+1754
+01:10:43,460 --> 01:10:45,500
+And I'm like, yeah, I've written no notes.
+
+1755
+01:10:45,620 --> 01:10:47,820
+My Pinocchio notes were thorough.
+
+1756
+01:10:47,820 --> 01:10:51,540
+It is a thing every 10 seconds to shit on in that movie.
+
+1757
+01:10:51,780 --> 01:10:53,940
+I just realized I don't have anything to say.
+
+1758
+01:10:54,100 --> 01:10:54,940
+You know what I'm going to do?
+
+1759
+01:10:54,940 --> 01:10:57,980
+I'm going to come in with this list of universal 14, 40 movies.
+
+1760
+01:10:57,980 --> 01:10:59,460
+You're going to contribute.
+
+1761
+01:10:59,460 --> 01:11:04,100
+And I look at listeners, I'm sorry, but the agreement is not necessarily that.
+
+1762
+01:11:04,100 --> 01:11:07,540
+Well, I we never said we're all going to watch.
+
+1763
+01:11:08,100 --> 01:11:10,020
+No, I don't want this to be the bar.
+
+1764
+01:11:10,020 --> 01:11:11,140
+It's better.
+
+1765
+01:11:11,140 --> 01:11:14,140
+Sure. I know I'm like I wasn't fulfilling my end of the bargain.
+
+1766
+01:11:14,140 --> 01:11:16,260
+I did. Did I not entertain you?
+
+1767
+01:11:16,260 --> 01:11:18,700
+Were you not entertained?
+
+1768
+01:11:18,700 --> 01:11:21,740
+Check out Cardi Gladiator five star.
+
+1769
+01:11:24,700 --> 01:11:26,500
+Hook the hook me to the lie detector test.
+
+1770
+01:11:26,500 --> 01:11:28,340
+I don't care that you didn't watch it.
+
+1771
+01:11:28,340 --> 01:11:30,540
+I didn't think this felt like the one.
+
+1772
+01:11:30,540 --> 01:11:33,220
+And it wouldn't even you know, I think it would have been more of a betrayal
+
+1773
+01:11:33,220 --> 01:11:35,780
+with something worse that we watched. Father of the Pride.
+
+1774
+01:11:36,020 --> 01:11:38,380
+Remember that where we cut deals even.
+
+1775
+01:11:38,380 --> 01:11:40,180
+That's true. We discussed it.
+
+1776
+01:11:40,180 --> 01:11:44,260
+Can are we allowed to escape one episode and do something else?
+
+1777
+01:11:44,260 --> 01:11:47,060
+And Jason didn't take the deal because I think you kind of liked the show.
+
+1778
+01:11:47,540 --> 01:11:49,580
+You chose to go back in and watch more.
+
+1779
+01:11:49,580 --> 01:11:54,620
+Oh, did. Well, I just wanted to know what the whole idea.
+
+1780
+01:11:54,660 --> 01:11:57,300
+Yeah, yeah. Yeah. You want more.
+
+1781
+01:11:57,300 --> 01:11:58,260
+The tolerance was high.
+
+1782
+01:11:58,260 --> 01:11:59,620
+There are very famous breaks.
+
+1783
+01:11:59,620 --> 01:12:02,180
+There are very famous breaks in our viewing.
+
+1784
+01:12:02,180 --> 01:12:05,660
+I mean, it's I don't do not really do not relitigate any of this.
+
+1785
+01:12:05,660 --> 01:12:08,420
+There's of course the Country Bears fiasco.
+
+1786
+01:12:08,420 --> 01:12:10,300
+There's the Clifford.
+
+1787
+01:12:10,300 --> 01:12:14,060
+I think there's a times when you're on one side and Scott and I are on the other
+
+1788
+01:12:14,060 --> 01:12:16,500
+as far as viewing is concerned. Yeah, sure.
+
+1789
+01:12:16,500 --> 01:12:19,300
+But I think we're all one of those.
+
+1790
+01:12:19,300 --> 01:12:21,740
+I don't mind. I still came to play.
+
+1791
+01:12:21,740 --> 01:12:23,940
+Yeah. And you know what?
+
+1792
+01:12:23,940 --> 01:12:26,980
+I basically had two days where I was supposed to use some of the time
+
+1793
+01:12:26,980 --> 01:12:29,260
+to watch the remaining what?
+
+1794
+01:12:29,260 --> 01:12:32,140
+Still hour and 10 of the monsters.
+
+1795
+01:12:32,540 --> 01:12:34,100
+You know what I did instead?
+
+1796
+01:12:34,100 --> 01:12:38,060
+I went and had a magical afternoon with my son and my sister.
+
+1797
+01:12:38,060 --> 01:12:39,220
+They got to bond.
+
+1798
+01:12:39,220 --> 01:12:39,900
+Oh, that's nice.
+
+1799
+01:12:39,900 --> 01:12:41,540
+Side of the family bonding.
+
+1800
+01:12:41,540 --> 01:12:46,060
+I set up a delightful skeleton display in that nice front yard.
+
+1801
+01:12:46,060 --> 01:12:47,660
+I had a blast doing that.
+
+1802
+01:12:47,660 --> 01:12:50,100
+I went to a kid's birthday party.
+
+1803
+01:12:50,220 --> 01:12:53,020
+I saw a lot of friends and sure they're wonderful children.
+
+1804
+01:12:53,020 --> 01:12:56,980
+And there were walk around pandas and zebras in a magical garden environment.
+
+1805
+01:12:56,980 --> 01:12:59,100
+That's great. That was a lovely time.
+
+1806
+01:12:59,100 --> 01:13:02,100
+I raised a birthday toast to one of the greats, Mike Mitchell.
+
+1807
+01:13:02,260 --> 01:13:03,540
+Happy birthday, Mike.
+
+1808
+01:13:03,540 --> 01:13:04,100
+Happy birthday.
+
+1809
+01:13:04,100 --> 01:13:07,220
+I hope you get everything that's coming to you, especially because you got me away
+
+1810
+01:13:07,220 --> 01:13:09,540
+from watching more of this movie.
+
+1811
+01:13:09,580 --> 01:13:10,620
+It's all lovely.
+
+1812
+01:13:10,620 --> 01:13:11,460
+A great pizza.
+
+1813
+01:13:11,460 --> 01:13:13,660
+I had fantastic bagels.
+
+1814
+01:13:13,660 --> 01:13:15,020
+Food tasted better.
+
+1815
+01:13:15,020 --> 01:13:17,220
+Colors were more vibrant.
+
+1816
+01:13:17,260 --> 01:13:19,180
+Well, I don't know about that one.
+
+1817
+01:13:19,180 --> 01:13:20,220
+More vibrant.
+
+1818
+01:13:20,220 --> 01:13:22,980
+More vibrant than the monster colors.
+
+1819
+01:13:22,980 --> 01:13:27,100
+You can believe I learned to appreciate the regular boring color of the sky
+
+1820
+01:13:27,100 --> 01:13:31,860
+ahead of the electric green that colors most of the monsters by Rob Zombie.
+
+1821
+01:13:31,860 --> 01:13:35,260
+I mean, colors, I got to give them high marks on the colors,
+
+1822
+01:13:35,740 --> 01:13:36,820
+on the colored lighting.
+
+1823
+01:13:36,820 --> 01:13:38,220
+But I got to see those.
+
+1824
+01:13:38,220 --> 01:13:41,820
+Those weren't anywhere except for the very end where it turned black and white.
+
+1825
+01:13:41,820 --> 01:13:43,860
+But I already saw that in the teaser.
+
+1826
+01:13:44,140 --> 01:13:47,740
+I guess what I'm saying is, you know, if the idea is that you
+
+1827
+01:13:47,980 --> 01:13:50,500
+we don't really like recommend the movies or not.
+
+1828
+01:13:50,780 --> 01:13:56,460
+But if you're on the fence about it, you know, I all I can say is that I had
+
+1829
+01:13:56,460 --> 01:14:00,660
+a wonderful 48 hours when I made the choice to not watch it
+
+1830
+01:14:00,740 --> 01:14:02,820
+or to just watch a little bit of it.
+
+1831
+01:14:02,820 --> 01:14:06,500
+And if my attitude now tells you anything about how you'll feel
+
+1832
+01:14:06,660 --> 01:14:10,220
+when you choose to only watch part of the monsters by Rob Zombie.
+
+1833
+01:14:10,580 --> 01:14:12,460
+I don't know. Take take that as you will.
+
+1834
+01:14:12,460 --> 01:14:16,020
+You somehow got a better recommendation, two recommendations in there.
+
+1835
+01:14:16,500 --> 01:14:19,020
+Forty eight hours and another 48 hours.
+
+1836
+01:14:20,900 --> 01:14:23,940
+And Universal's 48 hours three.
+
+1837
+01:14:24,980 --> 01:14:25,980
+Is that? Oh, yes.
+
+1838
+01:14:25,980 --> 01:14:28,900
+Oh, yeah. There is another.
+
+1839
+01:14:28,980 --> 01:14:33,860
+There is a sequel prequel remake coming to 48 hours.
+
+1840
+01:14:33,860 --> 01:14:35,460
+I think. Yeah, I bet.
+
+1841
+01:14:35,460 --> 01:14:37,700
+I was going to say, here's what I think you should do.
+
+1842
+01:14:37,700 --> 01:14:41,460
+Listeners, instead of watching this, I would I would go back and watch
+
+1843
+01:14:43,100 --> 01:14:46,420
+go through all the descriptions of monster episodes, figure out what outfit
+
+1844
+01:14:46,420 --> 01:14:48,420
+sounds like it's the funniest for Herman aware.
+
+1845
+01:14:48,420 --> 01:14:51,700
+Watch that and then watch the movie The Late Shift on HBO.
+
+1846
+01:14:52,260 --> 01:14:54,900
+Oh, and just like jumble it all up in your head.
+
+1847
+01:14:54,900 --> 01:14:56,260
+You'll feel like you watch this.
+
+1848
+01:14:56,260 --> 01:14:58,740
+So that's a movie with a fun outfit.
+
+1849
+01:14:58,900 --> 01:15:01,620
+Where I was like a big crazy monster man.
+
+1850
+01:15:01,620 --> 01:15:02,820
+Yeah, yeah.
+
+1851
+01:15:05,660 --> 01:15:07,820
+Jay should have been in this movie.
+
+1852
+01:15:07,820 --> 01:15:09,700
+He was Herman or so now.
+
+1853
+01:15:09,700 --> 01:15:10,940
+Yeah, boy. Oh, God.
+
+1854
+01:15:10,940 --> 01:15:13,820
+There should have been there's
+
+1855
+01:15:13,820 --> 01:15:17,820
+there have there in the last couple of years, there have been this portrayal
+
+1856
+01:15:17,820 --> 01:15:21,540
+of Herman and there's another portrayal of Herman very briefly in a movie
+
+1857
+01:15:22,060 --> 01:15:25,100
+that makes me want to see a full movie with this person playing him.
+
+1858
+01:15:25,140 --> 01:15:25,980
+You know, I'm talking about.
+
+1859
+01:15:25,980 --> 01:15:28,140
+No, Jason, you know what I'm talking about?
+
+1860
+01:15:29,100 --> 01:15:30,740
+Liquors pizza. Correct.
+
+1861
+01:15:30,740 --> 01:15:33,860
+Yes. There is a Jason spoiler alert. Thanks.
+
+1862
+01:15:33,980 --> 01:15:35,740
+Sorry. I'll get around to this.
+
+1863
+01:15:35,740 --> 01:15:37,940
+It's nothing. It's not.
+
+1864
+01:15:37,940 --> 01:15:41,540
+But there's a there's a scene at the politics that they shot at the palladium.
+
+1865
+01:15:41,620 --> 01:15:46,060
+Spoiler alert where it's like all like it's a trade show, but also has like
+
+1866
+01:15:46,220 --> 01:15:49,380
+actors from the time because it takes place in the 70s.
+
+1867
+01:15:50,020 --> 01:15:53,660
+And there's a guy dressed as Herman Munster in the background.
+
+1868
+01:15:53,820 --> 01:15:55,020
+And it's clearly John C.
+
+1869
+01:15:55,020 --> 01:15:57,100
+Riley as Herman.
+
+1870
+01:15:57,100 --> 01:15:59,820
+And I'm like, that would be a really that'd be awesome.
+
+1871
+01:15:59,940 --> 01:16:00,980
+Kind of like you.
+
+1872
+01:16:00,980 --> 01:16:05,500
+It doesn't click until right after he leaves the camera goes past him.
+
+1873
+01:16:05,500 --> 01:16:06,780
+And then you're like, oh, wait.
+
+1874
+01:16:06,780 --> 01:16:08,820
+Yes. But in the theater, you can't go backwards.
+
+1875
+01:16:08,820 --> 01:16:11,900
+So the audience is all everybody's like looking at each other like, was it?
+
+1876
+01:16:11,900 --> 01:16:12,780
+I think. Yes.
+
+1877
+01:16:12,780 --> 01:16:15,260
+And is that his only appearance in the movie? Oh, yeah.
+
+1878
+01:16:16,260 --> 01:16:17,580
+It's not very close to him either.
+
+1879
+01:16:17,580 --> 01:16:19,220
+And I missed it.
+
+1880
+01:16:19,220 --> 01:16:20,700
+I was like, whoa, is that John C.
+
+1881
+01:16:20,700 --> 01:16:22,380
+Riley's Herman Munster? Yeah.
+
+1882
+01:16:22,380 --> 01:16:24,300
+Oh, that's right. That's the way.
+
+1883
+01:16:24,300 --> 01:16:26,740
+And that's where I was like, that's even where I was like, oh, I'm like,
+
+1884
+01:16:26,900 --> 01:16:28,620
+maybe somebody could do the monsters.
+
+1885
+01:16:28,620 --> 01:16:31,700
+And then you think of Adam's family and you go, oh, I guess they did make a much
+
+1886
+01:16:31,700 --> 01:16:33,620
+better version. Like, yeah.
+
+1887
+01:16:33,620 --> 01:16:35,220
+Well, Julie, that's one of the greatest.
+
+1888
+01:16:35,220 --> 01:16:37,100
+So I saw some fucking good.
+
+1889
+01:16:37,100 --> 01:16:38,220
+He's so good.
+
+1890
+01:16:38,220 --> 01:16:40,300
+There is a great
+
+1891
+01:16:40,300 --> 01:16:44,540
+horror comedy TV show on right now, and it's called What We Do in the Shadows.
+
+1892
+01:16:44,540 --> 01:16:46,660
+It just gets better every season.
+
+1893
+01:16:46,660 --> 01:16:47,860
+Uh huh. Uh huh.
+
+1894
+01:16:47,860 --> 01:16:50,700
+With a lot of great comedic performers. Buzz.
+
+1895
+01:16:50,700 --> 01:16:53,140
+Buzz. Sure. Yeah.
+
+1896
+01:16:53,140 --> 01:16:56,300
+I mean, also, somebody can make a good argument for like doing new stuff.
+
+1897
+01:16:56,300 --> 01:16:57,860
+I suppose.
+
+1898
+01:16:57,860 --> 01:16:59,940
+But why would we want that?
+
+1899
+01:16:59,940 --> 01:17:03,220
+You know, we do in the shadows is based on a movie that is.
+
+1900
+01:17:03,380 --> 01:17:05,420
+At least it's a newer movie. Yes.
+
+1901
+01:17:05,420 --> 01:17:06,060
+Yeah. Yeah. Yeah. Yeah.
+
+1902
+01:17:06,060 --> 01:17:06,580
+It's a newer movie.
+
+1903
+01:17:06,580 --> 01:17:10,700
+And it's all a new bunch of characters with like cameos from older characters.
+
+1904
+01:17:11,020 --> 01:17:15,500
+Uh huh. So I did want to contribute a little something,
+
+1905
+01:17:15,500 --> 01:17:18,260
+which is this is something I had a faint memory of.
+
+1906
+01:17:18,260 --> 01:17:20,420
+Of one thing we haven't really talked about.
+
+1907
+01:17:20,420 --> 01:17:24,340
+We've talked about briefly mentioned the Fox movie with Bernard Herman.
+
+1908
+01:17:24,340 --> 01:17:25,580
+That's weird. It's Herman.
+
+1909
+01:17:25,580 --> 01:17:27,860
+Herman is Herman. Is Edward Herman is the guy's name?
+
+1910
+01:17:27,860 --> 01:17:28,940
+Oh, okay. Yeah. Yeah.
+
+1911
+01:17:28,940 --> 01:17:30,620
+And that might be right.
+
+1912
+01:17:30,620 --> 01:17:36,300
+Apologies. The I think we didn't really, though, talk about the Munsters today,
+
+1913
+01:17:36,580 --> 01:17:40,060
+which is one that I remember strongly.
+
+1914
+01:17:40,060 --> 01:17:42,260
+I was going to say sort of strong.
+
+1915
+01:17:42,260 --> 01:17:45,700
+This was like this was a syndicated show in the late 80s
+
+1916
+01:17:46,500 --> 01:17:50,700
+that was made with like small wonder production value, you know,
+
+1917
+01:17:50,700 --> 01:17:54,180
+like syndicated multicam where it's a little cheap.
+
+1918
+01:17:54,180 --> 01:17:56,380
+I mean, so not, you know, it's like the Munsters.
+
+1919
+01:17:56,380 --> 01:18:00,460
+The budget has stepped down through the decades to where we made it to this.
+
+1920
+01:18:00,460 --> 01:18:02,060
+Yeah. Croatia film.
+
+1921
+01:18:02,060 --> 01:18:03,940
+I don't know if we said that part. Oh, yeah, right.
+
+1922
+01:18:03,940 --> 01:18:08,500
+I believe so. That may be another thing about this movie due to whatever tax
+
+1923
+01:18:08,500 --> 01:18:10,860
+benefits or like filming benefits.
+
+1924
+01:18:11,100 --> 01:18:14,340
+They might have actually made money on this movie
+
+1925
+01:18:14,580 --> 01:18:19,860
+just by the sheer nature of shooting it in Croatia in a way that like,
+
+1926
+01:18:20,140 --> 01:18:23,900
+well, they didn't make money on Pinocchio just by creating it.
+
+1927
+01:18:24,140 --> 01:18:28,940
+But this they're like, if we do this movie, we somehow end up ahead.
+
+1928
+01:18:29,420 --> 01:18:31,300
+Yeah, you know. Yeah, I bet.
+
+1929
+01:18:31,300 --> 01:18:34,580
+I think Universal 1440 might be the most savvy.
+
+1930
+01:18:34,780 --> 01:18:37,580
+Yeah, they know what they're doing. Part of the entire entertainment industry.
+
+1931
+01:18:37,620 --> 01:18:39,900
+Have you ever asked like your agent or something like, you know what?
+
+1932
+01:18:39,900 --> 01:18:41,540
+Give me a meeting with them.
+
+1933
+01:18:41,540 --> 01:18:43,700
+No, no. Show me the list.
+
+1934
+01:18:43,700 --> 01:18:46,420
+Oh, because that's actually got to just to get the list.
+
+1935
+01:18:46,420 --> 01:18:48,420
+A bad idea to at least to take a look at the low.
+
+1936
+01:18:48,420 --> 01:18:51,700
+Yeah. What are the universal bottom feeders?
+
+1937
+01:18:51,700 --> 01:18:54,500
+I what's the
+
+1938
+01:18:54,500 --> 01:18:56,540
+this movie called the Frighteners?
+
+1939
+01:18:56,540 --> 01:18:58,780
+Michael J. Fox. Oh, yeah.
+
+1940
+01:18:58,780 --> 01:19:00,100
+Yeah. Yeah. Frighteners.
+
+1941
+01:19:00,100 --> 01:19:02,220
+I want to do Frightener's too. Like, why not?
+
+1942
+01:19:02,220 --> 01:19:04,220
+Yeah. Yeah. Yeah. I'm just trying to remember any.
+
+1943
+01:19:04,220 --> 01:19:07,740
+The budget is $50,000 to do the Frightener's too.
+
+1944
+01:19:08,020 --> 01:19:10,780
+Or like, I think a similar title, Sneakers.
+
+1945
+01:19:10,860 --> 01:19:15,260
+Yeah. Do a new sneakers with Barry Bostwick and Lou Diamond Phillips.
+
+1946
+01:19:15,660 --> 01:19:18,300
+We got a hot new cast to be the new sneakers.
+
+1947
+01:19:18,780 --> 01:19:21,780
+I did read every now and then there's an interesting
+
+1948
+01:19:21,780 --> 01:19:24,500
+like diamond in the rough in the straight streaming.
+
+1949
+01:19:24,500 --> 01:19:28,900
+I read an essay a while back about like the career of Scott Atkins.
+
+1950
+01:19:28,900 --> 01:19:32,780
+And it's like he makes a lot of great direct to streaming action movies.
+
+1951
+01:19:32,820 --> 01:19:35,220
+Check out Universal Soldier four.
+
+1952
+01:19:36,860 --> 01:19:39,380
+The writers like, I sound crazy.
+
+1953
+01:19:39,380 --> 01:19:43,420
+Watch this movie, because it's one of the best action movies of the odds.
+
+1954
+01:19:43,460 --> 01:19:46,940
+There's a thing I say to any time I the few times,
+
+1955
+01:19:46,980 --> 01:19:50,020
+but any time I have a meeting of some kind, I end up talking about this
+
+1956
+01:19:50,020 --> 01:19:52,180
+and no one ever likes it as an idea.
+
+1957
+01:19:52,660 --> 01:19:56,100
+But I always am like, show me the list and then let's team up
+
+1958
+01:19:56,100 --> 01:19:59,940
+the two things on the bottom of the list as far as like what properties
+
+1959
+01:19:59,940 --> 01:20:01,860
+they have to reboot. Yeah.
+
+1960
+01:20:01,860 --> 01:20:06,380
+Because like I was like, let's just let's just roll in the slop, you know, for here.
+
+1961
+01:20:06,620 --> 01:20:09,220
+Let's just do it. I go, let's team like Mr.
+
+1962
+01:20:09,220 --> 01:20:13,460
+Belvedere meets like air wolf or Belvedere and like like
+
+1963
+01:20:14,020 --> 01:20:16,380
+small world wonder and Belvedere.
+
+1964
+01:20:16,900 --> 01:20:18,700
+Like what is the like, what's the role like?
+
+1965
+01:20:18,700 --> 01:20:21,540
+So sneakers versus frighteners.
+
+1966
+01:20:21,540 --> 01:20:22,580
+Here, let's try to do one.
+
+1967
+01:20:22,580 --> 01:20:27,260
+I'm here just I'm going to skim down the list of universal movies from the 90s.
+
+1968
+01:20:27,260 --> 01:20:30,100
+Yeah. And just tell me to stop. Sure.
+
+1969
+01:20:30,940 --> 01:20:31,820
+Stop.
+
+1970
+01:20:33,980 --> 01:20:35,180
+Cool as ice.
+
+1971
+01:20:35,180 --> 01:20:37,140
+Oh, great. And I'll tell you. Great.
+
+1972
+01:20:37,140 --> 01:20:39,700
+OK, Jason, call the next one.
+
+1973
+01:20:39,700 --> 01:20:40,580
+Stop.
+
+1974
+01:20:41,420 --> 01:20:43,380
+Carlito's way.
+
+1975
+01:20:43,460 --> 01:20:44,900
+Oh, yeah.
+
+1976
+01:20:45,500 --> 01:20:47,980
+Carlito's way versus cool as I.
+
+1977
+01:20:48,060 --> 01:20:49,860
+Yeah, this is what I'm saying.
+
+1978
+01:20:49,860 --> 01:20:51,740
+What's cool is ice.
+
+1979
+01:20:51,740 --> 01:20:53,820
+That's a vanilla ice movie. OK.
+
+1980
+01:20:53,820 --> 01:20:55,380
+I've seen that movie a lot of it.
+
+1981
+01:20:55,380 --> 01:20:57,140
+Now, that's a good band.
+
+1982
+01:20:57,140 --> 01:20:58,180
+Not all of it. There is boy.
+
+1983
+01:20:58,180 --> 01:21:00,980
+There's some slogs, but you can you get a good like you can
+
+1984
+01:21:01,460 --> 01:21:03,740
+shake a good 45 minutes out of cool as ice.
+
+1985
+01:21:03,740 --> 01:21:07,140
+I know. Does anyone know anything about Carlito's way?
+
+1986
+01:21:07,580 --> 01:21:10,020
+Is that the the prequel?
+
+1987
+01:21:10,020 --> 01:21:14,060
+OK, there's a bar in the valley opening soon called Carlito's Way.
+
+1988
+01:21:14,060 --> 01:21:17,980
+And I believe that is the prequel to Scarface.
+
+1989
+01:21:18,180 --> 01:21:20,340
+Is that right? Oh, is it?
+
+1990
+01:21:20,340 --> 01:21:23,420
+Carl, I it's got a you know, but I don't I don't know if it's
+
+1991
+01:21:24,140 --> 01:21:28,020
+no, because I think no, because he plays Carlito Brigante.
+
+1992
+01:21:28,060 --> 01:21:32,180
+Yeah, it's finally going to cross paths with Johnny Van Owen.
+
+1993
+01:21:32,620 --> 01:21:34,820
+OK, I believe Drifter rapper.
+
+1994
+01:21:35,060 --> 01:21:38,780
+I believe it was released style on DVD
+
+1995
+01:21:38,820 --> 01:21:43,940
+in the 2000s, and they did a lot of like from the producer of Scarface
+
+1996
+01:21:43,940 --> 01:21:46,140
+where I mushed it up in my brain.
+
+1997
+01:21:46,140 --> 01:21:49,580
+Films based mainly on after hours, but use the title of the first novel
+
+1998
+01:21:49,580 --> 01:21:52,580
+to avoid it being confused with Martin Scorsese's 1985 film.
+
+1999
+01:21:52,940 --> 01:21:54,580
+OK, OK. So it's yeah.
+
+2000
+01:21:54,580 --> 01:21:58,420
+So I tell you, anytime I've ever been in a meeting with anyone
+
+2001
+01:21:58,420 --> 01:22:00,540
+who's sort of important, I say anything like this.
+
+2002
+01:22:00,740 --> 01:22:04,500
+The the nothing face that has greeted me every time.
+
+2003
+01:22:05,260 --> 01:22:07,700
+No one ever, ever entertained by this idea.
+
+2004
+01:22:08,260 --> 01:22:10,380
+What do you know? They we love only IP.
+
+2005
+01:22:10,380 --> 01:22:11,940
+All we ever want is IP. All right.
+
+2006
+01:22:11,940 --> 01:22:15,140
+Here's a fun new IP idea. Never dare you.
+
+2007
+01:22:15,300 --> 01:22:19,260
+Let me can we show you the rule book that we have for Carlito's way?
+
+2008
+01:22:19,260 --> 01:22:22,540
+I sneak this into the last five minutes of like a meeting or a general meeting.
+
+2009
+01:22:22,660 --> 01:22:25,060
+It's always a matter of nothing.
+
+2010
+01:22:25,060 --> 01:22:27,780
+Not even like, oh, that is really funny to do like Mr.
+
+2011
+01:22:27,780 --> 01:22:31,500
+Belvedere or something shitty or well, they're going to that that's true.
+
+2012
+01:22:31,500 --> 01:22:35,420
+They're going to eat turds when in the smash success, by which I mean,
+
+2013
+01:22:35,420 --> 01:22:40,660
+like via tax loops, the smash success of cool as Carlito's way.
+
+2014
+01:22:41,220 --> 01:22:44,060
+Or is it Carlito's way as ice?
+
+2015
+01:22:44,260 --> 01:22:46,300
+I like cool as Carlito's way.
+
+2016
+01:22:46,300 --> 01:22:48,460
+I think that's good.
+
+2017
+01:22:48,460 --> 01:22:52,380
+I don't know much about Carlito, but I feel like they'll feel like they'll get a lot.
+
+2018
+01:22:52,380 --> 01:22:53,420
+You know, he's all right.
+
+2019
+01:22:53,420 --> 01:22:56,380
+So he's just released from prison.
+
+2020
+01:22:56,380 --> 01:23:00,540
+And like Johnny Van Owen is a wrong side of the tracks.
+
+2021
+01:23:01,300 --> 01:23:02,900
+You know, he's like a bad kid.
+
+2022
+01:23:02,900 --> 01:23:05,540
+That's why the Winslow family doesn't want their daughter
+
+2023
+01:23:05,540 --> 01:23:10,540
+Kathy to be spending time with him and running around an empty construction site
+
+2024
+01:23:10,540 --> 01:23:13,580
+with him and her father.
+
+2025
+01:23:13,580 --> 01:23:17,060
+And that I remember in cool as ice as Gordon Winslow,
+
+2026
+01:23:17,460 --> 01:23:20,100
+whose spoiler alert is on the lam from the mafia.
+
+2027
+01:23:20,420 --> 01:23:23,460
+Holy shit. It ties right into organized crime and Carly.
+
+2028
+01:23:23,460 --> 01:23:24,940
+Oh, my God. All right.
+
+2029
+01:23:24,940 --> 01:23:26,260
+It's actually perfect.
+
+2030
+01:23:26,260 --> 01:23:30,500
+And this character is played by Michael Gross of Family Ties fame.
+
+2031
+01:23:30,820 --> 01:23:34,940
+Who's in a lot of the Universal 1440 movies.
+
+2032
+01:23:35,260 --> 01:23:36,700
+So Michael's ready.
+
+2033
+01:23:36,700 --> 01:23:39,220
+He's ready to reprise his role as Gordon Winslow.
+
+2034
+01:23:39,220 --> 01:23:41,700
+I love it. Will they get Deezer D back?
+
+2035
+01:23:42,020 --> 01:23:45,220
+Who knows? Will they get Sean Penn back?
+
+2036
+01:23:45,780 --> 01:23:47,860
+I will make an offer.
+
+2037
+01:23:47,860 --> 01:23:50,500
+Yeah, we'll see if he's around.
+
+2038
+01:23:50,740 --> 01:23:55,780
+Well, look, when the gang from Deadly Games reaches out for help to manable.
+
+2039
+01:23:56,620 --> 01:23:58,900
+Yes, what I. That's a great one.
+
+2040
+01:23:59,060 --> 01:24:00,900
+Yeah, that's a piece.
+
+2041
+01:24:00,900 --> 01:24:04,180
+There's only half my interest in neither onto something I keep.
+
+2042
+01:24:04,580 --> 01:24:08,740
+You would think I'm insane the way people talk to me or like when I say this to them.
+
+2043
+01:24:09,300 --> 01:24:12,420
+One person, at least, I think maybe said like, oh, that is kind of funny,
+
+2044
+01:24:12,420 --> 01:24:13,940
+but I don't know about sustainability.
+
+2045
+01:24:13,940 --> 01:24:16,580
+I go, well, no, these shows aren't lasting anyway.
+
+2046
+01:24:16,580 --> 01:24:20,380
+These like mad about you is one season and it's out and it cost way more than it.
+
+2047
+01:24:20,380 --> 01:24:21,380
+Like this word.
+
+2048
+01:24:21,380 --> 01:24:25,140
+That's true. And you have to pay all these people who do care about who can command.
+
+2049
+01:24:25,140 --> 01:24:26,420
+Helen Hunt's relevant.
+
+2050
+01:24:26,420 --> 01:24:27,900
+Sure. A big salary.
+
+2051
+01:24:27,900 --> 01:24:32,180
+But when you when you're paying these are D to come back as jazz.
+
+2052
+01:24:32,900 --> 01:24:35,620
+Cool is Carlito Belvedere's dead.
+
+2053
+01:24:35,620 --> 01:24:38,140
+So we got to recast him and he can get an unknown.
+
+2054
+01:24:38,140 --> 01:24:39,900
+We can get Jason Sheridan to play Belvedere.
+
+2055
+01:24:39,900 --> 01:24:42,380
+I would gladly play Belvedere.
+
+2056
+01:24:42,380 --> 01:24:46,860
+Come on. Jason Sheridan is young Belvedere and then it Belvedere verse TJ Hooker.
+
+2057
+01:24:46,940 --> 01:24:49,020
+And we recast or we have Shatner.
+
+2058
+01:24:49,020 --> 01:24:50,420
+Shatner will do it for cheap.
+
+2059
+01:24:50,420 --> 01:24:52,340
+You know, we can he does he needs to work.
+
+2060
+01:24:52,340 --> 01:24:54,020
+Mm hmm. He loves to work.
+
+2061
+01:24:54,020 --> 01:24:57,740
+There's all this garbage with him that you never heard of because he just does anything.
+
+2062
+01:24:57,900 --> 01:25:02,580
+You know, it's funny. Producer friend of mine just gave me the literal price for Christopher Lloyd.
+
+2063
+01:25:02,580 --> 01:25:04,340
+Just if you're curious, I now know the no.
+
+2064
+01:25:04,340 --> 01:25:08,620
+Wow, really? Not going to say it now, but it's not it's not not doable.
+
+2065
+01:25:08,900 --> 01:25:11,860
+Sure. I believe a guy likes to work.
+
+2066
+01:25:12,180 --> 01:25:14,940
+But it's also respected, but he's not like, you know, he's not a temp.
+
+2067
+01:25:14,940 --> 01:25:17,380
+Sure. But anyway, it was fascinating to learn the number.
+
+2068
+01:25:17,380 --> 01:25:19,940
+I love his Instagram. Christopher Lloyd's Instagram.
+
+2069
+01:25:19,940 --> 01:25:21,540
+I know he's on Instagram. He's on Instagram.
+
+2070
+01:25:21,540 --> 01:25:25,500
+And it's just kind of like like handsome looking pictures of him, like in a nice shirt.
+
+2071
+01:25:25,980 --> 01:25:27,660
+Wow. That's nice.
+
+2072
+01:25:27,660 --> 01:25:29,420
+I think his wife is in charge of it.
+
+2073
+01:25:29,420 --> 01:25:33,340
+Oh, but it'll be like, oh, yeah, like share some of your favorite memories of my films.
+
+2074
+01:25:33,660 --> 01:25:35,540
+And I'm like, he's not writing this.
+
+2075
+01:25:35,540 --> 01:25:39,660
+I mean, pairing just getting just take Christopher Lloyd characters
+
+2076
+01:25:39,660 --> 01:25:43,860
+like the bottom rung and put them together, which we know Sebastian Jackal.
+
+2077
+01:25:43,860 --> 01:25:48,740
+But then with like, is he does he play Mr. Payback and Mr. Payback?
+
+2078
+01:25:49,020 --> 01:25:51,780
+No, I don't think he does. He plays.
+
+2079
+01:25:51,780 --> 01:25:53,980
+I don't know.
+
+2080
+01:25:53,980 --> 01:25:55,780
+OK. Ed Jarvis.
+
+2081
+01:25:55,780 --> 01:25:59,420
+So Ed Jarvis versus we're so deep in the women.
+
+2082
+01:25:59,420 --> 01:26:00,500
+Nobody knows. Yeah.
+
+2083
+01:26:00,500 --> 01:26:02,140
+Everyone's turned this episode off.
+
+2084
+01:26:02,140 --> 01:26:02,860
+A lot of Cliff Notes.
+
+2085
+01:26:02,860 --> 01:26:05,180
+I'm going to print some money right now.
+
+2086
+01:26:05,180 --> 01:26:07,460
+Hudson Hawk versus Ford Fairley.
+
+2087
+01:26:08,460 --> 01:26:09,940
+Yeah, sure.
+
+2088
+01:26:09,940 --> 01:26:16,500
+I think Bruce Willis just sold him his likeness to a deep fake company.
+
+2089
+01:26:16,500 --> 01:26:20,340
+I think it's fake. I think the story itself might be.
+
+2090
+01:26:20,340 --> 01:26:22,940
+I only have heard it anyway. So perfect.
+
+2091
+01:26:22,940 --> 01:26:24,380
+I think so. Yeah. But why?
+
+2092
+01:26:24,380 --> 01:26:27,580
+But people it's going to give a lot of people a lot of ideas.
+
+2093
+01:26:27,580 --> 01:26:31,140
+Yeah, maybe he doesn't do it, but maybe a chess voluntary does it.
+
+2094
+01:26:32,260 --> 01:26:35,860
+It just feels like raking in residuals from themselves.
+
+2095
+01:26:37,740 --> 01:26:40,420
+Well, all right. We got a plan.
+
+2096
+01:26:40,420 --> 01:26:42,380
+I think I mean, we can wind it down.
+
+2097
+01:26:42,380 --> 01:26:45,380
+Unless there's unless I missed something incredible,
+
+2098
+01:26:46,220 --> 01:26:50,420
+someone out there is going to be like, he didn't even finish the bit like using
+
+2099
+01:26:51,020 --> 01:26:54,980
+logic and yeah, inferring.
+
+2100
+01:26:55,740 --> 01:27:03,300
+I don't. There is a kind of strange sequence where they find the spot.
+
+2101
+01:27:03,740 --> 01:27:06,020
+Spot is the monster who lives under the stairs.
+
+2102
+01:27:06,340 --> 01:27:09,140
+They he's like a little dragon guy.
+
+2103
+01:27:09,140 --> 01:27:10,420
+He should have been in it more.
+
+2104
+01:27:10,420 --> 01:27:11,700
+They should. He should have been around.
+
+2105
+01:27:11,700 --> 01:27:13,940
+Yeah, they find him in the sewers in Paris.
+
+2106
+01:27:14,500 --> 01:27:19,260
+I'll say the gag I think I like the best was the at the Halloween party.
+
+2107
+01:27:19,260 --> 01:27:23,900
+Herman meets a group of undertakers who are just kind of like sinister,
+
+2108
+01:27:23,900 --> 01:27:28,100
+kind of weird ghouls, and they want him to work, work for them.
+
+2109
+01:27:28,420 --> 01:27:30,300
+I don't remember that.
+
+2110
+01:27:31,500 --> 01:27:32,620
+Neither do I.
+
+2111
+01:27:32,620 --> 01:27:35,100
+I'm looking at my phone or dealing with the baby. I don't know.
+
+2112
+01:27:35,300 --> 01:27:36,180
+Yeah, yeah, yeah.
+
+2113
+01:27:36,180 --> 01:27:39,020
+Well, you know, it's the perfect kind of shit for you to do.
+
+2114
+01:27:39,020 --> 01:27:41,380
+And you're like, sit around, stay awake forever.
+
+2115
+01:27:41,980 --> 01:27:44,740
+You had a baby before the monsters had Eddie.
+
+2116
+01:27:45,220 --> 01:27:47,140
+That's a good point. In the new monsters.
+
+2117
+01:27:47,220 --> 01:27:49,500
+Good point. Wait, what do you mean?
+
+2118
+01:27:49,500 --> 01:27:50,620
+There's no Eddie.
+
+2119
+01:27:50,620 --> 01:27:51,780
+He has a baby. Oh, right.
+
+2120
+01:27:51,780 --> 01:27:53,700
+Oh, yes. Oh, I see.
+
+2121
+01:27:53,700 --> 01:27:55,260
+Right. Right. Insane.
+
+2122
+01:27:55,260 --> 01:27:58,500
+Yeah. At least you got to show us a baby with a widow's peak. Right.
+
+2123
+01:27:58,500 --> 01:28:00,780
+That's the main like easy.
+
+2124
+01:28:00,780 --> 01:28:03,100
+How do they not do that? It's the easiest thing ever.
+
+2125
+01:28:03,100 --> 01:28:05,980
+That's another thing where you're like, OK, Herman and grandpa are going to get along
+
+2126
+01:28:05,980 --> 01:28:08,380
+by the end of this. By the end of this, they're going to have Eddie.
+
+2127
+01:28:08,380 --> 01:28:10,740
+By the end, like none of it happens. Yeah.
+
+2128
+01:28:11,260 --> 01:28:14,220
+So strange. At least I guess the house is the closest thing.
+
+2129
+01:28:14,220 --> 01:28:16,420
+But still, that wasn't even something I was looking for.
+
+2130
+01:28:16,420 --> 01:28:18,940
+I was like, oh, it needs to have the house at the end.
+
+2131
+01:28:18,940 --> 01:28:21,100
+The other two, I was like, for sure, that's going to happen.
+
+2132
+01:28:21,100 --> 01:28:23,340
+Because there's even a scene where he's like, Lily, though.
+
+2133
+01:28:23,660 --> 01:28:27,380
+Well, like he's in the hotel room and they're going to like fornicate.
+
+2134
+01:28:27,580 --> 01:28:32,620
+Yeah. But I even talked about Lester, the werewolf deadbeat brother.
+
+2135
+01:28:32,740 --> 01:28:34,300
+Yeah, we haven't talked about Zombo.
+
+2136
+01:28:34,300 --> 01:28:35,380
+And I will say this.
+
+2137
+01:28:35,380 --> 01:28:37,940
+I have a Zombo toy from the movie that I bought.
+
+2138
+01:28:38,340 --> 01:28:40,820
+I had a friend buy me from Comic Con.
+
+2139
+01:28:40,820 --> 01:28:43,020
+You own a toy of this movie.
+
+2140
+01:28:43,020 --> 01:28:44,660
+Yeah, I do. Oh, my God.
+
+2141
+01:28:45,180 --> 01:28:46,820
+I have to sell it, I think.
+
+2142
+01:28:46,820 --> 01:28:49,140
+Let me ask you a question. Yes, go ahead.
+
+2143
+01:28:49,620 --> 01:28:52,860
+I got toys made Zombo and they're making toys from this movie.
+
+2144
+01:28:52,860 --> 01:28:54,500
+All right. I like the name Zombo.
+
+2145
+01:28:54,500 --> 01:28:55,980
+Zombo is great. And the design is cool.
+
+2146
+01:28:55,980 --> 01:28:57,060
+So I may keep it. But.
+
+2147
+01:28:57,060 --> 01:29:00,100
+OK, just real quick. Tell me who is Zombo.
+
+2148
+01:29:00,620 --> 01:29:02,220
+Zombo is like a children.
+
+2149
+01:29:02,220 --> 01:29:03,900
+It's from the original show.
+
+2150
+01:29:03,900 --> 01:29:05,980
+He's like a TV character.
+
+2151
+01:29:05,980 --> 01:29:09,660
+He's dressed like that when Ivan Ooze is like
+
+2152
+01:29:11,140 --> 01:29:14,540
+like advertising the Ooze with the little hat, the wizard's hat.
+
+2153
+01:29:14,940 --> 01:29:17,180
+He's like Zombo is like a children's character.
+
+2154
+01:29:17,180 --> 01:29:18,420
+Who is he in the movie?
+
+2155
+01:29:18,420 --> 01:29:20,580
+He's on TV. He's like a show. It's a show.
+
+2156
+01:29:20,580 --> 01:29:22,220
+Oh, OK. Zombo is doing a show.
+
+2157
+01:29:22,220 --> 01:29:25,460
+OK, I remember his Bozo.
+
+2158
+01:29:25,540 --> 01:29:26,980
+Exactly. Yes. OK.
+
+2159
+01:29:26,980 --> 01:29:29,420
+He's like Zombie Bozo. Yes. Yeah. OK. Interesting.
+
+2160
+01:29:29,420 --> 01:29:33,740
+So, yes, I got too excited and said, yeah, pick me up a Zombo.
+
+2161
+01:29:33,900 --> 01:29:35,820
+Griffin Newman may have also picked up a Zombo.
+
+2162
+01:29:35,820 --> 01:29:37,300
+I forget. I don't know.
+
+2163
+01:29:37,300 --> 01:29:38,780
+You might have two Zombo's.
+
+2164
+01:29:38,780 --> 01:29:39,940
+I don't know. Well, not for me.
+
+2165
+01:29:39,940 --> 01:29:41,420
+He bought it for himself.
+
+2166
+01:29:41,420 --> 01:29:43,140
+I don't know if he has a Zombo or not,
+
+2167
+01:29:43,140 --> 01:29:46,540
+but I think he mentioned he may need a Zombo before Comic Con.
+
+2168
+01:29:47,300 --> 01:29:50,660
+He does use that phrase need for things like that.
+
+2169
+01:29:51,260 --> 01:29:55,180
+This is how all the I will say this is all the toy guys I know talk.
+
+2170
+01:29:55,740 --> 01:29:57,460
+I'm going to need one of those.
+
+2171
+01:29:57,460 --> 01:30:00,660
+Yeah. Kind of like with a little regret, the little bit.
+
+2172
+01:30:00,660 --> 01:30:03,220
+Yeah. You know, you're aware of how it sounds.
+
+2173
+01:30:03,220 --> 01:30:07,020
+It's a justification in your own mind of like, can't turn this one down.
+
+2174
+01:30:07,340 --> 01:30:09,540
+Yeah. Shit. Oh, oh.
+
+2175
+01:30:09,540 --> 01:30:12,660
+All right. And so you're maybe not
+
+2176
+01:30:12,660 --> 01:30:16,500
+going to need to watch more than 38 minutes of the movie, but you are need to get
+
+2177
+01:30:17,300 --> 01:30:18,980
+you are going to need to get a Zombo.
+
+2178
+01:30:18,980 --> 01:30:20,060
+That's to the listeners.
+
+2179
+01:30:20,060 --> 01:30:21,580
+Yeah. For the listener. Yeah. Yeah.
+
+2180
+01:30:21,580 --> 01:30:23,500
+Well, I do like your Zombo.
+
+2181
+01:30:23,500 --> 01:30:25,940
+I do. I mean, he's in the box still.
+
+2182
+01:30:25,940 --> 01:30:27,780
+The box is cool.
+
+2183
+01:30:27,780 --> 01:30:32,180
+It will probably be the last zombie monster's toy I get because they're making
+
+2184
+01:30:32,340 --> 01:30:36,980
+this is in the eight inch doll line, which is different than the seven inch.
+
+2185
+01:30:36,980 --> 01:30:39,580
+Like the back to the future figures I've gotten, you are the seven inch
+
+2186
+01:30:39,580 --> 01:30:40,860
+ultimate line.
+
+2187
+01:30:40,860 --> 01:30:42,460
+Zombo is kind of more of like a doll.
+
+2188
+01:30:42,460 --> 01:30:43,500
+He's a little bit bigger.
+
+2189
+01:30:43,500 --> 01:30:45,620
+He's not a plush, but he's a little bit more.
+
+2190
+01:30:45,620 --> 01:30:48,500
+He's a little taller and he's a little bit more like, I don't know,
+
+2191
+01:30:48,620 --> 01:30:49,980
+the clothes are a little looser.
+
+2192
+01:30:49,980 --> 01:30:52,660
+They're not like molded onto the figure.
+
+2193
+01:30:52,860 --> 01:30:55,900
+Well, speaking of pairing up obscure properties,
+
+2194
+01:30:56,380 --> 01:30:59,500
+now you get to go home and Zombo can face off against Mr.
+
+2195
+01:30:59,500 --> 01:31:01,460
+Taffy. Yes.
+
+2196
+01:31:01,460 --> 01:31:04,420
+Oh, Zombo meets Taffy.
+
+2197
+01:31:05,180 --> 01:31:07,340
+It's funny you say that because I am
+
+2198
+01:31:07,340 --> 01:31:11,420
+I'm very big on making sure the scale is right when I'm displaying things.
+
+2199
+01:31:11,420 --> 01:31:12,460
+Ah, yeah.
+
+2200
+01:31:12,460 --> 01:31:15,260
+So I'll have to see how it lines up is what I'm saying.
+
+2201
+01:31:15,540 --> 01:31:19,740
+Well, it's hard to know how big Zombo or well, Zombo,
+
+2202
+01:31:20,540 --> 01:31:21,660
+more so Mr. Taffy.
+
+2203
+01:31:21,660 --> 01:31:27,300
+We don't you know, we only Jason can affirm that from his travels to New Jersey.
+
+2204
+01:31:27,580 --> 01:31:30,180
+Well, he's certainly taller than me.
+
+2205
+01:31:30,180 --> 01:31:31,180
+So
+
+2206
+01:31:33,180 --> 01:31:34,380
+I'd say he's a little tall.
+
+2207
+01:31:34,380 --> 01:31:37,940
+I think through pictures, I think I have a picture with Mr.
+
+2208
+01:31:37,940 --> 01:31:39,140
+Taffy. Oh, great.
+
+2209
+01:31:39,140 --> 01:31:42,340
+Well, there used to be a time on the board was your live time in the boardwalk.
+
+2210
+01:31:42,340 --> 01:31:43,620
+You could walk.
+
+2211
+01:31:43,620 --> 01:31:46,860
+You get a picture with this staffy, walk down the block,
+
+2212
+01:31:46,860 --> 01:31:47,820
+get a picture with Mr.
+
+2213
+01:31:47,820 --> 01:31:49,220
+Peanut, you know.
+
+2214
+01:31:49,220 --> 01:31:50,540
+Mm hmm. This seems a boy.
+
+2215
+01:31:50,540 --> 01:31:52,100
+So this is a sad New Jersey.
+
+2216
+01:31:52,100 --> 01:31:54,140
+Yeah, this is a really I know.
+
+2217
+01:31:54,140 --> 01:31:58,660
+Well, the calli after many decades, the peanut shop finally shut down.
+
+2218
+01:31:58,780 --> 01:32:00,460
+So blew up the peanut.
+
+2219
+01:32:00,460 --> 01:32:02,380
+They blew up the peanut.
+
+2220
+01:32:02,380 --> 01:32:05,380
+Last night blew up the peanut, man.
+
+2221
+01:32:07,020 --> 01:32:08,660
+All right. Well, it seems like we're done.
+
+2222
+01:32:08,660 --> 01:32:14,580
+So let me do the the little post show plugs and and then one more little thing.
+
+2223
+01:32:15,700 --> 01:32:18,420
+So you survived haunt cast the fright.
+
+2224
+01:32:18,420 --> 01:32:22,380
+And I hope you listen for I do hope you listen to more than 38 minutes of it.
+
+2225
+01:32:23,420 --> 01:32:25,460
+Thank you for subscribing to the cemetery gate.
+
+2226
+01:32:25,540 --> 01:32:29,140
+If you want to dig like Grave, dig even deeper.
+
+2227
+01:32:29,340 --> 01:32:33,380
+Join us on our new Patreon tier club three, which has a spooky name coming.
+
+2228
+01:32:33,380 --> 01:32:34,980
+We'll have to discuss it.
+
+2229
+01:32:34,980 --> 01:32:38,220
+And that's where you get one more bonus episode every month
+
+2230
+01:32:38,220 --> 01:32:41,460
+and our regular episodes ad free for this month.
+
+2231
+01:32:41,460 --> 01:32:45,220
+We have landed on by audience demand in a squeaker.
+
+2232
+01:32:45,460 --> 01:32:46,660
+It's real squeak.
+
+2233
+01:32:46,660 --> 01:32:47,580
+I was incredible.
+
+2234
+01:32:47,580 --> 01:32:51,700
+I Island Under Siege, which is the 2002
+
+2235
+01:32:51,900 --> 01:32:55,500
+Marvel scare zone at Islands of Adventure,
+
+2236
+01:32:55,740 --> 01:32:59,580
+where the superheroes are dead and the villains have run rampant.
+
+2237
+01:32:59,620 --> 01:33:01,700
+Yeah. And superhero Island.
+
+2238
+01:33:01,700 --> 01:33:03,340
+Yeah, that's a premise.
+
+2239
+01:33:03,340 --> 01:33:05,420
+I don't know about it.
+
+2240
+01:33:05,420 --> 01:33:07,460
+I'm excited to check it out.
+
+2241
+01:33:07,460 --> 01:33:10,300
+Thrilled. See, and see, it's sort of in league.
+
+2242
+01:33:10,420 --> 01:33:14,060
+It's as inventive as Mike's idea of pairing up the obscure.
+
+2243
+01:33:14,740 --> 01:33:15,860
+Yeah. Yeah.
+
+2244
+01:33:15,860 --> 01:33:18,940
+Which seems like then the Marvel rulebook came out.
+
+2245
+01:33:18,940 --> 01:33:21,220
+And that was the end of that.
+
+2246
+01:33:21,220 --> 01:33:22,460
+But we'll deal with that on Club Three.
+
+2247
+01:33:22,460 --> 01:33:24,460
+Check that out on Club Three for now.
+
+2248
+01:33:24,460 --> 01:33:25,260
+Just quick clip.
+
+2249
+01:33:25,260 --> 01:33:28,980
+This is from I was starting to say the Munsters today, the 80s show,
+
+2250
+01:33:28,980 --> 01:33:30,100
+when it's in the late 80s.
+
+2251
+01:33:30,100 --> 01:33:33,180
+So you know what you have to have your
+
+2252
+01:33:33,180 --> 01:33:34,980
+fish out of water characters do?
+
+2253
+01:33:34,980 --> 01:33:36,100
+They got a rap.
+
+2254
+01:33:36,100 --> 01:33:41,580
+And this is from the premise here is that the Munsters are
+
+2255
+01:33:42,180 --> 01:33:44,180
+they have gone to visit.
+
+2256
+01:33:44,180 --> 01:33:46,820
+So a rock band was living in their house.
+
+2257
+01:33:46,820 --> 01:33:51,140
+The rock band is called the Lizards and then grandpa turned them into actual lizards.
+
+2258
+01:33:51,460 --> 01:33:57,060
+So they they're going to be late for their heavily
+
+2259
+01:33:58,580 --> 01:34:01,180
+hyped up appearance on the show Rock Fever.
+
+2260
+01:34:01,820 --> 01:34:04,780
+So and the audience is psyched.
+
+2261
+01:34:04,780 --> 01:34:07,780
+They cannot wait to see the lizards.
+
+2262
+01:34:07,780 --> 01:34:10,620
+So the Munsters have to bring the lizards and hope that something
+
+2263
+01:34:10,620 --> 01:34:12,900
+happened or that they at least can apologize or whatever.
+
+2264
+01:34:12,900 --> 01:34:15,260
+But instead, oh, you guys must be the lizards.
+
+2265
+01:34:15,500 --> 01:34:16,940
+Shove them onto the stage.
+
+2266
+01:34:16,940 --> 01:34:18,740
+And now they're with the lizards instruments.
+
+2267
+01:34:18,740 --> 01:34:19,860
+What are we going to do?
+
+2268
+01:34:19,860 --> 01:34:20,900
+The audience is waiting.
+
+2269
+01:34:20,900 --> 01:34:23,460
+The audience doesn't seem to care that they aren't the band.
+
+2270
+01:34:23,620 --> 01:34:25,340
+They're so excited.
+
+2271
+01:34:25,340 --> 01:34:27,020
+They don't know what they look like.
+
+2272
+01:34:27,020 --> 01:34:28,860
+They just like the name the lizards.
+
+2273
+01:34:28,860 --> 01:34:30,100
+Anyway, what do we do?
+
+2274
+01:34:30,100 --> 01:34:31,340
+We got to improvise.
+
+2275
+01:34:31,340 --> 01:34:35,420
+And Herman improvises a rap about how much she loves Lily.
+
+2276
+01:34:36,020 --> 01:34:39,020
+So that's that this thanks for listening.
+
+2277
+01:34:39,020 --> 01:34:41,980
+And so we'll see how much of this we can we can get through.
+
+2278
+01:34:42,140 --> 01:34:44,620
+Take it away, Herman.
+
+2279
+01:34:44,620 --> 01:34:49,060
+Ready, one, two, one, two, three, four.
+
+2280
+01:34:51,900 --> 01:34:58,100
+I saw her across the swamp one night and knew it was love at first sight.
+
+2281
+01:34:58,260 --> 01:35:00,660
+And tones and snakes slithered by.
+
+2282
+01:35:00,780 --> 01:35:03,140
+I hope that I would catch her eye.
+
+2283
+01:35:03,460 --> 01:35:05,460
+So he gives the monster rap.
+
+2284
+01:35:05,780 --> 01:35:07,860
+So he gives the monster rap.
+
+2285
+01:35:08,100 --> 01:35:10,340
+When she spoke, wolves howled and howled.
+
+2286
+01:35:11,060 --> 01:35:12,060
+Let's do it.
+
+2287
+01:35:12,900 --> 01:35:15,140
+I knew that I would love her so.
+
+2288
+01:35:15,140 --> 01:35:17,100
+She came right out and growled.
+
+2289
+01:35:17,100 --> 01:35:21,780
+He shakes the ground when he stalks him.
+

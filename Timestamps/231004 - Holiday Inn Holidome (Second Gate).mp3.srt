@@ -1,0 +1,6448 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:24,000
+Welcome to Podcasts that Ride the Second Gate,
+
+3
+00:00:24,000 --> 00:00:28,000
+with the only podcast where the indoor pool causes humidity
+
+4
+00:00:28,000 --> 00:00:31,000
+that just destroys our microphones constantly.
+
+5
+00:00:31,000 --> 00:00:35,000
+I'm Jason Sheridan, joined by Scott Gardner.
+
+6
+00:00:35,000 --> 00:00:38,000
+And we insist on it though, because it has therapeutic value
+
+7
+00:00:38,000 --> 00:00:41,000
+and yeah, do we have to replace our equipment
+
+8
+00:00:41,000 --> 00:00:43,000
+over and over and over again?
+
+9
+00:00:43,000 --> 00:00:46,000
+Yeah, does it stink? Yeah, but you know what?
+
+10
+00:00:46,000 --> 00:00:49,000
+That after show splashdown can't beat that.
+
+11
+00:00:49,000 --> 00:00:53,000
+Can't beat that, and A, the ceilings are just demolished
+
+12
+00:00:53,000 --> 00:00:55,000
+wherever we record.
+
+13
+00:00:55,000 --> 00:00:57,000
+It's cheaper to demolish than repair.
+
+14
+00:00:57,000 --> 00:00:59,000
+Mike Carlson also here.
+
+15
+00:00:59,000 --> 00:01:01,000
+Everywhere we go, we demolish.
+
+16
+00:01:01,000 --> 00:01:04,000
+That's the thing we literally and figuratively, I think.
+
+17
+00:01:04,000 --> 00:01:05,000
+Don't you think?
+
+18
+00:01:05,000 --> 00:01:09,000
+We're like the Ramones in a hotel room.
+
+19
+00:01:09,000 --> 00:01:10,000
+Yeah, that's true, yeah.
+
+20
+00:01:10,000 --> 00:01:12,000
+That's anytime we've gone and traveled for a show,
+
+21
+00:01:12,000 --> 00:01:14,000
+we destroy the hotel rooms as well.
+
+22
+00:01:14,000 --> 00:01:15,000
+With humidity.
+
+23
+00:01:15,000 --> 00:01:16,000
+Yeah, yeah.
+
+24
+00:01:16,000 --> 00:01:18,000
+Bathrooms we demolish in a different way.
+
+25
+00:01:18,000 --> 00:01:20,000
+I'm running like 10 different humidifiers
+
+26
+00:01:20,000 --> 00:01:22,000
+in a hotel room to trash it.
+
+27
+00:01:22,000 --> 00:01:23,000
+That's the way I do it.
+
+28
+00:01:23,000 --> 00:01:26,000
+Turn the water, turn the bath all the way to hot,
+
+29
+00:01:26,000 --> 00:01:28,000
+and don't run the fan.
+
+30
+00:01:28,000 --> 00:01:30,000
+The wallpaper starts peeling by the morning.
+
+31
+00:01:30,000 --> 00:01:33,000
+I'm just a fucking chaos agent.
+
+32
+00:01:33,000 --> 00:01:35,000
+Oh yeah, and you sleep terribly.
+
+33
+00:01:35,000 --> 00:01:36,000
+I hate it.
+
+34
+00:01:36,000 --> 00:01:37,000
+I hate it.
+
+35
+00:01:37,000 --> 00:01:38,000
+I hate sleeping like that.
+
+36
+00:01:38,000 --> 00:01:39,000
+But you gotta do it.
+
+37
+00:01:39,000 --> 00:01:41,000
+But I'm like the fucking Ramones, baby.
+
+38
+00:01:41,000 --> 00:01:44,000
+You build a climate around yourself.
+
+39
+00:01:44,000 --> 00:01:46,000
+Mikey Ramone, that's what they call me.
+
+40
+00:01:46,000 --> 00:01:48,000
+That's what I sign in under at a hotel
+
+41
+00:01:48,000 --> 00:01:51,000
+just to keep the listeners away also.
+
+42
+00:01:51,000 --> 00:01:53,000
+They're always bothering me.
+
+43
+00:01:53,000 --> 00:01:55,000
+So I do that for many reasons.
+
+44
+00:01:55,000 --> 00:01:56,000
+But anyway.
+
+45
+00:01:56,000 --> 00:01:58,000
+Anyway, it's my birthday shot.
+
+46
+00:01:58,000 --> 00:01:59,000
+It's my birthday shot.
+
+47
+00:01:59,000 --> 00:02:01,000
+And today is actually my birthday.
+
+48
+00:02:01,000 --> 00:02:02,000
+This is coming out.
+
+49
+00:02:02,000 --> 00:02:03,000
+This is the first.
+
+50
+00:02:03,000 --> 00:02:04,000
+That's great.
+
+51
+00:02:04,000 --> 00:02:05,000
+It actually lines up.
+
+52
+00:02:05,000 --> 00:02:06,000
+That's wonderful.
+
+53
+00:02:06,000 --> 00:02:07,000
+Well, happy birthday.
+
+54
+00:02:07,000 --> 00:02:08,000
+Happy birthday to you.
+
+55
+00:02:08,000 --> 00:02:12,000
+And thank you to all the listeners for voting.
+
+56
+00:02:12,000 --> 00:02:15,000
+This was kind of a, I don't want to say a blowout.
+
+57
+00:02:15,000 --> 00:02:16,000
+But the topic.
+
+58
+00:02:16,000 --> 00:02:19,000
+It took an early lead and never really wavered.
+
+59
+00:02:19,000 --> 00:02:20,000
+I agree, yes.
+
+60
+00:02:20,000 --> 00:02:21,000
+You did a poll.
+
+61
+00:02:21,000 --> 00:02:25,000
+You threw it to the listeners in a nice way.
+
+62
+00:02:25,000 --> 00:02:29,000
+It was nice of you to democratize your own birthday
+
+63
+00:02:29,000 --> 00:02:34,000
+to fraction off sections of your own mind and interests
+
+64
+00:02:34,000 --> 00:02:37,000
+and let the listeners pick the Jason they want.
+
+65
+00:02:37,000 --> 00:02:38,000
+Yeah.
+
+66
+00:02:38,000 --> 00:02:41,000
+And they resoundingly picked Holodome.
+
+67
+00:02:41,000 --> 00:02:42,000
+Holiday against Holodome.
+
+68
+00:02:42,000 --> 00:02:45,000
+My choice of law is like dead last again.
+
+69
+00:02:45,000 --> 00:02:46,000
+What was it?
+
+70
+00:02:46,000 --> 00:02:47,000
+Generation X.
+
+71
+00:02:47,000 --> 00:02:48,000
+Oh, OK.
+
+72
+00:02:48,000 --> 00:02:49,000
+Yeah.
+
+73
+00:02:49,000 --> 00:02:50,000
+We'll get to it.
+
+74
+00:02:50,000 --> 00:02:53,000
+Well, I was like, I think I would either.
+
+75
+00:02:53,000 --> 00:02:55,000
+I'm curious to see what wins.
+
+76
+00:02:55,000 --> 00:02:58,000
+I'm rooting for either Holodome or Island Skipper Tours.
+
+77
+00:02:58,000 --> 00:03:01,000
+Island Skipper Tours feels like a second gate any time.
+
+78
+00:03:01,000 --> 00:03:04,000
+I mean, it's a theme park mode of transit.
+
+79
+00:03:04,000 --> 00:03:06,000
+You don't have to justify it to me.
+
+80
+00:03:06,000 --> 00:03:07,000
+Yeah.
+
+81
+00:03:07,000 --> 00:03:11,000
+So, but Holodome had just been a recent obsession.
+
+82
+00:03:11,000 --> 00:03:13,000
+I don't think I knew about it.
+
+83
+00:03:13,000 --> 00:03:14,000
+Really?
+
+84
+00:03:14,000 --> 00:03:15,000
+Until a few months ago.
+
+85
+00:03:15,000 --> 00:03:17,000
+This has just been something you've been thinking about.
+
+86
+00:03:17,000 --> 00:03:20,000
+I've been thinking about and was reading about it.
+
+87
+00:03:20,000 --> 00:03:24,000
+But this was apparently, you know, this was all over the place.
+
+88
+00:03:24,000 --> 00:03:25,000
+Uh-huh.
+
+89
+00:03:25,000 --> 00:03:31,000
+And this is, so the basic premise here, we know holiday ends.
+
+90
+00:03:31,000 --> 00:03:32,000
+There are holiday ends.
+
+91
+00:03:32,000 --> 00:03:36,000
+This is a chain that we know and trust and love, maybe.
+
+92
+00:03:36,000 --> 00:03:37,000
+Probably not.
+
+93
+00:03:37,000 --> 00:03:43,000
+I feel like there was a time where this was a chain that people liked of hotels.
+
+94
+00:03:43,000 --> 00:03:45,000
+But some are fine, I'm sure.
+
+95
+00:03:45,000 --> 00:03:50,000
+But the idea being that there's a little bit more.
+
+96
+00:03:50,000 --> 00:03:52,000
+This isn't just a hotel.
+
+97
+00:03:52,000 --> 00:03:54,000
+This is a place where you can stay and play.
+
+98
+00:03:54,000 --> 00:04:01,000
+Yeah, well, it was one of the first big chains to every location has a swimming pool.
+
+99
+00:04:01,000 --> 00:04:06,000
+And this was, yeah, I guess you take for granted that this was not the case.
+
+100
+00:04:06,000 --> 00:04:07,000
+Yeah.
+
+101
+00:04:07,000 --> 00:04:11,000
+With hotels, that hotels were miserable and plain.
+
+102
+00:04:11,000 --> 00:04:14,000
+You were lucky if there were sheets on the bed.
+
+103
+00:04:14,000 --> 00:04:16,000
+You didn't have to bring your own.
+
+104
+00:04:16,000 --> 00:04:17,000
+Yeah.
+
+105
+00:04:17,000 --> 00:04:18,000
+This is fine.
+
+106
+00:04:18,000 --> 00:04:24,000
+You are here for your meeting and then you get out of town and you don't travel with your family.
+
+107
+00:04:24,000 --> 00:04:25,000
+No.
+
+108
+00:04:25,000 --> 00:04:27,000
+This is for business only.
+
+109
+00:04:27,000 --> 00:04:31,000
+Women weren't allowed to travel until the late 50s.
+
+110
+00:04:31,000 --> 00:04:32,000
+Yeah, yeah.
+
+111
+00:04:32,000 --> 00:04:33,000
+Yeah.
+
+112
+00:04:33,000 --> 00:04:35,000
+Look, I saw Carol, you know.
+
+113
+00:04:35,000 --> 00:04:36,000
+You saw what?
+
+114
+00:04:36,000 --> 00:04:38,000
+I saw Carol.
+
+115
+00:04:38,000 --> 00:04:39,000
+You saw Carol.
+
+116
+00:04:39,000 --> 00:04:40,000
+Oh, the movie Carol.
+
+117
+00:04:40,000 --> 00:04:41,000
+Yeah, the movie Carol.
+
+118
+00:04:41,000 --> 00:04:43,000
+Oh, I don't know what the movie, what is the, whatever's in there.
+
+119
+00:04:43,000 --> 00:04:44,000
+They kind of go on.
+
+120
+00:04:44,000 --> 00:04:50,000
+It's like a woman falls in love with a woman who works at an apartment store and they go on the run for a little while.
+
+121
+00:04:50,000 --> 00:04:51,000
+Ah, okay.
+
+122
+00:04:51,000 --> 00:05:00,000
+But yeah, so the Holiday Inn opens, you know, and they start franchising.
+
+123
+00:05:00,000 --> 00:05:11,000
+And some local franchisers, franchisees in North Dakota are like for eight or nine months of the year, the pool is useless.
+
+124
+00:05:12,000 --> 00:05:15,000
+So they build in like an atrium sort of thing.
+
+125
+00:05:15,000 --> 00:05:16,000
+They enclose it.
+
+126
+00:05:16,000 --> 00:05:17,000
+Yes.
+
+127
+00:05:17,000 --> 00:05:19,000
+And then they extend that.
+
+128
+00:05:19,000 --> 00:05:23,000
+A corporate sees how well it's doing and extends it.
+
+129
+00:05:23,000 --> 00:05:25,000
+Seemingly nationwide.
+
+130
+00:05:25,000 --> 00:05:29,000
+I truly thought initially this was like a proof of concept thing.
+
+131
+00:05:29,000 --> 00:05:31,000
+But they were everywhere.
+
+132
+00:05:31,000 --> 00:05:35,000
+And what defines a holiday?
+
+133
+00:05:35,000 --> 00:05:39,000
+If you, if then on the corporate level, this becomes the thing that they roll out.
+
+134
+00:05:39,000 --> 00:05:44,000
+What are we expecting as guests when we see, oh, this is no mere Holiday Inn.
+
+135
+00:05:44,000 --> 00:05:46,000
+This is a holodome.
+
+136
+00:05:46,000 --> 00:05:48,000
+Well, here's a post.
+
+137
+00:05:48,000 --> 00:05:51,000
+There's some postcards that are pretty well preserved.
+
+138
+00:05:51,000 --> 00:05:54,000
+So this is an indoor pool.
+
+139
+00:05:54,000 --> 00:05:59,000
+There's a tiki bar, some mini golf or putting greens.
+
+140
+00:05:59,000 --> 00:06:06,000
+Some of the others I saw video at pool tables and later on video arcades shuffleboard.
+
+141
+00:06:06,000 --> 00:06:08,000
+Yeah, there's pool tables in that, in that image.
+
+142
+00:06:08,000 --> 00:06:09,000
+I have that pulled up as well.
+
+143
+00:06:09,000 --> 00:06:13,000
+It's really funny because they're just kind of hanging out in this big open space.
+
+144
+00:06:13,000 --> 00:06:16,000
+I know you always think of pool tables in a small, like a smaller room.
+
+145
+00:06:16,000 --> 00:06:22,000
+It's you don't, you don't expect pool tables, I guess, to have so much ceiling.
+
+146
+00:06:22,000 --> 00:06:23,000
+Yes, exactly.
+
+147
+00:06:23,000 --> 00:06:26,000
+So much narrower spaces is what you expect.
+
+148
+00:06:26,000 --> 00:06:27,000
+Your pool halls.
+
+149
+00:06:27,000 --> 00:06:28,000
+Yes.
+
+150
+00:06:28,000 --> 00:06:30,000
+A big pool, a big pool.
+
+151
+00:06:30,000 --> 00:06:32,000
+A pool, I don't know.
+
+152
+00:06:32,000 --> 00:06:33,000
+A swimming pool.
+
+153
+00:06:33,000 --> 00:06:34,000
+A big swimming pool.
+
+154
+00:06:34,000 --> 00:06:37,000
+And then two pool tables nearby with shirtless people.
+
+155
+00:06:37,000 --> 00:06:39,000
+Shirtless people or I guess there's a lady playing.
+
+156
+00:06:39,000 --> 00:06:40,000
+Here's another one.
+
+157
+00:06:40,000 --> 00:06:42,000
+This is also South Dakota.
+
+158
+00:06:42,000 --> 00:06:45,000
+Yeah, and there's pool tables there in a big open space as well.
+
+159
+00:06:45,000 --> 00:06:46,000
+And skylights.
+
+160
+00:06:46,000 --> 00:06:49,000
+That was a big feature on some of these.
+
+161
+00:06:49,000 --> 00:06:53,000
+Some of them let you see natural light.
+
+162
+00:06:53,000 --> 00:06:58,000
+Yeah, and that apparently let moonlight in at night is very nice.
+
+163
+00:06:58,000 --> 00:06:59,000
+There was inner lighting.
+
+164
+00:06:59,000 --> 00:07:01,000
+And you could swim all year round.
+
+165
+00:07:01,000 --> 00:07:02,000
+You could swim all year round.
+
+166
+00:07:02,000 --> 00:07:10,000
+That's the idea here, which I will say as a kid, this was so exciting to me growing up in the chilly Midwest during the fall and winter seasons.
+
+167
+00:07:10,000 --> 00:07:14,000
+The idea that, oh my gosh, we could go and swim in the winter.
+
+168
+00:07:14,000 --> 00:07:26,000
+And yes, and that is, are you talking about in Illinois that there are indoor, like, are you picturing like vacations close-ish to home?
+
+169
+00:07:26,000 --> 00:07:31,000
+Or I know the Wisconsin Dells loom large in your childhood.
+
+170
+00:07:31,000 --> 00:07:34,000
+Yes, there was indoor pools there.
+
+171
+00:07:34,000 --> 00:07:38,000
+And I forget there was a nearby hotel that I don't forget.
+
+172
+00:07:38,000 --> 00:07:39,000
+I don't think we stayed at there.
+
+173
+00:07:39,000 --> 00:07:40,000
+There was some reason we used the pool.
+
+174
+00:07:40,000 --> 00:07:44,000
+But there was, I forget, maybe I was 10 or 11 or 12.
+
+175
+00:07:44,000 --> 00:07:50,000
+At the park, the local park district, they did a big renovation on the local pool and they made it.
+
+176
+00:07:50,000 --> 00:07:55,000
+It used to be outdoors and they put a big, I don't know, it wasn't a dome, but a building over it.
+
+177
+00:07:55,000 --> 00:07:58,000
+And they certainly changed the name to Waterworks.
+
+178
+00:07:58,000 --> 00:08:04,000
+And then they put in a pool with a hologram on mist at the bottom of it, which was very unremarkable.
+
+179
+00:08:04,000 --> 00:08:05,000
+We used to make fun of it all the time.
+
+180
+00:08:05,000 --> 00:08:08,000
+But you could go picture of that work.
+
+181
+00:08:08,000 --> 00:08:10,000
+It was just like Barbosa or.
+
+182
+00:08:10,000 --> 00:08:14,000
+But they do tell tales in the Pirates of the Caribbean, but much worse.
+
+183
+00:08:14,000 --> 00:08:16,000
+And you couldn't tell what it was.
+
+184
+00:08:16,000 --> 00:08:17,000
+Oh, OK. You couldn't.
+
+185
+00:08:17,000 --> 00:08:20,000
+But it was it was making no sound because it's under the water.
+
+186
+00:08:20,000 --> 00:08:21,000
+No, there's no fun.
+
+187
+00:08:22,000 --> 00:08:27,000
+But it was just yeah, there was just like it was misting at the end of the slide and there was a projection on it.
+
+188
+00:08:27,000 --> 00:08:30,000
+And they would change it and we could never tell what it was.
+
+189
+00:08:30,000 --> 00:08:32,000
+So we would make jokes about it.
+
+190
+00:08:32,000 --> 00:08:35,000
+But it was you could go swimming all year round.
+
+191
+00:08:35,000 --> 00:08:36,000
+And it was very exciting.
+
+192
+00:08:36,000 --> 00:08:43,000
+I do love the sound of that because I like I wish that there were more because I'd want to talk about them all the time on this show.
+
+193
+00:08:43,000 --> 00:08:47,000
+I wish that there were more water slides with plots.
+
+194
+00:08:47,000 --> 00:08:49,000
+Sure. Yeah. Like Dr. Von Dark.
+
+195
+00:08:49,000 --> 00:08:50,000
+Yeah. Yeah.
+
+196
+00:08:50,000 --> 00:08:51,000
+Dr. Von Dark.
+
+197
+00:08:51,000 --> 00:08:52,000
+Raging Waters.
+
+198
+00:08:52,000 --> 00:08:59,000
+And I. Oh, well, that's just for the listener, because I you know, there's no way to like that's a that's too big of an area to canvas.
+
+199
+00:08:59,000 --> 00:09:03,000
+If you've been on a water slide with a plot that we don't know about.
+
+200
+00:09:03,000 --> 00:09:04,000
+Yeah. Yeah.
+
+201
+00:09:04,000 --> 00:09:06,000
+There's one close to you.
+
+202
+00:09:06,000 --> 00:09:07,000
+Please let us know.
+
+203
+00:09:07,000 --> 00:09:10,000
+Because water water slides with plots, I think, is completely an episode.
+
+204
+00:09:10,000 --> 00:09:11,000
+I agree. Yeah.
+
+205
+00:09:11,000 --> 00:09:16,000
+There's the Typhoon Lagoon one that's connected to see.
+
+206
+00:09:16,000 --> 00:09:17,000
+Yes. Yeah.
+
+207
+00:09:17,000 --> 00:09:18,000
+Yeah. Sure. Yeah. Yeah.
+
+208
+00:09:18,000 --> 00:09:21,000
+But, you know, it's a little showy, right?
+
+209
+00:09:21,000 --> 00:09:26,000
+Like I want the I want the I want the raging waters of the world to do it.
+
+210
+00:09:26,000 --> 00:09:28,000
+You know, the places with no money.
+
+211
+00:09:28,000 --> 00:09:29,000
+Yeah. Yeah.
+
+212
+00:09:29,000 --> 00:09:30,000
+And at it for good.
+
+213
+00:09:30,000 --> 00:09:32,000
+And because that's going to stand out a lot.
+
+214
+00:09:32,000 --> 00:09:39,000
+If you're a place with 15 slides and only one of them has a story and what the hell is at your disposal.
+
+215
+00:09:39,000 --> 00:09:40,000
+Yeah.
+
+216
+00:09:40,000 --> 00:09:46,000
+To create a story, I guess just missed walls, but those are broken through right away and you probably don't know what you're looking at.
+
+217
+00:09:46,000 --> 00:09:55,000
+And what possibly could like, I guess, like what what could a slide be that works as a store?
+
+218
+00:09:55,000 --> 00:09:59,000
+Like it is. Is it just like an evil guy putting you down a pipe?
+
+219
+00:09:59,000 --> 00:10:02,000
+Like, yeah, I mean, there's a viable story.
+
+220
+00:10:02,000 --> 00:10:04,000
+You got. God, I'm so sorry.
+
+221
+00:10:04,000 --> 00:10:09,000
+But like an animal shits you out like you're shooting out of an anus or something.
+
+222
+00:10:09,000 --> 00:10:12,000
+And I'm sorry, but that's what I was going to say.
+
+223
+00:10:12,000 --> 00:10:13,000
+Yeah, I know.
+
+224
+00:10:13,000 --> 00:10:16,000
+And I said it with a poll like apologetic tone in my voice.
+
+225
+00:10:16,000 --> 00:10:19,000
+You're like in King Kong's.
+
+226
+00:10:19,000 --> 00:10:20,000
+His body. Yeah.
+
+227
+00:10:20,000 --> 00:10:21,000
+Yeah. It's lower intestine.
+
+228
+00:10:21,000 --> 00:10:22,000
+And you come out of his butt.
+
+229
+00:10:22,000 --> 00:10:23,000
+Yeah.
+
+230
+00:10:23,000 --> 00:10:24,000
+Shoot out the.
+
+231
+00:10:24,000 --> 00:10:26,000
+He's having diarrhea.
+
+232
+00:10:26,000 --> 00:10:27,000
+Well, yeah.
+
+233
+00:10:27,000 --> 00:10:30,000
+I mean, that's the, you know, you're coming up with what it would be.
+
+234
+00:10:30,000 --> 00:10:37,000
+But I think the water park is not going to want to associate themselves with diarrhea and monkey colon.
+
+235
+00:10:37,000 --> 00:10:42,000
+So do you have to does the thing have to be like a cleanse?
+
+236
+00:10:42,000 --> 00:10:43,000
+Forgive me. I don't know.
+
+237
+00:10:43,000 --> 00:10:48,000
+Like more words for when you just like wash it all out like an enema.
+
+238
+00:10:48,000 --> 00:10:49,000
+Yeah. Yeah.
+
+239
+00:10:49,000 --> 00:10:51,000
+And those are two different things.
+
+240
+00:10:51,000 --> 00:10:56,000
+So so King Kong's enema could be the name of a of a water slide.
+
+241
+00:10:56,000 --> 00:10:59,000
+Yeah, that's yeah, that's good because it makes a lot of sense.
+
+242
+00:10:59,000 --> 00:11:04,000
+Because what you do with an enema is you shoot water up there and then it kind of like you hold it in for a while.
+
+243
+00:11:04,000 --> 00:11:06,000
+And then it all comes out very fast because it's water.
+
+244
+00:11:06,000 --> 00:11:08,000
+So you're trying to get everything out.
+
+245
+00:11:08,000 --> 00:11:11,000
+So that's the rapid speed of a water slide.
+
+246
+00:11:11,000 --> 00:11:12,000
+It makes sense.
+
+247
+00:11:12,000 --> 00:11:18,000
+This is a great slide that you would show that you you get a launch at the beginning.
+
+248
+00:11:18,000 --> 00:11:19,000
+I feel like there's slides that do that.
+
+249
+00:11:19,000 --> 00:11:22,000
+Shoot shoot up in your king Kong's but all.
+
+250
+00:11:22,000 --> 00:11:24,000
+Oh, you go up and then slide.
+
+251
+00:11:24,000 --> 00:11:26,000
+How you doing? How you going up on a water slide?
+
+252
+00:11:26,000 --> 00:11:27,000
+There's no there's a ways to do that.
+
+253
+00:11:27,000 --> 00:11:31,000
+I mean, like, you know, I mean, maybe you got to slide down.
+
+254
+00:11:31,000 --> 00:11:34,000
+You got to do a ramp down and then jets shoot you back up.
+
+255
+00:11:34,000 --> 00:11:37,000
+OK, yeah, yeah, like that rides that shoot you back up.
+
+256
+00:11:37,000 --> 00:11:38,000
+That's true. Yeah. Yeah.
+
+257
+00:11:38,000 --> 00:11:43,000
+I was thinking of more of like a regular human in a slide, but maybe I'm not thinking of one.
+
+258
+00:11:43,000 --> 00:11:47,000
+There's the ones that like are the top very tall and then they like the thing opens up.
+
+259
+00:11:47,000 --> 00:11:51,000
+The floor apparently drops out essentially and you shoot.
+
+260
+00:11:51,000 --> 00:11:56,000
+Oh, sure. So there's those that could be if you're taking if King Kong is taking a supplement.
+
+261
+00:11:57,000 --> 00:11:59,000
+It's his throat opening up.
+
+262
+00:11:59,000 --> 00:12:05,000
+There's a lot of anyway, the entire water park that is going through all of various parts of King Kong's body.
+
+263
+00:12:05,000 --> 00:12:07,000
+Oh, my God. I got piss. You got butt.
+
+264
+00:12:07,000 --> 00:12:09,000
+You got pissing. You got butt.
+
+265
+00:12:09,000 --> 00:12:11,000
+Yeah. You're same category. I realize.
+
+266
+00:12:11,000 --> 00:12:14,000
+That's right. Yes. And but both of them together.
+
+267
+00:12:14,000 --> 00:12:15,000
+Anyway, all right.
+
+268
+00:12:15,000 --> 00:12:17,000
+It is. Those are free for you.
+
+269
+00:12:17,000 --> 00:12:18,000
+Yeah. Thank you. Water slides.
+
+270
+00:12:18,000 --> 00:12:22,000
+Were there water slides in these? Or is that like to 67 later of the thing?
+
+271
+00:12:22,000 --> 00:12:24,000
+Yeah, that comes later.
+
+272
+00:12:24,000 --> 00:12:33,000
+This all reminded me of a there was an inclusive resort in the Poconos where my family went to a few times called Mountain Laurel.
+
+273
+00:12:33,000 --> 00:12:35,000
+And they had a big indoor pool.
+
+274
+00:12:35,000 --> 00:12:42,000
+And then they had a restaurant and they had like a kids club where like mom and dad could drop me for a couple hours.
+
+275
+00:12:42,000 --> 00:12:45,000
+And then they go do stuff and hiking trails.
+
+276
+00:12:45,000 --> 00:12:57,000
+I think a lot of the Pocono resorts eventually also started expanding not just indoor pools, but indoor water parks, which I think the technology got better.
+
+277
+00:12:57,000 --> 00:13:00,000
+The filtrate like the air filters got better.
+
+278
+00:13:00,000 --> 00:13:10,000
+Yeah. And so I think that and then reading about this holodome, there's a story at the Globe and Mail, the Canadian paper.
+
+279
+00:13:10,000 --> 00:13:22,000
+And they mention in the 1970s, Aldean built a number of these leisure oriented hotels marketed towards families, but with amenities that would appeal to grownups as well as kids.
+
+280
+00:13:22,000 --> 00:13:30,000
+Early versions of fun places similar to the Great Wolf Lodge Water Park Resort in Niagara Falls.
+
+281
+00:13:30,000 --> 00:13:39,000
+So I think that's why I was when we started doing Great Wolf Lodge, I was like, this place looks cool because I was like, oh,
+
+282
+00:13:39,000 --> 00:13:44,000
+it reminds me of this Poconos Hotel where you just stayed in the hotel the whole time.
+
+283
+00:13:44,000 --> 00:13:48,000
+Right. And clearly this idea did work for a while.
+
+284
+00:13:48,000 --> 00:13:52,000
+You're more you were more in on it maybe than certainly I.
+
+285
+00:13:52,000 --> 00:14:00,000
+I by the end of the episode that we did, I was like, no, I was even teetering on like fascination with it.
+
+286
+00:14:00,000 --> 00:14:03,000
+And by the time we were through talking about it, that's OK.
+
+287
+00:14:03,000 --> 00:14:08,000
+But you were more like aesthetically, you wrap your head around like this enclosed space.
+
+288
+00:14:08,000 --> 00:14:11,000
+Well, with a lot of pool must.
+
+289
+00:14:11,000 --> 00:14:21,000
+Because I think what I was thinking was more like what turned out to be the holodombs, which is like seems to be geared mostly to adults.
+
+290
+00:14:21,000 --> 00:14:23,000
+But there's stuff for kids. Sure.
+
+291
+00:14:23,000 --> 00:14:31,000
+And they also made an effort of like, have your business conference here, have your class reunion or prom or wedding here.
+
+292
+00:14:32,000 --> 00:14:41,000
+You know, it's interesting you're coming at it from this Poconos perspective because I I did like I'm fascinated by these when it when we landed on holodombs.
+
+293
+00:14:41,000 --> 00:14:44,000
+I'm like, that's cool because aesthetically great.
+
+294
+00:14:44,000 --> 00:14:47,000
+These postcards look cool. I like that.
+
+295
+00:14:47,000 --> 00:14:57,000
+You know, the few remaining ones, the stragglers like have an inherent kind of 70s feel and indoor rock fountains and it's ended in the tiki nature of it.
+
+296
+00:14:57,000 --> 00:14:59,000
+So like aesthetically, I'm into holodombs.
+
+297
+00:14:59,000 --> 00:15:08,000
+But then I think about if I had to stay at one and I look at Great Wolf Lodge and I find Great Wolf Lodge kind of depressing from a distance.
+
+298
+00:15:08,000 --> 00:15:15,000
+And that's Great Wolf Lodge where the where the water parks are huge and there's, you know, stories and Dunkin Donuts and what have you.
+
+299
+00:15:15,000 --> 00:15:19,000
+These I kind of wonder maybe it depends on the month.
+
+300
+00:15:19,000 --> 00:15:26,000
+Maybe it depends. I just wonder if you in a holodombs would start to feel a tad trapped, but I don't think you would.
+
+301
+00:15:26,000 --> 00:15:30,000
+I don't know. I mean, here someone did a medium post.
+
+302
+00:15:30,000 --> 00:15:32,000
+This is one of Perrysburg, Ohio.
+
+303
+00:15:32,000 --> 00:15:37,000
+That was unfortunately demolished a couple of years ago, but they like kept it up.
+
+304
+00:15:37,000 --> 00:15:51,000
+I saw this this post you're showing and that the floor in the with the tile floor, the base tile floor that you showed that looks so much like the early iteration of one of my local malls, the Fallbrook Mall.
+
+305
+00:15:51,000 --> 00:15:54,000
+I forget if it was Fallbrook Square at the time.
+
+306
+00:15:54,000 --> 00:15:59,000
+So I'm fond of this atrium space because it reminds me so much of the Fallbrook Mall.
+
+307
+00:15:59,000 --> 00:16:04,000
+The way that Discovery Zone added that was one of its claims to fame.
+
+308
+00:16:04,000 --> 00:16:09,000
+But the but I also am like that was one of the first malls to go.
+
+309
+00:16:09,000 --> 00:16:12,000
+That didn't survive till the late 90s.
+
+310
+00:16:12,000 --> 00:16:14,000
+I don't think. Oh, yeah.
+
+311
+00:16:14,000 --> 00:16:18,000
+I'm like, I would I love to go there for an hour today.
+
+312
+00:16:18,000 --> 00:16:20,000
+The original Fallbrook Mall.
+
+313
+00:16:20,000 --> 00:16:23,000
+Absolutely. Would I want to stay there for four days?
+
+314
+00:16:23,000 --> 00:16:24,000
+I'm not so sure.
+
+315
+00:16:24,000 --> 00:16:29,000
+You wouldn't want to stay in one of these rooms overlooking the kind of corner pool.
+
+316
+00:16:29,000 --> 00:16:32,000
+This with this one, it depends on indoor outdoor.
+
+317
+00:16:32,000 --> 00:16:38,000
+I guess that's a choice you have has an indoor outdoor pool, which I never stayed at a place like that.
+
+318
+00:16:38,000 --> 00:16:40,000
+Another idea I loved.
+
+319
+00:16:40,000 --> 00:16:42,000
+I love twice.
+
+320
+00:16:42,000 --> 00:16:44,000
+Yeah, that does seem terrifying to me.
+
+321
+00:16:44,000 --> 00:16:46,000
+Swim under the wall.
+
+322
+00:16:46,000 --> 00:16:48,000
+No, no, no, no, no, no.
+
+323
+00:16:48,000 --> 00:16:53,000
+Amazing. Really? If you've never surprised because I liked doing it.
+
+324
+00:16:53,000 --> 00:16:54,000
+But I thought of it as a challenge.
+
+325
+00:16:54,000 --> 00:16:56,000
+Like, here's my little Olympic event.
+
+326
+00:16:56,000 --> 00:17:00,000
+But I would but I would think that would fit into one of the things you would be afraid of.
+
+327
+00:17:00,000 --> 00:17:02,000
+Your mom would make you afraid.
+
+328
+00:17:02,000 --> 00:17:04,000
+Maybe she would have been close attention.
+
+329
+00:17:04,000 --> 00:17:05,000
+We swam a lot, actually.
+
+330
+00:17:05,000 --> 00:17:07,000
+I took a lot of swim lessons.
+
+331
+00:17:07,000 --> 00:17:10,000
+So I think I was pretty comfortable in the pool.
+
+332
+00:17:10,000 --> 00:17:13,000
+So that really never I don't think was a big fear.
+
+333
+00:17:13,000 --> 00:17:15,000
+I just thought it was cool.
+
+334
+00:17:15,000 --> 00:17:18,000
+I had fears about diving boards and stuff.
+
+335
+00:17:18,000 --> 00:17:21,000
+But, you know, I think I just was like, this is cool.
+
+336
+00:17:21,000 --> 00:17:26,000
+It really felt like such a gauntlet where I like there was still part of me.
+
+337
+00:17:26,000 --> 00:17:29,000
+I didn't believe in myself so much.
+
+338
+00:17:29,000 --> 00:17:34,000
+Like, I thought, like, you know, I might do it, but also I might slam up.
+
+339
+00:17:34,000 --> 00:17:41,000
+My back might just like hit that divider wall, lightly paralyze me for several months.
+
+340
+00:17:41,000 --> 00:17:50,000
+I don't know if they keep spikes on that thing, if they're trying to keep intruders at like it's the main way that robbers sneak in via the indoor outdoor pool.
+
+341
+00:17:50,000 --> 00:17:57,000
+I think I found the Mary out by the O'Hare airport in Rosemont, which we would just sometimes buy like a day pass and go to the pool.
+
+342
+00:17:57,000 --> 00:17:59,000
+I believe it looks like they still have it.
+
+343
+00:17:59,000 --> 00:18:03,000
+This looks like I think this is exactly what they had when I was a kid.
+
+344
+00:18:03,000 --> 00:18:04,000
+That's pretty beautiful.
+
+345
+00:18:04,000 --> 00:18:06,000
+This is a shimmering place.
+
+346
+00:18:06,000 --> 00:18:09,000
+Yeah, it looks much better than my memory of it.
+
+347
+00:18:09,000 --> 00:18:12,000
+Maybe they've they've updated it or this is like a Photoshop thing.
+
+348
+00:18:12,000 --> 00:18:14,000
+But yeah, you can see you can go under that bridge.
+
+349
+00:18:14,000 --> 00:18:16,000
+It's an impressive dome there.
+
+350
+00:18:16,000 --> 00:18:17,000
+Yeah.
+
+351
+00:18:17,000 --> 00:18:18,000
+So yeah, we would.
+
+352
+00:18:18,000 --> 00:18:21,000
+Okay, here's a more realistic photo.
+
+353
+00:18:21,000 --> 00:18:25,000
+Okay, that's a tad more drab, but I feel like I have a fun time there.
+
+354
+00:18:25,000 --> 00:18:26,000
+Sure. Yeah.
+
+355
+00:18:26,000 --> 00:18:29,000
+But yeah, I remember going like under that wall was really cool.
+
+356
+00:18:29,000 --> 00:18:31,000
+That was the bravest thing.
+
+357
+00:18:31,000 --> 00:18:32,000
+Yeah.
+
+358
+00:18:32,000 --> 00:18:34,000
+Maybe it was the bravest thing.
+
+359
+00:18:34,000 --> 00:18:36,000
+I forgot about this.
+
+360
+00:18:36,000 --> 00:18:42,000
+The executive floor lounge at this holodome looks like.
+
+361
+00:18:42,000 --> 00:18:43,000
+Oh, yes.
+
+362
+00:18:43,000 --> 00:18:45,000
+I would love to be there.
+
+363
+00:18:45,000 --> 00:18:50,000
+This looks like Sydney Lumet's crazy apartment and I switch.
+
+364
+00:18:50,000 --> 00:18:51,000
+It totally does.
+
+365
+00:18:51,000 --> 00:18:52,000
+Yeah.
+
+366
+00:18:52,000 --> 00:18:56,000
+It's very like the lamps are very network also.
+
+367
+00:18:56,000 --> 00:18:57,000
+Yes.
+
+368
+00:18:57,000 --> 00:18:58,000
+Yeah.
+
+369
+00:18:58,000 --> 00:19:00,000
+You're right. Sinister deals are happening.
+
+370
+00:19:00,000 --> 00:19:09,000
+You know, like, you know, corporations are being traded and merged in there and perhaps people are being traded and sold on this room.
+
+371
+00:19:09,000 --> 00:19:10,000
+Possible.
+
+372
+00:19:10,000 --> 00:19:12,000
+Jim Cavieza will make a movie about it.
+
+373
+00:19:12,000 --> 00:19:18,000
+That does look like a room where suddenly the walls would get shot up.
+
+374
+00:19:18,000 --> 00:19:20,000
+Like one wall explodes all of a sudden.
+
+375
+00:19:20,000 --> 00:19:22,000
+Like, where are the girls?
+
+376
+00:19:22,000 --> 00:19:23,000
+Yeah.
+
+377
+00:19:23,000 --> 00:19:24,000
+Show me the girls.
+
+378
+00:19:24,000 --> 00:19:28,000
+I don't know if we can look up holodome stories if that existed.
+
+379
+00:19:28,000 --> 00:19:31,000
+They can fabricate it if they want to.
+
+380
+00:19:31,000 --> 00:19:37,000
+Interesting discovery on friends of this podcast.
+
+381
+00:19:37,000 --> 00:19:50,000
+I learned Eva Anderson texted me and she's like, my family, when we moved to Washington state, they lived in a holodome for a week.
+
+382
+00:19:50,000 --> 00:19:51,000
+Wow.
+
+383
+00:19:51,000 --> 00:19:52,000
+She.
+
+384
+00:19:52,000 --> 00:19:53,000
+Wow. That's weird.
+
+385
+00:19:54,000 --> 00:19:58,000
+Yeah, I think like wherever they were moving was still getting ready.
+
+386
+00:19:58,000 --> 00:20:03,000
+She said the it was very echoey and mildewy.
+
+387
+00:20:03,000 --> 00:20:04,000
+Yeah.
+
+388
+00:20:04,000 --> 00:20:07,000
+The mildew would become a problem everywhere.
+
+389
+00:20:07,000 --> 00:20:08,000
+Seemingly.
+
+390
+00:20:08,000 --> 00:20:09,000
+Sure.
+
+391
+00:20:09,000 --> 00:20:15,000
+She said her parents started saying kids use your holodome voice.
+
+392
+00:20:15,000 --> 00:20:17,000
+And I said, what is a holodome voice?
+
+393
+00:20:17,000 --> 00:20:20,000
+And she's like, it's just inside voice.
+
+394
+00:20:20,000 --> 00:20:23,000
+Because again, it was so echoey in there.
+
+395
+00:20:23,000 --> 00:20:27,000
+The soundscapes don't seem ideal in these giant open rooms.
+
+396
+00:20:27,000 --> 00:20:35,000
+That's such a good like parents having doing the job of parents, but also doing bits for each other, like making each other.
+
+397
+00:20:35,000 --> 00:20:36,000
+Right.
+
+398
+00:20:36,000 --> 00:20:37,000
+That's delightful.
+
+399
+00:20:37,000 --> 00:20:38,000
+It's so funny.
+
+400
+00:20:38,000 --> 00:20:46,000
+She says she believes it was in Eugene work on it had been buried in her memory until I mentioned it.
+
+401
+00:20:46,000 --> 00:20:56,000
+She said she the other detail she mentions, which I think is my favorite, the screen doors were always wet.
+
+402
+00:20:56,000 --> 00:20:59,000
+From the roof to each room.
+
+403
+00:20:59,000 --> 00:21:01,000
+From the humidity, I think.
+
+404
+00:21:01,000 --> 00:21:03,000
+So each room had a screen door.
+
+405
+00:21:03,000 --> 00:21:08,000
+Well, I think if you were staying in a room that looked out onto the deck, like you.
+
+406
+00:21:08,000 --> 00:21:09,000
+Oh, so yeah, you would open it.
+
+407
+00:21:09,000 --> 00:21:12,000
+You open the sliding door, you open the screen door and then you can walk right out.
+
+408
+00:21:12,000 --> 00:21:17,000
+You get the chlorine smell stronger in your room because it would go through the screen.
+
+409
+00:21:17,000 --> 00:21:22,000
+What I'm a little disturbed by is that I feel like this aspect of it doesn't deter you, Jason.
+
+410
+00:21:22,000 --> 00:21:24,000
+I think you like the witness.
+
+411
+00:21:24,000 --> 00:21:26,000
+Well, Jason and I are both humidity guys.
+
+412
+00:21:26,000 --> 00:21:28,000
+Yeah, we're humidity guys.
+
+413
+00:21:28,000 --> 00:21:30,000
+As addressed at the beginning of the episode.
+
+414
+00:21:30,000 --> 00:21:31,000
+Yes.
+
+415
+00:21:31,000 --> 00:21:38,000
+Yeah. Chicago area and Philadelphia area certainly are humid places when the weather warms up.
+
+416
+00:21:38,000 --> 00:21:42,000
+It's a little humid lately here in Los Angeles.
+
+417
+00:21:42,000 --> 00:21:43,000
+We have got humidity in LA.
+
+418
+00:21:43,000 --> 00:21:56,000
+It has happened a little and there's something, I like the novelty of it a little that like on this day and if I'm in this place, like, oh, this is oddly a little Hawaii or a little Florida, but a little bit goes a long way.
+
+419
+00:21:56,000 --> 00:21:59,000
+A little bit goes a long way and I don't love the mosquitoes that come with it.
+
+420
+00:21:59,000 --> 00:22:03,000
+Well, the mosquitoes a whole, I can do a whole podcast about that.
+
+421
+00:22:03,000 --> 00:22:05,000
+If you're not here, oh boy.
+
+422
+00:22:05,000 --> 00:22:06,000
+It's been.
+
+423
+00:22:06,000 --> 00:22:10,000
+I'm doing a whole mosquito dunk thing in the backyard with buckets of water.
+
+424
+00:22:10,000 --> 00:22:13,000
+The mosquitoes are so bad they're out at 3pm.
+
+425
+00:22:13,000 --> 00:22:14,000
+It's ridiculous.
+
+426
+00:22:14,000 --> 00:22:16,000
+I know. Can't enjoy the unbelievable.
+
+427
+00:22:16,000 --> 00:22:19,000
+I need a holodome now. I need a holodome in my house.
+
+428
+00:22:19,000 --> 00:22:27,000
+I complain as I like listeners, possibly in places where it is, there are always mosquitoes.
+
+429
+00:22:27,000 --> 00:22:28,000
+It's way worse.
+
+430
+00:22:28,000 --> 00:22:32,000
+When when LA is not perfect right now.
+
+431
+00:22:32,000 --> 00:22:37,000
+I used to practice soccer by little like swampy places and then the mosquitoes would just like eat you up.
+
+432
+00:22:37,000 --> 00:22:38,000
+It was crazy.
+
+433
+00:22:38,000 --> 00:22:39,000
+And then I got out here.
+
+434
+00:22:39,000 --> 00:22:41,000
+I was like, now this is the life.
+
+435
+00:22:41,000 --> 00:22:44,000
+And all of a sudden these fucking mosquitoes came back.
+
+436
+00:22:44,000 --> 00:22:45,000
+Climate change, baby.
+
+437
+00:22:45,000 --> 00:22:46,000
+Great.
+
+438
+00:22:46,000 --> 00:22:47,000
+We're all we're all shuffling.
+
+439
+00:22:47,000 --> 00:22:50,000
+Well, we all get to experience different ecosystems.
+
+440
+00:22:50,000 --> 00:22:51,000
+That's right.
+
+441
+00:22:51,000 --> 00:22:54,000
+Yeah. The holodome where there are mosquitoes in every holodome.
+
+442
+00:22:54,000 --> 00:22:59,000
+The answer will be ultimately to build a giant holodome for everyone to live.
+
+443
+00:22:59,000 --> 00:23:00,000
+Yeah, that's true.
+
+444
+00:23:00,000 --> 00:23:01,000
+The only need was just they.
+
+445
+00:23:01,000 --> 00:23:03,000
+Yeah. They just need to be bigger.
+
+446
+00:23:03,000 --> 00:23:08,000
+The domes need to be bigger and the the pool tables need to be bigger.
+
+447
+00:23:08,000 --> 00:23:09,000
+Not more.
+
+448
+00:23:09,000 --> 00:23:11,000
+Giant pool tables.
+
+449
+00:23:11,000 --> 00:23:12,000
+Right. Bigger pool tables.
+
+450
+00:23:12,000 --> 00:23:13,000
+And everyone can play.
+
+451
+00:23:13,000 --> 00:23:22,000
+But thankfully, due to the American collective memory being so short, they are not going to remember to fix the roofs.
+
+452
+00:23:22,000 --> 00:23:24,000
+No, probably not.
+
+453
+00:23:24,000 --> 00:23:25,000
+Or filter the air.
+
+454
+00:23:25,000 --> 00:23:27,000
+Don't filter the air. Yeah.
+
+455
+00:23:27,000 --> 00:23:28,000
+We'll fix it.
+
+456
+00:23:28,000 --> 00:23:31,000
+If it becomes a problem and then it becomes a problem within three months.
+
+457
+00:23:31,000 --> 00:23:34,000
+One of the reasons the holodomes caught on.
+
+458
+00:23:34,000 --> 00:23:45,000
+I mean, this sort of traveling like you go and mom and dad can get drink, get drunk and the kids can just run around the pool.
+
+459
+00:23:45,000 --> 00:23:46,000
+They can get drinks.
+
+460
+00:23:46,000 --> 00:23:47,000
+I love that.
+
+461
+00:23:47,000 --> 00:23:48,000
+We can have play.
+
+462
+00:23:48,000 --> 00:23:53,000
+They can eat over cooked prime rib dinners.
+
+463
+00:23:53,000 --> 00:23:56,000
+You know, this was definitely a product of its time.
+
+464
+00:23:56,000 --> 00:24:02,000
+But a thing that helped them out was the gas crisis in the 70s.
+
+465
+00:24:02,000 --> 00:24:07,000
+So people were traveling less far for vacations.
+
+466
+00:24:07,000 --> 00:24:09,000
+Yeah. So they were doing like a staycation.
+
+467
+00:24:09,000 --> 00:24:15,000
+Almost like a staycation or maybe you're driving half an hour away instead of two hours away.
+
+468
+00:24:15,000 --> 00:24:17,000
+You ever hear about this?
+
+469
+00:24:17,000 --> 00:24:21,000
+Like, I don't doubt that this gas crisis was crazy.
+
+470
+00:24:21,000 --> 00:24:28,000
+Did you ever think about that gas crisis in light of, you know, how the last three and a half years have been for us?
+
+471
+00:24:28,000 --> 00:24:32,000
+And you've been complaining about the gas crisis.
+
+472
+00:24:32,000 --> 00:24:33,000
+That was your big thing.
+
+473
+00:24:33,000 --> 00:24:34,000
+Oh, yeah.
+
+474
+00:24:34,000 --> 00:24:36,000
+Big line at the door.
+
+475
+00:24:36,000 --> 00:24:43,000
+Yeah. Well, as for us, all of all of our lives and time were rearranged and shattered.
+
+476
+00:24:43,000 --> 00:24:44,000
+Yeah.
+
+477
+00:24:44,000 --> 00:24:45,000
+It's a good point.
+
+478
+00:24:45,000 --> 00:24:46,000
+It's a good point.
+
+479
+00:24:46,000 --> 00:24:50,000
+If you want to compare the two crises together, what was worse?
+
+480
+00:24:50,000 --> 00:24:55,000
+It really threw a wrench into the lives of the characters of licorice pizza.
+
+481
+00:24:55,000 --> 00:24:57,000
+The waterbed business.
+
+482
+00:24:57,000 --> 00:24:58,000
+It was their COVID.
+
+483
+00:24:58,000 --> 00:25:00,000
+The leaning for gas for their trucks.
+
+484
+00:25:00,000 --> 00:25:01,000
+That's right. Yeah.
+
+485
+00:25:01,000 --> 00:25:07,000
+It made it tougher for brief cameo John C. Reilly as Herman Munster to make it to the autograph show.
+
+486
+00:25:07,000 --> 00:25:08,000
+That's right.
+
+487
+00:25:08,000 --> 00:25:09,000
+Yeah.
+
+488
+00:25:09,000 --> 00:25:11,000
+That's so.
+
+489
+00:25:11,000 --> 00:25:19,000
+And even briefer seemingly also brief cameo from Oscar winner Bradley Cooper.
+
+490
+00:25:19,000 --> 00:25:21,000
+Did he win supporting for that?
+
+491
+00:25:21,000 --> 00:25:22,000
+Two scenes.
+
+492
+00:25:22,000 --> 00:25:25,000
+No, I don't for that.
+
+493
+00:25:25,000 --> 00:25:26,000
+Was he nominated?
+
+494
+00:25:26,000 --> 00:25:29,000
+No, for did he win for like the Lady Gaga movie?
+
+495
+00:25:29,000 --> 00:25:30,000
+Is that what you're asking?
+
+496
+00:25:30,000 --> 00:25:31,000
+No, no, wasn't he?
+
+497
+00:25:31,000 --> 00:25:33,000
+He's not saying he won for liquor pizza.
+
+498
+00:25:33,000 --> 00:25:35,000
+He's saying did he win for a different role?
+
+499
+00:25:35,000 --> 00:25:37,000
+But wasn't he nominated for licorice pizza?
+
+500
+00:25:37,000 --> 00:25:39,000
+No, I don't think so.
+
+501
+00:25:39,000 --> 00:25:40,000
+He should have been.
+
+502
+00:25:40,000 --> 00:25:42,000
+He was great, but I don't think he was.
+
+503
+00:25:42,000 --> 00:25:43,000
+I don't think that's.
+
+504
+00:25:43,000 --> 00:25:44,000
+Well, we're going to take a second here.
+
+505
+00:25:44,000 --> 00:25:45,000
+Correct.
+
+506
+00:25:45,000 --> 00:25:46,000
+He's in a good deal longer than.
+
+507
+00:25:46,000 --> 00:25:48,000
+He's in like four scenes or something.
+
+508
+00:25:48,000 --> 00:25:49,000
+Herman Munster is much longer than Herman.
+
+509
+00:25:49,000 --> 00:25:50,000
+That's true.
+
+510
+00:25:50,000 --> 00:25:53,000
+Oh, it's just like a one line or something and then he goes by.
+
+511
+00:25:53,000 --> 00:25:57,000
+I feel like liquor pizza didn't get a lot of Academy Award.
+
+512
+00:25:57,000 --> 00:25:58,000
+No, I don't think so.
+
+513
+00:25:58,000 --> 00:26:00,000
+I don't think.
+
+514
+00:26:00,000 --> 00:26:04,000
+Picture screenplay director, noms, no other noms.
+
+515
+00:26:04,000 --> 00:26:05,000
+No noms.
+
+516
+00:26:05,000 --> 00:26:06,000
+No noms.
+
+517
+00:26:06,000 --> 00:26:08,000
+No noms for Brad.
+
+518
+00:26:08,000 --> 00:26:09,000
+Sorry, Brad.
+
+519
+00:26:09,000 --> 00:26:12,000
+You're going to have to put on a big nose to get your noms.
+
+520
+00:26:12,000 --> 00:26:13,000
+Get your next noms.
+
+521
+00:26:13,000 --> 00:26:17,000
+Are you thinking when they were trying to get him nominated as Rocket?
+
+522
+00:26:17,000 --> 00:26:21,000
+Remember that was a big push to nominate like 10 actors from the Avengers?
+
+523
+00:26:21,000 --> 00:26:23,000
+Oh, I forgot about that.
+
+524
+00:26:23,000 --> 00:26:25,000
+I might just be thinking of the pushes.
+
+525
+00:26:25,000 --> 00:26:26,000
+The what?
+
+526
+00:26:26,000 --> 00:26:30,000
+The pushes for a nomination.
+
+527
+00:26:30,000 --> 00:26:33,000
+Oh, you should get a nomination for such and such.
+
+528
+00:26:33,000 --> 00:26:34,000
+I didn't remember.
+
+529
+00:26:34,000 --> 00:26:37,000
+Why are we talking about this for so long?
+
+530
+00:26:37,000 --> 00:26:39,000
+I don't remember a push for it.
+
+531
+00:26:39,000 --> 00:26:42,000
+Where we don't have all the facts and aren't prepared to talk about it.
+
+532
+00:26:42,000 --> 00:26:43,000
+He was great.
+
+533
+00:26:43,000 --> 00:26:44,000
+He's so funny in the movie.
+
+534
+00:26:44,000 --> 00:26:45,000
+He's hilarious.
+
+535
+00:26:45,000 --> 00:26:48,000
+We talk about the John Peters giant spider story.
+
+536
+00:26:48,000 --> 00:26:51,000
+OK, and everyone's heard that six ways to Sunday.
+
+537
+00:26:51,000 --> 00:26:53,000
+Well, they put the giant spider in the flash.
+
+538
+00:26:53,000 --> 00:26:59,000
+I watched all the flash the other day and the flash is not as bad as everyone says the flash is.
+
+539
+00:26:59,000 --> 00:27:01,000
+It fucking is.
+
+540
+00:27:01,000 --> 00:27:03,000
+The first half of flash is.
+
+541
+00:27:03,000 --> 00:27:06,000
+I'm going to be back away from the mic and raise my voice.
+
+542
+00:27:06,000 --> 00:27:12,000
+The first half of the flash is like pretty watchable and the second half is not very good.
+
+543
+00:27:12,000 --> 00:27:16,000
+I'll say why it's not watchable because of Ezra Miller from line one.
+
+544
+00:27:16,000 --> 00:27:18,000
+Here's what I would say.
+
+545
+00:27:18,000 --> 00:27:23,000
+I think that Ezra doesn't know that they don't have the character of the flash down at all.
+
+546
+00:27:23,000 --> 00:27:25,000
+They don't know what they're doing exactly.
+
+547
+00:27:25,000 --> 00:27:30,000
+Then there's two flashes and then I found the interplay between the flashes.
+
+548
+00:27:30,000 --> 00:27:33,000
+And there's a couple of other people that have agreed with me that you would have respect on some level.
+
+549
+00:27:33,000 --> 00:27:36,000
+I don't have to say them because I'm saying my own opinion here.
+
+550
+00:27:36,000 --> 00:27:38,000
+I found those names fine.
+
+551
+00:27:38,000 --> 00:27:40,000
+Who thought that was good?
+
+552
+00:27:40,000 --> 00:27:41,000
+Who do we know?
+
+553
+00:27:41,000 --> 00:27:43,000
+Lindsay agreed with me and Susser agreed with me.
+
+554
+00:27:43,000 --> 00:27:46,000
+And then the second half of the movie is just gloopy CGI.
+
+555
+00:27:46,000 --> 00:27:51,000
+Were they both on nice drugs that were enhancing their feelings about everything?
+
+556
+00:27:51,000 --> 00:27:53,000
+Neither of them are drug takers.
+
+557
+00:27:53,000 --> 00:27:55,000
+Please don't fight on my birthday.
+
+558
+00:27:55,000 --> 00:27:57,000
+It was.
+
+559
+00:27:58,000 --> 00:28:01,000
+I'm not saying this is a great movie.
+
+560
+00:28:01,000 --> 00:28:04,000
+The double Ezra is one of the worst things I've ever seen in a movie.
+
+561
+00:28:04,000 --> 00:28:07,000
+There's some fun stuff in the double Ezra, I think.
+
+562
+00:28:07,000 --> 00:28:15,000
+And I am not a big fan of the character in the other stuff or the first part of the movie or the rest of the movie.
+
+563
+00:28:15,000 --> 00:28:18,000
+But there is some stuff when they're interacting that I enjoyed.
+
+564
+00:28:18,000 --> 00:28:23,000
+Meet Ezra number one. Very annoying. Meet Ezra number two. Annoying and dumb.
+
+565
+00:28:23,000 --> 00:28:26,000
+Now watch the interplay.
+
+566
+00:28:26,000 --> 00:28:31,000
+It ended up working better than just the regular Flash character that Ezra was playing.
+
+567
+00:28:31,000 --> 00:28:33,000
+That's what I think.
+
+568
+00:28:33,000 --> 00:28:36,000
+Is it the first movie I'd seen in months? Yes.
+
+569
+00:28:36,000 --> 00:28:38,000
+I'm not saying that's why.
+
+570
+00:28:38,000 --> 00:28:40,000
+I guess what I liked is that it was a movie.
+
+571
+00:28:40,000 --> 00:28:43,000
+I like the baby scene. I like the baby scene too.
+
+572
+00:28:43,000 --> 00:28:45,000
+I think the baby scene is good.
+
+573
+00:28:45,000 --> 00:28:48,000
+I watched it forwards and backwards. I liked it.
+
+574
+00:28:48,000 --> 00:28:50,000
+I'm not fond of it.
+
+575
+00:28:50,000 --> 00:28:51,000
+I think it was funny.
+
+576
+00:28:51,000 --> 00:28:55,000
+Jason's opinion wins because it's his birthday. Overruled.
+
+577
+00:28:55,000 --> 00:28:56,000
+I'm fine. I'm fine.
+
+578
+00:28:56,000 --> 00:28:59,000
+You have to, Jason, you weigh in in the future.
+
+579
+00:28:59,000 --> 00:29:02,000
+I demand that you watch this film.
+
+580
+00:29:02,000 --> 00:29:05,000
+You have to watch Flash. We're doing a Flash episode.
+
+581
+00:29:05,000 --> 00:29:09,000
+No. Not an episode. I just want to know.
+
+582
+00:29:09,000 --> 00:29:12,000
+You need to see some interplay. Flash saga.
+
+583
+00:29:12,000 --> 00:29:14,000
+Think about what you just heard your friend say.
+
+584
+00:29:14,000 --> 00:29:16,000
+Scene by scene breakdown.
+
+585
+00:29:16,000 --> 00:29:21,000
+I mean we have to get ready for creature commandos and all the other D-list characters that are coming.
+
+586
+00:29:21,000 --> 00:29:23,000
+You gotta get Flash. You gotta see Flash first.
+
+587
+00:29:23,000 --> 00:29:26,000
+Okay. Here's something I do actually think is fun.
+
+588
+00:29:26,000 --> 00:29:30,000
+Play school. You all know play school.
+
+589
+00:29:30,000 --> 00:29:32,000
+I do know play school. Yeah.
+
+590
+00:29:32,000 --> 00:29:34,000
+Play school had a line.
+
+591
+00:29:34,000 --> 00:29:35,000
+Are they little eggs? The eggs?
+
+592
+00:29:35,000 --> 00:29:37,000
+Yeah. Kind of egg shaped.
+
+593
+00:29:37,000 --> 00:29:41,000
+Play school had a line called familiar places in the 70s.
+
+594
+00:29:41,000 --> 00:29:42,000
+Really?
+
+595
+00:29:42,000 --> 00:29:44,000
+They sold a holiday in place.
+
+596
+00:29:44,000 --> 00:29:46,000
+Wow. Holy shit. This is awesome.
+
+597
+00:29:46,000 --> 00:29:47,000
+You can find this on eBay.
+
+598
+00:29:47,000 --> 00:29:48,000
+That's cool.
+
+599
+00:29:48,000 --> 00:29:51,000
+I found an eBay seller just selling the sign.
+
+600
+00:29:51,000 --> 00:29:54,000
+Which is what I really, I just want the sign.
+
+601
+00:29:54,000 --> 00:29:55,000
+Yeah.
+
+602
+00:29:55,000 --> 00:29:57,000
+Well do they have like a, can I see the big picture again?
+
+603
+00:29:57,000 --> 00:30:00,000
+I wanted to see if, is there a pool in there as well?
+
+604
+00:30:00,000 --> 00:30:05,000
+Yeah. There's a pool. It's got the courtyard layout. It's not, it's like half holodome.
+
+605
+00:30:05,000 --> 00:30:06,000
+Wow.
+
+606
+00:30:06,000 --> 00:30:07,000
+A lot of early holidays.
+
+607
+00:30:07,000 --> 00:30:10,000
+Do you consider it a holodome? Well there's a slide I guess and a swing.
+
+608
+00:30:10,000 --> 00:30:11,000
+I guess that makes it a holodome.
+
+609
+00:30:11,000 --> 00:30:12,000
+Yeah.
+
+610
+00:30:12,000 --> 00:30:15,000
+A lot of them had the pools in the courtyard.
+
+611
+00:30:15,000 --> 00:30:16,000
+Yeah.
+
+612
+00:30:17,000 --> 00:30:20,000
+Yeah. I, but I just think that's fun.
+
+613
+00:30:20,000 --> 00:30:28,000
+I mean it's a little sinister to teach children about a brand when they barely know object permanents.
+
+614
+00:30:28,000 --> 00:30:30,000
+But are not all toys brands.
+
+615
+00:30:30,000 --> 00:30:31,000
+That's true.
+
+616
+00:30:31,000 --> 00:30:36,000
+You know, they're trying to grab you at least in one way, if not multiple.
+
+617
+00:30:36,000 --> 00:30:41,000
+This one in Cincinnati, this holodome was called the Solar Dome Fun Center.
+
+618
+00:30:41,000 --> 00:30:43,000
+I think there were a few solar domes.
+
+619
+00:30:43,000 --> 00:30:44,000
+Yeah.
+
+620
+00:30:44,000 --> 00:30:54,000
+That was common-ish. Why? Because you can enjoy the sun, some of the sunlight is trapped inside the dome.
+
+621
+00:30:54,000 --> 00:30:58,000
+Yeah. Do we know like dome, just like when people get dome crazy?
+
+622
+00:30:58,000 --> 00:31:02,000
+Because like it seems like 70s, 80s dome were very popular.
+
+623
+00:31:02,000 --> 00:31:03,000
+Biodomes.
+
+624
+00:31:03,000 --> 00:31:09,000
+Well, bio, yeah, biodomes. Yeah. I don't know when that word came into fruit.
+
+625
+00:31:09,000 --> 00:31:14,000
+I don't know. I guess, or Cinerama Dome.
+
+626
+00:31:14,000 --> 00:31:15,000
+Yeah, well that's early then.
+
+627
+00:31:15,000 --> 00:31:17,000
+When were domes able to be built?
+
+628
+00:31:17,000 --> 00:31:18,000
+Yeah.
+
+629
+00:31:18,000 --> 00:31:22,000
+People probably went dome crazy when domes could be made.
+
+630
+00:31:22,000 --> 00:31:25,000
+Technodrone is a different thing, not a dome.
+
+631
+00:31:25,000 --> 00:31:26,000
+No.
+
+632
+00:31:26,000 --> 00:31:29,000
+But sometimes I feel like people have called it the Technodome.
+
+633
+00:31:29,000 --> 00:31:30,000
+They're incorrect.
+
+634
+00:31:30,000 --> 00:31:31,000
+But they're wrong.
+
+635
+00:31:31,000 --> 00:31:37,000
+That makes me mad if you call Crane's ship the wrong thing.
+
+636
+00:31:37,000 --> 00:31:52,000
+One historian from the, it's a very funny name, University of Southern Mississippi Center for Oral History and Cultural Heritage, Ross Walton, says they were originally called Fun Domes.
+
+637
+00:31:52,000 --> 00:31:53,000
+Okay.
+
+638
+00:31:53,000 --> 00:31:59,000
+They had to go, they went to this person for this quote. The quote is shorter than the credit.
+
+639
+00:31:59,000 --> 00:32:00,000
+Fun domes.
+
+640
+00:32:00,000 --> 00:32:03,000
+The quote is shorter than his title.
+
+641
+00:32:03,000 --> 00:32:09,000
+All right. So they were once called Fun Domes. Anyway, make sure you say my full name and profession and place of work.
+
+642
+00:32:09,000 --> 00:32:13,000
+Because you needed to know he was like a reputable source before.
+
+643
+00:32:13,000 --> 00:32:14,000
+Yeah.
+
+644
+00:32:14,000 --> 00:32:15,000
+Fun Dome.
+
+645
+00:32:15,000 --> 00:32:26,000
+He goes on, a lot of franchise owners had U-shaped buildings, a pool in the middle, two partners in Kansas City who had holiday inns, came up with the idea of enclosing the courtyard.
+
+646
+00:32:26,000 --> 00:32:28,000
+Okay.
+
+647
+00:32:28,000 --> 00:32:30,000
+So everyone's kind of experimenting with this stuff.
+
+648
+00:32:30,000 --> 00:32:35,000
+You have some of these facts and it just like, you're just like very like, it almost feels like you're an authority.
+
+649
+00:32:35,000 --> 00:32:40,000
+You almost seem like you're embodying the man who like is saying them in a lot of ways.
+
+650
+00:32:40,000 --> 00:32:41,000
+Oh, okay.
+
+651
+00:32:41,000 --> 00:32:43,000
+That's when I thought of enclosing the courtyard.
+
+652
+00:32:43,000 --> 00:32:45,000
+Well, thank you.
+
+653
+00:32:45,000 --> 00:32:47,000
+Yes, you're an old businessman.
+
+654
+00:32:47,000 --> 00:32:49,000
+Yeah.
+
+655
+00:32:49,000 --> 00:32:56,000
+I have an issue with these things I would say, because I like the name when I heard it.
+
+656
+00:32:56,000 --> 00:33:00,000
+I feel like, I think I first heard of this as a second gate suggestion.
+
+657
+00:33:00,000 --> 00:33:04,000
+I think we threw out what's fun second gate stuff and I never heard that word, Hall of Dome.
+
+658
+00:33:04,000 --> 00:33:05,000
+That's weird.
+
+659
+00:33:05,000 --> 00:33:06,000
+So were they like mini theme parks?
+
+660
+00:33:06,000 --> 00:33:08,000
+And the answer is like, well, not quite.
+
+661
+00:33:08,000 --> 00:33:11,000
+It's if you consider shuffleboard, sort of.
+
+662
+00:33:11,000 --> 00:33:12,000
+I don't know.
+
+663
+00:33:12,000 --> 00:33:14,000
+Tiki bar is a themed thing.
+
+664
+00:33:14,000 --> 00:33:17,000
+But then I'm looking up like, what do they look like?
+
+665
+00:33:17,000 --> 00:33:19,000
+And I am imagining domes.
+
+666
+00:33:19,000 --> 00:33:20,000
+I know.
+
+667
+00:33:20,000 --> 00:33:21,000
+These aren't really domes.
+
+668
+00:33:21,000 --> 00:33:23,000
+I'm a little let down by the name.
+
+669
+00:33:23,000 --> 00:33:25,000
+They're enclosed, it's atriums.
+
+670
+00:33:25,000 --> 00:33:28,000
+And I like that they called them holodomes.
+
+671
+00:33:28,000 --> 00:33:31,000
+But the name is not necessarily accurate.
+
+672
+00:33:31,000 --> 00:33:38,000
+And I felt like I was disappointed to discover that it's not low modest hotel and then next to it is a big weird dome.
+
+673
+00:33:38,000 --> 00:33:40,000
+Like circus has.
+
+674
+00:33:40,000 --> 00:33:45,000
+Because like the Astrodome was at least, there was a dome on the top.
+
+675
+00:33:45,000 --> 00:33:46,000
+It's a dome.
+
+676
+00:33:46,000 --> 00:33:49,000
+It's not fully as like dome like as I would want it to be, I don't think.
+
+677
+00:33:50,000 --> 00:33:53,000
+But yeah, this is not not really living up to it.
+
+678
+00:33:53,000 --> 00:33:59,000
+Was there anything that any of them that were close to being a dome, which I just it's like a half sphere, essentially.
+
+679
+00:33:59,000 --> 00:34:00,000
+Yeah.
+
+680
+00:34:00,000 --> 00:34:01,000
+Right.
+
+681
+00:34:01,000 --> 00:34:05,000
+I think I think I also think that was Astrodome slander.
+
+682
+00:34:05,000 --> 00:34:06,000
+I'm looking at the Astrodome.
+
+683
+00:34:06,000 --> 00:34:08,000
+How much more of a dome can this be?
+
+684
+00:34:08,000 --> 00:34:11,000
+Well, it could be more completely like half sphere.
+
+685
+00:34:11,000 --> 00:34:14,000
+You know what I mean? The top is for certain part of a sphere.
+
+686
+00:34:14,000 --> 00:34:16,000
+You're right. It goes flat at some point.
+
+687
+00:34:16,000 --> 00:34:20,000
+But I have to say I'm satisfied by the amount of dome that the Astrodome was.
+
+688
+00:34:20,000 --> 00:34:22,000
+Yeah, I'm and you're speaking ill of the day.
+
+689
+00:34:22,000 --> 00:34:24,000
+All right. Well, I apologize to the Astrodome.
+
+690
+00:34:24,000 --> 00:34:25,000
+It does have a part.
+
+691
+00:34:25,000 --> 00:34:28,000
+Are you happy with this amount of dome, Jason, on the Astrodome?
+
+692
+00:34:28,000 --> 00:34:30,000
+I would say that's a sizeable dome.
+
+693
+00:34:30,000 --> 00:34:33,000
+A dome feels like the second half of the spheres underground.
+
+694
+00:34:33,000 --> 00:34:34,000
+You know what I mean?
+
+695
+00:34:34,000 --> 00:34:38,000
+Like that in my kid brain, that's more what it is.
+
+696
+00:34:38,000 --> 00:34:41,000
+How many domes are actually 100 percent domes?
+
+697
+00:34:41,000 --> 00:34:42,000
+Not many.
+
+698
+00:34:42,000 --> 00:34:44,000
+What is circus circus even like dome wise?
+
+699
+00:34:44,000 --> 00:34:45,000
+Adventure dome.
+
+700
+00:34:45,000 --> 00:34:48,000
+I think at some point you're getting a flat wall.
+
+701
+00:34:48,000 --> 00:34:52,000
+I think that makes more sense as far as a building is concerned.
+
+702
+00:34:52,000 --> 00:34:57,000
+But it's a waste of space because as you start getting down to the end,
+
+703
+00:34:57,000 --> 00:35:02,000
+right, right, like towards the wall, you're going to end up with like just a foot of space, you know?
+
+704
+00:35:02,000 --> 00:35:04,000
+So what do you put over there?
+
+705
+00:35:04,000 --> 00:35:05,000
+That's a good point.
+
+706
+00:35:05,000 --> 00:35:07,000
+But some plants maybe.
+
+707
+00:35:07,000 --> 00:35:11,000
+But besides that, you're losing parking spaces.
+
+708
+00:35:11,000 --> 00:35:12,000
+Yeah, this adventure.
+
+709
+00:35:12,000 --> 00:35:14,000
+Yeah, this is not a true.
+
+710
+00:35:14,000 --> 00:35:16,000
+This is even a full.
+
+711
+00:35:16,000 --> 00:35:19,000
+I don't know. There's a couple of problems I have with the adventure dome exterior.
+
+712
+00:35:19,000 --> 00:35:24,000
+I think you probably have a lot of problems with the interior as well.
+
+713
+00:35:24,000 --> 00:35:27,000
+Well, I don't know.
+
+714
+00:35:27,000 --> 00:35:29,000
+The adventure dome leaves a lot to be desired.
+
+715
+00:35:29,000 --> 00:35:30,000
+Yeah.
+
+716
+00:35:30,000 --> 00:35:33,000
+The Cinerama dome, kind of a dome dome.
+
+717
+00:35:33,000 --> 00:35:38,000
+Cinerama dome to me feels closer to what I'm talking about, what I want with it.
+
+718
+00:35:38,000 --> 00:35:39,000
+That isn't open.
+
+719
+00:35:39,000 --> 00:35:40,000
+Nobody's bought that, right?
+
+720
+00:35:40,000 --> 00:35:41,000
+Is that just sitting there?
+
+721
+00:35:41,000 --> 00:35:43,000
+I thought someone bought it.
+
+722
+00:35:43,000 --> 00:35:45,000
+I think I've said this on the show before.
+
+723
+00:35:45,000 --> 00:35:46,000
+There's no movement on that.
+
+724
+00:35:46,000 --> 00:35:48,000
+I know the Vista's going to open soon.
+
+725
+00:35:48,000 --> 00:35:53,000
+There's a few historic movie theaters in Los Angeles that are still crawling to reopen.
+
+726
+00:35:53,000 --> 00:35:54,000
+Yeah.
+
+727
+00:35:54,000 --> 00:35:56,000
+Can we do an episode about the Cinerama dome?
+
+728
+00:35:56,000 --> 00:36:06,000
+And I'll tell you why I say this, because in Googling pictures of it, you see different weird things happening to it, like Spider-Man bursting out of it.
+
+729
+00:36:06,000 --> 00:36:07,000
+Yes, right.
+
+730
+00:36:07,000 --> 00:36:08,000
+Oh, yeah, Godzilla.
+
+731
+00:36:08,000 --> 00:36:09,000
+Godzilla.
+
+732
+00:36:09,000 --> 00:36:10,000
+I didn't know about that.
+
+733
+00:36:10,000 --> 00:36:11,000
+I'm looking at a photo of that.
+
+734
+00:36:11,000 --> 00:36:14,000
+The 98 Godzilla shooting out of the center.
+
+735
+00:36:14,000 --> 00:36:15,000
+The 98 one?
+
+736
+00:36:15,000 --> 00:36:16,000
+The best one.
+
+737
+00:36:16,000 --> 00:36:17,000
+Maybe not.
+
+738
+00:36:17,000 --> 00:36:18,000
+I don't know.
+
+739
+00:36:18,000 --> 00:36:19,000
+That's what it looks like to me.
+
+740
+00:36:19,000 --> 00:36:20,000
+No, because it's got a 24-hour fitness.
+
+741
+00:36:20,000 --> 00:36:21,000
+I think it's newer.
+
+742
+00:36:21,000 --> 00:36:22,000
+I think it's newer, yeah.
+
+743
+00:36:22,000 --> 00:36:25,000
+That was the boring one, the Brank Cranston boring one.
+
+744
+00:36:25,000 --> 00:36:26,000
+Yes.
+
+745
+00:36:26,000 --> 00:36:28,000
+I'm sorry if you liked that movie, but that's what I'm going to say.
+
+746
+00:36:28,000 --> 00:36:29,000
+I actually liked all of those.
+
+747
+00:36:29,000 --> 00:36:30,000
+Sorry.
+
+748
+00:36:30,000 --> 00:36:31,000
+Okay.
+
+749
+00:36:31,000 --> 00:36:32,000
+I didn't even see all of it.
+
+750
+00:36:32,000 --> 00:36:35,000
+I didn't hate the movie, so it was boring.
+
+751
+00:36:35,000 --> 00:36:39,000
+But yeah, so stuff that happened to the Cinerama dome.
+
+752
+00:36:40,000 --> 00:36:42,000
+I don't want to detract from the sphere.
+
+753
+00:36:42,000 --> 00:36:45,000
+I know the sphere is going to have to get the attention sooner than later.
+
+754
+00:36:45,000 --> 00:36:49,000
+But when we feel speared out, if that ever happens, maybe we can feel domed.
+
+755
+00:36:49,000 --> 00:36:50,000
+I don't see it happening.
+
+756
+00:36:50,000 --> 00:36:51,000
+Head to the dome.
+
+757
+00:36:51,000 --> 00:36:52,000
+Anyway, so we've got to get this place back open.
+
+758
+00:36:52,000 --> 00:36:53,000
+No, Cinerama dome is closest.
+
+759
+00:36:53,000 --> 00:36:54,000
+Cinerama dome is close.
+
+760
+00:36:54,000 --> 00:37:02,000
+Let me say, though, also when I heard the name Holodome for the first time, there's
+
+761
+00:37:02,000 --> 00:37:05,000
+kind of an odd, there's sort of an evil air to it.
+
+762
+00:37:05,000 --> 00:37:10,000
+Like you, you know, I just did, I don't know when it's coming up, but I was on
+
+763
+00:37:10,000 --> 00:37:16,000
+Talking Simpsons, friends of the show, and we covered the Simpsons episode where
+
+764
+00:37:16,000 --> 00:37:19,000
+they go to Epcot or F cot in it.
+
+765
+00:37:19,000 --> 00:37:24,000
+And they and there's this whole thing about Eastern Airlines taking over the
+
+766
+00:37:24,000 --> 00:37:26,000
+world and turning it into a dystopia.
+
+767
+00:37:26,000 --> 00:37:29,000
+And there's big, crazy cyborgs with airplane heads.
+
+768
+00:37:29,000 --> 00:37:31,000
+And I hear Holodome.
+
+769
+00:37:31,000 --> 00:37:32,000
+Holodome.
+
+770
+00:37:32,000 --> 00:37:33,000
+It doesn't.
+
+771
+00:37:33,000 --> 00:37:37,000
+Does it not sound like somewhere like the Holodome kind of sounds like somewhere
+
+772
+00:37:37,000 --> 00:37:42,000
+that the Holiday Inn would like round up their enemies and execute them?
+
+773
+00:37:42,000 --> 00:37:44,000
+You know, it's like a bill.
+
+774
+00:37:44,000 --> 00:37:45,000
+Well, Thunderdome.
+
+775
+00:37:45,000 --> 00:37:46,000
+Yes, exactly.
+
+776
+00:37:46,000 --> 00:37:47,000
+What makes that?
+
+777
+00:37:47,000 --> 00:37:48,000
+Yeah, there's a sinister dome.
+
+778
+00:37:48,000 --> 00:37:49,000
+Yes.
+
+779
+00:37:49,000 --> 00:37:50,000
+Yes.
+
+780
+00:37:50,000 --> 00:37:51,000
+Yeah.
+
+781
+00:37:51,000 --> 00:37:54,000
+In the Holodome, anyone who is dared to stay in a dome to be a regular at a Hilton
+
+782
+00:37:54,000 --> 00:37:57,000
+or a Sheridan will be punished for their crimes against the superior brand.
+
+783
+00:37:57,000 --> 00:37:58,000
+Yeah.
+
+784
+00:37:58,000 --> 00:37:59,000
+Yeah.
+
+785
+00:37:59,000 --> 00:38:03,000
+It feels like it's going to be Lord of the Flies or it's going to be some sort of
+
+786
+00:38:03,000 --> 00:38:05,000
+most dangerous game situation.
+
+787
+00:38:05,000 --> 00:38:09,000
+But you're going to have to fight your way out or some kind of future sport.
+
+788
+00:38:09,000 --> 00:38:16,000
+100 families, 100 families fight each other to see who can escape the Holodome.
+
+789
+00:38:16,000 --> 00:38:17,000
+Yeah.
+
+790
+00:38:17,000 --> 00:38:21,000
+Sawed off pool cues or shuffleboard cues.
+
+791
+00:38:21,000 --> 00:38:23,000
+Don't know what those are.
+
+792
+00:38:23,000 --> 00:38:24,000
+Sticks.
+
+793
+00:38:24,000 --> 00:38:25,000
+I love shuffleboard.
+
+794
+00:38:25,000 --> 00:38:27,000
+I haven't played it in a long time.
+
+795
+00:38:27,000 --> 00:38:28,000
+I've never played shuffleboard.
+
+796
+00:38:28,000 --> 00:38:31,000
+I haven't played it proper.
+
+797
+00:38:31,000 --> 00:38:37,000
+I was flashing to the place that I've been staying around Disneyland with the family
+
+798
+00:38:37,000 --> 00:38:40,000
+has a games floor like this.
+
+799
+00:38:40,000 --> 00:38:41,000
+It's open air.
+
+800
+00:38:41,000 --> 00:38:42,000
+It's up on the roof.
+
+801
+00:38:42,000 --> 00:38:46,000
+And I've started to really look forward to grabbing coffee in the morning, taking the
+
+802
+00:38:46,000 --> 00:38:49,000
+kid up there, giving Aaron a break.
+
+803
+00:38:49,000 --> 00:38:55,000
+And then he's too young to play anything, but we screw around with the shuffleboard,
+
+804
+00:38:55,000 --> 00:38:59,000
+the foosball, with the basket ball, with the ping pong.
+
+805
+00:38:59,000 --> 00:39:03,000
+Just like, let's just feel all these objects and see how they work and make a mess and
+
+806
+00:39:03,000 --> 00:39:04,000
+then clean it up.
+
+807
+00:39:04,000 --> 00:39:05,000
+Is anyone up there?
+
+808
+00:39:05,000 --> 00:39:06,000
+No, never.
+
+809
+00:39:06,000 --> 00:39:07,000
+Yeah.
+
+810
+00:39:07,000 --> 00:39:11,000
+This is not used at all, which you got to wonder, did that start to happen here?
+
+811
+00:39:11,000 --> 00:39:15,000
+Did people like, I'm sure when these were new, they were hopping.
+
+812
+00:39:15,000 --> 00:39:18,000
+But I wonder if like it started to book.
+
+813
+00:39:18,000 --> 00:39:22,000
+I wonder if like the actual game started to deteriorate and they don't have the money
+
+814
+00:39:22,000 --> 00:39:23,000
+to fix.
+
+815
+00:39:23,000 --> 00:39:27,000
+I bet some of these, the game areas, I bet got into some sorry states.
+
+816
+00:39:27,000 --> 00:39:30,000
+Well, yeah, I think that happened.
+
+817
+00:39:30,000 --> 00:39:32,000
+A few things happened.
+
+818
+00:39:32,000 --> 00:39:35,000
+One, airfare became much cheaper.
+
+819
+00:39:35,000 --> 00:39:37,000
+So people started traveling.
+
+820
+00:39:37,000 --> 00:39:38,000
+Get the fuck out of these holodomes.
+
+821
+00:39:38,000 --> 00:39:39,000
+Yeah.
+
+822
+00:39:39,000 --> 00:39:42,000
+The buildings started to deteriorate.
+
+823
+00:39:42,000 --> 00:39:50,000
+And someone I think said like, it's cheaper to demolish this and keep the hotel.
+
+824
+00:39:50,000 --> 00:39:53,000
+You know, it's cheaper to demolish the holodome.
+
+825
+00:39:53,000 --> 00:40:01,000
+There was also some questionable financial dealings in the late 80s with former President
+
+826
+00:40:01,000 --> 00:40:02,000
+Donald Trump.
+
+827
+00:40:02,000 --> 00:40:03,000
+You don't say.
+
+828
+00:40:03,000 --> 00:40:04,000
+What?
+
+829
+00:40:04,000 --> 00:40:05,000
+Another thing that was ruined.
+
+830
+00:40:05,000 --> 00:40:06,000
+What?
+
+831
+00:40:06,000 --> 00:40:07,000
+Yeah, why does he think?
+
+832
+00:40:07,000 --> 00:40:10,000
+Okay, I'm trying to, I got it.
+
+833
+00:40:10,000 --> 00:40:11,000
+I only wrote some of this down.
+
+834
+00:40:11,000 --> 00:40:13,000
+I'm going to try to do this off the dome.
+
+835
+00:40:13,000 --> 00:40:14,000
+Off the dome?
+
+836
+00:40:14,000 --> 00:40:15,000
+Off the holodome.
+
+837
+00:40:16,000 --> 00:40:22,000
+At some point, Donald Trump quietly owned 5% of Holiday Inn stock.
+
+838
+00:40:22,000 --> 00:40:23,000
+Okay.
+
+839
+00:40:23,000 --> 00:40:34,000
+The reason because Holiday Inn built a casino hotel in Atlantic City, but they needed parking.
+
+840
+00:40:34,000 --> 00:40:39,000
+And the lot that they were like, this is right next door, we can use it.
+
+841
+00:40:39,000 --> 00:40:41,000
+Who owns that land?
+
+842
+00:40:41,000 --> 00:40:43,000
+Oh, Donald Trump.
+
+843
+00:40:43,000 --> 00:40:44,000
+Oh no.
+
+844
+00:40:44,000 --> 00:40:48,000
+So they made a devil's bargain to lease it from Donald Trump.
+
+845
+00:40:48,000 --> 00:40:55,000
+Then Donald Trump starts looking into Holiday Inn company and realizes this company, the
+
+846
+00:40:55,000 --> 00:40:59,000
+hotels do well, but this is a real estate company.
+
+847
+00:40:59,000 --> 00:41:00,000
+Like, it's franchise.
+
+848
+00:41:00,000 --> 00:41:03,000
+They own a ton of real estate around the country.
+
+849
+00:41:03,000 --> 00:41:07,000
+For all the potential sites they might build on or just like, let's grab it now while it's
+
+850
+00:41:07,000 --> 00:41:08,000
+cheap.
+
+851
+00:41:08,000 --> 00:41:09,000
+Just that the hotels are on.
+
+852
+00:41:09,000 --> 00:41:10,000
+That's real estate.
+
+853
+00:41:10,000 --> 00:41:11,000
+Oh, what they already have.
+
+854
+00:41:11,000 --> 00:41:12,000
+Yeah, yeah.
+
+855
+00:41:12,000 --> 00:41:13,000
+They own stock.
+
+856
+00:41:13,000 --> 00:41:19,000
+And this causes the stock price to shoot up when someone gets wind that like, hey, Donald
+
+857
+00:41:19,000 --> 00:41:22,000
+Trump's buying a bunch of Holiday Inn stock.
+
+858
+00:41:22,000 --> 00:41:25,000
+The company worries about a hostile takeover.
+
+859
+00:41:25,000 --> 00:41:26,000
+Wow.
+
+860
+00:41:26,000 --> 00:41:29,000
+So they start like doing stock buybacks.
+
+861
+00:41:29,000 --> 00:41:36,000
+They start doing stuff to make good for the shareholders so they don't jump on board of
+
+862
+00:41:36,000 --> 00:41:38,000
+like, we're going to sell to Donald Trump.
+
+863
+00:41:38,000 --> 00:41:40,000
+Okay, yeah.
+
+864
+00:41:40,000 --> 00:41:49,000
+Eventually, the company is in like a bad shape and they have to sell to a British hotel company
+
+865
+00:41:49,000 --> 00:41:51,000
+who also owns Bass Brewing.
+
+866
+00:41:51,000 --> 00:41:54,000
+You know, Bass Beer, the British beer.
+
+867
+00:41:54,000 --> 00:41:55,000
+Okay.
+
+868
+00:41:55,000 --> 00:41:57,000
+So eventually they have to sell.
+
+869
+00:41:57,000 --> 00:42:04,000
+A ton of people in Memphis lose their jobs at the headquarters and who is left has, they
+
+870
+00:42:04,000 --> 00:42:09,000
+have to move to Atlanta to either the new headquarters or the headquarters of this other
+
+871
+00:42:09,000 --> 00:42:10,000
+company.
+
+872
+00:42:10,000 --> 00:42:12,000
+To probably the Lake Nona equivalent of Atlanta.
+
+873
+00:42:12,000 --> 00:42:13,000
+Oh, yeah.
+
+874
+00:42:13,000 --> 00:42:14,000
+Oh, maybe.
+
+875
+00:42:14,000 --> 00:42:15,000
+Very point where it's possible, yeah.
+
+876
+00:42:15,000 --> 00:42:19,000
+So yeah, Donald Trump almost tanked Holiday Inn in the 80s.
+
+877
+00:42:19,000 --> 00:42:22,000
+He seems like, yeah, he like ruptured the company in a way.
+
+878
+00:42:22,000 --> 00:42:23,000
+Right.
+
+879
+00:42:23,000 --> 00:42:24,000
+Yeah.
+
+880
+00:42:24,000 --> 00:42:25,000
+That they're still around, but he-
+
+881
+00:42:25,000 --> 00:42:29,000
+Did he still maintain his 5% I wonder or when they sold a-
+
+882
+00:42:29,000 --> 00:42:34,000
+I think he sold when it was at a high and made a hefty sum of money.
+
+883
+00:42:34,000 --> 00:42:36,000
+It's one of the smartest business guys.
+
+884
+00:42:36,000 --> 00:42:37,000
+Did it again.
+
+885
+00:42:37,000 --> 00:42:38,000
+It's the art of the deal, Michael.
+
+886
+00:42:38,000 --> 00:42:42,000
+You gotta give it up to, you know, ultimately the guy's a smart businessman.
+
+887
+00:42:42,000 --> 00:42:43,000
+Yeah, yeah.
+
+888
+00:42:43,000 --> 00:42:46,000
+If we would just let him do, be businessman for the country.
+
+889
+00:42:46,000 --> 00:42:48,000
+Let him do his thing.
+
+890
+00:42:48,000 --> 00:42:50,000
+Let him do his thing, you know.
+
+891
+00:42:50,000 --> 00:42:51,000
+You know what the kids say?
+
+892
+00:42:51,000 --> 00:42:52,000
+Let him cook.
+
+893
+00:42:52,000 --> 00:42:54,000
+That's what the kids say.
+
+894
+00:42:54,000 --> 00:42:55,000
+Yeah, you know.
+
+895
+00:42:55,000 --> 00:42:56,000
+Which kids?
+
+896
+00:42:56,000 --> 00:42:57,000
+All of them.
+
+897
+00:42:57,000 --> 00:42:59,000
+I'm always talking about cooking and letting people cook.
+
+898
+00:42:59,000 --> 00:43:00,000
+Let me hear Rodrigo says it.
+
+899
+00:43:00,000 --> 00:43:01,000
+Yeah.
+
+900
+00:43:01,000 --> 00:43:02,000
+Let him cook.
+
+901
+00:43:02,000 --> 00:43:03,000
+Yeah, they're always saying let him cook.
+
+902
+00:43:03,000 --> 00:43:04,000
+She's saying it.
+
+903
+00:43:04,000 --> 00:43:05,000
+She's saying it, yeah.
+
+904
+00:43:05,000 --> 00:43:06,000
+I hear her.
+
+905
+00:43:06,000 --> 00:43:07,000
+She's saying it more and more, frankly.
+
+906
+00:43:07,000 --> 00:43:08,000
+Okay.
+
+907
+00:43:08,000 --> 00:43:11,000
+You gotta believe that.
+
+908
+00:43:11,000 --> 00:43:17,000
+I forget where this is from, but it says the holiday in chains start to rethink its marketing
+
+909
+00:43:17,000 --> 00:43:23,000
+after changes in corporate ownership and a failed hostile taker in the 80s by a developer
+
+910
+00:43:23,000 --> 00:43:25,000
+named Donald Trump.
+
+911
+00:43:25,000 --> 00:43:30,000
+So, yeah, the buildings are falling apart.
+
+912
+00:43:30,000 --> 00:43:34,000
+People are going to Disney World instead of the damp hotel.
+
+913
+00:43:35,000 --> 00:43:36,000
+Was there a holodome in Orlando?
+
+914
+00:43:36,000 --> 00:43:37,000
+Do we know?
+
+915
+00:43:37,000 --> 00:43:38,000
+Well, I...
+
+916
+00:43:38,000 --> 00:43:43,000
+Because you would think if people were traveling, they would still go and maybe think of staying
+
+917
+00:43:43,000 --> 00:43:47,000
+at a holodome if they were in a place that was very tourist heavy.
+
+918
+00:43:47,000 --> 00:43:49,000
+Well, that is an interesting fact.
+
+919
+00:43:49,000 --> 00:43:51,000
+The first one was in North Dakota.
+
+920
+00:43:51,000 --> 00:43:52,000
+Again, it's pretty cold there.
+
+921
+00:43:52,000 --> 00:43:55,000
+The most popular ones were in Florida.
+
+922
+00:43:55,000 --> 00:44:02,000
+And in the CNN story, someone said, I think it was that historian again, there's nothing
+
+923
+00:44:02,000 --> 00:44:07,000
+worse than taking your kids on a vacation in Florida and it rains for a whole week.
+
+924
+00:44:07,000 --> 00:44:10,000
+This is a bit of vacation insurance for a lot of people.
+
+925
+00:44:10,000 --> 00:44:11,000
+For the pool, to get the pool.
+
+926
+00:44:11,000 --> 00:44:12,000
+To get the pool time.
+
+927
+00:44:12,000 --> 00:44:13,000
+Right.
+
+928
+00:44:13,000 --> 00:44:14,000
+What was his name again?
+
+929
+00:44:14,000 --> 00:44:15,000
+Walton.
+
+930
+00:44:15,000 --> 00:44:16,000
+Last name Walton.
+
+931
+00:44:16,000 --> 00:44:17,000
+Mr. Walton.
+
+932
+00:44:17,000 --> 00:44:18,000
+Give me the whole thing.
+
+933
+00:44:18,000 --> 00:44:21,000
+If you could say this whole thing with the title.
+
+934
+00:44:21,000 --> 00:44:22,000
+Just give me one.
+
+935
+00:44:22,000 --> 00:44:25,000
+Hold on a second here.
+
+936
+00:44:25,000 --> 00:44:28,000
+Ross Walton.
+
+937
+00:44:28,000 --> 00:44:29,000
+Historian.
+
+938
+00:44:29,000 --> 00:44:30,000
+Great.
+
+939
+00:44:30,000 --> 00:44:35,000
+The University of Southern Mississippi Center for Oral History and Cultural Heritage.
+
+940
+00:44:35,000 --> 00:44:36,000
+Okay, wonderful.
+
+941
+00:44:36,000 --> 00:44:37,000
+Cool.
+
+942
+00:44:37,000 --> 00:44:38,000
+Thank you.
+
+943
+00:44:38,000 --> 00:44:42,000
+It's like wanting to hear the chorus again for the second time.
+
+944
+00:44:42,000 --> 00:44:43,000
+You want to hear the hits.
+
+945
+00:44:43,000 --> 00:44:44,000
+It's stronger than the first.
+
+946
+00:44:44,000 --> 00:44:51,000
+I'm seeing on some message board, you know, on flyertalk.com where there's a board where
+
+947
+00:44:51,000 --> 00:44:54,000
+people are talking about where the holodome's locations were.
+
+948
+00:44:54,000 --> 00:44:59,000
+I found a number of message boards where people were doing that.
+
+949
+00:44:59,000 --> 00:45:02,000
+Well, this guy says Orlando.
+
+950
+00:45:02,000 --> 00:45:08,000
+So I think maybe Orlando was, you know, there was some location coasting off Disney World.
+
+951
+00:45:08,000 --> 00:45:09,000
+Sandusky.
+
+952
+00:45:09,000 --> 00:45:10,000
+Louisville.
+
+953
+00:45:10,000 --> 00:45:12,000
+I wonder how far west they made it.
+
+954
+00:45:12,000 --> 00:45:13,000
+Because I never heard of this.
+
+955
+00:45:13,000 --> 00:45:14,000
+You've been in Chicago, Adam.
+
+956
+00:45:14,000 --> 00:45:17,000
+Do you have any, do you feel like, rolling meadows?
+
+957
+00:45:17,000 --> 00:45:22,000
+I played rolling meadows in tennis many times, but I did not know of the dome.
+
+958
+00:45:22,000 --> 00:45:23,000
+Were they good?
+
+959
+00:45:23,000 --> 00:45:26,000
+Did you feel like they sharpened their skills in the holodome?
+
+960
+00:45:26,000 --> 00:45:29,000
+Maybe at the ping pong tables or the pool tables.
+
+961
+00:45:29,000 --> 00:45:33,000
+I think we were an anti-holiday in family for some reason.
+
+962
+00:45:33,000 --> 00:45:38,000
+I don't think, I think because we were very, you know, brand loyalty for some reason was
+
+963
+00:45:38,000 --> 00:45:42,000
+very big in the house, which I think it was for many of us as kids.
+
+964
+00:45:42,000 --> 00:45:43,000
+I don't care.
+
+965
+00:45:43,000 --> 00:45:44,000
+I don't really care about that anymore.
+
+966
+00:45:44,000 --> 00:45:46,000
+But there's still some people who I've said this before.
+
+967
+00:45:46,000 --> 00:45:50,000
+We're like, well, we only go to Disney World and go, well, yeah, go to Universal for a
+
+968
+00:45:50,000 --> 00:45:51,000
+day or something.
+
+969
+00:45:51,000 --> 00:45:52,000
+It's good stuff there.
+
+970
+00:45:52,000 --> 00:45:54,000
+We go to Disney World and you're like, what is this?
+
+971
+00:45:54,000 --> 00:45:55,000
+What are you doing?
+
+972
+00:45:55,000 --> 00:45:58,000
+Dude, also I've heard you say that you want to be that.
+
+973
+00:45:58,000 --> 00:46:03,000
+You've said about like Park MGM, like this is the place that I go and this is where I'd
+
+974
+00:46:03,000 --> 00:46:04,000
+like to.
+
+975
+00:46:04,000 --> 00:46:10,000
+I do like having a little spot that feels comfortable, but I am also, stuff changes
+
+976
+00:46:10,000 --> 00:46:12,000
+after five or so years.
+
+977
+00:46:12,000 --> 00:46:15,000
+So it's not like I think I want it in perpetuity, but I like.
+
+978
+00:46:15,000 --> 00:46:17,000
+You want to check in and make sure that quality is still.
+
+979
+00:46:17,000 --> 00:46:23,000
+I like the routine of it for a few years and then chances are you're going to have to change.
+
+980
+00:46:23,000 --> 00:46:24,000
+You shake it up.
+
+981
+00:46:24,000 --> 00:46:25,000
+Sure.
+
+982
+00:46:25,000 --> 00:46:26,000
+Okay.
+
+983
+00:46:26,000 --> 00:46:31,000
+You said that and then I manifested it because I've been Vegas every year since 2020.
+
+984
+00:46:31,000 --> 00:46:33,000
+And you've stayed at Park MGM.
+
+985
+00:46:33,000 --> 00:46:35,000
+It's where we stay.
+
+986
+00:46:35,000 --> 00:46:37,000
+That's what we do.
+
+987
+00:46:37,000 --> 00:46:38,000
+We have Skippy.
+
+988
+00:46:38,000 --> 00:46:39,000
+We would have Skippy peanut butter.
+
+989
+00:46:39,000 --> 00:46:41,000
+We did not have Jif.
+
+990
+00:46:41,000 --> 00:46:43,000
+We were Skippy family.
+
+991
+00:46:43,000 --> 00:46:44,000
+We did not have Domino's pizza.
+
+992
+00:46:44,000 --> 00:46:45,000
+We had Pizza Hut.
+
+993
+00:46:45,000 --> 00:46:46,000
+That's what we did.
+
+994
+00:46:46,000 --> 00:46:49,000
+And we do not stay at Holiday Inn's.
+
+995
+00:46:49,000 --> 00:46:51,000
+We stay at Marriott's.
+
+996
+00:46:51,000 --> 00:46:52,000
+Marriott's are nicer.
+
+997
+00:46:52,000 --> 00:46:54,000
+I wonder how much I will end up being this way.
+
+998
+00:46:54,000 --> 00:46:56,000
+I guess I have the things where I'm set in my ways.
+
+999
+00:46:56,000 --> 00:46:59,000
+Will I ever adopt that tone?
+
+1000
+00:46:59,000 --> 00:47:00,000
+No, no, no.
+
+1001
+00:47:00,000 --> 00:47:02,000
+We have the.
+
+1002
+00:47:02,000 --> 00:47:03,000
+Some of it.
+
+1003
+00:47:03,000 --> 00:47:08,000
+The whatever the crunchy unsalted peanut butter from Trader Joe's because that is where we shop.
+
+1004
+00:47:08,000 --> 00:47:09,000
+That's right.
+
+1005
+00:47:09,000 --> 00:47:10,000
+Some of it is unspoken.
+
+1006
+00:47:10,000 --> 00:47:12,000
+A lot of it will be unspoken.
+
+1007
+00:47:12,000 --> 00:47:13,000
+Sure.
+
+1008
+00:47:13,000 --> 00:47:14,000
+But it is.
+
+1009
+00:47:14,000 --> 00:47:18,000
+I'd rather it be unspoken than go into no because son, this is what we do.
+
+1010
+00:47:18,000 --> 00:47:19,000
+This is how we are.
+
+1011
+00:47:19,000 --> 00:47:20,000
+Because that is what we do.
+
+1012
+00:47:20,000 --> 00:47:21,000
+That's right.
+
+1013
+00:47:21,000 --> 00:47:28,000
+You want to make sure your children are able to track all of the anxious unspoken rules that you have at the house.
+
+1014
+00:47:28,000 --> 00:47:29,000
+Yeah.
+
+1015
+00:47:29,000 --> 00:47:30,000
+Well, they need to know.
+
+1016
+00:47:30,000 --> 00:47:31,000
+About brand loyalty mostly.
+
+1017
+00:47:31,000 --> 00:47:32,000
+Yeah, yeah.
+
+1018
+00:47:32,000 --> 00:47:35,000
+Corporate takeovers and etc., etc.
+
+1019
+00:47:35,000 --> 00:47:36,000
+They need to know all of it.
+
+1020
+00:47:36,000 --> 00:47:37,000
+Yeah.
+
+1021
+00:47:37,000 --> 00:47:39,000
+So yeah, I don't think I don't.
+
+1022
+00:47:39,000 --> 00:47:43,000
+I don't know if I've ever stayed in a holiday and I'm sure I have, but I think it was when I was older.
+
+1023
+00:47:43,000 --> 00:47:45,000
+It was not when we were kids.
+
+1024
+00:47:45,000 --> 00:47:46,000
+Okay.
+
+1025
+00:47:46,000 --> 00:47:47,000
+They think the one.
+
+1026
+00:47:47,000 --> 00:47:48,000
+Holiday Inn Express.
+
+1027
+00:47:48,000 --> 00:47:50,000
+A lot of Holiday Inn Express.
+
+1028
+00:47:50,000 --> 00:47:54,000
+I may have done a Holiday Inn Express in San Diego one year for Comic Con.
+
+1029
+00:47:54,000 --> 00:47:55,000
+Yeah.
+
+1030
+00:47:55,000 --> 00:47:56,000
+The wet.
+
+1031
+00:47:56,000 --> 00:47:57,000
+Far back.
+
+1032
+00:47:57,000 --> 00:47:58,000
+The wet eggs.
+
+1033
+00:47:58,000 --> 00:47:59,000
+The wet.
+
+1034
+00:47:59,000 --> 00:48:00,000
+The wet.
+
+1035
+00:48:00,000 --> 00:48:01,000
+The breakfast.
+
+1036
+00:48:01,000 --> 00:48:02,000
+The wet fat of the eggs.
+
+1037
+00:48:02,000 --> 00:48:03,000
+Yeah.
+
+1038
+00:48:03,000 --> 00:48:04,000
+Yeah.
+
+1039
+00:48:04,000 --> 00:48:05,000
+Well, yeah, they all have wet eggs though.
+
+1040
+00:48:05,000 --> 00:48:06,000
+If you go in the morning.
+
+1041
+00:48:06,000 --> 00:48:07,000
+That's true.
+
+1042
+00:48:07,000 --> 00:48:08,000
+We've talked about.
+
+1043
+00:48:08,000 --> 00:48:09,000
+Hey, wait a minute.
+
+1044
+00:48:09,000 --> 00:48:12,000
+This message board, this clarifies something that I was, I was genuinely curious about.
+
+1045
+00:48:12,000 --> 00:48:19,000
+There is a hotel that I stayed at once that when I started looking into the vibe of this,
+
+1046
+00:48:19,000 --> 00:48:23,000
+mainly when I heard, oh, really musty chlorine smell indoor pool.
+
+1047
+00:48:23,000 --> 00:48:29,000
+I thought that reminds me of where I stayed when I made the mistake of going to Bonnaroo.
+
+1048
+00:48:29,000 --> 00:48:30,000
+Oh.
+
+1049
+00:48:30,000 --> 00:48:34,000
+It was a gig is why I went and various fun things happened.
+
+1050
+00:48:34,000 --> 00:48:37,000
+It was the Beach Boys year, so I got to see them there.
+
+1051
+00:48:37,000 --> 00:48:46,000
+But I, this was in the relatively nearby town of Murfreesboro and now it's a Clarion Inn.
+
+1052
+00:48:46,000 --> 00:48:50,000
+And according to this message board, that was a holiday in a holodome.
+
+1053
+00:48:50,000 --> 00:48:51,000
+Oh, wow.
+
+1054
+00:48:51,000 --> 00:48:55,000
+I was, I Googled even Murfreesboro holiday, holodome and found nothing.
+
+1055
+00:48:55,000 --> 00:48:58,000
+But here this is the, that was, that was so much the vibe.
+
+1056
+00:48:58,000 --> 00:48:59,000
+Wow.
+
+1057
+00:48:59,000 --> 00:49:00,000
+Interesting.
+
+1058
+00:49:00,000 --> 00:49:02,000
+And I, I, there was, you know what?
+
+1059
+00:49:02,000 --> 00:49:04,000
+It's exactly, it's how I think I would feel about all of these.
+
+1060
+00:49:04,000 --> 00:49:06,000
+I liked it architecturally.
+
+1061
+00:49:06,000 --> 00:49:12,000
+I like looking at a big like indoor pool atrium, but the smell added to the general depression
+
+1062
+00:49:12,000 --> 00:49:19,000
+that I felt when I realized how many days I was stuck in this kind of like miserable shuttle around job
+
+1063
+00:49:19,000 --> 00:49:22,000
+where the producing was kind of not good.
+
+1064
+00:49:22,000 --> 00:49:25,000
+Beach Boys made up for a lot, you know.
+
+1065
+00:49:25,000 --> 00:49:26,000
+Yeah.
+
+1066
+00:49:26,000 --> 00:49:27,000
+That was the 50th anniversary year?
+
+1067
+00:49:27,000 --> 00:49:28,000
+That was, yeah, surprise.
+
+1068
+00:49:28,000 --> 00:49:29,000
+They were all there.
+
+1069
+00:49:29,000 --> 00:49:34,000
+So I broke my, if you're tracking from my birthday episode, I only, I've only seen the Mike Love Beach Boys.
+
+1070
+00:49:34,000 --> 00:49:38,000
+If Brian Wilson is involved, I was only on one tour, which was 2012.
+
+1071
+00:49:38,000 --> 00:49:40,000
+Ben Folds Five that year too.
+
+1072
+00:49:40,000 --> 00:49:41,000
+Oh, that's good.
+
+1073
+00:49:41,000 --> 00:49:43,000
+So that was the year to do it.
+
+1074
+00:49:43,000 --> 00:49:44,000
+Yeah.
+
+1075
+00:49:44,000 --> 00:49:53,000
+But anyway, so that's been, so listener, if you were worried about me not being sure that that one clarion in Murfreesboro was in fact a holodome, it was in fact a holodome.
+
+1076
+00:49:53,000 --> 00:49:55,000
+Some of them flipped to Ramadas.
+
+1077
+00:49:55,000 --> 00:49:57,000
+I don't know that they've lasted.
+
+1078
+00:49:57,000 --> 00:50:03,000
+It kind of reminded me of the Hotel Nevada Samstown.
+
+1079
+00:50:03,000 --> 00:50:06,000
+The name of the killers has a big atrium.
+
+1080
+00:50:06,000 --> 00:50:09,000
+Not really a pool, but this is the lobby.
+
+1081
+00:50:09,000 --> 00:50:10,000
+So you check in.
+
+1082
+00:50:10,000 --> 00:50:12,000
+Because it has like a glass ceiling.
+
+1083
+00:50:12,000 --> 00:50:13,000
+It has a glass ceiling.
+
+1084
+00:50:13,000 --> 00:50:14,000
+What did you say?
+
+1085
+00:50:14,000 --> 00:50:16,000
+Samstown, the name of the killers?
+
+1086
+00:50:16,000 --> 00:50:17,000
+What did you say?
+
+1087
+00:50:17,000 --> 00:50:18,000
+There's an Alka.
+
+1088
+00:50:18,000 --> 00:50:21,000
+The second killers album is called Samstown.
+
+1089
+00:50:21,000 --> 00:50:22,000
+Yeah.
+
+1090
+00:50:22,000 --> 00:50:23,000
+To the casino.
+
+1091
+00:50:23,000 --> 00:50:24,000
+Yeah.
+
+1092
+00:50:24,000 --> 00:50:25,000
+Okay.
+
+1093
+00:50:25,000 --> 00:50:26,000
+Yeah.
+
+1094
+00:50:26,000 --> 00:50:28,000
+Is that a nickname for Vegas or is it just the name of that casino?
+
+1095
+00:50:28,000 --> 00:50:31,000
+I know it as a nickname for the casino.
+
+1096
+00:50:31,000 --> 00:50:33,000
+I don't know.
+
+1097
+00:50:33,000 --> 00:50:34,000
+Hmm.
+
+1098
+00:50:34,000 --> 00:50:38,000
+At some point they sing I See London, I See Samstown.
+
+1099
+00:50:38,000 --> 00:50:39,000
+Which song is that?
+
+1100
+00:50:39,000 --> 00:50:40,000
+I forget.
+
+1101
+00:50:40,000 --> 00:50:42,000
+The album takes the name from Samstown Hotel and Gambling.
+
+1102
+00:50:42,000 --> 00:50:43,000
+Yeah.
+
+1103
+00:50:43,000 --> 00:50:44,000
+It's just that from that.
+
+1104
+00:50:44,000 --> 00:50:49,000
+I think it might be the guy who started station casinos.
+
+1105
+00:50:49,000 --> 00:50:51,000
+His name might have been Sam.
+
+1106
+00:50:51,000 --> 00:50:52,000
+Oh, okay.
+
+1107
+00:50:52,000 --> 00:50:56,000
+So there's not a pool inside here, but there's like some rock where it looks a little like
+
+1108
+00:50:56,000 --> 00:50:58,000
+the old Polynesian lobby.
+
+1109
+00:50:58,000 --> 00:51:04,000
+I think I have a fear of glass ceilings because of Beethoven.
+
+1110
+00:51:04,000 --> 00:51:08,000
+Because when Charles Grodin jumped through the skylight of Beethoven.
+
+1111
+00:51:08,000 --> 00:51:13,000
+To get to the evil Dean Jones doctor is going to hurt Beethoven.
+
+1112
+00:51:13,000 --> 00:51:16,000
+It felt traumatic to me because it was looked high up.
+
+1113
+00:51:16,000 --> 00:51:18,000
+He should have been much more hurt than he was.
+
+1114
+00:51:18,000 --> 00:51:23,000
+Not the numerous Batman movies where Batman or one of the villains comes through a glass ceiling.
+
+1115
+00:51:23,000 --> 00:51:25,000
+Probably played into it too, but Batman seemed to know what he was doing.
+
+1116
+00:51:25,000 --> 00:51:30,000
+Charles Grodin, who I liked a lot, seemed like your fucking dad just fell two stories.
+
+1117
+00:51:30,000 --> 00:51:31,000
+Unequipped.
+
+1118
+00:51:31,000 --> 00:51:35,000
+Like a relatively heavy sweater, but that's not the same as a bat suit.
+
+1119
+00:51:35,000 --> 00:51:36,000
+Yeah.
+
+1120
+00:51:36,000 --> 00:51:38,000
+That whole scene was very traumatic for me at the end of Beethoven.
+
+1121
+00:51:38,000 --> 00:51:39,000
+The needles?
+
+1122
+00:51:39,000 --> 00:51:40,000
+How old was I?
+
+1123
+00:51:40,000 --> 00:51:41,000
+Eight?
+
+1124
+00:51:41,000 --> 00:51:42,000
+When did Beethoven come out?
+
+1125
+00:51:42,000 --> 00:51:43,000
+Ninety-one or ninety-two?
+
+1126
+00:51:43,000 --> 00:51:44,000
+I don't know.
+
+1127
+00:51:44,000 --> 00:51:45,000
+Don't say it's ninety-seven, please.
+
+1128
+00:51:45,000 --> 00:51:47,000
+No, you're in the range.
+
+1129
+00:51:47,000 --> 00:51:48,000
+Yeah.
+
+1130
+00:51:48,000 --> 00:51:51,000
+It was, but I remember like glass.
+
+1131
+00:51:51,000 --> 00:51:55,000
+Just the idea that glass was fragile would stress me out.
+
+1132
+00:51:55,000 --> 00:51:59,000
+So seeing glass ceiling like that sometimes would make me a little uncomfortable.
+
+1133
+00:51:59,000 --> 00:52:01,000
+Or like the glass is going to fall, it's going to break.
+
+1134
+00:52:01,000 --> 00:52:06,000
+Charles Grodin is going to, his body is going to get hurled through the glass and it land on me.
+
+1135
+00:52:06,000 --> 00:52:07,000
+Anything's possible.
+
+1136
+00:52:07,000 --> 00:52:09,000
+It'll be him who lands on you and Charles.
+
+1137
+00:52:09,000 --> 00:52:10,000
+It'll be specifically Charles Grodin.
+
+1138
+00:52:10,000 --> 00:52:11,000
+Not Batman.
+
+1139
+00:52:11,000 --> 00:52:12,000
+Ninety-two is basically.
+
+1140
+00:52:12,000 --> 00:52:13,000
+Ninety-two, so yeah, and what am I, eight?
+
+1141
+00:52:13,000 --> 00:52:14,000
+That's a little older.
+
+1142
+00:52:14,000 --> 00:52:20,000
+So how close is, because Clifford came out in ninety-four, but it sat on the shelf for a while.
+
+1143
+00:52:20,000 --> 00:52:21,000
+He maybe had shot Clifford already.
+
+1144
+00:52:21,000 --> 00:52:22,000
+Yeah, I'm sure.
+
+1145
+00:52:22,000 --> 00:52:23,000
+Or they were like close.
+
+1146
+00:52:23,000 --> 00:52:24,000
+They could have been back to back.
+
+1147
+00:52:24,000 --> 00:52:25,000
+Probably in the same year.
+
+1148
+00:52:25,000 --> 00:52:30,000
+He was home for a week or two and he was like, all right, I got to go make Clifford.
+
+1149
+00:52:30,000 --> 00:52:37,000
+Yeah, he was so dialed in of making faces at annoying people or animals.
+
+1150
+00:52:37,000 --> 00:52:38,000
+Children or animals.
+
+1151
+00:52:38,000 --> 00:52:40,000
+Yeah, like I might as well just keep it going.
+
+1152
+00:52:40,000 --> 00:52:44,000
+Clifford, come on, Clifford, what, Beethoven, what are you doing?
+
+1153
+00:52:44,000 --> 00:52:45,000
+Oh, Clifford, oh God.
+
+1154
+00:52:45,000 --> 00:52:46,000
+Can I take that again?
+
+1155
+00:52:46,000 --> 00:52:48,000
+I said Beethoven instead of Clifford.
+
+1156
+00:52:48,000 --> 00:52:49,000
+I said Clifford.
+
+1157
+00:52:49,000 --> 00:52:50,000
+I said Clifford.
+
+1158
+00:52:50,000 --> 00:52:51,000
+Geez.
+
+1159
+00:52:51,000 --> 00:52:52,000
+Geez.
+
+1160
+00:52:52,000 --> 00:52:53,000
+Oh, Beethoven.
+
+1161
+00:52:53,000 --> 00:52:55,000
+You can't go to dinosaur world, Beethoven.
+
+1162
+00:52:55,000 --> 00:52:58,000
+No, wait, I said dinosaur world.
+
+1163
+00:52:58,000 --> 00:53:00,000
+Oh, come on.
+
+1164
+00:53:00,000 --> 00:53:03,000
+It's probably they left a couple in and we didn't even notice.
+
+1165
+00:53:03,000 --> 00:53:08,000
+He keeps calling Mary Steenburge and Bonnie Hunt.
+
+1166
+00:53:08,000 --> 00:53:10,000
+Actors.
+
+1167
+00:53:10,000 --> 00:53:13,000
+What else we got?
+
+1168
+00:53:13,000 --> 00:53:16,000
+What have we missed, holodom-wise?
+
+1169
+00:53:16,000 --> 00:53:19,000
+Well, Donald Trump playset.
+
+1170
+00:53:19,000 --> 00:53:22,000
+Mr. Walton, the historian.
+
+1171
+00:53:22,000 --> 00:53:24,000
+We got him.
+
+1172
+00:53:24,000 --> 00:53:25,000
+We covered him.
+
+1173
+00:53:25,000 --> 00:53:26,000
+Even lifting one for a little while.
+
+1174
+00:53:26,000 --> 00:53:27,000
+Several times.
+
+1175
+00:53:27,000 --> 00:53:35,000
+There are a lot of positive memories online between Reddit and YouTube videos.
+
+1176
+00:53:35,000 --> 00:53:38,000
+There's a lot of camcorder footage video of the holidays.
+
+1177
+00:53:38,000 --> 00:53:40,000
+I think we got here before the smell.
+
+1178
+00:53:40,000 --> 00:53:44,000
+OK, the smell of like that not room that's like a greenhouse.
+
+1179
+00:53:44,000 --> 00:53:45,000
+Yeah.
+
+1180
+00:53:45,000 --> 00:53:47,000
+That's pretty crazy, but I do like it.
+
+1181
+00:53:47,000 --> 00:53:48,000
+Yeah.
+
+1182
+00:53:48,000 --> 00:53:49,000
+I like it in there.
+
+1183
+00:53:49,000 --> 00:53:50,000
+It's the humidity is off the charts.
+
+1184
+00:53:50,000 --> 00:53:52,000
+But I do want to get out of there.
+
+1185
+00:53:52,000 --> 00:53:53,000
+It smells weird.
+
+1186
+00:53:53,000 --> 00:53:54,000
+I'm not staying in there.
+
+1187
+00:53:54,000 --> 00:53:55,000
+No, I know.
+
+1188
+00:53:55,000 --> 00:53:59,000
+I think one of the day, one of these days we're going to have an episode with see how long
+
+1189
+00:53:59,000 --> 00:54:00,000
+we can last in there.
+
+1190
+00:54:00,000 --> 00:54:01,000
+The three of us.
+
+1191
+00:54:01,000 --> 00:54:02,000
+You guys.
+
+1192
+00:54:02,000 --> 00:54:03,000
+Something tells me.
+
+1193
+00:54:03,000 --> 00:54:04,000
+Don't make a home as a game game.
+
+1194
+00:54:04,000 --> 00:54:05,000
+Whole day.
+
+1195
+00:54:05,000 --> 00:54:07,000
+Something tells me I'm taking the bronze.
+
+1196
+00:54:07,000 --> 00:54:12,000
+We drive down to Buena Park and we just sit in that room and see who taps out first.
+
+1197
+00:54:12,000 --> 00:54:15,000
+And then Scott leaves after two seconds.
+
+1198
+00:54:15,000 --> 00:54:16,000
+I love the room.
+
+1199
+00:54:16,000 --> 00:54:17,000
+Let me be clear.
+
+1200
+00:54:17,000 --> 00:54:18,000
+I know you do.
+
+1201
+00:54:18,000 --> 00:54:19,000
+I'm just saying it's not a math.
+
+1202
+00:54:19,000 --> 00:54:20,000
+It's not about amount of time.
+
+1203
+00:54:20,000 --> 00:54:24,000
+But I'm saying I think there's a there was a period, probably a sweet spot of where it
+
+1204
+00:54:24,000 --> 00:54:31,000
+was just sort of pleasant humidity, humidity with like a decent weird smell that you could
+
+1205
+00:54:31,000 --> 00:54:38,000
+actually appreciate versus the complete mildew weird smell that surely happened quickly in
+
+1206
+00:54:38,000 --> 00:54:39,000
+the lifespan of these things.
+
+1207
+00:54:39,000 --> 00:54:41,000
+You got to get there in the first three months.
+
+1208
+00:54:41,000 --> 00:54:45,000
+So I can imagine that a lot of people like thought it was cool, especially was probably
+
+1209
+00:54:45,000 --> 00:54:46,000
+felt like a novelty.
+
+1210
+00:54:46,000 --> 00:54:47,000
+Yeah.
+
+1211
+00:54:47,000 --> 00:54:52,000
+But you can also see that if no one was putting money into it, that this thing's the king.
+
+1212
+00:54:52,000 --> 00:54:58,000
+I mean, I noticed that Eva and the Andersons didn't choose to stay there.
+
+1213
+00:54:58,000 --> 00:55:02,000
+They didn't they didn't throw out the plans of the house that they were going to move
+
+1214
+00:55:02,000 --> 00:55:03,000
+into.
+
+1215
+00:55:03,000 --> 00:55:04,000
+You know what?
+
+1216
+00:55:04,000 --> 00:55:05,000
+I think it's a better life for us here in the Holodome.
+
+1217
+00:55:05,000 --> 00:55:06,000
+Yeah.
+
+1218
+00:55:07,000 --> 00:55:11,000
+Have any actors like stated a holodome while they got in character for a role?
+
+1219
+00:55:11,000 --> 00:55:15,000
+For being like, for being like, for being like, for being like, for being like, for being
+
+1220
+00:55:15,000 --> 00:55:16,000
+like, for being like, for being like, for being like, for being like, for being like,
+
+1221
+00:55:16,000 --> 00:55:18,000
+I have to play a half human, half crocodile.
+
+1222
+00:55:18,000 --> 00:55:19,000
+Right.
+
+1223
+00:55:19,000 --> 00:55:23,000
+For that reason or just, you know, you had to get your head right for.
+
+1224
+00:55:23,000 --> 00:55:27,000
+She really emphasized the echoey nature of the holodome.
+
+1225
+00:55:27,000 --> 00:55:28,000
+Oh yeah.
+
+1226
+00:55:28,000 --> 00:55:32,000
+You had to use the, you had to use the holodome voice because that's, it's going to travel
+
+1227
+00:55:32,000 --> 00:55:34,000
+if you just like.
+
+1228
+00:55:34,000 --> 00:55:42,000
+So yeah, I, I, I, Jason, can we, can we, can I, can I ask you a question or two about
+
+1229
+00:55:42,000 --> 00:55:49,000
+like, say you're a kid at this point and you go to a holodome, what are the things you
+
+1230
+00:55:49,000 --> 00:55:54,000
+would have wanted to experience if you were six or seven years old in, in like, and I
+
+1231
+00:55:54,000 --> 00:55:58,000
+guess an adjacent dream holodome scenario is what I'm asking something that would seem
+
+1232
+00:55:58,000 --> 00:55:59,000
+appropriate for the time.
+
+1233
+00:55:59,000 --> 00:56:03,000
+It can't be some like, it can't be like there's an X-Men room in a holodome.
+
+1234
+00:56:03,000 --> 00:56:04,000
+It has to be realistic.
+
+1235
+00:56:04,000 --> 00:56:06,000
+That's the parameter I'm putting on this.
+
+1236
+00:56:06,000 --> 00:56:09,000
+Well, there might be an X-Men arcade cabinet.
+
+1237
+00:56:09,000 --> 00:56:15,000
+That was very funny seeing one corner of a holodome, which is like 20 arcade machines,
+
+1238
+00:56:15,000 --> 00:56:19,000
+kind of like the pool table, just kind of like out in the open.
+
+1239
+00:56:19,000 --> 00:56:20,000
+Yeah.
+
+1240
+00:56:20,000 --> 00:56:23,000
+It just seemed odd to not have them back to get.
+
+1241
+00:56:23,000 --> 00:56:28,000
+Yeah, there needs to be a little arcades along in the least, a low ceiling type room.
+
+1242
+00:56:28,000 --> 00:56:29,000
+Usually is weird, isn't it?
+
+1243
+00:56:29,000 --> 00:56:30,000
+Yeah.
+
+1244
+00:56:30,000 --> 00:56:33,000
+I mean, it's all things that I feel like the atmosphere is what's missing.
+
+1245
+00:56:33,000 --> 00:56:35,000
+They don't have to be, but doesn't it feel unnatural?
+
+1246
+00:56:35,000 --> 00:56:36,000
+Yes.
+
+1247
+00:56:36,000 --> 00:56:39,000
+If you're trying to trap that energy Vegas style, although I guess casinos have higher
+
+1248
+00:56:39,000 --> 00:56:40,000
+ceilings.
+
+1249
+00:56:40,000 --> 00:56:41,000
+Yeah.
+
+1250
+00:56:41,000 --> 00:56:44,000
+I mean, obviously there's a whatever that Flynn, they made Flynn's in Disneyland.
+
+1251
+00:56:44,000 --> 00:56:47,000
+It was I think a tall ceiling because that building was pretty big.
+
+1252
+00:56:47,000 --> 00:56:48,000
+So that was cool.
+
+1253
+00:56:48,000 --> 00:56:49,000
+But there's a lot of lights and stuff.
+
+1254
+00:56:49,000 --> 00:56:54,000
+This just feels like somebody was moving a couple arcade cabinets and they forgot and
+
+1255
+00:56:54,000 --> 00:56:56,000
+they just left them in the middle of a big room.
+
+1256
+00:56:56,000 --> 00:56:58,000
+And you're like, well, why are those here?
+
+1257
+00:56:58,000 --> 00:57:01,000
+A couple visits, the arcade for sure.
+
+1258
+00:57:01,000 --> 00:57:03,000
+Swimming, the pool.
+
+1259
+00:57:03,000 --> 00:57:06,000
+I think here's doing some wandering on my own.
+
+1260
+00:57:06,000 --> 00:57:10,000
+I love to wander around hotels myself when I was a kid.
+
+1261
+00:57:10,000 --> 00:57:12,000
+So wandering counts as nothing.
+
+1262
+00:57:12,000 --> 00:57:13,000
+Wandering counts as no activity.
+
+1263
+00:57:13,000 --> 00:57:14,000
+Yeah.
+
+1264
+00:57:14,000 --> 00:57:15,000
+I know.
+
+1265
+00:57:15,000 --> 00:57:16,000
+I think it is an activity.
+
+1266
+00:57:16,000 --> 00:57:17,000
+Like, I just want to stretch my legs.
+
+1267
+00:57:17,000 --> 00:57:18,000
+I want to wander around the world.
+
+1268
+00:57:18,000 --> 00:57:26,000
+I inevitably want to get like a magazine and like a key chain souvenir, like a key chain
+
+1269
+00:57:26,000 --> 00:57:28,000
+or a T-shirt or something.
+
+1270
+00:57:28,000 --> 00:57:29,000
+Yeah.
+
+1271
+00:57:29,000 --> 00:57:31,000
+I probably Sheridan's day.
+
+1272
+00:57:31,000 --> 00:57:32,000
+I love this.
+
+1273
+00:57:32,000 --> 00:57:35,000
+I was thinking you were going to order.
+
+1274
+00:57:35,000 --> 00:57:40,000
+I want to I want to wear something on the adults menu.
+
+1275
+00:57:40,000 --> 00:57:42,000
+I'm going to eat off kids menu mostly.
+
+1276
+00:57:42,000 --> 00:57:46,000
+But one night I'm like, I want the cheeseburger on the adults.
+
+1277
+00:57:46,000 --> 00:57:48,000
+I want the bigger hamburger.
+
+1278
+00:57:48,000 --> 00:57:49,000
+Oh, OK.
+
+1279
+00:57:49,000 --> 00:57:54,000
+Or like an honest like I want to make a big show of like ordering the chicken Parmesan
+
+1280
+00:57:54,000 --> 00:57:57,000
+from the adults menu.
+
+1281
+00:57:57,000 --> 00:58:00,000
+The way I actually don't want to order from the kids menu tonight.
+
+1282
+00:58:00,000 --> 00:58:01,000
+I want to order the adults menu.
+
+1283
+00:58:01,000 --> 00:58:06,000
+Because what you're describing, I I almost think I would I would have thought it was
+
+1284
+00:58:06,000 --> 00:58:11,000
+cool because I think I was obsessed with the idea of like living in a cool tiny little
+
+1285
+00:58:11,000 --> 00:58:13,000
+city or something.
+
+1286
+00:58:13,000 --> 00:58:18,000
+So as a kid, like there was something cozy in my mind about going and living in the X-Men's
+
+1287
+00:58:18,000 --> 00:58:22,000
+Mansion or living in some like little base or something that felt like you were just
+
+1288
+00:58:22,000 --> 00:58:25,000
+your family, but you could get everything you needed there.
+
+1289
+00:58:25,000 --> 00:58:26,000
+And there was fun to be had.
+
+1290
+00:58:26,000 --> 00:58:30,000
+So I think I would have loved this as a kid in general.
+
+1291
+00:58:30,000 --> 00:58:34,000
+I think I would have I would have loved to go wander and get a magazine and then order
+
+1292
+00:58:34,000 --> 00:58:36,000
+it off the adult menu as well.
+
+1293
+00:58:36,000 --> 00:58:37,000
+Really jumping out.
+
+1294
+00:58:37,000 --> 00:58:38,000
+I mean, we were all magazine boys.
+
+1295
+00:58:38,000 --> 00:58:41,000
+We were all magazine boys for a little period of time.
+
+1296
+00:58:41,000 --> 00:58:43,000
+There was the equivalent of Tiger Beat magazine.
+
+1297
+00:58:43,000 --> 00:58:48,000
+But for boys about the Power Rangers and sat and like X-Men.
+
+1298
+00:58:48,000 --> 00:58:49,000
+I see your equivalent.
+
+1299
+00:58:49,000 --> 00:58:51,000
+And I think so it's girls.
+
+1300
+00:58:51,000 --> 00:58:53,000
+And you say no, no, no, no.
+
+1301
+00:58:53,000 --> 00:58:54,000
+No, I don't.
+
+1302
+00:58:54,000 --> 00:58:55,000
+Power Rangers.
+
+1303
+00:58:55,000 --> 00:58:57,000
+Yeah, Power Rangers, my friends.
+
+1304
+00:58:57,000 --> 00:59:01,000
+Were there were there like posters from that and stuff?
+
+1305
+00:59:01,000 --> 00:59:02,000
+Yeah, I think so.
+
+1306
+00:59:02,000 --> 00:59:03,000
+The Power Rangers.
+
+1307
+00:59:03,000 --> 00:59:04,000
+Yeah.
+
+1308
+00:59:04,000 --> 00:59:06,000
+Did you put them on your wall?
+
+1309
+00:59:06,000 --> 00:59:07,000
+I don't think so.
+
+1310
+00:59:07,000 --> 00:59:09,000
+Who was your favorite Tommy?
+
+1311
+00:59:09,000 --> 00:59:12,000
+No, Jason, the Red Ranger.
+
+1312
+00:59:12,000 --> 00:59:13,000
+Red Ranger.
+
+1313
+00:59:13,000 --> 00:59:14,000
+Okay.
+
+1314
+00:59:14,000 --> 00:59:17,000
+But then when they were centerfold of red this month, when they replaced them, were
+
+1315
+00:59:17,000 --> 00:59:18,000
+you upset?
+
+1316
+00:59:18,000 --> 00:59:20,000
+I was not particularly thrilled.
+
+1317
+00:59:20,000 --> 00:59:23,000
+I think I switched to Tommy at that point.
+
+1318
+00:59:23,000 --> 00:59:24,000
+Okay.
+
+1319
+00:59:24,000 --> 00:59:28,000
+I liked Billy to some extent because he was blue and had glasses like me.
+
+1320
+00:59:28,000 --> 00:59:29,000
+Mm hmm.
+
+1321
+00:59:29,000 --> 00:59:30,000
+Yeah.
+
+1322
+00:59:30,000 --> 00:59:31,000
+When I found out the one.
+
+1323
+00:59:31,000 --> 00:59:32,000
+You were blue emotionally.
+
+1324
+00:59:32,000 --> 00:59:34,000
+No, I just saw his other color.
+
+1325
+00:59:34,000 --> 00:59:36,000
+No, that didn't start until later.
+
+1326
+00:59:36,000 --> 00:59:37,000
+Thank you.
+
+1327
+00:59:37,000 --> 00:59:38,000
+Okay.
+
+1328
+00:59:38,000 --> 00:59:39,000
+This was the heyday.
+
+1329
+00:59:39,000 --> 00:59:40,000
+He's talking about the Power Rangers.
+
+1330
+00:59:40,000 --> 00:59:46,000
+I just sent Jason, Super Seven's making very realistic looking Balkan skull action figures.
+
+1331
+00:59:46,000 --> 00:59:47,000
+Oh, yeah.
+
+1332
+00:59:47,000 --> 00:59:48,000
+Very exciting.
+
+1333
+00:59:48,000 --> 00:59:50,000
+I was like, I'm going to make two goons from Power Rangers.
+
+1334
+00:59:50,000 --> 00:59:52,000
+And I was like, this is great.
+
+1335
+00:59:52,000 --> 00:59:53,000
+This is good stuff.
+
+1336
+00:59:53,000 --> 00:59:54,000
+I know Jason's going to appreciate this.
+
+1337
+00:59:54,000 --> 00:59:55,000
+And he did.
+
+1338
+00:59:55,000 --> 00:59:56,000
+I will.
+
+1339
+00:59:56,000 --> 00:59:57,000
+He was very excited.
+
+1340
+00:59:57,000 --> 01:00:04,000
+I've been really into like thinking about buying more action figures where it's just
+
+1341
+01:00:04,000 --> 01:00:05,000
+a person in clothing.
+
+1342
+01:00:05,000 --> 01:00:10,000
+Where it's just because we were talking about Peter Parker that you can get like casual
+
+1343
+01:00:10,000 --> 01:00:11,000
+Peter Parker.
+
+1344
+01:00:11,000 --> 01:00:12,000
+You know what?
+
+1345
+01:00:12,000 --> 01:00:15,000
+This small toy company is making a Kurt Fuller figure.
+
+1346
+01:00:15,000 --> 01:00:21,000
+Kurt Fuller being like the guy from Ghostbusters 2 or both Ghostbusters who's like the
+
+1347
+01:00:21,000 --> 01:00:22,000
+Mayor's envoy.
+
+1348
+01:00:22,000 --> 01:00:23,000
+Yes.
+
+1349
+01:00:23,000 --> 01:00:24,000
+Yes.
+
+1350
+01:00:24,000 --> 01:00:26,000
+So you just get a Kurt Fuller action figure.
+
+1351
+01:00:26,000 --> 01:00:28,000
+And I'm like, this is great.
+
+1352
+01:00:28,000 --> 01:00:29,000
+I want more of this.
+
+1353
+01:00:29,000 --> 01:00:30,000
+The guy is like.
+
+1354
+01:00:30,000 --> 01:00:31,000
+He's in Wainsboro.
+
+1355
+01:00:31,000 --> 01:00:32,000
+Yes.
+
+1356
+01:00:32,000 --> 01:00:33,000
+Yeah.
+
+1357
+01:00:33,000 --> 01:00:34,000
+Yeah.
+
+1358
+01:00:34,000 --> 01:00:35,000
+That's right, Your Honor.
+
+1359
+01:00:35,000 --> 01:00:36,000
+This man has no damn.
+
+1360
+01:00:36,000 --> 01:00:37,000
+Yeah.
+
+1361
+01:00:37,000 --> 01:00:38,000
+I was like, ooh, this is a good road to go down.
+
+1362
+01:00:38,000 --> 01:00:40,000
+He's in Sound of Freedom.
+
+1363
+01:00:40,000 --> 01:00:41,000
+Is he?
+
+1364
+01:00:41,000 --> 01:00:42,000
+I guess so.
+
+1365
+01:00:42,000 --> 01:00:43,000
+Wow.
+
+1366
+01:00:43,000 --> 01:00:44,000
+There's some bigger actors.
+
+1367
+01:00:44,000 --> 01:00:45,000
+You got Mayor Cervina.
+
+1368
+01:00:45,000 --> 01:00:46,000
+Hey, the job is a job.
+
+1369
+01:00:46,000 --> 01:00:47,000
+You know?
+
+1370
+01:00:47,000 --> 01:00:48,000
+Yeah.
+
+1371
+01:00:48,000 --> 01:00:49,000
+So yeah, maybe you'll get a Kurt Fuller action figure.
+
+1372
+01:00:49,000 --> 01:00:50,000
+And then you can dress him up.
+
+1373
+01:00:50,000 --> 01:00:56,000
+You can, well, I don't know what role he plays in Sound of Freedom, but you can, I don't know.
+
+1374
+01:00:56,000 --> 01:00:57,000
+I hope he's one of the good guys.
+
+1375
+01:00:57,000 --> 01:00:58,000
+I hope so too.
+
+1376
+01:00:58,000 --> 01:00:59,000
+I don't want to figure out of him.
+
+1377
+01:00:59,000 --> 01:01:00,000
+Okay, that's good.
+
+1378
+01:01:00,000 --> 01:01:03,000
+Well, this is just him the person, I think, is the figure.
+
+1379
+01:01:03,000 --> 01:01:04,000
+So that's good.
+
+1380
+01:01:04,000 --> 01:01:08,000
+Him the person in Ghostbusters or just him like getting a coffee?
+
+1381
+01:01:08,000 --> 01:01:10,000
+It's just him getting a coffee, I think.
+
+1382
+01:01:10,000 --> 01:01:11,000
+Oh, great.
+
+1383
+01:01:11,000 --> 01:01:15,000
+He probably, he can scale to certain Ghostbusters figures, but it's just Kurt Fuller.
+
+1384
+01:01:15,000 --> 01:01:17,000
+It's just presented as Kurt Fuller.
+
+1385
+01:01:17,000 --> 01:01:19,000
+And it's officially licensed.
+
+1386
+01:01:19,000 --> 01:01:22,000
+An officially licensed character actor action figure.
+
+1387
+01:01:22,000 --> 01:01:23,000
+Well, I like this.
+
+1388
+01:01:23,000 --> 01:01:24,000
+Yeah.
+
+1389
+01:01:24,000 --> 01:01:25,000
+Wow, they worked with Fuller Co.
+
+1390
+01:01:25,000 --> 01:01:28,000
+All the Fuller merchandise.
+
+1391
+01:01:28,000 --> 01:01:34,000
+Finally, the figures coming after the years of his clothing brand and everything else.
+
+1392
+01:01:34,000 --> 01:01:35,000
+His lifestyle brand in general.
+
+1393
+01:01:35,000 --> 01:01:37,000
+His chain restaurants.
+
+1394
+01:01:37,000 --> 01:01:38,000
+Fullerville.
+
+1395
+01:01:38,000 --> 01:01:40,000
+He's really leveraged.
+
+1396
+01:01:40,000 --> 01:01:41,000
+Yeah.
+
+1397
+01:01:41,000 --> 01:01:42,000
+The mismanaged.
+
+1398
+01:01:42,000 --> 01:01:44,000
+The man that look like his bald head.
+
+1399
+01:01:44,000 --> 01:01:46,000
+This man has no dick-arita.
+
+1400
+01:01:46,000 --> 01:01:50,000
+The signature drink at all of his spots.
+
+1401
+01:01:50,000 --> 01:01:54,000
+Can I order a Frosty Frost?
+
+1402
+01:01:54,000 --> 01:01:57,000
+Frost is, of course, his character from Sound of Freedom.
+
+1403
+01:01:57,000 --> 01:01:58,000
+Of course, yeah.
+
+1404
+01:01:58,000 --> 01:02:01,000
+I have a question on the way out.
+
+1405
+01:02:01,000 --> 01:02:06,000
+I think you wanted all of these topics that the listeners get to, you know.
+
+1406
+01:02:06,000 --> 01:02:07,000
+Oh, yeah, sure.
+
+1407
+01:02:07,000 --> 01:02:08,000
+They got to, you know.
+
+1408
+01:02:08,000 --> 01:02:09,000
+I'd be happy with all of them.
+
+1409
+01:02:09,000 --> 01:02:10,000
+Pick their mode of view.
+
+1410
+01:02:10,000 --> 01:02:11,000
+Yeah.
+
+1411
+01:02:11,000 --> 01:02:12,000
+Like customizing an action figure.
+
+1412
+01:02:12,000 --> 01:02:14,000
+And they chose holodomes.
+
+1413
+01:02:14,000 --> 01:02:21,000
+Here in calling your birthday shot, what do you think holodomes say about you?
+
+1414
+01:02:21,000 --> 01:02:24,000
+How are holodomes, Jason?
+
+1415
+01:02:24,000 --> 01:02:26,000
+How are holodomes made?
+
+1416
+01:02:26,000 --> 01:02:32,000
+This one, I think, was just like, okay, I picked an old made-for-TV Marvel movie.
+
+1417
+01:02:32,000 --> 01:02:34,000
+A couple of islands of adventure topics.
+
+1418
+01:02:34,000 --> 01:02:36,000
+You're talking practically here, though.
+
+1419
+01:02:36,000 --> 01:02:37,000
+What's that?
+
+1420
+01:02:37,000 --> 01:02:38,000
+You're talking practically.
+
+1421
+01:02:38,000 --> 01:02:40,000
+What does your heart say about holodomes?
+
+1422
+01:02:40,000 --> 01:02:42,000
+I'm saying heart, too.
+
+1423
+01:02:42,000 --> 01:02:44,000
+You're ramping up, and I apologize.
+
+1424
+01:02:44,000 --> 01:02:46,000
+Just giving me the business on my fucking birthday.
+
+1425
+01:02:46,000 --> 01:02:48,000
+I know. You're right. I apologize.
+
+1426
+01:02:48,000 --> 01:02:49,000
+I apologize for a lot.
+
+1427
+01:02:49,000 --> 01:02:51,000
+I don't know. I love hotels.
+
+1428
+01:02:51,000 --> 01:02:53,000
+I've always loved hotels.
+
+1429
+01:02:53,000 --> 01:03:02,000
+As an adult, I feel like I indulge in more of the thing that I always wanted to do as a kid,
+
+1430
+01:03:02,000 --> 01:03:05,000
+but my family would only indulge a little, which is like,
+
+1431
+01:03:05,000 --> 01:03:08,000
+let's eat at the hotel restaurant a few times.
+
+1432
+01:03:08,000 --> 01:03:11,000
+And then you just walk down there, and then you walk back to the room.
+
+1433
+01:03:11,000 --> 01:03:14,000
+Maybe you step outside for some air, walk around the property.
+
+1434
+01:03:14,000 --> 01:03:16,000
+There's a nice feeling to it.
+
+1435
+01:03:16,000 --> 01:03:19,000
+You've got to go to Tokyo is what you've got to do.
+
+1436
+01:03:19,000 --> 01:03:22,000
+Where those hotel restaurants are pretty superb.
+
+1437
+01:03:22,000 --> 01:03:24,000
+I was having such a Tokyo...
+
+1438
+01:03:24,000 --> 01:03:31,000
+In the Disney area, I found the breakfast buffets in the morning pretty fantastic.
+
+1439
+01:03:31,000 --> 01:03:34,000
+Just at the Hilton, not at the non-themed, the non-Disney one.
+
+1440
+01:03:34,000 --> 01:03:39,000
+I have a Tokyo Drift when my memories go and drift away to Tokyo,
+
+1441
+01:03:39,000 --> 01:03:43,000
+because I just the other day was looking at some Instagram stuff and going, oh, take me back.
+
+1442
+01:03:43,000 --> 01:03:51,000
+Oh, I followed the Hilton in the Tokyo Disney day so that I could in my feed sometimes go, oh, yeah, that's right.
+
+1443
+01:03:51,000 --> 01:03:53,000
+Oh, look, they're decorated for spring.
+
+1444
+01:03:53,000 --> 01:03:55,000
+It's looking lovely, Hilton. Good work.
+
+1445
+01:03:55,000 --> 01:04:00,000
+Did you go to the rooftop of Tokyo Dome City Hotel?
+
+1446
+01:04:00,000 --> 01:04:03,000
+I don't think I could. I always walked around Tokyo Dome City.
+
+1447
+01:04:03,000 --> 01:04:05,000
+Oh, that's right, domes. I was in that area.
+
+1448
+01:04:05,000 --> 01:04:09,000
+I don't know if I was able to make it or wasn't open yet or something.
+
+1449
+01:04:09,000 --> 01:04:11,000
+I didn't go to that, but I was in that.
+
+1450
+01:04:11,000 --> 01:04:12,000
+Rooftop bar, yeah.
+
+1451
+01:04:12,000 --> 01:04:14,000
+I mean, that's some locked in 80s lobby.
+
+1452
+01:04:14,000 --> 01:04:15,000
+Oh, yeah.
+
+1453
+01:04:15,000 --> 01:04:16,000
+For sure, which I love.
+
+1454
+01:04:16,000 --> 01:04:18,000
+Did either of you go to...
+
+1455
+01:04:18,000 --> 01:04:22,000
+I'm assuming this is a reference point that you will know.
+
+1456
+01:04:22,000 --> 01:04:24,000
+The Lost in Translation bar is up.
+
+1457
+01:04:24,000 --> 01:04:25,000
+Yes.
+
+1458
+01:04:25,000 --> 01:04:26,000
+Yeah, we didn't.
+
+1459
+01:04:26,000 --> 01:04:28,000
+That fucking rules.
+
+1460
+01:04:28,000 --> 01:04:29,000
+That's a Tokyo tip.
+
+1461
+01:04:29,000 --> 01:04:31,000
+If I never said it in an episode.
+
+1462
+01:04:31,000 --> 01:04:35,000
+Famous location from Lost in Translation where it's portrayed.
+
+1463
+01:04:35,000 --> 01:04:37,000
+It's at the top of a Hyatt, I believe.
+
+1464
+01:04:37,000 --> 01:04:39,000
+I mean, it's easy to Google.
+
+1465
+01:04:39,000 --> 01:04:45,000
+But in Lost in Translation, it's portrayed as this kind of depressing, corny place
+
+1466
+01:04:45,000 --> 01:04:48,000
+where there's cruddy jazz happening.
+
+1467
+01:04:48,000 --> 01:04:51,000
+The opposite. It is packed to the gills.
+
+1468
+01:04:51,000 --> 01:04:57,000
+Great music. At least when we were there, fantastic cocktails.
+
+1469
+01:04:57,000 --> 01:05:02,000
+Truly alive. Some of the best views you're ever going to see.
+
+1470
+01:05:02,000 --> 01:05:06,000
+That Lost in Translation bar, that is no dumb tourist thing.
+
+1471
+01:05:06,000 --> 01:05:09,000
+You will not be sad like Bill Murray if you go up there.
+
+1472
+01:05:09,000 --> 01:05:11,000
+I should have gone. Yeah, we got to go.
+
+1473
+01:05:11,000 --> 01:05:12,000
+It's happening. Yeah, when you go back.
+
+1474
+01:05:12,000 --> 01:05:13,000
+Yeah, highly recommended.
+
+1475
+01:05:13,000 --> 01:05:18,000
+Well, the way his film looks pretty beautiful, but his character is just so sad.
+
+1476
+01:05:18,000 --> 01:05:20,000
+It brings down so many scenes.
+
+1477
+01:05:20,000 --> 01:05:22,000
+Well, that's a good...
+
+1478
+01:05:22,000 --> 01:05:25,000
+Because I wander in hotels a lot.
+
+1479
+01:05:25,000 --> 01:05:28,000
+We all spent a lot of time at the former Holiday Inn in Burbank
+
+1480
+01:05:28,000 --> 01:05:32,000
+with the multiple bar on the top and the bar on the bottom.
+
+1481
+01:05:32,000 --> 01:05:35,000
+I always... There's something about...
+
+1482
+01:05:35,000 --> 01:05:39,000
+I don't want to be depressed like a person traveling for business,
+
+1483
+01:05:39,000 --> 01:05:45,000
+but there's kind of this melancholy or sense of reflection.
+
+1484
+01:05:45,000 --> 01:05:49,000
+Because I'll go work in hotel lobbies where I'm not staying.
+
+1485
+01:05:49,000 --> 01:05:55,000
+I just did it with Bug in the Anaheim area.
+
+1486
+01:05:55,000 --> 01:05:58,000
+There is some... I don't know if melancholy is the right word because that sounds sad,
+
+1487
+01:05:58,000 --> 01:06:03,000
+but there's some reflectiveness that comes from hotel lobbies.
+
+1488
+01:06:03,000 --> 01:06:05,000
+There's something that makes you feel like you're on a vacation
+
+1489
+01:06:05,000 --> 01:06:08,000
+even if you're only in there for a half hour.
+
+1490
+01:06:08,000 --> 01:06:11,000
+It's just a mood. There's something about it.
+
+1491
+01:06:11,000 --> 01:06:17,000
+I think it's one of the things that some people call an in-between place.
+
+1492
+01:06:17,000 --> 01:06:23,000
+Like train stations or the best parts, nicest airports,
+
+1493
+01:06:23,000 --> 01:06:26,000
+where it's just like, oh, I can just be...
+
+1494
+01:06:26,000 --> 01:06:29,000
+There's only three things I can do right now.
+
+1495
+01:06:29,000 --> 01:06:31,000
+It definitely is read a magazine.
+
+1496
+01:06:31,000 --> 01:06:34,000
+Read a magazine, go to a restaurant, go to a bar.
+
+1497
+01:06:34,000 --> 01:06:37,000
+Yeah. I mean a good hotel bar.
+
+1498
+01:06:37,000 --> 01:06:40,000
+Airport bars can be great too.
+
+1499
+01:06:40,000 --> 01:06:43,000
+That's interesting. That is a good framing for that.
+
+1500
+01:06:43,000 --> 01:06:45,000
+It eliminates your options.
+
+1501
+01:06:45,000 --> 01:06:48,000
+Maybe you're on the way to something that'll be busy and crazy,
+
+1502
+01:06:48,000 --> 01:06:52,000
+but here you just got to stay in your little bubble and try to entertain yourself.
+
+1503
+01:06:52,000 --> 01:06:54,000
+If you're solo, get a little thinkin' done.
+
+1504
+01:06:54,000 --> 01:06:55,000
+Sure.
+
+1505
+01:06:55,000 --> 01:06:56,000
+Sure. That's right.
+
+1506
+01:06:56,000 --> 01:06:57,000
+That's bad.
+
+1507
+01:06:57,000 --> 01:07:02,000
+I feel like people probably came to some big determinations in their lives in the holodome.
+
+1508
+01:07:02,000 --> 01:07:04,000
+I'm sure that's the case. They would have to have.
+
+1509
+01:07:04,000 --> 01:07:08,000
+There was so much time and so much humidity hitting their brain.
+
+1510
+01:07:08,000 --> 01:07:11,000
+It was just moisturizing their brain.
+
+1511
+01:07:11,000 --> 01:07:14,000
+Acting like an enema.
+
+1512
+01:07:14,000 --> 01:07:16,000
+That's right. Getting the bad thoughts out.
+
+1513
+01:07:16,000 --> 01:07:18,000
+Hearing things out.
+
+1514
+01:07:18,000 --> 01:07:21,000
+They would save money. They didn't have to travel as far.
+
+1515
+01:07:21,000 --> 01:07:23,000
+The humidity would make them a little lightheaded,
+
+1516
+01:07:23,000 --> 01:07:27,000
+so that Canadian club and soda they were drinking would go a little further.
+
+1517
+01:07:27,000 --> 01:07:28,000
+That's true.
+
+1518
+01:07:28,000 --> 01:07:29,000
+To relaxing.
+
+1519
+01:07:29,000 --> 01:07:30,000
+Good point.
+
+1520
+01:07:30,000 --> 01:07:31,000
+Yeah.
+
+1521
+01:07:31,000 --> 01:07:33,000
+Good times ahead, I'm sure.
+
+1522
+01:07:33,000 --> 01:07:35,000
+I had a good time talking about it. You feel good?
+
+1523
+01:07:35,000 --> 01:07:37,000
+I feel great. Yeah.
+
+1524
+01:07:37,000 --> 01:07:39,000
+This was a really fun one.
+
+1525
+01:07:39,000 --> 01:07:42,000
+This one, very well documented.
+
+1526
+01:07:42,000 --> 01:07:47,000
+I had lots of great blog posts and recollections, some great pictures and postcards.
+
+1527
+01:07:47,000 --> 01:07:49,000
+Pretty fun.
+
+1528
+01:07:49,000 --> 01:07:54,000
+See if I can track down just the tiny holiday inside, I don't need the giant place.
+
+1529
+01:07:54,000 --> 01:07:56,000
+I want you to have the whole thing.
+
+1530
+01:07:56,000 --> 01:07:58,000
+Because then you could have Kurt Fuller live in the...
+
+1531
+01:07:58,000 --> 01:08:00,000
+He says it comes with 38 pieces.
+
+1532
+01:08:00,000 --> 01:08:04,000
+Kurt Fuller is not going to scale with the Playmobil toys, which does bother me.
+
+1533
+01:08:04,000 --> 01:08:06,000
+I'm a scale guy.
+
+1534
+01:08:06,000 --> 01:08:10,000
+Because I like to have my toys scaled correctly next to each other,
+
+1535
+01:08:10,000 --> 01:08:12,000
+unless it's a real like kind of grab bag shelf.
+
+1536
+01:08:12,000 --> 01:08:19,000
+I've been interested in these 3.75 inch Marvel figures that kind of look like the shittier 80s, 90s ones.
+
+1537
+01:08:19,000 --> 01:08:21,000
+I have one or two. It's not my thing.
+
+1538
+01:08:21,000 --> 01:08:28,000
+My thing is I want it to look exactly like the characters, not the toys from the old days, in general.
+
+1539
+01:08:28,000 --> 01:08:29,000
+I see.
+
+1540
+01:08:29,000 --> 01:08:31,000
+I want it to... There's a specific... Yeah.
+
+1541
+01:08:31,000 --> 01:08:36,000
+I have things that I sort of prefer, let's just say.
+
+1542
+01:08:36,000 --> 01:08:44,000
+In this house, we have characters that look like they were looking on the screen or on the page of the comic book.
+
+1543
+01:08:44,000 --> 01:08:46,000
+That's how I do it in this house.
+
+1544
+01:08:46,000 --> 01:08:48,000
+That's how we do proportional consistency.
+
+1545
+01:08:48,000 --> 01:08:50,000
+That's right. We like... That's what we do. That's what we like.
+
+1546
+01:08:50,000 --> 01:08:53,000
+That's right. 7 inch Neckos, toys.
+
+1547
+01:08:53,000 --> 01:08:59,000
+We don't like the 3.75 Marvels. We like the Marvel Legends, the ones that are a little taller.
+
+1548
+01:08:59,000 --> 01:09:04,000
+Dad, I just asked you to sign the permission slip so I can go to the Natural History Museum.
+
+1549
+01:09:04,000 --> 01:09:05,000
+I didn't need all that.
+
+1550
+01:09:05,000 --> 01:09:07,000
+I'm not finished yet. I'm not finished.
+
+1551
+01:09:07,000 --> 01:09:10,000
+This is a one-way ticket to your daughter not liking toys.
+
+1552
+01:09:10,000 --> 01:09:11,000
+That's right.
+
+1553
+01:09:11,000 --> 01:09:13,000
+Well, she's already not allowed to touch...
+
+1554
+01:09:13,000 --> 01:09:14,000
+This whole area, I don't...
+
+1555
+01:09:14,000 --> 01:09:21,000
+The parent-teacher conference, it's like, well, she's very studious, a great student, hates toys for some reason.
+
+1556
+01:09:21,000 --> 01:09:22,000
+She really hates them.
+
+1557
+01:09:22,000 --> 01:09:23,000
+We're a little worried.
+
+1558
+01:09:23,000 --> 01:09:24,000
+During playtime.
+
+1559
+01:09:24,000 --> 01:09:26,000
+Never met a child who despises toys.
+
+1560
+01:09:26,000 --> 01:09:30,000
+Well, she wasn't allowed to touch them, so she had some anger towards them.
+
+1561
+01:09:30,000 --> 01:09:33,000
+Well, that's just the case. Sorry.
+
+1562
+01:09:33,000 --> 01:09:35,000
+She was going to break them. That's all.
+
+1563
+01:09:35,000 --> 01:09:41,000
+Well, Jason, I think you survived Podcast The Ride of the Second Gate, your birthday shot.
+
+1564
+01:09:41,000 --> 01:09:42,000
+Happy birthday to you.
+
+1565
+01:09:42,000 --> 01:09:43,000
+Thank you.
+
+1566
+01:09:43,000 --> 01:09:47,000
+Nice choice. Thanks, listeners, for the choice.
+
+1567
+01:09:47,000 --> 01:09:54,000
+And thanks for subscribing to The Second Gate. If you want to dig even deeper, join us on our VIP Patreon tier, Club 3, where the choice is always yours.
+
+1568
+01:09:54,000 --> 01:09:59,000
+You get one more bonus episode every month and our regular episodes ad-free.
+
+1569
+01:09:59,000 --> 01:10:04,000
+I think the question to ask here at the end is, do we repeat the birthday shot program?
+
+1570
+01:10:04,000 --> 01:10:10,000
+We all had our chance. March for you, July for me, October for Jason.
+
+1571
+01:10:10,000 --> 01:10:11,000
+Do we...
+
+1572
+01:10:11,000 --> 01:10:12,000
+I feel like we liked these.
+
+1573
+01:10:12,000 --> 01:10:13,000
+I think it was pretty successful.
+
+1574
+01:10:13,000 --> 01:10:16,000
+I think we all got something out.
+
+1575
+01:10:16,000 --> 01:10:17,000
+Yeah.
+
+1576
+01:10:17,000 --> 01:10:21,000
+Something deeper and got to explore fascinations.
+
+1577
+01:10:21,000 --> 01:10:25,000
+Do we have thoughts? You don't want to ruin it, necessarily, the surprise.
+
+1578
+01:10:25,000 --> 01:10:33,000
+There's many thoughts I have. There's a few different deep dives I'm wondering which would be the most appropriate or it doesn't matter if it's appropriate, I suppose.
+
+1579
+01:10:33,000 --> 01:10:41,000
+But yeah, I got ideas. I don't know if I've mentioned before we can in the spirit of your Beach Boys, I certainly could do a Weezer episode.
+
+1580
+01:10:41,000 --> 01:10:44,000
+You did mention it. Yeah.
+
+1581
+01:10:44,000 --> 01:10:45,000
+I could certainly do...
+
+1582
+01:10:45,000 --> 01:10:46,000
+What else are you thinking?
+
+1583
+01:10:46,000 --> 01:10:50,000
+I could do more of a bare naked ladies deep dive.
+
+1584
+01:10:50,000 --> 01:10:59,000
+I could do... I almost kind of want to do an episode fully just on the Ninja Turtles Archie comics that I was obsessed with as a kid where Raphael punches out Hitler.
+
+1585
+01:10:59,000 --> 01:11:05,000
+That's significantly more fun maybe than that Weezer episode.
+
+1586
+01:11:05,000 --> 01:11:06,000
+Oh, I disagree.
+
+1587
+01:11:06,000 --> 01:11:13,000
+I was about to suggest, well, Mike, you did say, what about program a whole month and we each program a month of second game.
+
+1588
+01:11:13,000 --> 01:11:14,000
+Well, Michael month is certainly...
+
+1589
+01:11:14,000 --> 01:11:19,000
+But then when he starts in with the Weezer deep cuts, I'm like, oh, I regret that suggestion.
+
+1590
+01:11:19,000 --> 01:11:25,000
+I think days are good, unless there's a comic where Raphael punched rivers.
+
+1591
+01:11:25,000 --> 01:11:29,000
+Maybe recently. I haven't seen it.
+
+1592
+01:11:29,000 --> 01:11:36,000
+But there's other things. There's other things. So there's options. I'm not... I'll say this. I ain't letting the audience decide.
+
+1593
+01:11:36,000 --> 01:11:42,000
+That ain't happening. Sorry, folks. You're not deciding. It's Michael's time to shine.
+
+1594
+01:11:42,000 --> 01:11:45,000
+This is how I do it. This is how we like it.
+
+1595
+01:11:45,000 --> 01:11:50,000
+Jason's a man of the people, not me. I choose my own.
+
+1596
+01:11:50,000 --> 01:11:52,000
+I can't guarantee you'll do it next year. I might just pick.
+
+1597
+01:11:52,000 --> 01:11:53,000
+Yeah.
+
+1598
+01:11:53,000 --> 01:11:55,000
+You know, I let them invent your original soundtrack.
+
+1599
+01:11:55,000 --> 01:12:02,000
+I may say that my choice is just all the ones that I've picked from this club threes over the last months and we just do them all at once.
+
+1600
+01:12:02,000 --> 01:12:08,000
+That might be actually a club three that is all of your less than 10% losers.
+
+1601
+01:12:08,000 --> 01:12:11,000
+Sorry, you gotta pick one.
+
+1602
+01:12:11,000 --> 01:12:12,000
+Yeah, we'll see.
+
+1603
+01:12:12,000 --> 01:12:16,000
+Oh, I picked some. I mean, I picked some. What am I? Went to hell.
+
+1604
+01:12:16,000 --> 01:12:17,000
+Oh, that's right.
+
+1605
+01:12:17,000 --> 01:12:18,000
+Which one did you go to hell?
+
+1606
+01:12:18,000 --> 01:12:19,000
+Google CES.
+
+1607
+01:12:19,000 --> 01:12:20,000
+Oh, yeah. We'll never talk about it.
+
+1608
+01:12:20,000 --> 01:12:21,000
+Yeah, that's right.
+
+1609
+01:12:21,000 --> 01:12:22,000
+Oh, even this is too much.
+
+1610
+01:12:22,000 --> 01:12:23,000
+Too much, yeah.
+
+1611
+01:12:23,000 --> 01:12:24,000
+We gotta get out of here or there'll be a curse.
+
+1612
+01:12:24,000 --> 01:12:25,000
+Let's go.
+

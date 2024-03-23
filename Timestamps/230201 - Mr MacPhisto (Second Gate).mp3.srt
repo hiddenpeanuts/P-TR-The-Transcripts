@@ -1,0 +1,9364 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:20,560 --> 00:00:25,560
+Greetings and welcome to Podcast The Ride, The Second Gate.
+
+3
+00:00:26,560 --> 00:00:31,560
+My name is Michael Carlson, also known as Mr. Mike Fisto.
+
+4
+00:00:33,760 --> 00:00:38,760
+Joining me as always, the little wooden mirror ball boy,
+
+5
+00:00:40,040 --> 00:00:41,880
+Jason Sheridan.
+
+6
+00:00:41,880 --> 00:00:42,720
+Hello.
+
+7
+00:00:43,760 --> 00:00:48,760
+And of course, the man just known as The Hog, Scott Gardner.
+
+8
+00:00:51,720 --> 00:00:52,600
+Hey, what's going on?
+
+9
+00:00:52,600 --> 00:00:55,480
+All right, so what's this then?
+
+10
+00:00:55,480 --> 00:01:00,320
+I'm going to be in character the whole show,
+
+11
+00:01:00,320 --> 00:01:02,520
+all 90 plus minutes.
+
+12
+00:01:02,520 --> 00:01:06,200
+Is he sort of an aging podcaster?
+
+13
+00:01:06,200 --> 00:01:07,360
+That's one of my personas.
+
+14
+00:01:07,360 --> 00:01:10,240
+This is one of my podcast personas, Mr. Mike Fisto.
+
+15
+00:01:10,240 --> 00:01:12,240
+We established this, what, years ago?
+
+16
+00:01:12,240 --> 00:01:14,880
+Pre-pandemic, is that where the character's from?
+
+17
+00:01:14,880 --> 00:01:18,080
+Well, that's a question because I, like,
+
+18
+00:01:18,080 --> 00:01:20,000
+at some point you have referenced
+
+19
+00:01:20,000 --> 00:01:22,160
+wanting to be Mr. Mike Fisto.
+
+20
+00:01:22,200 --> 00:01:25,720
+And then there was a moment where you requested
+
+21
+00:01:25,720 --> 00:01:29,560
+that you be called that in our New York live show,
+
+22
+00:01:29,560 --> 00:01:32,360
+or that you suggested that that could be said.
+
+23
+00:01:32,360 --> 00:01:33,200
+Oh, right, yes.
+
+24
+00:01:33,200 --> 00:01:35,680
+And I felt like I reigned on your parade by saying,
+
+25
+00:01:35,680 --> 00:01:38,440
+I don't think anyone will know what that is.
+
+26
+00:01:38,440 --> 00:01:40,440
+There's these things that keep happening
+
+27
+00:01:40,440 --> 00:01:42,840
+that I keep doing that I feel like they fall
+
+28
+00:01:42,840 --> 00:01:46,560
+in the category of, like, me telling a kid
+
+29
+00:01:46,560 --> 00:01:47,840
+that Santa's not real.
+
+30
+00:01:48,800 --> 00:01:50,560
+That's how I felt when I said Prince wasn't gonna come
+
+31
+00:01:50,560 --> 00:01:52,080
+to your birthday party.
+
+32
+00:01:53,000 --> 00:01:54,280
+And I think that's another one that I'm sorry to say
+
+33
+00:01:54,280 --> 00:01:56,840
+that I don't think Mr. Mike Fisto landed
+
+34
+00:01:56,840 --> 00:01:59,440
+like a lightning bolt in the podcast.
+
+35
+00:01:59,440 --> 00:02:00,280
+You don't think it's catching on?
+
+36
+00:02:00,280 --> 00:02:02,120
+I think it's catching on more than what we do.
+
+37
+00:02:02,120 --> 00:02:03,640
+Well, this is gonna help, this will help.
+
+38
+00:02:03,640 --> 00:02:07,560
+And that we're doing an episode all about Mr. Mike Fisto
+
+39
+00:02:07,560 --> 00:02:09,520
+I think will help kind of underline it
+
+40
+00:02:09,520 --> 00:02:11,080
+and put it in podcast lore.
+
+41
+00:02:11,080 --> 00:02:13,200
+Okay, good, because you'll make,
+
+42
+00:02:13,200 --> 00:02:16,840
+this will make my dreams a reality, is really what it will.
+
+43
+00:02:16,840 --> 00:02:18,120
+Okay, okay, okay.
+
+44
+00:02:18,120 --> 00:02:21,320
+So from now on, if you're hearing about Mr. Mike Fisto
+
+45
+00:02:21,320 --> 00:02:23,720
+and you say something like, is that even a thing?
+
+46
+00:02:23,720 --> 00:02:26,160
+It is a thing after today's episode.
+
+47
+00:02:26,160 --> 00:02:28,560
+After today's episode, which was a group effort
+
+48
+00:02:28,560 --> 00:02:31,200
+because as I look back on our group texts,
+
+49
+00:02:31,200 --> 00:02:36,200
+text from Scout Gander, let's do Mac Fisto exclamation point.
+
+50
+00:02:36,560 --> 00:02:39,760
+I was, yes, that was me a couple weeks ago.
+
+51
+00:02:39,760 --> 00:02:42,160
+It has been looming out there.
+
+52
+00:02:42,160 --> 00:02:46,880
+It seemed like a silly odd tangents to do,
+
+53
+00:02:46,880 --> 00:02:48,640
+a rabbit hole to go down.
+
+54
+00:02:48,640 --> 00:02:50,320
+And then the regret that I had
+
+55
+00:02:50,320 --> 00:02:52,280
+as soon as I walked into the garage
+
+56
+00:02:52,280 --> 00:02:55,440
+and elevation was blasting on Mike's speaker,
+
+57
+00:02:55,440 --> 00:02:59,480
+it's shivers of regret that went through my whole body.
+
+58
+00:02:59,480 --> 00:03:03,520
+I wish I could be that guy back in the text message.
+
+59
+00:03:03,520 --> 00:03:06,400
+I'll try to be, again, in trying to not say
+
+60
+00:03:06,400 --> 00:03:07,960
+that Santa's not real.
+
+61
+00:03:07,960 --> 00:03:09,120
+I'm gonna make some effort here.
+
+62
+00:03:09,120 --> 00:03:12,000
+We need to get you elevated to a place
+
+63
+00:03:12,000 --> 00:03:15,760
+where you're going, woo, woo.
+
+64
+00:03:15,760 --> 00:03:17,240
+The goal is elevation.
+
+65
+00:03:17,240 --> 00:03:18,520
+Okay, I see.
+
+66
+00:03:18,520 --> 00:03:21,480
+Yeah, you're like a mole digging in a hole.
+
+67
+00:03:22,400 --> 00:03:25,440
+Digging up his soul now, ready?
+
+68
+00:03:25,440 --> 00:03:27,280
+Okay, before we need to-
+
+69
+00:03:27,280 --> 00:03:28,560
+Explain what we're talking about?
+
+70
+00:03:28,560 --> 00:03:31,800
+Yes, we can go no further because I do think
+
+71
+00:03:31,800 --> 00:03:33,200
+that a lot of people don't know what this is
+
+72
+00:03:33,200 --> 00:03:35,320
+before we've even gotten into Mr. Mike Fisto,
+
+73
+00:03:35,320 --> 00:03:37,280
+before we said Mr. Mac Fisto.
+
+74
+00:03:37,280 --> 00:03:38,120
+So yes.
+
+75
+00:03:38,120 --> 00:03:38,940
+Cliff Notes.
+
+76
+00:03:38,940 --> 00:03:40,880
+The Cliff Notes version of this is
+
+77
+00:03:40,880 --> 00:03:43,040
+Bono is the lead singer of U2,
+
+78
+00:03:43,040 --> 00:03:44,680
+which is a band that's been around for what?
+
+79
+00:03:44,680 --> 00:03:47,120
+40 plus years at this point.
+
+80
+00:03:48,080 --> 00:03:49,720
+That's the thing, the important thing to know
+
+81
+00:03:49,720 --> 00:03:53,920
+is the longevity, not any other, not the popularity.
+
+82
+00:03:53,920 --> 00:03:54,760
+They're very-
+
+83
+00:03:54,760 --> 00:03:56,000
+It's coming up on 42, I believe.
+
+84
+00:03:56,000 --> 00:03:56,840
+They're very-
+
+85
+00:03:56,840 --> 00:03:57,680
+So now you know that.
+
+86
+00:03:57,680 --> 00:03:58,840
+They're a very popular band.
+
+87
+00:03:58,840 --> 00:04:01,360
+They, of course, compose the music for Spider-Man,
+
+88
+00:04:01,360 --> 00:04:03,440
+Turn Off the Dark, which is something we've talked about
+
+89
+00:04:03,440 --> 00:04:04,280
+on this show many times.
+
+90
+00:04:04,280 --> 00:04:06,000
+It's the only thing that has made them relevant
+
+91
+00:04:06,000 --> 00:04:09,080
+in this Theme Park podcast thus far.
+
+92
+00:04:09,080 --> 00:04:09,920
+Thus far.
+
+93
+00:04:09,920 --> 00:04:12,880
+They also did the song Hold Me, Thrill Me,
+
+94
+00:04:12,880 --> 00:04:14,320
+Kiss Me, Kill Me.
+
+95
+00:04:14,320 --> 00:04:16,120
+Well, yes, of course, for Batman Forever.
+
+96
+00:04:16,120 --> 00:04:17,920
+Right, and we'll get there.
+
+97
+00:04:17,920 --> 00:04:19,000
+Yeah.
+
+98
+00:04:19,000 --> 00:04:22,280
+So, yeah, so on the Zootv Tour,
+
+99
+00:04:22,280 --> 00:04:25,720
+which was a tour in support of Octon Baby and Zuroppa
+
+100
+00:04:25,720 --> 00:04:29,440
+in the early 90s, Bono invented a few characters
+
+101
+00:04:29,440 --> 00:04:31,240
+to play on stage.
+
+102
+00:04:31,240 --> 00:04:33,760
+And these characters included the Fly,
+
+103
+00:04:33,760 --> 00:04:36,840
+which is basically just Bono with bigger glasses.
+
+104
+00:04:36,840 --> 00:04:39,000
+So when he has those big, I didn't know that till today,
+
+105
+00:04:39,000 --> 00:04:41,040
+if he's wearing those big glasses,
+
+106
+00:04:41,040 --> 00:04:43,800
+which I associate with being the Bono glasses,
+
+107
+00:04:43,800 --> 00:04:45,380
+that's actually a character.
+
+108
+00:04:46,340 --> 00:04:48,980
+He does wear glasses, regardless,
+
+109
+00:04:48,980 --> 00:04:52,340
+but I think they're pretty iconic, the big glasses.
+
+110
+00:04:52,340 --> 00:04:53,180
+Yeah.
+
+111
+00:04:53,180 --> 00:04:54,020
+I'm with Scott here.
+
+112
+00:04:54,020 --> 00:04:58,020
+I did not know that until today, that that came.
+
+113
+00:04:58,020 --> 00:05:00,500
+I don't know, because he wore the big glasses later
+
+114
+00:05:00,500 --> 00:05:03,620
+in the 2000s, but I don't know if he thought of himself
+
+115
+00:05:03,620 --> 00:05:05,580
+as the Fly then.
+
+116
+00:05:05,580 --> 00:05:08,900
+I feel like the Fly, as Bono just turned up a little bit,
+
+117
+00:05:08,900 --> 00:05:12,620
+it's a little more, it's not a crazy departure for him.
+
+118
+00:05:12,620 --> 00:05:15,540
+So I think I will agree that he's the Fly
+
+119
+00:05:15,540 --> 00:05:17,100
+when he's wearing the glasses.
+
+120
+00:05:17,100 --> 00:05:18,540
+I will agree with that,
+
+121
+00:05:19,500 --> 00:05:22,340
+but I don't know what he would say necessarily.
+
+122
+00:05:22,340 --> 00:05:24,900
+Yeah, well, he originally talked about,
+
+123
+00:05:24,900 --> 00:05:27,700
+like, oh, the Fly is like a cliche rock star,
+
+124
+00:05:27,700 --> 00:05:30,220
+big sunglasses, leather pants.
+
+125
+00:05:30,220 --> 00:05:33,620
+And then at the age, he just kind of became the Fly.
+
+126
+00:05:33,620 --> 00:05:36,820
+Yeah, so you two started out, I would say,
+
+127
+00:05:36,820 --> 00:05:40,580
+like a band, like a post-punk band, I guess you'd call it,
+
+128
+00:05:40,620 --> 00:05:44,460
+pretty, I don't know, urgent, not punk rock,
+
+129
+00:05:44,460 --> 00:05:47,420
+but like seemingly falling in the same category
+
+130
+00:05:47,420 --> 00:05:50,740
+as like a more self-serious Elvis Costello
+
+131
+00:05:50,740 --> 00:05:51,980
+or something like that.
+
+132
+00:05:51,980 --> 00:05:53,140
+I don't know, does that make sense?
+
+133
+00:05:53,140 --> 00:05:53,980
+Yeah, I love, yeah.
+
+134
+00:05:53,980 --> 00:05:56,180
+Yeah, so the first couple albums, they were,
+
+135
+00:05:56,180 --> 00:05:59,140
+I would say pretty straightforward and pretty like,
+
+136
+00:05:59,140 --> 00:06:01,620
+just rock and roll, but have like a little more
+
+137
+00:06:01,620 --> 00:06:03,140
+like reverb on everything.
+
+138
+00:06:03,140 --> 00:06:06,140
+And it's not, and a couple years after that,
+
+139
+00:06:06,140 --> 00:06:08,260
+it would get to like your Where the Streets Have No Name,
+
+140
+00:06:08,260 --> 00:06:11,580
+which are like secular hymns to fill up an arena
+
+141
+00:06:11,580 --> 00:06:15,500
+and very pompous and self-serious and you don't,
+
+142
+00:06:15,500 --> 00:06:16,580
+you think secular hymns.
+
+143
+00:06:16,580 --> 00:06:19,220
+Everything that you were describing is why I have never
+
+144
+00:06:19,220 --> 00:06:21,300
+exactly cared for you two.
+
+145
+00:06:21,300 --> 00:06:22,580
+I guess we can get a little bit into this
+
+146
+00:06:22,580 --> 00:06:24,580
+because that's the period where I think
+
+147
+00:06:24,580 --> 00:06:26,100
+that defines them still to this day,
+
+148
+00:06:26,100 --> 00:06:28,140
+because then for the last 25 years,
+
+149
+00:06:28,140 --> 00:06:29,780
+they've been chasing that.
+
+150
+00:06:29,780 --> 00:06:30,620
+Yeah, yeah, yeah.
+
+151
+00:06:30,620 --> 00:06:31,980
+They've gone way back to trying to do that
+
+152
+00:06:31,980 --> 00:06:34,740
+and now it's like half-life after half-life.
+
+153
+00:06:34,740 --> 00:06:38,540
+They cannot do a song meant for a little bar.
+
+154
+00:06:38,540 --> 00:06:40,580
+They can't just do a nice little rock song.
+
+155
+00:06:40,580 --> 00:06:44,300
+It has to be a world-saving epic.
+
+156
+00:06:44,300 --> 00:06:45,140
+Uh-huh.
+
+157
+00:06:45,140 --> 00:06:45,980
+Yes, hymn.
+
+158
+00:06:45,980 --> 00:06:50,980
+iPod Touch launching song.
+
+159
+00:06:52,260 --> 00:06:54,100
+Yeah, I guess some of them, not all of them.
+
+160
+00:06:54,100 --> 00:06:55,420
+Some of them are kind of silly.
+
+161
+00:06:55,420 --> 00:06:56,260
+I mean, that's a, yeah.
+
+162
+00:06:56,260 --> 00:06:58,220
+The Couture Se song is not a.
+
+163
+00:06:58,220 --> 00:07:00,060
+Vertigo, right.
+
+164
+00:07:00,060 --> 00:07:02,740
+So yeah, but it's still, I would say Vertigo,
+
+165
+00:07:02,740 --> 00:07:04,260
+not a great song.
+
+166
+00:07:04,660 --> 00:07:05,940
+Maybe not a great song.
+
+167
+00:07:07,660 --> 00:07:09,180
+So yeah, so anyway, so.
+
+168
+00:07:09,180 --> 00:07:12,220
+They didn't do, they were, they started off as a band
+
+169
+00:07:12,220 --> 00:07:15,660
+that didn't do a bunch of crazy bullshit
+
+170
+00:07:15,660 --> 00:07:17,580
+and then they became a band.
+
+171
+00:07:17,580 --> 00:07:18,420
+Yeah.
+
+172
+00:07:18,420 --> 00:07:20,660
+That's right in this, it seems like Zoo TV
+
+173
+00:07:20,660 --> 00:07:23,620
+was the era where the crazy bullshit really took flight.
+
+174
+00:07:23,620 --> 00:07:27,220
+I argue though the crazy, so they were getting called
+
+175
+00:07:27,220 --> 00:07:29,300
+pompous after doing Where the Streets Have No Name
+
+176
+00:07:29,300 --> 00:07:30,500
+and With or Without You, all that stuff.
+
+177
+00:07:30,500 --> 00:07:32,500
+They were getting called like full of themselves
+
+178
+00:07:32,500 --> 00:07:34,100
+and stuck up their own ass.
+
+179
+00:07:34,940 --> 00:07:36,700
+So they decided to break from that
+
+180
+00:07:36,700 --> 00:07:40,620
+and do different nonsense, I would say.
+
+181
+00:07:40,620 --> 00:07:42,980
+Cause the 90s, mostly up until, yeah,
+
+182
+00:07:42,980 --> 00:07:46,700
+most of the 90s they're in like reinvention mode.
+
+183
+00:07:46,700 --> 00:07:48,260
+And it's not fully reinvented
+
+184
+00:07:48,260 --> 00:07:49,620
+cause it's like one comes out,
+
+185
+00:07:49,620 --> 00:07:51,940
+which is pretty standard U2.
+
+186
+00:07:51,940 --> 00:07:55,580
+But there's a lot more Euro club trash influence
+
+187
+00:07:55,580 --> 00:07:57,500
+on all the U2 songs.
+
+188
+00:07:58,340 --> 00:08:02,180
+And Zoo TV is like, is silly.
+
+189
+00:08:02,180 --> 00:08:06,380
+It's a lot sillier than anything they had done in the 80s.
+
+190
+00:08:06,380 --> 00:08:08,500
+What is up with this tour?
+
+191
+00:08:08,500 --> 00:08:11,380
+What is the general, I've only peripherally
+
+192
+00:08:11,380 --> 00:08:13,780
+ever been aware of what Zoo TV was.
+
+193
+00:08:13,780 --> 00:08:16,340
+I mainly know it from the interaction
+
+194
+00:08:16,340 --> 00:08:20,060
+with the VMAs one year when Garth,
+
+195
+00:08:20,060 --> 00:08:23,060
+Dana Carvey was the host and Garth called in
+
+196
+00:08:23,060 --> 00:08:26,220
+and drummed from the VMA stage
+
+197
+00:08:26,220 --> 00:08:28,940
+via satellite to wherever they were playing.
+
+198
+00:08:28,940 --> 00:08:31,740
+But I know that the tour involved a lot of like,
+
+199
+00:08:31,820 --> 00:08:33,620
+let's flip through the channels
+
+200
+00:08:33,620 --> 00:08:36,860
+and it's the world's biggest satellite.
+
+201
+00:08:36,860 --> 00:08:40,300
+It was a lot of like a big stream of crazy imagery.
+
+202
+00:08:40,300 --> 00:08:42,700
+But I don't know what, do I kind of have the idea?
+
+203
+00:08:42,700 --> 00:08:43,540
+Yeah, you do.
+
+204
+00:08:43,540 --> 00:08:45,580
+I mean, I think Brian Eno had a lot to do with it.
+
+205
+00:08:45,580 --> 00:08:48,300
+Brian Eno was a long time U2 producer.
+
+206
+00:08:48,300 --> 00:08:50,860
+He's still around, but he produced a lot of those albums.
+
+207
+00:08:50,860 --> 00:08:52,220
+He produced Doctone Baby.
+
+208
+00:08:52,220 --> 00:08:54,460
+And I think it was like, you know how like
+
+209
+00:08:54,460 --> 00:08:57,140
+when rock stars try to want to say something
+
+210
+00:08:57,140 --> 00:08:58,180
+and then they try to say something
+
+211
+00:08:58,180 --> 00:09:00,180
+and then they're not saying anything specific.
+
+212
+00:09:00,180 --> 00:09:04,340
+They're saying like TV commercialism is bad.
+
+213
+00:09:04,340 --> 00:09:07,260
+Like it feels like we're talking about the general idea
+
+214
+00:09:07,260 --> 00:09:10,220
+of television and fame and celebrity.
+
+215
+00:09:10,220 --> 00:09:11,540
+And you're like, I don't think you're actually saying
+
+216
+00:09:11,540 --> 00:09:12,820
+anything about any of this.
+
+217
+00:09:12,820 --> 00:09:15,540
+I think technologically minded,
+
+218
+00:09:15,540 --> 00:09:19,660
+cause a lot of things I was reading about the subject today
+
+219
+00:09:19,660 --> 00:09:24,580
+were quotes from like, oh, the tour manager discussed this
+
+220
+00:09:24,580 --> 00:09:29,580
+and the other characters in an MSN chat in 1997.
+
+221
+00:09:30,060 --> 00:09:35,060
+An MSN chat with the U2 fans.
+
+222
+00:09:35,660 --> 00:09:37,820
+You're saying that's after the tour happens.
+
+223
+00:09:37,820 --> 00:09:39,500
+Right, yeah, but I'm saying that.
+
+224
+00:09:39,500 --> 00:09:44,220
+I'm saying like the satellite stuff, later the iPod stuff.
+
+225
+00:09:44,220 --> 00:09:46,860
+You're saying it's like technology's emerging
+
+226
+00:09:46,860 --> 00:09:49,540
+and people that have a vague idea of what it is
+
+227
+00:09:49,540 --> 00:09:53,380
+try to incorporate it into their persona of the show.
+
+228
+00:09:53,380 --> 00:09:57,980
+Brian Eno has a pretty varied music career
+
+229
+00:09:57,980 --> 00:09:59,420
+in terms of both producing
+
+230
+00:09:59,420 --> 00:10:02,220
+and like I've listened to a lot of his ambient albums.
+
+231
+00:10:03,260 --> 00:10:04,860
+We're all over the map here, hang on.
+
+232
+00:10:04,860 --> 00:10:05,700
+I asked a question.
+
+233
+00:10:05,700 --> 00:10:07,300
+What's the question?
+
+234
+00:10:07,300 --> 00:10:09,500
+Okay, what is Zootv?
+
+235
+00:10:09,500 --> 00:10:13,500
+I feel, my thing is that I feel like U2 and Brian Eno
+
+236
+00:10:13,500 --> 00:10:16,620
+are both very technologically focused.
+
+237
+00:10:16,620 --> 00:10:18,580
+I think it's a thing where they thought they were making
+
+238
+00:10:18,580 --> 00:10:21,620
+like points about celebrity and fame
+
+239
+00:10:21,620 --> 00:10:23,940
+and the hollowness of it and television,
+
+240
+00:10:23,940 --> 00:10:25,260
+like all this stuff.
+
+241
+00:10:25,260 --> 00:10:27,300
+But if you watch it and like when it starts,
+
+242
+00:10:27,300 --> 00:10:29,100
+all the TVs are flashing words
+
+243
+00:10:29,100 --> 00:10:31,020
+and some of them are like racial slurs
+
+244
+00:10:31,020 --> 00:10:32,660
+and you're like, what is this saying?
+
+245
+00:10:32,660 --> 00:10:34,140
+What is any of this saying?
+
+246
+00:10:34,140 --> 00:10:36,580
+You can appreciate it for it's,
+
+247
+00:10:36,580 --> 00:10:38,540
+because these are giant stages,
+
+248
+00:10:38,540 --> 00:10:40,980
+crazy stages with a lot of TVs,
+
+249
+00:10:40,980 --> 00:10:44,380
+similar to that chain link fence TV aesthetic
+
+250
+00:10:44,380 --> 00:10:45,860
+you've talked about recently.
+
+251
+00:10:45,860 --> 00:10:50,420
+The stuff that like is very heavy in popular culture
+
+252
+00:10:50,420 --> 00:10:52,420
+in the mid to late 90s.
+
+253
+00:10:52,420 --> 00:10:56,900
+Before that, it was present in like video art installations
+
+254
+00:10:57,140 --> 00:10:58,100
+galleries and all.
+
+255
+00:10:58,100 --> 00:11:02,700
+So I feel like it's a catch all for what very out of touch
+
+256
+00:11:02,700 --> 00:11:05,500
+people see as a problem in society.
+
+257
+00:11:05,500 --> 00:11:09,140
+It's just technology and change and fame
+
+258
+00:11:09,140 --> 00:11:12,180
+and our minds and war.
+
+259
+00:11:12,180 --> 00:11:14,420
+Like when it was just say the words
+
+260
+00:11:14,420 --> 00:11:17,860
+and then never really turn it into a bigger point.
+
+261
+00:11:17,860 --> 00:11:19,180
+There would be points in there.
+
+262
+00:11:19,180 --> 00:11:21,140
+And this is a weird ass tour.
+
+263
+00:11:21,140 --> 00:11:25,020
+They would go live to Sarajevo during the Bosnian war.
+
+264
+00:11:25,860 --> 00:11:28,300
+And people would say like, this is really,
+
+265
+00:11:28,300 --> 00:11:29,940
+why are they doing this?
+
+266
+00:11:29,940 --> 00:11:33,300
+And then some people were like, this is exploiting the war.
+
+267
+00:11:33,300 --> 00:11:34,900
+And they thought it would stop dead
+
+268
+00:11:34,900 --> 00:11:36,100
+in the middle of a rock and roll show.
+
+269
+00:11:36,100 --> 00:11:39,340
+And they would talk to whoever was in a control room
+
+270
+00:11:39,340 --> 00:11:40,300
+in the country.
+
+271
+00:11:40,300 --> 00:11:43,700
+Yeah, people had a lot to say about the 24 hour,
+
+272
+00:11:43,700 --> 00:11:45,780
+the budding 24 hour news cycle.
+
+273
+00:11:45,780 --> 00:11:48,740
+So yeah, this is all over the place.
+
+274
+00:11:48,740 --> 00:11:52,100
+So also by the way, drinking game in the episode,
+
+275
+00:11:52,100 --> 00:11:54,860
+when Mike says the full phrase rock and roll,
+
+276
+00:11:56,380 --> 00:11:57,220
+have I said it yet?
+
+277
+00:11:57,220 --> 00:11:58,060
+Twice.
+
+278
+00:11:58,060 --> 00:11:58,900
+Okay.
+
+279
+00:11:58,900 --> 00:11:59,740
+It's a rock and roll show.
+
+280
+00:11:59,740 --> 00:12:00,980
+Actually show is part, take a,
+
+281
+00:12:00,980 --> 00:12:03,740
+make it a double shot if show is in there too.
+
+282
+00:12:03,740 --> 00:12:05,860
+I will not try to force someone to get drunk,
+
+283
+00:12:05,860 --> 00:12:08,460
+but I'm going to just do it naturally.
+
+284
+00:12:08,460 --> 00:12:13,460
+So yeah, so this is like, this is a multiple year tour.
+
+285
+00:12:13,860 --> 00:12:15,700
+It went everywhere.
+
+286
+00:12:15,700 --> 00:12:17,900
+And I would just, the change from YouTube before
+
+287
+00:12:17,900 --> 00:12:20,860
+is that they're like a little bit self-aware now.
+
+288
+00:12:20,860 --> 00:12:21,740
+They're a little bit,
+
+289
+00:12:22,380 --> 00:12:23,220
+they're doing things differently.
+
+290
+00:12:23,220 --> 00:12:24,300
+They're willing to have,
+
+291
+00:12:24,300 --> 00:12:28,100
+they don't want to seem like they're sticks in the mud,
+
+292
+00:12:28,100 --> 00:12:30,540
+even though they probably still are.
+
+293
+00:12:30,540 --> 00:12:33,420
+But like self-aware in the sense of like,
+
+294
+00:12:33,420 --> 00:12:36,700
+I was really thinking about this when we were on our
+
+295
+00:12:36,700 --> 00:12:39,460
+$20,000 a ticket Concorde flight.
+
+296
+00:12:39,460 --> 00:12:40,300
+Yeah, sure.
+
+297
+00:12:40,300 --> 00:12:42,940
+Yeah, yeah, no, they're ultra rich already.
+
+298
+00:12:42,940 --> 00:12:43,780
+Yeah, yeah.
+
+299
+00:12:43,780 --> 00:12:44,980
+Now like what's going on down there?
+
+300
+00:12:44,980 --> 00:12:46,900
+What we're passing over,
+
+301
+00:12:46,900 --> 00:12:48,380
+what's happening down on the ground?
+
+302
+00:12:48,380 --> 00:12:50,100
+Yes, does Bono, did they move a lot of their money
+
+303
+00:12:50,100 --> 00:12:53,620
+to a Norwegian bank to stop paying taxes?
+
+304
+00:12:53,620 --> 00:12:55,180
+Yes, I think they did do that.
+
+305
+00:12:55,180 --> 00:12:57,380
+So look, there's charity work.
+
+306
+00:12:57,380 --> 00:12:58,860
+Does it all fall in the line of like
+
+307
+00:12:58,860 --> 00:13:00,380
+the Clinton Global Initiative?
+
+308
+00:13:00,380 --> 00:13:01,620
+Sure it does.
+
+309
+00:13:01,620 --> 00:13:03,380
+Where you're like, I'm not sure.
+
+310
+00:13:03,380 --> 00:13:05,580
+Obviously there's the Red Foundation, which we will get to,
+
+311
+00:13:05,580 --> 00:13:07,060
+which is an AIDS foundation.
+
+312
+00:13:07,060 --> 00:13:09,100
+And I'm sure work has been done.
+
+313
+00:13:09,100 --> 00:13:11,420
+I'm pretty sure, I hope has been done
+
+314
+00:13:11,420 --> 00:13:14,620
+to help cure AIDS globally.
+
+315
+00:13:14,620 --> 00:13:17,180
+We'll get there because believe it or not,
+
+316
+00:13:17,180 --> 00:13:20,900
+our friend might make an appearance at a Red event.
+
+317
+00:13:22,220 --> 00:13:25,860
+To either help with or hinder the cause
+
+318
+00:13:25,860 --> 00:13:28,420
+of helping out with AIDS.
+
+319
+00:13:28,420 --> 00:13:33,420
+So yeah, so this is a crazy big thing and Bono.
+
+320
+00:13:33,740 --> 00:13:37,740
+It's a big, they never done a big theatrical tour before
+
+321
+00:13:37,740 --> 00:13:41,460
+and part of the theatrical presentation is characters.
+
+322
+00:13:41,460 --> 00:13:42,300
+Yes.
+
+323
+00:13:42,300 --> 00:13:44,140
+This is an innovation we're going to bring.
+
+324
+00:13:44,140 --> 00:13:46,900
+And it seems like the characters stepped up
+
+325
+00:13:46,900 --> 00:13:50,340
+in terms of, is the fly really a fleshed out character?
+
+326
+00:13:50,340 --> 00:13:51,180
+I don't know.
+
+327
+00:13:51,180 --> 00:13:53,460
+Is Mr. McFisto?
+
+328
+00:13:53,460 --> 00:13:57,980
+I feel like McFisto is a hair above the fly
+
+329
+00:13:57,980 --> 00:13:59,220
+as far as fleshed out.
+
+330
+00:14:00,180 --> 00:14:01,940
+But yeah, I don't know.
+
+331
+00:14:01,940 --> 00:14:04,380
+There's a full turn seemingly in the show
+
+332
+00:14:04,380 --> 00:14:08,420
+where Bono is no more and McFisto is.
+
+333
+00:14:08,420 --> 00:14:13,420
+Yes, so all the whole Zoo TV tour is pretty well documented.
+
+334
+00:14:13,740 --> 00:14:17,140
+There's a couple of recorded shows on YouTube.
+
+335
+00:14:17,140 --> 00:14:22,140
+There's a lot of clips and I'll say this about McFisto.
+
+336
+00:14:22,340 --> 00:14:25,740
+He is well documented online.
+
+337
+00:14:25,740 --> 00:14:27,300
+When I started looking through this stuff
+
+338
+00:14:27,300 --> 00:14:28,740
+and I'm like, I like you too.
+
+339
+00:14:28,740 --> 00:14:30,620
+I like this era of you too.
+
+340
+00:14:30,620 --> 00:14:31,940
+I like the earlier era of you too.
+
+341
+00:14:31,940 --> 00:14:33,800
+I don't love the last 20 years.
+
+342
+00:14:34,740 --> 00:14:36,420
+I didn't know a lot of this.
+
+343
+00:14:36,420 --> 00:14:37,780
+I didn't know.
+
+344
+00:14:37,780 --> 00:14:41,500
+I was shocked that anyone gave a shit about him,
+
+345
+00:14:41,500 --> 00:14:42,900
+but as I was talking to Jason before this,
+
+346
+00:14:43,260 --> 00:14:44,080
+we were like, oh yeah,
+
+347
+00:14:44,080 --> 00:14:46,780
+this was like one of the biggest bands in America
+
+348
+00:14:46,780 --> 00:14:48,540
+and it was a huge world tour.
+
+349
+00:14:48,540 --> 00:14:50,220
+There has to be somebody who has made
+
+350
+00:14:50,220 --> 00:14:54,140
+and maintains a weird old looking GeoCities website
+
+351
+00:14:54,140 --> 00:14:55,580
+about Mr. McFisto.
+
+352
+00:14:55,580 --> 00:14:59,200
+And that's where I got most of the information today
+
+353
+00:14:59,200 --> 00:15:01,700
+is a Mr. McFisto fan site
+
+354
+00:15:01,700 --> 00:15:04,100
+that looks like it was started in 95.
+
+355
+00:15:04,100 --> 00:15:06,620
+And yet I ended up there too
+
+356
+00:15:06,620 --> 00:15:11,620
+and it is updated with information from 2018 at least.
+
+357
+00:15:12,420 --> 00:15:13,700
+Which is kind of weird.
+
+358
+00:15:13,700 --> 00:15:15,540
+You're like, wow, so this is an old website
+
+359
+00:15:15,540 --> 00:15:16,380
+that hasn't been touched.
+
+360
+00:15:16,380 --> 00:15:17,380
+Wait a minute.
+
+361
+00:15:17,380 --> 00:15:18,820
+These are references to new things
+
+362
+00:15:18,820 --> 00:15:21,180
+and new celebrities and new technologies.
+
+363
+00:15:21,180 --> 00:15:25,220
+Somebody is using the same computer that they used in 96.
+
+364
+00:15:25,220 --> 00:15:27,580
+Anytime they catch wind that Bono is dressed up
+
+365
+00:15:27,580 --> 00:15:28,860
+with little horns again.
+
+366
+00:15:29,720 --> 00:15:31,760
+Yeah, it is an old computer.
+
+367
+00:15:31,760 --> 00:15:34,940
+It is used for the updating the YouTube fan sites
+
+368
+00:15:34,940 --> 00:15:38,540
+and scheduling Southwest Airlines flights.
+
+369
+00:15:38,540 --> 00:15:39,460
+Same machine.
+
+370
+00:15:39,460 --> 00:15:42,020
+Yes, that's a very good point.
+
+371
+00:15:42,020 --> 00:15:45,340
+So if I have to justify why it's on our Theme Park podcast,
+
+372
+00:15:45,340 --> 00:15:47,980
+this couldn't be more of a fucking Green Goblin
+
+373
+00:15:47,980 --> 00:15:52,380
+Theme Park character in one of his songs that he would do.
+
+374
+00:15:52,380 --> 00:15:54,140
+There's a big, I won't even say it.
+
+375
+00:15:54,140 --> 00:15:56,440
+Did you watch some of the songs?
+
+376
+00:15:56,440 --> 00:15:57,280
+I'll ask both of you.
+
+377
+00:15:57,280 --> 00:15:58,100
+A little bit.
+
+378
+00:15:58,100 --> 00:15:58,940
+Okay.
+
+379
+00:15:58,940 --> 00:16:00,780
+I mostly watch prank phone calls.
+
+380
+00:16:00,780 --> 00:16:03,740
+Cause I don't know what else to call them.
+
+381
+00:16:03,740 --> 00:16:05,260
+Yeah, no, that's what he,
+
+382
+00:16:05,260 --> 00:16:07,660
+Mr. McFisto would prank phone call someone
+
+383
+00:16:07,660 --> 00:16:10,160
+in the middle of the show, basically.
+
+384
+00:16:11,020 --> 00:16:11,980
+Let me take a step back
+
+385
+00:16:11,980 --> 00:16:13,180
+cause I'm getting very overwhelmed.
+
+386
+00:16:13,180 --> 00:16:14,860
+We need to say, what has not been said is
+
+387
+00:16:14,860 --> 00:16:16,700
+what is Mr. McFisto?
+
+388
+00:16:16,700 --> 00:16:20,660
+He is a man who is like, it's Bono with face paint on,
+
+389
+00:16:20,660 --> 00:16:25,120
+devil ears, and he is, there's many things
+
+390
+00:16:25,120 --> 00:16:27,940
+that have like been referenced for like who he's channeling.
+
+391
+00:16:27,940 --> 00:16:29,700
+I've seen like, you know, Liberace.
+
+392
+00:16:29,700 --> 00:16:33,940
+I've seen just the devil himself, you know, whatever.
+
+393
+00:16:33,940 --> 00:16:36,500
+Is he the devil or is he a devil?
+
+394
+00:16:36,500 --> 00:16:37,540
+I think he is the devil.
+
+395
+00:16:38,420 --> 00:16:39,260
+I think that's the idea.
+
+396
+00:16:39,260 --> 00:16:41,060
+Yeah, the devil is an aging rock star
+
+397
+00:16:41,060 --> 00:16:46,060
+or like a washed up music hall, English music hall musician.
+
+398
+00:16:46,620 --> 00:16:48,300
+Yes.
+
+399
+00:16:48,300 --> 00:16:51,500
+And he, he's wearing like a red shirt
+
+400
+00:16:51,500 --> 00:16:53,700
+and like a gold suit, very shiny.
+
+401
+00:16:53,700 --> 00:16:56,060
+And he's got kind of platform shoes.
+
+402
+00:16:56,060 --> 00:16:58,500
+And he, he does have a voice.
+
+403
+00:16:58,500 --> 00:17:00,340
+That's the voice I was doing is sort of similar
+
+404
+00:17:00,340 --> 00:17:01,860
+to the voice that he's doing
+
+405
+00:17:02,780 --> 00:17:03,800
+when he's playing the character.
+
+406
+00:17:03,800 --> 00:17:05,780
+So he's got a slightly different persona.
+
+407
+00:17:05,780 --> 00:17:06,620
+I'm not saying this is some
+
+408
+00:17:06,620 --> 00:17:07,980
+of the greatest character work ever.
+
+409
+00:17:07,980 --> 00:17:09,460
+I'm just saying he is doing a little bit
+
+410
+00:17:09,460 --> 00:17:10,300
+of a different voice.
+
+411
+00:17:10,300 --> 00:17:12,100
+It is more sinister.
+
+412
+00:17:12,100 --> 00:17:12,940
+It's a quiet thing.
+
+413
+00:17:12,940 --> 00:17:17,940
+And he drags the words out and then they go up.
+
+414
+00:17:18,380 --> 00:17:20,220
+That's about what he's putting on it.
+
+415
+00:17:20,220 --> 00:17:22,660
+And I'll say this, you can tell he loves it.
+
+416
+00:17:22,660 --> 00:17:23,940
+He loves doing this.
+
+417
+00:17:23,940 --> 00:17:26,380
+He loves playing Mr. McPhisto.
+
+418
+00:17:26,380 --> 00:17:27,500
+And then I'm looking through this too.
+
+419
+00:17:27,500 --> 00:17:30,980
+And I find there's a guy, there's a guy that's referenced
+
+420
+00:17:30,980 --> 00:17:33,180
+in again, one of the many books
+
+421
+00:17:33,180 --> 00:17:35,740
+that have sections on Mr. McPhisto.
+
+422
+00:17:35,740 --> 00:17:36,580
+Many books.
+
+423
+00:17:36,580 --> 00:17:39,460
+And that website, there's all these different sources.
+
+424
+00:17:39,460 --> 00:17:41,500
+And it's like this, in this great YouTube book
+
+425
+00:17:41,500 --> 00:17:43,900
+there's a whole chapter on Mr. McPhisto.
+
+426
+00:17:43,900 --> 00:17:45,820
+And I'm like, I guess of course there is,
+
+427
+00:17:45,820 --> 00:17:47,780
+but I'm just, again, it was shocking to me.
+
+428
+00:17:47,780 --> 00:17:50,260
+You feel like YouTube is huge.
+
+429
+00:17:50,260 --> 00:17:54,340
+Everybody knows YouTube and yet comparatively
+
+430
+00:17:54,340 --> 00:17:58,020
+the world does not think about Mr. McPhisto.
+
+431
+00:17:58,020 --> 00:18:00,500
+Like it seems like it's a weird thing.
+
+432
+00:18:00,500 --> 00:18:03,620
+Like we know the big songs, we know one
+
+433
+00:18:03,620 --> 00:18:06,220
+but then why do regular people not know
+
+434
+00:18:06,220 --> 00:18:10,460
+that Bono was a devil guy for like long monologue
+
+435
+00:18:10,460 --> 00:18:12,300
+for 15 minutes a concert.
+
+436
+00:18:12,300 --> 00:18:13,500
+Millions saw this.
+
+437
+00:18:13,500 --> 00:18:15,540
+Millions saw the devil man.
+
+438
+00:18:15,540 --> 00:18:17,860
+And I guess it's because like Ziggy Stardust
+
+439
+00:18:17,860 --> 00:18:21,260
+is an album that David Bowie did and a persona.
+
+440
+00:18:21,260 --> 00:18:22,100
+Yes.
+
+441
+00:18:22,100 --> 00:18:22,940
+So I guess that's what keeps him.
+
+442
+00:18:22,940 --> 00:18:26,460
+But I think that, cause like this has its roots for sure.
+
+443
+00:18:26,460 --> 00:18:29,220
+You know, there's a lot of like rock star alter egos
+
+444
+00:18:29,220 --> 00:18:30,060
+out there.
+
+445
+00:18:30,060 --> 00:18:30,900
+Yes.
+
+446
+00:18:31,660 --> 00:18:34,940
+You know, it all clearly stemming from Sergeant Pepper.
+
+447
+00:18:34,940 --> 00:18:36,740
+The idea that we're gonna do an album
+
+448
+00:18:36,740 --> 00:18:39,260
+kind of as other people.
+
+449
+00:18:39,260 --> 00:18:41,060
+And then Ziggy Stardust as well.
+
+450
+00:18:41,060 --> 00:18:43,660
+However, like none of them are,
+
+451
+00:18:43,660 --> 00:18:46,300
+there's not a lot of like Ziggy Stardust media.
+
+452
+00:18:46,300 --> 00:18:48,580
+They like, there's not like, and now here's a scene
+
+453
+00:18:48,580 --> 00:18:51,700
+that Ziggy Stardust does and talks to you.
+
+454
+00:18:51,700 --> 00:18:53,220
+It's like embedded in the music
+
+455
+00:18:53,220 --> 00:18:55,180
+and especially Sergeant Pepper
+
+456
+00:18:55,180 --> 00:18:58,740
+because I was thinking about this how, okay, Sergeant Pepper.
+
+457
+00:18:58,740 --> 00:19:00,540
+Well, yeah, when the Beatles were playing
+
+458
+00:19:00,540 --> 00:19:01,620
+these other characters, okay.
+
+459
+00:19:01,620 --> 00:19:03,740
+Now name any other fact about that.
+
+460
+00:19:05,260 --> 00:19:06,420
+Okay, Billy Shears.
+
+461
+00:19:06,420 --> 00:19:07,900
+I know one of them is Billy Shears.
+
+462
+00:19:07,900 --> 00:19:12,140
+Can anyone name who the other guys were?
+
+463
+00:19:12,140 --> 00:19:13,340
+I can't actually.
+
+464
+00:19:13,340 --> 00:19:14,740
+Yeah, I had no idea.
+
+465
+00:19:14,740 --> 00:19:15,580
+But they are named.
+
+466
+00:19:15,580 --> 00:19:18,180
+Yeah, I don't even know where this comes from.
+
+467
+00:19:18,180 --> 00:19:22,020
+Their names are Mark Dave and Bob Henderson.
+
+468
+00:19:22,020 --> 00:19:22,860
+Wow.
+
+469
+00:19:22,860 --> 00:19:25,660
+So when you look at that cover, it's not John Lennon.
+
+470
+00:19:25,660 --> 00:19:27,260
+It's Mark Henderson.
+
+471
+00:19:27,260 --> 00:19:30,180
+Wait, so the three of them, George, Paul, and John
+
+472
+00:19:30,180 --> 00:19:33,820
+are brothers of some kind and then Billy Shears is Ringo
+
+473
+00:19:33,820 --> 00:19:35,020
+who sings a little help with my friends
+
+474
+00:19:35,020 --> 00:19:36,700
+because they introduce him and they say his name in the song.
+
+475
+00:19:36,700 --> 00:19:38,980
+So Ringo is not related to the three of them?
+
+476
+00:19:38,980 --> 00:19:39,820
+I guess not.
+
+477
+00:19:39,820 --> 00:19:40,660
+That's mean.
+
+478
+00:19:41,660 --> 00:19:44,900
+It's the same format that the movie took on
+
+479
+00:19:44,900 --> 00:19:48,620
+where the brothers Gib are three of them
+
+480
+00:19:48,620 --> 00:19:51,380
+and then Peter Frampton is not really,
+
+481
+00:19:51,380 --> 00:19:53,580
+in real life, the relations.
+
+482
+00:19:53,580 --> 00:19:54,420
+So that's the rule.
+
+483
+00:19:54,420 --> 00:19:56,660
+If you're gonna be a Sergeant Pepper,
+
+484
+00:19:56,660 --> 00:19:58,540
+three of, a Lonely Arts Club band,
+
+485
+00:19:58,540 --> 00:20:02,380
+three of you have to be related and one of you cannot be.
+
+486
+00:20:02,380 --> 00:20:03,220
+Right.
+
+487
+00:20:03,220 --> 00:20:05,620
+I mean, I didn't know all this.
+
+488
+00:20:05,620 --> 00:20:07,780
+Honestly, until this moment, I didn't know why
+
+489
+00:20:07,780 --> 00:20:11,220
+that song starts off with someone saying Billy Shears.
+
+490
+00:20:11,220 --> 00:20:12,060
+Oh yeah.
+
+491
+00:20:12,060 --> 00:20:12,900
+It's confusing, isn't it?
+
+492
+00:20:12,900 --> 00:20:13,740
+Yeah.
+
+493
+00:20:13,740 --> 00:20:14,580
+Billy Shears.
+
+494
+00:20:14,580 --> 00:20:17,860
+But I mean, when did I first hear
+
+495
+00:20:17,860 --> 00:20:19,740
+the Sergeant Pepper's album?
+
+496
+00:20:19,740 --> 00:20:21,740
+2002, 2003.
+
+497
+00:20:21,740 --> 00:20:25,740
+So by that point, it had been parodied so many times.
+
+498
+00:20:25,740 --> 00:20:28,740
+I had seen it in books, on posters.
+
+499
+00:20:30,620 --> 00:20:32,540
+Like I said, a million parodies.
+
+500
+00:20:32,540 --> 00:20:34,700
+I just know like, oh, it's everyone.
+
+501
+00:20:34,700 --> 00:20:37,220
+It's all the 20th century stars.
+
+502
+00:20:37,220 --> 00:20:38,780
+Like Marilyn Monroe is there.
+
+503
+00:20:38,780 --> 00:20:39,620
+Right, right.
+
+504
+00:20:39,620 --> 00:20:41,500
+Politicians are there, you know?
+
+505
+00:20:41,500 --> 00:20:42,340
+Yeah, yeah.
+
+506
+00:20:43,620 --> 00:20:46,940
+I'm just getting at that like, it's weird.
+
+507
+00:20:46,940 --> 00:20:50,180
+It's a step beyond for Bono to now do.
+
+508
+00:20:50,180 --> 00:20:51,420
+It's not just that like,
+
+509
+00:20:51,420 --> 00:20:53,740
+this character's from a point of view.
+
+510
+00:20:53,740 --> 00:20:54,580
+Yeah.
+
+511
+00:20:54,580 --> 00:20:56,660
+This song's from the point of view of a character rather.
+
+512
+00:20:56,660 --> 00:20:59,460
+That like, this concert is going to stop
+
+513
+00:20:59,460 --> 00:21:03,020
+and I'm going to talk as a character for 15 minutes.
+
+514
+00:21:03,020 --> 00:21:04,100
+It's weird.
+
+515
+00:21:04,100 --> 00:21:04,940
+Yeah.
+
+516
+00:21:04,940 --> 00:21:05,780
+Which is why I like it.
+
+517
+00:21:05,780 --> 00:21:08,780
+Like, it's a giant tour with some dumb crap
+
+518
+00:21:08,780 --> 00:21:10,260
+that most people don't care about.
+
+519
+00:21:10,260 --> 00:21:12,140
+They're just cheering cause Bono's on stage.
+
+520
+00:21:12,140 --> 00:21:12,980
+Yes.
+
+521
+00:21:12,980 --> 00:21:13,980
+And wasn't memorable.
+
+522
+00:21:13,980 --> 00:21:15,820
+Was not probably that memorable to them.
+
+523
+00:21:15,820 --> 00:21:16,860
+No.
+
+524
+00:21:16,860 --> 00:21:17,900
+Can you clarify though?
+
+525
+00:21:17,900 --> 00:21:20,300
+Cause some of the stuff I saw was that like,
+
+526
+00:21:20,300 --> 00:21:24,020
+oh, Mr. McPhisto would come out for the encores?
+
+527
+00:21:24,020 --> 00:21:25,180
+Yes.
+
+528
+00:21:25,180 --> 00:21:27,180
+I think they changed things up and they changed the setlist.
+
+529
+00:21:27,180 --> 00:21:30,260
+Now he was not on the American tour.
+
+530
+00:21:30,260 --> 00:21:31,100
+Correct.
+
+531
+00:21:31,100 --> 00:21:33,860
+He was, there was a different character on the American tour
+
+532
+00:21:33,860 --> 00:21:37,420
+that would come out encore time named the Mirror Ball Man
+
+533
+00:21:37,420 --> 00:21:39,940
+who was a televangelist, like a Southern guy,
+
+534
+00:21:39,940 --> 00:21:43,460
+but they felt it didn't transfer overseas.
+
+535
+00:21:43,460 --> 00:21:45,460
+So that's why McPhisto had to be born.
+
+536
+00:21:45,460 --> 00:21:48,460
+And Bono likes televangelists, approves of them,
+
+537
+00:21:48,460 --> 00:21:49,780
+thinks they're doing good work?
+
+538
+00:21:49,780 --> 00:21:50,620
+No.
+
+539
+00:21:50,620 --> 00:21:51,460
+What?
+
+540
+00:21:51,460 --> 00:21:53,580
+He thinks they're charlatans.
+
+541
+00:21:53,580 --> 00:21:56,740
+We couldn't possibly think that they're driven by greed.
+
+542
+00:21:56,740 --> 00:21:57,580
+I think he does.
+
+543
+00:21:57,580 --> 00:21:59,820
+Now he never says that in the show,
+
+544
+00:21:59,820 --> 00:22:01,380
+but I think that's what he means.
+
+545
+00:22:01,380 --> 00:22:03,580
+I think that's what he thinks.
+
+546
+00:22:03,580 --> 00:22:06,420
+This all also has, it's like, maybe,
+
+547
+00:22:06,420 --> 00:22:08,340
+I don't know if they were the first ever to do it,
+
+548
+00:22:08,340 --> 00:22:12,380
+but I'm obsessed with Sticks and the Kilroy Was Here
+
+549
+00:22:12,380 --> 00:22:17,020
+album tour, which might've been the first situation where,
+
+550
+00:22:17,020 --> 00:22:20,020
+all right, we're gonna go see Sticks tonight, huh?
+
+551
+00:22:20,020 --> 00:22:22,700
+And then 10 minutes and they opened with it.
+
+552
+00:22:22,700 --> 00:22:26,260
+You had to watch a movie, and then you had to watch a play.
+
+553
+00:22:26,260 --> 00:22:28,340
+Like, a lot, like even, actually,
+
+554
+00:22:28,340 --> 00:22:31,060
+it's more laborious than what Bono's doing,
+
+555
+00:22:31,060 --> 00:22:33,900
+because it's the two of them who cannot act
+
+556
+00:22:33,900 --> 00:22:35,860
+nearly to the degree that Bono can act,
+
+557
+00:22:35,860 --> 00:22:38,100
+which is to say not.
+
+558
+00:22:38,100 --> 00:22:42,380
+But basically, but the Sticks thing also was like,
+
+559
+00:22:42,380 --> 00:22:47,380
+technology is destroying young people and rock,
+
+560
+00:22:47,460 --> 00:22:50,060
+and also there's a televangelist,
+
+561
+00:22:50,060 --> 00:22:52,340
+and like, it's all the same shit.
+
+562
+00:22:53,140 --> 00:22:55,460
+When rock stars start, you know what I'm gonna
+
+563
+00:22:55,460 --> 00:22:57,380
+get my message out about?
+
+564
+00:22:57,380 --> 00:22:58,660
+Religion.
+
+565
+00:22:58,660 --> 00:23:00,020
+And what do you have to say about,
+
+566
+00:23:00,020 --> 00:23:01,900
+ah, it's just, you know, it's there.
+
+567
+00:23:01,900 --> 00:23:05,940
+It's not good, it's not good.
+
+568
+00:23:05,940 --> 00:23:08,180
+Would that Sticks thing, would that be,
+
+569
+00:23:08,180 --> 00:23:11,580
+that would be post like, The Wall and Tommy?
+
+570
+00:23:11,580 --> 00:23:12,420
+Yes.
+
+571
+00:23:12,420 --> 00:23:13,740
+Which would also be very theatrical.
+
+572
+00:23:13,740 --> 00:23:16,220
+That's why they did it, you're totally right.
+
+573
+00:23:16,220 --> 00:23:18,020
+Like, we gotta get in on that.
+
+574
+00:23:18,020 --> 00:23:21,260
+Us, Sticks, who make as good of music as
+
+575
+00:23:21,300 --> 00:23:22,140
+Pink Floyd.
+
+576
+00:23:22,140 --> 00:23:22,980
+Who in Pink Floyd?
+
+577
+00:23:24,380 --> 00:23:26,260
+The Wall, I have always heard, like,
+
+578
+00:23:26,260 --> 00:23:29,060
+I mean, I've heard the album, but, you know,
+
+579
+00:23:29,060 --> 00:23:32,420
+he's toured it in recent years, and I've heard like,
+
+580
+00:23:32,420 --> 00:23:36,980
+look, the original thing, very heavy-handed, big hits,
+
+581
+00:23:36,980 --> 00:23:40,500
+you gotta see this show, like the show, The Flying Pig,
+
+582
+00:23:40,500 --> 00:23:45,300
+like the projection of that, like, it is a sight to see.
+
+583
+00:23:45,300 --> 00:23:48,060
+So The Wall does not, The Wall and Tommy
+
+584
+00:23:48,060 --> 00:23:49,340
+was like a separate thing you could go see,
+
+585
+00:23:49,340 --> 00:23:51,900
+but these were not things where you were like,
+
+586
+00:23:51,900 --> 00:23:53,620
+all right, welcome to the concert, everyone,
+
+587
+00:23:53,620 --> 00:23:55,420
+here comes a bunch of dialogue.
+
+588
+00:23:55,420 --> 00:23:57,020
+Yeah, right, right, right.
+
+589
+00:23:57,020 --> 00:23:58,540
+I don't think, as far as I know,
+
+590
+00:23:58,540 --> 00:24:00,940
+I don't really know what happens when you see The Wall.
+
+591
+00:24:00,940 --> 00:24:03,380
+I don't, yeah, I think there's like little pieces maybe,
+
+592
+00:24:03,380 --> 00:24:07,460
+but it's not, what's his name, Dave Gilmore?
+
+593
+00:24:07,460 --> 00:24:09,020
+Is he the touring guy on The Wall?
+
+594
+00:24:09,020 --> 00:24:09,940
+Is it the other one?
+
+595
+00:24:09,940 --> 00:24:11,940
+What's the other guy's name, that's still alive?
+
+596
+00:24:11,940 --> 00:24:12,780
+Roger Waters.
+
+597
+00:24:12,780 --> 00:24:15,060
+Roger Waters, oh, Roger Waters is the one doing The Wall.
+
+598
+00:24:15,060 --> 00:24:16,380
+Sorry.
+
+599
+00:24:16,380 --> 00:24:17,660
+Roger Waters, I don't think he puts on
+
+600
+00:24:17,660 --> 00:24:19,180
+a little devil costume.
+
+601
+00:24:20,020 --> 00:24:20,860
+No.
+
+602
+00:24:20,860 --> 00:24:25,860
+But he's not, he doesn't have the, you know,
+
+603
+00:24:25,940 --> 00:24:28,700
+the performer's spark and energy
+
+604
+00:24:28,700 --> 00:24:30,460
+and the need for attention of Bond.
+
+605
+00:24:30,460 --> 00:24:32,620
+Yeah, you two, I will say this,
+
+606
+00:24:32,620 --> 00:24:35,100
+like the Rolling Stones, I feel like,
+
+607
+00:24:35,100 --> 00:24:39,860
+were like cool dirtbags when they were like younger.
+
+608
+00:24:39,860 --> 00:24:41,260
+And now of course they're all in a touch,
+
+609
+00:24:41,260 --> 00:24:44,180
+but like they still have some of the coolness.
+
+610
+00:24:44,180 --> 00:24:47,180
+You two, bunch of dorks, always been a bunch of dorks,
+
+611
+00:24:47,180 --> 00:24:48,460
+can't escape it.
+
+612
+00:24:48,460 --> 00:24:50,420
+Sure, sure, yeah.
+
+613
+00:24:50,420 --> 00:24:51,900
+Yeah, I would agree with that.
+
+614
+00:24:51,900 --> 00:24:56,180
+I was just gonna say, oh, now I forgot.
+
+615
+00:24:56,180 --> 00:24:57,020
+Sorry.
+
+616
+00:24:58,180 --> 00:25:02,980
+The Rolling Stones, I listened to the audiobook of,
+
+617
+00:25:04,020 --> 00:25:05,220
+oh God, what's his face?
+
+618
+00:25:05,220 --> 00:25:06,060
+The second? Keith Richards?
+
+619
+00:25:06,060 --> 00:25:08,580
+Yeah, Keith Richards' audiobook, Life,
+
+620
+00:25:08,580 --> 00:25:12,020
+which was notable 10 or 12 years ago,
+
+621
+00:25:12,020 --> 00:25:15,420
+because it's like, well, Keith reads three quarters of it,
+
+622
+00:25:15,420 --> 00:25:17,340
+and Johnny Depp reads.
+
+623
+00:25:17,340 --> 00:25:19,460
+Yeah, yeah, yeah, yeah, yeah, sure.
+
+624
+00:25:19,460 --> 00:25:20,980
+That's the book where he says Mick Jagger's got
+
+625
+00:25:20,980 --> 00:25:22,100
+like a little dick.
+
+626
+00:25:23,740 --> 00:25:26,820
+He like trashes Mick Jagger in the whole book.
+
+627
+00:25:26,820 --> 00:25:29,020
+He didn't even fill up me old mouth.
+
+628
+00:25:30,060 --> 00:25:34,100
+A big chunk of it is the dirtbag years,
+
+629
+00:25:34,100 --> 00:25:36,420
+and talking about them like, look,
+
+630
+00:25:36,420 --> 00:25:39,940
+we were mostly playing covers of American blues songs,
+
+631
+00:25:39,940 --> 00:25:43,700
+and we had to pull people's teeth to do our original songs.
+
+632
+00:25:44,740 --> 00:25:46,740
+And which seems crazy to me now,
+
+633
+00:25:47,020 --> 00:25:48,540
+because I think of their original.
+
+634
+00:25:48,540 --> 00:25:51,140
+There's a story in that Rolling Stones book
+
+635
+00:25:51,140 --> 00:25:54,900
+where they talk about just like walking up some stairs,
+
+636
+00:25:54,900 --> 00:25:57,060
+and one of them or a friend of theirs or something
+
+637
+00:25:57,060 --> 00:25:57,900
+at the top of the stairs,
+
+638
+00:25:57,900 --> 00:26:00,380
+and they just start pissing on them as they're going up.
+
+639
+00:26:00,380 --> 00:26:02,500
+I'm like, this is a different life.
+
+640
+00:26:02,500 --> 00:26:06,180
+This is a, they grew up in a rough way, it seems like,
+
+641
+00:26:06,180 --> 00:26:07,140
+at least Keith did.
+
+642
+00:26:07,140 --> 00:26:08,900
+Well, they passed the baton to us.
+
+643
+00:26:08,900 --> 00:26:10,900
+This is our hijinks on tour.
+
+644
+00:26:10,900 --> 00:26:11,740
+Yeah.
+
+645
+00:26:11,740 --> 00:26:14,140
+Next time, next time around, I'm doing the peeing.
+
+646
+00:26:14,140 --> 00:26:16,540
+I'm not letting you guys get up the stairs.
+
+647
+00:26:17,380 --> 00:26:18,500
+Man, Scott's gonna pee on us next time.
+
+648
+00:26:18,500 --> 00:26:20,820
+I'm racing up those babies.
+
+649
+00:26:20,820 --> 00:26:22,820
+Tinkle, tinkle.
+
+650
+00:26:22,820 --> 00:26:24,780
+I hope that's what Keith, if Keith was the peer,
+
+651
+00:26:24,780 --> 00:26:25,620
+I hope he said that.
+
+652
+00:26:25,620 --> 00:26:26,780
+Tinkle, tinkle.
+
+653
+00:26:28,700 --> 00:26:31,500
+This is all happening while Mike knocked over
+
+654
+00:26:31,500 --> 00:26:33,300
+a cup of tea earlier.
+
+655
+00:26:33,300 --> 00:26:34,340
+Yeah, a spot of tea.
+
+656
+00:26:34,340 --> 00:26:36,860
+Opening a card table.
+
+657
+00:26:36,860 --> 00:26:40,020
+And so it does look like there is a puddle of pee behind it.
+
+658
+00:26:40,020 --> 00:26:40,860
+Of piss, yeah.
+
+659
+00:26:40,860 --> 00:26:41,700
+Yeah.
+
+660
+00:26:41,700 --> 00:26:43,860
+Oh, I thought that was, I assumed this was Rockstar
+
+661
+00:26:44,020 --> 00:26:46,700
+to botchery before I came in.
+
+662
+00:26:46,700 --> 00:26:47,940
+Pissing all over the garage.
+
+663
+00:26:47,940 --> 00:26:49,140
+Where were you heading?
+
+664
+00:26:49,140 --> 00:26:51,380
+So I was heading with the different, I don't know,
+
+665
+00:26:51,380 --> 00:26:52,580
+we're all over the place.
+
+666
+00:26:53,540 --> 00:26:56,300
+So there's a lot of rabbit holes you can find yourself in
+
+667
+00:26:56,300 --> 00:26:59,300
+as you're going through all the extensive archives
+
+668
+00:26:59,300 --> 00:27:00,140
+of Mr. McPhisto.
+
+669
+00:27:00,140 --> 00:27:03,500
+One is that somebody claims that the biggest inspiration
+
+670
+00:27:03,500 --> 00:27:05,900
+is a guy named Quentin Crisp.
+
+671
+00:27:05,900 --> 00:27:07,460
+Which is- Why do I know that name?
+
+672
+00:27:07,460 --> 00:27:10,140
+Because he's everywhere, like it's a gentleman,
+
+673
+00:27:10,140 --> 00:27:13,660
+he was alive in like the, he was born in the 1900s.
+
+674
+00:27:13,660 --> 00:27:18,380
+He was a gay man, an openly gay man in the UK
+
+675
+00:27:18,380 --> 00:27:20,340
+in like the 20s and 30s.
+
+676
+00:27:20,340 --> 00:27:23,060
+He was, believe it or not, that wasn't easy to do
+
+677
+00:27:23,060 --> 00:27:24,780
+from what I understand.
+
+678
+00:27:24,780 --> 00:27:27,140
+But then he moved to New York, I believe in like the 70s
+
+679
+00:27:27,140 --> 00:27:29,380
+or 80s and he was on Letterman a ton.
+
+680
+00:27:29,380 --> 00:27:31,220
+He did a one man show, he wrote books.
+
+681
+00:27:31,220 --> 00:27:35,100
+He's in Tuang Fu, he's in the movie,
+
+682
+00:27:35,100 --> 00:27:37,100
+Tilda Swann movie, Orlando.
+
+683
+00:27:37,420 --> 00:27:38,260
+Huh. Okay.
+
+684
+00:27:39,420 --> 00:27:41,420
+Qualifies for the podcast with that name.
+
+685
+00:27:41,420 --> 00:27:42,820
+That's right. We have to talk about it.
+
+686
+00:27:42,820 --> 00:27:44,540
+He's the bassist for Sting's song
+
+687
+00:27:44,540 --> 00:27:46,420
+and Englishman in New York.
+
+688
+00:27:46,420 --> 00:27:47,260
+Oh.
+
+689
+00:27:47,260 --> 00:27:50,820
+Like I go, this guy, and then the last thing I learned
+
+690
+00:27:50,820 --> 00:27:54,900
+is Bill Murray claims he's dressed like Quentin Crisp
+
+691
+00:27:54,900 --> 00:27:57,780
+in Ghostbusters Answer the Call.
+
+692
+00:27:57,780 --> 00:28:00,660
+What? That's, wait, wait, sorry, Bill Murray says-
+
+693
+00:28:00,660 --> 00:28:02,820
+Bill Murray's cameo. He's dressed as-
+
+694
+00:28:02,820 --> 00:28:04,620
+In Ghostbusters Answer the Call,
+
+695
+00:28:04,620 --> 00:28:06,500
+he's wearing like fancy clothes,
+
+696
+00:28:06,540 --> 00:28:08,060
+which people thought he was doing
+
+697
+00:28:08,060 --> 00:28:09,820
+because he was imitating Paul Feig,
+
+698
+00:28:09,820 --> 00:28:11,100
+the director of the movie.
+
+699
+00:28:11,100 --> 00:28:14,820
+But he said it was Quentin Crisp was the inspiration for it.
+
+700
+00:28:14,820 --> 00:28:15,660
+Hmm.
+
+701
+00:28:15,660 --> 00:28:18,660
+Now, there's another man that people said like,
+
+702
+00:28:18,660 --> 00:28:22,260
+oh, he was inspired by this performer
+
+703
+00:28:22,260 --> 00:28:24,740
+who started a big theater in Dublin.
+
+704
+00:28:24,740 --> 00:28:26,260
+Yes. Well, there's many, look,
+
+705
+00:28:26,260 --> 00:28:28,380
+when a character is a hit like this,
+
+706
+00:28:28,380 --> 00:28:29,900
+everyone wants to say- Everyone wants to say-
+
+707
+00:28:29,900 --> 00:28:30,740
+Everyone wants to claim-
+
+708
+00:28:30,740 --> 00:28:33,300
+Everyone wants to- Where did this come from?
+
+709
+00:28:33,300 --> 00:28:35,060
+But this, but the Crisp thing,
+
+710
+00:28:35,060 --> 00:28:36,180
+I have the Letterman thing.
+
+711
+00:28:36,340 --> 00:28:37,620
+If you listen to him, you're like,
+
+712
+00:28:37,620 --> 00:28:40,380
+oh yeah, that's kind of the voice that he's doing here.
+
+713
+00:28:40,380 --> 00:28:44,260
+As you wasted, dusting all the rails under the chairs,
+
+714
+00:28:44,260 --> 00:28:46,420
+with people saying, if you go on living like this,
+
+715
+00:28:46,420 --> 00:28:48,340
+heaven knows what will happen.
+
+716
+00:28:48,340 --> 00:28:49,500
+Well, it's what he would sound like
+
+717
+00:28:49,500 --> 00:28:51,700
+if he was any good at voices.
+
+718
+00:28:51,700 --> 00:28:52,980
+Well, sure.
+
+719
+00:28:52,980 --> 00:28:53,820
+But I feel like I go,
+
+720
+00:28:53,820 --> 00:28:55,700
+oh, that is kind of what he's going for, I think.
+
+721
+00:28:55,700 --> 00:28:57,140
+Yeah.
+
+722
+00:28:57,140 --> 00:28:59,300
+So anyway, I learned about a new person
+
+723
+00:29:00,580 --> 00:29:01,420
+and that was interesting.
+
+724
+00:29:01,420 --> 00:29:03,380
+And it seemed like he's been in so many things.
+
+725
+00:29:03,380 --> 00:29:04,220
+Anyway.
+
+726
+00:29:04,460 --> 00:29:07,740
+So Bono is saying that this pioneering gay man
+
+727
+00:29:07,740 --> 00:29:08,780
+is the devil.
+
+728
+00:29:08,780 --> 00:29:09,740
+Yeah, basically.
+
+729
+00:29:09,740 --> 00:29:10,580
+Great.
+
+730
+00:29:11,900 --> 00:29:14,900
+Again, he may not have thought things through that much.
+
+731
+00:29:16,820 --> 00:29:17,740
+But yeah.
+
+732
+00:29:17,740 --> 00:29:20,540
+But he wanted him to be charismatic.
+
+733
+00:29:20,540 --> 00:29:22,900
+Yeah, so he chose a charismatic guy.
+
+734
+00:29:22,900 --> 00:29:23,780
+Sure, sure.
+
+735
+00:29:24,860 --> 00:29:27,740
+And yeah, so I guess, so yeah,
+
+736
+00:29:27,740 --> 00:29:31,300
+you guys watch a little of the actual performance.
+
+737
+00:29:32,140 --> 00:29:32,980
+Yeah.
+
+738
+00:29:32,980 --> 00:29:37,980
+Well, and I guess I know that there's monologues,
+
+739
+00:29:38,220 --> 00:29:39,460
+there's phone calls.
+
+740
+00:29:39,460 --> 00:29:42,580
+Does he perform songs as McPhisto?
+
+741
+00:29:42,580 --> 00:29:43,420
+Yes.
+
+742
+00:29:43,420 --> 00:29:44,380
+The answer is yes.
+
+743
+00:29:44,380 --> 00:29:49,380
+Including like, okay, so here's my problem with McPhisto
+
+744
+00:29:49,700 --> 00:29:53,980
+is that the songs he's singing aren't McPhisto's songs.
+
+745
+00:29:53,980 --> 00:29:56,460
+He sings like with or without you, I think,
+
+746
+00:29:56,460 --> 00:29:58,100
+as Mr. McPhisto.
+
+747
+00:29:58,100 --> 00:30:00,260
+That is not tonally correct.
+
+748
+00:30:00,260 --> 00:30:01,620
+Too sincere.
+
+749
+00:30:01,620 --> 00:30:02,580
+Yeah.
+
+750
+00:30:02,580 --> 00:30:04,260
+So when he's singing like,
+
+751
+00:30:04,260 --> 00:30:09,260
+like daddy's gonna pay for your crashed car from Zuroppa,
+
+752
+00:30:09,540 --> 00:30:11,220
+that's closer, I think.
+
+753
+00:30:11,220 --> 00:30:13,780
+That's more tonally right.
+
+754
+00:30:13,780 --> 00:30:16,620
+But yeah, so he sings other songs in the encore
+
+755
+00:30:16,620 --> 00:30:18,860
+and they would switch it up.
+
+756
+00:30:18,860 --> 00:30:21,820
+But I have this problem also with Kiss,
+
+757
+00:30:21,820 --> 00:30:23,580
+and somebody's gonna be mad because maybe I'm wrong,
+
+758
+00:30:23,580 --> 00:30:27,980
+but Kiss, they have personas, the demon, the star child,
+
+759
+00:30:27,980 --> 00:30:30,380
+but their songs are like rock and roll all night.
+
+760
+00:30:30,380 --> 00:30:31,380
+And you're like, well, wait a minute,
+
+761
+00:30:31,380 --> 00:30:33,420
+what does that have to do with the demon?
+
+762
+00:30:33,420 --> 00:30:35,660
+Where does Beth, how does that song,
+
+763
+00:30:35,660 --> 00:30:39,180
+it's had this like kind of sleepy ballad attached
+
+764
+00:30:39,180 --> 00:30:41,860
+to the notion that a devil is singing this.
+
+765
+00:30:41,860 --> 00:30:45,300
+Detroit Rock City or like, or Black Diamond,
+
+766
+00:30:45,300 --> 00:30:47,500
+which songs I like by the way,
+
+767
+00:30:47,500 --> 00:30:51,100
+but I want songs written from the perspective of the demon.
+
+768
+00:30:51,100 --> 00:30:52,620
+I want a full McPhisto album.
+
+769
+00:30:52,620 --> 00:30:56,740
+So yes, it's weird when he's singing 80s U2 songs.
+
+770
+00:30:56,740 --> 00:30:58,900
+You prefer the four solo records
+
+771
+00:30:58,900 --> 00:31:01,220
+where they took the makeup off.
+
+772
+00:31:02,060 --> 00:31:03,420
+And they were all released simultaneously
+
+773
+00:31:03,420 --> 00:31:04,380
+because it's honest.
+
+774
+00:31:04,380 --> 00:31:05,980
+Right, instead of the fun character,
+
+775
+00:31:05,980 --> 00:31:07,780
+I want no fun character because I don't want,
+
+776
+00:31:07,780 --> 00:31:10,500
+it doesn't make sense to me because it upsets me so much.
+
+777
+00:31:10,500 --> 00:31:13,460
+There must be some boring songs on those.
+
+778
+00:31:13,460 --> 00:31:15,780
+Like what is it like the drummer's album?
+
+779
+00:31:15,780 --> 00:31:18,180
+Like what's the eighth song?
+
+780
+00:31:18,180 --> 00:31:20,020
+You know what I don't think has come up on the show yet
+
+781
+00:31:20,020 --> 00:31:22,180
+is that I started listening to one of Ace Fraley's
+
+782
+00:31:22,180 --> 00:31:24,420
+solo albums called Fraley's Comet.
+
+783
+00:31:26,460 --> 00:31:29,020
+Where he talks about himself in the third person
+
+784
+00:31:29,020 --> 00:31:33,620
+and talks about him like going through rehab.
+
+785
+00:31:33,620 --> 00:31:35,020
+Okay, honest.
+
+786
+00:31:35,020 --> 00:31:36,660
+That's good, we like honesty.
+
+787
+00:31:36,660 --> 00:31:39,620
+And one of the songs is called Rock Soldiers.
+
+788
+00:31:39,620 --> 00:31:40,580
+It's really funny.
+
+789
+00:31:40,580 --> 00:31:43,380
+He's like, Fraley's back and I told you so.
+
+790
+00:31:43,380 --> 00:31:45,260
+Like there's some really good lines on it.
+
+791
+00:31:45,260 --> 00:31:46,380
+They are soldiers.
+
+792
+00:31:46,380 --> 00:31:48,420
+They're knights in Satan's service.
+
+793
+00:31:48,420 --> 00:31:49,700
+Right.
+
+794
+00:31:49,700 --> 00:31:53,380
+So yeah, so I guess here, let's get to one,
+
+795
+00:31:53,380 --> 00:31:55,660
+like the debut of him in the show,
+
+796
+00:31:55,660 --> 00:31:57,940
+I guess that would be the best place to start.
+
+797
+00:31:57,940 --> 00:31:58,900
+Okay.
+
+798
+00:31:59,740 --> 00:32:01,100
+And again, there's so many things open on my computer here.
+
+799
+00:32:01,100 --> 00:32:02,460
+I'm gonna have to take a second.
+
+800
+00:32:02,460 --> 00:32:03,300
+All right.
+
+801
+00:32:03,300 --> 00:32:06,260
+So yeah, generally on an encore,
+
+802
+00:32:06,260 --> 00:32:08,060
+all of a sudden, and I was playing a little of this
+
+803
+00:32:08,060 --> 00:32:09,060
+and I don't have to play this again.
+
+804
+00:32:09,060 --> 00:32:12,900
+There's this kind of like little crude drawing of a boy
+
+805
+00:32:12,900 --> 00:32:17,900
+in a, I guess, like a old sci-fi bubble helmet.
+
+806
+00:32:19,380 --> 00:32:22,500
+And he's like, it's like weird.
+
+807
+00:32:23,860 --> 00:32:24,860
+You hear this.
+
+808
+00:32:24,860 --> 00:32:29,420
+I don't know what the significance of it is.
+
+809
+00:32:29,420 --> 00:32:32,020
+In one of those books, probably you can find out.
+
+810
+00:32:32,020 --> 00:32:33,700
+But then everyone's cheering.
+
+811
+00:32:33,700 --> 00:32:37,180
+YouTube takes the stage, but it's only the three members.
+
+812
+00:32:37,180 --> 00:32:39,700
+Where's the lead singer, you might ask.
+
+813
+00:32:39,700 --> 00:32:41,780
+And he is of course getting ready.
+
+814
+00:32:41,780 --> 00:32:44,020
+And you see him on a video screen.
+
+815
+00:32:44,020 --> 00:32:46,420
+And I'll show this to my two co-hosts.
+
+816
+00:32:48,300 --> 00:32:49,820
+And hopefully you saw this
+
+817
+00:32:49,820 --> 00:32:52,620
+and you can describe what you're seeing.
+
+818
+00:32:52,620 --> 00:32:54,540
+Is he putting on lipstick?
+
+819
+00:32:55,220 --> 00:32:56,060
+In a mirror.
+
+820
+00:32:56,060 --> 00:32:57,260
+And he's got his own little dressing room
+
+821
+00:32:57,260 --> 00:32:59,660
+that's been like set up by the side of the stage.
+
+822
+00:33:00,860 --> 00:33:04,060
+And I should have put this a little bit farther ahead.
+
+823
+00:33:05,260 --> 00:33:07,140
+So he's got his devil horns on.
+
+824
+00:33:08,660 --> 00:33:11,020
+And he's got like a big gold mirror that he's looking.
+
+825
+00:33:11,020 --> 00:33:12,060
+He's mugging a lot.
+
+826
+00:33:12,060 --> 00:33:12,900
+He's mugging a lot.
+
+827
+00:33:12,900 --> 00:33:14,980
+A snide smile.
+
+828
+00:33:14,980 --> 00:33:16,260
+He's in character.
+
+829
+00:33:17,820 --> 00:33:21,540
+And they're doing most of the song while he's backstage.
+
+830
+00:33:21,540 --> 00:33:22,380
+Oh, that's interesting.
+
+831
+00:33:22,380 --> 00:33:23,220
+Getting ready.
+
+832
+00:33:24,940 --> 00:33:27,940
+And I will say, I love this.
+
+833
+00:33:27,940 --> 00:33:29,380
+I love this.
+
+834
+00:33:29,380 --> 00:33:30,220
+Okay.
+
+835
+00:33:30,220 --> 00:33:31,060
+I do, right?
+
+836
+00:33:31,060 --> 00:33:33,460
+It's stupid as shit.
+
+837
+00:33:33,460 --> 00:33:34,300
+And I love it.
+
+838
+00:33:35,460 --> 00:33:37,260
+I guess that you're, yeah, well, all right.
+
+839
+00:33:37,260 --> 00:33:39,140
+How are they gonna top themselves in this concert?
+
+840
+00:33:39,140 --> 00:33:42,340
+Well, the devil is gonna perform the encore.
+
+841
+00:33:42,340 --> 00:33:43,180
+That's good.
+
+842
+00:33:43,180 --> 00:33:45,620
+Specifically like a naughty little devil.
+
+843
+00:33:45,620 --> 00:33:47,740
+Yes, he's a naughty little devil.
+
+844
+00:33:47,740 --> 00:33:48,700
+It's full camp.
+
+845
+00:33:48,700 --> 00:33:49,780
+It's full camp.
+
+846
+00:33:50,820 --> 00:33:53,140
+And then he has like some stage assistants
+
+847
+00:33:53,140 --> 00:33:55,060
+to dress him with the coat.
+
+848
+00:33:55,060 --> 00:33:55,940
+And we don't have to hear the whole,
+
+849
+00:33:55,940 --> 00:33:58,780
+this is daddy's gonna pay for your crash card.
+
+850
+00:33:58,780 --> 00:33:59,660
+Not my favorite song,
+
+851
+00:33:59,660 --> 00:34:03,180
+but when there's a little cheeky devil singing it
+
+852
+00:34:03,180 --> 00:34:05,740
+live on stage. It's very professional wrestling.
+
+853
+00:34:05,740 --> 00:34:06,580
+Sure, yeah.
+
+854
+00:34:06,580 --> 00:34:07,740
+You wanna, you're building it up.
+
+855
+00:34:07,740 --> 00:34:08,580
+And this is what I'm saying.
+
+856
+00:34:08,580 --> 00:34:12,140
+This is one of those like very Euro dance type songs
+
+857
+00:34:12,140 --> 00:34:14,820
+where you're sort of like building up, you know?
+
+858
+00:34:14,820 --> 00:34:17,380
+So then Mr. McPhistle comes out.
+
+859
+00:34:17,380 --> 00:34:20,060
+He dances like Bono.
+
+860
+00:34:20,060 --> 00:34:21,660
+This is one of Bono's dance moves,
+
+861
+00:34:21,660 --> 00:34:24,180
+which I was showing Jason before Scott was here.
+
+862
+00:34:24,180 --> 00:34:28,300
+He puts his leg up in the air and kind of like bounces.
+
+863
+00:34:28,300 --> 00:34:31,100
+And apparently McPhistle does that same thing.
+
+864
+00:34:31,100 --> 00:34:32,620
+So they do the rest of the song.
+
+865
+00:34:32,620 --> 00:34:34,300
+The McPhistle hop.
+
+866
+00:34:34,300 --> 00:34:37,420
+But here's the part that's very theme park.
+
+867
+00:34:37,420 --> 00:34:38,260
+There's the edge.
+
+868
+00:34:38,260 --> 00:34:40,340
+Edge is dressed like some sort of general, but.
+
+869
+00:34:40,340 --> 00:34:42,620
+Why aren't they stopping the devil?
+
+870
+00:34:42,620 --> 00:34:44,260
+They're in league with this guy.
+
+871
+00:34:44,260 --> 00:34:45,260
+They could shut this down.
+
+872
+00:34:45,260 --> 00:34:46,860
+Just go whack him with the guitar.
+
+873
+00:34:46,860 --> 00:34:48,500
+Get the devil off the stage.
+
+874
+00:34:48,500 --> 00:34:49,780
+Very good point.
+
+875
+00:34:49,780 --> 00:34:51,300
+So yeah, again, this daddy's gonna pay
+
+876
+00:34:51,300 --> 00:34:52,620
+for your crashed car.
+
+877
+00:34:52,620 --> 00:34:55,900
+What happens on stage at this point,
+
+878
+00:34:55,900 --> 00:35:00,100
+but the same thing like the Fast and the Furious section
+
+879
+00:35:00,100 --> 00:35:02,500
+of a universal backlot tour.
+
+880
+00:35:02,500 --> 00:35:04,780
+Some cars are dancing around?
+
+881
+00:35:04,780 --> 00:35:07,780
+Two dancing cars appear on the stage.
+
+882
+00:35:07,780 --> 00:35:08,620
+Wow.
+
+883
+00:35:11,140 --> 00:35:14,140
+This is exactly Fast and the Furious.
+
+884
+00:35:14,140 --> 00:35:14,980
+What was that called?
+
+885
+00:35:14,980 --> 00:35:16,540
+Extreme closeup or something?
+
+886
+00:35:16,540 --> 00:35:18,500
+Something like that.
+
+887
+00:35:18,500 --> 00:35:20,340
+Sorry, I could have made that a lot brighter.
+
+888
+00:35:20,340 --> 00:35:23,620
+So yeah, there's just two dangling full size automobiles
+
+889
+00:35:23,620 --> 00:35:27,420
+over the band for truly no reason.
+
+890
+00:35:27,420 --> 00:35:28,260
+Wow.
+
+891
+00:35:28,260 --> 00:35:29,100
+But that's.
+
+892
+00:35:29,100 --> 00:35:31,740
+We'd love to lay gasoline over this.
+
+893
+00:35:31,740 --> 00:35:32,580
+Wow, we can't.
+
+894
+00:35:32,580 --> 00:35:33,420
+That's my only complaint.
+
+895
+00:35:33,420 --> 00:35:35,940
+There's some writing on the cars as well.
+
+896
+00:35:35,940 --> 00:35:38,860
+And let's see, visit to see David.
+
+897
+00:35:40,140 --> 00:35:42,380
+Something, I should have read this before.
+
+898
+00:35:42,380 --> 00:35:45,980
+War technology, data overload.
+
+899
+00:35:46,940 --> 00:35:49,460
+Hitler, Mussolini, Pope.
+
+900
+00:35:49,500 --> 00:35:50,620
+And large handkerchief.
+
+901
+00:35:50,620 --> 00:35:51,900
+I should really have looked at this before
+
+902
+00:35:51,900 --> 00:35:53,260
+because I'm going to run right into reading
+
+903
+00:35:53,260 --> 00:35:54,340
+a racial slur or something.
+
+904
+00:35:54,340 --> 00:35:57,780
+David is probably some fascist European politician
+
+905
+00:35:57,780 --> 00:36:00,380
+who we have never heard of in America.
+
+906
+00:36:01,820 --> 00:36:03,740
+And then at the end,
+
+907
+00:36:05,020 --> 00:36:08,460
+much like the Joker in Batman 89,
+
+908
+00:36:08,460 --> 00:36:10,380
+a bunch of money shoots out of guns.
+
+909
+00:36:11,500 --> 00:36:14,260
+I don't know if it's, I assume it's not real money.
+
+910
+00:36:14,260 --> 00:36:18,420
+I should look in to see if they have YouTube play money
+
+911
+00:36:18,420 --> 00:36:19,860
+made up for this.
+
+912
+00:36:21,300 --> 00:36:25,940
+One of my favorite things is the wrestler Kazushka of Kata.
+
+913
+00:36:25,940 --> 00:36:28,620
+He is a rainmaker and he makes it rain with money
+
+914
+00:36:28,620 --> 00:36:29,780
+when he comes out.
+
+915
+00:36:29,780 --> 00:36:31,660
+And the money has his face on it
+
+916
+00:36:31,660 --> 00:36:32,700
+if you get a couple of them.
+
+917
+00:36:32,700 --> 00:36:33,540
+Oh, that's great.
+
+918
+00:36:33,540 --> 00:36:36,140
+I have a few of those.
+
+919
+00:36:36,140 --> 00:36:37,460
+I like what you're showing me.
+
+920
+00:36:37,460 --> 00:36:38,780
+You know what this is?
+
+921
+00:36:38,780 --> 00:36:43,340
+I guess I have found you two, yes,
+
+922
+00:36:43,340 --> 00:36:45,420
+to be pompous or overly serious.
+
+923
+00:36:45,420 --> 00:36:48,540
+And I do like that what you're showing me is so silly.
+
+924
+00:36:48,540 --> 00:36:52,060
+It does help me get a little more on board.
+
+925
+00:36:52,060 --> 00:36:57,060
+Good, yeah, that's because they're, I miss this, you two.
+
+926
+00:36:57,540 --> 00:36:59,180
+And they're never going back.
+
+927
+00:36:59,180 --> 00:37:00,540
+It's never happening again.
+
+928
+00:37:00,540 --> 00:37:04,540
+Well, post 9-11, after they became 9-11, the band.
+
+929
+00:37:04,540 --> 00:37:05,380
+Yeah, so that's very true.
+
+930
+00:37:05,380 --> 00:37:06,940
+They have a duty at this point.
+
+931
+00:37:06,940 --> 00:37:08,340
+They can't goof around.
+
+932
+00:37:08,340 --> 00:37:10,020
+Although I guess I should have said this for the end,
+
+933
+00:37:10,020 --> 00:37:12,100
+but there was an interview with the Edge two years ago
+
+934
+00:37:12,100 --> 00:37:15,100
+where he was like, could Zootv return?
+
+935
+00:37:15,100 --> 00:37:16,860
+Oh, huh, huh.
+
+936
+00:37:16,860 --> 00:37:18,740
+Which is 30 years of Octon Baby.
+
+937
+00:37:18,740 --> 00:37:21,740
+So yeah, so they would do songs.
+
+938
+00:37:21,740 --> 00:37:23,540
+That seems like the most fun.
+
+939
+00:37:23,540 --> 00:37:24,780
+That had the most nonsense in it
+
+940
+00:37:24,780 --> 00:37:28,380
+as far as extracurricular stage stuff.
+
+941
+00:37:28,380 --> 00:37:30,940
+But then there was a section where Mr. McPhistle
+
+942
+00:37:30,940 --> 00:37:34,260
+would just talk to the audience and be naughty.
+
+943
+00:37:34,260 --> 00:37:37,020
+And then he would, as Jason said earlier,
+
+944
+00:37:37,020 --> 00:37:40,380
+make a prank phone call, essentially.
+
+945
+00:37:40,380 --> 00:37:42,260
+He'd do jerky boys bits.
+
+946
+00:37:42,260 --> 00:37:44,260
+He would call the US Treasury.
+
+947
+00:37:44,260 --> 00:37:49,260
+And it's either staged things.
+
+948
+00:37:49,260 --> 00:37:51,180
+I'm pretty, like the way I was reading it
+
+949
+00:37:51,180 --> 00:37:54,660
+was making it seem like these were completely impromptu.
+
+950
+00:37:54,660 --> 00:37:57,100
+Sometimes he would call the White House or something.
+
+951
+00:37:57,100 --> 00:37:59,900
+And it does sound like he gets an operator
+
+952
+00:37:59,900 --> 00:38:02,500
+and then a hangup, which maybe that wasn't staged.
+
+953
+00:38:02,500 --> 00:38:04,260
+But then there was one where he calls the UN
+
+954
+00:38:04,260 --> 00:38:07,260
+and it's like, if you need,
+
+955
+00:38:07,260 --> 00:38:08,380
+there was just some joke in there
+
+956
+00:38:08,380 --> 00:38:09,780
+that I should have written down.
+
+957
+00:38:09,780 --> 00:38:11,620
+But it was like, if you need a,
+
+958
+00:38:11,620 --> 00:38:13,140
+if you're a third world country
+
+959
+00:38:13,220 --> 00:38:14,420
+and you need help, blah, blah, blah,
+
+960
+00:38:14,420 --> 00:38:16,380
+call our 800 number or something.
+
+961
+00:38:16,380 --> 00:38:18,260
+And I'm like, well, that's not the real.
+
+962
+00:38:18,260 --> 00:38:19,100
+No.
+
+963
+00:38:19,100 --> 00:38:21,100
+But he would call like, there's a list.
+
+964
+00:38:21,100 --> 00:38:23,620
+So this website that of course we'll post
+
+965
+00:38:24,500 --> 00:38:26,340
+lists all the different people he called
+
+966
+00:38:26,340 --> 00:38:27,740
+on each stop of the tour.
+
+967
+00:38:27,740 --> 00:38:28,580
+Wow.
+
+968
+00:38:28,580 --> 00:38:29,820
+So he called the Pope.
+
+969
+00:38:29,820 --> 00:38:31,820
+He called Pavarotti.
+
+970
+00:38:31,820 --> 00:38:35,100
+He called Helmut Kohl.
+
+971
+00:38:35,100 --> 00:38:36,220
+He called, he would just,
+
+972
+00:38:36,220 --> 00:38:38,260
+sometimes he would just call for a taxi.
+
+973
+00:38:39,780 --> 00:38:41,260
+He called Dame Edna.
+
+974
+00:38:41,260 --> 00:38:43,380
+He called Princess Di.
+
+975
+00:38:43,380 --> 00:38:44,220
+He called-
+
+976
+00:38:44,220 --> 00:38:46,100
+It's religion, it's politics.
+
+977
+00:38:46,100 --> 00:38:49,460
+It's just cool people too.
+
+978
+00:38:49,460 --> 00:38:51,420
+He called, when he was in the Tokyo Dome,
+
+979
+00:38:51,420 --> 00:38:54,140
+he called sumo wrestler Aki Bono.
+
+980
+00:38:54,140 --> 00:38:54,980
+That's pretty cool.
+
+981
+00:38:54,980 --> 00:38:56,620
+Did he pick up?
+
+982
+00:38:56,620 --> 00:38:59,260
+I believe he picked up and then he challenged him
+
+983
+00:38:59,260 --> 00:39:02,580
+to an arm wrestling match or whatever.
+
+984
+00:39:02,580 --> 00:39:03,420
+And then he called,
+
+985
+00:39:03,420 --> 00:39:06,500
+on the second night of their Tokyo Dome shows,
+
+986
+00:39:06,500 --> 00:39:08,060
+he called Madonna.
+
+987
+00:39:08,060 --> 00:39:08,900
+Ah.
+
+988
+00:39:08,900 --> 00:39:09,980
+Did Madonna pick up?
+
+989
+00:39:09,980 --> 00:39:10,820
+Well then someone's like-
+
+990
+00:39:10,820 --> 00:39:11,660
+Wait, I read about this.
+
+991
+00:39:11,660 --> 00:39:12,700
+I think Madonna was there.
+
+992
+00:39:12,700 --> 00:39:13,540
+Okay.
+
+993
+00:39:13,540 --> 00:39:14,380
+But then I don't think came,
+
+994
+00:39:14,380 --> 00:39:15,940
+I don't know, it's all very confusing.
+
+995
+00:39:15,940 --> 00:39:17,260
+Can I read one of my favorites?
+
+996
+00:39:17,260 --> 00:39:18,100
+Yeah, go, yeah, please.
+
+997
+00:39:18,100 --> 00:39:23,100
+This is that the fan website quotes the edge saying that,
+
+998
+00:39:24,020 --> 00:39:27,340
+one highlight was calling the minister of fisheries
+
+999
+00:39:27,340 --> 00:39:30,460
+in Norway, John Henry Olsen.
+
+1000
+00:39:30,460 --> 00:39:31,300
+Oh yeah, yes I saw this.
+
+1001
+00:39:31,300 --> 00:39:33,540
+To congratulate him on whaling,
+
+1002
+00:39:33,540 --> 00:39:35,980
+which was forbidden by the European Union,
+
+1003
+00:39:35,980 --> 00:39:37,540
+but legal in Norway.
+
+1004
+00:39:37,540 --> 00:39:40,740
+He actually took the call and invited Bono
+
+1005
+00:39:40,740 --> 00:39:43,700
+to come and have a whale steak with him.
+
+1006
+00:39:43,700 --> 00:39:44,540
+Oh God.
+
+1007
+00:39:44,540 --> 00:39:45,380
+So that's-
+
+1008
+00:39:45,380 --> 00:39:47,420
+Yeah, so that one may have gone through.
+
+1009
+00:39:47,420 --> 00:39:48,540
+So I guess, yeah, so it's very,
+
+1010
+00:39:48,540 --> 00:39:50,460
+it's much like Fear Factor Live,
+
+1011
+00:39:50,460 --> 00:39:51,620
+where we were kind of unclear
+
+1012
+00:39:51,620 --> 00:39:53,860
+if it's completely plants or whatever.
+
+1013
+00:39:53,860 --> 00:39:55,700
+I feel like some of these calls were planned.
+
+1014
+00:39:55,700 --> 00:39:57,540
+Maybe that one wasn't planned.
+
+1015
+00:39:57,540 --> 00:39:59,900
+Cause the Mr. Mephisto would say the opposite
+
+1016
+00:39:59,900 --> 00:40:01,260
+of what Bono believed.
+
+1017
+00:40:01,260 --> 00:40:02,900
+He would say good job on the whaling,
+
+1018
+00:40:02,900 --> 00:40:05,020
+when of course he doesn't like whaling.
+
+1019
+00:40:05,020 --> 00:40:07,300
+Oh, the website that you referred to
+
+1020
+00:40:08,060 --> 00:40:10,460
+breaks down Mr. Mephisto's likes and dislikes.
+
+1021
+00:40:10,460 --> 00:40:12,580
+And one of his dislikes is whales.
+
+1022
+00:40:12,580 --> 00:40:13,420
+Whales.
+
+1023
+00:40:13,420 --> 00:40:16,860
+They're unemployed, they don't pay taxes,
+
+1024
+00:40:16,860 --> 00:40:19,300
+and they take up a lot of room.
+
+1025
+00:40:20,540 --> 00:40:22,820
+And in general, he has absolutely no time
+
+1026
+00:40:22,820 --> 00:40:26,140
+for people who do like whales or dolphins.
+
+1027
+00:40:26,140 --> 00:40:28,180
+Yeah, and his previous character,
+
+1028
+00:40:28,180 --> 00:40:30,220
+the Mirror Ball Man in America,
+
+1029
+00:40:30,220 --> 00:40:32,460
+yeah, would often call the White House.
+
+1030
+00:40:32,460 --> 00:40:36,740
+And like, I would like to speak to George H.W. Bush
+
+1031
+00:40:36,780 --> 00:40:40,380
+and congratulate him on the war.
+
+1032
+00:40:40,380 --> 00:40:43,060
+Cause it's the devil, the devil likes war.
+
+1033
+00:40:43,060 --> 00:40:45,300
+Right, but this is also back,
+
+1034
+00:40:45,300 --> 00:40:46,940
+this is I feel like back when he might have been
+
+1035
+00:40:46,940 --> 00:40:47,780
+a little bit more in touch,
+
+1036
+00:40:47,780 --> 00:40:49,260
+cause there was just an article about,
+
+1037
+00:40:49,260 --> 00:40:51,060
+and maybe in the New York Times, I forget,
+
+1038
+00:40:51,060 --> 00:40:52,500
+talking to Bono about all this stuff.
+
+1039
+00:40:52,500 --> 00:40:53,580
+And they were like, you know,
+
+1040
+00:40:53,580 --> 00:40:54,900
+some people think it's kind of weird
+
+1041
+00:40:54,900 --> 00:40:57,700
+that you're like very friendly with George W. Bush.
+
+1042
+00:40:57,700 --> 00:41:00,020
+And he's like, I don't believe he's a bad man.
+
+1043
+00:41:00,020 --> 00:41:02,460
+I don't think, you know, he meant to do anything.
+
+1044
+00:41:02,460 --> 00:41:04,460
+And they're like, some people think you're out of it
+
+1045
+00:41:04,460 --> 00:41:05,300
+at this point.
+
+1046
+00:41:05,300 --> 00:41:06,420
+And he was like, what do you mean?
+
+1047
+00:41:07,220 --> 00:41:10,060
+Very much read like a McFisto, like I'm not bad.
+
+1048
+00:41:10,060 --> 00:41:10,900
+What do you mean?
+
+1049
+00:41:10,900 --> 00:41:12,980
+He's got Davos brain in real life.
+
+1050
+00:41:12,980 --> 00:41:16,740
+Yeah, so maybe back then he was actually a little more.
+
+1051
+00:41:16,740 --> 00:41:18,860
+I think his paintings are charming.
+
+1052
+00:41:18,860 --> 00:41:20,020
+Yeah.
+
+1053
+00:41:20,020 --> 00:41:23,020
+He gave Michelle Obama the candy.
+
+1054
+00:41:23,020 --> 00:41:28,020
+Yeah, so we'll see when the Zoo TV Tour comes back,
+
+1055
+00:41:29,860 --> 00:41:31,580
+who he's calling.
+
+1056
+00:41:31,580 --> 00:41:33,700
+Maybe it's, he just calls George W. Bush and goes,
+
+1057
+00:41:33,700 --> 00:41:36,460
+thank you for everything.
+
+1058
+00:41:36,460 --> 00:41:38,100
+You're a nice man, you.
+
+1059
+00:41:38,100 --> 00:41:40,700
+I endorse it all.
+
+1060
+00:41:40,700 --> 00:41:43,340
+Don't fall off your Segway again.
+
+1061
+00:41:44,300 --> 00:41:45,860
+Was that him, was that George W. Bush?
+
+1062
+00:41:45,860 --> 00:41:46,700
+Fell off a.
+
+1063
+00:41:46,700 --> 00:41:48,460
+Did he fall off a Segway?
+
+1064
+00:41:48,460 --> 00:41:51,180
+I feel like, or every president, I feel like for.
+
+1065
+00:41:51,180 --> 00:41:53,900
+Decades has fallen off a bike or some sort of.
+
+1066
+00:41:53,900 --> 00:41:54,940
+Did Trump fall?
+
+1067
+00:41:54,940 --> 00:41:56,420
+Trump was very careful.
+
+1068
+00:41:56,420 --> 00:41:57,660
+He was afraid of falling.
+
+1069
+00:41:57,660 --> 00:41:59,380
+Cause he knows one fall and that's it.
+
+1070
+00:41:59,380 --> 00:42:00,500
+That's all it'll take.
+
+1071
+00:42:00,500 --> 00:42:01,340
+Yeah, maybe.
+
+1072
+00:42:01,340 --> 00:42:02,860
+He's barely hanging together.
+
+1073
+00:42:02,860 --> 00:42:04,380
+The best one is that one where the,
+
+1074
+00:42:04,380 --> 00:42:06,540
+he's gripping that railing on a ramp.
+
+1075
+00:42:06,540 --> 00:42:07,620
+I forget which one that was.
+
+1076
+00:42:07,620 --> 00:42:08,780
+Which place that was.
+
+1077
+00:42:08,780 --> 00:42:11,500
+When it was stair mania for a little while,
+
+1078
+00:42:11,500 --> 00:42:14,380
+that Trump is afraid of stairs and he's denying it.
+
+1079
+00:42:14,380 --> 00:42:16,460
+And people are like, no, no, no, look, I went back.
+
+1080
+00:42:16,460 --> 00:42:19,100
+I looked at both of his SNL monologues
+
+1081
+00:42:19,100 --> 00:42:21,660
+cause he's got four stairs to walk down.
+
+1082
+00:42:21,660 --> 00:42:22,740
+When you come down to do that
+
+1083
+00:42:22,740 --> 00:42:25,660
+and he's gripping that railing super hard.
+
+1084
+00:42:25,660 --> 00:42:27,740
+So you don't see any other hosts do.
+
+1085
+00:42:27,740 --> 00:42:28,580
+Wow.
+
+1086
+00:42:28,580 --> 00:42:30,180
+That is a little proof there.
+
+1087
+00:42:30,180 --> 00:42:32,500
+I feel like there was a rally
+
+1088
+00:42:33,340 --> 00:42:34,540
+and maybe I've just, false memory.
+
+1089
+00:42:34,540 --> 00:42:36,940
+I've implanted in my own mind
+
+1090
+00:42:36,940 --> 00:42:39,460
+where he walked up a ramp or stairs
+
+1091
+00:42:39,460 --> 00:42:40,780
+and then talked about it.
+
+1092
+00:42:40,780 --> 00:42:42,900
+He's like, so I walked up the ramp.
+
+1093
+00:42:42,900 --> 00:42:43,740
+I did it.
+
+1094
+00:42:43,740 --> 00:42:45,140
+He went on and on.
+
+1095
+00:42:45,140 --> 00:42:47,540
+He was like, people, he goes, I'm not gonna get fooled.
+
+1096
+00:42:47,540 --> 00:42:49,420
+You're not gonna fool me.
+
+1097
+00:42:49,420 --> 00:42:50,340
+I'm not tripping.
+
+1098
+00:42:50,340 --> 00:42:52,260
+He was like really,
+
+1099
+00:42:52,260 --> 00:42:55,120
+he didn't like that people made fun of him for that,
+
+1100
+00:42:55,120 --> 00:42:56,460
+but he was like, I had to do it.
+
+1101
+00:42:56,460 --> 00:42:57,380
+I didn't want to fall.
+
+1102
+00:42:57,380 --> 00:43:00,660
+And then the crowd was just like, they loved it.
+
+1103
+00:43:00,660 --> 00:43:02,420
+They're like, yes.
+
+1104
+00:43:03,220 --> 00:43:04,060
+Yeah.
+
+1105
+00:43:04,060 --> 00:43:06,300
+So I have a clip here.
+
+1106
+00:43:06,300 --> 00:43:08,220
+I'm not, this isn't like a great clip,
+
+1107
+00:43:08,220 --> 00:43:10,420
+but he's calling and he's got like a sparkly phone.
+
+1108
+00:43:10,420 --> 00:43:12,340
+Mr. McPhiss, don't add Trump.
+
+1109
+00:43:12,340 --> 00:43:14,300
+He did not make prank phone calls.
+
+1110
+00:43:15,620 --> 00:43:16,940
+Although they sounded like pranks.
+
+1111
+00:43:16,940 --> 00:43:18,940
+He actually did make a prank.
+
+1112
+00:43:18,940 --> 00:43:22,620
+He probably called a lot of the same people on this list
+
+1113
+00:43:22,620 --> 00:43:25,180
+and it was funnier than this for sure.
+
+1114
+00:43:25,180 --> 00:43:27,380
+I believe there are stories of Trump
+
+1115
+00:43:27,380 --> 00:43:30,900
+having a fake publicist name that he would call people.
+
+1116
+00:43:30,900 --> 00:43:31,740
+Oh yeah, that's true.
+
+1117
+00:43:32,340 --> 00:43:33,660
+So we kind of did do prank calls.
+
+1118
+00:43:33,660 --> 00:43:37,380
+He would call like AJ gossip columnist, AJ Benza,
+
+1119
+00:43:37,380 --> 00:43:39,300
+reports as his own PR person.
+
+1120
+00:43:39,300 --> 00:43:40,500
+He would torture spy.
+
+1121
+00:43:40,500 --> 00:43:42,580
+He would call spy magazine constantly.
+
+1122
+00:43:44,220 --> 00:43:46,740
+So here's Bono, Mr. McPhiss, excuse me,
+
+1123
+00:43:46,740 --> 00:43:50,140
+calling Alessandra Mussolini, Mussolini's granddaughter.
+
+1124
+00:43:50,140 --> 00:43:50,980
+Oh.
+
+1125
+00:43:52,060 --> 00:43:53,900
+Six, eight, eight.
+
+1126
+00:43:53,900 --> 00:43:54,740
+So he's dialing.
+
+1127
+00:43:54,740 --> 00:43:57,740
+Zero, three,
+
+1128
+00:43:57,740 --> 00:43:59,580
+oh, one.
+
+1129
+00:43:59,740 --> 00:44:00,820
+Middle of a concert.
+
+1130
+00:44:00,820 --> 00:44:01,660
+Oh.
+
+1131
+00:44:01,660 --> 00:44:02,500
+Oh.
+
+1132
+00:44:04,500 --> 00:44:05,660
+Audience like.
+
+1133
+00:44:08,620 --> 00:44:09,460
+Hello.
+
+1134
+00:44:09,460 --> 00:44:10,300
+Hello.
+
+1135
+00:44:17,300 --> 00:44:19,340
+I don't think he's speaking.
+
+1136
+00:44:19,340 --> 00:44:21,620
+I don't think he's speaking.
+
+1137
+00:44:21,620 --> 00:44:22,460
+Hello.
+
+1138
+00:44:22,460 --> 00:44:24,860
+Well I didn't count on this.
+
+1139
+00:44:24,860 --> 00:44:26,620
+Italian and Italian.
+
+1140
+00:44:27,140 --> 00:44:27,980
+Hello.
+
+1141
+00:44:29,980 --> 00:44:30,820
+Hello.
+
+1142
+00:44:30,820 --> 00:44:32,660
+So he's like very satisfied.
+
+1143
+00:44:32,660 --> 00:44:33,500
+I didn't know that.
+
+1144
+00:44:33,500 --> 00:44:34,340
+Hello.
+
+1145
+00:44:34,340 --> 00:44:36,180
+These seem like messages, these phone calls.
+
+1146
+00:44:36,180 --> 00:44:37,020
+Exactly.
+
+1147
+00:44:37,020 --> 00:44:38,100
+Never that satisfying.
+
+1148
+00:44:38,100 --> 00:44:40,780
+You can call and say congrats on the war,
+
+1149
+00:44:40,780 --> 00:44:41,620
+but then what's gonna happen?
+
+1150
+00:44:41,620 --> 00:44:43,100
+Hello, I'd like to leave a message
+
+1151
+00:44:43,100 --> 00:44:45,980
+for Alessandra Mussolini.
+
+1152
+00:44:47,380 --> 00:44:50,660
+I was a close friend of her grandfather's
+
+1153
+00:44:50,660 --> 00:44:55,420
+and I just want to tell her she's doing a wonderful job
+
+1154
+00:44:55,420 --> 00:44:57,980
+filling the old man's shoes.
+
+1155
+00:44:59,900 --> 00:45:00,740
+Audience clueless.
+
+1156
+00:45:00,740 --> 00:45:01,940
+Audience like what is this?
+
+1157
+00:45:01,940 --> 00:45:04,180
+I believe in Italy tomorrow,
+
+1158
+00:45:04,180 --> 00:45:06,500
+but I won't be far away.
+
+1159
+00:45:07,660 --> 00:45:11,500
+And I will be with her forever in spirit.
+
+1160
+00:45:14,100 --> 00:45:14,940
+I have a question.
+
+1161
+00:45:14,940 --> 00:45:16,460
+Before all this happened and before,
+
+1162
+00:45:16,460 --> 00:45:18,380
+was there ever a moment where he said,
+
+1163
+00:45:18,380 --> 00:45:21,740
+I'm Mr. McPhisto and I'm a devil?
+
+1164
+00:45:21,740 --> 00:45:25,300
+Like was that, was the game set up?
+
+1165
+00:45:26,180 --> 00:45:28,220
+So that the audience knew what the fuck this was?
+
+1166
+00:45:28,220 --> 00:45:29,420
+Oh God.
+
+1167
+00:45:29,420 --> 00:45:31,820
+Or where they left Flaylon.
+
+1168
+00:45:31,820 --> 00:45:32,820
+I don't think so.
+
+1169
+00:45:32,820 --> 00:45:36,580
+I think he, I think he did introduce himself.
+
+1170
+00:45:36,580 --> 00:45:37,940
+When you say like,
+
+1171
+00:45:37,940 --> 00:45:40,180
+did he do it enough to have them know what's going on?
+
+1172
+00:45:40,180 --> 00:45:41,020
+No.
+
+1173
+00:45:41,020 --> 00:45:42,900
+But I do think he introduces himself.
+
+1174
+00:45:42,900 --> 00:45:43,740
+Okay.
+
+1175
+00:45:43,740 --> 00:45:46,180
+He says I'm McPhisto at least.
+
+1176
+00:45:46,180 --> 00:45:47,020
+Yes.
+
+1177
+00:45:47,020 --> 00:45:49,460
+Like there's other devil based entertainment
+
+1178
+00:45:49,460 --> 00:45:53,020
+that it starts, please allow me to introduce myself.
+
+1179
+00:45:53,020 --> 00:45:53,860
+Oh yes.
+
+1180
+00:45:53,860 --> 00:45:54,700
+That's true.
+
+1181
+00:45:54,700 --> 00:45:56,100
+The bands we mentioned before.
+
+1182
+00:45:56,100 --> 00:45:56,940
+That is true.
+
+1183
+00:45:56,940 --> 00:45:57,780
+Yeah.
+
+1184
+00:45:57,780 --> 00:45:59,020
+So it seems like a lot of those, yeah,
+
+1185
+00:45:59,020 --> 00:46:00,020
+we're like going to,
+
+1186
+00:46:00,020 --> 00:46:02,140
+so I guess that maybe those are the real ones.
+
+1187
+00:46:02,140 --> 00:46:04,500
+Cause I was reading the Madonna one was like set up
+
+1188
+00:46:04,500 --> 00:46:05,340
+cause she was there,
+
+1189
+00:46:05,340 --> 00:46:07,020
+but there was some confusion.
+
+1190
+00:46:07,020 --> 00:46:07,860
+I don't know.
+
+1191
+00:46:07,860 --> 00:46:11,180
+So, but it does seem like it grinds the show to a halt.
+
+1192
+00:46:11,180 --> 00:46:12,460
+It's unsatisfying.
+
+1193
+00:46:12,460 --> 00:46:13,300
+The audience can't tell.
+
+1194
+00:46:13,300 --> 00:46:15,380
+Like you can't hear anything in a concert.
+
+1195
+00:46:15,380 --> 00:46:16,540
+Yeah, probably not.
+
+1196
+00:46:16,540 --> 00:46:17,780
+And you want to,
+
+1197
+00:46:17,780 --> 00:46:20,940
+I am amazed by the ballsiness of,
+
+1198
+00:46:20,940 --> 00:46:22,740
+we're going to talk for a while
+
+1199
+00:46:22,820 --> 00:46:25,460
+cause like banter seems impossible.
+
+1200
+00:46:25,460 --> 00:46:28,020
+Like you either have to be in an intimate setting
+
+1201
+00:46:28,020 --> 00:46:30,100
+or your banter is kind of polished
+
+1202
+00:46:30,100 --> 00:46:32,580
+or you're so established that people will not mind
+
+1203
+00:46:32,580 --> 00:46:34,220
+that you just talk for a minute.
+
+1204
+00:46:34,220 --> 00:46:36,700
+But most, if you're in the middle somewhere,
+
+1205
+00:46:36,700 --> 00:46:38,580
+I feel like bands don't even try.
+
+1206
+00:46:38,580 --> 00:46:39,780
+You're not going to do a big run.
+
+1207
+00:46:39,780 --> 00:46:43,260
+Like here's my standup at the Greek or whatever.
+
+1208
+00:46:43,260 --> 00:46:46,300
+Yeah. These are arenas or stadiums.
+
+1209
+00:46:46,300 --> 00:46:48,980
+The people in the way back are like, what is he doing?
+
+1210
+00:46:48,980 --> 00:46:51,740
+And imagine also in that big list of phone calls you made,
+
+1211
+00:46:51,740 --> 00:46:54,780
+imagine how many of them it just like kept ringing
+
+1212
+00:46:54,780 --> 00:46:57,140
+or the phone thing wasn't working that night.
+
+1213
+00:46:57,140 --> 00:47:00,700
+Or like, this must've been just a night after night
+
+1214
+00:47:00,700 --> 00:47:03,020
+of a full minute of dial tones
+
+1215
+00:47:03,020 --> 00:47:04,620
+or people gesturing off stage.
+
+1216
+00:47:04,620 --> 00:47:05,740
+It's not working.
+
+1217
+00:47:05,740 --> 00:47:07,020
+We can't get the phone.
+
+1218
+00:47:07,020 --> 00:47:08,860
+Vamp, Phil.
+
+1219
+00:47:08,860 --> 00:47:11,180
+Did he have like lines ready to go like,
+
+1220
+00:47:11,180 --> 00:47:13,580
+oh, guess I need a new calling card.
+
+1221
+00:47:13,580 --> 00:47:14,700
+Yeah, he had lines.
+
+1222
+00:47:14,700 --> 00:47:15,940
+He knew exactly.
+
+1223
+00:47:15,940 --> 00:47:17,980
+There was probably a writer on staff.
+
+1224
+00:47:17,980 --> 00:47:20,700
+1-800, when 1-800 collect came along,
+
+1225
+00:47:20,700 --> 00:47:22,660
+it was all 1-800 collect.
+
+1226
+00:47:22,660 --> 00:47:23,500
+Sure.
+
+1227
+00:47:23,500 --> 00:47:27,060
+And I'm charging all of you.
+
+1228
+00:47:27,060 --> 00:47:29,980
+Expect a bill in the mail.
+
+1229
+00:47:29,980 --> 00:47:31,980
+70,000 people.
+
+1230
+00:47:31,980 --> 00:47:34,780
+Set the call if you know what's good for you.
+
+1231
+00:47:34,780 --> 00:47:35,980
+Accept the charge.
+
+1232
+00:47:35,980 --> 00:47:39,460
+And the woo that would come after, it would just be woo.
+
+1233
+00:47:39,460 --> 00:47:40,820
+And there'd be like a question mark at the end
+
+1234
+00:47:40,820 --> 00:47:41,660
+from the audience.
+
+1235
+00:47:41,660 --> 00:47:43,780
+Like, what? Woo.
+
+1236
+00:47:43,780 --> 00:47:46,140
+I think we like this because you're you too
+
+1237
+00:47:46,140 --> 00:47:49,420
+and we paid to beer so we'd have to like it, right?
+
+1238
+00:47:50,380 --> 00:47:54,060
+It's heartening to learn that Alessandra Mussolini
+
+1239
+00:47:55,020 --> 00:47:57,060
+reminded every few months.
+
+1240
+00:47:57,060 --> 00:47:59,340
+So it's like, oh, still skulking around.
+
+1241
+00:47:59,340 --> 00:48:00,700
+Yeah, still around.
+
+1242
+00:48:00,700 --> 00:48:03,420
+He called one of the LePens, Marie LePen,
+
+1243
+00:48:03,420 --> 00:48:05,500
+fascist politician in France now,
+
+1244
+00:48:05,500 --> 00:48:08,380
+I believe her father before her, also a piece of shit.
+
+1245
+00:48:08,380 --> 00:48:09,220
+Sure.
+
+1246
+00:48:09,220 --> 00:48:11,460
+And now he's probably been on the upstate plane
+
+1247
+00:48:11,460 --> 00:48:12,300
+with the two of them.
+
+1248
+00:48:12,300 --> 00:48:13,140
+Very well.
+
+1249
+00:48:13,140 --> 00:48:14,940
+Yeah, very good.
+
+1250
+00:48:14,940 --> 00:48:17,300
+We're just there for a fun flight.
+
+1251
+00:48:17,300 --> 00:48:19,020
+It's not about politics.
+
+1252
+00:48:19,620 --> 00:48:21,420
+If we don't put differences aside,
+
+1253
+00:48:21,420 --> 00:48:24,460
+we can cure AIDS and you want to do that, right?
+
+1254
+00:48:24,460 --> 00:48:26,060
+So I needed to be on the plane.
+
+1255
+00:48:26,060 --> 00:48:28,540
+So sad what happened to Ghislaine.
+
+1256
+00:48:29,660 --> 00:48:30,500
+Oh, Ghislaine.
+
+1257
+00:48:32,860 --> 00:48:33,820
+You were naughty.
+
+1258
+00:48:35,060 --> 00:48:38,300
+He's now, already just now he can backpedal like,
+
+1259
+00:48:38,300 --> 00:48:41,340
+okay, if you find pictures of me talking to Ghislaine,
+
+1260
+00:48:41,340 --> 00:48:43,460
+that was Mr. McPhisto, right?
+
+1261
+00:48:43,460 --> 00:48:45,780
+But he doesn't, and he doesn't always have his horns
+
+1262
+00:48:45,780 --> 00:48:47,020
+or his paint.
+
+1263
+00:48:47,060 --> 00:48:49,580
+Sometimes he's mischievous in that way.
+
+1264
+00:48:49,580 --> 00:48:51,660
+He'll confuse you, you see.
+
+1265
+00:48:51,660 --> 00:48:53,060
+And that'll hold up in court.
+
+1266
+00:48:53,060 --> 00:48:55,660
+And in fact, if I say anything now in this interview
+
+1267
+00:48:55,660 --> 00:48:59,220
+that I get canceled for online later, that was McPhisto.
+
+1268
+00:49:01,220 --> 00:49:03,540
+He's gonna get a chill freak card with this.
+
+1269
+00:49:03,540 --> 00:49:05,660
+Yeah, and it's gonna, yeah, it'll hold up.
+
+1270
+00:49:05,660 --> 00:49:07,620
+No jury would convict Mr. McPhisto.
+
+1271
+00:49:07,620 --> 00:49:10,900
+If you ever been offended by anything I've said on the show,
+
+1272
+00:49:10,900 --> 00:49:12,460
+it was Mr. Scott Phisto.
+
+1273
+00:49:12,460 --> 00:49:14,660
+Okay, all right, that makes me feel better.
+
+1274
+00:49:14,660 --> 00:49:17,580
+Mr. Scott Phisto did most of the Living with the Land
+
+1275
+00:49:17,580 --> 00:49:18,660
+episode.
+
+1276
+00:49:18,660 --> 00:49:20,180
+Okay, great.
+
+1277
+00:49:20,180 --> 00:49:22,140
+There's so many just funny, random, stupid things
+
+1278
+00:49:22,140 --> 00:49:24,540
+they try to help attribute to Mr. McPhisto.
+
+1279
+00:49:24,540 --> 00:49:26,500
+They're like, you know, Bono has been quoted as saying,
+
+1280
+00:49:26,500 --> 00:49:29,820
+mystery and mischief are the two most important ingredients
+
+1281
+00:49:29,820 --> 00:49:31,540
+in rock and roll.
+
+1282
+00:49:31,540 --> 00:49:32,380
+Wow.
+
+1283
+00:49:32,380 --> 00:49:34,340
+And you're like, oh, okay.
+
+1284
+00:49:34,340 --> 00:49:35,180
+What are they?
+
+1285
+00:49:36,300 --> 00:49:38,500
+Not like a guitar and drums?
+
+1286
+00:49:38,500 --> 00:49:40,940
+Yeah, like a four-four time and.
+
+1287
+00:49:40,940 --> 00:49:41,780
+Amplification.
+
+1288
+00:49:41,780 --> 00:49:43,460
+Yeah, like electric guitar.
+
+1289
+00:49:43,460 --> 00:49:45,660
+Yeah, one guitar, one bass and drums.
+
+1290
+00:49:45,660 --> 00:49:47,300
+I would chalk that up.
+
+1291
+00:49:47,300 --> 00:49:48,860
+It's like a good starting place.
+
+1292
+00:49:48,860 --> 00:49:49,700
+Yeah.
+
+1293
+00:49:49,700 --> 00:49:53,820
+But something that you can't buy at Guitar Center is mischief.
+
+1294
+00:49:53,820 --> 00:49:58,820
+Can I say some more likes and dislikes?
+
+1295
+00:49:58,820 --> 00:49:59,900
+Yeah, yeah, please.
+
+1296
+00:49:59,900 --> 00:50:01,780
+If you have any of these two, feel free.
+
+1297
+00:50:01,780 --> 00:50:03,540
+But let me say the ones that I liked.
+
+1298
+00:50:03,540 --> 00:50:05,780
+I really, just this, seeing this breakdown,
+
+1299
+00:50:05,780 --> 00:50:08,460
+cause I like that on like these Disneypedia pages.
+
+1300
+00:50:08,460 --> 00:50:09,300
+Yeah, yeah.
+
+1301
+00:50:09,300 --> 00:50:11,620
+Scar likes killing his brother.
+
+1302
+00:50:14,220 --> 00:50:18,020
+Classifying things as likes and dislikes is really fun to me.
+
+1303
+00:50:18,020 --> 00:50:20,580
+So these must be pulled from various, you know,
+
+1304
+00:50:20,580 --> 00:50:23,500
+McPhisto rants, but likes.
+
+1305
+00:50:23,500 --> 00:50:25,540
+People with old fashioned values,
+
+1306
+00:50:25,540 --> 00:50:27,660
+fascist politicians and the like.
+
+1307
+00:50:27,660 --> 00:50:31,260
+He's nostalgic for the good old days of the Raj,
+
+1308
+00:50:31,260 --> 00:50:34,140
+the empire, the third Reich.
+
+1309
+00:50:34,140 --> 00:50:39,140
+By in 2018, he said, I'm pleased to see the KKK back in vogue.
+
+1310
+00:50:39,940 --> 00:50:41,620
+He's staying on it.
+
+1311
+00:50:41,620 --> 00:50:45,500
+He's staying, he's up with our current issues.
+
+1312
+00:50:45,500 --> 00:50:47,180
+He's as evil as ever.
+
+1313
+00:50:47,180 --> 00:50:49,060
+Hear his thoughts about Tar.
+
+1314
+00:50:49,060 --> 00:50:51,660
+But he's like, I'd like an I call Lydia Tar
+
+1315
+00:50:51,660 --> 00:50:53,860
+and say congratulations.
+
+1316
+00:50:53,860 --> 00:50:56,060
+Actually, I only watched 45 minutes of the movie,
+
+1317
+00:50:56,060 --> 00:50:57,900
+so I don't know what, I can't,
+
+1318
+00:50:57,900 --> 00:51:00,260
+I don't know what Lydia Tar does.
+
+1319
+00:51:00,260 --> 00:51:01,700
+Does anyone?
+
+1320
+00:51:01,700 --> 00:51:03,980
+No, I haven't sat down and I haven't taken
+
+1321
+00:51:03,980 --> 00:51:05,300
+the two hours in 37 minutes yet.
+
+1322
+00:51:05,300 --> 00:51:06,140
+Yeah, exactly.
+
+1323
+00:51:06,140 --> 00:51:07,580
+Like parent movie watching,
+
+1324
+00:51:07,580 --> 00:51:09,540
+every movie takes three nights at least.
+
+1325
+00:51:10,380 --> 00:51:12,380
+What, likes, what else do I like?
+
+1326
+00:51:12,380 --> 00:51:14,380
+I like organized religion.
+
+1327
+00:51:14,380 --> 00:51:16,740
+They're doing my job for me, aren't they?
+
+1328
+00:51:16,740 --> 00:51:19,220
+Putting the children off God.
+
+1329
+00:51:20,220 --> 00:51:21,820
+That's kind of correct, actually.
+
+1330
+00:51:21,820 --> 00:51:23,140
+That's true.
+
+1331
+00:51:23,140 --> 00:51:24,380
+I guess, but he's saying it
+
+1332
+00:51:24,380 --> 00:51:27,460
+in the most annoying fashion possible.
+
+1333
+00:51:27,460 --> 00:51:31,700
+And if you get cheeky, you want to not agree with it, maybe?
+
+1334
+00:51:31,700 --> 00:51:34,220
+It's the onion, the worst person you know
+
+1335
+00:51:34,220 --> 00:51:35,940
+just made a great point.
+
+1336
+00:51:35,940 --> 00:51:40,700
+Likes, people occupying the extremes,
+
+1337
+00:51:40,700 --> 00:51:43,300
+demonizing their opponents and resorting to personal insults
+
+1338
+00:51:43,300 --> 00:51:45,020
+instead of seeking out common ground,
+
+1339
+00:51:45,020 --> 00:51:47,900
+considers compromise to be a dirty word.
+
+1340
+00:51:47,900 --> 00:51:52,580
+Do we, do we think this is the editorialization
+
+1341
+00:51:52,580 --> 00:51:54,340
+of the website writer?
+
+1342
+00:51:55,460 --> 00:51:58,580
+Yeah, to some extent, I don't think any of that is quotes,
+
+1343
+00:51:58,580 --> 00:52:01,780
+but you know, he could extrapolate.
+
+1344
+00:52:01,780 --> 00:52:02,700
+They are wrong.
+
+1345
+00:52:03,780 --> 00:52:05,540
+Here's, this one gets more specific though,
+
+1346
+00:52:06,140 --> 00:52:07,660
+and this again, you can tell when this,
+
+1347
+00:52:07,660 --> 00:52:09,500
+what year this was set in.
+
+1348
+00:52:09,500 --> 00:52:12,260
+He likes seeing his protege's achieve success.
+
+1349
+00:52:12,260 --> 00:52:15,780
+Why, I'm so proud of comrade Putin,
+
+1350
+00:52:15,780 --> 00:52:19,820
+and I see great promise in his latest charge,
+
+1351
+00:52:19,820 --> 00:52:22,220
+dear old Donnie.
+
+1352
+00:52:23,260 --> 00:52:24,100
+Boo.
+
+1353
+00:52:24,100 --> 00:52:25,660
+All right, all right.
+
+1354
+00:52:25,660 --> 00:52:26,500
+Stink.
+
+1355
+00:52:28,420 --> 00:52:32,460
+I don't know that McPhisto will work in modern times,
+
+1356
+00:52:32,460 --> 00:52:34,100
+necessarily.
+
+1357
+00:52:34,100 --> 00:52:36,060
+Well, first of all, it's confusing.
+
+1358
+00:52:36,060 --> 00:52:39,180
+The double speak, the, you know, like,
+
+1359
+00:52:39,180 --> 00:52:41,940
+my dad didn't understand the Colbert report.
+
+1360
+00:52:41,940 --> 00:52:42,900
+I don't get this.
+
+1361
+00:52:42,900 --> 00:52:44,460
+Why is this guy saying all this stuff?
+
+1362
+00:52:44,460 --> 00:52:46,020
+Well, no, it's all the opposite of what,
+
+1363
+00:52:46,020 --> 00:52:47,820
+ah, I can't deal with that.
+
+1364
+00:52:47,820 --> 00:52:51,180
+This is what anybody, you know, it is a Colbert,
+
+1365
+00:52:51,180 --> 00:52:53,580
+you know, really Colbert has Mr. McPhisto to thank.
+
+1366
+00:52:53,580 --> 00:52:54,420
+That's a good point.
+
+1367
+00:52:54,420 --> 00:52:55,980
+A great opposite character.
+
+1368
+00:52:55,980 --> 00:52:57,380
+Well, McPhisto, yeah, should have,
+
+1369
+00:52:57,380 --> 00:52:59,500
+McPhisto should have gotten his own show
+
+1370
+00:52:59,500 --> 00:53:00,740
+or appeared more places.
+
+1371
+00:53:00,740 --> 00:53:03,580
+Well, the Daily Show has not been solved yet.
+
+1372
+00:53:03,580 --> 00:53:05,380
+They're just throwing a bunch of guest hosts at it
+
+1373
+00:53:05,380 --> 00:53:06,820
+and there's no show after it.
+
+1374
+00:53:06,820 --> 00:53:09,460
+I don't think, wait, I don't even know.
+
+1375
+00:53:09,460 --> 00:53:14,100
+So perhaps time for the McPhisto report, me thinks.
+
+1376
+00:53:15,380 --> 00:53:18,420
+And a weirdo Mr. McPhisto host.
+
+1377
+00:53:18,420 --> 00:53:19,860
+They can at least test him.
+
+1378
+00:53:19,860 --> 00:53:21,940
+Yeah, we're testing, we're trying Wanda Sykes,
+
+1379
+00:53:21,940 --> 00:53:23,180
+we're trying Leslie Jones,
+
+1380
+00:53:23,180 --> 00:53:26,660
+we're trying Bono in character as Mr. McPhisto.
+
+1381
+00:53:26,660 --> 00:53:28,220
+Maybe they can try Bono in character
+
+1382
+00:53:28,220 --> 00:53:30,580
+as his character from Sing, too.
+
+1383
+00:53:30,580 --> 00:53:31,900
+Let's try all the characters.
+
+1384
+00:53:31,900 --> 00:53:34,020
+A different Bono every night.
+
+1385
+00:53:35,060 --> 00:53:35,900
+Cause he's got the characters.
+
+1386
+00:53:35,900 --> 00:53:38,420
+What is the character, what is the, he's a lion in Sing.
+
+1387
+00:53:38,420 --> 00:53:39,260
+Yeah, what is-
+
+1388
+00:53:39,260 --> 00:53:43,020
+He's Guay's reluctant rock star, Clay Calloway.
+
+1389
+00:53:43,860 --> 00:53:47,900
+I've been loosed out of retirement by Buster Moon
+
+1390
+00:53:47,900 --> 00:53:51,540
+as portrayed by Matthew McConaughey.
+
+1391
+00:53:51,540 --> 00:53:53,380
+This is a movie that lots of people saw.
+
+1392
+00:53:53,380 --> 00:53:54,220
+We gotta watch that.
+
+1393
+00:53:54,220 --> 00:53:55,060
+Two of them.
+
+1394
+00:53:55,060 --> 00:53:55,900
+We gotta watch that.
+
+1395
+00:53:55,900 --> 00:53:56,900
+Yeah, let's sing, too.
+
+1396
+00:53:56,900 --> 00:53:59,100
+I gotta watch this Sing's.
+
+1397
+00:53:59,100 --> 00:54:02,300
+Children are gonna love both Sing's.
+
+1398
+00:54:02,300 --> 00:54:03,740
+Yeah, probably.
+
+1399
+00:54:03,740 --> 00:54:05,620
+I'll know what all these are soon enough.
+
+1400
+00:54:05,620 --> 00:54:07,900
+Things that he does not like.
+
+1401
+00:54:07,900 --> 00:54:09,060
+Wails covered that.
+
+1402
+00:54:09,060 --> 00:54:13,740
+I'm not a fan of that Bono and his endless preaching.
+
+1403
+00:54:13,740 --> 00:54:18,700
+He's a jumped up little Jesus and a pompous little prick.
+
+1404
+00:54:18,700 --> 00:54:22,100
+So me and McPhisto have this in common, I think.
+
+1405
+00:54:22,100 --> 00:54:24,380
+I do share some views with Mr. McPhisto.
+
+1406
+00:54:24,380 --> 00:54:27,100
+Common ground, which McPhisto hates.
+
+1407
+00:54:27,100 --> 00:54:28,260
+I don't like it.
+
+1408
+00:54:28,260 --> 00:54:29,780
+I like fighting.
+
+1409
+00:54:29,780 --> 00:54:32,820
+And in fact, I hate the phrase love thy neighbor.
+
+1410
+00:54:32,820 --> 00:54:35,300
+It makes me want to fucking retch.
+
+1411
+00:54:35,300 --> 00:54:37,980
+Boy, he did a lot of monologues.
+
+1412
+00:54:37,980 --> 00:54:40,580
+If all this information is out there.
+
+1413
+00:54:40,580 --> 00:54:41,660
+Yeah, yeah.
+
+1414
+00:54:41,660 --> 00:54:43,940
+Met lots of chances to get his views out there.
+
+1415
+00:54:43,940 --> 00:54:46,820
+I, this is where, all right, this is,
+
+1416
+00:54:46,820 --> 00:54:49,300
+what I'm about to say is really theme parky.
+
+1417
+00:54:49,300 --> 00:54:50,140
+Yeah.
+
+1418
+00:54:50,140 --> 00:54:55,140
+That he says, I loathe sappy songs of unity like one.
+
+1419
+00:54:55,980 --> 00:55:00,980
+Like that's so what a villain in a show would do is like,
+
+1420
+00:55:02,900 --> 00:55:04,500
+like, no, don't say it.
+
+1421
+00:55:04,500 --> 00:55:06,220
+Like this isn't one, there was no villain
+
+1422
+00:55:06,220 --> 00:55:07,860
+in the Barney live show.
+
+1423
+00:55:07,860 --> 00:55:10,020
+But if there was a, oh, I hate that.
+
+1424
+00:55:10,020 --> 00:55:11,060
+I love you.
+
+1425
+00:55:11,060 --> 00:55:12,300
+You love me.
+
+1426
+00:55:12,300 --> 00:55:13,820
+It makes me want to retch.
+
+1427
+00:55:13,820 --> 00:55:15,100
+You don't want to hear it.
+
+1428
+00:55:15,100 --> 00:55:15,940
+Do you?
+
+1429
+00:55:15,940 --> 00:55:18,460
+No, I don't want to hear it.
+
+1430
+00:55:18,460 --> 00:55:20,820
+No, stop singing.
+
+1431
+00:55:20,820 --> 00:55:23,020
+Oh, it's poison to my ears.
+
+1432
+00:55:23,020 --> 00:55:23,860
+No.
+
+1433
+00:55:24,260 --> 00:55:27,940
+McPhisto is a perfect villain for the Bill and Ted show.
+
+1434
+00:55:27,940 --> 00:55:28,780
+Yeah.
+
+1435
+00:55:28,780 --> 00:55:29,620
+Yeah, sure.
+
+1436
+00:55:29,620 --> 00:55:30,460
+They missed out.
+
+1437
+00:55:30,460 --> 00:55:31,300
+Yeah.
+
+1438
+00:55:31,300 --> 00:55:33,820
+Other than that, that show tends to cover things
+
+1439
+00:55:33,820 --> 00:55:35,620
+that were relevant.
+
+1440
+00:55:35,620 --> 00:55:36,460
+That's true.
+
+1441
+00:55:36,460 --> 00:55:40,380
+They could have, there is a window in the nineties
+
+1442
+00:55:40,380 --> 00:55:41,900
+where they could have had a villain.
+
+1443
+00:55:41,900 --> 00:55:43,780
+They could have had a very popular villain
+
+1444
+00:55:43,780 --> 00:55:47,340
+that we would have had to spend 10 minutes explaining
+
+1445
+00:55:47,340 --> 00:55:49,220
+who this villain is.
+
+1446
+00:55:49,220 --> 00:55:51,740
+I would love a poll of you hardcore YouTube,
+
+1447
+00:55:51,740 --> 00:55:53,620
+I mean, not hardcore, but YouTube fans
+
+1448
+00:55:53,620 --> 00:55:55,180
+who could name the character.
+
+1449
+00:55:55,180 --> 00:55:56,020
+Yeah, yeah.
+
+1450
+00:55:56,020 --> 00:55:57,420
+They're probably just lives at like,
+
+1451
+00:55:57,420 --> 00:55:58,860
+yeah, they need to do this devil thing.
+
+1452
+00:55:58,860 --> 00:56:00,940
+What do you think the number is?
+
+1453
+00:56:00,940 --> 00:56:01,780
+Percentage-wise?
+
+1454
+00:56:01,780 --> 00:56:04,260
+Of human beings on planet Earth
+
+1455
+00:56:04,260 --> 00:56:07,060
+who know that this guy's name is Mr. McPhisto.
+
+1456
+00:56:08,060 --> 00:56:09,500
+Well. I don't have a clue.
+
+1457
+00:56:09,500 --> 00:56:14,180
+It's gonna be at least 3000 due to our Patreon.
+
+1458
+00:56:14,180 --> 00:56:15,020
+That's true.
+
+1459
+00:56:15,020 --> 00:56:16,500
+So we're gonna up the numbers.
+
+1460
+00:56:16,500 --> 00:56:21,500
+So that plus 50,000, 53,000.
+
+1461
+00:56:22,460 --> 00:56:24,300
+I was gonna guess 25,000 people.
+
+1462
+00:56:24,300 --> 00:56:25,140
+Wow, wow.
+
+1463
+00:56:25,140 --> 00:56:28,780
+And YouTube sold 100 million albums plus, I think.
+
+1464
+00:56:28,780 --> 00:56:29,620
+Yeah.
+
+1465
+00:56:29,620 --> 00:56:30,780
+I bet it's 25,000.
+
+1466
+00:56:30,780 --> 00:56:32,820
+Well, cause look, people keep,
+
+1467
+00:56:32,820 --> 00:56:34,940
+what most people do is keep living their lives.
+
+1468
+00:56:34,940 --> 00:56:35,820
+They don't get caught up.
+
+1469
+00:56:35,820 --> 00:56:40,820
+We just scour through pop cultural garbage cans.
+
+1470
+00:56:40,820 --> 00:56:41,660
+Oh, let me in there.
+
+1471
+00:56:41,660 --> 00:56:42,500
+Oh, I found a scrap.
+
+1472
+00:56:42,500 --> 00:56:45,460
+Hey, look, oh, I gotta tell the other garbage hands.
+
+1473
+00:56:45,460 --> 00:56:46,780
+I gotta text the guys.
+
+1474
+00:56:48,780 --> 00:56:51,260
+Yeah, we're Paul T. Goldman's in the trash.
+
+1475
+00:56:52,020 --> 00:56:53,860
+Yeah, digging through the trash.
+
+1476
+00:56:53,860 --> 00:56:54,940
+Yeah.
+
+1477
+00:56:54,940 --> 00:56:58,620
+So yeah, so this is McPhisto's,
+
+1478
+00:56:58,620 --> 00:57:01,460
+the most prominent appearance of him.
+
+1479
+00:57:01,460 --> 00:57:06,460
+He has shown up in other things since then though,
+
+1480
+00:57:08,140 --> 00:57:12,660
+including like on the next giant YouTube tour, Pop Mart,
+
+1481
+00:57:12,660 --> 00:57:15,100
+which I think is sort of responsible for them,
+
+1482
+00:57:15,100 --> 00:57:19,100
+like freaking out and going back to the well in a way.
+
+1483
+00:57:19,100 --> 00:57:22,780
+Pop Mart seemed profoundly annoying when I was like 12.
+
+1484
+00:57:22,780 --> 00:57:25,500
+I would just see it peripherally and like,
+
+1485
+00:57:25,500 --> 00:57:28,180
+nope, not interesting.
+
+1486
+00:57:28,180 --> 00:57:29,780
+Well, there's no, they don't,
+
+1487
+00:57:29,780 --> 00:57:31,980
+I don't think there's any McPhisto like character.
+
+1488
+00:57:31,980 --> 00:57:34,740
+He's like his image, like he's kind of like bat symbol
+
+1489
+00:57:34,740 --> 00:57:37,820
+appears on the Pop Mart tour on the like the floor.
+
+1490
+00:57:37,820 --> 00:57:39,500
+McPhisto has a bat symbol.
+
+1491
+00:57:39,500 --> 00:57:40,340
+Basic one.
+
+1492
+00:57:40,340 --> 00:57:41,180
+We'll get to that too.
+
+1493
+00:57:41,180 --> 00:57:45,340
+It's his like horns, like it's almost like his hair
+
+1494
+00:57:45,340 --> 00:57:47,620
+in the shape of horns and then his eyebrows.
+
+1495
+00:57:47,620 --> 00:57:48,460
+Okay.
+
+1496
+00:57:49,020 --> 00:57:51,060
+The audience knows what this is for sure.
+
+1497
+00:57:51,060 --> 00:57:53,380
+There was a lot of people going like,
+
+1498
+00:57:53,380 --> 00:57:55,020
+are the horns too much?
+
+1499
+00:57:55,020 --> 00:57:56,460
+Bono's really hamming and hauling
+
+1500
+00:57:56,460 --> 00:57:58,340
+about putting the lipstick on.
+
+1501
+00:57:58,340 --> 00:57:59,180
+There was discussions.
+
+1502
+00:57:59,180 --> 00:58:01,020
+I don't know, he's thinking about the horns.
+
+1503
+00:58:01,020 --> 00:58:02,180
+There were discussions about the outfit.
+
+1504
+00:58:02,180 --> 00:58:03,020
+Yeah.
+
+1505
+00:58:03,020 --> 00:58:05,300
+And then he put the horns on and he was like perfect.
+
+1506
+00:58:05,300 --> 00:58:07,700
+And like the rest was history as they say.
+
+1507
+00:58:08,660 --> 00:58:11,100
+All it took was a stop at party city.
+
+1508
+00:58:11,100 --> 00:58:11,940
+Okay.
+
+1509
+00:58:14,820 --> 00:58:18,460
+McPhisto appears in, I don't know if you guys read this,
+
+1510
+00:58:18,460 --> 00:58:21,220
+the Frank Sinatra and Bono music video,
+
+1511
+00:58:21,220 --> 00:58:23,620
+I've Got You Under My Skin.
+
+1512
+00:58:23,620 --> 00:58:27,020
+I literally watched this music video today
+
+1513
+00:58:27,020 --> 00:58:29,020
+and I don't know what you're talking about.
+
+1514
+00:58:29,020 --> 00:58:30,420
+He, I didn't see it.
+
+1515
+00:58:30,420 --> 00:58:31,620
+I didn't notice McPhisto.
+
+1516
+00:58:31,620 --> 00:58:33,860
+Well, Frank Sinatra transforms
+
+1517
+00:58:33,860 --> 00:58:36,900
+into Mr. McPhisto very briefly.
+
+1518
+00:58:36,900 --> 00:58:38,980
+This was right in front of my eyes and I didn't see it.
+
+1519
+00:58:38,980 --> 00:58:40,500
+So it's right here.
+
+1520
+00:58:40,500 --> 00:58:41,340
+There's Frank.
+
+1521
+00:58:41,340 --> 00:58:43,220
+There's McPhisto and Frank goes back.
+
+1522
+00:58:43,220 --> 00:58:46,180
+So there's a brief, brief moment.
+
+1523
+00:58:46,180 --> 00:58:48,140
+Sinatra becomes him?
+
+1524
+00:58:48,140 --> 00:58:50,180
+Frank Sinatra has the ability,
+
+1525
+00:58:50,180 --> 00:58:53,180
+had the ability to become Mr. McPhisto.
+
+1526
+00:58:53,180 --> 00:58:57,100
+Now from what I understand, terrible guy in a lot of ways.
+
+1527
+00:58:57,100 --> 00:58:57,940
+Some people loved him.
+
+1528
+00:58:57,940 --> 00:59:01,060
+He did some nice stuff, but also a bad guy.
+
+1529
+00:59:01,060 --> 00:59:03,700
+So I don't know, I don't know why that's in there.
+
+1530
+00:59:03,700 --> 00:59:05,220
+Did Frank approve that?
+
+1531
+00:59:06,140 --> 00:59:09,820
+Or did Frank just not have eyes on this in any way?
+
+1532
+00:59:09,820 --> 00:59:11,660
+I think that might be more true.
+
+1533
+00:59:11,660 --> 00:59:13,860
+I don't know if he had eyes on that entire album.
+
+1534
+00:59:13,860 --> 00:59:15,500
+I had never heard that.
+
+1535
+00:59:15,500 --> 00:59:17,860
+This is the Sinatra Bono duet.
+
+1536
+00:59:17,860 --> 00:59:19,460
+That is a piece of shit.
+
+1537
+00:59:19,460 --> 00:59:21,060
+That is horrible.
+
+1538
+00:59:21,060 --> 00:59:22,220
+God.
+
+1539
+00:59:22,220 --> 00:59:25,020
+Is that the, is the Jimmy Buffett?
+
+1540
+00:59:25,020 --> 00:59:27,820
+Is there's a, there's a Jimmy Buffett Sinatra song,
+
+1541
+00:59:27,820 --> 00:59:28,820
+I believe as well.
+
+1542
+00:59:31,980 --> 00:59:32,940
+Mack the Knife, yes.
+
+1543
+00:59:32,940 --> 00:59:33,780
+They did Mack the Knife together.
+
+1544
+00:59:33,780 --> 00:59:34,620
+They did Mack the Knife.
+
+1545
+00:59:34,620 --> 00:59:35,460
+What?
+
+1546
+00:59:35,460 --> 00:59:36,300
+Yeah, yeah.
+
+1547
+00:59:36,300 --> 00:59:37,220
+Buffett?
+
+1548
+00:59:37,220 --> 00:59:38,860
+That is not in the genre of Buffett.
+
+1549
+00:59:38,860 --> 00:59:39,900
+You don't think that's good?
+
+1550
+00:59:39,900 --> 00:59:40,740
+Whatsoever.
+
+1551
+00:59:40,740 --> 00:59:42,580
+Who's this curly haired idiot?
+
+1552
+00:59:42,580 --> 00:59:44,140
+Why doesn't he have a suit on?
+
+1553
+00:59:45,140 --> 00:59:46,340
+He's got a, what else?
+
+1554
+00:59:46,340 --> 00:59:49,060
+He comes over, he comes to record in shorts.
+
+1555
+00:59:49,060 --> 00:59:50,900
+Get this turd out of here.
+
+1556
+00:59:52,820 --> 00:59:54,700
+Don't like his freestyle ways.
+
+1557
+00:59:54,700 --> 00:59:56,980
+Laid back turd.
+
+1558
+00:59:56,980 --> 00:59:58,740
+Here's a little bit of this,
+
+1559
+00:59:58,740 --> 01:00:00,860
+although it's gonna have a problem loading.
+
+1560
+01:00:00,860 --> 01:00:04,740
+Jimmy Buffett, Mack the Knife duet with Frank Sinatra.
+
+1561
+01:00:04,740 --> 01:00:05,580
+God.
+
+1562
+01:00:06,500 --> 01:00:07,340
+But yes, he does.
+
+1563
+01:00:07,340 --> 01:00:08,820
+Why did they do this?
+
+1564
+01:00:08,820 --> 01:00:12,540
+I've got you under my skin with Bono.
+
+1565
+01:00:13,420 --> 01:00:15,660
+There's a song that U2 wrote.
+
+1566
+01:00:15,660 --> 01:00:18,940
+There's a song on Zuroppa by U2 called The Wanderer,
+
+1567
+01:00:18,940 --> 01:00:20,620
+which is Johnny Cash singing.
+
+1568
+01:00:20,620 --> 01:00:21,500
+I don't know if you've ever heard this.
+
+1569
+01:00:21,500 --> 01:00:22,340
+No.
+
+1570
+01:00:22,340 --> 01:00:23,160
+I think it's a great song.
+
+1571
+01:00:23,160 --> 01:00:24,000
+It's really cool.
+
+1572
+01:00:24,000 --> 01:00:26,460
+Johnny Cash like singing over like synth,
+
+1573
+01:00:26,460 --> 01:00:28,660
+like synth music essentially.
+
+1574
+01:00:28,660 --> 01:00:29,660
+Kind of cool song.
+
+1575
+01:00:29,660 --> 01:00:32,860
+They wrote a song for Frank Sinatra called,
+
+1576
+01:00:34,100 --> 01:00:37,300
+I think One Shot of Happy, Two Shots of Sad.
+
+1577
+01:00:38,220 --> 01:00:39,460
+And he did not record it.
+
+1578
+01:00:40,940 --> 01:00:43,220
+Why wouldn't I take two shots of happy?
+
+1579
+01:00:43,220 --> 01:00:44,460
+What's wrong with you?
+
+1580
+01:00:45,740 --> 01:00:47,060
+So I guess, yeah, I guess Bono.
+
+1581
+01:00:47,060 --> 01:00:48,400
+I think Brian Wilson had some failed
+
+1582
+01:00:48,400 --> 01:00:49,740
+Frank Sinatra songs as well.
+
+1583
+01:00:49,740 --> 01:00:52,660
+This might have been the thing a lot of people tried.
+
+1584
+01:00:52,660 --> 01:00:56,300
+I always like those stories when somebody writes a song
+
+1585
+01:00:56,300 --> 01:00:59,100
+for an artist and they go, nah.
+
+1586
+01:00:59,100 --> 01:01:01,380
+The first, the other one I think of is
+
+1587
+01:01:01,380 --> 01:01:06,100
+the Matchbox 20 song, Disease, was written for Mick Jagger.
+
+1588
+01:01:06,100 --> 01:01:08,860
+And he was like, I'll write a part of the second verse,
+
+1589
+01:01:08,860 --> 01:01:10,080
+but you sing it.
+
+1590
+01:01:10,080 --> 01:01:10,920
+Okay.
+
+1591
+01:01:12,780 --> 01:01:14,340
+So want to be polite.
+
+1592
+01:01:14,340 --> 01:01:15,540
+I kind of like that song,
+
+1593
+01:01:15,540 --> 01:01:19,500
+but imagine 2000s era Mick Jagger going,
+
+1594
+01:01:19,500 --> 01:01:20,660
+this song's not for me.
+
+1595
+01:01:22,340 --> 01:01:25,060
+Doesn't meet my standards.
+
+1596
+01:01:25,060 --> 01:01:26,340
+Here's Mack the Knife.
+
+1597
+01:01:27,660 --> 01:01:29,080
+Mack he's there.
+
+1598
+01:01:30,660 --> 01:01:34,700
+And he keeps it way out of sight.
+
+1599
+01:01:36,860 --> 01:01:38,540
+When that shark bites.
+
+1600
+01:01:38,540 --> 01:01:39,380
+Oh, that's why.
+
+1601
+01:01:39,380 --> 01:01:40,220
+Because of shark.
+
+1602
+01:01:40,220 --> 01:01:42,580
+Oh, I can get around this one.
+
+1603
+01:01:42,580 --> 01:01:43,420
+Hell yeah.
+
+1604
+01:01:43,420 --> 01:01:45,460
+How did you tell me there was a big fish in it?
+
+1605
+01:01:45,460 --> 01:01:47,980
+They began to spread.
+
+1606
+01:01:47,980 --> 01:01:52,920
+Anyway, I would like Jimmy to do out with Seth MacFarlane.
+
+1607
+01:01:52,920 --> 01:01:53,980
+I think that would be good.
+
+1608
+01:01:53,980 --> 01:01:54,940
+Sure, yeah.
+
+1609
+01:01:54,940 --> 01:01:57,980
+Yeah, they're both island owners.
+
+1610
+01:01:57,980 --> 01:01:59,820
+They'll run into each other at some point.
+
+1611
+01:01:59,820 --> 01:02:01,560
+They've been on the up-scene plane.
+
+1612
+01:02:01,560 --> 01:02:04,780
+I've never really put this together,
+
+1613
+01:02:04,940 --> 01:02:07,940
+but the duets albums come out in 93 and 94.
+
+1614
+01:02:07,940 --> 01:02:10,140
+Sinatra dies in 98.
+
+1615
+01:02:11,100 --> 01:02:13,180
+So I was just trying to figure out
+
+1616
+01:02:13,180 --> 01:02:15,060
+how old was he at this point?
+
+1617
+01:02:15,060 --> 01:02:16,340
+Oh, he was old as shit.
+
+1618
+01:02:16,340 --> 01:02:17,180
+Yeah.
+
+1619
+01:02:17,180 --> 01:02:19,300
+Old enough to not care at all.
+
+1620
+01:02:19,300 --> 01:02:21,860
+Not to care that they turned him into the devil briefly.
+
+1621
+01:02:23,980 --> 01:02:27,460
+So yeah, so then McPhisto would be referenced here and there
+
+1622
+01:02:27,460 --> 01:02:32,460
+like before Elevation, I think on the tour
+
+1623
+01:02:32,620 --> 01:02:35,620
+after they did the album All That You Can't Leave Behind,
+
+1624
+01:02:35,620 --> 01:02:38,220
+he would be like, I'm looking for a little elevation
+
+1625
+01:02:38,220 --> 01:02:42,520
+or something like little nods to it here and there.
+
+1626
+01:02:43,460 --> 01:02:45,860
+There's fans dressed as McPhisto.
+
+1627
+01:02:45,860 --> 01:02:48,100
+There's clips you can find recent tours
+
+1628
+01:02:48,100 --> 01:02:50,420
+where Bono pulls a fan out of the audience
+
+1629
+01:02:50,420 --> 01:02:52,860
+dressed as Mr. McPhisto and the guy jumps on stage
+
+1630
+01:02:52,860 --> 01:02:56,580
+and is dancing with Bono and security swarms this guy.
+
+1631
+01:02:56,580 --> 01:02:58,340
+And Bono must be like, no, no, no, no, no.
+
+1632
+01:02:58,340 --> 01:02:59,980
+I asked her this.
+
+1633
+01:03:00,140 --> 01:03:02,500
+They're about to beat the shit out of this guy
+
+1634
+01:03:02,500 --> 01:03:05,100
+and Bono's on the front of the stage trying to stop them
+
+1635
+01:03:05,100 --> 01:03:07,340
+and then goes back to dancing with the guy.
+
+1636
+01:03:07,340 --> 01:03:10,260
+Has to waltz with him to protect him.
+
+1637
+01:03:10,260 --> 01:03:12,060
+Was that guy who tried to attack Chappelle
+
+1638
+01:03:12,060 --> 01:03:13,820
+dressed as Mr. McPhisto?
+
+1639
+01:03:13,820 --> 01:03:14,660
+Yeah.
+
+1640
+01:03:14,660 --> 01:03:15,500
+Okay, okay.
+
+1641
+01:03:15,500 --> 01:03:17,220
+He's just trying to turn his show off his costume.
+
+1642
+01:03:17,220 --> 01:03:18,060
+Very good eye.
+
+1643
+01:03:19,340 --> 01:03:21,140
+And there's a few other ones.
+
+1644
+01:03:21,140 --> 01:03:26,140
+He brought him back recently as an AR-like character.
+
+1645
+01:03:26,660 --> 01:03:28,340
+Did you see the photo of this?
+
+1646
+01:03:28,340 --> 01:03:29,500
+It's not that interesting.
+
+1647
+01:03:30,060 --> 01:03:31,580
+You know how like on your phone,
+
+1648
+01:03:31,580 --> 01:03:34,740
+you can send messages where like you're like a hippo.
+
+1649
+01:03:34,740 --> 01:03:36,340
+Like if you talk, the hippo will talk.
+
+1650
+01:03:36,340 --> 01:03:37,260
+Sure, sure.
+
+1651
+01:03:37,260 --> 01:03:38,500
+Which is pretty fun.
+
+1652
+01:03:38,500 --> 01:03:41,820
+So there's a version of McPhisto they did like that
+
+1653
+01:03:41,820 --> 01:03:43,300
+where Bono's looking into a camera
+
+1654
+01:03:43,300 --> 01:03:46,580
+and then on the screen you would see Mr. McPhisto.
+
+1655
+01:03:47,500 --> 01:03:49,500
+Oh, I've seen this.
+
+1656
+01:03:49,500 --> 01:03:50,620
+It's horrifying.
+
+1657
+01:03:50,620 --> 01:03:51,820
+Yeah, can you show Scott?
+
+1658
+01:03:51,820 --> 01:03:53,220
+Yeah.
+
+1659
+01:03:53,220 --> 01:03:56,940
+This image was kind of going around for a little while.
+
+1660
+01:03:56,940 --> 01:03:58,540
+And it's not as fun.
+
+1661
+01:03:58,540 --> 01:03:59,380
+It sucks.
+
+1662
+01:04:00,220 --> 01:04:02,180
+It's like, what's the point if it's not,
+
+1663
+01:04:02,180 --> 01:04:04,460
+he's not wearing fun outfit to make it look,
+
+1664
+01:04:04,460 --> 01:04:08,100
+cause he looks, it looks more evil too, which is, you know.
+
+1665
+01:04:08,100 --> 01:04:11,380
+But it just looks like a garbage video game from 96.
+
+1666
+01:04:11,380 --> 01:04:13,340
+Yeah, it looks like a twisted metal character.
+
+1667
+01:04:13,340 --> 01:04:14,180
+Yeah.
+
+1668
+01:04:15,260 --> 01:04:16,300
+But yeah, so like who cares?
+
+1669
+01:04:16,300 --> 01:04:19,340
+But like he would do that on a recent tour,
+
+1670
+01:04:19,340 --> 01:04:20,860
+but yeah, not as fun.
+
+1671
+01:04:21,700 --> 01:04:24,060
+The most, well, we're gonna go back.
+
+1672
+01:04:24,060 --> 01:04:24,880
+I'm gonna retreat to,
+
+1673
+01:04:24,880 --> 01:04:26,940
+we're gonna end with my favorite thing, of course.
+
+1674
+01:04:26,940 --> 01:04:27,780
+Sure, sure.
+
+1675
+01:04:27,780 --> 01:04:32,100
+But he did appear on Jimmy Kimmel a few years ago.
+
+1676
+01:04:32,100 --> 01:04:33,540
+Did you see this?
+
+1677
+01:04:33,540 --> 01:04:34,380
+I did, yeah.
+
+1678
+01:04:34,380 --> 01:04:35,220
+Yeah.
+
+1679
+01:04:35,220 --> 01:04:37,700
+Explain this context though, it's kind of confusing.
+
+1680
+01:04:37,700 --> 01:04:40,260
+So the AIDS charity read,
+
+1681
+01:04:40,260 --> 01:04:42,940
+a bunch of celebrities are involved with it.
+
+1682
+01:04:42,940 --> 01:04:46,500
+And I didn't, I guess Jimmy Kimmel live
+
+1683
+01:04:46,500 --> 01:04:48,580
+and a couple of years in a row did something for it
+
+1684
+01:04:48,580 --> 01:04:51,020
+by singing a song that was written called,
+
+1685
+01:04:51,020 --> 01:04:53,660
+if we don't help people with AIDS, you're going to hell.
+
+1686
+01:04:53,660 --> 01:04:54,980
+I had no idea any of this.
+
+1687
+01:04:54,980 --> 01:04:56,140
+Okay.
+
+1688
+01:04:56,140 --> 01:04:58,580
+And in 2016,
+
+1689
+01:04:58,580 --> 01:05:02,020
+it's a real interesting group of people
+
+1690
+01:05:02,020 --> 01:05:05,180
+sitting around a piano, Jimmy Kimmel live.
+
+1691
+01:05:05,180 --> 01:05:06,660
+Brian Cranston.
+
+1692
+01:05:06,660 --> 01:05:11,660
+Brian Cranston, Brandon Flowers from The Killers,
+
+1693
+01:05:12,180 --> 01:05:15,540
+Julia Roberts, Channing Tatum.
+
+1694
+01:05:15,540 --> 01:05:17,500
+Hold on, I gotta open the video to remember.
+
+1695
+01:05:17,500 --> 01:05:18,740
+Gawain Maxwell.
+
+1696
+01:05:18,740 --> 01:05:19,580
+Gawain.
+
+1697
+01:05:19,580 --> 01:05:21,820
+Oh, Alessandro Mussolini.
+
+1698
+01:05:24,100 --> 01:05:25,180
+Justin Roiland.
+
+1699
+01:05:25,580 --> 01:05:26,420
+Justin Roiland.
+
+1700
+01:05:27,620 --> 01:05:28,460
+That was a joke.
+
+1701
+01:05:28,460 --> 01:05:29,820
+Kristen Bell is there.
+
+1702
+01:05:29,820 --> 01:05:31,900
+So I don't know, it's like, it's a fun little,
+
+1703
+01:05:31,900 --> 01:05:33,220
+like this is a song.
+
+1704
+01:05:36,340 --> 01:05:38,700
+It's like Seth MacFarlane type song.
+
+1705
+01:05:38,700 --> 01:05:39,540
+And it's like, it's like,
+
+1706
+01:05:39,540 --> 01:05:42,180
+See, they're doing a Seth MacFarlane standard.
+
+1707
+01:05:42,180 --> 01:05:43,020
+It's Neil Patrick Harris.
+
+1708
+01:05:43,020 --> 01:05:44,500
+Oh, DJ Khaled is there.
+
+1709
+01:05:45,460 --> 01:05:46,300
+Hell yeah.
+
+1710
+01:05:46,300 --> 01:05:48,540
+And it's like a fun little song, you know,
+
+1711
+01:05:48,540 --> 01:05:49,380
+to raise awareness.
+
+1712
+01:05:49,380 --> 01:05:51,820
+And again, I don't know much about the charity.
+
+1713
+01:05:51,820 --> 01:05:53,700
+I assume there's some good work being done.
+
+1714
+01:05:53,740 --> 01:05:56,460
+I'm always a little suspicious of a bunch of celebrities
+
+1715
+01:05:56,460 --> 01:05:57,940
+with a big charity.
+
+1716
+01:05:57,940 --> 01:06:00,300
+But anyway, so they're, whatever, they're raising awareness.
+
+1717
+01:06:00,300 --> 01:06:01,900
+So they do this song and they're performing
+
+1718
+01:06:01,900 --> 01:06:03,460
+and you can find the clip online.
+
+1719
+01:06:03,460 --> 01:06:06,340
+But all of a sudden they're all gathered around the piano
+
+1720
+01:06:06,340 --> 01:06:11,340
+and then an explosion happens from behind them
+
+1721
+01:06:11,980 --> 01:06:12,820
+that takes them off.
+
+1722
+01:06:12,820 --> 01:06:14,100
+They think they're done with the song,
+
+1723
+01:06:14,100 --> 01:06:15,900
+but no, an explosion happens.
+
+1724
+01:06:15,900 --> 01:06:18,180
+Oh, the set has turned red.
+
+1725
+01:06:18,180 --> 01:06:20,540
+A concrete rock version of the song starts
+
+1726
+01:06:20,540 --> 01:06:24,660
+and in a bathtub drinking champagne
+
+1727
+01:06:24,660 --> 01:06:28,620
+is Mr. MacFisto on national television.
+
+1728
+01:06:30,140 --> 01:06:32,540
+Had Bono been in the episode at this point?
+
+1729
+01:06:32,540 --> 01:06:34,060
+I actually don't know the answer to that.
+
+1730
+01:06:34,060 --> 01:06:35,500
+Oh, cause if not.
+
+1731
+01:06:35,500 --> 01:06:36,980
+The bathtub popped open.
+
+1732
+01:06:36,980 --> 01:06:39,540
+The bathtub is like Imagineer and it opens up.
+
+1733
+01:06:39,540 --> 01:06:40,500
+Yeah.
+
+1734
+01:06:40,500 --> 01:06:42,300
+And he comes out, he's got the...
+
+1735
+01:06:42,300 --> 01:06:43,460
+Did you say health?
+
+1736
+01:06:44,460 --> 01:06:45,300
+Yes.
+
+1737
+01:06:45,300 --> 01:06:46,980
+That's not a word.
+
+1738
+01:06:46,980 --> 01:06:48,660
+There's no health.
+
+1739
+01:06:48,660 --> 01:06:50,100
+Scamming.
+
+1740
+01:06:50,100 --> 01:06:51,540
+Oh.
+
+1741
+01:06:51,540 --> 01:06:52,380
+Oh, sorry.
+
+1742
+01:06:52,380 --> 01:06:54,940
+There's some comedy cause he like makes up a word.
+
+1743
+01:06:58,500 --> 01:07:00,620
+So I gotta say, this might be the best
+
+1744
+01:07:00,620 --> 01:07:03,060
+punk rock music I've ever heard.
+
+1745
+01:07:03,060 --> 01:07:06,300
+It's not as good as American Idiot, but it's close.
+
+1746
+01:07:06,300 --> 01:07:07,980
+It's not perfect, but.
+
+1747
+01:07:13,180 --> 01:07:16,180
+So then Mr. MacFisto goes over and he sits,
+
+1748
+01:07:16,180 --> 01:07:18,260
+I think he sits on Jimmy Kimmel's lap.
+
+1749
+01:07:18,260 --> 01:07:19,100
+Yeah.
+
+1750
+01:07:19,100 --> 01:07:20,420
+And he's just so naughty.
+
+1751
+01:07:20,420 --> 01:07:22,660
+Like he's just being so naughty on TV.
+
+1752
+01:07:25,060 --> 01:07:27,220
+He does, he does not, does he have horns on?
+
+1753
+01:07:27,220 --> 01:07:28,140
+I can't tell.
+
+1754
+01:07:28,140 --> 01:07:28,980
+Yeah, he does, he does.
+
+1755
+01:07:28,980 --> 01:07:30,580
+His hair is also like spiked up.
+
+1756
+01:07:32,180 --> 01:07:35,220
+So my question is, is the audience cheering
+
+1757
+01:07:35,220 --> 01:07:38,140
+because Bono has just shown up or are they cheering
+
+1758
+01:07:38,140 --> 01:07:41,860
+because it's not that Bono's already been on the show
+
+1759
+01:07:41,860 --> 01:07:44,420
+and then Mr. MacFisto arrived.
+
+1760
+01:07:44,420 --> 01:07:46,540
+This is not a cheer for MacFisto.
+
+1761
+01:07:46,540 --> 01:07:48,940
+I don't know, no one in the audience knew.
+
+1762
+01:07:48,940 --> 01:07:51,140
+In the Kimmel audience in Hollywood Boulevard?
+
+1763
+01:07:51,140 --> 01:07:51,980
+I could be wrong.
+
+1764
+01:07:51,980 --> 01:07:54,020
+Maybe it was one person was like, holy shit.
+
+1765
+01:07:54,020 --> 01:07:54,860
+It's Mr. MacFisto.
+
+1766
+01:07:54,860 --> 01:07:55,700
+He's doing MacFisto.
+
+1767
+01:07:55,700 --> 01:07:56,780
+He's doing MacFisto.
+
+1768
+01:07:56,780 --> 01:07:57,620
+Yeah.
+
+1769
+01:07:57,620 --> 01:07:59,300
+This is a question I had in general is like,
+
+1770
+01:07:59,300 --> 01:08:03,820
+can you imagine the, like, okay, you've been obsessed
+
+1771
+01:08:03,820 --> 01:08:06,300
+with MacFisto for a little bit, but you have kind
+
+1772
+01:08:06,300 --> 01:08:07,140
+of an air about it.
+
+1773
+01:08:07,140 --> 01:08:09,540
+You like mentioning it as like, yeah, Mr. MacFisto,
+
+1774
+01:08:09,540 --> 01:08:11,180
+Bono's character.
+
+1775
+01:08:11,180 --> 01:08:14,220
+Can you, can we imagine the character of somebody
+
+1776
+01:08:14,220 --> 01:08:16,500
+who's just like, oh, Mr. MacFisto.
+
+1777
+01:08:17,500 --> 01:08:18,340
+The person who wrote the website.
+
+1778
+01:08:18,340 --> 01:08:19,340
+The person who wrote the website.
+
+1779
+01:08:19,340 --> 01:08:20,700
+I guess so, yeah, yeah.
+
+1780
+01:08:20,700 --> 01:08:23,820
+But like, what are they, like if you left the Zoo TV tour
+
+1781
+01:08:23,820 --> 01:08:25,860
+and what you wanted to talk to your friend about
+
+1782
+01:08:25,860 --> 01:08:27,660
+was MacFisto, what would your tone be?
+
+1783
+01:08:27,660 --> 01:08:30,540
+Like what's an example of a compliment of MacFisto
+
+1784
+01:08:30,540 --> 01:08:32,020
+that isn't confused?
+
+1785
+01:08:32,020 --> 01:08:33,140
+Oh, very good point.
+
+1786
+01:08:34,100 --> 01:08:35,220
+That was so funny.
+
+1787
+01:08:36,980 --> 01:08:38,420
+When he did that devil guy.
+
+1788
+01:08:38,420 --> 01:08:40,900
+I mean, now that was some solid satire.
+
+1789
+01:08:40,900 --> 01:08:41,740
+Yeah.
+
+1790
+01:08:41,740 --> 01:08:45,220
+I mean, I knew he could sing, but he made me laugh too.
+
+1791
+01:08:45,220 --> 01:08:48,060
+But he's one of our great satirists of all time.
+
+1792
+01:08:48,060 --> 01:08:49,220
+Get out of here.
+
+1793
+01:08:49,220 --> 01:08:52,740
+This guy's, he's Frank Sinatra and Oscar Wilde all in one.
+
+1794
+01:08:55,500 --> 01:08:57,420
+Did anyone say that?
+
+1795
+01:08:57,420 --> 01:08:58,260
+That's what it was.
+
+1796
+01:08:58,260 --> 01:09:01,060
+This is a verbatim conversation on the way home
+
+1797
+01:09:01,060 --> 01:09:02,420
+from an arena in 1993.
+
+1798
+01:09:02,420 --> 01:09:04,140
+Oscar Wilde definitely referenced on that website
+
+1799
+01:09:04,140 --> 01:09:06,260
+in regards to inspiration as well.
+
+1800
+01:09:06,260 --> 01:09:07,100
+Oh, certainly.
+
+1801
+01:09:08,180 --> 01:09:11,460
+So yeah, it had to have happened, I think.
+
+1802
+01:09:11,460 --> 01:09:12,820
+So yeah, so anyway, he's been around
+
+1803
+01:09:12,820 --> 01:09:14,300
+and they're flirting with the idea
+
+1804
+01:09:14,300 --> 01:09:16,420
+of doing more Zootv.
+
+1805
+01:09:16,420 --> 01:09:19,140
+But in case I've missed anything, let me know.
+
+1806
+01:09:19,140 --> 01:09:24,060
+But the most exciting thing to me is his connection
+
+1807
+01:09:24,060 --> 01:09:28,180
+to Batman forever, which includes the fact
+
+1808
+01:09:28,180 --> 01:09:32,540
+or the idea that he may have been a villain in the movie.
+
+1809
+01:09:32,540 --> 01:09:33,380
+Oh yeah.
+
+1810
+01:09:33,380 --> 01:09:34,340
+So let's unpack.
+
+1811
+01:09:34,340 --> 01:09:35,740
+We've talked about this a tiny bit,
+
+1812
+01:09:35,740 --> 01:09:39,700
+but have you discovered the reality of this at all?
+
+1813
+01:09:39,700 --> 01:09:43,820
+Do we have any from the source, Schumacher pre-death?
+
+1814
+01:09:43,860 --> 01:09:45,140
+Do we know what are the possible,
+
+1815
+01:09:45,140 --> 01:09:48,620
+what was Mr. McPhisto gonna be doing in Batman forever?
+
+1816
+01:09:48,620 --> 01:09:50,340
+I don't think we know that.
+
+1817
+01:09:50,340 --> 01:09:55,220
+I also suspect that was a casual conversation.
+
+1818
+01:09:55,220 --> 01:09:56,060
+Yeah.
+
+1819
+01:09:56,060 --> 01:09:57,740
+I don't think there's a draft of Batman forever
+
+1820
+01:09:57,740 --> 01:09:59,980
+where McPhisto is a villain.
+
+1821
+01:09:59,980 --> 01:10:00,980
+Yeah, yeah.
+
+1822
+01:10:00,980 --> 01:10:02,540
+This is like, there's a thing on the commentary
+
+1823
+01:10:02,540 --> 01:10:06,980
+for Back to the Future 3 where ZZ Top were convinced
+
+1824
+01:10:06,980 --> 01:10:10,380
+that their car from all their music videos
+
+1825
+01:10:10,420 --> 01:10:14,260
+was gonna be the time machine in Back to the Future 3.
+
+1826
+01:10:14,260 --> 01:10:17,380
+Like somebody, like a manager was just like,
+
+1827
+01:10:17,380 --> 01:10:20,700
+did not understand what was being talked about
+
+1828
+01:10:20,700 --> 01:10:23,980
+and like, yeah, hey, they told me the ZZ Top car
+
+1829
+01:10:23,980 --> 01:10:26,380
+is gonna be the time machine in this one.
+
+1830
+01:10:26,380 --> 01:10:29,380
+Which it is fun to imagine like, yeah, screw it.
+
+1831
+01:10:29,380 --> 01:10:30,940
+I know we've set up a lot of stuff
+
+1832
+01:10:30,940 --> 01:10:33,420
+and we're committed to the mythology of the DeLorean,
+
+1833
+01:10:33,420 --> 01:10:35,460
+but yeah, new car, ZZ Top car.
+
+1834
+01:10:35,460 --> 01:10:36,980
+It's a ZZ Top car now.
+
+1835
+01:10:36,980 --> 01:10:40,660
+I feel like when they would go and sort of sweet talk artists,
+
+1836
+01:10:40,660 --> 01:10:43,020
+cause this is the era of the big artist
+
+1837
+01:10:43,020 --> 01:10:45,420
+doing a big song for a big movie.
+
+1838
+01:10:45,420 --> 01:10:47,060
+I feel like there would always be something
+
+1839
+01:10:47,060 --> 01:10:50,060
+like Coolio is in Batman and Robin briefly.
+
+1840
+01:10:52,460 --> 01:10:53,540
+I'm trying to think.
+
+1841
+01:10:53,540 --> 01:10:56,940
+Batman and Robin also has the Smashing Pumpkin song.
+
+1842
+01:10:56,940 --> 01:10:59,740
+The beginning is the, I forget exactly the long name of it.
+
+1843
+01:10:59,740 --> 01:11:01,060
+It's a good song.
+
+1844
+01:11:01,060 --> 01:11:02,820
+And Billy Corgan's talked about how they were sort of
+
+1845
+01:11:02,820 --> 01:11:04,420
+sweet talked into saying like,
+
+1846
+01:11:04,420 --> 01:11:06,340
+it's gonna be the first song in the credits.
+
+1847
+01:11:06,340 --> 01:11:07,820
+And he was like, oh, that's awesome.
+
+1848
+01:11:07,820 --> 01:11:09,180
+I'm gonna be in a Batman movie.
+
+1849
+01:11:09,180 --> 01:11:10,540
+And he went to see it at the premiere
+
+1850
+01:11:10,540 --> 01:11:12,700
+and he was like, this is a terrible movie.
+
+1851
+01:11:12,700 --> 01:11:14,500
+And then the song starts playing
+
+1852
+01:11:14,500 --> 01:11:16,180
+and I think it's like 45 seconds into it,
+
+1853
+01:11:16,180 --> 01:11:18,340
+it cuts out and another song starts.
+
+1854
+01:11:18,340 --> 01:11:19,900
+And he was like, what the hell?
+
+1855
+01:11:20,860 --> 01:11:22,780
+So I feel like there's some sort of like
+
+1856
+01:11:22,780 --> 01:11:24,660
+negotiating, sweet talking.
+
+1857
+01:11:24,660 --> 01:11:27,380
+Oh, wouldn't it be fun if this happened?
+
+1858
+01:11:27,380 --> 01:11:28,860
+Yeah, yeah, yeah.
+
+1859
+01:11:28,860 --> 01:11:32,420
+And what can we technically say that is technically true?
+
+1860
+01:11:32,420 --> 01:11:33,260
+And Bono Pro is like,
+
+1861
+01:11:33,260 --> 01:11:35,980
+wouldn't it be good if I was in the movie?
+
+1862
+01:11:35,980 --> 01:11:37,140
+Oh, it would be wonderful.
+
+1863
+01:11:37,140 --> 01:11:40,580
+That would be so, let's think about that, huh?
+
+1864
+01:11:40,580 --> 01:11:42,260
+Let's, oh, you know what?
+
+1865
+01:11:42,260 --> 01:11:44,700
+There's two villains already.
+
+1866
+01:11:44,700 --> 01:11:45,820
+It's a little crowded.
+
+1867
+01:11:45,820 --> 01:11:49,580
+So the song you're doing we want.
+
+1868
+01:11:49,580 --> 01:11:53,380
+But oh, what about, he could be in the music video.
+
+1869
+01:11:53,380 --> 01:11:54,660
+You know, wouldn't that be good?
+
+1870
+01:11:54,660 --> 01:11:55,940
+Oh, and then we could put Batman in it.
+
+1871
+01:11:55,940 --> 01:11:58,140
+Oh, and that'll be more time for the character.
+
+1872
+01:11:58,140 --> 01:12:00,780
+And you'd be like, okay, that sounds good.
+
+1873
+01:12:00,780 --> 01:12:02,380
+Really let McPhisto shine.
+
+1874
+01:12:02,380 --> 01:12:04,540
+Yeah, so that is what happened
+
+1875
+01:12:04,540 --> 01:12:09,540
+is that he, Mr. McPhisto has basically an origin story
+
+1876
+01:12:09,940 --> 01:12:13,540
+in this music video for the song that did for Batman Forever.
+
+1877
+01:12:13,540 --> 01:12:14,500
+I watched this today.
+
+1878
+01:12:14,500 --> 01:12:15,740
+I didn't know what I was looking at.
+
+1879
+01:12:15,740 --> 01:12:17,700
+You're telling me this was an origin story?
+
+1880
+01:12:17,700 --> 01:12:19,220
+Yes, so the fly, so.
+
+1881
+01:12:19,220 --> 01:12:21,380
+It was not, I guess I wasn't attuned
+
+1882
+01:12:21,380 --> 01:12:22,580
+to the ins and outs of it.
+
+1883
+01:12:22,580 --> 01:12:27,300
+Yeah, so it's like, it's an animated video.
+
+1884
+01:12:28,220 --> 01:12:30,100
+I don't remember this from the time.
+
+1885
+01:12:30,100 --> 01:12:30,940
+I also say that.
+
+1886
+01:12:30,940 --> 01:12:34,340
+I remember the Seal Kiss from a Rose video pretty well.
+
+1887
+01:12:35,180 --> 01:12:36,700
+That was the bigger hit from the movie.
+
+1888
+01:12:36,700 --> 01:12:38,220
+Oh, for sure.
+
+1889
+01:12:38,220 --> 01:12:43,220
+A video with, that is basically the same shot 70 times.
+
+1890
+01:12:43,740 --> 01:12:44,580
+Right on the rooftop.
+
+1891
+01:12:44,580 --> 01:12:46,420
+Okay, Seal, what if we tried this one
+
+1892
+01:12:46,420 --> 01:12:48,020
+where your arms are wide out
+
+1893
+01:12:48,020 --> 01:12:50,060
+and we swoop down to you and the bat signal?
+
+1894
+01:12:50,060 --> 01:12:52,180
+Okay, now in this next take, your arms are gonna be out
+
+1895
+01:12:52,180 --> 01:12:54,020
+and we're gonna swoop down to you and the bat signal.
+
+1896
+01:12:54,020 --> 01:12:55,340
+I remember it so well, because it was not many shots.
+
+1897
+01:12:55,340 --> 01:12:57,020
+It's like that Mr. Show sketch
+
+1898
+01:12:57,020 --> 01:12:59,060
+where they keep reusing the same.
+
+1899
+01:12:59,060 --> 01:13:01,340
+Oh yeah, the one entrance happens seven times in a row.
+
+1900
+01:13:01,340 --> 01:13:02,180
+Yeah, yeah, yeah.
+
+1901
+01:13:02,180 --> 01:13:04,220
+Oh, oh, oh, yeah, yeah, yeah.
+
+1902
+01:13:05,060 --> 01:13:06,020
+Oh, yeah, yeah, yeah.
+
+1903
+01:13:06,020 --> 01:13:09,500
+So, yeah, so I remember that, but I don't remember this.
+
+1904
+01:13:09,500 --> 01:13:11,620
+So it's like a very, I don't know.
+
+1905
+01:13:11,620 --> 01:13:13,260
+It's like the animation's okay.
+
+1906
+01:13:13,260 --> 01:13:15,300
+It's kind of an interesting style, but it's very 90s.
+
+1907
+01:13:15,300 --> 01:13:16,460
+It's like Spawn.
+
+1908
+01:13:16,460 --> 01:13:17,940
+It does look like this, very good.
+
+1909
+01:13:17,940 --> 01:13:20,540
+It looks like the Spawn cartoon from the 90s.
+
+1910
+01:13:20,540 --> 01:13:23,580
+And then it's just clips from the movie.
+
+1911
+01:13:23,580 --> 01:13:28,580
+So it starts with McFisto and he's playing with you two
+
+1912
+01:13:29,300 --> 01:13:31,220
+and they're on the Zoo TV Tour.
+
+1913
+01:13:31,220 --> 01:13:33,540
+The Zoo TV Tour makes an appearance in this.
+
+1914
+01:13:33,540 --> 01:13:36,180
+Despite it being long over by this point.
+
+1915
+01:13:36,180 --> 01:13:37,380
+Right.
+
+1916
+01:13:37,380 --> 01:13:42,380
+So at this point, it is pretty confusing.
+
+1917
+01:13:42,380 --> 01:13:44,300
+There's a disco ball on a crane.
+
+1918
+01:13:45,260 --> 01:13:46,940
+Which I don't, again, what is it saying?
+
+1919
+01:13:46,940 --> 01:13:47,780
+What is the-
+
+1920
+01:13:47,780 --> 01:13:51,620
+Did we say that Mr. McFisto's phone is disco ball studded?
+
+1921
+01:13:51,620 --> 01:13:52,980
+I don't think we said that detail.
+
+1922
+01:13:52,980 --> 01:13:53,820
+Right, you're right.
+
+1923
+01:13:53,820 --> 01:13:55,980
+So the one he would use on stage is disco ball studded,
+
+1924
+01:13:55,980 --> 01:13:56,820
+which is great.
+
+1925
+01:13:56,820 --> 01:13:59,380
+So that's a big part of the McFisto aesthetic.
+
+1926
+01:13:59,380 --> 01:14:01,500
+So yeah, you're going through and they're playing on like,
+
+1927
+01:14:01,500 --> 01:14:02,380
+even though it's Zoo TV,
+
+1928
+01:14:02,380 --> 01:14:04,980
+they're playing on a rooftop in Gotham City.
+
+1929
+01:14:04,980 --> 01:14:06,580
+With no audience?
+
+1930
+01:14:06,580 --> 01:14:08,100
+With seemingly no audience.
+
+1931
+01:14:08,100 --> 01:14:10,380
+So in between clips from the movie,
+
+1932
+01:14:10,380 --> 01:14:13,140
+now we get the origin story.
+
+1933
+01:14:13,140 --> 01:14:14,420
+Bono's character, the Fly,
+
+1934
+01:14:14,420 --> 01:14:16,860
+which now apparently is like a real fly.
+
+1935
+01:14:16,860 --> 01:14:17,940
+Oh, who's that?
+
+1936
+01:14:17,940 --> 01:14:22,940
+He's climbing down a sign in Gotham on his hands and feet,
+
+1937
+01:14:23,780 --> 01:14:25,740
+like Spider-Man, essentially.
+
+1938
+01:14:25,740 --> 01:14:27,100
+So he's doing that.
+
+1939
+01:14:27,100 --> 01:14:29,220
+And then he gets, as we go along,
+
+1940
+01:14:29,220 --> 01:14:33,020
+he gets hit by the Batmobile, I believe.
+
+1941
+01:14:33,020 --> 01:14:34,740
+And I guess I should have done time code for you
+
+1942
+01:14:34,740 --> 01:14:37,540
+because the music video is a little disorienting.
+
+1943
+01:14:37,540 --> 01:14:39,340
+But he gets hit by the Batmobile
+
+1944
+01:14:39,340 --> 01:14:41,300
+and it creates Mr. McFisto.
+
+1945
+01:14:42,620 --> 01:14:44,100
+How?
+
+1946
+01:14:44,100 --> 01:14:44,940
+Well-
+
+1947
+01:14:44,940 --> 01:14:47,900
+Well, the Fly dies and goes to hell, I guess.
+
+1948
+01:14:47,900 --> 01:14:49,300
+And comes back as a little devil.
+
+1949
+01:14:49,300 --> 01:14:50,140
+Yeah, he died.
+
+1950
+01:14:51,460 --> 01:14:52,860
+Explain the science.
+
+1951
+01:14:52,860 --> 01:14:54,940
+I was trying, I remember watching this.
+
+1952
+01:14:54,940 --> 01:14:56,620
+I think like a couple of years ago,
+
+1953
+01:14:56,620 --> 01:14:59,220
+I sat down and really watched Batman Forever
+
+1954
+01:14:59,220 --> 01:15:00,940
+from beginning to end.
+
+1955
+01:15:00,940 --> 01:15:03,300
+And I looked at the music video for the song.
+
+1956
+01:15:03,300 --> 01:15:04,540
+The criterion, by the way.
+
+1957
+01:15:04,540 --> 01:15:05,380
+The criterion.
+
+1958
+01:15:05,380 --> 01:15:06,380
+Of both.
+
+1959
+01:15:08,540 --> 01:15:13,300
+The music video of Hold Me, Throw Me, Kiss Me, Kill Me,
+
+1960
+01:15:13,300 --> 01:15:15,540
+it's part of that director series.
+
+1961
+01:15:15,540 --> 01:15:18,780
+They put out the music video of like Michelle Gondry.
+
+1962
+01:15:18,780 --> 01:15:22,420
+Actually, though, what I was curious who directed it.
+
+1963
+01:15:22,420 --> 01:15:25,180
+The director is a guy, Kevin Godley,
+
+1964
+01:15:25,180 --> 01:15:28,060
+who was in 10CC.
+
+1965
+01:15:28,060 --> 01:15:30,700
+He's one of the members of 10CC, who I love.
+
+1966
+01:15:30,700 --> 01:15:33,540
+And the spin-off group, Godley and Cream,
+
+1967
+01:15:33,540 --> 01:15:34,860
+who I had no idea-
+
+1968
+01:15:34,860 --> 01:15:35,700
+It's him.
+
+1969
+01:15:35,700 --> 01:15:36,540
+Yeah, yes.
+
+1970
+01:15:36,540 --> 01:15:38,100
+He directed this music video.
+
+1971
+01:15:38,100 --> 01:15:38,940
+So it kind of is.
+
+1972
+01:15:38,940 --> 01:15:40,780
+I actually was thinking like it sort of works
+
+1973
+01:15:40,780 --> 01:15:41,620
+as one of these.
+
+1974
+01:15:41,620 --> 01:15:45,540
+And I didn't know Godley and Cream directing duo,
+
+1975
+01:15:45,540 --> 01:15:49,340
+major music videos, Herbie Hancock's Rocket,
+
+1976
+01:15:49,340 --> 01:15:51,580
+Girls on Film, Duran Duran.
+
+1977
+01:15:51,580 --> 01:15:53,580
+Everybody Have Fun Tonight, Wang Chung,
+
+1978
+01:15:53,580 --> 01:15:55,260
+with the strobe effect.
+
+1979
+01:15:55,260 --> 01:15:57,860
+They actually, I was watching music videos by these guys
+
+1980
+01:15:57,860 --> 01:15:59,020
+for a bunch of the afternoon.
+
+1981
+01:15:59,020 --> 01:16:01,340
+And this is a very good collective.
+
+1982
+01:16:01,340 --> 01:16:02,180
+The real deal.
+
+1983
+01:16:02,180 --> 01:16:03,020
+So you say that, but-
+
+1984
+01:16:03,020 --> 01:16:03,860
+Yeah.
+
+1985
+01:16:03,860 --> 01:16:04,700
+Yeah, yeah.
+
+1986
+01:16:04,700 --> 01:16:05,820
+And this video seems cool.
+
+1987
+01:16:05,820 --> 01:16:06,660
+The video's fun.
+
+1988
+01:16:06,660 --> 01:16:09,620
+I mean, this is like the tail end of music videos
+
+1989
+01:16:09,620 --> 01:16:11,060
+having real budget.
+
+1990
+01:16:11,060 --> 01:16:14,500
+This is a few minutes of actual animation.
+
+1991
+01:16:14,500 --> 01:16:16,380
+Well, they have budgets now, but they also have to,
+
+1992
+01:16:16,380 --> 01:16:18,900
+you just have to stare at nice headphones
+
+1993
+01:16:18,900 --> 01:16:20,380
+for 10 full seconds.
+
+1994
+01:16:20,380 --> 01:16:21,220
+Oh, sure.
+
+1995
+01:16:21,220 --> 01:16:22,060
+Or a cell phone.
+
+1996
+01:16:22,300 --> 01:16:24,940
+The only way you can get a giant music video
+
+1997
+01:16:24,940 --> 01:16:27,860
+is a bit like really blatant product placement.
+
+1998
+01:16:27,860 --> 01:16:28,700
+Yeah.
+
+1999
+01:16:28,700 --> 01:16:30,340
+So what also was interesting about this
+
+2000
+01:16:30,340 --> 01:16:33,900
+is that the scene of you two playing on top of the building
+
+2001
+01:16:33,900 --> 01:16:37,740
+is happening concurrently with the start of the movie,
+
+2002
+01:16:37,740 --> 01:16:38,580
+with the safe.
+
+2003
+01:16:38,580 --> 01:16:40,140
+So if you remember Batman Forever,
+
+2004
+01:16:40,140 --> 01:16:42,620
+the start of it is like two faces going into a rob,
+
+2005
+01:16:42,620 --> 01:16:44,500
+a big vault at the top of a building.
+
+2006
+01:16:44,500 --> 01:16:46,820
+And he locks Batman in a security guard
+
+2007
+01:16:46,820 --> 01:16:49,220
+in this like circular vault thing.
+
+2008
+01:16:49,220 --> 01:16:51,940
+And then he hauls it out essentially of the building
+
+2009
+01:16:52,820 --> 01:16:53,740
+like it's flying through Gotham with it.
+
+2010
+01:16:53,740 --> 01:16:54,620
+It's happening.
+
+2011
+01:16:54,620 --> 01:16:57,180
+They've animated it and it's happening
+
+2012
+01:16:57,180 --> 01:16:59,180
+while you two is playing.
+
+2013
+01:16:59,180 --> 01:17:04,180
+So right here, you can see the vault going up in the air
+
+2014
+01:17:04,580 --> 01:17:06,860
+while this is happening, it's cutting to it.
+
+2015
+01:17:06,860 --> 01:17:08,500
+So when you're watching Batman Forever,
+
+2016
+01:17:08,500 --> 01:17:10,540
+just know off screen, you two is playing.
+
+2017
+01:17:10,540 --> 01:17:11,900
+You two is playing.
+
+2018
+01:17:11,900 --> 01:17:13,740
+But not ono.
+
+2019
+01:17:13,740 --> 01:17:14,820
+Roll right.
+
+2020
+01:17:14,820 --> 01:17:15,900
+McPhisto.
+
+2021
+01:17:15,900 --> 01:17:17,100
+McPhisto's there.
+
+2022
+01:17:17,100 --> 01:17:17,940
+Yes.
+
+2023
+01:17:17,940 --> 01:17:21,860
+But Larry Mullen is mere feet away from the shot.
+
+2024
+01:17:22,780 --> 01:17:24,300
+Larry Mullen Jr. is there.
+
+2025
+01:17:24,300 --> 01:17:26,580
+Star of the train movie with Donald Sutherland
+
+2026
+01:17:26,580 --> 01:17:27,900
+that I have yet to watch.
+
+2027
+01:17:27,900 --> 01:17:28,740
+What?
+
+2028
+01:17:28,740 --> 01:17:30,820
+He stars in a movie with Donald Sutherland about a train
+
+2029
+01:17:30,820 --> 01:17:33,700
+that he completely financed himself.
+
+2030
+01:17:33,700 --> 01:17:36,580
+He financed a movie that he wanted to be the star of too?
+
+2031
+01:17:36,580 --> 01:17:37,780
+That's right.
+
+2032
+01:17:37,780 --> 01:17:39,380
+That's kind of cute.
+
+2033
+01:17:39,380 --> 01:17:40,980
+Also like Paul T. Goldman.
+
+2034
+01:17:40,980 --> 01:17:41,820
+Very, yeah.
+
+2035
+01:17:41,820 --> 01:17:42,780
+I guess he didn't finance it.
+
+2036
+01:17:42,780 --> 01:17:44,020
+So the bat symbol at a certain point
+
+2037
+01:17:44,020 --> 01:17:46,700
+turns into the McPhisto symbol.
+
+2038
+01:17:47,540 --> 01:17:50,340
+And then McPhisto sort of roars to life here.
+
+2039
+01:17:50,340 --> 01:17:52,060
+This is a good, on YouTube,
+
+2040
+01:17:52,060 --> 01:17:54,580
+there is now a good copy of this music video
+
+2041
+01:17:54,580 --> 01:17:56,780
+because I remember finding it a couple years ago
+
+2042
+01:17:56,780 --> 01:18:00,180
+and having to watch like a clipped weird aspect ratio
+
+2043
+01:18:00,180 --> 01:18:03,100
+version on daily motion or something
+
+2044
+01:18:03,100 --> 01:18:07,020
+because it wasn't like up in full quality.
+
+2045
+01:18:07,020 --> 01:18:10,260
+So the fly like comes back here
+
+2046
+01:18:10,260 --> 01:18:12,780
+and then he fights McPhisto
+
+2047
+01:18:12,780 --> 01:18:15,860
+and then you two are shooting fire out of their guitars
+
+2048
+01:18:17,660 --> 01:18:18,660
+at this point.
+
+2049
+01:18:18,900 --> 01:18:22,140
+And then there's a McPhisto mobile that happened here
+
+2050
+01:18:22,140 --> 01:18:25,260
+and it is a gross, I would say it's a gross car.
+
+2051
+01:18:25,260 --> 01:18:27,460
+It is a car with fingers.
+
+2052
+01:18:27,460 --> 01:18:28,300
+Oh.
+
+2053
+01:18:28,300 --> 01:18:29,140
+Did you see this?
+
+2054
+01:18:29,140 --> 01:18:29,980
+Whoa.
+
+2055
+01:18:29,980 --> 01:18:32,180
+It is a gross like car with like kind of a mouth with teeth
+
+2056
+01:18:32,180 --> 01:18:35,460
+and it has like by the headlights has fingers
+
+2057
+01:18:36,380 --> 01:18:39,540
+and then has like sort of ear kind of bat mobile style ears
+
+2058
+01:18:39,540 --> 01:18:41,100
+and it's very, it's yellow.
+
+2059
+01:18:41,100 --> 01:18:43,980
+So McPhisto has his own bat mobile
+
+2060
+01:18:43,980 --> 01:18:46,140
+that is now Canon in the bat universe.
+
+2061
+01:18:46,140 --> 01:18:48,180
+And it fly, by the way, it flies as well.
+
+2062
+01:18:48,580 --> 01:18:50,100
+So the Mac mobile.
+
+2063
+01:18:50,100 --> 01:18:51,660
+It's a Mac mobile, yes.
+
+2064
+01:18:52,820 --> 01:18:56,100
+And then here's the, this is all by the way
+
+2065
+01:18:56,100 --> 01:18:57,060
+a little bit out of order
+
+2066
+01:18:57,060 --> 01:18:59,380
+because this is when the fly gets hit.
+
+2067
+01:18:59,380 --> 01:19:01,580
+This is the pivotal moment.
+
+2068
+01:19:01,580 --> 01:19:02,620
+Oh, I guess he actually, excuse me,
+
+2069
+01:19:02,620 --> 01:19:04,220
+he gets hit by a different car.
+
+2070
+01:19:04,220 --> 01:19:07,180
+I watch a different version.
+
+2071
+01:19:07,180 --> 01:19:08,740
+Elvis kills him.
+
+2072
+01:19:08,740 --> 01:19:10,340
+Elvis kills the fly, excuse me.
+
+2073
+01:19:10,340 --> 01:19:12,300
+So that's, so it's sort of out of order
+
+2074
+01:19:12,300 --> 01:19:16,980
+and then McPhisto and his cronies in you two
+
+2075
+01:19:19,140 --> 01:19:22,140
+like end up like kind of fighting Batman
+
+2076
+01:19:22,140 --> 01:19:26,020
+but we just basically see the end of Batman forever.
+
+2077
+01:19:26,020 --> 01:19:30,380
+And then a bunch of Batman playing in a symphony orchestra
+
+2078
+01:19:30,380 --> 01:19:34,300
+while Mr. McPhisto, I assume like dances with Chase Meridian
+
+2079
+01:19:34,300 --> 01:19:37,140
+who's got a gag on like.
+
+2080
+01:19:37,140 --> 01:19:38,340
+This is very good.
+
+2081
+01:19:38,340 --> 01:19:41,900
+And then a full all violin players are Batman.
+
+2082
+01:19:41,900 --> 01:19:42,740
+And this is good.
+
+2083
+01:19:42,740 --> 01:19:44,340
+At the end, McPhisto keeps,
+
+2084
+01:19:44,340 --> 01:19:45,780
+he takes off an outfit and he's Batman.
+
+2085
+01:19:45,780 --> 01:19:48,460
+And then Batman takes off the outfit and he's McPhisto
+
+2086
+01:19:48,460 --> 01:19:51,580
+and it keeps going back and forth for a little bit.
+
+2087
+01:19:51,580 --> 01:19:54,340
+And then bats show up and he ends up as McPhisto
+
+2088
+01:19:54,340 --> 01:19:55,820
+on the top of the building again.
+
+2089
+01:19:55,820 --> 01:19:57,980
+And then there's just sort of a drawing
+
+2090
+01:19:57,980 --> 01:20:00,140
+of like it's a comic book page.
+
+2091
+01:20:00,140 --> 01:20:01,180
+What does this mean?
+
+2092
+01:20:01,180 --> 01:20:05,820
+Is Batman Bono's character, Mr. McPhisto or is he Batman?
+
+2093
+01:20:05,820 --> 01:20:08,580
+That's my theory is that these were like,
+
+2094
+01:20:08,580 --> 01:20:11,220
+these were things to make Bono feel good.
+
+2095
+01:20:11,220 --> 01:20:12,060
+No, you're part of it.
+
+2096
+01:20:12,060 --> 01:20:12,900
+Instead of being the villain.
+
+2097
+01:20:12,900 --> 01:20:13,740
+It's good.
+
+2098
+01:20:13,740 --> 01:20:14,560
+In the movie.
+
+2099
+01:20:14,560 --> 01:20:15,400
+Yes.
+
+2100
+01:20:16,400 --> 01:20:17,920
+This is the thing of the franchise.
+
+2101
+01:20:17,920 --> 01:20:21,400
+Yes, Prince, we'll put your music all over the movie.
+
+2102
+01:20:21,400 --> 01:20:24,960
+It won't be a very disconnected soundtrack album
+
+2103
+01:20:24,960 --> 01:20:26,360
+that just has the bat symbol.
+
+2104
+01:20:26,360 --> 01:20:29,440
+No, no, no, you will be a vibrant presence in this film.
+
+2105
+01:20:29,440 --> 01:20:30,280
+Yeah.
+
+2106
+01:20:30,280 --> 01:20:31,600
+Okay, now just don't tell him.
+
+2107
+01:20:31,600 --> 01:20:32,880
+And then like, you'll get to be,
+
+2108
+01:20:32,880 --> 01:20:35,280
+you could dress up in the video.
+
+2109
+01:20:35,280 --> 01:20:36,800
+You can be in the video.
+
+2110
+01:20:36,800 --> 01:20:38,760
+We want you to handle the video.
+
+2111
+01:20:38,760 --> 01:20:40,480
+That's what you know how to do.
+
+2112
+01:20:40,480 --> 01:20:41,320
+Uh-huh.
+
+2113
+01:20:41,320 --> 01:20:43,080
+There's nobody better than you, Prince.
+
+2114
+01:20:43,120 --> 01:20:46,680
+So that adds a lot to the mythology of Batman Forever.
+
+2115
+01:20:46,680 --> 01:20:49,320
+And believe me, it factors into my Batman Forever too.
+
+2116
+01:20:49,320 --> 01:20:52,440
+Oh, is this a little preview?
+
+2117
+01:20:52,440 --> 01:20:56,160
+So you're gonna keep everything in the mythology around.
+
+2118
+01:20:56,160 --> 01:20:58,200
+Right, cause McPhisto is in the universe.
+
+2119
+01:20:58,200 --> 01:20:59,040
+Yeah, you're right.
+
+2120
+01:20:59,040 --> 01:21:02,640
+So I've leaked on a little bit of my ideas for it,
+
+2121
+01:21:02,640 --> 01:21:04,760
+but I will say here and now,
+
+2122
+01:21:04,760 --> 01:21:08,080
+Mr. McPhisto is in Batman Forever, my Batman Forever too.
+
+2123
+01:21:09,560 --> 01:21:12,080
+And he is villainous.
+
+2124
+01:21:12,080 --> 01:21:13,560
+Now, how do you feel about,
+
+2125
+01:21:13,560 --> 01:21:16,440
+DC has done a run of comics where it's like,
+
+2126
+01:21:16,440 --> 01:21:20,600
+comics series takes place right after Batman 89,
+
+2127
+01:21:20,600 --> 01:21:22,840
+right after Batman 66.
+
+2128
+01:21:22,840 --> 01:21:25,600
+Like same continuity playing around in that.
+
+2129
+01:21:25,600 --> 01:21:27,040
+Would you accept that?
+
+2130
+01:21:27,040 --> 01:21:30,280
+If they allow me to write a comic that is Batman?
+
+2131
+01:21:30,280 --> 01:21:31,120
+A comic continuation of Batman.
+
+2132
+01:21:31,120 --> 01:21:32,760
+I will say no deal.
+
+2133
+01:21:32,760 --> 01:21:34,120
+Oh wow, you're playing hardball.
+
+2134
+01:21:34,120 --> 01:21:35,960
+I will say movie or nothing.
+
+2135
+01:21:35,960 --> 01:21:36,960
+Okay, fair enough.
+
+2136
+01:21:36,960 --> 01:21:39,040
+$200 million budget or nothing.
+
+2137
+01:21:39,040 --> 01:21:40,680
+Fair enough. 200 plus.
+
+2138
+01:21:40,960 --> 01:21:43,120
+It has to be the fourth or fifth highest grossing movie
+
+2139
+01:21:43,120 --> 01:21:44,880
+to turn a profit.
+
+2140
+01:21:44,880 --> 01:21:48,600
+That's the only terms I will agree to.
+
+2141
+01:21:49,640 --> 01:21:51,280
+The B way of water.
+
+2142
+01:21:51,280 --> 01:21:53,680
+I don't wanna get too many spoilers out of you,
+
+2143
+01:21:53,680 --> 01:21:58,680
+but does this film also have a guy named Carl Michelson
+
+2144
+01:21:59,120 --> 01:22:03,200
+who is Batman's super cool next best friend
+
+2145
+01:22:03,200 --> 01:22:06,160
+who has great taste in rock and roll music
+
+2146
+01:22:06,160 --> 01:22:09,360
+and who maybe ends up in a little bit of a relationship
+
+2147
+01:22:09,360 --> 01:22:10,960
+with Dr. Chase Meridian?
+
+2148
+01:22:12,760 --> 01:22:17,320
+The name might not be that name, but you're warm.
+
+2149
+01:22:17,320 --> 01:22:19,560
+It might be in the spirit of,
+
+2150
+01:22:19,560 --> 01:22:21,480
+let's say Dr. Carl Michelson.
+
+2151
+01:22:21,480 --> 01:22:22,320
+Dr. Carl Michelson.
+
+2152
+01:22:22,320 --> 01:22:27,320
+That gets Dr. Carl a little bit closer to Chase Meridian,
+
+2153
+01:22:27,520 --> 01:22:28,360
+might be a coworker.
+
+2154
+01:22:28,360 --> 01:22:30,320
+He's an associate of Dr. Chase Meridian
+
+2155
+01:22:30,320 --> 01:22:32,200
+who happens to play a little rock and roll guitar
+
+2156
+01:22:32,200 --> 01:22:33,400
+on the side.
+
+2157
+01:22:33,400 --> 01:22:36,720
+And does he play rock and roll guitar with Batman and Robin
+
+2158
+01:22:36,720 --> 01:22:39,480
+and Mr. McPhisto at certain points in the movie?
+
+2159
+01:22:39,480 --> 01:22:40,320
+Yes.
+
+2160
+01:22:40,320 --> 01:22:41,640
+Yes, he does.
+
+2161
+01:22:41,640 --> 01:22:43,720
+Oh my God, you're amazing.
+
+2162
+01:22:43,720 --> 01:22:46,240
+Prince would come to your birthday party any day.
+
+2163
+01:22:46,240 --> 01:22:47,320
+I know him.
+
+2164
+01:22:47,320 --> 01:22:49,000
+I'm his therapist.
+
+2165
+01:22:49,000 --> 01:22:50,480
+Let me know when your birthday is.
+
+2166
+01:22:50,480 --> 01:22:52,240
+I'll make sure he's there.
+
+2167
+01:22:52,240 --> 01:22:53,080
+That might or may not be a scene.
+
+2168
+01:22:53,080 --> 01:22:55,040
+Now can I suck your fucking dick?
+
+2169
+01:22:57,320 --> 01:23:01,680
+There may or may not be a scene where this character
+
+2170
+01:23:01,680 --> 01:23:04,640
+that might be related to me gets his dick sucked
+
+2171
+01:23:04,880 --> 01:23:06,760
+by Mr. McPhisto.
+
+2172
+01:23:06,760 --> 01:23:07,600
+By the devil?
+
+2173
+01:23:07,600 --> 01:23:08,440
+By the devil.
+
+2174
+01:23:08,440 --> 01:23:10,440
+By the devil as Agent Rockstar?
+
+2175
+01:23:10,440 --> 01:23:12,680
+By the farm cheeky devil.
+
+2176
+01:23:13,640 --> 01:23:14,480
+That may or may not.
+
+2177
+01:23:14,480 --> 01:23:17,040
+Hey, look, look, I don't like the guy.
+
+2178
+01:23:17,040 --> 01:23:19,160
+I don't approve of his views,
+
+2179
+01:23:19,160 --> 01:23:21,560
+but given the immense power of the devil,
+
+2180
+01:23:21,560 --> 01:23:23,520
+can we not agree that he'd probably be able
+
+2181
+01:23:23,520 --> 01:23:25,680
+to give the best blow job in the world?
+
+2182
+01:23:25,680 --> 01:23:27,400
+Oh my God, how did he make things happen
+
+2183
+01:23:27,400 --> 01:23:28,440
+over all these years?
+
+2184
+01:23:29,680 --> 01:23:31,360
+He seduced, the devil seduces you.
+
+2185
+01:23:31,360 --> 01:23:33,000
+How did he grease the palms
+
+2186
+01:23:33,000 --> 01:23:35,560
+of all the most powerful people on earth?
+
+2187
+01:23:35,560 --> 01:23:36,840
+It has to be.
+
+2188
+01:23:36,840 --> 01:23:38,400
+Sex is evil, we know that.
+
+2189
+01:23:39,440 --> 01:23:41,960
+That's basically the mission statement in this podcast.
+
+2190
+01:23:41,960 --> 01:23:42,800
+No, it's not.
+
+2191
+01:23:42,800 --> 01:23:47,720
+Why only the devil could dream of something so disgusting?
+
+2192
+01:23:47,720 --> 01:23:50,480
+When you make that big pitch with either a deck,
+
+2193
+01:23:50,480 --> 01:23:51,320
+a slight shoot deck.
+
+2194
+01:23:51,320 --> 01:23:52,160
+To James.
+
+2195
+01:23:52,160 --> 01:23:56,240
+Or boards, yeah, are you going to include
+
+2196
+01:23:56,240 --> 01:24:00,320
+the detail of you getting topped from rock and roll devil?
+
+2197
+01:24:01,560 --> 01:24:02,400
+Not him.
+
+2198
+01:24:02,400 --> 01:24:04,160
+Dr. Michael Carl, Carl Michael.
+
+2199
+01:24:04,160 --> 01:24:05,600
+Yeah, he's already.
+
+2200
+01:24:05,600 --> 01:24:07,960
+Excuse me, excuse me.
+
+2201
+01:24:07,960 --> 01:24:12,360
+Jason, when I'm pitching to the twisted mind of James Gunn,
+
+2202
+01:24:12,360 --> 01:24:14,560
+I'm leading with that, brother.
+
+2203
+01:24:14,560 --> 01:24:15,680
+Are you kidding me?
+
+2204
+01:24:15,680 --> 01:24:17,240
+He's kidding, that's music to his ears.
+
+2205
+01:24:17,240 --> 01:24:18,920
+That's rock and roll music to his ears.
+
+2206
+01:24:18,920 --> 01:24:21,640
+You saw the trailers for Suicide Squad.
+
+2207
+01:24:21,640 --> 01:24:23,160
+I don't know if you know, James Gunn actually uses
+
+2208
+01:24:23,160 --> 01:24:25,120
+rock and roll music in his movies.
+
+2209
+01:24:25,120 --> 01:24:27,760
+Even though they're like hero action movies.
+
+2210
+01:24:27,760 --> 01:24:29,200
+I've heard some rumblings about that.
+
+2211
+01:24:29,200 --> 01:24:32,320
+He knows Zuroppa, he listen to Zuroppa.
+
+2212
+01:24:33,160 --> 01:24:38,160
+You're gonna bring, you bring like a devil head,
+
+2213
+01:24:38,240 --> 01:24:40,600
+like a Halloween mask to the pitch
+
+2214
+01:24:40,600 --> 01:24:42,840
+and you hide your speaker that you're using right now
+
+2215
+01:24:42,840 --> 01:24:45,480
+in there and it's just like,
+
+2216
+01:24:46,520 --> 01:24:49,760
+and you just enact that in the pitch for 10 minutes.
+
+2217
+01:24:49,760 --> 01:24:50,880
+Oh sure, yeah, yeah, yeah.
+
+2218
+01:24:50,880 --> 01:24:52,200
+And then you stop and say,
+
+2219
+01:24:52,200 --> 01:24:56,080
+now that is one third of the amount of the blow job seen.
+
+2220
+01:24:56,080 --> 01:24:57,640
+Just in, I just know you have other meetings
+
+2221
+01:24:57,640 --> 01:24:58,480
+to get through.
+
+2222
+01:24:58,480 --> 01:24:59,480
+And then standing, yeah, applause.
+
+2223
+01:24:59,480 --> 01:25:02,040
+James stands up and he applauds me.
+
+2224
+01:25:02,720 --> 01:25:03,560
+You're the kind of freak that I need.
+
+2225
+01:25:03,560 --> 01:25:05,680
+Stands up reveals that he's rock hard.
+
+2226
+01:25:07,360 --> 01:25:10,640
+I was very entertained and now I'm in, I'm very aroused.
+
+2227
+01:25:10,640 --> 01:25:12,760
+I'll have to excuse myself
+
+2228
+01:25:12,760 --> 01:25:15,400
+to the DC executives restroom.
+
+2229
+01:25:15,400 --> 01:25:17,480
+Finally getting some of that nine songs,
+
+2230
+01:25:17,480 --> 01:25:21,400
+some of that short bus energy of like graphic scenes
+
+2231
+01:25:21,400 --> 01:25:22,760
+into the DC universe.
+
+2232
+01:25:22,760 --> 01:25:24,280
+Yeah, well that's what it was missing.
+
+2233
+01:25:24,280 --> 01:25:26,120
+It's where he's gotta take it.
+
+2234
+01:25:26,120 --> 01:25:26,960
+Yeah, he's gotta shake it up.
+
+2235
+01:25:26,960 --> 01:25:27,800
+He's gotta be bold.
+
+2236
+01:25:27,800 --> 01:25:31,040
+Troma, twisted trauma stuff in the DC universe.
+
+2237
+01:25:31,040 --> 01:25:33,240
+Yeah, well this is where Batman Forever 2
+
+2238
+01:25:33,240 --> 01:25:36,320
+featuring Mr. McPhisto is gonna be perfect.
+
+2239
+01:25:36,320 --> 01:25:39,000
+Anything we didn't get to in the McPhisto verse.
+
+2240
+01:25:39,000 --> 01:25:40,880
+There's a lot, but we have to be done.
+
+2241
+01:25:40,880 --> 01:25:43,120
+Yeah, yes, you do have more.
+
+2242
+01:25:43,120 --> 01:25:44,920
+Yeah, but no, I mean we get the highlights.
+
+2243
+01:25:44,920 --> 01:25:45,760
+Do you have anything?
+
+2244
+01:25:45,760 --> 01:25:46,600
+No, we get the highlights.
+
+2245
+01:25:46,600 --> 01:25:48,280
+I actually have a quick hit that he,
+
+2246
+01:25:48,280 --> 01:25:52,000
+the last thing in like McPhisto quotes on that website
+
+2247
+01:25:52,000 --> 01:25:54,800
+is that he did a little,
+
+2248
+01:25:54,800 --> 01:25:57,000
+you may recognize the song when I start singing.
+
+2249
+01:25:57,000 --> 01:25:59,920
+He did a like then current song,
+
+2250
+01:25:59,920 --> 01:26:02,960
+guess who's back, back again.
+
+2251
+01:26:02,960 --> 01:26:06,240
+McPhisto's back, tell a friend.
+
+2252
+01:26:07,440 --> 01:26:09,720
+Another, that's an alter ego situation.
+
+2253
+01:26:09,720 --> 01:26:10,560
+Well, I was gonna say actually,
+
+2254
+01:26:10,560 --> 01:26:12,240
+you know what the last thing I have is that
+
+2255
+01:26:12,240 --> 01:26:16,400
+Mr. McPhisto did make a like best top 10 alter ego list
+
+2256
+01:26:16,400 --> 01:26:17,640
+in Time Magazine.
+
+2257
+01:26:17,640 --> 01:26:18,480
+Oh yes.
+
+2258
+01:26:18,480 --> 01:26:19,300
+Did you find that?
+
+2259
+01:26:19,300 --> 01:26:21,200
+I did, I did.
+
+2260
+01:26:21,200 --> 01:26:23,520
+Well, and I, well anything you wanna say,
+
+2261
+01:26:23,520 --> 01:26:25,520
+just don't mention number one
+
+2262
+01:26:25,520 --> 01:26:27,680
+because I might have a little,
+
+2263
+01:26:27,680 --> 01:26:29,720
+anybody else you wanna shout out though?
+
+2264
+01:26:30,560 --> 01:26:31,960
+Colbert's on the list,
+
+2265
+01:26:31,960 --> 01:26:34,800
+Andy Kaufman, Tony Clifton are on the list,
+
+2266
+01:26:34,800 --> 01:26:36,360
+Sergeant Pepper on the list,
+
+2267
+01:26:36,360 --> 01:26:37,680
+all the people we mentioned.
+
+2268
+01:26:37,680 --> 01:26:38,520
+Yeah.
+
+2269
+01:26:38,520 --> 01:26:39,920
+Slim Shady, yes.
+
+2270
+01:26:39,920 --> 01:26:41,800
+Hannah Montana, Miley Cyrus of course.
+
+2271
+01:26:41,800 --> 01:26:42,640
+Oh sure, oh sure.
+
+2272
+01:26:42,640 --> 01:26:45,560
+Oh yeah, if there's anyone you liked on this list.
+
+2273
+01:26:45,560 --> 01:26:48,480
+Well, there is and I think now that we've opened up
+
+2274
+01:26:48,480 --> 01:26:51,480
+the floodgates that rock star alter egos
+
+2275
+01:26:51,480 --> 01:26:54,220
+count as theme parks and they do.
+
+2276
+01:26:55,160 --> 01:26:59,080
+I would just, I would like the next one in this series
+
+2277
+01:26:59,080 --> 01:27:03,080
+to introduce himself, question mark?
+
+2278
+01:27:03,080 --> 01:27:04,280
+Please, yeah.
+
+2279
+01:27:04,280 --> 01:27:06,760
+Ladies and gentlemen, Chris Gaines.
+
+2280
+01:27:07,720 --> 01:27:11,320
+Ooh, what a tease.
+
+2281
+01:27:11,320 --> 01:27:12,160
+Wow.
+
+2282
+01:27:13,200 --> 01:27:14,640
+Chris Gaines you say,
+
+2283
+01:27:15,840 --> 01:27:19,560
+the alter ego of Gothbrooks.
+
+2284
+01:27:19,560 --> 01:27:22,800
+Well, so that one may be to cut,
+
+2285
+01:27:22,800 --> 01:27:25,560
+when you next meet our heroes,
+
+2286
+01:27:25,560 --> 01:27:28,200
+they may be doing battle against a different villain
+
+2287
+01:27:28,200 --> 01:27:29,200
+named Chris Gaines.
+
+2288
+01:27:29,200 --> 01:27:30,120
+I'm excited about that.
+
+2289
+01:27:30,120 --> 01:27:33,840
+But for now you survived podcast The Ride.
+
+2290
+01:27:33,840 --> 01:27:35,360
+I don't know, do you feel good, Mike,
+
+2291
+01:27:35,360 --> 01:27:36,440
+or do you feel stressed?
+
+2292
+01:27:36,440 --> 01:27:37,280
+Like you didn't get enough out?
+
+2293
+01:27:37,280 --> 01:27:38,360
+I do feel stressed a little bit, yeah.
+
+2294
+01:27:38,360 --> 01:27:39,200
+Uh-huh.
+
+2295
+01:27:39,200 --> 01:27:40,040
+A lot of information.
+
+2296
+01:27:40,040 --> 01:27:41,440
+Well, if you ever want to pepper in other episodes,
+
+2297
+01:27:41,440 --> 01:27:45,280
+if you can find times to get out anything else
+
+2298
+01:27:45,280 --> 01:27:46,880
+fascinating and Mephisto-ish.
+
+2299
+01:27:46,880 --> 01:27:48,400
+Sure, I mean he'll be back, yeah.
+
+2300
+01:27:48,400 --> 01:27:50,640
+He'll be back when we least suspect, I bet.
+
+2301
+01:27:50,640 --> 01:27:53,200
+Oh, I'll be back whenever the boys
+
+2302
+01:27:53,200 --> 01:27:55,600
+are thinking sinful thoughts.
+
+2303
+01:27:55,600 --> 01:27:56,440
+All right.
+
+2304
+01:27:57,440 --> 01:27:58,360
+Yeah, look, I don't know,
+
+2305
+01:27:58,360 --> 01:28:00,400
+he was on the Scott Aukerman podcast,
+
+2306
+01:28:00,400 --> 01:28:01,560
+Bono that is, of course.
+
+2307
+01:28:01,560 --> 01:28:02,960
+So maybe Mephisto, you know,
+
+2308
+01:28:02,960 --> 01:28:06,080
+he would do the pay walled version of podcast The Ride.
+
+2309
+01:28:06,080 --> 01:28:06,920
+I don't know.
+
+2310
+01:28:06,920 --> 01:28:08,240
+Entirely in character,
+
+2311
+01:28:08,240 --> 01:28:10,000
+ideally in costume.
+
+2312
+01:28:10,000 --> 01:28:12,960
+Yeah, of course, yes, he's not gonna do the voice.
+
+2313
+01:28:12,960 --> 01:28:14,440
+I would throw up. I think it'd be impossible.
+
+2314
+01:28:14,440 --> 01:28:17,720
+Like he needs to feel the wetness of the face paint.
+
+2315
+01:28:17,720 --> 01:28:18,560
+Yeah.
+
+2316
+01:28:18,560 --> 01:28:22,960
+Of the thin, like, smattering of face paint
+
+2317
+01:28:22,960 --> 01:28:23,880
+that he puts on.
+
+2318
+01:28:23,880 --> 01:28:25,480
+Yeah, yeah, so yes.
+
+2319
+01:28:26,160 --> 01:28:28,480
+Those are the demands we have.
+
+2320
+01:28:28,480 --> 01:28:30,160
+Okay.
+
+2321
+01:28:30,160 --> 01:28:32,800
+All right, Bono, if you want to appear
+
+2322
+01:28:32,800 --> 01:28:36,040
+on this theme park podcast Patreon,
+
+2323
+01:28:36,040 --> 01:28:38,160
+here are our terms.
+
+2324
+01:28:38,160 --> 01:28:41,720
+And you, the listeners, if you wanna keep subscribing,
+
+2325
+01:28:41,720 --> 01:28:45,120
+then do, and if you wanna dig even deeper,
+
+2326
+01:28:45,120 --> 01:28:47,480
+join us on our new Patreon tier, Club 3,
+
+2327
+01:28:47,480 --> 01:28:49,240
+where you get one more bonus episode every month
+
+2328
+01:28:49,240 --> 01:28:51,920
+and our regular episodes ad free.
+
+2329
+01:28:53,120 --> 01:28:54,920
+But do not share the code.
+
+2330
+01:28:55,760 --> 01:28:57,320
+Or no, he would be like,
+
+2331
+01:28:57,320 --> 01:28:59,520
+share it with your friends.
+
+2332
+01:28:59,520 --> 01:29:00,360
+Yes.
+
+2333
+01:29:00,360 --> 01:29:02,040
+Oh, I love when Patreon,
+
+2334
+01:29:02,040 --> 01:29:04,640
+pay walled podcasts are given away for free.
+
+2335
+01:29:04,640 --> 01:29:07,440
+Yeah, give the left ear to one of your friends
+
+2336
+01:29:07,440 --> 01:29:08,800
+and you take the right.
+
+2337
+01:29:10,080 --> 01:29:14,000
+Listen at the same time, but only pay once.
+
+2338
+01:29:14,000 --> 01:29:16,680
+Don't put it on a speaker
+
+2339
+01:29:16,680 --> 01:29:18,440
+and play it for 10 people at once.
+
+2340
+01:29:18,440 --> 01:29:20,400
+Even I have my limits.
+
+2341
+01:29:20,400 --> 01:29:21,240
+Right.
+

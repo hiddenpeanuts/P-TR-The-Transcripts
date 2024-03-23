@@ -1,0 +1,5980 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:25,560
+Hey, today we're talking DZ, where kids wanna be.
+
+3
+00:00:25,560 --> 00:00:29,360
+Here on PTR, where stunted adults are.
+
+4
+00:00:29,360 --> 00:00:31,040
+I'm Scott Caron here.
+
+5
+00:00:31,040 --> 00:00:32,640
+Hey, Jason Sheridan's here.
+
+6
+00:00:32,640 --> 00:00:37,480
+Hi, first one of the new year, first recording of 2023.
+
+7
+00:00:37,480 --> 00:00:39,800
+But one came out already, nobody cares about the order.
+
+8
+00:00:39,800 --> 00:00:42,360
+Well, that's all right, you know, no one's say, you know,
+
+9
+00:00:42,360 --> 00:00:44,800
+I like to hear how the sausage gets made, you know?
+
+10
+00:00:44,800 --> 00:00:46,200
+Do they, do they really?
+
+11
+00:00:46,200 --> 00:00:47,560
+I think they do.
+
+12
+00:00:47,560 --> 00:00:48,920
+I think you'll find that they do.
+
+13
+00:00:48,920 --> 00:00:50,920
+You're confusing it because you love hearing
+
+14
+00:00:50,920 --> 00:00:52,840
+how actual sausages get made.
+
+15
+00:00:52,840 --> 00:00:55,640
+I, literal and figurative, I love it.
+
+16
+00:00:56,560 --> 00:00:58,320
+Sausage tours are your thing.
+
+17
+00:00:58,360 --> 00:00:59,480
+Mike Carlson, hi.
+
+18
+00:00:59,480 --> 00:01:01,440
+Hi, I'm here, yes, and I wanna give everyone
+
+19
+00:01:01,440 --> 00:01:03,680
+the exact date and time that we're recording this,
+
+20
+00:01:03,680 --> 00:01:05,280
+just so they know.
+
+21
+00:01:05,280 --> 00:01:07,800
+521, it's brisk out, we had to close the door
+
+22
+00:01:07,800 --> 00:01:09,680
+because of the rain, yeah, let's make sure you know.
+
+23
+00:01:09,680 --> 00:01:12,280
+Google Earth coordinates are as follows.
+
+24
+00:01:12,280 --> 00:01:14,280
+Wait, hang on, I don't want people to know where I live.
+
+25
+00:01:14,280 --> 00:01:17,640
+If they're vague, just leave the last few out
+
+26
+00:01:17,640 --> 00:01:18,480
+and we'll be okay.
+
+27
+00:01:18,480 --> 00:01:19,880
+Yeah, yeah.
+
+28
+00:01:19,880 --> 00:01:23,240
+Hey, it's Discovery Zone today.
+
+29
+00:01:23,240 --> 00:01:26,520
+This is a delightful one and it came out of a recent day.
+
+30
+00:01:26,560 --> 00:01:28,360
+What do you wanna hear in the new year?
+
+31
+00:01:28,360 --> 00:01:32,600
+So thank you, Ryan Lovell, for suggesting this.
+
+32
+00:01:32,600 --> 00:01:36,080
+What a delightful one and kind of an inevitable one,
+
+33
+00:01:36,080 --> 00:01:37,560
+but I hadn't thought about it.
+
+34
+00:01:37,560 --> 00:01:41,920
+And if you don't know Discovery Zone in general,
+
+35
+00:01:41,920 --> 00:01:44,600
+this was a very 90s place.
+
+36
+00:01:44,600 --> 00:01:49,600
+The 90s were the time to be this kid indoor playground
+
+37
+00:01:51,280 --> 00:01:53,920
+entity and the 90s were the only time
+
+38
+00:01:53,920 --> 00:01:55,800
+to be Discovery Zone, I would say.
+
+39
+00:01:55,800 --> 00:02:00,800
+I might say a very specific subsection of the 90s
+
+40
+00:02:00,800 --> 00:02:05,320
+as the earnings and mergers quickly showed.
+
+41
+00:02:05,320 --> 00:02:10,080
+Yeah, yeah, yeah, didn't make it too far out of the 90s.
+
+42
+00:02:10,080 --> 00:02:13,520
+But I kind of think they're self-inflicted wounds.
+
+43
+00:02:13,520 --> 00:02:17,720
+I think there's a world where DZ is still fairly popular
+
+44
+00:02:17,720 --> 00:02:20,320
+in the same way that Chuck E. Cheese is,
+
+45
+00:02:20,320 --> 00:02:22,200
+Chuck E. Cheese still feels like it's limping along,
+
+46
+00:02:22,200 --> 00:02:23,800
+but hasn't it felt like that forever?
+
+47
+00:02:23,800 --> 00:02:26,920
+I mean, it seemed like the pandemic
+
+48
+00:02:26,920 --> 00:02:28,120
+would have been the time.
+
+49
+00:02:28,120 --> 00:02:29,080
+Right. Right.
+
+50
+00:02:29,080 --> 00:02:32,720
+Like anything that was kind of teetering,
+
+51
+00:02:32,720 --> 00:02:35,520
+hometown buffet fell into the pit.
+
+52
+00:02:35,520 --> 00:02:36,560
+It didn't make it out of the pit.
+
+53
+00:02:36,560 --> 00:02:39,400
+And I think probably we might've all early on,
+
+54
+00:02:39,400 --> 00:02:41,760
+our thoughts went to Chuck E. Cheese.
+
+55
+00:02:41,760 --> 00:02:43,120
+Is it gonna make it out?
+
+56
+00:02:43,120 --> 00:02:44,400
+And it did somehow.
+
+57
+00:02:44,400 --> 00:02:46,000
+I don't think it's- Yeah, so far, yeah.
+
+58
+00:02:46,000 --> 00:02:47,160
+Fine.
+
+59
+00:02:47,160 --> 00:02:50,520
+And I actually go there without irony with the kid
+
+60
+00:02:51,480 --> 00:02:53,640
+and a lot of people do.
+
+61
+00:02:53,640 --> 00:02:55,120
+Right. Yeah, I don't know.
+
+62
+00:02:55,120 --> 00:02:58,240
+So I'm DZ, I think that, you know, we'll talk about it,
+
+63
+00:02:58,240 --> 00:03:01,280
+but there could be a world where Discovery Zone
+
+64
+00:03:01,280 --> 00:03:03,080
+is still around.
+
+65
+00:03:03,080 --> 00:03:08,080
+I think so, and especially being that it was a way
+
+66
+00:03:08,920 --> 00:03:13,080
+to kind of cheaply fill big retail spaces.
+
+67
+00:03:13,080 --> 00:03:16,120
+Yes. And how do those places get filled today?
+
+68
+00:03:16,120 --> 00:03:18,720
+Well, through trampoline parks
+
+69
+00:03:18,720 --> 00:03:20,960
+and big kid run around areas.
+
+70
+00:03:20,960 --> 00:03:22,240
+It's like, it's just all splint.
+
+71
+00:03:22,240 --> 00:03:24,480
+It's all a lot of independent Discovery Zones.
+
+72
+00:03:24,480 --> 00:03:25,320
+Which is good.
+
+73
+00:03:25,320 --> 00:03:26,160
+Uh-huh. Uh-huh.
+
+74
+00:03:26,160 --> 00:03:27,000
+We like that.
+
+75
+00:03:27,000 --> 00:03:31,880
+But we also really love a huge bloated corporate entity
+
+76
+00:03:31,880 --> 00:03:36,120
+that is tricked into having to grow too fast
+
+77
+00:03:36,120 --> 00:03:37,840
+and then disappears entirely.
+
+78
+00:03:37,840 --> 00:03:39,040
+Yeah.
+
+79
+00:03:39,040 --> 00:03:41,360
+This one was interesting for me
+
+80
+00:03:41,360 --> 00:03:45,280
+because I feel like there was like a wealth of information,
+
+81
+00:03:45,280 --> 00:03:49,280
+like a full three act structure to the story,
+
+82
+00:03:49,280 --> 00:03:50,880
+the rise and fall.
+
+83
+00:03:50,880 --> 00:03:55,880
+I have no memory of ever being in the Discovery Zone.
+
+84
+00:03:56,040 --> 00:03:57,000
+Oh, that's interesting. Really?
+
+85
+00:03:57,000 --> 00:03:58,520
+Okay, okay. Interesting.
+
+86
+00:03:59,560 --> 00:04:00,680
+Yeah, you never did it.
+
+87
+00:04:00,680 --> 00:04:02,600
+Do you remember them being around though?
+
+88
+00:04:02,600 --> 00:04:05,640
+Faintly, I remember them kind of being in the ether,
+
+89
+00:04:05,640 --> 00:04:10,640
+but on the East Coast, there was also a glut of like,
+
+90
+00:04:10,640 --> 00:04:14,320
+yeah, we have kind of a big space.
+
+91
+00:04:14,360 --> 00:04:16,720
+We're gonna put in some arcade games
+
+92
+00:04:16,720 --> 00:04:20,840
+and an outdoor play set indoors
+
+93
+00:04:20,840 --> 00:04:25,080
+and sell the worst pizza you've ever imagined in your life.
+
+94
+00:04:25,080 --> 00:04:28,080
+And then eventually that would transition
+
+95
+00:04:28,080 --> 00:04:32,040
+to the scariest go-kart track you've ever been on your life.
+
+96
+00:04:32,040 --> 00:04:36,040
+Laser tag, the darkest, deadliest laser tag.
+
+97
+00:04:36,040 --> 00:04:38,640
+Where you're worried about other real weapons.
+
+98
+00:04:38,640 --> 00:04:40,160
+There's bayonets. Behind some corner.
+
+99
+00:04:40,160 --> 00:04:41,960
+Bayonets on the end of the guns.
+
+100
+00:04:41,960 --> 00:04:44,560
+Yeah, like you know everyone in your party,
+
+101
+00:04:44,560 --> 00:04:47,160
+but you don't, there was that kid on the other team
+
+102
+00:04:47,160 --> 00:04:49,840
+that looked really like he might pistol whip you
+
+103
+00:04:49,840 --> 00:04:50,880
+from around the corner.
+
+104
+00:04:50,880 --> 00:04:52,760
+Oh, those kids, but those kids would hold their hand
+
+105
+00:04:52,760 --> 00:04:56,080
+over the receiver on their chest.
+
+106
+00:04:56,080 --> 00:04:57,120
+Do you ever see this?
+
+107
+00:04:57,120 --> 00:04:57,960
+Do you ever play laser tag?
+
+108
+00:04:57,960 --> 00:04:59,560
+To stop themselves from, very real.
+
+109
+00:04:59,560 --> 00:05:00,400
+I have not played a ton of laser tag.
+
+110
+00:05:00,400 --> 00:05:01,640
+It was cheating basically.
+
+111
+00:05:01,640 --> 00:05:04,240
+If you put your hand over the target on your chest
+
+112
+00:05:04,240 --> 00:05:06,000
+playing laser tag, you wouldn't get shot.
+
+113
+00:05:06,000 --> 00:05:07,600
+So there was like a pro kid in there,
+
+114
+00:05:07,600 --> 00:05:11,640
+hand over his heart, shooting kids sideways.
+
+115
+00:05:12,000 --> 00:05:14,600
+It's nothing because he just does this all afternoon
+
+116
+00:05:14,600 --> 00:05:16,520
+because his parents probably drop him off every day.
+
+117
+00:05:16,520 --> 00:05:17,360
+Yeah. Neat.
+
+118
+00:05:17,360 --> 00:05:20,240
+And you think the parents don't want that kid around?
+
+119
+00:05:20,240 --> 00:05:21,560
+Well, they created him.
+
+120
+00:05:22,840 --> 00:05:25,720
+They created his poor morals and ethics.
+
+121
+00:05:25,720 --> 00:05:28,360
+See how he plays laser tag with these little kids?
+
+122
+00:05:29,360 --> 00:05:30,880
+I was traumatized by him.
+
+123
+00:05:32,040 --> 00:05:34,480
+Maybe the kid gets it out with,
+
+124
+00:05:34,480 --> 00:05:36,160
+so maybe the aggression comes out
+
+125
+00:05:36,160 --> 00:05:38,600
+via his aggressive laser tagging.
+
+126
+00:05:38,600 --> 00:05:39,720
+He's gotta put it somewhere.
+
+127
+00:05:39,720 --> 00:05:44,360
+Mike, that's also the nicest version
+
+128
+00:05:44,360 --> 00:05:47,160
+of the way they could act out as opposed to like,
+
+129
+00:05:47,160 --> 00:05:51,160
+all right, I'm gonna climb to the top of that fake door
+
+130
+00:05:51,160 --> 00:05:52,520
+and jump off it.
+
+131
+00:05:52,520 --> 00:05:53,360
+You're right.
+
+132
+00:05:53,360 --> 00:05:55,560
+I'm gonna ambush these little twerps.
+
+133
+00:05:55,560 --> 00:05:57,240
+But this was a traumatizing thing
+
+134
+00:05:57,240 --> 00:05:59,320
+when you would play laser tag against kids
+
+135
+00:05:59,320 --> 00:06:01,560
+not in your own friend circle.
+
+136
+00:06:01,560 --> 00:06:02,800
+You could play against older kids
+
+137
+00:06:02,800 --> 00:06:05,520
+or be some kid who knew all the ins and outs of it
+
+138
+00:06:05,520 --> 00:06:07,560
+and you felt like you were helpless to do anything.
+
+139
+00:06:07,560 --> 00:06:08,400
+Yeah.
+
+140
+00:06:08,400 --> 00:06:11,560
+I remember I haven't played a ton of it,
+
+141
+00:06:11,560 --> 00:06:13,240
+but enough to experience this syndrome
+
+142
+00:06:13,240 --> 00:06:15,600
+and you really feel impotent.
+
+143
+00:06:15,600 --> 00:06:16,440
+Yes.
+
+144
+00:06:16,440 --> 00:06:17,280
+Is how you feel.
+
+145
+00:06:17,280 --> 00:06:18,120
+You feel powerless. It's all feeling.
+
+146
+00:06:18,120 --> 00:06:21,840
+And limp and like you're not your full self.
+
+147
+00:06:21,840 --> 00:06:23,040
+Right. It's humiliating.
+
+148
+00:06:23,040 --> 00:06:24,760
+You feel humiliated.
+
+149
+00:06:24,760 --> 00:06:25,600
+Yeah, a little.
+
+150
+00:06:25,600 --> 00:06:27,240
+When somebody's doing five times better than you
+
+151
+00:06:27,240 --> 00:06:30,960
+and you know, if I did 20 more rounds,
+
+152
+00:06:30,960 --> 00:06:32,040
+it's not gonna get any better.
+
+153
+00:06:32,040 --> 00:06:34,680
+And I would feel guilty cheating too with that,
+
+154
+00:06:34,680 --> 00:06:36,240
+especially back then.
+
+155
+00:06:36,240 --> 00:06:38,600
+You'd feel guilty like holding or like,
+
+156
+00:06:38,600 --> 00:06:40,000
+this is classic good boys stuff.
+
+157
+00:06:40,000 --> 00:06:40,840
+We bring another shirt.
+
+158
+00:06:40,840 --> 00:06:42,400
+Some structure is in place.
+
+159
+00:06:42,400 --> 00:06:43,240
+I don't know.
+
+160
+00:06:43,240 --> 00:06:44,080
+Maybe if I cheated,
+
+161
+00:06:44,080 --> 00:06:47,080
+it's somehow gonna get back to my social studies teacher.
+
+162
+00:06:47,080 --> 00:06:47,920
+Yes.
+
+163
+00:06:47,920 --> 00:06:49,400
+And I'm gonna get a lower grade.
+
+164
+00:06:49,400 --> 00:06:50,600
+We should have brought another shirt
+
+165
+00:06:50,600 --> 00:06:53,440
+and put it over the receiver on your chest.
+
+166
+00:06:53,440 --> 00:06:56,360
+I, as a kid too, I didn't like the dark
+
+167
+00:06:56,360 --> 00:06:58,760
+and I did not like being startled.
+
+168
+00:06:58,760 --> 00:07:01,560
+So I just stayed out of laser tag.
+
+169
+00:07:01,560 --> 00:07:03,920
+Unless it was, there was one place
+
+170
+00:07:03,920 --> 00:07:06,480
+where there was a giant plastic pipe in the middle
+
+171
+00:07:06,480 --> 00:07:10,160
+and it was like side versus side, much more manageable.
+
+172
+00:07:10,160 --> 00:07:14,320
+And then there was also one place where you sat in a chair
+
+173
+00:07:14,320 --> 00:07:15,680
+and it was half the audience
+
+174
+00:07:15,680 --> 00:07:17,800
+versus the other half of the audience.
+
+175
+00:07:17,800 --> 00:07:20,360
+Whoa, hold on a second here.
+
+176
+00:07:20,360 --> 00:07:21,200
+No.
+
+177
+00:07:21,200 --> 00:07:23,760
+Jason Sheridan played seated laser tag.
+
+178
+00:07:23,760 --> 00:07:25,560
+I think this would be up his alley now.
+
+179
+00:07:25,560 --> 00:07:27,720
+This would be so up my alley.
+
+180
+00:07:27,720 --> 00:07:31,000
+Now, ironically though, when I was in college,
+
+181
+00:07:31,000 --> 00:07:33,840
+there was a pretty popular laser tag place in Ithaca
+
+182
+00:07:34,760 --> 00:07:35,600
+that was really cheap.
+
+183
+00:07:35,600 --> 00:07:37,720
+So we would play it like sometimes.
+
+184
+00:07:37,720 --> 00:07:41,160
+And there, at least everyone agreed like,
+
+185
+00:07:41,160 --> 00:07:44,040
+okay, we're gonna be human beings about this.
+
+186
+00:07:44,040 --> 00:07:47,040
+Like no one's hitting you with a gun
+
+187
+00:07:47,040 --> 00:07:49,680
+or like running and zapping you in the eye
+
+188
+00:07:49,680 --> 00:07:52,480
+or whatever bad boy things are going on.
+
+189
+00:07:52,480 --> 00:07:55,720
+They need to administer morality tests as well.
+
+190
+00:07:55,720 --> 00:07:57,360
+Just like with different kind of
+
+191
+00:07:57,360 --> 00:07:59,200
+goofus and gallant scenarios.
+
+192
+00:07:59,200 --> 00:08:01,160
+Trick that you don't wanna give a test that's like,
+
+193
+00:08:01,160 --> 00:08:05,120
+would you ever butt somebody in the forehead with a gun
+
+194
+00:08:05,120 --> 00:08:05,960
+playing laser tag?
+
+195
+00:08:05,960 --> 00:08:06,780
+You have to trick that.
+
+196
+00:08:06,780 --> 00:08:07,880
+You have to do a little,
+
+197
+00:08:07,880 --> 00:08:10,480
+create some scenario with an old lady
+
+198
+00:08:10,480 --> 00:08:12,280
+with her pet walking across the street.
+
+199
+00:08:12,280 --> 00:08:13,400
+Or what would you do?
+
+200
+00:08:13,400 --> 00:08:14,240
+Right, right.
+
+201
+00:08:14,240 --> 00:08:15,060
+And then you can tell.
+
+202
+00:08:15,060 --> 00:08:17,200
+And then if they can't play, then they get,
+
+203
+00:08:18,800 --> 00:08:21,720
+I don't know, get sent to a real,
+
+204
+00:08:21,720 --> 00:08:24,880
+some sort of real fight maybe, like a prison yard.
+
+205
+00:08:25,760 --> 00:08:27,920
+They're delivered straight to a prison.
+
+206
+00:08:27,920 --> 00:08:29,200
+I guess, yeah.
+
+207
+00:08:29,200 --> 00:08:30,200
+That's, I don't know.
+
+208
+00:08:30,240 --> 00:08:31,360
+I'm just spit balling here.
+
+209
+00:08:31,360 --> 00:08:33,440
+You get two minutes in the yard, go.
+
+210
+00:08:33,440 --> 00:08:35,800
+They should invent, Jason, they should invent a laser tag
+
+211
+00:08:35,800 --> 00:08:37,600
+where you get to lie in a twin bed.
+
+212
+00:08:37,600 --> 00:08:38,440
+Yeah.
+
+213
+00:08:38,440 --> 00:08:40,280
+And shoot at your opponent.
+
+214
+00:08:40,280 --> 00:08:43,680
+That's like some sort of a sensory deprivation tank.
+
+215
+00:08:43,680 --> 00:08:44,520
+Yeah, yeah, yeah.
+
+216
+00:08:44,520 --> 00:08:45,340
+Okay.
+
+217
+00:08:45,340 --> 00:08:47,000
+That's some sort of therapy for something.
+
+218
+00:08:47,000 --> 00:08:47,840
+Yeah.
+
+219
+00:08:47,840 --> 00:08:49,480
+I think there's clearly a whole laser tag episode
+
+220
+00:08:49,480 --> 00:08:50,320
+to be done.
+
+221
+00:08:50,320 --> 00:08:51,140
+Well, of course.
+
+222
+00:08:51,140 --> 00:08:53,280
+And by the way, there's some laser tag components to that,
+
+223
+00:08:53,280 --> 00:08:55,240
+which I didn't realize that that was part of the evolution
+
+224
+00:08:55,240 --> 00:08:56,220
+of Discovery Zone.
+
+225
+00:08:56,220 --> 00:08:58,720
+But what it started as was this kind of kid
+
+226
+00:08:58,720 --> 00:09:00,320
+run around climbing gym.
+
+227
+00:09:00,320 --> 00:09:03,420
+And I think it might be helpful for multiple reasons
+
+228
+00:09:03,420 --> 00:09:06,520
+to let the place explain itself via an ad
+
+229
+00:09:06,520 --> 00:09:09,120
+and via a song that you almost definitely know
+
+230
+00:09:09,120 --> 00:09:11,320
+if you grew up going to this place
+
+231
+00:09:11,320 --> 00:09:13,480
+or just being aware of this place.
+
+232
+00:09:13,480 --> 00:09:16,680
+I'm going dizzy at Discovery Zone.
+
+233
+00:09:16,680 --> 00:09:19,240
+Discover what I can do on my own.
+
+234
+00:09:19,240 --> 00:09:22,040
+I'm going dizzy at Discovery Zone.
+
+235
+00:09:22,040 --> 00:09:23,880
+Hey, Alex, you're walking on the moon.
+
+236
+00:09:23,880 --> 00:09:27,220
+Discovery Zone fun centers are safe, colorful play zones
+
+237
+00:09:27,220 --> 00:09:31,100
+where kids can get exercise, have parties, and discover fun.
+
+238
+00:09:31,100 --> 00:09:33,500
+And where parents can relax and have fun too.
+
+239
+00:09:33,500 --> 00:09:35,060
+Alex, you can do that.
+
+240
+00:09:35,060 --> 00:09:36,700
+That's our daughter, the mountain climber.
+
+241
+00:09:36,700 --> 00:09:39,420
+I'm going dizzy at Discovery Zone.
+
+242
+00:09:39,420 --> 00:09:40,260
+Easy.
+
+243
+00:09:41,220 --> 00:09:43,660
+Where kids wanna be.
+
+244
+00:09:43,660 --> 00:09:46,820
+That explains it pretty concisely.
+
+245
+00:09:46,820 --> 00:09:50,780
+It's nothing that other places hadn't done.
+
+246
+00:09:50,780 --> 00:09:54,420
+It's extrapolated from components of Chuck E. Cheese
+
+247
+00:09:54,420 --> 00:09:55,500
+or the McDonald's Playland,
+
+248
+00:09:55,500 --> 00:09:59,940
+but is fully devoted to climbing and play
+
+249
+00:09:59,940 --> 00:10:04,940
+and physical activity and mazes and tubes and environments
+
+250
+00:10:06,380 --> 00:10:09,180
+and slides and interesting kinds of slides
+
+251
+00:10:09,180 --> 00:10:11,140
+that would not be at your regular park.
+
+252
+00:10:11,140 --> 00:10:14,020
+And the very important marketing decision,
+
+253
+00:10:14,020 --> 00:10:17,140
+which they highlight in other commercials too,
+
+254
+00:10:17,140 --> 00:10:19,500
+you can be on your own.
+
+255
+00:10:19,500 --> 00:10:21,980
+Oh, there's a big play of like,
+
+256
+00:10:21,980 --> 00:10:24,420
+imagine what you can do without those parents around.
+
+257
+00:10:24,460 --> 00:10:26,500
+Or I can be on my own.
+
+258
+00:10:26,500 --> 00:10:27,820
+Yeah, yeah, yeah, that is big.
+
+259
+00:10:27,820 --> 00:10:29,820
+Yes, and I forget, there's another commercial
+
+260
+00:10:29,820 --> 00:10:31,940
+that might even have another funny thing
+
+261
+00:10:31,940 --> 00:10:34,980
+that somebody says in there, but that's a big part of it.
+
+262
+00:10:34,980 --> 00:10:38,620
+I guess to market to kids like, oh, I'm free here.
+
+263
+00:10:38,620 --> 00:10:40,540
+Now, was that something I wanted?
+
+264
+00:10:40,540 --> 00:10:41,380
+No.
+
+265
+00:10:41,380 --> 00:10:43,220
+No, no.
+
+266
+00:10:43,220 --> 00:10:47,260
+Yeah, I currently have a child who I have to do
+
+267
+00:10:47,260 --> 00:10:48,460
+all the climbing with him.
+
+268
+00:10:48,460 --> 00:10:49,300
+Yeah, right.
+
+269
+00:10:49,300 --> 00:10:51,620
+In general, I've been picturing my son
+
+270
+00:10:51,620 --> 00:10:54,140
+who's not quite at the age for this.
+
+271
+00:10:54,860 --> 00:10:55,980
+And I'm watching the ads and like, boy,
+
+272
+00:10:55,980 --> 00:10:59,300
+this would be his dream if there were
+
+273
+00:10:59,300 --> 00:11:00,900
+no other children in it.
+
+274
+00:11:01,900 --> 00:11:02,860
+And you were with him.
+
+275
+00:11:02,860 --> 00:11:05,740
+And I was holding his hand the entire time.
+
+276
+00:11:05,740 --> 00:11:09,220
+Yeah, which also seems like it was allowed
+
+277
+00:11:09,220 --> 00:11:12,860
+judging by the hours and hours of people climbing
+
+278
+00:11:12,860 --> 00:11:15,780
+through these things with VHS cameras.
+
+279
+00:11:15,780 --> 00:11:16,620
+Oh yeah.
+
+280
+00:11:16,620 --> 00:11:19,260
+And uploading those eventually to YouTube.
+
+281
+00:11:19,260 --> 00:11:21,820
+But not common, my memory of any of this stuff.
+
+282
+00:11:21,820 --> 00:11:23,860
+And I think Discovery Zone of the major ones,
+
+283
+00:11:23,860 --> 00:11:25,380
+and I consider the major ones,
+
+284
+00:11:26,300 --> 00:11:28,340
+Chuck E. Cheese, Leaps and Bounds,
+
+285
+00:11:28,340 --> 00:11:30,100
+which we'll talk about in a second here,
+
+286
+00:11:30,100 --> 00:11:30,940
+and Discovery Zone.
+
+287
+00:11:30,940 --> 00:11:32,180
+I think I went to this one the least,
+
+288
+00:11:32,180 --> 00:11:35,860
+but I don't remember adults in that play place with me ever.
+
+289
+00:11:35,860 --> 00:11:36,700
+Okay.
+
+290
+00:11:36,700 --> 00:11:39,140
+And not even now, you said this was not your dream,
+
+291
+00:11:39,140 --> 00:11:40,820
+but you did have Discovery Zone experience
+
+292
+00:11:40,820 --> 00:11:43,700
+and you did not force your parents to come in with it.
+
+293
+00:11:43,700 --> 00:11:45,340
+No, I was comfortable with my parents
+
+294
+00:11:45,340 --> 00:11:47,460
+not being in the tubes with me or in the ball pit,
+
+295
+00:11:47,460 --> 00:11:50,580
+but I didn't want them, I wanted them close-ish.
+
+296
+00:11:50,580 --> 00:11:52,620
+Yeah, yeah, yeah, yeah, yeah, within, yeah.
+
+297
+00:11:52,620 --> 00:11:55,580
+I mean, when I get like 10, 11, 12,
+
+298
+00:11:55,580 --> 00:11:56,820
+I didn't need to be there.
+
+299
+00:11:56,820 --> 00:11:57,660
+Sure, sure.
+
+300
+00:11:57,660 --> 00:11:59,140
+But when I was younger, yeah, yeah.
+
+301
+00:11:59,140 --> 00:12:00,780
+There's the kidnapping fear.
+
+302
+00:12:00,780 --> 00:12:01,620
+Sure, yeah, and believe me.
+
+303
+00:12:01,620 --> 00:12:03,980
+That just there's somebody hiding in the ball pit
+
+304
+00:12:03,980 --> 00:12:05,940
+right at the bed, that you just get snagged
+
+305
+00:12:05,940 --> 00:12:07,660
+and yanked into some secret compartment.
+
+306
+00:12:07,660 --> 00:12:10,860
+Yeah, that's all I was told every day of my life,
+
+307
+00:12:10,860 --> 00:12:12,420
+is that you will be kidnapped.
+
+308
+00:12:12,420 --> 00:12:13,740
+Yeah, yeah, yeah.
+
+309
+00:12:13,740 --> 00:12:16,420
+Beware, you're going to, you will be kidnapped.
+
+310
+00:12:16,420 --> 00:12:19,380
+Anyone who you see, any adult that you see,
+
+311
+00:12:19,380 --> 00:12:20,820
+and maybe even a younger person you see
+
+312
+00:12:20,820 --> 00:12:25,020
+who you've never seen before is a candidate to kidnap you.
+
+313
+00:12:25,020 --> 00:12:25,860
+Yeah.
+
+314
+00:12:25,860 --> 00:12:28,540
+Especially the people who work here
+
+315
+00:12:28,540 --> 00:12:30,900
+because that's an awfully good excuse.
+
+316
+00:12:31,860 --> 00:12:35,100
+Yeah, yeah, you develop this false persona of,
+
+317
+00:12:35,100 --> 00:12:38,220
+yes, love kids, love working with kids,
+
+318
+00:12:38,220 --> 00:12:43,020
+love not stealing, I mean, love helping kids.
+
+319
+00:12:43,020 --> 00:12:44,100
+I don't know what that was.
+
+320
+00:12:44,100 --> 00:12:45,500
+That was a hiccup.
+
+321
+00:12:46,380 --> 00:12:49,340
+So yeah, so I don't remember parents in there,
+
+322
+00:12:49,340 --> 00:12:51,420
+but yes, I think you could probably,
+
+323
+00:12:51,420 --> 00:12:53,420
+I don't know if they would take you out of there
+
+324
+00:12:53,420 --> 00:12:55,860
+if you got in there, but some of the Chuck E. Cheese ones,
+
+325
+00:12:55,860 --> 00:12:58,220
+especially, because Chuck E. Cheese was not as
+
+326
+00:12:58,220 --> 00:13:02,060
+like play place heavy as Discovery's own was.
+
+327
+00:13:02,060 --> 00:13:04,140
+Yeah, part of it, but a more minor percentage.
+
+328
+00:13:04,140 --> 00:13:06,020
+So especially at Chuck E. Cheese, it was like,
+
+329
+00:13:06,020 --> 00:13:08,660
+you're going to notice an adult man is in there.
+
+330
+00:13:08,660 --> 00:13:11,660
+I like to do the rounds at Chuck E. Cheese.
+
+331
+00:13:11,660 --> 00:13:15,340
+I liked a little show, a little ball pit, a little game.
+
+332
+00:13:16,340 --> 00:13:20,460
+Eventually, when my family got to the point of like,
+
+333
+00:13:20,460 --> 00:13:23,060
+okay, we can't eat this food anyway.
+
+334
+00:13:23,060 --> 00:13:24,460
+This food is not good.
+
+335
+00:13:24,460 --> 00:13:26,700
+This food is twice as much.
+
+336
+00:13:26,700 --> 00:13:28,620
+We got into a routine of,
+
+337
+00:13:28,620 --> 00:13:33,580
+we will go to a much better restaurant first and get pizza.
+
+338
+00:13:33,580 --> 00:13:37,580
+And then easy 30 to 40 minutes in the comic book store
+
+339
+00:13:37,580 --> 00:13:39,460
+next to the Chuck E. Cheese.
+
+340
+00:13:39,460 --> 00:13:41,900
+And then into Chuck E. Cheese,
+
+341
+00:13:41,900 --> 00:13:45,140
+you each get five or $10 in tokens.
+
+342
+00:13:45,940 --> 00:13:49,020
+We'll sit at the bar and watch the show in between playing.
+
+343
+00:13:49,020 --> 00:13:50,580
+And then we will,
+
+344
+00:13:52,340 --> 00:13:54,580
+then you can turn your tickets in for prizes.
+
+345
+00:13:54,580 --> 00:13:59,580
+And inevitably you will badger us into just buying a prize
+
+346
+00:13:59,580 --> 00:14:00,900
+that you don't have enough tickets.
+
+347
+00:14:00,900 --> 00:14:02,820
+You have half the tickets
+
+348
+00:14:02,820 --> 00:14:06,020
+and then they will assuredly let you pay cash
+
+349
+00:14:06,020 --> 00:14:06,860
+for the other.
+
+350
+00:14:06,860 --> 00:14:07,700
+Right, right.
+
+351
+00:14:07,700 --> 00:14:10,380
+This is, yeah, this is not, did I,
+
+352
+00:14:10,380 --> 00:14:12,780
+I always wanted like a month, like a little PVC
+
+353
+00:14:12,780 --> 00:14:14,900
+or like a munch little statue or something.
+
+354
+00:14:14,900 --> 00:14:16,380
+And I never had enough tickets for an,
+
+355
+00:14:16,380 --> 00:14:18,820
+my memory is it's like this big.
+
+356
+00:14:18,820 --> 00:14:20,460
+It's like a thousand tickets.
+
+357
+00:14:20,460 --> 00:14:23,140
+For a tiny little, for a three inch guy.
+
+358
+00:14:23,140 --> 00:14:23,980
+Yeah, right.
+
+359
+00:14:23,980 --> 00:14:25,500
+Somehow that's the ultimate dream.
+
+360
+00:14:25,500 --> 00:14:28,900
+Something that retail price is $7 probably.
+
+361
+00:14:28,900 --> 00:14:29,900
+Less probably.
+
+362
+00:14:31,020 --> 00:14:31,980
+I, well, okay.
+
+363
+00:14:31,980 --> 00:14:34,340
+So Jason did not actually go to one of these.
+
+364
+00:14:34,340 --> 00:14:36,780
+You did, do you remember the circumstances,
+
+365
+00:14:36,780 --> 00:14:38,660
+Mike, of your discovery zone?
+
+366
+00:14:38,660 --> 00:14:42,420
+Well, this is, yes, I do.
+
+367
+00:14:42,420 --> 00:14:45,220
+I went maybe a couple times to,
+
+368
+00:14:45,220 --> 00:14:47,900
+my memory is like three to five times really.
+
+369
+00:14:47,900 --> 00:14:52,300
+But the one that stands out is that I got in trouble
+
+370
+00:14:52,300 --> 00:14:54,500
+at this discovery zone.
+
+371
+00:14:54,500 --> 00:14:55,340
+Oh no.
+
+372
+00:14:55,340 --> 00:14:58,460
+We went with my friends and his brother,
+
+373
+00:14:58,460 --> 00:15:01,140
+my sister and I went and it was like the two moms
+
+374
+00:15:01,140 --> 00:15:03,820
+and then my sister and I, and then two brothers.
+
+375
+00:15:03,820 --> 00:15:05,300
+And I don't know if I've mentioned them before
+
+376
+00:15:05,300 --> 00:15:07,060
+because one of the brothers was my age.
+
+377
+00:15:07,060 --> 00:15:08,420
+One of them was a couple of years younger
+
+378
+00:15:08,420 --> 00:15:10,820
+and he was the bad brother.
+
+379
+00:15:10,820 --> 00:15:13,500
+He was the one who was like shooting BB guns
+
+380
+00:15:13,500 --> 00:15:15,980
+and like lighting a bottle rocket off in the laundry room.
+
+381
+00:15:15,980 --> 00:15:16,820
+Oh yes.
+
+382
+00:15:16,820 --> 00:15:18,660
+So we were in the parking lot.
+
+383
+00:15:18,660 --> 00:15:20,460
+I think we all drove together.
+
+384
+00:15:20,460 --> 00:15:23,900
+And all of a sudden the two of those boys
+
+385
+00:15:23,900 --> 00:15:26,780
+started running in the parking lot.
+
+386
+00:15:26,780 --> 00:15:29,140
+And my sister and I are children.
+
+387
+00:15:29,140 --> 00:15:31,140
+So we go, oh, I guess we're running.
+
+388
+00:15:31,140 --> 00:15:33,180
+So we ran after them in the parking lot.
+
+389
+00:15:33,180 --> 00:15:36,020
+And oh my goodness, if this isn't a story
+
+390
+00:15:36,020 --> 00:15:38,300
+that my mother will tell you
+
+391
+00:15:38,300 --> 00:15:40,620
+if you talk to her for 30 minutes.
+
+392
+00:15:41,740 --> 00:15:43,540
+That kid started running.
+
+393
+00:15:43,540 --> 00:15:45,820
+She pulled me aside, my sister aside,
+
+394
+00:15:45,820 --> 00:15:49,700
+yelled at us so thoroughly, you don't run in a parking lot.
+
+395
+00:15:49,700 --> 00:15:51,500
+You could be hit by a car.
+
+396
+00:15:51,500 --> 00:15:52,500
+You never do that.
+
+397
+00:15:52,500 --> 00:15:54,300
+I don't care who, blah, blah, blah, blah.
+
+398
+00:15:54,300 --> 00:15:56,420
+And then that's all I could think about the whole time
+
+399
+00:15:56,420 --> 00:15:58,260
+while we were at discovery zone that day
+
+400
+00:15:58,260 --> 00:16:00,100
+is that I had been bad.
+
+401
+00:16:00,100 --> 00:16:01,420
+A pit in your stomach.
+
+402
+00:16:01,420 --> 00:16:02,260
+Yes.
+
+403
+00:16:02,260 --> 00:16:03,080
+Oh my God.
+
+404
+00:16:03,080 --> 00:16:04,420
+I had been bad at discovery zone.
+
+405
+00:16:04,700 --> 00:16:07,900
+I think in some ways this experience
+
+406
+00:16:07,900 --> 00:16:10,700
+taints my feeling about discovery zone in general.
+
+407
+00:16:10,700 --> 00:16:11,540
+Wow.
+
+408
+00:16:11,540 --> 00:16:13,100
+And my voice did not shake because I was about to cry.
+
+409
+00:16:13,100 --> 00:16:15,300
+It was a dryness issue.
+
+410
+00:16:15,300 --> 00:16:16,140
+Yeah.
+
+411
+00:16:16,140 --> 00:16:17,420
+What explains the tears?
+
+412
+00:16:17,420 --> 00:16:20,420
+What explains those tears welling up in your eyes?
+
+413
+00:16:20,420 --> 00:16:22,020
+That's moisture.
+
+414
+00:16:22,020 --> 00:16:22,860
+Ah, yes.
+
+415
+00:16:22,860 --> 00:16:25,220
+Sometimes we're hearing a lot of drip drop right now
+
+416
+00:16:25,220 --> 00:16:28,340
+that is a rain that spiked a lot
+
+417
+00:16:28,340 --> 00:16:30,340
+and it's not coming from Mike's eyes.
+
+418
+00:16:30,340 --> 00:16:31,180
+Yes.
+
+419
+00:16:31,180 --> 00:16:32,780
+If you use that to fall asleep like I do,
+
+420
+00:16:32,780 --> 00:16:34,860
+pull the car over, switch to doughboys.
+
+421
+00:16:34,860 --> 00:16:38,140
+There's no.
+
+422
+00:16:38,140 --> 00:16:40,060
+It's true, a rain free podcast.
+
+423
+00:16:40,060 --> 00:16:40,940
+ASMR.
+
+424
+00:16:40,940 --> 00:16:41,540
+It's OK.
+
+425
+00:16:41,540 --> 00:16:42,540
+Cut as a breaker.
+
+426
+00:16:42,540 --> 00:16:43,500
+Try to figure something out.
+
+427
+00:16:43,500 --> 00:16:44,300
+I think we've done it before.
+
+428
+00:16:44,300 --> 00:16:45,620
+I don't know if it shows up, but we'll see.
+
+429
+00:16:45,620 --> 00:16:46,100
+All right.
+
+430
+00:16:46,100 --> 00:16:47,460
+We'll see.
+
+431
+00:16:47,460 --> 00:16:48,820
+But anyways, oh my God.
+
+432
+00:16:48,820 --> 00:16:50,260
+So tainted.
+
+433
+00:16:50,260 --> 00:16:56,900
+I love also that that's a story today because the kids yell,
+
+434
+00:16:56,900 --> 00:16:58,220
+the kids ran and I yelled at them.
+
+435
+00:16:58,220 --> 00:17:01,380
+That seems like something that could happen every day.
+
+436
+00:17:01,380 --> 00:17:02,580
+Of course it does.
+
+437
+00:17:03,260 --> 00:17:06,820
+This is how good we were as kids.
+
+438
+00:17:06,820 --> 00:17:09,300
+Is that this is one of the top five
+
+439
+00:17:09,300 --> 00:17:11,140
+awesomest behaving stories and we'll
+
+440
+00:17:11,140 --> 00:17:16,260
+be told as if we like stole from a store.
+
+441
+00:17:16,260 --> 00:17:19,380
+Buying heroin in the dark.
+
+442
+00:17:19,380 --> 00:17:23,060
+We found a six year old Mike, her eight year old Mike
+
+443
+00:17:23,060 --> 00:17:25,380
+and a five year old Katie.
+
+444
+00:17:25,380 --> 00:17:26,980
+How do you think the running was?
+
+445
+00:17:27,980 --> 00:17:36,100
+I think it was like 15, not even by 10 cars, maybe less.
+
+446
+00:17:36,100 --> 00:17:36,620
+Wow.
+
+447
+00:17:36,620 --> 00:17:37,180
+Wow.
+
+448
+00:17:37,180 --> 00:17:37,820
+And I get it.
+
+449
+00:17:37,820 --> 00:17:39,260
+You're not so guess little kids.
+
+450
+00:17:39,260 --> 00:17:40,020
+You can't run.
+
+451
+00:17:40,020 --> 00:17:40,900
+Someone's pulling out.
+
+452
+00:17:40,900 --> 00:17:41,420
+Of course.
+
+453
+00:17:41,420 --> 00:17:45,060
+But it's pretty clear why we like these two maniacs
+
+454
+00:17:45,060 --> 00:17:46,580
+started running.
+
+455
+00:17:46,580 --> 00:17:52,660
+This one kid, especially, I won't say his last name is Alex.
+
+456
+00:17:52,660 --> 00:17:54,940
+Be on the lookout for an Alex in your life.
+
+457
+00:17:54,940 --> 00:17:56,260
+It could be this Alex.
+
+458
+00:17:56,260 --> 00:17:57,860
+I don't think he's going to listen.
+
+459
+00:17:57,860 --> 00:18:00,300
+Alex will take you for every penny you're worth
+
+460
+00:18:00,300 --> 00:18:02,380
+and we know he can run.
+
+461
+00:18:02,380 --> 00:18:07,460
+So it was clear why we did it.
+
+462
+00:18:07,460 --> 00:18:09,420
+We weren't doing that normally.
+
+463
+00:18:09,420 --> 00:18:10,700
+But no, we were punting.
+
+464
+00:18:10,700 --> 00:18:15,220
+We were yelled at and that felt so devastating to me.
+
+465
+00:18:15,220 --> 00:18:16,300
+But yeah.
+
+466
+00:18:16,300 --> 00:18:18,420
+I remember all mine too.
+
+467
+00:18:18,420 --> 00:18:22,220
+One was that my sister and I, you
+
+468
+00:18:22,220 --> 00:18:25,980
+see this a lot with kids and elevators.
+
+469
+00:18:25,980 --> 00:18:27,900
+Elevator etiquette is something that needs to be learned.
+
+470
+00:18:27,900 --> 00:18:29,380
+You want to get out of the elevator,
+
+471
+00:18:29,380 --> 00:18:31,300
+so you just start walking out of the elevator
+
+472
+00:18:31,300 --> 00:18:33,700
+and maybe you bump right into the people who
+
+473
+00:18:33,700 --> 00:18:35,940
+are waiting for the elevator.
+
+474
+00:18:35,940 --> 00:18:38,540
+And this happened one time and it
+
+475
+00:18:38,540 --> 00:18:43,100
+happened with some kind of harumphy old ladies.
+
+476
+00:18:43,100 --> 00:18:44,260
+And we just ran on.
+
+477
+00:18:44,260 --> 00:18:46,340
+We kind of bumped into them maybe.
+
+478
+00:18:46,340 --> 00:18:49,020
+And then before the elevator doors close,
+
+479
+00:18:49,020 --> 00:18:51,460
+one of the ladies turns to the other and says,
+
+480
+00:18:51,460 --> 00:18:55,100
+those are the rudest children I've ever seen in my life.
+
+481
+00:18:56,020 --> 00:18:59,260
+Which is not a thing to say in front of my mom.
+
+482
+00:18:59,260 --> 00:19:01,020
+She was so mad.
+
+483
+00:19:01,020 --> 00:19:02,980
+I think if there had not been a sound bite,
+
+484
+00:19:02,980 --> 00:19:04,500
+it never would have come up again.
+
+485
+00:19:04,500 --> 00:19:07,380
+That's not something you want to hear about your kids.
+
+486
+00:19:07,380 --> 00:19:08,340
+We'll see where I get.
+
+487
+00:19:08,340 --> 00:19:12,420
+By the time my son is older, I think I would give a shit.
+
+488
+00:19:12,420 --> 00:19:13,940
+I think I'd say, hey, don't do that.
+
+489
+00:19:13,940 --> 00:19:17,180
+And the quote would not be ringing in my head
+
+490
+00:19:17,180 --> 00:19:21,220
+like it's a Siskel and Hebert movie quote that damns the film.
+
+491
+00:19:21,220 --> 00:19:22,500
+Yeah.
+
+492
+00:19:22,500 --> 00:19:25,380
+They also like, OK, maybe you guys broke the social contract.
+
+493
+00:19:25,380 --> 00:19:27,620
+You're not supposed to run into people, especially older
+
+494
+00:19:27,620 --> 00:19:28,340
+people.
+
+495
+00:19:28,340 --> 00:19:30,980
+They're also supposed to shut the fuck up.
+
+496
+00:19:30,980 --> 00:19:33,900
+They're not supposed to be like these terribly.
+
+497
+00:19:33,900 --> 00:19:37,100
+You're not supposed to menace strangers, children or adults.
+
+498
+00:19:37,100 --> 00:19:38,260
+Give a review.
+
+499
+00:19:38,260 --> 00:19:39,820
+You don't review every but.
+
+500
+00:19:39,820 --> 00:19:42,900
+Now, these children were mild.
+
+501
+00:19:42,900 --> 00:19:44,100
+I didn't love them.
+
+502
+00:19:44,100 --> 00:19:45,820
+But they also didn't bother me.
+
+503
+00:19:45,820 --> 00:19:47,900
+Two stars for these kids.
+
+504
+00:19:47,900 --> 00:19:49,700
+Were they like, were you in Manhattan?
+
+505
+00:19:49,740 --> 00:19:52,780
+Were they like snooty old rich people from a movie?
+
+506
+00:19:52,780 --> 00:19:53,460
+That's how it felt.
+
+507
+00:19:53,460 --> 00:19:55,580
+It felt like Looney Tunes kind of.
+
+508
+00:19:55,580 --> 00:19:57,820
+It felt like they felt like the kind of old ladies who would
+
+509
+00:19:57,820 --> 00:20:01,620
+rightfully be bothered by the characters that we're rooting for,
+
+510
+00:20:01,620 --> 00:20:05,060
+which is how I feel about my sister and I in that scenario.
+
+511
+00:20:05,060 --> 00:20:06,900
+We were the fun characters.
+
+512
+00:20:06,900 --> 00:20:07,300
+Yeah.
+
+513
+00:20:07,300 --> 00:20:08,620
+Briefly running.
+
+514
+00:20:08,620 --> 00:20:09,860
+That's right.
+
+515
+00:20:09,860 --> 00:20:10,820
+And yeah, there you did.
+
+516
+00:20:10,820 --> 00:20:13,940
+You touch their mink stalls or something like what was it
+
+517
+00:20:13,940 --> 00:20:14,780
+that they got so upset?
+
+518
+00:20:14,780 --> 00:20:15,940
+Oh, I should have mentioned.
+
+519
+00:20:15,940 --> 00:20:19,020
+Yes, that I caught on to one of their stalls.
+
+520
+00:20:19,020 --> 00:20:21,500
+And kept running with it.
+
+521
+00:20:21,500 --> 00:20:25,180
+And it spun them around and around as if they were on a turntable.
+
+522
+00:20:25,180 --> 00:20:29,180
+And by the end, they were fully naked and had to cover themselves and go,
+
+523
+00:20:29,180 --> 00:20:31,180
+oh, I never.
+
+524
+00:20:31,180 --> 00:20:33,500
+And all of their pearls like rearrange.
+
+525
+00:20:33,500 --> 00:20:34,260
+Uh huh.
+
+526
+00:20:34,260 --> 00:20:37,820
+They seem justified then in their response.
+
+527
+00:20:37,820 --> 00:20:38,820
+I should have.
+
+528
+00:20:38,820 --> 00:20:40,460
+I guess I didn't tell the whole story.
+
+529
+00:20:40,460 --> 00:20:41,660
+It's important to be honest.
+
+530
+00:20:41,660 --> 00:20:44,980
+What did your mom say to you then when the ladies were out of your shot?
+
+531
+00:20:44,980 --> 00:20:45,860
+I don't remember that.
+
+532
+00:20:45,860 --> 00:20:47,700
+I think it was just did you hear that?
+
+533
+00:20:47,700 --> 00:20:50,180
+Did you hear what you said about you?
+
+534
+00:20:51,380 --> 00:20:52,500
+Clipped like that.
+
+535
+00:20:52,500 --> 00:20:53,220
+Uh huh.
+
+536
+00:20:53,220 --> 00:20:58,100
+But is that weird that how bad like other kids, I think, would have just a mountain
+
+537
+00:20:58,100 --> 00:21:02,420
+of these and we have like five and scarring to this.
+
+538
+00:21:02,420 --> 00:21:02,820
+Right.
+
+539
+00:21:02,820 --> 00:21:05,700
+And my mom still thinks they're as bad as they were.
+
+540
+00:21:06,380 --> 00:21:07,900
+That's what's interesting to me.
+
+541
+00:21:07,900 --> 00:21:09,660
+Wasn't kids being kids?
+
+542
+00:21:09,660 --> 00:21:12,420
+No, I have the lowest stakes version of that.
+
+543
+00:21:12,420 --> 00:21:15,060
+But thankfully, my parents are like, don't just ignore.
+
+544
+00:21:15,060 --> 00:21:17,500
+Don't do not be bothered by this.
+
+545
+00:21:18,460 --> 00:21:24,100
+And it was, you know, I my aunts and uncles were all pretty chill.
+
+546
+00:21:24,100 --> 00:21:27,620
+And so we got in the habit of just calling them by their first name, like Jimmy, Johnny.
+
+547
+00:21:27,620 --> 00:21:31,420
+You know, we didn't say on her uncle before it if we were directly addressing them.
+
+548
+00:21:32,660 --> 00:21:37,500
+My aunt Dolly, who was, I think, my grandmother's sister.
+
+549
+00:21:37,500 --> 00:21:38,860
+So a great aunt.
+
+550
+00:21:38,860 --> 00:21:40,140
+I said, hi, Dolly.
+
+551
+00:21:40,140 --> 00:21:43,780
+How are you doing at a party at like a family barbecue?
+
+552
+00:21:43,780 --> 00:21:44,260
+And she went.
+
+553
+00:21:44,380 --> 00:21:48,220
+And I said, Aunt Dolly, I am your great aunt.
+
+554
+00:21:48,220 --> 00:21:54,620
+And everyone's like blood chilled because everyone was also like, what are you?
+
+555
+00:21:54,620 --> 00:21:55,940
+What are you doing?
+
+556
+00:21:55,940 --> 00:21:57,340
+Like you are.
+
+557
+00:21:57,340 --> 00:21:59,540
+You are very old, granted.
+
+558
+00:21:59,540 --> 00:22:03,220
+And but there's a nice way to say that to an eight year old.
+
+559
+00:22:03,220 --> 00:22:06,980
+Like and my family was like, don't mind her.
+
+560
+00:22:06,980 --> 00:22:09,940
+She is very old and powered by hate.
+
+561
+00:22:09,940 --> 00:22:12,580
+Like this is all I have.
+
+562
+00:22:13,060 --> 00:22:13,700
+Yeah.
+
+563
+00:22:13,700 --> 00:22:15,700
+Had you called her Dolly before?
+
+564
+00:22:15,700 --> 00:22:17,060
+I have no recollection.
+
+565
+00:22:17,060 --> 00:22:20,180
+I think I avoided talking to her before.
+
+566
+00:22:20,180 --> 00:22:22,180
+I was trying to be friendly.
+
+567
+00:22:22,180 --> 00:22:22,740
+Right, right.
+
+568
+00:22:22,740 --> 00:22:23,700
+You were like, I'm in a dog.
+
+569
+00:22:23,700 --> 00:22:24,740
+I'm getting older now.
+
+570
+00:22:24,740 --> 00:22:28,500
+And I crossed this member of the greatest generation.
+
+571
+00:22:28,500 --> 00:22:30,100
+Wow.
+
+572
+00:22:30,100 --> 00:22:31,940
+I have earned this title.
+
+573
+00:22:31,940 --> 00:22:32,420
+Great.
+
+574
+00:22:34,660 --> 00:22:37,140
+So highest rank of aunt there is.
+
+575
+00:22:37,140 --> 00:22:39,540
+It is a story we tell, but it's a funny story.
+
+576
+00:22:39,540 --> 00:22:39,860
+Yeah.
+
+577
+00:22:39,860 --> 00:22:41,700
+It's like that was really weird.
+
+578
+00:22:41,700 --> 00:22:42,020
+Right.
+
+579
+00:22:43,300 --> 00:22:47,780
+So what we've determined is that this place is a place of sour.
+
+580
+00:22:47,780 --> 00:22:50,260
+Yes, I don't have a good feeling about it.
+
+581
+00:22:50,260 --> 00:22:52,020
+I don't really either.
+
+582
+00:22:52,020 --> 00:22:53,620
+Mine is kind of not.
+
+583
+00:22:54,340 --> 00:23:01,780
+I don't have a story about it in particular other than it was OK.
+
+584
+00:23:01,780 --> 00:23:06,740
+Full context, it was at the Fallbrook Mall in West Hills, California, which is still
+
+585
+00:23:06,740 --> 00:23:10,900
+home to a Chuck E. Cheese with a full munch.
+
+586
+00:23:10,900 --> 00:23:13,860
+Listeners, if you're looking for a full munch, go to the Fallbrook Mall.
+
+587
+00:23:14,420 --> 00:23:15,060
+Still there.
+
+588
+00:23:16,900 --> 00:23:18,820
+And I think these things were concurrent.
+
+589
+00:23:18,820 --> 00:23:21,540
+So a place with the Chuck E. Cheese and a Discovery Zone.
+
+590
+00:23:21,540 --> 00:23:22,020
+Amazing.
+
+591
+00:23:22,020 --> 00:23:23,220
+And I think we didn't.
+
+592
+00:23:23,220 --> 00:23:24,020
+Although maybe they weren't.
+
+593
+00:23:24,020 --> 00:23:26,900
+I might not have had a Chuck E. Cheese that close to me.
+
+594
+00:23:26,900 --> 00:23:27,940
+So this was closer.
+
+595
+00:23:27,940 --> 00:23:29,140
+So it was a big deal.
+
+596
+00:23:29,140 --> 00:23:35,140
+Basically, my story with it is just the ad that I played at the beginning.
+
+597
+00:23:35,140 --> 00:23:36,980
+And listener, you could only hear it.
+
+598
+00:23:36,980 --> 00:23:41,700
+But if you could visualize every type of play equipment in the world,
+
+599
+00:23:41,700 --> 00:23:47,220
+foam that looks so huggable, like seems like it'd be a delight.
+
+600
+00:23:47,220 --> 00:23:50,260
+Texturally, the brightest colors.
+
+601
+00:23:50,260 --> 00:23:53,300
+This place was so aggressive color wise.
+
+602
+00:23:53,300 --> 00:23:59,460
+It's just primaries, red, yellow, green, kind of don't super go together.
+
+603
+00:23:59,460 --> 00:24:03,780
+No, it's a real clashy place, but they gave it an aesthetic.
+
+604
+00:24:03,780 --> 00:24:08,020
+It's kind of like a box of primary color crayon aesthetic.
+
+605
+00:24:10,340 --> 00:24:13,860
+And of course, the ad is also like we spin the camera around.
+
+606
+00:24:13,860 --> 00:24:18,340
+And it's selling what should.
+
+607
+00:24:18,340 --> 00:24:22,260
+I think it's selling what the equivalent for me now of
+
+608
+00:24:22,260 --> 00:24:26,100
+do you want to spend three and a half hours in beautiful Pandora?
+
+609
+00:24:26,100 --> 00:24:27,700
+Do you want to be transported?
+
+610
+00:24:27,700 --> 00:24:31,540
+You can go not that far from where you live and be transported into another universe.
+
+611
+00:24:31,540 --> 00:24:33,460
+And when it's done, you're going to want to stay there.
+
+612
+00:24:33,460 --> 00:24:35,140
+You know, which you could keep being in there.
+
+613
+00:24:35,140 --> 00:24:38,100
+That's what I thought the Discovery Zone was at the time.
+
+614
+00:24:38,100 --> 00:24:41,220
+And I went and I just kind of like got tired.
+
+615
+00:24:41,220 --> 00:24:43,060
+There were a lot of elbows flying.
+
+616
+00:24:43,060 --> 00:24:44,580
+Oh, it was a little annoying.
+
+617
+00:24:44,580 --> 00:24:48,100
+And my parents clearly did not like it one bit.
+
+618
+00:24:48,100 --> 00:24:50,500
+So it kind of maybe I brought up one more day.
+
+619
+00:24:50,500 --> 00:24:54,580
+We haven't been to that Discovery Zone in a while and their vibe was so bad on it.
+
+620
+00:24:54,580 --> 00:24:55,940
+And again, good boy.
+
+621
+00:24:55,940 --> 00:24:56,980
+I'll go along with this.
+
+622
+00:24:56,980 --> 00:24:57,300
+Right.
+
+623
+00:24:57,300 --> 00:25:01,380
+I didn't like it enough to if they were insistent, I would have gone back.
+
+624
+00:25:01,380 --> 00:25:01,780
+Sure.
+
+625
+00:25:01,780 --> 00:25:02,420
+Anytime.
+
+626
+00:25:02,420 --> 00:25:05,460
+But I had to be the driver and I wasn't the driver.
+
+627
+00:25:05,460 --> 00:25:05,860
+Right.
+
+628
+00:25:05,860 --> 00:25:06,340
+I don't know.
+
+629
+00:25:06,340 --> 00:25:07,300
+Underwhelm me, I guess.
+
+630
+00:25:08,100 --> 00:25:11,300
+Yeah, I don't want this to be so negative of an episode.
+
+631
+00:25:11,300 --> 00:25:12,100
+But certainly not.
+
+632
+00:25:12,100 --> 00:25:15,460
+What was the history of Leaps and Bounds?
+
+633
+00:25:15,460 --> 00:25:16,580
+I liked better.
+
+634
+00:25:16,580 --> 00:25:17,940
+Did you have Leaps and Bounds out here?
+
+635
+00:25:17,940 --> 00:25:19,620
+I know they changed and I was there.
+
+636
+00:25:19,620 --> 00:25:21,780
+Some fascinating facts about it that I learned today.
+
+637
+00:25:21,780 --> 00:25:26,340
+I've I had never heard the phrase Leaps and Bounds until researching this episode.
+
+638
+00:25:26,340 --> 00:25:29,700
+Yeah, I was completely unfamiliar with Leaps and Bounds.
+
+639
+00:25:29,780 --> 00:25:35,860
+Yes, Leaps and Bounds was the one at least by us was bigger and better.
+
+640
+00:25:35,860 --> 00:25:38,900
+And I had like a fifth grade, not my party, but a fifth grade birthday.
+
+641
+00:25:38,900 --> 00:25:43,220
+I'm sure I've talked about, which is maybe my favorite thing I'd ever experienced.
+
+642
+00:25:43,220 --> 00:25:47,460
+Just playing around and running around that place.
+
+643
+00:25:47,460 --> 00:25:48,340
+That was really fun.
+
+644
+00:25:48,340 --> 00:25:51,140
+I don't know what I can't articulate what the difference was.
+
+645
+00:25:51,140 --> 00:25:55,300
+It felt like it was bigger, more expansive maybe than a DZ.
+
+646
+00:25:55,300 --> 00:25:58,580
+Was it more about the long tubes?
+
+647
+00:25:58,580 --> 00:26:00,260
+It seemed pretty tubby.
+
+648
+00:26:00,260 --> 00:26:01,060
+It's pretty tubby.
+
+649
+00:26:01,620 --> 00:26:07,140
+And I like the aesthetic more because it's sort of more in that zone of like
+
+650
+00:26:08,100 --> 00:26:12,900
+the Memphis style Taco Bells with the turquoise and the purple.
+
+651
+00:26:12,900 --> 00:26:14,020
+Yes, it was.
+
+652
+00:26:14,020 --> 00:26:19,940
+It's a color scheme I more want to run around today than the strong red of Discovery Zone.
+
+653
+00:26:19,940 --> 00:26:20,420
+Yeah.
+
+654
+00:26:20,420 --> 00:26:22,020
+Well, and the connection too.
+
+655
+00:26:22,020 --> 00:26:23,220
+I mean, it was started by McDonald's.
+
+656
+00:26:23,220 --> 00:26:25,940
+I'm so excited by this connection that I didn't know.
+
+657
+00:26:25,940 --> 00:26:26,660
+You didn't know this.
+
+658
+00:26:26,660 --> 00:26:27,300
+I didn't know.
+
+659
+00:26:27,300 --> 00:26:28,260
+I didn't know it either.
+
+660
+00:26:28,260 --> 00:26:30,820
+They were the ones who made the McDonald's Play Place.
+
+661
+00:26:30,820 --> 00:26:31,620
+Yes.
+
+662
+00:26:31,620 --> 00:26:36,740
+And they're like they set the standard for like the tube based play place.
+
+663
+00:26:36,740 --> 00:26:39,860
+Sly tube based entertainment.
+
+664
+00:26:39,860 --> 00:26:42,740
+That started with Leaps and Bounds of McDonald's in what?
+
+665
+00:26:42,740 --> 00:26:45,780
+87 is when the Play Place, I think the first Play Place went in.
+
+666
+00:26:45,780 --> 00:26:46,900
+Was it not till 87?
+
+667
+00:26:46,900 --> 00:26:47,780
+There was something around there.
+
+668
+00:26:48,660 --> 00:26:50,260
+So we grew up right in front.
+
+669
+00:26:50,260 --> 00:26:51,540
+They were all new even.
+
+670
+00:26:51,540 --> 00:26:51,940
+Yes.
+
+671
+00:26:51,940 --> 00:26:52,500
+Yes.
+
+672
+00:26:52,500 --> 00:26:53,140
+That's interesting.
+
+673
+00:26:53,140 --> 00:26:55,940
+But then there were like playgrounds, right?
+
+674
+00:26:55,940 --> 00:26:57,140
+Because those characters exactly.
+
+675
+00:26:57,140 --> 00:26:58,980
+I've seen ads from the 70s for those.
+
+676
+00:26:58,980 --> 00:26:59,860
+That's different.
+
+677
+00:26:59,860 --> 00:27:04,340
+The actual like tube stuff, not the like Officer Big Mac jail, I believe.
+
+678
+00:27:04,340 --> 00:27:05,220
+I think that stuff is older.
+
+679
+00:27:05,220 --> 00:27:09,780
+Yeah, the transition to the plasticky bubbly tubes and all.
+
+680
+00:27:09,780 --> 00:27:10,260
+Yeah.
+
+681
+00:27:10,260 --> 00:27:14,900
+That was in the way that all the McDonald's now are kind of being stripped of personality,
+
+682
+00:27:14,900 --> 00:27:18,900
+a lot of dark colors and metal and very modern.
+
+683
+00:27:18,900 --> 00:27:20,180
+Very sad.
+
+684
+00:27:20,180 --> 00:27:23,460
+A lot of them were redone to add the Play Place.
+
+685
+00:27:23,460 --> 00:27:26,580
+Play Places just started showing up in my memory.
+
+686
+00:27:27,140 --> 00:27:31,700
+And this is also the rise of like Happy Meal toys really starting to cook.
+
+687
+00:27:31,700 --> 00:27:32,200
+And heap.
+
+688
+00:27:33,300 --> 00:27:35,140
+They had them for a while.
+
+689
+00:27:35,140 --> 00:27:37,460
+But the Disney, the Disney agreement.
+
+690
+00:27:37,460 --> 00:27:42,500
+Characters you know, you feel like you're participating in the movie that you're excited about.
+
+691
+00:27:42,500 --> 00:27:43,220
+No, for sure.
+
+692
+00:27:44,260 --> 00:27:45,940
+Well, let's do history a little bit.
+
+693
+00:27:45,940 --> 00:27:48,420
+It'll lead us to some leaps and bounds.
+
+694
+00:27:49,220 --> 00:27:56,660
+So founded in 1989 is what I saw.
+
+695
+00:27:58,020 --> 00:27:59,300
+Three founders.
+
+696
+00:27:59,860 --> 00:28:02,740
+There was like a kind of a lot of sportsy people.
+
+697
+00:28:02,740 --> 00:28:08,340
+So I'm Ronald Match, somebody named Dr. David Schoenstadt,
+
+698
+00:28:08,340 --> 00:28:13,060
+who was the owner of the Kansas City Comets, which is an indoor soccer team.
+
+699
+00:28:13,700 --> 00:28:16,660
+And it all founded in Kansas, by the way.
+
+700
+00:28:17,460 --> 00:28:20,660
+And then a guy named Jim Jorgensen.
+
+701
+00:28:20,660 --> 00:28:21,540
+This is the guy.
+
+702
+00:28:21,540 --> 00:28:23,780
+Jim Jorgensen, yeah, I think maybe he's a light guy.
+
+703
+00:28:23,780 --> 00:28:26,180
+I think it's at least guy light.
+
+704
+00:28:26,180 --> 00:28:28,340
+We'd have to determine a little more.
+
+705
+00:28:28,340 --> 00:28:33,780
+But I say this because he has a Wikipedia with a list of the many, many businesses he started.
+
+706
+00:28:33,780 --> 00:28:37,460
+Referred to as a serial entrepreneur on Wikipedia.
+
+707
+00:28:37,460 --> 00:28:41,140
+I think serial entrepreneur might be a key phrase of any guy.
+
+708
+00:28:41,140 --> 00:28:41,380
+I agree.
+
+709
+00:28:41,380 --> 00:28:44,340
+That might be our way to keep finding more guys.
+
+710
+00:28:44,340 --> 00:28:45,940
+I think that's a good start.
+
+711
+00:28:46,260 --> 00:28:50,180
+Is there, I couldn't pull it and I couldn't search it.
+
+712
+00:28:50,180 --> 00:28:54,180
+There's an architectural Jorgensen that comes up a lot too.
+
+713
+00:28:55,300 --> 00:28:58,660
+With a similar name, like was involved with City Walk.
+
+714
+00:28:59,460 --> 00:29:00,740
+Who am I thinking of?
+
+715
+00:29:00,740 --> 00:29:03,300
+Well, City Walk is John Jurdy is the guy.
+
+716
+00:29:03,300 --> 00:29:04,100
+That's the guy.
+
+717
+00:29:04,100 --> 00:29:04,740
+Okay.
+
+718
+00:29:04,740 --> 00:29:06,500
+And it's just the name sounded close.
+
+719
+00:29:06,500 --> 00:29:10,180
+Jorgensen just probably sounds familiar because you've probably heard it
+
+720
+00:29:10,180 --> 00:29:13,220
+in a number of like improv scenes or sketches over the years.
+
+721
+00:29:13,220 --> 00:29:15,140
+I mean, it's a very funny name.
+
+722
+00:29:15,140 --> 00:29:16,260
+Jorgensen, get in.
+
+723
+00:29:16,820 --> 00:29:18,260
+Now Jorgensen.
+
+724
+00:29:18,260 --> 00:29:22,180
+Yeah, I know because Michael Jorgensen plays keyboards in Wilco.
+
+725
+00:29:22,180 --> 00:29:25,460
+Oh, there are real Jorgensen's out there.
+
+726
+00:29:25,460 --> 00:29:26,500
+I don't know if it's the same spelling.
+
+727
+00:29:26,500 --> 00:29:27,700
+I'm doing good work.
+
+728
+00:29:28,660 --> 00:29:33,620
+But this guy was Billy Jean King's business partner.
+
+729
+00:29:33,620 --> 00:29:36,980
+There's a lot of ventures of Billy Jean King, who was in fact an investor.
+
+730
+00:29:39,860 --> 00:29:42,500
+An investor in Discovery Zone.
+
+731
+00:29:42,500 --> 00:29:43,460
+That is so funny.
+
+732
+00:29:44,420 --> 00:29:50,340
+This guy reads, if you read all the stuff he created, whatever it was a part of,
+
+733
+00:29:50,340 --> 00:29:53,140
+it reads like a fake list of stuff you've never heard of.
+
+734
+00:29:53,140 --> 00:29:53,700
+Yeah.
+
+735
+00:29:53,700 --> 00:29:54,820
+And it's really great.
+
+736
+00:29:54,820 --> 00:29:56,180
+Yeah. What do you got?
+
+737
+00:29:56,180 --> 00:30:00,180
+I mean, there's one I really like, but some of the newer ones, he runs something called,
+
+738
+00:30:00,900 --> 00:30:02,260
+hold on, let me scroll and get it.
+
+739
+00:30:02,260 --> 00:30:06,980
+True Artists, which is the largest international organization of certified tattoo artists.
+
+740
+00:30:08,260 --> 00:30:08,580
+All right.
+
+741
+00:30:08,580 --> 00:30:09,060
+Fair enough.
+
+742
+00:30:09,060 --> 00:30:11,620
+We had to put all the tattoo artists in one place.
+
+743
+00:30:11,620 --> 00:30:13,060
+They all been running around willy-nilly.
+
+744
+00:30:13,060 --> 00:30:13,940
+We gotta organize it.
+
+745
+00:30:13,940 --> 00:30:15,780
+They run the annual tattoo awards.
+
+746
+00:30:17,780 --> 00:30:22,980
+I know nothing else about it and I don't have tattoos, but I demand that we host the tattoo awards.
+
+747
+00:30:22,980 --> 00:30:24,260
+I believe we should do that.
+
+748
+00:30:24,820 --> 00:30:25,780
+They scare me.
+
+749
+00:30:25,780 --> 00:30:26,500
+They scare me.
+
+750
+00:30:26,500 --> 00:30:28,260
+They thought of getting one.
+
+751
+00:30:28,260 --> 00:30:28,760
+Yeah.
+
+752
+00:30:28,760 --> 00:30:31,940
+It's scary and I'll get sick and I'll throw up.
+
+753
+00:30:32,980 --> 00:30:34,980
+It adds up with everything else we know about.
+
+754
+00:30:34,980 --> 00:30:41,220
+Western equity, all-American indoor sports, a chain of indoor sports malls.
+
+755
+00:30:41,620 --> 00:30:44,100
+The company built indoor sports malls in the Midwest.
+
+756
+00:30:45,140 --> 00:30:46,340
+That's a Kansas business.
+
+757
+00:30:46,340 --> 00:30:47,540
+There still is one.
+
+758
+00:30:47,540 --> 00:30:48,820
+Yeah. Some of them are around.
+
+759
+00:30:48,820 --> 00:30:49,700
+Some of them are not.
+
+760
+00:30:51,140 --> 00:30:58,340
+Women's sport magazine, Soviet Union national team, an entry in world team tennis in 1977.
+
+761
+00:31:00,020 --> 00:31:00,660
+My favorite one.
+
+762
+00:31:00,660 --> 00:31:01,780
+Do you know, did you look at this list?
+
+763
+00:31:01,780 --> 00:31:03,380
+Yeah, I'm sure I'm staring at things.
+
+764
+00:31:03,380 --> 00:31:04,340
+Is that the same one?
+
+765
+00:31:04,340 --> 00:31:05,300
+We're excited about this.
+
+766
+00:31:05,300 --> 00:31:05,860
+Yeah.
+
+767
+00:31:05,860 --> 00:31:06,740
+Ronnie's ranch.
+
+768
+00:31:06,740 --> 00:31:07,620
+Ronnie's ranch.
+
+769
+00:31:08,260 --> 00:31:10,500
+This is where I thought, God, maybe it's a guy.
+
+770
+00:31:10,500 --> 00:31:11,780
+You open Ronnie's ranch.
+
+771
+00:31:11,780 --> 00:31:12,340
+Ronnie's ranch.
+
+772
+00:31:12,340 --> 00:31:13,700
+The details of Ronnie's ranch.
+
+773
+00:31:13,700 --> 00:31:15,620
+Jason, do you know what Ronnie's ranch is?
+
+774
+00:31:15,620 --> 00:31:19,860
+I read this list really fast and then got upset with the VHS tapes.
+
+775
+00:31:19,860 --> 00:31:22,580
+You would have said it at the start of the episode if you knew what it was.
+
+776
+00:31:23,540 --> 00:31:25,380
+It's a restaurant in Los Angeles.
+
+777
+00:31:26,100 --> 00:31:32,180
+It was co-founded by this guy and Ronnie Burns, son of George Burns and Gracie Allen.
+
+778
+00:31:33,540 --> 00:31:38,820
+You mean I could go to a restaurant conjured up by Ronnie Burns?
+
+779
+00:31:38,820 --> 00:31:40,100
+The Ronnie Burns.
+
+780
+00:31:40,820 --> 00:31:41,860
+He was an actor as well.
+
+781
+00:31:42,900 --> 00:31:46,980
+I am blindsided because I'm like, there's no way it's Ronnie James Dio.
+
+782
+00:31:48,980 --> 00:31:49,620
+I wish.
+
+783
+00:31:49,620 --> 00:31:51,140
+You'd have to go Dio's place.
+
+784
+00:31:51,860 --> 00:31:52,820
+I use the first name.
+
+785
+00:31:53,780 --> 00:31:54,500
+Ronnie's ranch.
+
+786
+00:31:54,500 --> 00:31:55,620
+Could you find a picture of it?
+
+787
+00:31:56,660 --> 00:31:58,260
+No, no, no further information.
+
+788
+00:31:58,260 --> 00:31:59,380
+Only on Wikipedia.
+
+789
+00:31:59,380 --> 00:31:59,540
+Right.
+
+790
+00:31:59,540 --> 00:32:01,140
+This is the only place I could find it.
+
+791
+00:32:01,140 --> 00:32:01,540
+Yeah.
+
+792
+00:32:01,540 --> 00:32:02,820
+So devastating that.
+
+793
+00:32:02,820 --> 00:32:04,980
+Desperate to find Ronnie's ranch.
+
+794
+00:32:04,980 --> 00:32:09,700
+Also very frustrating because this place was listed as the last of three different
+
+795
+00:32:09,700 --> 00:32:12,980
+restaurants that Jorgensen tried over the years, all of which failed.
+
+796
+00:32:14,020 --> 00:32:15,140
+So where are the other ones?
+
+797
+00:32:15,140 --> 00:32:16,420
+They were in the list.
+
+798
+00:32:16,420 --> 00:32:17,620
+I need to know.
+
+799
+00:32:17,620 --> 00:32:19,140
+Was it other sons?
+
+800
+00:32:19,140 --> 00:32:20,020
+What other son?
+
+801
+00:32:20,020 --> 00:32:21,380
+Imogene Coca's son.
+
+802
+00:32:21,380 --> 00:32:23,220
+Billie Jean King's racket restaurant.
+
+803
+00:32:24,500 --> 00:32:25,140
+The big racket.
+
+804
+00:32:25,140 --> 00:32:26,660
+They serve everything on rackets.
+
+805
+00:32:26,660 --> 00:32:27,160
+Yeah.
+
+806
+00:32:27,700 --> 00:32:28,340
+Where was it?
+
+807
+00:32:29,460 --> 00:32:30,980
+Floreto on rackets.
+
+808
+00:32:30,980 --> 00:32:32,020
+I'll throw this out there.
+
+809
+00:32:32,020 --> 00:32:39,380
+I feel like finding restaurant stuff is often not preserved unless it has a real
+
+810
+00:32:39,380 --> 00:32:41,460
+diehard fan that is scan stuff.
+
+811
+00:32:41,460 --> 00:32:43,220
+Well, especially the old restaurants.
+
+812
+00:32:43,220 --> 00:32:48,660
+Old restaurants like stuff that's not around anymore, especially stuff that's more recent.
+
+813
+00:32:48,660 --> 00:32:51,940
+Like, you know, let's say a, a Bennigan's or a ground round.
+
+814
+00:32:51,940 --> 00:32:53,380
+You see that stuff on eBay.
+
+815
+00:32:53,380 --> 00:32:53,880
+Sure.
+
+816
+00:32:54,580 --> 00:32:55,460
+Womp hoppers.
+
+817
+00:32:56,660 --> 00:32:57,460
+But there's not a lot.
+
+818
+00:32:59,460 --> 00:33:00,020
+That's recent.
+
+819
+00:33:00,020 --> 00:33:00,420
+You're right.
+
+820
+00:33:00,420 --> 00:33:05,380
+It's kind of a, it is a black hole a little bit in terms of, in terms of pre internet
+
+821
+00:33:05,380 --> 00:33:06,180
+preservation.
+
+822
+00:33:06,180 --> 00:33:06,340
+Yeah.
+
+823
+00:33:06,340 --> 00:33:07,780
+Unless you loved the restaurant.
+
+824
+00:33:08,740 --> 00:33:15,300
+List of like every combination I tried, list of former discovery zone locations.
+
+825
+00:33:15,300 --> 00:33:17,860
+Cause it did not get up to like 300.
+
+826
+00:33:17,860 --> 00:33:18,340
+It's almost.
+
+827
+00:33:18,340 --> 00:33:19,700
+We got so many.
+
+828
+00:33:19,700 --> 00:33:21,620
+This was a massive chat.
+
+829
+00:33:21,620 --> 00:33:21,860
+Yeah.
+
+830
+00:33:21,860 --> 00:33:29,860
+The maybe the kind of exciting stat to say is it went from one store in 1990 to,
+
+831
+00:33:30,740 --> 00:33:32,180
+yeah, I saw a lot of 300.
+
+832
+00:33:32,180 --> 00:33:36,260
+I don't know if this is, I saw somewhere it said almost 500, whatever it was massive
+
+833
+00:33:36,260 --> 00:33:37,620
+within five years.
+
+834
+00:33:37,780 --> 00:33:40,740
+And then all dead again by 2001.
+
+835
+00:33:40,740 --> 00:33:41,060
+Yeah.
+
+836
+00:33:41,620 --> 00:33:44,740
+We're talking United States, Canada and Puerto Rico.
+
+837
+00:33:46,500 --> 00:33:51,620
+There was a video I watched that was pretty good on the business side.
+
+838
+00:33:51,620 --> 00:33:54,420
+It's the channel is called company insight.
+
+839
+00:33:54,420 --> 00:34:00,340
+And they had like, here are all the business bad business decisions, like why this fell
+
+840
+00:34:00,340 --> 00:34:04,660
+behind, why this expanded way too fast to begin with.
+
+841
+00:34:04,660 --> 00:34:09,780
+And then here's all the stuff, Chuck E cheese did that kept them in the game and all the
+
+842
+00:34:09,780 --> 00:34:14,580
+stuff that like a discovery zone absolutely did not do.
+
+843
+00:34:14,580 --> 00:34:15,060
+Huh?
+
+844
+00:34:15,060 --> 00:34:15,620
+Huh?
+
+845
+00:34:15,620 --> 00:34:16,100
+Interesting.
+
+846
+00:34:16,100 --> 00:34:22,020
+So I guess they feel so similar and it feels like sort of cheap in its construction.
+
+847
+00:34:22,020 --> 00:34:25,380
+But I, yeah, I think just like the bit of the management fast.
+
+848
+00:34:25,380 --> 00:34:25,620
+Yeah.
+
+849
+00:34:25,620 --> 00:34:27,620
+That's what I was saying earlier.
+
+850
+00:34:27,620 --> 00:34:31,140
+This guy, I will say, this is one of those guys where like, I do feel like we could write
+
+851
+00:34:31,220 --> 00:34:37,700
+up a one page on our, we were pitching on last year, a podcast, hard rock cafe idea
+
+852
+00:34:38,500 --> 00:34:39,380
+where it's a podcast.
+
+853
+00:34:39,380 --> 00:34:44,180
+It's all the podcasts like a podcast restaurant.
+
+854
+00:34:44,180 --> 00:34:45,620
+This is a guy who would bite.
+
+855
+00:34:45,620 --> 00:34:45,940
+Yeah.
+
+856
+00:34:45,940 --> 00:34:47,700
+I think he would go, yeah, you know what?
+
+857
+00:34:47,700 --> 00:34:48,500
+You're right.
+
+858
+00:34:48,500 --> 00:34:52,100
+The only thing you'd maybe have to make, well, you don't want to undersell it.
+
+859
+00:34:52,100 --> 00:34:55,940
+You just might have to like be aware of the possibility that we're going to have to change
+
+860
+00:34:55,940 --> 00:35:00,740
+out these menu items a lot as different podcasters get canceled.
+
+861
+00:35:00,740 --> 00:35:04,740
+But as long as you're like, as long as we can just keep reprinting, just don't like,
+
+862
+00:35:04,740 --> 00:35:06,100
+you know, set it in stone.
+
+863
+00:35:06,100 --> 00:35:07,940
+Don't make the menus very expensive.
+
+864
+00:35:07,940 --> 00:35:08,340
+Yeah.
+
+865
+00:35:08,340 --> 00:35:11,060
+Cheap lamination because we're gonna have to slide those in and out.
+
+866
+00:35:11,060 --> 00:35:11,540
+Very good.
+
+867
+00:35:11,540 --> 00:35:12,660
+Very good point.
+
+868
+00:35:12,660 --> 00:35:15,780
+But I think this is a guy to send a proposal to.
+
+869
+00:35:15,780 --> 00:35:16,180
+Our fine.
+
+870
+00:35:16,180 --> 00:35:16,580
+Yeah.
+
+871
+00:35:16,580 --> 00:35:17,460
+Jorgensen getting here.
+
+872
+00:35:17,460 --> 00:35:21,540
+He does not mind having a business startup and flame out in six months.
+
+873
+00:35:21,540 --> 00:35:21,860
+Yeah.
+
+874
+00:35:21,860 --> 00:35:23,300
+That's, this is what we want.
+
+875
+00:35:23,300 --> 00:35:24,500
+The thrill of the chase.
+
+876
+00:35:24,500 --> 00:35:27,860
+Why else do you get in the Ronnie Burns business?
+
+877
+00:35:27,860 --> 00:35:29,460
+You're in the Ronnie Burns business.
+
+878
+00:35:30,020 --> 00:35:31,060
+Ronnie's ranch.
+
+879
+00:35:31,060 --> 00:35:31,860
+I know.
+
+880
+00:35:31,860 --> 00:35:34,020
+Ronnie's ranch in Los Angeles.
+
+881
+00:35:34,020 --> 00:35:34,660
+Where was it?
+
+882
+00:35:34,660 --> 00:35:35,700
+I don't know.
+
+883
+00:35:35,700 --> 00:35:36,900
+There's no other info.
+
+884
+00:35:36,900 --> 00:35:40,900
+That's a great point because there was plenty of Discovery Zones in Las Vegas.
+
+885
+00:35:40,900 --> 00:35:41,060
+Right.
+
+886
+00:35:41,060 --> 00:35:43,700
+Was Ronnie's ranch turned into a Discovery Zone?
+
+887
+00:35:43,700 --> 00:35:44,020
+Yeah.
+
+888
+00:35:44,740 --> 00:35:45,300
+I don't know.
+
+889
+00:35:45,940 --> 00:35:51,060
+You know what was a Discovery Zone was is the Burbank Chuck E. Cheese.
+
+890
+00:35:51,060 --> 00:35:51,620
+Oh, yeah.
+
+891
+00:35:51,620 --> 00:35:51,940
+Yeah.
+
+892
+00:35:51,940 --> 00:35:53,780
+And us was a Discovery Zone.
+
+893
+00:35:54,980 --> 00:35:57,460
+It's, it's hard to tell what.
+
+894
+00:35:57,620 --> 00:35:59,940
+A lot of them just become like sporting good stores.
+
+895
+00:35:59,940 --> 00:36:00,580
+Yeah.
+
+896
+00:36:00,580 --> 00:36:05,300
+Gyms or there's an interesting history to a couple of them, but I'll save that.
+
+897
+00:36:06,740 --> 00:36:09,060
+So starts as one thing, right?
+
+898
+00:36:09,060 --> 00:36:14,740
+And it's these, it's these kind of sports oriented people mostly who are observing
+
+899
+00:36:14,740 --> 00:36:20,740
+that children are in bad shape and a lot of them can't do very basic athletics.
+
+900
+00:36:20,740 --> 00:36:24,420
+Probably looking at some young Scott, Mike's and Jason's out there.
+
+901
+00:36:24,420 --> 00:36:26,740
+We got to do, we got to do something about this.
+
+902
+00:36:27,860 --> 00:36:35,380
+So, you know, sort of a fun kids gym and it starts in Lenexa, Kansas in 1989,
+
+903
+00:36:35,380 --> 00:36:38,420
+which incidentally is the town that Paul Rudd grew up in.
+
+904
+00:36:38,420 --> 00:36:38,900
+Oh, wow.
+
+905
+00:36:38,900 --> 00:36:42,420
+Young Paul Rudd moved there when in age, age 10.
+
+906
+00:36:42,420 --> 00:36:45,140
+Other interesting fact about Paul Rudd's Kansas years,
+
+907
+00:36:45,700 --> 00:36:49,780
+he then was in a city called Overland Park where he worked as a ham glazer.
+
+908
+00:36:50,260 --> 00:36:51,380
+Oh, Jason.
+
+909
+00:36:51,380 --> 00:36:56,260
+Oh, I like that for a honey baked ham or just a home grown ham place.
+
+910
+00:36:56,740 --> 00:36:58,020
+I might've been a more indie.
+
+911
+00:36:58,020 --> 00:36:58,520
+Okay.
+
+912
+00:37:01,620 --> 00:37:05,540
+You know, you get less of the prestige than working at a honey baked ham.
+
+913
+00:37:05,540 --> 00:37:08,020
+You get a lot more hands on experience, a lot sooner.
+
+914
+00:37:08,020 --> 00:37:09,700
+Jason, have you ever glazed a ham?
+
+915
+00:37:10,820 --> 00:37:13,940
+I mean, I've opened up the oven with a spoon.
+
+916
+00:37:13,940 --> 00:37:15,380
+Sounds like a no. Moving on.
+
+917
+00:37:15,380 --> 00:37:16,740
+No, you're not letting me finish.
+
+918
+00:37:16,740 --> 00:37:20,020
+I've opened up the oven and scooped the juices on top of the ham.
+
+919
+00:37:20,020 --> 00:37:21,140
+That's how you glaze a ham.
+
+920
+00:37:21,140 --> 00:37:22,020
+Is that all it is?
+
+921
+00:37:22,020 --> 00:37:22,820
+I think so.
+
+922
+00:37:22,820 --> 00:37:27,460
+I mean, if you're making it at home, like we weren't making hams from raw meat and stuff,
+
+923
+00:37:27,460 --> 00:37:29,300
+but you brought a honey baked ham.
+
+924
+00:37:29,300 --> 00:37:29,700
+So that's where-
+
+925
+00:37:29,700 --> 00:37:32,820
+Or a turkey, you just baste it. You just keep doing that.
+
+926
+00:37:32,820 --> 00:37:34,180
+So glazing is basting?
+
+927
+00:37:35,220 --> 00:37:37,540
+I think reasonably close to basting.
+
+928
+00:37:37,540 --> 00:37:40,260
+Don't quote me. I'm sure we have some great cooks in the audience
+
+929
+00:37:40,260 --> 00:37:42,660
+who can delineate this a little better than I can.
+
+930
+00:37:42,660 --> 00:37:44,980
+This is a tough area. I got the wrong-
+
+931
+00:37:44,980 --> 00:37:50,260
+I was trying to, early in pandemic, say what the ingredients were for a Carthay Manhattan,
+
+932
+00:37:50,260 --> 00:37:52,260
+and I had the one type of bitters and like-
+
+933
+00:37:52,340 --> 00:37:53,700
+This is different, but it's the same.
+
+934
+00:37:53,700 --> 00:37:58,500
+Immediately somebody pounced on me like, no, raw, no, no, no, wrong flavor profile.
+
+935
+00:37:58,500 --> 00:38:00,740
+Well, I will admit I know nothing about this.
+
+936
+00:38:01,860 --> 00:38:06,420
+But I don't mean to say that about you. You might be right on the money with your glazing.
+
+937
+00:38:06,420 --> 00:38:09,300
+It might be more DIY home cook, you know, kind of thing.
+
+938
+00:38:09,300 --> 00:38:11,540
+Let us know if Jason has glazed. From that description,
+
+939
+00:38:11,540 --> 00:38:16,260
+if you're a listener and you've glazed, if you're more of a pro glazer, let us know.
+
+940
+00:38:16,260 --> 00:38:18,580
+Was that a glaze? Did Jason glaze?
+
+941
+00:38:18,580 --> 00:38:20,340
+Hashtag did Jason glaze?
+
+942
+00:38:20,420 --> 00:38:23,860
+I mean, look, if you're buying a honey baked ham, a lot of the work is already done for you.
+
+943
+00:38:23,860 --> 00:38:25,460
+You're probably warming that bad boy.
+
+944
+00:38:26,580 --> 00:38:27,460
+Where maybe you're just taking it-
+
+945
+00:38:27,460 --> 00:38:30,500
+That's why I expect they glaze it before if it's a honey baked ham.
+
+946
+00:38:30,500 --> 00:38:32,740
+Yeah, it's crazy. Yeah, it's got the sugar on the end.
+
+947
+00:38:32,740 --> 00:38:35,140
+That's got the brown sugar crisp on the outside.
+
+948
+00:38:35,140 --> 00:38:36,900
+That's already set. It's already made.
+
+949
+00:38:38,340 --> 00:38:45,220
+I'm going to say also that I looked it up. It's the honey- I'm sorry, the Holiday Ham Company
+
+950
+00:38:45,220 --> 00:38:48,260
+in Overland Park, Kansas, original.
+
+951
+00:38:48,260 --> 00:38:55,380
+I like that Paul Rudd's story involves studying drama at the British American Drama Academy
+
+952
+00:38:55,380 --> 00:39:00,180
+in Oxford and then soon after being at the Holiday Ham Company in Overland Park.
+
+953
+00:39:00,180 --> 00:39:01,540
+The Holiday Ham Company.
+
+954
+00:39:01,540 --> 00:39:04,100
+Now he's Ant-Man. What a journey.
+
+955
+00:39:05,300 --> 00:39:12,180
+So in Paul Rudd's backyard, it starts as one thing, but it booms because I think there is
+
+956
+00:39:12,180 --> 00:39:18,500
+an appetite for stuff like this because concurrent with the rise of Discovery Zone and them adding
+
+957
+00:39:18,500 --> 00:39:24,740
+locations is the rise of Leaps and Bounds and Leaps and Bounds is a McDonald's company.
+
+958
+00:39:24,740 --> 00:39:32,420
+That is a McDonald's subsect and I watched a video from the Bankrupt series by Bright
+
+959
+00:39:32,420 --> 00:39:33,620
+Sun Films, which is great.
+
+960
+00:39:33,620 --> 00:39:34,020
+Yeah.
+
+961
+00:39:34,020 --> 00:39:39,220
+And the implication there is that McDonald's is kind of like, well, let's do this Discovery
+
+962
+00:39:39,220 --> 00:39:43,460
+Zone thing. Who knows if that's correct, but maybe they were trying to like, they at least
+
+963
+00:39:43,460 --> 00:39:48,900
+had their eye on each other certainly and were competition and Mike, you preferred Leaps and
+
+964
+00:39:48,900 --> 00:39:56,660
+Bounds, but something about it didn't work out as well and soon enough Leaps and Bounds is dead.
+
+965
+00:39:56,660 --> 00:39:56,980
+Yeah.
+
+966
+00:39:56,980 --> 00:40:03,460
+And all the locations become Discovery Zones. This is a great little game of Thrones.
+
+967
+00:40:03,460 --> 00:40:06,820
+There's a couple more stages of this to come where the companies kind of-
+
+968
+00:40:06,820 --> 00:40:07,140
+Because McDonald's-
+
+969
+00:40:07,140 --> 00:40:07,940
+Conquer each other.
+
+970
+00:40:07,940 --> 00:40:10,980
+Yeah. McDonald's sells basically, right?
+
+971
+00:40:10,980 --> 00:40:13,060
+They sell. Yeah. Yeah. Yeah.
+
+972
+00:40:13,060 --> 00:40:21,140
+And they end up with a huge investment in Discovery Zone. So this is a big Discovery Zone win. They
+
+973
+00:40:21,140 --> 00:40:25,780
+have more capital. They have more locations. They vanquished an opponent right away.
+
+974
+00:40:25,780 --> 00:40:31,940
+Serious XM radio versus Serious radio or XM was just like, okay, you're doing better.
+
+975
+00:40:32,580 --> 00:40:34,100
+I was like, well, they merged.
+
+976
+00:40:34,100 --> 00:40:37,540
+Yeah, they merged because it felt like XM wasn't doing as well.
+
+977
+00:40:38,100 --> 00:40:41,780
+And similarly like, you know, and Chuck E Cheese is all part of this. And we know that's the story
+
+978
+00:40:41,780 --> 00:40:43,620
+of Chuck E Cheese versus-
+
+979
+00:40:43,620 --> 00:40:44,100
+Chobis.
+
+980
+00:40:44,100 --> 00:40:46,660
+Rockaf- wait, what's the Rockafire rest? Chobis.
+
+981
+00:40:46,660 --> 00:40:47,540
+Chobis Pizza.
+
+982
+00:40:47,540 --> 00:40:48,260
+Chobis Pizza.
+
+983
+00:40:48,260 --> 00:40:50,900
+And then yeah, versus Pizza Time Theater.
+
+984
+00:40:50,900 --> 00:40:51,380
+Right.
+
+985
+00:40:51,380 --> 00:40:53,780
+Not all of which were Chuck E Cheese Pizza Time Theater.
+
+986
+00:40:53,780 --> 00:40:54,260
+Right.
+
+987
+00:40:54,260 --> 00:40:58,500
+This entire industry. And then when you get to the end of the Discovery Zone story.
+
+988
+00:40:59,860 --> 00:41:06,260
+So 45 Leaps and Bounds become Discovery Zone. They got 10- McDonald's has 10% of Discovery Zone
+
+989
+00:41:06,260 --> 00:41:11,940
+now. Things are going great. Lots of expansion. And then they meet the company that really takes
+
+990
+00:41:11,940 --> 00:41:16,180
+them to the next level and the company to tie in with if you've got your eyes on the future.
+
+991
+00:41:16,180 --> 00:41:16,500
+That's right.
+
+992
+00:41:16,500 --> 00:41:17,300
+Blockbuster.
+
+993
+00:41:17,940 --> 00:41:20,980
+Unbelievable when this came into play. I couldn't believe-
+
+994
+00:41:20,980 --> 00:41:21,380
+I didn't know that.
+
+995
+00:41:21,380 --> 00:41:29,460
+And then the other thing I did know at one point in time, I just blanked it out that Blockbuster
+
+996
+00:41:29,460 --> 00:41:31,860
+at the time, a division of Viacom.
+
+997
+00:41:32,420 --> 00:41:39,460
+Yes. Well, and I'm confused by this timeline a little bit because I think maybe the Blockbuster
+
+998
+00:41:40,420 --> 00:41:44,660
+interaction, I think maybe the Blockbuster investment with Discovery Zone is right before
+
+999
+00:41:45,220 --> 00:41:48,900
+Viacom. I also forgot how all these companies came together.
+
+1000
+00:41:48,900 --> 00:41:57,940
+That Viacom merges with Blockbuster. Huge deal. And then they set out together to buy Paramount.
+
+1001
+00:41:58,580 --> 00:42:01,140
+I forgot why Paramount is a Viacom.
+
+1002
+00:42:01,780 --> 00:42:07,860
+This is relatively recent. They're all in the mid-90s. So this all converges
+
+1003
+00:42:09,380 --> 00:42:15,940
+and it fills a niche for Blockbuster because they have been wanting to do
+
+1004
+00:42:16,900 --> 00:42:24,500
+this kind of big experiential arcade types of places. They have had their eyes on this anyway.
+
+1005
+00:42:24,660 --> 00:42:31,780
+This is where I stumble into the chain, the briefly existing chain called Blockparty.
+
+1006
+00:42:31,780 --> 00:42:32,980
+Are you guys aware of Blockparty?
+
+1007
+00:42:32,980 --> 00:42:34,020
+I did not know anything about this.
+
+1008
+00:42:34,020 --> 00:42:41,220
+I think this is their, what we would say now is it Dave and Busters?
+
+1009
+00:42:41,220 --> 00:42:41,620
+Yes.
+
+1010
+00:42:41,620 --> 00:42:47,380
+I think there are some videos on this online that I've kind of carefully gone through. I've
+
+1011
+00:42:47,380 --> 00:42:54,180
+watched really quickly, but I don't remember the specifics. It seems like they were trying to do it
+
+1012
+00:42:54,180 --> 00:43:00,100
+a lot. There's a big thing of this area, I guess, a lot of places. I mean, it's all sort of right
+
+1013
+00:43:00,100 --> 00:43:05,380
+before Disney Quest. This is clearly an area people thought was going to open up and it did
+
+1014
+00:43:05,380 --> 00:43:12,100
+not really open up. But there's a really good review. This is its own thing, but the channel
+
+1015
+00:43:12,100 --> 00:43:17,860
+Review Time did a great video about Blockparty. So it's more adult oriented. It's kind of like
+
+1016
+00:43:17,860 --> 00:43:22,740
+Disney Quest. They made two of them. It wasn't hypothetical. There was one in Albuquerque and
+
+1017
+00:43:22,740 --> 00:43:28,740
+there was one in Indianapolis. These bizarre, that they're Blockbuster theme, Blockbuster Blockparty,
+
+1018
+00:43:28,740 --> 00:43:33,620
+but then they're also video game oriented. And like, there's like a here, the restaurant part is
+
+1019
+00:43:33,620 --> 00:43:40,340
+like you're in a giant pinball machine. They seem, oh, and it's a Blockparty. So it's meant to be
+
+1020
+00:43:40,340 --> 00:43:45,700
+like that you're having a big outdoor Blockparty, but with a roof over your heads, but we want to
+
+1021
+00:43:45,700 --> 00:43:51,700
+make it feel like it's outdoors. So we're going to pipe in, in addition to very loud music, loud
+
+1022
+00:43:51,700 --> 00:43:57,460
+street sounds and like sirens going by. Oh, so hell. So like the level of hell.
+
+1023
+00:43:59,220 --> 00:44:04,580
+All the things we try to block out on this podcast when the garage door is open, they're like,
+
+1024
+00:44:04,580 --> 00:44:11,380
+we want it. This is part of Blockparty. Part of it. Indianapolis location open until 2002.
+
+1025
+00:44:11,380 --> 00:44:17,060
+That's wild. That is really crazy. You know about this before this? No, no. Maybe I passed by that
+
+1026
+00:44:17,220 --> 00:44:24,820
+video. And I was aware of the efforts to make a Blockbuster entire theme park. Right. So in
+
+1027
+00:44:24,820 --> 00:44:29,380
+Indiana, I believe, which if there's any infer the struggle with some of these to turn them into
+
+1028
+00:44:29,380 --> 00:44:34,580
+episodes, is there enough information to go off of? Right. But God, if there is, I would, I am
+
+1029
+00:44:34,580 --> 00:44:42,100
+fascinated by why Blockbuster of all places is trying to go into that sector. It might be a
+
+1030
+00:44:42,100 --> 00:44:49,060
+Blockbuster catch all, but not movies. No video stores have just all of the way when they were
+
+1031
+00:44:49,060 --> 00:44:55,140
+mad with power and mad with money. Yeah. Like there was, you know, West Coast video, video update,
+
+1032
+00:44:55,140 --> 00:45:01,380
+you know, there were, there were RC colas to this Coca-Cola, but I really can't think of,
+
+1033
+00:45:02,580 --> 00:45:08,260
+I guess Hollywood video eventually was kind of like a Pepsi. They were big number two. Yeah.
+
+1034
+00:45:08,260 --> 00:45:12,580
+But I don't think they tried to do anything but video store. Right. No, that's the insane thing.
+
+1035
+00:45:12,580 --> 00:45:17,380
+Like you're looking at concept art of a big outdoor Blockbuster theme park where there's a huge
+
+1036
+00:45:17,380 --> 00:45:22,900
+blimp with the Blockbuster logo going by. Who would like that? Blockbuster is like a place you
+
+1037
+00:45:22,900 --> 00:45:27,620
+have to go. I shut up the kids today. Let's rent something. Yeah. Go rent the page master.
+
+1038
+00:45:28,580 --> 00:45:34,340
+Whoa, I'm in Blockbuster land. As inconvenient as it was convenient. Cause you're like, oh God,
+
+1039
+00:45:34,340 --> 00:45:38,740
+it's Friday night. Is it going to be crowded? Is all the good stuff going to be taken?
+
+1040
+00:45:38,740 --> 00:45:42,420
+Yeah. We never went to Blockbuster. Yeah. We always went to the other stores. It's across
+
+1041
+00:45:42,420 --> 00:45:48,020
+the highway from the pizza place. And when I say highway, I mean a two lane road. That's 45 miles
+
+1042
+00:45:48,020 --> 00:45:53,860
+per hour as opposed to 35 miles per hour. That's right. Yeah. No, we never went. We would go to
+
+1043
+00:45:53,860 --> 00:46:00,900
+new wave video. We would go to a family video. Yeah. No way. Yeah. Or far more rented than the
+
+1044
+00:46:00,900 --> 00:46:07,060
+NES cassettes. No annoying. Yeah. Why would you want to go be in Blockbuster land? Anyway,
+
+1045
+00:46:07,060 --> 00:46:13,060
+I so weird. I think the impetus of it and the impetus that why discovery zone quote on, you
+
+1046
+00:46:13,060 --> 00:46:19,540
+know, we're well before the child obesity panic, you know, we're, we're well before that, but I'm
+
+1047
+00:46:19,540 --> 00:46:26,580
+remembering now a lot of emphasis when we were kids about like, well, it can't be couch potatoes,
+
+1048
+00:46:26,580 --> 00:46:31,780
+this television and these new video games like they need to get outside and play.
+
+1049
+00:46:31,780 --> 00:46:37,620
+And you remember this in your home. Yes. I remember my home, the local news, the local
+
+1050
+00:46:37,620 --> 00:46:43,700
+newspaper. Like this was the biggest threat. Yeah. This was the biggest threat. Because Nintendo
+
+1051
+00:46:43,700 --> 00:46:48,900
+was fairly new that we all have that there's this very engaging thing in our house and there's never
+
+1052
+00:46:48,900 --> 00:46:56,180
+been more like solid entertainment just pumped in front of us. And now there's VHA. Yeah. It makes
+
+1053
+00:46:56,180 --> 00:47:01,620
+sense why these things go together. Yeah. Was it correct? I don't know. I don't think so. Yeah. At
+
+1054
+00:47:01,620 --> 00:47:06,340
+least we can get them out of the house. There's something for the whole family. It's communal
+
+1055
+00:47:06,340 --> 00:47:11,940
+and there's food so we don't have to cook, you know. DZ though, I think DZ went wrong because
+
+1056
+00:47:11,940 --> 00:47:17,620
+it doesn't have as much like, I take this, I say this and I'm wrong, but a parents could at least
+
+1057
+00:47:17,620 --> 00:47:22,820
+in talk, Chuck E. Cheese enjoy a robot show. Yes. You could find some amusement in that even if you
+
+1058
+00:47:22,820 --> 00:47:30,420
+aren't weird irony hounds like us. Right. And also beer and wine. And this was not part of
+
+1059
+00:47:30,420 --> 00:47:37,300
+Discovery Zone probably due to the, you know, their health kick because we're about working out and
+
+1060
+00:47:37,300 --> 00:47:42,820
+so we're not going to have beer and wine. And now we are going to have still horrible pizza, still
+
+1061
+00:47:42,820 --> 00:47:48,580
+the worst pizza you could ever imagine. But then also like we have adult items like quiches.
+
+1062
+00:47:48,580 --> 00:47:58,020
+All right, mom, you're set. Eat your quiche. My mom loved quiche. Yeah, that's true. There's
+
+1063
+00:47:58,020 --> 00:48:02,500
+no doubt about that. They all love quiches, but you're going to the doctor if you're eating the
+
+1064
+00:48:02,500 --> 00:48:09,780
+Discovery Zone quiche. If you're not even all the way through one Discovery Zone quiche. You
+
+1065
+00:48:09,780 --> 00:48:14,660
+will negate whatever good thing you did by running around the Discovery Zone by eating a Discovery
+
+1066
+00:48:14,660 --> 00:48:19,940
+Zone quiche. Yeah, I know. If your mom had known there were quiches inside, she would have been
+
+1067
+00:48:19,940 --> 00:48:26,900
+running too. Yeah, that's a very good point. That's true. Very good point. I know grainy VHS footage
+
+1068
+00:48:26,900 --> 00:48:33,780
+lazily uploaded to YouTube like with a million layers of static is not the best way to immerse
+
+1069
+00:48:33,780 --> 00:48:39,860
+yourself like in what it was really like to be there. But watching all this back, I am like
+
+1070
+00:48:40,660 --> 00:48:50,740
+the DZ Diner, which that's what they call the snack bar. The DZ Diner looked rough. And I got to say
+
+1071
+00:48:50,740 --> 00:48:56,500
+equally rough. Some of these arcades were shit. Like some of these arcades were bad.
+
+1072
+00:48:57,940 --> 00:49:02,340
+This is what's weird. It's just like percentages. Like it is all the stuff Chuck E. Cheese had, but
+
+1073
+00:49:02,340 --> 00:49:07,860
+less robots, although not entirely. We'll get to that. But still arcades. It's like everything. But
+
+1074
+00:49:07,860 --> 00:49:14,660
+then kind of less of some of the good stuff. Right. Yes. So they are arcades. But what's
+
+1075
+00:49:14,660 --> 00:49:21,460
+shitty about the arcade? You just all remember. Just very few machines kind of all over the place
+
+1076
+00:49:21,460 --> 00:49:29,220
+in terms of timeline wise that more business focused YouTube channel emphasize like well,
+
+1077
+00:49:29,220 --> 00:49:34,420
+Chuck E. Cheese has had their ups and downs, but they've tried to stay current with the times. They
+
+1078
+00:49:34,420 --> 00:49:42,420
+update the machines a lot. They update the tick. They went from ticketing to like swipe cards and
+
+1079
+00:49:42,420 --> 00:49:48,740
+discovery zone. Just they, they went all in on lots of locations at the top, but they didn't keep
+
+1080
+00:49:48,740 --> 00:49:53,540
+them up to date. Okay. Yeah. There was, it was not as much variety. And then there was not,
+
+1081
+00:49:53,540 --> 00:49:59,220
+this is what I was the insight from the YouTube channel company insights of the video. I watched.
+
+1082
+00:49:59,220 --> 00:50:03,620
+That's the one. Yeah. That's what I'm talking about. Right. Yeah. Yes. It was like Chuck E.
+
+1083
+00:50:03,620 --> 00:50:06,420
+Cheese. And I do remember this. I do think this is true. You go to Chuck E. Cheese and go,
+
+1084
+00:50:06,420 --> 00:50:11,780
+I wonder what new arcade game they're going to have. Like there was a selling point for me as a kid.
+
+1085
+00:50:11,780 --> 00:50:16,340
+It's a possibility of new, which discovery zone is sort of, I think this factured into me,
+
+1086
+00:50:16,340 --> 00:50:20,980
+not really liking it as a kid. You feel like you went and then you did it. Right. So how do we
+
+1087
+00:50:21,780 --> 00:50:29,620
+keep a turnover and keep adding stuff so that it is different now, which might kind of tie into
+
+1088
+00:50:30,180 --> 00:50:36,820
+the next block of history in my mind, which is so yeah, it becomes part of this Viacom blockbuster
+
+1089
+00:50:37,380 --> 00:50:42,500
+entity. And as soon as you enter into that, it's this thing that we've seen a thousand times,
+
+1090
+00:50:42,500 --> 00:50:47,060
+which is, well, now you have to grow and grow and grow and probably everything we're saying is an
+
+1091
+00:50:47,060 --> 00:50:50,980
+issue. Why are people going back to discovery zone? If they've already done it, they've already been
+
+1092
+00:50:50,980 --> 00:50:58,260
+on the foam pyramid or whatever. And the answer starts to become, well, now we've got it's Viacom
+
+1093
+00:50:58,260 --> 00:51:03,620
+and block, or I'm sorry, and Paramount and these properties, we can put the properties into
+
+1094
+00:51:03,620 --> 00:51:08,420
+discovery zone. And this is stuff that I didn't know about. I always, I thought it was only just
+
+1095
+00:51:08,420 --> 00:51:14,260
+generic run around places. I didn't know that there were tie-ins and I was pretty delighted to
+
+1096
+00:51:14,260 --> 00:51:20,100
+discover the tie-ins, which you mainly discover via like halves of commercials, like the first 15
+
+1097
+00:51:20,100 --> 00:51:25,380
+seconds are general discovery zone. And then like now, you know, we got this and this. First one I
+
+1098
+00:51:25,380 --> 00:51:33,700
+saw Fred Flintstone, the rarest bird of a Fred Flintstone tie-in to a physical place for kids.
+
+1099
+00:51:33,700 --> 00:51:40,340
+Right. But I was very exciting to hear Fred Flintstone singing the song. They made custom
+
+1100
+00:51:40,340 --> 00:51:47,220
+animation for it. Hey, bond, we gotta go to DZ where kids wanna be. Yeah. But never do.
+
+1101
+00:51:48,420 --> 00:51:53,940
+And he does that at the end, like the two phrases tie together. So this, you got Fred Flintstone
+
+1102
+00:51:53,940 --> 00:52:01,220
+stuff going on. The one in the list that's like, well, this might have been good. This may, if I
+
+1103
+00:52:01,220 --> 00:52:09,300
+was too old by then, but if I was the right age when this happened, an MIB laser tag zone. Oh man.
+
+1104
+00:52:09,300 --> 00:52:13,700
+So they did expand into laser tag. I don't think all of them had the room for it, but there were
+
+1105
+00:52:13,700 --> 00:52:22,740
+laser tag arenas. And when I say MIB, I of course mean the animated series. So yeah, you're busting
+
+1106
+00:52:22,740 --> 00:52:29,940
+aliens with maybe the characters from the movie. It is. Jay and Kate, Scott. This is my time to
+
+1107
+00:52:29,940 --> 00:52:35,860
+shine. Yeah, okay. It's time to talk about some of the tie-ins to the most forgettable cartoons
+
+1108
+00:52:35,860 --> 00:52:42,420
+of the mid to late nineties. All right, black suits coming. Well, put that aside because we
+
+1109
+00:52:42,420 --> 00:52:49,060
+need to talk about Godzilla laser adventure. Oh yeah. Oh no. I'm where I was very excited
+
+1110
+00:52:49,060 --> 00:52:55,380
+because again, you hear that and you go, Oh, a Godzilla thing. I could see that. Oh wait,
+
+1111
+00:52:55,380 --> 00:53:01,380
+but then it would have to be that's Godzilla 98, the movie. Oh wait, no, it would have to be.
+
+1112
+00:53:04,100 --> 00:53:10,660
+Yeah, no, it was the very forgettable Godzilla animated series movie tie-in, but not,
+
+1113
+00:53:11,780 --> 00:53:18,100
+which again, I watched most of, if it was in the Fox kids block or the WB kids block, I was watching
+
+1114
+00:53:18,100 --> 00:53:25,300
+it. Sometimes I was watching the one channel and taping the other. And your mom wanted you to get
+
+1115
+00:53:25,300 --> 00:53:30,900
+out. I watched all of it, like the men in black animated show. It sounds like that was good.
+
+1116
+00:53:30,900 --> 00:53:36,260
+By the way, it was pretty good. There were some really great animators where he had some cool
+
+1117
+00:53:36,260 --> 00:53:40,340
+cartoonists and it kind of like expanded the universe. Although I consulted with the friend
+
+1118
+00:53:40,340 --> 00:53:44,740
+of the show, Andrew Grissom on this point. He seemed to be pretty into that one. I think he
+
+1119
+00:53:44,740 --> 00:53:49,860
+tolerated Godzilla, the animated series, but I don't know that anyone tolerated the mask,
+
+1120
+00:53:49,860 --> 00:53:59,060
+the animated series. That too. Yeah, that was, uh, that's very annoying. Yeah. That, that, that,
+
+1121
+00:53:59,060 --> 00:54:04,740
+that voice is a rough people trying to be Jim Carrey. I mean, how many things went wrong?
+
+1122
+00:54:05,860 --> 00:54:12,180
+All, I mean, literally all three of the big initial Jim Carrey properties, they tried to turn into
+
+1123
+00:54:12,180 --> 00:54:17,300
+other things that were just profoundly annoying and don't give you what you want, which is this
+
+1124
+00:54:17,300 --> 00:54:23,300
+one man, the funniest man, any of us, 10 year olds could possibly imagine. Right. Cause there was an
+
+1125
+00:54:23,300 --> 00:54:30,260
+animated Ace Ventura. I think so. Oh yeah. Yeah. And dumb and dumber. They did all of them. Pretty
+
+1126
+00:54:30,260 --> 00:54:35,780
+rough. Uh, this compared to like, again, the earlier, earlier nineties when they had to
+
+1127
+00:54:36,740 --> 00:54:41,540
+work a little harder for that, like the animated Beetlejuice, I remember liking. Yo, yeah. Yeah.
+
+1128
+00:54:41,540 --> 00:54:47,300
+I remember liking that just fine. But then when they were trying to pump out the animated
+
+1129
+00:54:47,300 --> 00:54:53,380
+giants where it's like, it kind of doesn't matter. I mean, am I being big hit? Uh, Godzilla, I think
+
+1130
+00:54:53,380 --> 00:54:59,780
+a reasonable hit, not well received though. No, no. I think it was a disappointment. I was sure it
+
+1131
+00:54:59,780 --> 00:55:04,740
+was okay on paper, but they were, that's post independence day. They're expecting like
+
+1132
+00:55:04,740 --> 00:55:11,140
+ginormous hit, which it makes me wonder, like, were they already tied into, they, like it must
+
+1133
+00:55:11,140 --> 00:55:15,300
+have been, the wheels must have been turning already on the animated series because why else
+
+1134
+00:55:15,300 --> 00:55:21,460
+when you have Godzilla as your main character, what makes you have to keep using the character
+
+1135
+00:55:22,100 --> 00:55:30,500
+Dr. Nico Nick Tadopoulos as played by Matthew Broderick, but then Ian Ziering,
+
+1136
+00:55:30,500 --> 00:55:37,300
+Ian Ziering, Ian Ziering in the, uh, in the show or like Vicki Lewis from news radio
+
+1137
+00:55:38,180 --> 00:55:43,300
+is in the movie and then her character is in none of them. None of them do the voices. Right. Dr.
+
+1138
+00:55:43,300 --> 00:55:49,620
+Elsie Chapman, of course in the, and these are not to be confused with the stars of the latter day
+
+1139
+00:55:49,620 --> 00:55:55,140
+Godzilla, but the more recent one, the 2014, which was of course, Lieutenant Ford Brody and then uh,
+
+1140
+00:55:55,140 --> 00:56:01,860
+2019 Dr. Mark Russell and then Kong versus Godzilla, which was Dr. Nathan Lind. Um, so
+
+1141
+00:56:01,860 --> 00:56:08,580
+how do you spell Lind? What's that? How do you spell Lind? Uh, Lind, L-I-N-D. Like Paul. Uh, no,
+
+1142
+00:56:08,580 --> 00:56:13,780
+Paul Lind is L-Y-N-D-E. Oh, right. You're right. You're right. Yeah. Yeah. Yeah. Um, no, unfortunately,
+
+1143
+00:56:13,780 --> 00:56:21,140
+not. So anyway, yeah. Dr. Ted, Dr. Tadopoulos, Dr. Mark Russell, Dr. Nathan Lind, but it's, it's
+
+1144
+00:56:21,140 --> 00:56:26,260
+these we know, we know these and it's important that we only apply the name standard to Avatar.
+
+1145
+00:56:26,260 --> 00:56:32,500
+This is the only film ever made that we will ever hold to the name standard. Yeah. Um,
+
+1146
+00:56:33,700 --> 00:56:41,060
+anyway, um, these tie ins, I, I, I saw a few of these in that there's like a commercial from 1999
+
+1147
+00:56:41,060 --> 00:56:47,140
+and it's much more intense than the older ones. The song is gone. Uh, you get a little peek of
+
+1148
+00:56:47,140 --> 00:56:54,100
+the Godzilla laser adventure. And, uh, I also saw, I think they called it a video wall. Did you,
+
+1149
+00:56:54,100 --> 00:57:00,260
+it was look like a bunch of TVs and a chain link fence. And if you know, do you, can you picture
+
+1150
+00:57:00,260 --> 00:57:08,180
+what I'm talking about? A few big TVs and a chain link fence. I am very curious if that was a,
+
+1151
+00:57:08,180 --> 00:57:15,220
+I feel like I've seen that I saw that in college for like, um, location art, like gallery video
+
+1152
+00:57:15,220 --> 00:57:21,460
+art. And I'm like, did they do that first or did some corporate dummy make this an aesthetic?
+
+1153
+00:57:21,460 --> 00:57:29,060
+Cause I have very 90s, like nine, like who was the first to do that? Demolition man or something.
+
+1154
+00:57:29,060 --> 00:57:34,260
+Like there's some scene somewhere like a bunch of TVs and a chain link fence. And that was like,
+
+1155
+00:57:34,260 --> 00:57:39,860
+I feel like when DZ started to make that turn, it was like, Oh no, because they can't ever,
+
+1156
+00:57:39,860 --> 00:57:45,540
+they can't fully go that way. It's too primary color little kid. You know? Yeah. I mean, that's,
+
+1157
+00:57:45,540 --> 00:57:50,900
+but that's, everything's going extreme. While cherry Pepsi's can is going wild. It's going nuts.
+
+1158
+00:57:50,900 --> 00:57:55,700
+You know, everything is getting a little bit harsher. Advertising is being as a very,
+
+1159
+00:57:55,700 --> 00:58:01,220
+that edgy can that can was very edgy. I like every wild cherry Pepsi can is a piece of art though.
+
+1160
+00:58:01,220 --> 00:58:07,380
+I will say this. I don't think it's ever been a bad wild cherry. Did you like the cherry Coke can,
+
+1161
+00:58:07,380 --> 00:58:13,940
+the red and white, like the classic font? No, like the nineties one. I think anything in the
+
+1162
+00:58:13,940 --> 00:58:19,460
+nineties that had cherry Coke or Pepsi was pretty great. I, I, I'd have to see all of them again.
+
+1163
+00:58:20,020 --> 00:58:26,020
+A while. Let's see wild cherry Pepsi. I think that's not, yeah, the new one's boring.
+
+1164
+00:58:26,020 --> 00:58:33,700
+It's not offensive to me, but it's yeah, it's all really good. You're just going to keep lost in
+
+1165
+00:58:33,700 --> 00:58:38,660
+your arch. Let me get lost in this. Yeah. WWF New York had that aesthetic of chain link fence TV.
+
+1166
+00:58:40,500 --> 00:58:48,500
+That's after the nineties. How few items can you use to fill a space? Yeah. So yeah, they were
+
+1167
+00:58:48,500 --> 00:58:53,700
+sure they look, they were flailing. They were trying so hard. It's interesting because I,
+
+1168
+00:58:53,700 --> 00:58:56,900
+this was not on my radar at all. These tie. I don't think any, any of us, I guess we were a
+
+1169
+00:58:56,900 --> 00:59:00,100
+little older. I never heard of it. Yeah. What do we wouldn't have in the audience? Although maybe we
+
+1170
+00:59:00,100 --> 00:59:04,340
+should, I think they were aiming for like 11, 12 year olds. I don't remember this at all. Maybe
+
+1171
+00:59:04,340 --> 00:59:09,460
+I now in these properties, like there was a little bit of implication of Nick tunes being an, like,
+
+1172
+00:59:09,460 --> 00:59:14,580
+sure. I'll go somewhere where the Nick tunes are, but Godzilla, the animated series or like the worst
+
+1173
+00:59:14,580 --> 00:59:20,100
+one lost in space rescue challenge. Yeah. I guess it's all the Lacey Shabir,
+
+1174
+00:59:20,900 --> 00:59:26,260
+Matt, William hurt and spade William hurt. Oh, well you think William hurt will be there?
+
+1175
+00:59:27,060 --> 00:59:30,500
+I was very excited to see Gary old boom play. Dr. Smith.
+
+1176
+00:59:32,340 --> 00:59:37,300
+I did like the movie that the tie-ins for that. I remember going like, all right, they're really,
+
+1177
+00:59:38,100 --> 00:59:43,220
+I don't know about this. Not good though. I have no recollection of really what happened in that
+
+1178
+00:59:43,220 --> 00:59:49,300
+movie. I saw it too. I remember, but I remember nothing about it. I got a free like, um, what's
+
+1179
+00:59:49,300 --> 00:59:55,780
+the robot's name? Uh, yeah, I can't think. What is the robot's name? It's just called a Ross in space.
+
+1180
+00:59:55,780 --> 01:00:00,580
+This is a big fail. We don't know the lost. There's somebody who was like, I thought these guys liked
+
+1181
+01:00:00,580 --> 01:00:08,260
+Kitschy bullshit. Cause it looked like the old TV show one. And then he gets like upgraded to a giant
+
+1182
+01:00:08,260 --> 01:00:14,340
+hulking one. And I like that. I like that as well. Um, but yes, I guess men in black,
+
+1183
+01:00:14,980 --> 01:00:18,580
+I didn't really watch that men in black cartoon. It might've been fine, but yes, you're right.
+
+1184
+01:00:18,580 --> 01:00:25,220
+It is like maybe with a better, stronger set of properties, you're getting kids. Maybe if it's
+
+1185
+01:00:25,220 --> 01:00:30,820
+based on like independent state of the movie, which I think every kid collectively who saw it
+
+1186
+01:00:30,820 --> 01:00:36,820
+were obsessed with it. We overthought it. Its name is just robot. Is it? Okay. Yeah. Well, thank
+
+1187
+01:00:36,820 --> 01:00:41,620
+good. I'm glad it's not a specific name because I would be very embarrassed. Robot, uh, robot model
+
+1188
+01:00:41,620 --> 01:00:48,500
+B nine. Everyone just remembers danger. Will Robinson. Yes, I remember that. Yeah. Well,
+
+1189
+01:00:48,500 --> 01:00:53,860
+so I guess what we're finding is that the paramount connection did not open all the doors.
+
+1190
+01:00:53,860 --> 01:00:59,060
+Kids are not like, we gotta go back to discovery zone to see lost in space rescue challenge. Where
+
+1191
+01:00:59,060 --> 01:01:03,460
+was my star trek tie in? Well, they had power Rangers for the first movie. That's true. Yeah.
+
+1192
+01:01:03,460 --> 01:01:08,500
+We're getting a big one. Yeah, that is true. That is on point. And it seemed like there was like
+
+1193
+01:01:08,500 --> 01:01:16,180
+risks things you would get. Um, uh, uh, it did seem like a lot of locations. It was mostly some
+
+1194
+01:01:16,180 --> 01:01:22,580
+cardboard cutouts of the power Rangers. Yeah. That I think you, I think the, the business model was
+
+1195
+01:01:22,580 --> 01:01:28,740
+like, if a regular party for like kids were $5 a head, if you want the power Rangers upgrade,
+
+1196
+01:01:28,740 --> 01:01:35,380
+it's an extra three. So that's the idea there. Um, it doesn't seem like they thought like they
+
+1197
+01:01:35,380 --> 01:01:41,060
+had some really cool things to do with the power. Like if you, the kids all got to dress up, I guess,
+
+1198
+01:01:41,060 --> 01:01:46,420
+like them. And then there was some sort of like organized game. Okay. A little more closer and
+
+1199
+01:01:46,420 --> 01:01:50,340
+you played the music loud. It's not, it doesn't take much. It doesn't take much. But from the
+
+1200
+01:01:50,340 --> 01:01:54,660
+sound of it, I don't think they nailed some sort of transformative experience that kids were
+
+1201
+01:01:54,660 --> 01:02:00,420
+desperate to do. It seemed like they were focused on making money by nickel and diming people.
+
+1202
+01:02:00,420 --> 01:02:05,860
+Cause you can't upcharge for the jungle gym. You know, you can't charge for the tubes. Well,
+
+1203
+01:02:05,860 --> 01:02:10,980
+if you're playing the power Rangers theme, you can, but you can, but like, it's hard to say. So
+
+1204
+01:02:10,980 --> 01:02:16,340
+this side's a few bucks extra, you know? Oh, right, right. There's certain parts of the jungle gym
+
+1205
+01:02:16,340 --> 01:02:22,500
+are more expensive. I was also what Disney's doing. Yeah. We're describing it is. And, uh,
+
+1206
+01:02:22,580 --> 01:02:27,860
+yeah, I there, but there was like, um, like there was a like unattended zip line at some of the,
+
+1207
+01:02:27,860 --> 01:02:34,260
+like a, a 10 foot like thing that you would hold and then drop into mats. Like what was your
+
+1208
+01:02:34,260 --> 01:02:41,060
+favorite part of these contraptions? Like to do pie, just as high as I can be. Yeah. I did like
+
+1209
+01:02:41,060 --> 01:02:46,260
+being high and these things. Yeah. You were a height miser kind of being, but it's this.
+
+1210
+01:02:46,260 --> 01:02:56,100
+Clear. Yeah. Not all being off the ground in a tube. I liked, uh, so that was the end and the
+
+1211
+01:02:56,100 --> 01:03:04,500
+ball pit for sure. But I, yeah, I mean, I'm trying to think like, I think as a kid, the ball pit
+
+1212
+01:03:04,500 --> 01:03:12,820
+seemed like the most fun in reality, not as much fun to do it. Yeah. Once you were in smell,
+
+1213
+01:03:12,820 --> 01:03:18,100
+certainly like kids in there. Yeah. And, but, but navigating it, especially with a bunch of strange
+
+1214
+01:03:18,100 --> 01:03:23,540
+kids, usually it was like, I gotta get out of here and in a different part of this. I know it's like,
+
+1215
+01:03:23,540 --> 01:03:28,500
+you really imagine like I will be, I'll be in there for two hours. That is going to be so glorious.
+
+1216
+01:03:28,500 --> 01:03:33,780
+And instead you sort of want out in three minutes. Yes. So that, so, but, but crawling through the
+
+1217
+01:03:33,780 --> 01:03:39,620
+tubes and stuff. And yes, I agree with getting a very high up in this thing, which is why I think
+
+1218
+01:03:39,620 --> 01:03:44,260
+the leaps and bounds is my favorite because you could get very high in my mind and look down,
+
+1219
+01:03:44,260 --> 01:03:49,140
+see the gains from that height, see him playing the gains, maybe see the characters. Right. Um,
+
+1220
+01:03:49,140 --> 01:03:54,980
+so yeah, I think that either care you, you liked seeing the characters from up high, not close to
+
+1221
+01:03:54,980 --> 01:04:01,620
+them. Well, no, I would, I would be, I would do every angle. Like describe one character that
+
+1222
+01:04:01,620 --> 01:04:07,620
+you liked seeing from up high as opposed to in the cab. No, I mean, if a Chucky is walking around
+
+1223
+01:04:07,620 --> 01:04:12,260
+and you see from the desk, like, Oh, there he is. There he is. You don't mean like seeing a street
+
+1224
+01:04:12,260 --> 01:04:19,220
+fighter. You don't mean see bison on a screen from above. I mean, it's nice if you're trying to clock
+
+1225
+01:04:19,220 --> 01:04:23,780
+like, Oh good, that machine looks as Simpson's games empty now. I see. I gotta get down there.
+
+1226
+01:04:23,780 --> 01:04:27,140
+Yeah. It would take a second to get down there though. And it would be easy to get.
+
+1227
+01:04:27,140 --> 01:04:32,020
+You know, that's part of the thrill. You would try to, I've said this before on the, on the
+
+1228
+01:04:32,020 --> 01:04:38,020
+playground equipment in elementary school, we used to come up with ways to play on it that you
+
+1229
+01:04:38,020 --> 01:04:44,820
+weren't supposed to stand on top of the tubes, like jump off the side of the slide as opposed
+
+1230
+01:04:44,820 --> 01:04:48,980
+to going down the slide. It's a good thing. Your mom yelled at you. She doesn't know anything about
+
+1231
+01:04:48,980 --> 01:04:52,660
+this. She doesn't know anything about this. She's going to listen to this. She will, but she will be
+
+1232
+01:04:52,660 --> 01:04:59,140
+so zoned out listening just to the sound of my voice that she's being discussed. I think so. I
+
+1233
+01:04:59,140 --> 01:05:02,340
+think she's still just going to be listening to how I know we're really protected. We're talking
+
+1234
+01:05:02,340 --> 01:05:08,260
+about you right now. This is Carlson. You don't even know. See, I didn't like, I was a little guy,
+
+1235
+01:05:08,260 --> 01:05:13,940
+so I didn't like being up high. If I could look down and see asphalt discovery zone, I feel there
+
+1236
+01:05:13,940 --> 01:05:19,060
+was some stuff watching this, these videos. I was like, wow, you can really climb up high on that
+
+1237
+01:05:19,060 --> 01:05:25,140
+net. And again, I wasn't a jump off things kid, but I'm like, I would have seen if I could have
+
+1238
+01:05:25,140 --> 01:05:29,300
+landed in that ball pit because my head would have been like, well, they wouldn't have put it here
+
+1239
+01:05:29,300 --> 01:05:35,540
+if I couldn't do this. Right. The, I think another thing is the Chuck E. Cheese. I don't,
+
+1240
+01:05:35,540 --> 01:05:41,300
+I don't believe I spend a lot of time in the play place at Chuck E. Cheese. I was more arcade and
+
+1241
+01:05:41,300 --> 01:05:48,180
+show, but it's because Chuck E. Cheese generally had a smaller one. So I liked if it was a big
+
+1242
+01:05:48,180 --> 01:05:53,060
+play place, I liked it feeling like you could get lost in the tubes a little bit. Yeah. That was
+
+1243
+01:05:53,060 --> 01:05:56,100
+something like fun. If it felt like you were on like a little bit of a journey,
+
+1244
+01:05:57,140 --> 01:06:02,100
+this was more of a maze sort of thing, like discovery zone or leaps and bounds see much
+
+1245
+01:06:02,100 --> 01:06:08,180
+more base. Chuck E. Cheese wants you to do a quick intermission in the tubes and then get back on the
+
+1246
+01:06:08,180 --> 01:06:15,460
+floor, buy some pizza, play some arcade games, get dad to get another picture of court slide.
+
+1247
+01:06:15,460 --> 01:06:19,860
+Getting fired up here. You had, you, yeah, you had your way of doing business there.
+
+1248
+01:06:20,340 --> 01:06:24,980
+Like you seem confident is the way to do it. I agree with what you're saying. The,
+
+1249
+01:06:24,980 --> 01:06:32,260
+the YouTube video we were talking about mentions that some franchisee of, of DZ felt that she had
+
+1250
+01:06:32,260 --> 01:06:36,820
+to buy Domino's pizza and Baskin Robbins ice cream because the quality of the normal stuff
+
+1251
+01:06:36,820 --> 01:06:45,460
+they would normally get from corporate was so poor. Oh my God. So she was losing money.
+
+1252
+01:06:45,460 --> 01:06:52,980
+There's like a six minute video of a guy, like clearly like an in mall entertainment thing. And
+
+1253
+01:06:52,980 --> 01:06:58,580
+he's like, Hey, I'm here checking out the discovery zone here at the South gate mall or whatever. And
+
+1254
+01:06:58,580 --> 01:07:04,020
+he orders one of everything on the menu and the tray they give him looks like, you know,
+
+1255
+01:07:04,020 --> 01:07:11,700
+I love garbage, but I was like, this looks disgusting. This looks bad. I'd like to see that.
+
+1256
+01:07:11,780 --> 01:07:18,820
+Um, so while we're just, we're finding the cracks here, we're discovered the Paramount library does
+
+1257
+01:07:18,820 --> 01:07:24,980
+not, uh, give them all the gifts, the treasure that they want. The food is not so good. The,
+
+1258
+01:07:24,980 --> 01:07:31,540
+the quality they open strong, but the quality does not increase. Um, and of course you're always
+
+1259
+01:07:31,540 --> 01:07:38,020
+fighting that look, I could go to Chuck E cheese and Chuck E cheese has robots. There are no robots
+
+1260
+01:07:38,020 --> 01:07:46,900
+at discovery zone. Well, unless, well, let's pay a little bit of attention to our new friend who I
+
+1261
+01:07:46,900 --> 01:07:58,580
+didn't know about before this, but the discovery zone robot whose name is Z Bob Z Bob. Um, now Z
+
+1262
+01:07:58,580 --> 01:08:05,220
+Bob has, well, maybe we physically described Z Bob for a little bit. If anyone has a photo of him,
+
+1263
+01:08:05,220 --> 01:08:09,220
+I mean, I saw him in the commercial. That's, that's what I realized is like, Oh, subliminally,
+
+1264
+01:08:09,860 --> 01:08:16,660
+they would indicate there is a robot spinning around. Um, though I don't recall if I saw this,
+
+1265
+01:08:17,300 --> 01:08:21,140
+I don't have a strong, I might've seen it not understood that it was a robot. I mean,
+
+1266
+01:08:21,140 --> 01:08:26,740
+I just thought it was a statue. Yeah. Well they, yeah, they, they, I are a video game. That's sort
+
+1267
+01:08:26,740 --> 01:08:31,540
+of just the casing looks like a robot. Yeah. Yeah, totally. That's kind of what I thought.
+
+1268
+01:08:31,540 --> 01:08:36,420
+It's just, it's very bright plastic. It's the color scheme that I described here earlier. It's,
+
+1269
+01:08:36,420 --> 01:08:43,540
+it's big, bold, bright primary colors, big yellow ball face and big blue nose. And then, and, and
+
+1270
+01:08:43,540 --> 01:08:54,660
+red body boxing glove hands like that. Um, and then kind of springy, uh, antenna with little balls up
+
+1271
+01:08:54,660 --> 01:09:00,100
+on top kind of looks like a, like a children's drawing come to light. Like it looks like a kid
+
+1272
+01:09:00,100 --> 01:09:06,580
+tried to draw Ernie or Bert. Yes. It ended up off, but it's kind of cute in its own right.
+
+1273
+01:09:06,580 --> 01:09:12,500
+Right. It looks, it looks like a knockoff of some, it looks, there's a cheap quality to it,
+
+1274
+01:09:12,500 --> 01:09:18,500
+even though it's not poorly made, I don't think. I don't think so. It seems, it seems well made.
+
+1275
+01:09:18,500 --> 01:09:25,380
+Decent quality. Um, now one leg up that these robots have as opposed to Munch and Jasper in
+
+1276
+01:09:25,380 --> 01:09:30,740
+the gang is that you might be able to get right up close to this robot in the ads indicate that
+
+1277
+01:09:30,740 --> 01:09:36,740
+he might roll up and join you at your table. Terrifying, terrifying prospect. I would've
+
+1278
+01:09:36,740 --> 01:09:44,020
+down side for so scared. Touch my buttons. No, I know. No, thank you, sir. Oh yes. So that's part
+
+1279
+01:09:44,020 --> 01:09:49,380
+of it set of four buttons of the only colors at discovery zone. And I think you would press them
+
+1280
+01:09:49,380 --> 01:09:56,740
+and it would make like silly sounds. Right. That sort of thing. Curly from the three stooges made
+
+1281
+01:09:56,740 --> 01:10:03,060
+the sound. It would play one of those. Wow. A robotic curly every kid's dream. That's right.
+
+1282
+01:10:03,060 --> 01:10:10,580
+Um, so I don't know. You know what I have to, I gotta say nobody's tone really spiked when we
+
+1283
+01:10:10,580 --> 01:10:17,220
+started talking about Z-Bob. I don't like it. Nobody likes Z-Bob. Maybe I hadn't come to terms
+
+1284
+01:10:17,220 --> 01:10:21,300
+with it until I started describing him. I don't hate him. Look, I don't look, I don't want to make
+
+1285
+01:10:21,300 --> 01:10:26,740
+for the record. I don't hate Z-Bob. I would even if you were to say, is he cute? I might go, yeah,
+
+1286
+01:10:26,740 --> 01:10:34,660
+he's cute. Not enough to save the enterprise. No, no. Okay. There's a YouTube video just called
+
+1287
+01:10:34,660 --> 01:10:41,460
+Z-Bob eBay video. Yes, I found that. Yeah. Everyone find this. Yeah. And you can hear an approximation
+
+1288
+01:10:41,540 --> 01:10:49,940
+of some of the sounds and like what sort of shtick he would do at you. Right. Um, and it didn't help.
+
+1289
+01:10:51,460 --> 01:10:56,420
+Yeah. It matters. Yeah. I guess I don't, I don't know. It's kind of like it's, it's sort of
+
+1290
+01:10:56,420 --> 01:11:03,620
+my old party entertainment, which seems like where Z-Bob has ended up today. If you're looking for
+
+1291
+01:11:03,620 --> 01:11:10,580
+what happened to these Z-Bops, there are several things that I found. One is that, um, okay,
+
+1292
+01:11:10,580 --> 01:11:16,260
+well all of the information seemed to come from a listing on Worth Point, which we've come across
+
+1293
+01:11:16,260 --> 01:11:22,980
+before with, you know, weird old Arcania and like find old menus or whatever. Right. Uh, Theme Park
+
+1294
+01:11:22,980 --> 01:11:29,140
+relics. Um, recently got a lot of ads for that on Twitter. So things are going great at Worth
+
+1295
+01:11:29,140 --> 01:11:34,420
+Point. What happened to Worth Point? No, no, I'm just saying like if you're getting fed Twitter
+
+1296
+01:11:34,420 --> 01:11:43,780
+ads for in 2022, start at 2023. Oh, I see. Might not have high standards. Uh, well the listeners
+
+1297
+01:11:43,780 --> 01:11:47,300
+are all going to get Worth Point ads because they're listening to this podcast right now.
+
+1298
+01:11:47,300 --> 01:11:52,820
+That's how it works. Um, so listing on Worth Point says some stuff about, you know, kind of
+
+1299
+01:11:52,820 --> 01:11:58,340
+some technical momo jumbo. I didn't understand about the, the, the making of Z-Bop and his,
+
+1300
+01:11:58,340 --> 01:12:03,620
+his innards and what's in him. Like he's got, he's got a computer in his backpack and there's
+
+1301
+01:12:04,340 --> 01:12:10,580
+he's got two amps and, um, and, and it could work if you had somebody who knew what they were doing.
+
+1302
+01:12:10,580 --> 01:12:15,140
+And, um, and actually, um, there's a few of these around. One is used by something called,
+
+1303
+01:12:15,140 --> 01:12:22,660
+called Vaudeville Entertainment, not spelled the way that you know, but VOD, V-I-L-L. And, um,
+
+1304
+01:12:22,660 --> 01:12:30,500
+he's been repurposed and renamed Gizmo, the little boy robot. I went to the website for
+
+1305
+01:12:30,500 --> 01:12:36,500
+Vaudeville Entertainment and found this listing and I saw a picture of a, of a smiling man. His
+
+1306
+01:12:36,500 --> 01:12:41,540
+name is Richard and he works in the Kansas area and he seems like he would come around with a silly
+
+1307
+01:12:41,540 --> 01:12:49,700
+hat and stilts and be maybe your kid birthday party entertainment. Um, then I, the same listing said,
+
+1308
+01:12:49,700 --> 01:12:57,060
+oh, this Z-Bop actually has been on Pawn Stars. There was a Pawn Stars episode where somebody
+
+1309
+01:12:57,060 --> 01:13:04,180
+shows up and Z-Bop just rolls into the store and he's spinning around and showing what he can do.
+
+1310
+01:13:04,180 --> 01:13:09,780
+And it's a good sp- he's pretty like mobile. I got more on board watching him in action on Pawn Stars,
+
+1311
+01:13:09,780 --> 01:13:16,980
+but the Pawn Stars are not impressed. The guy is trying to get 2,500 for it. I believe he paid
+
+1312
+01:13:16,980 --> 01:13:22,340
+15,000. He claims, well, I want to get rid of this because I actually have another one. So I'm fine
+
+1313
+01:13:22,340 --> 01:13:29,780
+with the one Z-Bop and there is no deal. The Pawn Stars compare Z-Bop unfavorably to newer robots
+
+1314
+01:13:29,780 --> 01:13:37,220
+like Asimo. And so, you know, it just seems so old school. We don't think it's a fit for us and to
+
+1315
+01:13:37,220 --> 01:13:43,380
+have in the store. I put something together in watching this Pawn Stars episode that the three
+
+1316
+01:13:44,020 --> 01:13:50,340
+artifacts of Z-Bop, Worth Point, Vaudeville Entertainment and Pawn Stars, all the same person.
+
+1317
+01:13:50,980 --> 01:13:56,100
+Oh, really? The guy who walked into the store is the guy who has the website of I'll come to
+
+1318
+01:13:56,100 --> 01:14:02,820
+your party and bring Z-Bop or rather Gizmo the little boy robot. I'm not sure, like, why does that,
+
+1319
+01:14:02,820 --> 01:14:09,940
+does little robot boy sound better than little boy robot? That's a good question. Little boy.
+
+1320
+01:14:09,940 --> 01:14:17,700
+For some reason, why does that feel creepier to me? Is the little boy robot? I think it's lit. I think
+
+1321
+01:14:18,180 --> 01:14:24,500
+little little robot boy Jason, would you, would you, would you say that phrase in the way?
+
+1322
+01:14:25,300 --> 01:14:29,860
+Little boy robot. Let's not say the other one. Little robot boy.
+
+1323
+01:14:31,220 --> 01:14:39,780
+It rolls off. Yeah, it's cleaner. You have to stutter stop. Yeah. Right. Anyway, so there's one
+
+1324
+01:14:39,780 --> 01:14:47,140
+man, Richard Renner in the Kansas area who is trying to make some dough off of the, I don't know
+
+1325
+01:14:47,140 --> 01:14:52,820
+if he's ever unloaded one of them, but he's, he's certainly trying to turn ownership of Z-Bop into a
+
+1326
+01:14:52,820 --> 01:14:57,220
+business. And I wish him luck. Do you think he's ever had a bad night at the business and he's
+
+1327
+01:14:57,220 --> 01:15:02,660
+kicked Z-Bop? He's like, you're not doing anything for me. We were supposed to be in this together.
+
+1328
+01:15:02,660 --> 01:15:08,260
+This is supposed to be our ticket out of this town. She left and you stayed. He like kicks him
+
+1329
+01:15:08,260 --> 01:15:08,980
+and then you're like,
+
+1330
+01:15:12,340 --> 01:15:14,820
+come on, answer me. Give me a business plan.
+
+1331
+01:15:18,740 --> 01:15:23,380
+That doesn't help me. That's what you always say. He leaves him on the side of the road and then he
+
+1332
+01:15:23,380 --> 01:15:28,580
+comes back for him the next morning. I don't want to say this is a trap, but I feel if you push any
+
+1333
+01:15:28,580 --> 01:15:34,820
+further, like you're gonna like Robert Earl's gonna throw a net over you. Like you're gonna
+
+1334
+01:15:35,380 --> 01:15:42,180
+going to get more information about little boy robot and it'll be under like a big cardboard box
+
+1335
+01:15:42,180 --> 01:15:46,980
+held up by a pole and you will get, you're saying that you think there's a way like that,
+
+1336
+01:15:47,860 --> 01:15:53,380
+like this seems like a way to bait Scott Gardner. This could be a honey pot scenario. Yeah.
+
+1337
+01:15:53,380 --> 01:15:58,500
+Well, luckily my interest in Z-Bop is low enough. Are you saying that if you dig deeper,
+
+1338
+01:15:58,500 --> 01:16:03,540
+you're going to learn that this guy like legally adopted Z-Bop? No, no, I'm saying this is a trap.
+
+1339
+01:16:04,980 --> 01:16:09,620
+There you have the work point is set up to try to that a previous like enemy of the show is
+
+1340
+01:16:09,620 --> 01:16:16,500
+working in conjunction with the gizmo Z-Bop owner. Well, you didn't fool me today. Just like a pond
+
+1341
+01:16:16,500 --> 01:16:22,580
+stars didn't bite. I'm not fighting. I also liked the history that this robot was made by 21st
+
+1342
+01:16:22,580 --> 01:16:30,020
+century robotics in Atlanta, which is a company that previously existed to sell robots to the
+
+1343
+01:16:30,020 --> 01:16:38,580
+Atlanta police that are like robots that the phrase used is child safety ambassador.
+
+1344
+01:16:38,580 --> 01:16:44,980
+Oh my God. And there'd be a robot named NG one or I'm sorry, an ambassador droid named NG one,
+
+1345
+01:16:44,980 --> 01:16:49,780
+who may be a child would feel more comfortable talking to than a scary police officer.
+
+1346
+01:16:49,780 --> 01:16:54,580
+The ambassador droid look like it's, oh, I got to have to, I definitely saw a picture of it,
+
+1347
+01:16:54,580 --> 01:16:58,340
+but I don't have one in front of me. I'll see if I can find NG one really fast.
+
+1348
+01:16:59,300 --> 01:17:05,940
+As I recall kind of like scary and angular and like that one that was in Disney world slash
+
+1349
+01:17:05,940 --> 01:17:10,980
+Rocky four. It seemed a lot up in that neck of the woods. Yeah. Oh, the John,
+
+1350
+01:17:10,980 --> 01:17:14,900
+one that John Daffer out at the nightclub outside of Philadelphia.
+
+1351
+01:17:14,900 --> 01:17:19,860
+Daffer thing with that too. We did that episode so long ago. I, oh my God, I think that ties together.
+
+1352
+01:17:19,860 --> 01:17:27,460
+That's the robot Seiko. Seiko's the monomy Seiko. What are, what are our, our brains made of marbles
+
+1353
+01:17:27,460 --> 01:17:34,580
+today? We're forgetting the name of every robot. He's got to see, you're right. It should have been
+
+1354
+01:17:34,580 --> 01:17:38,420
+at the, it should have been that fast. There's just so many, when you're learning about new
+
+1355
+01:17:38,420 --> 01:17:44,340
+robots all the time, like I got the information about NG one, the child safety ambassador droid,
+
+1356
+01:17:44,340 --> 01:17:49,860
+and it shoved other roads shoved Seiko right out of my head. I have recently listened to that Seiko
+
+1357
+01:17:49,860 --> 01:17:56,660
+song monomy Seiko. Oh, right. Yeah. There's a single Seiko's on a single. I forget the artist
+
+1358
+01:17:56,660 --> 01:18:03,060
+that Seiko is singing with. Um, well, actually I'm sorry, Seiko. I'm sorry. I forgot your song.
+
+1359
+01:18:03,700 --> 01:18:07,140
+Um, and pretty good. It's scary. Can you see it off my computer? He,
+
+1360
+01:18:07,140 --> 01:18:13,940
+this NG one is much scarier than any human is going to be. Oh yeah. Trying to get a kid
+
+1361
+01:18:13,940 --> 01:18:19,940
+comfortable. This is not the way. I mean, I guess if we had a kid who was like an Ultraman enthusiast,
+
+1362
+01:18:19,940 --> 01:18:25,460
+that's true, but that's the only thing I could quick check. You ever seen Ultraman? No.
+
+1363
+01:18:26,740 --> 01:18:34,260
+Um, so I, all right. I mean, this is three strikes, Paramount properties and, uh, the, uh,
+
+1364
+01:18:35,220 --> 01:18:40,900
+new, wait, what was the other problem? Uh, robots, no good food, no good. And yeah,
+
+1365
+01:18:40,900 --> 01:18:46,500
+three strikes this come and all of this combined with expanded too quickly. They owe too much to
+
+1366
+01:18:46,500 --> 01:18:52,420
+the Sumner Redstone Empire, who this is part of why I'm saying maybe this was Blockbuster's dream
+
+1367
+01:18:52,420 --> 01:18:57,780
+and not Viacom's dream. I think they had to, I think Sumner had to deal with this in order to,
+
+1368
+01:18:57,780 --> 01:19:02,260
+all right, what's Blockbuster doing? I guess we'll put up with this and Sumner Redstone had to deal
+
+1369
+01:19:02,260 --> 01:19:07,300
+with this in his autobiography. There's a part of his autobiography where he explains, let me tie it
+
+1370
+01:19:07,300 --> 01:19:13,460
+all together that the, uh, uh, the Blockbuster indoor, the block parties, those were, those failed
+
+1371
+01:19:13,460 --> 01:19:18,820
+and then they were quickly converted into discovery zones. Um, although I think he was wrong about
+
+1372
+01:19:18,820 --> 01:19:23,380
+that because the other one was open until 2002. Sumner, maybe I'm going to say Sumner Redstone
+
+1373
+01:19:23,380 --> 01:19:29,540
+might not have had the vice grip on the Viacom Empire that he might've suggested. Preoccupied with
+
+1374
+01:19:29,540 --> 01:19:41,540
+some other things. Change my diaper. I'm organizing a threesome for me and Robert Evans. Probably.
+
+1375
+01:19:42,020 --> 01:19:49,380
+It's, don't worry. It's Robert Evans, another hot guy. Look at him. We don't have to explain
+
+1376
+01:19:49,380 --> 01:19:55,940
+more. You're going to want to take our shoes off all day. Look, I'm going to Redstone and ultimate
+
+1377
+01:19:55,940 --> 01:20:02,340
+guy. We should really find a reason to talk more Sumner. No, no, we love the tails. Clip my nails
+
+1378
+01:20:02,340 --> 01:20:11,060
+or else I'll drop you at this airport and not pick you up again. Really telling the line from
+
+1379
+01:20:11,060 --> 01:20:17,780
+guide a villain. Oh yes. Yeah. I don't know. Probably. Well, telling the only, he got his
+
+1380
+01:20:17,780 --> 01:20:28,260
+diaper caught on. Oh, he's doing the line. It's like a looney tooties. The diaper with the hole
+
+1381
+01:20:28,260 --> 01:20:34,340
+in it because he was getting an erection through the diaper. These diapers aren't strong enough to
+
+1382
+01:20:34,420 --> 01:20:41,460
+contain erections. I need a better brand. The Acme brand contractions. If you don't know what
+
+1383
+01:20:41,460 --> 01:20:46,020
+we're talking about is Google Sumner and any other words we're talking about. Find a picture of
+
+1384
+01:20:46,020 --> 01:20:52,180
+Sumner Redstone and you'll go, ah, and then you'll realize that that whatever photo you're looking at,
+
+1385
+01:20:52,180 --> 01:20:58,420
+he was still alive for like 20 years past that. He has the thing Bolsonaro has, the four president
+
+1386
+01:20:58,500 --> 01:21:03,380
+Brazil where it's like, are you dying? Like, oh no, this is your normal. Like,
+
+1387
+01:21:07,700 --> 01:21:14,980
+yeah, there might be more Sumner in our future. But anyways, oh, there, boy, I Googled it. There's
+
+1388
+01:21:14,980 --> 01:21:22,900
+great photos. Sumner Redstone. So anyway, I just, I did, I did not know that Sumner Redstone
+
+1389
+01:21:22,900 --> 01:21:28,020
+sometimes had to deal with discovery zone and that is funny is discovery zone is in his book,
+
+1390
+01:21:28,020 --> 01:21:33,540
+three times. What an interesting crossover. That's great. But ultimately it was not to be
+
+1391
+01:21:34,260 --> 01:21:42,660
+in the Viacom empire. I guess the, at the end of the day, discovery zone was an entity that
+
+1392
+01:21:42,660 --> 01:21:53,940
+met disaster after doing business with Viacom, much like my career. I wish I knew the full
+
+1393
+01:21:53,940 --> 01:21:59,540
+discovery zone story or I would have pitched my cartoon somewhere else. Are you in Sumner Redstone's
+
+1394
+01:21:59,540 --> 01:22:09,060
+book? Then there's this dumb cartoon, Nagel paintings. What's that? I want an alcoholic bottle.
+
+1395
+01:22:09,060 --> 01:22:15,140
+One of the poor, I know milk, but with like vodka and wine in it. One of the poor prostitutes,
+
+1396
+01:22:15,140 --> 01:22:18,820
+like watched 15 minutes of it and said she didn't like it and that was the end of your career.
+
+1397
+01:22:18,820 --> 01:22:25,940
+That's probably it. Do you like this? No, that's boring. That's what I thought.
+
+1398
+01:22:26,820 --> 01:22:33,060
+Get the guy who made it onto my plane and then I'll shove him out at 35,000 feet. And if we can't
+
+1399
+01:22:33,060 --> 01:22:38,660
+do that, I'll banish him to be making a podcast for the rest of his life. Playboy mansion. Watch out
+
+1400
+01:22:38,660 --> 01:22:53,460
+for the dog shit and all the hallways and my shit. Oh Sumner. Oh boy. So yeah, look, it went away so
+
+1401
+01:22:53,460 --> 01:22:58,580
+fast. They all started closing in 1990. They were, there were several passes at chapter 11.
+
+1402
+01:22:59,140 --> 01:23:05,700
+And then in 1999, a hundred stores just closed one day, which left all of the managers of these
+
+1403
+01:23:05,700 --> 01:23:12,340
+places who did care about kids and families all having to call dozens of families who have booked
+
+1404
+01:23:12,340 --> 01:23:18,340
+parties and say, I'm sorry. Like, Oh man, we need to find like a manager and be like, how many did
+
+1405
+01:23:18,340 --> 01:23:22,500
+you call and cancel? Cause you booked some of those at least Chuggy cheese. I remember we booked,
+
+1406
+01:23:22,500 --> 01:23:27,540
+my mom booked like my sister's party like weeks, weeks and then you have to really make sure.
+
+1407
+01:23:27,540 --> 01:23:32,180
+Oh yeah. I'm certainly into this area. We, you know, we have not jumped on it fast enough yet.
+
+1408
+01:23:32,420 --> 01:23:37,940
+I don't know how to do this yet. But the, yeah, like here's a quote from one from a manager.
+
+1409
+01:23:37,940 --> 01:23:43,940
+Let's just forget the children crying outside the school bus that arrived with 68 children.
+
+1410
+01:23:43,940 --> 01:23:49,540
+Why the 17 scheduled birthday parties for Saturday? I understand that this is a business
+
+1411
+01:23:49,540 --> 01:23:52,980
+and there's a way to do things, but a business that's supposed to be for the children sure
+
+1412
+01:23:52,980 --> 01:23:59,940
+doesn't seem to care about the children. Wow. School bus 68. All right, we're here. It's time
+
+1413
+01:23:59,940 --> 01:24:04,820
+to go. That's so much more traumatic than what I went through in the parking lot.
+
+1414
+01:24:06,100 --> 01:24:11,940
+Probably all ran. They all like, of course. And then they ran and they just ran into a brick wall.
+
+1415
+01:24:11,940 --> 01:24:19,540
+Summoner Redstone was outside where it closed. You go back on the bus. Step one, close a hundred
+
+1416
+01:24:19,540 --> 01:24:29,300
+stores. Let me see video feeds of all that crying kids. Put the laser zone, put the laser adventure,
+
+1417
+01:24:29,300 --> 01:24:36,020
+put it in the back, collect your tears. I want to save them. It's a whole weekend of tear drinking
+
+1418
+01:24:36,020 --> 01:24:45,540
+for me. Maybe I'll save it. A fine vintage. I'll open it when I'm still alive in 2018. Does anyone
+
+1419
+01:24:45,540 --> 01:24:54,100
+have some plasma to keep me young? Who wants to donate plasma? Early adopter of young blood.
+
+1420
+01:24:54,260 --> 01:24:58,900
+Right. Yeah. Yeah. Let's see. Those are the tears from when I closed discovery zone.
+
+1421
+01:24:58,900 --> 01:25:05,700
+Those are tears when I closed the Paramount theme park. That is me. I'm sure there are lots of kids
+
+1422
+01:25:05,700 --> 01:25:11,060
+who grew up saying like Paramount's King's Dominion, you know, and thought fondly of like,
+
+1423
+01:25:11,060 --> 01:25:16,100
+look, the Nickelodeon characters here are Paramount. This is positive. Flushing it down the drain. We
+
+1424
+01:25:16,100 --> 01:25:19,940
+don't know the brand record. We don't need to eat. We don't need kids liking us. We don't need kids
+
+1425
+01:25:19,940 --> 01:25:25,540
+at all. I'll be alive forever. Let's stop all kids. I'll be around when I'm 300.
+
+1426
+01:25:25,540 --> 01:25:33,060
+Should have added a blood bank in each one to heart. I ran by that Jagged Metal thing.
+
+1427
+01:25:33,060 --> 01:25:39,540
+Oh yeah. Right. That's right. Maybe that kept Sumner alive for a decade. Jason Sheridan's blood
+
+1428
+01:25:39,540 --> 01:25:44,420
+was coursing through Sumner's veins. Well, you'd have to do it as a tie-in. Like I actually,
+
+1429
+01:25:44,980 --> 01:25:51,380
+earlier I had a list up of Paramount Pictures films from the 90s. So if you tied it into like,
+
+1430
+01:25:51,380 --> 01:25:56,980
+it's all right. It's the Harriet the Spy forensics adventure. Harriet needs your help. First,
+
+1431
+01:25:56,980 --> 01:26:02,020
+just give her a couple drops of your blood so she can eliminate you from the suspects list
+
+1432
+01:26:02,740 --> 01:26:07,860
+and help Harriet solve the crime. I am Mark Wahlberg, star of The Italian Job. To pull off
+
+1433
+01:26:07,860 --> 01:26:13,540
+this heist, we need a few things. We need a crew. We need Mini Coopers and we need a pint of your
+
+1434
+01:26:13,540 --> 01:26:21,220
+blood. A pint? That's a lot. You can trust your DZ associates. They're friends of Wahlberg.
+
+1435
+01:26:22,740 --> 01:26:26,180
+Don't be scared of that needle. If you're too scared of that needle, then you're too scared to
+
+1436
+01:26:26,180 --> 01:26:31,860
+help me. This is no Italian job for you. They should have just made Sumner like the Chuck E.
+
+1437
+01:26:31,860 --> 01:26:38,180
+Cheese of DZ. You should have been in all the commercials announcing all this stuff. Then you'd
+
+1438
+01:26:38,180 --> 01:26:42,500
+have a face and kids would want to come back and see him in the show. Come see me. Give me your
+
+1439
+01:26:42,500 --> 01:26:49,860
+blood. Yeah. Oh wow man, I want to give this guy our blood. I'm waiting. He's like the Crypt Keeper.
+
+1440
+01:26:50,820 --> 01:26:55,620
+We mentioned Chuck E. Cheese and they came into play. Oh yeah, that's right. Oh yes, the final
+
+1441
+01:26:55,620 --> 01:27:02,580
+step. Yeah, yeah. They were given control or like they bought a handful. Yeah, they took over a lot
+
+1442
+01:27:02,580 --> 01:27:08,740
+of the spaces. Discovery zones and attempted to like frantically reschedule the birthday parties
+
+1443
+01:27:08,740 --> 01:27:16,100
+or fulfill obligations. Yeah, why not? Wow. Wow. Oh well, good for them. That transition time must
+
+1444
+01:27:16,100 --> 01:27:20,420
+have been interesting because there would be, they're having parties. They have obviously enough
+
+1445
+01:27:20,420 --> 01:27:24,180
+stuff for a kid to do probably in a discovery zone, but then they're probably starting to move
+
+1446
+01:27:24,180 --> 01:27:29,300
+Chuck E. Cheese stuff in there. So they're probably in like, it's like a half Chuck E. Cheese,
+
+1447
+01:27:29,300 --> 01:27:35,700
+half discovery zone. Like there would be hybrid situations during this magical year or two. Geez,
+
+1448
+01:27:35,700 --> 01:27:43,140
+wow. Crazy, crazy flavor combinations like you couldn't imagine. Yeah. So there might have been
+
+1449
+01:27:45,220 --> 01:27:49,060
+Chuck E. goofing around with whatever the hell the robot's name that I've already
+
+1450
+01:27:49,060 --> 01:27:54,500
+forgot because it wasn't good enough to wow. We have forgotten every robot today. Yeah. Z Bob
+
+1451
+01:27:54,500 --> 01:28:00,260
+is the name. God, imagine Chuck E. and Chuck E. and Z Bob. Imagine the possibilities. Just like how
+
+1452
+01:28:00,260 --> 01:28:05,300
+there were Chuck E. Cheese with Billy Bob from the rocket fire explosion photos when there was that
+
+1453
+01:28:05,940 --> 01:28:12,020
+transition as well. You really, boy, think about that. That's another, we didn't realize this was
+
+1454
+01:28:12,020 --> 01:28:20,660
+yet another, an enemy vanquished by big cheese. Yeah. He slid the throat of Z Bob. Well, well,
+
+1455
+01:28:20,660 --> 01:28:26,580
+well. I've done it again. Oh, a little kid's playground, huh? Wanted to get the kids exercising.
+
+1456
+01:28:26,580 --> 01:28:30,980
+That's a way to be different than the old pizza place. And now you come crawling,
+
+1457
+01:28:30,980 --> 01:28:36,740
+but maybe I'll buy your locations. Yeah. How about at one tent at a price?
+
+1458
+01:28:37,700 --> 01:28:41,060
+Hey, thumbnail. I don't need no hole in the front of my diaper.
+
+1459
+01:28:46,420 --> 01:28:51,460
+I don't know how to, where to possibly take it from there. Right. Turn out of that. I think,
+
+1460
+01:28:51,460 --> 01:28:59,300
+I think you survived podcast the ride. The second gate. Well, wait, real quick. Discovery
+
+1461
+01:28:59,300 --> 01:29:05,540
+zone is back. Oh, but it's not discovery zone. Somewhere else is just using that name and
+
+1462
+01:29:05,540 --> 01:29:10,820
+painting everything with bright colors. Basically. And, you know, this kind of came up with the great
+
+1463
+01:29:10,820 --> 01:29:16,580
+Wolf Lodge episode, but there's some language on the website that really rubbed me the wrong way.
+
+1464
+01:29:16,580 --> 01:29:20,980
+Oh no. There's no other way. What's wrong with getting rubbed the wrong way? Yeah.
+
+1465
+01:29:22,100 --> 01:29:27,860
+I need to do it for free for me thumbnail. I don't gotta pay. It's right when it's wrong.
+
+1466
+01:29:27,860 --> 01:29:32,180
+These are located in Union Township, Ohio and Florence, Kentucky. I just gave the lady some
+
+1467
+01:29:32,180 --> 01:29:39,620
+tickets. Both, both at malls. I guess a good use for empty anchor stores, you know. Okay.
+
+1468
+01:29:39,620 --> 01:29:45,620
+Just as a language I'm reading. General admission. Potty trained children, parentheses, not wearing
+
+1469
+01:29:45,620 --> 01:29:51,940
+a diaper or a pull up are $12 and permitted to play in the large play skate. Children still
+
+1470
+01:29:51,940 --> 01:29:59,140
+potty training are get ground level play toddler zone area for $5. The toddler area. If your child
+
+1471
+01:29:59,140 --> 01:30:05,220
+is in a diaper or pull up, we have you covered. Our toddler area is, is only your CEO. That was
+
+1472
+01:30:05,220 --> 01:30:11,860
+in a diaper. What is that? Well, they're writing the checks. So you, they get to go wherever.
+
+1473
+01:30:12,340 --> 01:30:17,460
+The toddler area, it's kind of, it's not a lot to write home about, you know. Oh, that's what they
+
+1474
+01:30:17,460 --> 01:30:23,620
+can do. They have that at home. It looks amateur hour. This is taking making kids stay out of areas.
+
+1475
+01:30:24,420 --> 01:30:32,740
+Every kid can go in our area. The VIP zone where is meant for 96 year old CEOs must prove your
+
+1476
+01:30:32,740 --> 01:30:39,860
+wealth, must prove at least 500 million in net worth and just, just for safety, for cleanup
+
+1477
+01:30:39,860 --> 01:30:46,340
+purposes, no holes in the diaper. Yeah, no, we don't care though. They do mention, you know,
+
+1478
+01:30:46,340 --> 01:30:50,980
+arcade games, straight in your tickets. We have everything from slime to sour candy,
+
+1479
+01:30:50,980 --> 01:30:56,660
+not interested in playing arcades. No problem. Buy prizes straight from the case for your little
+
+1480
+01:30:56,660 --> 01:31:01,540
+ones. Now that's got my attention. That's what I want. That's good advertising. That's good
+
+1481
+01:31:01,540 --> 01:31:05,300
+advertising. You'd have to, it was a secret thing with Chuck, with the Chuckie, you'd have to kind
+
+1482
+01:31:05,300 --> 01:31:08,980
+of make it, you'd have to like wink because they didn't say they didn't advertise it. You could just
+
+1483
+01:31:08,980 --> 01:31:14,740
+buy. Wow. Yeah. Prizes and off menu. Oh, yeah. I just had to know the code. Yeah. But there's
+
+1484
+01:31:14,740 --> 01:31:21,380
+nothing he loves doing more than winking. That's true. Under the table business, wimping, begging,
+
+1485
+01:31:21,380 --> 01:31:31,860
+just a rational solving. I break people down is what I do. You want that pack of Smarties? $50.
+
+1486
+01:31:31,860 --> 01:31:40,100
+$50. That doesn't seem fair, sir. You don't give a shit. You don't want your kid to cry,
+
+1487
+01:31:40,100 --> 01:31:47,220
+do you? I don't care. I love watching kids cry. Same as you, right? Yeah. That's right.
+
+1488
+01:31:47,220 --> 01:31:53,140
+How is my summoner voice different? It's 10% less Jersey. I'm already taking these kids' blood and
+
+1489
+01:31:53,140 --> 01:31:58,420
+staying alive with it. How do you think I got so big? We welcome people of all faiths because it
+
+1490
+01:31:58,420 --> 01:32:06,100
+doesn't matter in here. I'm the king and the god. All right. We're there now. That's it. You
+
+1491
+01:32:06,100 --> 01:32:10,660
+survived by a third of the second gate. If you want to dig even deeper, join us on Club 3 or you
+
+1492
+01:32:10,660 --> 01:32:16,260
+get one more bonus episode every month and our main feed episodes ad free. Yeah, just a little
+
+1493
+01:32:16,260 --> 01:32:22,900
+more money. You can afford it. Yeah, right. It's real. You don't like $3. And what if I said it was
+
+1494
+01:32:23,540 --> 01:32:31,380
+$200? You want to hear them, don't you? You got it here. You want to hear us talk about it.
+
+1495
+01:32:31,380 --> 01:32:39,620
+It's going to splash around, don't you? I just got to say, let us entertain you for $200.
+

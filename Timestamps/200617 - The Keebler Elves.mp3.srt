@@ -1,0 +1,8828 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:24,480
+Welcome to Podcast the Ride, the second gate,
+
+3
+00:00:24,480 --> 00:00:27,540
+where today we're in treat country.
+
+4
+00:00:27,540 --> 00:00:29,960
+I'm Jason Sheridan, joined digitally
+
+5
+00:00:29,960 --> 00:00:31,520
+by Mike Carlson.
+
+6
+00:00:31,520 --> 00:00:34,800
+Mm, smell the fresh air of treat country.
+
+7
+00:00:34,800 --> 00:00:36,960
+Mm, delicious.
+
+8
+00:00:36,960 --> 00:00:39,600
+The freshly mined fudge.
+
+9
+00:00:40,920 --> 00:00:42,680
+It's mined, fudge is mined?
+
+10
+00:00:42,680 --> 00:00:44,300
+It's extracted.
+
+11
+00:00:44,300 --> 00:00:47,360
+I guess it's kind of like the consistency of oil,
+
+12
+00:00:47,360 --> 00:00:49,080
+so I guess extracted.
+
+13
+00:00:49,080 --> 00:00:50,200
+Like, is it fracked?
+
+14
+00:00:50,200 --> 00:00:51,980
+Can you frack fudge?
+
+15
+00:00:51,980 --> 00:00:53,040
+Oh, boy.
+
+16
+00:00:53,040 --> 00:00:56,600
+Let's introduce Scott Gardner before we get into this,
+
+17
+00:00:56,600 --> 00:00:59,760
+because yeah, this is a conversation I could have all day.
+
+18
+00:01:00,720 --> 00:01:03,640
+Yeah, hi, and there is mythology about this,
+
+19
+00:01:03,640 --> 00:01:06,840
+and I was scrambling right before we started
+
+20
+00:01:06,840 --> 00:01:09,520
+and discovering some recent factoids
+
+21
+00:01:09,520 --> 00:01:13,240
+about the logistics of the Keebler tree,
+
+22
+00:01:13,240 --> 00:01:16,920
+including that they call it the fact tree.
+
+23
+00:01:16,920 --> 00:01:17,760
+Yes.
+
+24
+00:01:17,760 --> 00:01:20,400
+The fact tree, so it's T-R-E-E at the end.
+
+25
+00:01:20,400 --> 00:01:22,520
+Yes, yeah, that's late breaking for me.
+
+26
+00:01:22,520 --> 00:01:24,680
+Do you have the diagram, the drawing
+
+27
+00:01:24,680 --> 00:01:26,680
+that goes down into the earth?
+
+28
+00:01:26,680 --> 00:01:27,760
+I do not.
+
+29
+00:01:27,760 --> 00:01:30,200
+I'm very glad that you do.
+
+30
+00:01:30,200 --> 00:01:31,040
+Okay.
+
+31
+00:01:31,040 --> 00:01:34,920
+But you drilled deeper in your research, in fact.
+
+32
+00:01:34,920 --> 00:01:37,080
+Well, you know, I gotta give a lot of credit
+
+33
+00:01:37,080 --> 00:01:39,440
+to Advertising Week, because they,
+
+34
+00:01:40,360 --> 00:01:45,360
+very in-depth series on the Keebler universe.
+
+35
+00:01:46,200 --> 00:01:49,580
+Yeah, they seem to, is that the primary reason
+
+36
+00:01:49,580 --> 00:01:51,940
+for that publication existing?
+
+37
+00:01:52,940 --> 00:01:57,940
+Yeah, I think, you know, convincing people
+
+38
+00:01:58,220 --> 00:02:02,340
+within advertising that advertising is moral and good,
+
+39
+00:02:02,340 --> 00:02:04,780
+and that they're doing something, right?
+
+40
+00:02:06,180 --> 00:02:08,060
+I mean, hey, there's no argument for me
+
+41
+00:02:08,060 --> 00:02:09,820
+on it being moral and good when we're dealing
+
+42
+00:02:09,820 --> 00:02:14,260
+with these magical creatures who help deserts
+
+43
+00:02:14,260 --> 00:02:15,700
+taste uncommonly good.
+
+44
+00:02:15,700 --> 00:02:16,540
+Sure.
+
+45
+00:02:16,540 --> 00:02:19,540
+Yeah, no, this, look, the Keebler elves,
+
+46
+00:02:19,540 --> 00:02:21,140
+I think of them in the same way.
+
+47
+00:02:21,140 --> 00:02:23,820
+I think of great heroes in American history.
+
+48
+00:02:23,820 --> 00:02:28,420
+I think of, you know, who are the greatest heroes
+
+49
+00:02:28,420 --> 00:02:29,260
+in American history?
+
+50
+00:02:29,260 --> 00:02:32,420
+Well, George Washington, Abraham Lincoln,
+
+51
+00:02:32,420 --> 00:02:34,540
+Buckets, the Keebler elf.
+
+52
+00:02:34,540 --> 00:02:38,100
+Patrick Henry, that's a guy, right?
+
+53
+00:02:38,100 --> 00:02:40,020
+Patrick Henry, yes.
+
+54
+00:02:40,020 --> 00:02:41,300
+The furniture.
+
+55
+00:02:41,300 --> 00:02:43,120
+Thomas O'Leary.
+
+56
+00:02:44,180 --> 00:02:45,020
+What?
+
+57
+00:02:45,020 --> 00:02:45,840
+I don't know.
+
+58
+00:02:45,840 --> 00:02:46,900
+Thomas O'Leary?
+
+59
+00:02:46,900 --> 00:02:48,080
+Was he the cow guy?
+
+60
+00:02:49,300 --> 00:02:51,060
+Oh, Mrs. O'Leary?
+
+61
+00:02:52,020 --> 00:02:54,740
+Were they related to Thomas O'Leary and Mrs. O'Leary?
+
+62
+00:02:54,740 --> 00:02:55,820
+I'm not sure.
+
+63
+00:02:55,820 --> 00:02:56,660
+Are you excited?
+
+64
+00:02:56,660 --> 00:02:57,500
+Sounds Irish though.
+
+65
+00:02:57,500 --> 00:02:59,780
+This is a hero from a different land.
+
+66
+00:02:59,780 --> 00:03:01,180
+I don't know if he counts.
+
+67
+00:03:01,180 --> 00:03:03,700
+I'm thinking of Mrs. O'Leary who had the cow
+
+68
+00:03:03,700 --> 00:03:07,620
+that knocked over the candle that started the Chicago fire,
+
+69
+00:03:07,620 --> 00:03:09,820
+which I guess is not a hero in American history,
+
+70
+00:03:09,820 --> 00:03:10,780
+if I think about it.
+
+71
+00:03:10,780 --> 00:03:12,940
+I guess I'm sounding like an idiot now.
+
+72
+00:03:12,940 --> 00:03:17,940
+Did a cow also knock over a vial and cause COVID-19?
+
+73
+00:03:17,980 --> 00:03:20,580
+Oh, yeah, whose cow was it?
+
+74
+00:03:21,700 --> 00:03:25,020
+It's not a question of was it a cow, it's whose cow was it.
+
+75
+00:03:25,020 --> 00:03:28,180
+Yeah, I didn't even acknowledge that that was the actual fact.
+
+76
+00:03:28,180 --> 00:03:29,880
+I just said yes, I agreed with you
+
+77
+00:03:29,880 --> 00:03:32,980
+and started speculating on the owner of the cow
+
+78
+00:03:32,980 --> 00:03:34,940
+that created this horrible virus.
+
+79
+00:03:34,940 --> 00:03:38,740
+We gotta find this cow and if not kill it,
+
+80
+00:03:38,740 --> 00:03:41,340
+then just punish it, just make it feel real bad.
+
+81
+00:03:41,340 --> 00:03:42,680
+Shame it.
+
+82
+00:03:42,680 --> 00:03:44,060
+Yes, yeah.
+
+83
+00:03:44,060 --> 00:03:45,280
+Shame a cow.
+
+84
+00:03:45,280 --> 00:03:47,780
+Cancel the cow, you are canceled.
+
+85
+00:03:47,780 --> 00:03:50,620
+The first cow that's been canceled.
+
+86
+00:03:50,620 --> 00:03:52,540
+What you caused.
+
+87
+00:03:52,540 --> 00:03:57,180
+Yeah, should Mrs. O'Leary's cow have been canceled
+
+88
+00:03:57,180 --> 00:03:58,940
+for starting the Chicago fire?
+
+89
+00:03:58,940 --> 00:04:01,580
+I think so, but they didn't have that word back then.
+
+90
+00:04:02,700 --> 00:04:05,700
+Yeah, you might say that canceling was not a thing,
+
+91
+00:04:06,640 --> 00:04:09,380
+but now that it is a thing, Mrs. O'Leary's cow,
+
+92
+00:04:09,380 --> 00:04:10,940
+you are most definitely canceled.
+
+93
+00:04:10,940 --> 00:04:13,420
+Yeah, although now that I think about it,
+
+94
+00:04:13,420 --> 00:04:15,740
+the cow probably perished in the fire.
+
+95
+00:04:15,780 --> 00:04:19,620
+So I guess that happened.
+
+96
+00:04:19,620 --> 00:04:21,220
+Anyway, that's too dark.
+
+97
+00:04:21,220 --> 00:04:22,980
+That's too dark, yeah.
+
+98
+00:04:22,980 --> 00:04:26,660
+We'll save that for the full Mrs. O'Leary's cow episode.
+
+99
+00:04:28,340 --> 00:04:30,820
+We've done a cow episode already on the second gate.
+
+100
+00:04:30,820 --> 00:04:31,900
+We have.
+
+101
+00:04:31,900 --> 00:04:33,740
+Oh, you're right, second cow episode.
+
+102
+00:04:33,740 --> 00:04:35,920
+Wow, second cow on the second gate.
+
+103
+00:04:37,580 --> 00:04:40,300
+That Kamini moo definitely not canceled,
+
+104
+00:04:40,300 --> 00:04:42,580
+unless you consider dying being canceled.
+
+105
+00:04:44,060 --> 00:04:45,340
+It kind of do.
+
+106
+00:04:45,820 --> 00:04:46,700
+I'm not sure.
+
+107
+00:04:46,700 --> 00:04:48,500
+I think it's if you die,
+
+108
+00:04:48,500 --> 00:04:52,580
+you can be canceled post death, such as Michael Jackson,
+
+109
+00:04:52,580 --> 00:04:57,460
+but I think people sometimes are more of heroes
+
+110
+00:04:57,460 --> 00:04:58,300
+in their death.
+
+111
+00:04:58,300 --> 00:05:00,060
+So you wouldn't call that being canceled.
+
+112
+00:05:00,060 --> 00:05:01,020
+Yeah, that's true.
+
+113
+00:05:02,580 --> 00:05:03,860
+Which is true of the Keebler elves,
+
+114
+00:05:03,860 --> 00:05:06,660
+if they ever passed away, and let's pray that they don't.
+
+115
+00:05:06,660 --> 00:05:08,780
+No, I think they're immortal.
+
+116
+00:05:10,220 --> 00:05:14,020
+Yeah, seemingly, although somewhere in the mythology
+
+117
+00:05:14,020 --> 00:05:18,580
+in looking into this, I believe that when these ads debuted
+
+118
+00:05:18,580 --> 00:05:21,540
+in the late 60s, it was not the same elves
+
+119
+00:05:21,540 --> 00:05:23,100
+that we see today.
+
+120
+00:05:23,100 --> 00:05:25,540
+That doesn't negate that they're immortal.
+
+121
+00:05:25,540 --> 00:05:26,940
+You're 100% right.
+
+122
+00:05:26,940 --> 00:05:29,580
+Those 60s Keebler elves all looked like
+
+123
+00:05:29,580 --> 00:05:32,180
+they had been in the war.
+
+124
+00:05:32,180 --> 00:05:34,380
+They looked hardened.
+
+125
+00:05:34,380 --> 00:05:38,300
+They looked like either World War II or Korea.
+
+126
+00:05:38,300 --> 00:05:42,500
+They had seen some shit before they came back
+
+127
+00:05:42,500 --> 00:05:43,980
+to the home front.
+
+128
+00:05:43,980 --> 00:05:45,460
+They came back to America.
+
+129
+00:05:45,460 --> 00:05:50,460
+They got good paying factory union jobs.
+
+130
+00:05:53,780 --> 00:05:57,540
+But they all look like when the comedian Todd Glass
+
+131
+00:05:57,540 --> 00:06:02,100
+does that joke about how his father used to smoke
+
+132
+00:06:02,100 --> 00:06:04,340
+and he scrunches up his face real tight.
+
+133
+00:06:04,340 --> 00:06:08,260
+That's what the Keebler elves look like in the 60s.
+
+134
+00:06:08,260 --> 00:06:09,980
+I'm not familiar enough.
+
+135
+00:06:10,900 --> 00:06:13,900
+Do we think that if they are immortal
+
+136
+00:06:13,900 --> 00:06:16,460
+and if this factory has been running for a long time,
+
+137
+00:06:16,460 --> 00:06:21,300
+was it started in the 50s in a post-war,
+
+138
+00:06:21,300 --> 00:06:23,300
+now we can enjoy ourselves and eat cookies,
+
+139
+00:06:23,300 --> 00:06:25,940
+or did it exist before and during the war
+
+140
+00:06:25,940 --> 00:06:29,780
+it converted to make artillery and bullets?
+
+141
+00:06:29,780 --> 00:06:33,020
+I'd like to think they were helping with the war effort.
+
+142
+00:06:33,020 --> 00:06:36,540
+I think probably, probably with small things like shells.
+
+143
+00:06:36,540 --> 00:06:39,140
+There's no room to build a tank in the tree
+
+144
+00:06:39,140 --> 00:06:41,820
+unless there's a subterranean area
+
+145
+00:06:41,820 --> 00:06:43,020
+and we'll get into that.
+
+146
+00:06:43,020 --> 00:06:46,300
+But yeah, I think they made little stuff.
+
+147
+00:06:46,300 --> 00:06:50,300
+Yeah, like they were rationing sugar and flour
+
+148
+00:06:50,300 --> 00:06:52,540
+during World War II.
+
+149
+00:06:52,540 --> 00:06:54,740
+So all of the baked goods companies switched
+
+150
+00:06:54,740 --> 00:06:57,140
+to small caliber bullets,
+
+151
+00:06:57,140 --> 00:07:02,140
+similar to how all breweries switched to dairy goods,
+
+152
+00:07:02,260 --> 00:07:04,660
+milk and ice cream during prohibition.
+
+153
+00:07:06,500 --> 00:07:07,340
+Makes sense.
+
+154
+00:07:07,820 --> 00:07:11,620
+Did they make fudge bullets?
+
+155
+00:07:11,620 --> 00:07:12,700
+Well, my question was,
+
+156
+00:07:12,700 --> 00:07:15,940
+did the shells have a chocolate shell on them?
+
+157
+00:07:15,940 --> 00:07:18,300
+I think that maybe just out of habit,
+
+158
+00:07:18,300 --> 00:07:20,420
+that's what they were doing.
+
+159
+00:07:20,420 --> 00:07:23,300
+So if you were shot by one of these,
+
+160
+00:07:24,180 --> 00:07:26,620
+that would hurt because it's coming at you full force.
+
+161
+00:07:26,620 --> 00:07:27,460
+It would kill you.
+
+162
+00:07:27,460 --> 00:07:29,940
+But if you just picked up a chocolate shell bullet
+
+163
+00:07:29,940 --> 00:07:32,740
+off the ground and ate it as a snack later,
+
+164
+00:07:32,740 --> 00:07:35,900
+then deliciousness is your reward.
+
+165
+00:07:35,900 --> 00:07:36,780
+Yeah, exactly.
+
+166
+00:07:36,820 --> 00:07:38,460
+It's like if you jumped from very high up
+
+167
+00:07:38,460 --> 00:07:41,420
+and you landed in the ocean and you got hurt
+
+168
+00:07:41,420 --> 00:07:45,140
+because you were so high up, it's the velocity.
+
+169
+00:07:45,140 --> 00:07:48,740
+Water itself is delightful to jump into.
+
+170
+00:07:49,980 --> 00:07:50,820
+Yeah, yeah.
+
+171
+00:07:50,820 --> 00:07:55,820
+Well, similar also to keep it in fudge factory terms,
+
+172
+00:07:56,900 --> 00:07:59,820
+it's buckets.
+
+173
+00:07:59,820 --> 00:08:04,660
+Buckets, as I'm sure we all learned, spreads the fudge.
+
+174
+00:08:05,660 --> 00:08:09,540
+But if you dove, yes, from an airplane
+
+175
+00:08:09,540 --> 00:08:12,700
+into one of buckets of fudge,
+
+176
+00:08:12,700 --> 00:08:14,620
+then that would hurt very much.
+
+177
+00:08:14,620 --> 00:08:15,620
+Right, yes.
+
+178
+00:08:15,620 --> 00:08:16,940
+That is exactly the, yes.
+
+179
+00:08:16,940 --> 00:08:19,420
+You're 100, as Jason said, you're 100% right.
+
+180
+00:08:22,300 --> 00:08:23,900
+If you fell into the fudge river,
+
+181
+00:08:23,900 --> 00:08:25,660
+I believe there is a fudge river.
+
+182
+00:08:25,660 --> 00:08:28,140
+I assume, Jason, it seems like you discovered
+
+183
+00:08:28,140 --> 00:08:31,380
+all this same stuff, perhaps via advertising weekly.
+
+184
+00:08:31,380 --> 00:08:34,540
+Yeah, it seems like, well, deep underneath the tree,
+
+185
+00:08:35,420 --> 00:08:36,380
+there's a fudge spring.
+
+186
+00:08:36,380 --> 00:08:40,980
+And I texted you guys, there's a cutaway illustration
+
+187
+00:08:40,980 --> 00:08:44,180
+and you can see them getting the fudge.
+
+188
+00:08:44,180 --> 00:08:47,220
+There is a fudge submarine in the underground.
+
+189
+00:08:47,220 --> 00:08:49,500
+Oh, I had to miss the fudge submarine.
+
+190
+00:08:49,500 --> 00:08:50,580
+Oh my God.
+
+191
+00:08:50,580 --> 00:08:54,420
+If you look closely, I guess that's an aqua filter,
+
+192
+00:08:54,420 --> 00:08:56,380
+is that what that's called?
+
+193
+00:08:56,380 --> 00:08:59,380
+The underground reservoir, essentially.
+
+194
+00:08:59,380 --> 00:09:01,340
+They've got some advanced technology,
+
+195
+00:09:01,340 --> 00:09:03,500
+but then they've also got classic buckets
+
+196
+00:09:03,500 --> 00:09:04,860
+pulling the fudge up.
+
+197
+00:09:06,340 --> 00:09:10,700
+Yeah, it's a mix of high tech and ingenious low tech.
+
+198
+00:09:10,700 --> 00:09:13,020
+I mean, yeah, oh my God, what a delight to check my phone
+
+199
+00:09:13,020 --> 00:09:14,820
+and see what you'd passed along.
+
+200
+00:09:14,820 --> 00:09:18,300
+That, okay, there's the tree up above the earth,
+
+201
+00:09:18,300 --> 00:09:21,740
+but then down in the core, it keeps going and going
+
+202
+00:09:21,740 --> 00:09:24,900
+and like widens out to be twice the width of the tree.
+
+203
+00:09:24,900 --> 00:09:26,500
+And there's so much going on in there.
+
+204
+00:09:26,500 --> 00:09:30,100
+Yeah, big like revolving bucket machine and conveyor belts.
+
+205
+00:09:30,100 --> 00:09:31,220
+It's hard to read the writing.
+
+206
+00:09:31,220 --> 00:09:34,340
+This is like a quickly drawn sketch.
+
+207
+00:09:34,340 --> 00:09:37,100
+I think this like came to Ernie the elf in a dream.
+
+208
+00:09:37,100 --> 00:09:39,180
+He and just like, all right, let me just get it down
+
+209
+00:09:39,180 --> 00:09:40,900
+or I'm gonna forget.
+
+210
+00:09:40,900 --> 00:09:44,100
+But there's a baking room, there's a spread the fudge room.
+
+211
+00:09:46,180 --> 00:09:50,340
+What's the bottom, is it described as a fudge spring?
+
+212
+00:09:52,100 --> 00:09:55,700
+Yeah, to the left in the picture, it says fudge spring,
+
+213
+00:09:55,700 --> 00:09:58,900
+but it's clearly pooling.
+
+214
+00:09:58,900 --> 00:10:02,700
+I have another picture too that says the hollow tree
+
+215
+00:10:02,700 --> 00:10:06,140
+also has a deck where the gang gathers to celebrate
+
+216
+00:10:06,140 --> 00:10:09,140
+fresh baked townhouse crackers
+
+217
+00:10:09,140 --> 00:10:13,380
+and seems to only be accessible via trap door.
+
+218
+00:10:13,380 --> 00:10:16,860
+So that's a little bit of confusing planning on their part.
+
+219
+00:10:18,340 --> 00:10:21,500
+Is this, are these drawings going to haunt your dreams
+
+220
+00:10:21,500 --> 00:10:24,700
+like Richard Dreyfus in the, what's the movie?
+
+221
+00:10:24,700 --> 00:10:25,540
+Close encounters.
+
+222
+00:10:25,540 --> 00:10:27,860
+Close encounters of the third kind, yes.
+
+223
+00:10:27,900 --> 00:10:29,780
+I start building the tree.
+
+224
+00:10:29,780 --> 00:10:32,060
+Like you're gonna be just building tree
+
+225
+00:10:32,060 --> 00:10:34,340
+and building a fudge submarine.
+
+226
+00:10:35,980 --> 00:10:38,180
+I think you know the answer to that.
+
+227
+00:10:38,180 --> 00:10:41,100
+When Jason's eating his mashed fudge for dinner,
+
+228
+00:10:42,260 --> 00:10:44,540
+he will form the shape of the fudge tree
+
+229
+00:10:44,540 --> 00:10:46,700
+in the subterranean fudge mine.
+
+230
+00:10:46,700 --> 00:10:51,380
+Before we get too far, should we just remind everyone
+
+231
+00:10:51,380 --> 00:10:55,780
+like the impetus, like what inspired us to do this?
+
+232
+00:10:55,780 --> 00:10:59,540
+Well, this was our second, we're currently recording,
+
+233
+00:10:59,540 --> 00:11:01,740
+this is the second time we've recorded
+
+234
+00:11:01,740 --> 00:11:03,980
+during the 2020 quarantine.
+
+235
+00:11:03,980 --> 00:11:06,300
+And the first time we recorded,
+
+236
+00:11:06,300 --> 00:11:09,540
+Mike was eating the old fudge cookies.
+
+237
+00:11:09,540 --> 00:11:10,380
+Yes.
+
+238
+00:11:10,380 --> 00:11:12,660
+Yeah, I haven't had them in a few years.
+
+239
+00:11:12,660 --> 00:11:13,980
+I don't have treats in the house,
+
+240
+00:11:13,980 --> 00:11:17,140
+but when I put an order in for the grocery store,
+
+241
+00:11:17,140 --> 00:11:20,820
+I said, you know what, let's do something fun.
+
+242
+00:11:20,820 --> 00:11:21,660
+And I got a yellow fudge.
+
+243
+00:11:21,660 --> 00:11:23,540
+This was when you were in like a pit,
+
+244
+00:11:23,580 --> 00:11:25,940
+you're thinking I'm maybe loading up
+
+245
+00:11:25,940 --> 00:11:29,540
+for who knows how long groceries could be tough to get,
+
+246
+00:11:29,540 --> 00:11:33,900
+only necessities and I need them fast if I'm to survive.
+
+247
+00:11:33,900 --> 00:11:37,460
+And you put on that list EL fudge cookies.
+
+248
+00:11:37,460 --> 00:11:40,460
+Yes, 100% that is what I did.
+
+249
+00:11:40,460 --> 00:11:42,220
+That wasn't the first thing I added.
+
+250
+00:11:42,220 --> 00:11:45,020
+I may have put like, you know,
+
+251
+00:11:45,020 --> 00:11:49,220
+peanut butter or like oatmeal first,
+
+252
+00:11:49,220 --> 00:11:51,980
+but maybe four or five, fourth or fifth.
+
+253
+00:11:51,980 --> 00:11:53,140
+Yeah, yeah.
+
+254
+00:11:53,660 --> 00:11:57,540
+It makes sense because desserts and treats
+
+255
+00:11:57,540 --> 00:12:00,420
+have certainly been helping me get through all this.
+
+256
+00:12:00,420 --> 00:12:03,100
+And I've had a high preponderance of,
+
+257
+00:12:03,100 --> 00:12:04,940
+it's been like chips and salty snacks
+
+258
+00:12:04,940 --> 00:12:06,740
+and stuff I don't usually have at home,
+
+259
+00:12:06,740 --> 00:12:08,100
+but at the moment, fuck it.
+
+260
+00:12:09,740 --> 00:12:12,300
+I'll be honest, I haven't had much of an appetite.
+
+261
+00:12:13,300 --> 00:12:16,860
+I have lost like four pounds in two weeks.
+
+262
+00:12:17,900 --> 00:12:18,860
+Well, congrats.
+
+263
+00:12:18,860 --> 00:12:19,700
+Yeah, thank you.
+
+264
+00:12:21,460 --> 00:12:22,820
+Yeah, thanks, it's great.
+
+265
+00:12:24,140 --> 00:12:29,140
+Has Jason's treat intake increased or stayed the same,
+
+266
+00:12:31,700 --> 00:12:36,300
+that being that there's like 10 chocolate buckets
+
+267
+00:12:36,300 --> 00:12:38,780
+in your apartment at any given time.
+
+268
+00:12:38,780 --> 00:12:42,140
+Yeah, I think my intake has stayed the same,
+
+269
+00:12:42,140 --> 00:12:47,140
+but I kind of went on a buying, not a buying spree,
+
+270
+00:12:48,140 --> 00:12:49,540
+but I definitely stocked up.
+
+271
+00:12:49,540 --> 00:12:53,900
+I was surprised though, because there has been,
+
+272
+00:12:53,900 --> 00:12:57,460
+the stores have been well stocked with like treats.
+
+273
+00:12:57,460 --> 00:12:59,900
+You know, you always hear during times of trouble,
+
+274
+00:12:59,900 --> 00:13:04,020
+people go for like salty and sweet snacks quickly, you know?
+
+275
+00:13:04,020 --> 00:13:08,060
+So I thought, but Trader Joe's has been pretty well stocked.
+
+276
+00:13:08,980 --> 00:13:10,660
+Well, I think, yeah, there's been not a lot of,
+
+277
+00:13:10,660 --> 00:13:13,300
+all the pictures I see are the toilet paper gone,
+
+278
+00:13:13,300 --> 00:13:16,100
+the water's gone, the milks are gone.
+
+279
+00:13:16,100 --> 00:13:18,020
+They're not showing pictures of the aisles
+
+280
+00:13:18,020 --> 00:13:21,740
+of like all the Nabisco cookies are gone.
+
+281
+00:13:21,740 --> 00:13:24,860
+I think so far people have maybe only gotten,
+
+282
+00:13:24,860 --> 00:13:29,860
+like their priority was maybe essential things, I guess.
+
+283
+00:13:30,540 --> 00:13:31,700
+Yeah.
+
+284
+00:13:31,700 --> 00:13:33,060
+I guess.
+
+285
+00:13:33,060 --> 00:13:35,340
+But maybe there's more, maybe there's just more stock,
+
+286
+00:13:35,340 --> 00:13:36,300
+I don't know.
+
+287
+00:13:36,300 --> 00:13:37,700
+This by Mike Bear mentioning,
+
+288
+00:13:37,700 --> 00:13:42,020
+I did a little Google hang with a friend of the show,
+
+289
+00:13:42,020 --> 00:13:47,020
+Buzz Buzz, and he pointed out that he had to do a target run
+
+290
+00:13:47,980 --> 00:13:50,420
+in a pinch like, oh, I better actually stock up.
+
+291
+00:13:50,420 --> 00:13:53,460
+And the only thing resembling like milk or something like,
+
+292
+00:13:53,460 --> 00:13:55,740
+like liquid with nutrition in it
+
+293
+00:13:55,740 --> 00:13:57,420
+was something called Ripple.
+
+294
+00:13:57,420 --> 00:14:00,180
+There was a shelf that was full of so much Ripple.
+
+295
+00:14:00,180 --> 00:14:02,220
+And one of the boasting points of Ripple
+
+296
+00:14:02,220 --> 00:14:04,540
+was that it is high in ripatine.
+
+297
+00:14:04,540 --> 00:14:05,380
+What?
+
+298
+00:14:08,220 --> 00:14:09,380
+I don't know.
+
+299
+00:14:09,380 --> 00:14:13,900
+But if anyone out there, if you're feeling low on ripatine,
+
+300
+00:14:13,900 --> 00:14:17,860
+if you have children with you within this trying time
+
+301
+00:14:17,860 --> 00:14:19,820
+and they're running out of ripatine,
+
+302
+00:14:19,820 --> 00:14:21,700
+I do have the product for you.
+
+303
+00:14:22,500 --> 00:14:25,500
+The good people of Ripple have presumably just
+
+304
+00:14:25,500 --> 00:14:27,060
+are overstocking the shelves.
+
+305
+00:14:27,060 --> 00:14:29,620
+It can't be that there's no interest in Ripple.
+
+306
+00:14:29,620 --> 00:14:32,220
+Well, I hadn't thought about my ripatine levels,
+
+307
+00:14:32,220 --> 00:14:35,220
+but now I won't be able to sleep.
+
+308
+00:14:35,220 --> 00:14:37,940
+It's the first thing to go and you can't go outside.
+
+309
+00:14:37,940 --> 00:14:39,780
+You get it from the sun.
+
+310
+00:14:39,780 --> 00:14:42,260
+So all of us being cooped up,
+
+311
+00:14:42,260 --> 00:14:44,300
+we're not soaking up sweet ripatine.
+
+312
+00:14:46,020 --> 00:14:48,420
+Maybe there's ripatine in EL fudges.
+
+313
+00:14:49,540 --> 00:14:50,460
+Could be.
+
+314
+00:14:50,460 --> 00:14:51,380
+I gotta go-
+
+315
+00:14:51,380 --> 00:14:52,420
+In this chocolate.
+
+316
+00:14:52,420 --> 00:14:54,220
+I mean, this isn't a controversial opinion,
+
+317
+00:14:54,220 --> 00:14:56,900
+but I'm gonna say EL fudges, one of the goats,
+
+318
+00:14:56,900 --> 00:15:00,780
+one of the greatest of all times when it comes to cookies,
+
+319
+00:15:00,780 --> 00:15:05,780
+at least like big mass produced cookies, delicious fudge,
+
+320
+00:15:06,140 --> 00:15:09,100
+solid cookies in the shape of fun elves,
+
+321
+00:15:09,100 --> 00:15:11,100
+but that shortbread isn't overwhelming.
+
+322
+00:15:11,100 --> 00:15:12,820
+Sometimes I find Milano's,
+
+323
+00:15:12,820 --> 00:15:15,300
+like you're tasting so much cookie
+
+324
+00:15:15,300 --> 00:15:16,980
+and not enough chocolate kit.
+
+325
+00:15:16,980 --> 00:15:19,180
+You don't really have that problem with EL fudge.
+
+326
+00:15:19,180 --> 00:15:22,300
+Right, and they also have double EL fudges now.
+
+327
+00:15:22,300 --> 00:15:23,140
+Well, I like that.
+
+328
+00:15:23,140 --> 00:15:25,100
+I didn't know that.
+
+329
+00:15:25,100 --> 00:15:25,940
+Yeah.
+
+330
+00:15:25,940 --> 00:15:29,340
+Were you wearing a hat and did it blow off when I said that?
+
+331
+00:15:30,540 --> 00:15:32,620
+Unfortunately, all of the recording equipment
+
+332
+00:15:32,620 --> 00:15:34,060
+has blown across the room.
+
+333
+00:15:34,060 --> 00:15:38,740
+So my channel is gonna sound like shit for a while
+
+334
+00:15:38,740 --> 00:15:40,460
+while I collect myself.
+
+335
+00:15:40,540 --> 00:15:44,420
+Let's do a little, like before we get into the elves
+
+336
+00:15:44,420 --> 00:15:47,060
+and what they're like and who their best friends are,
+
+337
+00:15:47,060 --> 00:15:48,900
+maybe let's do a little,
+
+338
+00:15:48,900 --> 00:15:51,500
+like just our relationship with these cookies
+
+339
+00:15:51,500 --> 00:15:54,180
+and a little history of the actual company.
+
+340
+00:15:54,180 --> 00:15:56,500
+Does that sound like a decent spot to start?
+
+341
+00:15:56,500 --> 00:15:57,340
+Yes, yeah.
+
+342
+00:15:58,540 --> 00:16:02,460
+I mean, obviously like Keebler cookies, a big staple
+
+343
+00:16:02,460 --> 00:16:04,460
+at all of our childhoods, I assume?
+
+344
+00:16:05,900 --> 00:16:06,740
+Yeah.
+
+345
+00:16:06,740 --> 00:16:08,020
+I would say so.
+
+346
+00:16:08,020 --> 00:16:08,860
+I'd say so.
+
+347
+00:16:08,860 --> 00:16:10,660
+I haven't like thought about them or had them
+
+348
+00:16:10,660 --> 00:16:15,660
+in a long time and truly there was a big just spark of joy
+
+349
+00:16:16,460 --> 00:16:18,860
+when you brought them up the other day.
+
+350
+00:16:18,860 --> 00:16:22,020
+I feel like my grandma got them for me the most.
+
+351
+00:16:22,020 --> 00:16:24,500
+I think, you know, that's a little like treat that,
+
+352
+00:16:24,500 --> 00:16:26,380
+you know, way that parents and grandparents
+
+353
+00:16:26,380 --> 00:16:27,740
+can differentiate themselves,
+
+354
+00:16:27,740 --> 00:16:29,940
+those treats that are only at grandma's house.
+
+355
+00:16:29,940 --> 00:16:33,180
+And I believe that EL fudges were only at grandma's house.
+
+356
+00:16:33,180 --> 00:16:34,100
+Interesting.
+
+357
+00:16:34,100 --> 00:16:35,500
+And fruit by the foot.
+
+358
+00:16:35,500 --> 00:16:36,860
+That's what I remember.
+
+359
+00:16:36,860 --> 00:16:39,060
+Really, grandma would buy fruit by the foot?
+
+360
+00:16:40,380 --> 00:16:41,900
+Yeah, she knew I liked that.
+
+361
+00:16:41,900 --> 00:16:44,180
+And I think my parents didn't wander around all the time.
+
+362
+00:16:44,180 --> 00:16:47,660
+So yeah, grandma's house is a special place
+
+363
+00:16:47,660 --> 00:16:49,460
+where I got fruit by the foot.
+
+364
+00:16:50,580 --> 00:16:52,660
+Where I ordered fruit in a different way.
+
+365
+00:16:52,660 --> 00:16:53,740
+I feel like fruit by the foot
+
+366
+00:16:53,740 --> 00:16:55,660
+was not on my grandmother's radar.
+
+367
+00:16:56,780 --> 00:16:58,300
+I think maybe I made her aware.
+
+368
+00:16:58,300 --> 00:17:00,380
+Maybe I just like was talking about it
+
+369
+00:17:00,380 --> 00:17:02,300
+for, you know, half an hour one day.
+
+370
+00:17:03,300 --> 00:17:04,660
+And then it has shapes.
+
+371
+00:17:04,660 --> 00:17:07,300
+And then as a reward for eating it,
+
+372
+00:17:07,300 --> 00:17:09,860
+you get like trivia games and mazes.
+
+373
+00:17:11,220 --> 00:17:12,060
+Isn't that right?
+
+374
+00:17:12,060 --> 00:17:13,580
+Like you peeled it off and there'd be
+
+375
+00:17:13,580 --> 00:17:16,420
+you know, like little stuff on the paper.
+
+376
+00:17:16,420 --> 00:17:20,420
+I just think that like fruit by the foot
+
+377
+00:17:20,420 --> 00:17:22,660
+was too new of an innovation for my grandmother
+
+378
+00:17:22,660 --> 00:17:23,820
+to be aware of it.
+
+379
+00:17:23,820 --> 00:17:25,020
+Not that, I mean, she, you know,
+
+380
+00:17:25,020 --> 00:17:26,460
+she used to more of a traditionalist
+
+381
+00:17:26,460 --> 00:17:27,700
+when it came to like snacks.
+
+382
+00:17:27,700 --> 00:17:31,900
+We would have the like chessmen cookies at her house.
+
+383
+00:17:31,900 --> 00:17:32,740
+Oh, of course.
+
+384
+00:17:33,580 --> 00:17:35,780
+And those are a classic cookie.
+
+385
+00:17:35,780 --> 00:17:38,700
+My grandmother's tended to be whatever kind
+
+386
+00:17:38,700 --> 00:17:41,780
+of like basic snack you could think of blank.
+
+387
+00:17:41,780 --> 00:17:44,540
+Like chips or cookies, but stale.
+
+388
+00:17:44,540 --> 00:17:46,180
+So chips, but stale.
+
+389
+00:17:46,180 --> 00:17:47,780
+Cookies, but stale.
+
+390
+00:17:47,780 --> 00:17:51,100
+Because she would like have like chip clips or whatever,
+
+391
+00:17:51,100 --> 00:17:54,540
+but would never quite put them on very good.
+
+392
+00:17:54,540 --> 00:17:57,860
+So everything would just get a little stale or soft.
+
+393
+00:17:59,620 --> 00:18:02,500
+Yeah, that's, I feel like what's funny about it,
+
+394
+00:18:03,220 --> 00:18:04,060
+is that my grandmother would have like
+
+395
+00:18:04,060 --> 00:18:05,700
+a lot of expired salad dressings.
+
+396
+00:18:05,700 --> 00:18:09,620
+And a couple of years ago, I went home to visit my parents
+
+397
+00:18:09,620 --> 00:18:12,860
+and I noticed they had about five expired salad dressings.
+
+398
+00:18:12,860 --> 00:18:16,900
+And I was like, oh, you're turning into your parents.
+
+399
+00:18:18,060 --> 00:18:19,460
+It's happening.
+
+400
+00:18:19,460 --> 00:18:20,740
+It's, yeah, it's happening.
+
+401
+00:18:20,740 --> 00:18:24,220
+The more, yeah, if your parents have a bunch of like packets,
+
+402
+00:18:24,220 --> 00:18:26,740
+if you start, you know, having a lot of packets
+
+403
+00:18:26,740 --> 00:18:29,100
+in the drawers, that's maybe not a good sign.
+
+404
+00:18:29,100 --> 00:18:31,940
+Yeah, like three-year-old packets.
+
+405
+00:18:31,940 --> 00:18:33,020
+Yeah, yeah.
+
+406
+00:18:33,020 --> 00:18:36,940
+Like, you know, hot sauces from, or like, you know, like,
+
+407
+00:18:36,940 --> 00:18:41,940
+what P.F. Chang's gives you to go for many years.
+
+408
+00:18:41,980 --> 00:18:45,540
+Like I might use this sweet and sour sauce in seven years.
+
+409
+00:18:46,860 --> 00:18:50,300
+Yes, so I think, now you've got me thinking.
+
+410
+00:18:50,300 --> 00:18:53,660
+I don't think we had a lot of Keebler at my grandmother's
+
+411
+00:18:53,660 --> 00:18:55,140
+house as much as we had at home.
+
+412
+00:18:55,140 --> 00:18:57,980
+I think it was more of a home base, Keebler.
+
+413
+00:18:57,980 --> 00:19:00,860
+Jason, where were you at as a family?
+
+414
+00:19:02,100 --> 00:19:04,900
+I mean, I love the Keebler commercials.
+
+415
+00:19:04,900 --> 00:19:06,140
+And I think we would get it sometimes.
+
+416
+00:19:06,140 --> 00:19:09,580
+I feel like we defaulted to Nabisco a lot.
+
+417
+00:19:10,900 --> 00:19:12,940
+Or, I mean, Little Debbie is the cheap,
+
+418
+00:19:12,940 --> 00:19:14,620
+Little Debbie is barely food.
+
+419
+00:19:14,620 --> 00:19:16,380
+Like they can barely charge for that.
+
+420
+00:19:16,380 --> 00:19:19,380
+There is so little actual food in it.
+
+421
+00:19:19,380 --> 00:19:21,540
+But my, the portions.
+
+422
+00:19:21,540 --> 00:19:23,460
+So we would definitely have Keebler stuff.
+
+423
+00:19:23,460 --> 00:19:28,340
+My memory watching, Scott, you had found a compilation
+
+424
+00:19:28,340 --> 00:19:31,140
+of commercials and stuff, and then that just auto-played
+
+425
+00:19:31,140 --> 00:19:32,980
+a million other commercials.
+
+426
+00:19:34,100 --> 00:19:36,580
+That brought back a big memory for me,
+
+427
+00:19:36,580 --> 00:19:41,580
+which was the 90s trend of something that's like a chip,
+
+428
+00:19:41,820 --> 00:19:43,220
+but not quite a chip.
+
+429
+00:19:43,220 --> 00:19:47,060
+Like everything was so, there was like a war
+
+430
+00:19:47,060 --> 00:19:49,340
+to sell chip alternatives.
+
+431
+00:19:49,340 --> 00:19:51,380
+Like it's a cracker, but it crunches like a chip.
+
+432
+00:19:51,380 --> 00:19:55,260
+Like chips were insanely popular,
+
+433
+00:19:55,260 --> 00:19:57,060
+but everyone knew they were bad for them.
+
+434
+00:19:57,060 --> 00:19:57,900
+So everyone would be like,
+
+435
+00:19:57,900 --> 00:20:00,060
+well, this cracker's a little better.
+
+436
+00:20:01,140 --> 00:20:05,980
+That said, as a child, I think I was about 90% pizzerias,
+
+437
+00:20:05,980 --> 00:20:07,220
+if you remember.
+
+438
+00:20:08,260 --> 00:20:09,700
+Those commercials were in here.
+
+439
+00:20:09,700 --> 00:20:14,220
+Pizzerias were like the cracker chip pizza flavored one.
+
+440
+00:20:14,220 --> 00:20:16,340
+And I loved those.
+
+441
+00:20:16,340 --> 00:20:20,780
+Oh man, we were, I'd never heard of pizzerias
+
+442
+00:20:20,780 --> 00:20:23,340
+until watching this commercial now.
+
+443
+00:20:23,340 --> 00:20:26,180
+And I was so grossed out by the idea of them.
+
+444
+00:20:28,460 --> 00:20:30,260
+I don't think I ever had them either.
+
+445
+00:20:31,980 --> 00:20:34,420
+Yeah, I had them a lot.
+
+446
+00:20:34,420 --> 00:20:35,260
+Had them a lot.
+
+447
+00:20:36,820 --> 00:20:37,660
+You will.
+
+448
+00:20:38,980 --> 00:20:40,300
+They don't make, is there any,
+
+449
+00:20:40,300 --> 00:20:42,780
+what is the closest thing that is made that's like these?
+
+450
+00:20:42,780 --> 00:20:43,620
+Do we know?
+
+451
+00:20:43,620 --> 00:20:45,380
+Like that exists today?
+
+452
+00:20:45,380 --> 00:20:47,300
+Only like Pringles and Combos
+
+453
+00:20:47,300 --> 00:20:50,900
+have like pizza flavored anything anymore.
+
+454
+00:20:50,900 --> 00:20:53,380
+Pizza, I hated everything pizza flavored.
+
+455
+00:20:53,380 --> 00:20:55,740
+I don't think it's a reproducible.
+
+456
+00:20:57,180 --> 00:20:58,900
+The flavor was so far off.
+
+457
+00:20:58,900 --> 00:21:01,740
+It was some other thing that didn't resemble pizza.
+
+458
+00:21:01,740 --> 00:21:03,620
+Well, I think I agree with that.
+
+459
+00:21:03,620 --> 00:21:06,260
+Pizzerias were the exception though.
+
+460
+00:21:06,260 --> 00:21:08,180
+They were really good.
+
+461
+00:21:08,180 --> 00:21:09,260
+Missed out.
+
+462
+00:21:09,260 --> 00:21:11,300
+Well, we'll be covering pizzerias
+
+463
+00:21:11,300 --> 00:21:14,980
+because that is the main source of,
+
+464
+00:21:14,980 --> 00:21:19,980
+that's where JJ and Zoot factor in, the young people.
+
+465
+00:21:19,980 --> 00:21:22,980
+Gen Z of the Keebler factory.
+
+466
+00:21:22,980 --> 00:21:24,180
+And Dude?
+
+467
+00:21:24,180 --> 00:21:26,300
+There is a, is there Micro?
+
+468
+00:21:26,300 --> 00:21:28,980
+Was Micro one of the newer ones too?
+
+469
+00:21:28,980 --> 00:21:30,740
+Well, he had the shrink powers.
+
+470
+00:21:30,740 --> 00:21:31,580
+He would shrink stuff down.
+
+471
+00:21:31,580 --> 00:21:32,980
+He had shrinking powers, right.
+
+472
+00:21:32,980 --> 00:21:35,060
+But no, let's do a quick history.
+
+473
+00:21:35,060 --> 00:21:35,900
+A quick history before we get into the else.
+
+474
+00:21:35,900 --> 00:21:36,940
+Quick history, yeah.
+
+475
+00:21:36,940 --> 00:21:38,100
+Sure.
+
+476
+00:21:38,100 --> 00:21:40,380
+It was started by Godfrey Keebler,
+
+477
+00:21:40,380 --> 00:21:43,260
+Godfrey Keebler of German descent.
+
+478
+00:21:43,260 --> 00:21:47,860
+He started it in Philadelphia, Pennsylvania in 1853.
+
+479
+00:21:47,860 --> 00:21:49,660
+Does that make the pride?
+
+480
+00:21:49,660 --> 00:21:51,340
+Did you know that Jason?
+
+481
+00:21:51,340 --> 00:21:53,660
+I did not know that.
+
+482
+00:21:53,700 --> 00:21:57,580
+A lot of bakeries, Philadelphia had a big bakery business.
+
+483
+00:21:57,580 --> 00:21:59,900
+My grandfather was a security guard,
+
+484
+00:22:01,180 --> 00:22:02,180
+bakery and confectionary.
+
+485
+00:22:02,180 --> 00:22:05,900
+My grandfather was security guard at the Whitman's factory.
+
+486
+00:22:05,900 --> 00:22:08,100
+Whitman's samplers.
+
+487
+00:22:08,100 --> 00:22:09,500
+I know, yeah, yeah.
+
+488
+00:22:09,500 --> 00:22:13,260
+So did you ever encourage him to, you know,
+
+489
+00:22:13,260 --> 00:22:17,020
+get into those places where he's not supposed to sneak into
+
+490
+00:22:17,020 --> 00:22:20,340
+and bust out some treasured goods
+
+491
+00:22:20,340 --> 00:22:21,900
+for his beloved grandson?
+
+492
+00:22:21,940 --> 00:22:24,620
+I mean, I would have, I think he had retired.
+
+493
+00:22:24,620 --> 00:22:26,980
+I think that was, he was the kind of guy
+
+494
+00:22:26,980 --> 00:22:28,100
+who had like a million jobs.
+
+495
+00:22:28,100 --> 00:22:30,540
+I think he had retired by that point.
+
+496
+00:22:30,540 --> 00:22:33,300
+He may have known where the Chocolate River was though.
+
+497
+00:22:34,500 --> 00:22:35,420
+That's true. The chocolate stream.
+
+498
+00:22:35,420 --> 00:22:37,300
+Yeah, yeah.
+
+499
+00:22:38,300 --> 00:22:41,700
+So they opened the bakery in 1853,
+
+500
+00:22:41,700 --> 00:22:44,020
+his bakery network with several other local bakeries
+
+501
+00:22:44,020 --> 00:22:45,340
+around the country over the years.
+
+502
+00:22:45,340 --> 00:22:47,660
+And then in 1927, they merged into
+
+503
+00:22:47,660 --> 00:22:50,780
+the United Biscuit Company of America.
+
+504
+00:22:50,820 --> 00:22:51,660
+Hell yeah.
+
+505
+00:22:52,980 --> 00:22:54,580
+United Biscuit. You absolutely,
+
+506
+00:22:54,580 --> 00:22:56,060
+you love to see it.
+
+507
+00:22:56,060 --> 00:22:58,860
+God bless the UBCA.
+
+508
+00:23:00,180 --> 00:23:03,460
+The stars and the cook, the fudge,
+
+509
+00:23:03,460 --> 00:23:05,820
+the fudge stars and fudge stripes.
+
+510
+00:23:07,500 --> 00:23:08,580
+United Biscuit.
+
+511
+00:23:09,700 --> 00:23:13,380
+And then, you know, there's some, some business stuff there.
+
+512
+00:23:13,380 --> 00:23:16,980
+And then they, oh, and they made Girl Scout cookies in 1936.
+
+513
+00:23:16,980 --> 00:23:19,500
+The official baker of Girl Scout cookies.
+
+514
+00:23:19,500 --> 00:23:20,340
+Oh really?
+
+515
+00:23:20,780 --> 00:23:23,180
+Not always, but when they started.
+
+516
+00:23:23,180 --> 00:23:24,980
+I think it says here by 1978,
+
+517
+00:23:24,980 --> 00:23:27,740
+four companies were producing cookies.
+
+518
+00:23:27,740 --> 00:23:31,220
+So Little Brownie Bakers is the Keebler division
+
+519
+00:23:31,220 --> 00:23:33,820
+that still is licensed to produce the cookies.
+
+520
+00:23:33,820 --> 00:23:36,260
+The Little Brownie Bakers.
+
+521
+00:23:36,260 --> 00:23:39,140
+Now I think the actual bakers of Girl Scout cookies
+
+522
+00:23:39,140 --> 00:23:41,780
+might vary by region.
+
+523
+00:23:41,780 --> 00:23:43,540
+I think that might be correct, yes.
+
+524
+00:23:43,540 --> 00:23:47,580
+I think the Carmel Delights, is that their current name?
+
+525
+00:23:47,580 --> 00:23:50,060
+The ones that used to be called Samosas.
+
+526
+00:23:50,340 --> 00:23:52,820
+Some stuff is called different stuff in different regions
+
+527
+00:23:52,820 --> 00:23:56,100
+and tastes a little different, apparently.
+
+528
+00:23:57,460 --> 00:24:00,020
+So Keebler basically, they like changed hands a lot
+
+529
+00:24:00,020 --> 00:24:04,020
+and then they were acquired by Kellogg in 2001.
+
+530
+00:24:05,580 --> 00:24:07,420
+Oh, I didn't realize that.
+
+531
+00:24:07,420 --> 00:24:08,940
+But there's some new,
+
+532
+00:24:10,060 --> 00:24:13,700
+there's a lot of different changing hands of this brand.
+
+533
+00:24:13,700 --> 00:24:15,980
+But I believe, did anyone catch this?
+
+534
+00:24:15,980 --> 00:24:18,580
+The last thing is that they were sold to the people
+
+535
+00:24:18,580 --> 00:24:19,900
+who make Nutella?
+
+536
+00:24:21,620 --> 00:24:23,060
+Oh, interesting.
+
+537
+00:24:23,060 --> 00:24:23,900
+Let me find this.
+
+538
+00:24:23,900 --> 00:24:26,740
+I have too many, again, I said too many notes
+
+539
+00:24:26,740 --> 00:24:28,940
+for the Keebler company and the elves.
+
+540
+00:24:30,020 --> 00:24:31,660
+Too many things, too many things.
+
+541
+00:24:31,660 --> 00:24:32,480
+Too many things.
+
+542
+00:24:32,480 --> 00:24:35,500
+Keebler sale, Ernie Keebler and his cookie factory
+
+543
+00:24:35,500 --> 00:24:38,140
+housed in a tree are being bought by the Ferrero Group,
+
+544
+00:24:38,140 --> 00:24:39,580
+makers of Nutella.
+
+545
+00:24:40,860 --> 00:24:43,820
+And that is from last year.
+
+546
+00:24:44,740 --> 00:24:46,780
+Okay. The Ferrero Group.
+
+547
+00:24:46,780 --> 00:24:48,020
+The Ferrero Group.
+
+548
+00:24:48,020 --> 00:24:52,140
+Is that the German company that owns Los Pueos Hermanos
+
+549
+00:24:52,140 --> 00:24:53,740
+where the guy killed himself
+
+550
+00:24:53,740 --> 00:24:58,540
+with the heart-zapping machine?
+
+551
+00:24:58,540 --> 00:24:59,700
+Yes, that is the same.
+
+552
+00:24:59,700 --> 00:25:01,180
+That is the exact same, yes.
+
+553
+00:25:02,180 --> 00:25:06,700
+This is April 1st, 2019, or 2019, yeah, 2019.
+
+554
+00:25:06,700 --> 00:25:08,300
+Yeah, I'm sorry.
+
+555
+00:25:08,300 --> 00:25:10,980
+And that's Kellogg sells Keebler snacks to Ferrero
+
+556
+00:25:10,980 --> 00:25:13,580
+for $1.3 billion.
+
+557
+00:25:13,580 --> 00:25:14,940
+Wow.
+
+558
+00:25:14,940 --> 00:25:18,020
+And they also got the six US manufacturing plants
+
+559
+00:25:18,020 --> 00:25:19,220
+in the deal.
+
+560
+00:25:19,220 --> 00:25:22,660
+All that history is important backstory,
+
+561
+00:25:22,660 --> 00:25:27,220
+but the main thing to say is that when they started
+
+562
+00:25:27,220 --> 00:25:32,060
+making cookies in 1853, it was reported
+
+563
+00:25:32,060 --> 00:25:34,180
+that there were elves on the scene
+
+564
+00:25:34,180 --> 00:25:36,700
+and that those were the ancestors
+
+565
+00:25:36,700 --> 00:25:39,580
+of the famous Keebler elves known today.
+
+566
+00:25:39,580 --> 00:25:41,880
+That is some official copy that I read,
+
+567
+00:25:41,880 --> 00:25:43,840
+which again implies that they are not immortal.
+
+568
+00:25:44,000 --> 00:25:45,800
+If there's such a thing as ancestors,
+
+569
+00:25:45,800 --> 00:25:47,400
+unless you just hit kind of an age
+
+570
+00:25:47,400 --> 00:25:50,960
+where you're no good to make them anymore,
+
+571
+00:25:50,960 --> 00:25:52,520
+and then you just like live out
+
+572
+00:25:52,520 --> 00:25:54,920
+thousands of years in retirement.
+
+573
+00:25:54,920 --> 00:25:55,920
+Well, you know what?
+
+574
+00:25:55,920 --> 00:25:57,960
+I know elves and gnomes aren't the same thing,
+
+575
+00:25:57,960 --> 00:26:00,560
+but as we've discussed on the show, David the Gnome,
+
+576
+00:26:00,560 --> 00:26:05,000
+the finale of David the Gnome is that the cartoon series
+
+577
+00:26:05,000 --> 00:26:08,120
+from, I guess, the 80s is that David and his wife
+
+578
+00:26:08,120 --> 00:26:10,320
+essentially die in the finale
+
+579
+00:26:10,320 --> 00:26:12,720
+and become one with the earth.
+
+580
+00:26:12,720 --> 00:26:16,280
+So maybe it is similar with the elves.
+
+581
+00:26:17,520 --> 00:26:18,600
+I would think.
+
+582
+00:26:18,600 --> 00:26:22,680
+That they go somewhere and they make their pet watch
+
+583
+00:26:22,680 --> 00:26:26,520
+while they die, which is what David the Gnome did
+
+584
+00:26:26,520 --> 00:26:31,040
+with his pet fox, Swift, as Swift watched in horror
+
+585
+00:26:31,040 --> 00:26:33,280
+as David and his wife turned into trees.
+
+586
+00:26:34,680 --> 00:26:38,520
+I have to think it's somewhere between a Viking funeral
+
+587
+00:26:38,520 --> 00:26:41,760
+or the end of the Lord of the Rings
+
+588
+00:26:41,760 --> 00:26:45,920
+where they just get on a boat and sail away into the horizon.
+
+589
+00:26:45,920 --> 00:26:48,160
+They did, you know, when it's an elves time to go,
+
+590
+00:26:48,160 --> 00:26:52,120
+they just get on a boat and an arrow is shot at it
+
+591
+00:26:52,120 --> 00:26:55,400
+that's on fire and it just slowly burns up
+
+592
+00:26:55,400 --> 00:26:57,880
+and then sinks into the fudge spring
+
+593
+00:26:57,880 --> 00:26:59,600
+and then they become fudge.
+
+594
+00:27:01,360 --> 00:27:03,280
+So we're eating the elves, really.
+
+595
+00:27:03,280 --> 00:27:04,880
+It's like the circle of life.
+
+596
+00:27:04,880 --> 00:27:09,880
+It's like the antelope eat the grass after the lions die.
+
+597
+00:27:10,600 --> 00:27:13,040
+Either that or there's a transference of energy
+
+598
+00:27:13,040 --> 00:27:15,480
+and they just get shot with the rainbow cannon
+
+599
+00:27:15,480 --> 00:27:17,160
+and they become energy.
+
+600
+00:27:19,000 --> 00:27:21,760
+Well, a lot of the cookies look like elves.
+
+601
+00:27:21,760 --> 00:27:23,120
+There is that one variety.
+
+602
+00:27:23,120 --> 00:27:26,600
+So it is that could be that we are,
+
+603
+00:27:26,600 --> 00:27:31,600
+those are like sarcophagi and the fudge inside is them
+
+604
+00:27:33,360 --> 00:27:34,960
+that you are eating their body.
+
+605
+00:27:34,960 --> 00:27:37,720
+Oh, like the stone soldiers in China.
+
+606
+00:27:37,800 --> 00:27:40,680
+Like that tomb that has all those stone soldiers.
+
+607
+00:27:40,680 --> 00:27:41,680
+Exactly, yes.
+
+608
+00:27:41,680 --> 00:27:44,440
+The Terracotta army, I believe.
+
+609
+00:27:44,440 --> 00:27:45,280
+Yeah.
+
+610
+00:27:45,280 --> 00:27:46,120
+Yeah.
+
+611
+00:27:46,120 --> 00:27:50,920
+And just to mention P.F. Chang's for the second time.
+
+612
+00:27:50,920 --> 00:27:55,400
+Yeah, if you see those statues outside of every P.F. Chang's,
+
+613
+00:27:55,400 --> 00:27:58,800
+those contain the actual remains of soldiers.
+
+614
+00:27:59,880 --> 00:28:02,280
+Big statues like that ever since I was a kid
+
+615
+00:28:02,280 --> 00:28:06,520
+and I saw Ghostbusters and the animals,
+
+616
+00:28:06,560 --> 00:28:09,520
+the statues in front of the New York Public Library
+
+617
+00:28:09,520 --> 00:28:10,440
+come to life.
+
+618
+00:28:12,040 --> 00:28:14,080
+That always freaked me out as a kid.
+
+619
+00:28:14,080 --> 00:28:16,880
+And I was like, I don't like those big animal statues.
+
+620
+00:28:17,840 --> 00:28:19,560
+Could happen, could happen anywhere.
+
+621
+00:28:19,560 --> 00:28:21,080
+It could happen.
+
+622
+00:28:21,080 --> 00:28:23,000
+And those, and every cookie you bite into
+
+623
+00:28:23,000 --> 00:28:26,040
+could come to life if you, again, if you wait long enough.
+
+624
+00:28:26,040 --> 00:28:28,680
+So it's imperative that you chomp them all
+
+625
+00:28:28,680 --> 00:28:29,960
+as quickly as you can. That you gobble them down.
+
+626
+00:28:29,960 --> 00:28:30,800
+Yeah.
+
+627
+00:28:30,800 --> 00:28:33,760
+Yeah, yeah, hurry up or they'll swarm.
+
+628
+00:28:33,760 --> 00:28:36,200
+They'll drag your whole body down.
+
+629
+00:28:36,200 --> 00:28:37,400
+Mike, you brought up a good point
+
+630
+00:28:37,400 --> 00:28:38,920
+that they are different than gnomes.
+
+631
+00:28:38,920 --> 00:28:41,560
+And in fact, in the copy that I was just reading
+
+632
+00:28:41,560 --> 00:28:44,480
+right above it, that specifically is specified.
+
+633
+00:28:44,480 --> 00:28:48,280
+And this is coming from Ernie, the primary Keebler elf.
+
+634
+00:28:48,280 --> 00:28:50,560
+Ernie wants to be clear that the Keebler elves
+
+635
+00:28:50,560 --> 00:28:54,680
+are not leprechauns, gnomes, or dryads.
+
+636
+00:28:54,680 --> 00:28:57,040
+Dryads I've never heard before.
+
+637
+00:28:57,040 --> 00:28:59,680
+That's new mythology to me.
+
+638
+00:29:01,200 --> 00:29:03,600
+I had to look up a picture of what one was.
+
+639
+00:29:03,600 --> 00:29:08,360
+They are freakier than elves are, certainly.
+
+640
+00:29:09,440 --> 00:29:11,320
+What are they, they're in, I'm looking,
+
+641
+00:29:11,320 --> 00:29:13,400
+and then folklore and Greek mythology.
+
+642
+00:29:13,400 --> 00:29:16,160
+It's a nymph inhabiting a forest or a tree.
+
+643
+00:29:17,440 --> 00:29:18,280
+Oh.
+
+644
+00:29:19,400 --> 00:29:20,600
+Not inhabit, not like bringing,
+
+645
+00:29:20,600 --> 00:29:22,200
+it's not like if a tree is alive
+
+646
+00:29:22,200 --> 00:29:24,120
+and a dryad is what's operating it.
+
+647
+00:29:24,120 --> 00:29:26,480
+Like if you live in the forest, you're a dryad.
+
+648
+00:29:29,880 --> 00:29:32,440
+Are there any dryads in fiction?
+
+649
+00:29:32,440 --> 00:29:33,600
+That's what I'm looking for.
+
+650
+00:29:33,600 --> 00:29:36,520
+I'm trying to, there's like, there's pictures of them,
+
+651
+00:29:36,520 --> 00:29:39,120
+but I'm trying to see, like, who's the most famous dryad?
+
+652
+00:29:39,120 --> 00:29:42,080
+Examples of dryads.
+
+653
+00:29:43,080 --> 00:29:45,520
+They're mentioned in Paradise Lost.
+
+654
+00:29:45,520 --> 00:29:47,280
+Yeah, but I'm looking for like what
+
+655
+00:29:47,280 --> 00:29:50,280
+the DreamWorks movie is about dryads.
+
+656
+00:29:50,280 --> 00:29:52,320
+When is there gonna be a dryads movie?
+
+657
+00:29:53,920 --> 00:29:55,880
+They're in The Chronicles of Narnia.
+
+658
+00:29:55,880 --> 00:29:59,960
+Well, they're in Barbie Fairytopia.
+
+659
+00:29:59,960 --> 00:30:01,640
+I know that.
+
+660
+00:30:01,640 --> 00:30:04,640
+They're in Lev Grossman's The Magician's Trilogy,
+
+661
+00:30:04,640 --> 00:30:08,280
+which I believe became the TV show The Magicians.
+
+662
+00:30:09,200 --> 00:30:10,400
+Hmm. Right?
+
+663
+00:30:10,400 --> 00:30:11,240
+Okay.
+
+664
+00:30:11,240 --> 00:30:13,160
+Yes, yeah, the Syfy Channel show.
+
+665
+00:30:13,160 --> 00:30:14,760
+But that said, there's an area,
+
+666
+00:30:14,760 --> 00:30:17,760
+I mean, it feels like in a couple years, you know,
+
+667
+00:30:17,760 --> 00:30:21,120
+we could be seeing a DreamWorks,
+
+668
+00:30:21,120 --> 00:30:22,560
+or maybe I should keep this to myself
+
+669
+00:30:22,560 --> 00:30:24,640
+and go pitch it to DreamWorks, but like,
+
+670
+00:30:25,880 --> 00:30:28,320
+we'll be driving by a billboard that says dryads
+
+671
+00:30:28,320 --> 00:30:30,360
+with a huge list of celebrities playing,
+
+672
+00:30:30,360 --> 00:30:32,600
+all playing the different dryads.
+
+673
+00:30:32,600 --> 00:30:35,320
+We got Meghan Trainor in there, Kumail,
+
+674
+00:30:35,320 --> 00:30:36,760
+Kumail's doing a dryad.
+
+675
+00:30:36,760 --> 00:30:38,040
+Yep, yep. The Baby.
+
+676
+00:30:39,840 --> 00:30:41,360
+Oh, sure, The Baby would make a great dryad.
+
+677
+00:30:41,360 --> 00:30:46,360
+The Baby, King Princess, Billy Eilish, all the young people.
+
+678
+00:30:47,360 --> 00:30:50,640
+If you're, yeah, if you're a pop star and you're under 18,
+
+679
+00:30:50,640 --> 00:30:53,200
+it's imperative that you play a dryad.
+
+680
+00:30:53,200 --> 00:30:54,040
+Jojo,
+
+681
+00:30:56,720 --> 00:30:58,920
+Siwa, Siwa, how do you say it?
+
+682
+00:30:58,920 --> 00:31:00,200
+Oh, sure, yeah, yeah.
+
+683
+00:31:01,040 --> 00:31:02,720
+And then like Alan Arkin.
+
+684
+00:31:03,960 --> 00:31:06,360
+Yeah, yeah, there's gotta be an old cranky dryad.
+
+685
+00:31:06,360 --> 00:31:07,200
+Absolutely.
+
+686
+00:31:07,200 --> 00:31:11,080
+He obviously gets the and credit, and Alan Arkin.
+
+687
+00:31:12,520 --> 00:31:13,360
+End of the list.
+
+688
+00:31:13,360 --> 00:31:14,200
+There's Potts.
+
+689
+00:31:14,920 --> 00:31:17,640
+Oh, I'm seeing here that male,
+
+690
+00:31:17,640 --> 00:31:20,680
+like dryads are usually female,
+
+691
+00:31:21,720 --> 00:31:25,400
+and the male counterpart to dryads are called Druze.
+
+692
+00:31:26,400 --> 00:31:27,920
+Druze, how do you spell Dru?
+
+693
+00:31:27,920 --> 00:31:29,520
+D-R-U-S.
+
+694
+00:31:30,520 --> 00:31:32,840
+Druze I have heard of.
+
+695
+00:31:32,840 --> 00:31:34,080
+What, why?
+
+696
+00:31:35,760 --> 00:31:36,600
+You know.
+
+697
+00:31:36,600 --> 00:31:40,200
+It rhymes with Gru, it's spelled like Gru.
+
+698
+00:31:41,360 --> 00:31:44,800
+I realize I don't wanna get off on too much of a tangent.
+
+699
+00:31:44,800 --> 00:31:46,440
+I didn't realize there was another Minions movie
+
+700
+00:31:46,440 --> 00:31:49,640
+coming out this year that's called The Rise of Gru.
+
+701
+00:31:49,640 --> 00:31:51,880
+Well, yeah, it's gonna rise.
+
+702
+00:31:51,880 --> 00:31:54,040
+It's all rise, everyone's rising in these movies.
+
+703
+00:31:54,040 --> 00:31:55,880
+Everyone's rising, you see the end of the-
+
+704
+00:31:55,880 --> 00:31:56,720
+And the rise.
+
+705
+00:31:56,720 --> 00:31:59,760
+At the end of the first Minions, they meet Child Gru,
+
+706
+00:32:00,360 --> 00:32:03,760
+and now they are, I think, learning, feeling each other out,
+
+707
+00:32:03,760 --> 00:32:05,720
+figuring stuff out.
+
+708
+00:32:05,720 --> 00:32:07,400
+And this is Gru's rise.
+
+709
+00:32:07,400 --> 00:32:08,560
+Yeah, this is his rise
+
+710
+00:32:08,560 --> 00:32:11,160
+to become an all-powerful super villain.
+
+711
+00:32:11,160 --> 00:32:13,840
+So it'll be like the end of Rise of Skywalker,
+
+712
+00:32:13,840 --> 00:32:15,600
+and he'll name himself,
+
+713
+00:32:16,480 --> 00:32:19,720
+or he'll say, I'm evil or something at the end.
+
+714
+00:32:20,840 --> 00:32:22,360
+No, your last name.
+
+715
+00:32:23,880 --> 00:32:26,240
+I don't have one.
+
+716
+00:32:26,240 --> 00:32:28,040
+Is that a good Gru?
+
+717
+00:32:28,040 --> 00:32:29,720
+That's a pretty good Gru.
+
+718
+00:32:30,720 --> 00:32:33,360
+I don't have a last name.
+
+719
+00:32:34,680 --> 00:32:37,760
+Jason, could you say that line as Stitch real quick?
+
+720
+00:32:39,120 --> 00:32:40,680
+Yeah, hold on.
+
+721
+00:32:40,680 --> 00:32:41,520
+Okay.
+
+722
+00:32:41,520 --> 00:32:42,520
+Hold on.
+
+723
+00:32:42,520 --> 00:32:44,000
+He's gotta prepare.
+
+724
+00:32:44,000 --> 00:32:45,600
+It's trick and water.
+
+725
+00:32:45,600 --> 00:32:46,440
+Yep.
+
+726
+00:32:46,440 --> 00:32:47,320
+Or he just left.
+
+727
+00:32:48,840 --> 00:32:49,880
+Jason Sherwin's left.
+
+728
+00:32:50,920 --> 00:32:52,960
+I don't have a last name.
+
+729
+00:32:54,680 --> 00:32:55,520
+That's great.
+
+730
+00:32:55,520 --> 00:32:59,200
+I think Jason as Stitch just sounded like Gru.
+
+731
+00:32:59,200 --> 00:33:00,040
+Yeah.
+
+732
+00:33:00,040 --> 00:33:01,040
+That's kind of my point is that
+
+733
+00:33:01,040 --> 00:33:02,640
+Stitch kind of sounds like Gru.
+
+734
+00:33:04,640 --> 00:33:06,440
+And a little like Subulba.
+
+735
+00:33:07,840 --> 00:33:09,840
+And a little like Subulba.
+
+736
+00:33:09,840 --> 00:33:10,680
+That's true too.
+
+737
+00:33:12,080 --> 00:33:13,280
+Anyway, that all to say,
+
+738
+00:33:13,280 --> 00:33:14,520
+so let's be very clear.
+
+739
+00:33:14,520 --> 00:33:16,520
+The Keeper Elves are not dryads.
+
+740
+00:33:16,520 --> 00:33:17,360
+Not dryads.
+
+741
+00:33:17,360 --> 00:33:19,680
+They're also not shoemakers, fairies, or sprites.
+
+742
+00:33:19,680 --> 00:33:23,920
+They're a uniquely American strain of elves.
+
+743
+00:33:23,920 --> 00:33:25,760
+Gotta love hearing the word strain
+
+744
+00:33:25,760 --> 00:33:27,360
+at this point in time.
+
+745
+00:33:28,320 --> 00:33:30,080
+They're not leprechauns either
+
+746
+00:33:30,080 --> 00:33:33,920
+because one of the commercials leprechauns show up.
+
+747
+00:33:33,920 --> 00:33:36,240
+A lot of people show up in the commercials
+
+748
+00:33:36,240 --> 00:33:41,240
+and inconvenience the elves or deny their existence.
+
+749
+00:33:41,560 --> 00:33:43,120
+I have a list here.
+
+750
+00:33:43,120 --> 00:33:45,400
+Leprechauns, cops,
+
+751
+00:33:47,520 --> 00:33:50,240
+a reoccurring pest named Dude.
+
+752
+00:33:51,600 --> 00:33:52,440
+What's Dude?
+
+753
+00:33:52,440 --> 00:33:54,240
+What kind of person is Dude?
+
+754
+00:33:54,440 --> 00:33:57,600
+Dude is a teenager, like a cool teenager.
+
+755
+00:33:57,600 --> 00:34:00,880
+I think he was a recurring character in the 90s
+
+756
+00:34:00,880 --> 00:34:02,400
+where they just gave up.
+
+757
+00:34:02,400 --> 00:34:03,800
+Yeah, I mean, he's pretty cool.
+
+758
+00:34:03,800 --> 00:34:06,680
+He looks like Roy from The Simpsons,
+
+759
+00:34:06,680 --> 00:34:11,520
+the one episode character from the Poochy episode.
+
+760
+00:34:11,520 --> 00:34:12,520
+Of course, yeah.
+
+761
+00:34:13,440 --> 00:34:15,600
+There's a skydiver shows up at one point
+
+762
+00:34:15,600 --> 00:34:17,520
+and they all show up at the kitchen,
+
+763
+00:34:17,520 --> 00:34:21,560
+tree, door, demanding answers from the elves.
+
+764
+00:34:22,520 --> 00:34:27,520
+Yeah, and then when Ernie comes out on the perch,
+
+765
+00:34:28,000 --> 00:34:30,320
+on the porch or whatever, the veranda,
+
+766
+00:34:31,440 --> 00:34:33,800
+and he seems to be the size of their head.
+
+767
+00:34:33,800 --> 00:34:35,960
+He's pretty surprisingly big.
+
+768
+00:34:37,120 --> 00:34:38,520
+I find the scale weird.
+
+769
+00:34:38,520 --> 00:34:42,440
+I feel like the size of the tree changes a lot from ad to ad.
+
+770
+00:34:42,440 --> 00:34:43,720
+They really need to pick a scale.
+
+771
+00:34:43,720 --> 00:34:48,560
+Maybe the Ferrero group will really clamp down
+
+772
+00:34:48,560 --> 00:34:50,440
+on the mythology.
+
+773
+00:34:50,440 --> 00:34:52,760
+Yeah, Task 1 standardized the scale.
+
+774
+00:34:53,600 --> 00:34:58,160
+I also saw some ads where my favorite interrupter
+
+775
+00:34:58,160 --> 00:35:01,760
+at the factory is like a kind of like a,
+
+776
+00:35:01,760 --> 00:35:06,080
+he's like a Euro, you know, like Playboy,
+
+777
+00:35:06,080 --> 00:35:09,800
+gadfly, like old race car driver, like the kind of guy.
+
+778
+00:35:09,800 --> 00:35:13,200
+He's got like, you know, a mustache and a long nose
+
+779
+00:35:13,200 --> 00:35:17,440
+and a big scarf, just like cool cocky as hell,
+
+780
+00:35:17,440 --> 00:35:19,280
+50s race car driver.
+
+781
+00:35:20,200 --> 00:35:22,160
+Oh, I saw, yes, I saw him.
+
+782
+00:35:22,160 --> 00:35:23,000
+Yeah.
+
+783
+00:35:23,000 --> 00:35:25,840
+These side characters are really good
+
+784
+00:35:25,840 --> 00:35:27,600
+for a commercial especially.
+
+785
+00:35:27,600 --> 00:35:29,560
+We don't have a ton of information about that.
+
+786
+00:35:29,560 --> 00:35:31,200
+I mean, well, I guess we just said the information
+
+787
+00:35:31,200 --> 00:35:33,320
+about that, but there's no further information
+
+788
+00:35:33,320 --> 00:35:35,080
+about them or where they came from,
+
+789
+00:35:35,080 --> 00:35:38,280
+but the elves, there's certainly a ton.
+
+790
+00:35:38,280 --> 00:35:40,720
+Right, and like, unlike maybe Chuck E. Cheese,
+
+791
+00:35:40,720 --> 00:35:43,920
+which does have a lot of like extra material,
+
+792
+00:35:43,920 --> 00:35:47,280
+there's not a ton of extra material outside
+
+793
+00:35:47,280 --> 00:35:50,400
+of the commercials and the packages for these characters.
+
+794
+00:35:50,400 --> 00:35:51,240
+Yeah.
+
+795
+00:35:53,320 --> 00:35:55,960
+They never did some like McDonald's style,
+
+796
+00:35:55,960 --> 00:35:59,080
+let's make a home video or a video game.
+
+797
+00:35:59,080 --> 00:36:02,160
+They didn't really expand in any significant way.
+
+798
+00:36:02,160 --> 00:36:04,280
+Well, okay.
+
+799
+00:36:04,280 --> 00:36:09,280
+I did find evidence of some sort of little extra thing
+
+800
+00:36:10,280 --> 00:36:12,640
+that anyone, does anyone know what I'm talking about?
+
+801
+00:36:12,640 --> 00:36:13,600
+No. No.
+
+802
+00:36:14,000 --> 00:36:18,760
+I have found that there is some sort of 22 minute
+
+803
+00:36:18,760 --> 00:36:23,760
+anti-drug Keibler elf video out there from the 1980s.
+
+804
+00:36:24,920 --> 00:36:25,760
+Perfect. Oh boy.
+
+805
+00:36:26,760 --> 00:36:30,400
+There's an article about it in the Chicago Tribune
+
+806
+00:36:30,400 --> 00:36:35,400
+from 1986 about a 22 minute video
+
+807
+00:36:35,680 --> 00:36:40,200
+where the Keibler elves convince kids not to take drugs.
+
+808
+00:36:41,200 --> 00:36:44,600
+Ironically, getting them hooked on sugar,
+
+809
+00:36:44,600 --> 00:36:49,600
+which they say is more addictive to kick than some drugs.
+
+810
+00:36:49,960 --> 00:36:53,560
+And more likely that a kid would have a problem with it
+
+811
+00:36:53,560 --> 00:36:56,520
+than like crack.
+
+812
+00:36:56,520 --> 00:36:58,400
+Yes.
+
+813
+00:36:58,400 --> 00:37:01,040
+Apparently, it might be based on a puppet show
+
+814
+00:37:01,040 --> 00:37:02,800
+that was staged in 10 cities.
+
+815
+00:37:02,800 --> 00:37:05,840
+I believe that's what this article is saying.
+
+816
+00:37:05,840 --> 00:37:09,640
+And the tape has a three pronged plot.
+
+817
+00:37:09,680 --> 00:37:11,040
+The first part shows a,
+
+818
+00:37:11,040 --> 00:37:12,200
+I don't know why they have to mention this,
+
+819
+00:37:12,200 --> 00:37:15,080
+a pretty and talented girl confessing to Ernie
+
+820
+00:37:15,080 --> 00:37:18,320
+that she feels pressured to be the best of all time.
+
+821
+00:37:18,320 --> 00:37:20,320
+The second segment shows a track star
+
+822
+00:37:20,320 --> 00:37:22,960
+who is tempted to use drugs to win a race,
+
+823
+00:37:22,960 --> 00:37:26,880
+but is shown by Ernie that people like him for what he is.
+
+824
+00:37:26,880 --> 00:37:28,280
+People will like him for what he is,
+
+825
+00:37:28,280 --> 00:37:30,240
+not for him being on drugs.
+
+826
+00:37:30,240 --> 00:37:32,280
+This is also a weirdly written article.
+
+827
+00:37:32,280 --> 00:37:34,640
+The last segment points to an 11 year old girl's
+
+828
+00:37:34,640 --> 00:37:36,960
+misconception about the use of drugs.
+
+829
+00:37:36,960 --> 00:37:39,520
+She fears her older brother is on drugs,
+
+830
+00:37:39,520 --> 00:37:42,080
+but through elfin magic,
+
+831
+00:37:42,080 --> 00:37:45,560
+Ernie allows her to overhear her brother talking to a friend.
+
+832
+00:37:45,560 --> 00:37:47,720
+And this is what her brother says.
+
+833
+00:37:47,720 --> 00:37:51,280
+I'd break my sister's neck if she ever got on drugs,
+
+834
+00:37:51,280 --> 00:37:55,840
+but she's too smart for that, the older brother says.
+
+835
+00:37:55,840 --> 00:38:00,840
+Jesus, like a Bane kind of statement.
+
+836
+00:38:02,280 --> 00:38:05,200
+I'd break my sister's neck if she ever did drugs.
+
+837
+00:38:06,480 --> 00:38:07,480
+I'll kill her.
+
+838
+00:38:08,320 --> 00:38:11,440
+You think drugs hurt you, I'll show you hurt.
+
+839
+00:38:13,560 --> 00:38:16,200
+So we have to find this video.
+
+840
+00:38:16,200 --> 00:38:17,200
+Yeah.
+
+841
+00:38:17,200 --> 00:38:18,040
+Yeah, yeah.
+
+842
+00:38:18,040 --> 00:38:19,320
+It doesn't appear to be on YouTube,
+
+843
+00:38:19,320 --> 00:38:21,320
+but somebody has to have it.
+
+844
+00:38:22,480 --> 00:38:23,320
+Fuck.
+
+845
+00:38:23,320 --> 00:38:25,120
+I, oh my God.
+
+846
+00:38:25,120 --> 00:38:28,640
+Like, yeah, walking in, the guy walking in on his sister,
+
+847
+00:38:28,640 --> 00:38:30,960
+like slightly puffing a joint.
+
+848
+00:38:30,960 --> 00:38:33,120
+Don't you realize what that could do to you?
+
+849
+00:38:33,120 --> 00:38:35,160
+That could cause permanent damage.
+
+850
+00:38:36,120 --> 00:38:37,920
+Cracks her neck.
+
+851
+00:38:41,320 --> 00:38:42,520
+He was serious.
+
+852
+00:38:42,520 --> 00:38:45,040
+It's where you were headed anyway.
+
+853
+00:38:45,040 --> 00:38:46,920
+You know what's scarier than drugs?
+
+854
+00:38:46,920 --> 00:38:49,160
+Me threatening to murder you.
+
+855
+00:38:52,480 --> 00:38:54,200
+And then, yeah, so imagine all that,
+
+856
+00:38:54,200 --> 00:38:57,160
+and then imagine like Ernie Keebler counseling her.
+
+857
+00:39:00,120 --> 00:39:04,160
+I mean, he is like a good guy.
+
+858
+00:39:04,160 --> 00:39:07,360
+Like Ernie Keebler, I mean, he's a real, he's a king,
+
+859
+00:39:07,360 --> 00:39:09,400
+you know, he's a good guy.
+
+860
+00:39:09,400 --> 00:39:11,960
+They did have a profile essentially,
+
+861
+00:39:11,960 --> 00:39:15,160
+like a 10 things you didn't know about Ernie Keebler
+
+862
+00:39:15,160 --> 00:39:16,640
+in advertising week.
+
+863
+00:39:17,840 --> 00:39:19,240
+I got some good stuff out of there.
+
+864
+00:39:19,240 --> 00:39:21,880
+His nickname is Mr. Sincerity.
+
+865
+00:39:25,880 --> 00:39:27,760
+When life gets Ernie down,
+
+866
+00:39:27,760 --> 00:39:31,800
+he responds with his three favorite folksy expressions.
+
+867
+00:39:31,800 --> 00:39:34,120
+Mercy, gracious,
+
+868
+00:39:35,080 --> 00:39:36,920
+and what in tarnation,
+
+869
+00:39:36,920 --> 00:39:39,120
+which I know I can relate to.
+
+870
+00:39:40,560 --> 00:39:42,680
+Yeah, I saw that same fact,
+
+871
+00:39:42,680 --> 00:39:45,080
+and I was thinking how you should make a point of,
+
+872
+00:39:45,080 --> 00:39:48,480
+if you can remember, to switch your default profanity
+
+873
+00:39:48,480 --> 00:39:51,360
+or exclamation to be what in tarnation.
+
+874
+00:39:51,360 --> 00:39:53,320
+I know my mother would prefer that.
+
+875
+00:39:57,440 --> 00:39:59,080
+Like all of our mothers, yes.
+
+876
+00:39:59,080 --> 00:40:01,840
+My favorite fact about Ernie
+
+877
+00:40:01,840 --> 00:40:06,160
+is that the marketing people created this.
+
+878
+00:40:06,160 --> 00:40:08,560
+Just as Maslow's hierarchy of needs
+
+879
+00:40:08,560 --> 00:40:10,680
+has been established for humans,
+
+880
+00:40:10,680 --> 00:40:15,120
+so has Keebler created quote, need states for Ernie.
+
+881
+00:40:15,120 --> 00:40:17,160
+His five biggest needs include.
+
+882
+00:40:17,160 --> 00:40:18,000
+What?
+
+883
+00:40:18,000 --> 00:40:21,480
+What in tarnation?
+
+884
+00:40:22,440 --> 00:40:26,760
+His need states, you know, he needs socialization,
+
+885
+00:40:26,760 --> 00:40:29,960
+nurturing, relaxation, indulgence,
+
+886
+00:40:29,960 --> 00:40:31,920
+and fun slash creativity.
+
+887
+00:40:33,000 --> 00:40:34,440
+What?
+
+888
+00:40:34,440 --> 00:40:35,280
+Isn't this weird?
+
+889
+00:40:35,280 --> 00:40:37,040
+Like, he's not my baby.
+
+890
+00:40:37,040 --> 00:40:38,720
+I don't have to raise.
+
+891
+00:40:38,720 --> 00:40:40,040
+No, he's your God.
+
+892
+00:40:42,480 --> 00:40:44,520
+You should be telling me about needs states.
+
+893
+00:40:44,520 --> 00:40:46,040
+I don't think I'm getting them.
+
+894
+00:40:46,040 --> 00:40:48,200
+I wanna be like him.
+
+895
+00:40:49,120 --> 00:40:51,320
+Jason, do you have a picture of him in the house,
+
+896
+00:40:51,320 --> 00:40:53,880
+like how Catholics would have a picture of Kennedy?
+
+897
+00:41:00,840 --> 00:41:03,600
+Jason bows down and says, gracious.
+
+898
+00:41:06,640 --> 00:41:08,760
+Jason, are those your picture of grandparents?
+
+899
+00:41:08,760 --> 00:41:12,880
+Oh no, that's Ernie Keebler and Little Debbie.
+
+900
+00:41:15,840 --> 00:41:19,600
+Your slash fiction between Little Debbie and Ernie Keebler.
+
+901
+00:41:19,600 --> 00:41:20,720
+And they're gigantic,
+
+902
+00:41:20,720 --> 00:41:23,520
+like those portraits of the knots at Knots Barrymore.
+
+903
+00:41:29,960 --> 00:41:33,640
+Oh, Little Debbie, you fulfill all of my needs states.
+
+904
+00:41:34,720 --> 00:41:36,760
+Let me look, is there any slash fiction
+
+905
+00:41:36,760 --> 00:41:39,720
+involving the Keebler elves or Little Debbie in general?
+
+906
+00:41:39,720 --> 00:41:42,040
+You know, yeah, I didn't get around to looking that up.
+
+907
+00:41:42,040 --> 00:41:46,160
+Did you guys look up the multiple actors who have voiced him?
+
+908
+00:41:46,160 --> 00:41:47,400
+I sure did.
+
+909
+00:41:47,400 --> 00:41:48,240
+I did.
+
+910
+00:41:48,240 --> 00:41:49,720
+I got a lot about one.
+
+911
+00:41:49,720 --> 00:41:53,600
+Okay, good, cause I didn't, there were so many credits
+
+912
+00:41:53,600 --> 00:41:54,800
+and so many friends.
+
+913
+00:41:54,800 --> 00:41:57,520
+We haven't even gotten to the friends yet, but if you ask.
+
+914
+00:41:57,520 --> 00:41:58,680
+Let's cover Ernie, yeah.
+
+915
+00:41:58,680 --> 00:41:59,520
+Yeah, yeah.
+
+916
+00:42:00,800 --> 00:42:01,920
+Well, the main thing,
+
+917
+00:42:01,920 --> 00:42:05,520
+well, there's two interesting things in the credits list.
+
+918
+00:42:05,520 --> 00:42:08,880
+His current voice is a guy named Richard Hensel
+
+919
+00:42:08,880 --> 00:42:12,800
+and Richard Hensel is primarily known in media
+
+920
+00:42:12,800 --> 00:42:16,840
+as the guy, the first guy of the two who says,
+
+921
+00:42:16,840 --> 00:42:18,680
+okay, campers rise and shine
+
+922
+00:42:18,680 --> 00:42:21,480
+and don't forget your booties cause it's cold out there.
+
+923
+00:42:21,480 --> 00:42:25,160
+The DJs in Groundhog Day, the first one,
+
+924
+00:42:25,160 --> 00:42:27,560
+I believe it's the first one is the current voice
+
+925
+00:42:27,560 --> 00:42:29,360
+of Ernie the Keebler elf.
+
+926
+00:42:29,360 --> 00:42:30,200
+Yes.
+
+927
+00:42:31,160 --> 00:42:33,960
+That's a pretty fun crossover, I feel.
+
+928
+00:42:33,960 --> 00:42:36,120
+The most interesting one to me though
+
+929
+00:42:36,120 --> 00:42:38,960
+is his original voice, Parley Bayer.
+
+930
+00:42:38,960 --> 00:42:41,880
+Did anyone else look into Parley?
+
+931
+00:42:42,960 --> 00:42:45,960
+Rhymes with Marley, Parley Bayer.
+
+932
+00:42:45,960 --> 00:42:47,280
+I get a little bit.
+
+933
+00:42:47,280 --> 00:42:49,040
+They all had interesting careers,
+
+934
+00:42:49,040 --> 00:42:51,800
+all of these like character actors.
+
+935
+00:42:51,800 --> 00:42:52,840
+Yeah, yeah.
+
+936
+00:42:54,400 --> 00:42:56,920
+He has got an odd thing where he plays
+
+937
+00:42:57,000 --> 00:43:01,080
+several notable racists in media.
+
+938
+00:43:01,080 --> 00:43:04,280
+There's like where he's like a racist who gets redeemed
+
+939
+00:43:04,280 --> 00:43:05,800
+or learns his lesson.
+
+940
+00:43:05,800 --> 00:43:08,960
+One where he's like teaching a dog to be racist
+
+941
+00:43:08,960 --> 00:43:11,560
+and then another one where it's an episode
+
+942
+00:43:11,560 --> 00:43:14,600
+of a very special episode of Bewitched
+
+943
+00:43:14,600 --> 00:43:17,640
+where he is Darren's racist boss.
+
+944
+00:43:17,640 --> 00:43:19,280
+Were you familiar with this before?
+
+945
+00:43:19,280 --> 00:43:23,320
+I have not seen this episode, but he's not Larry Tate,
+
+946
+00:43:23,320 --> 00:43:24,960
+that was Darren's boss.
+
+947
+00:43:24,960 --> 00:43:25,800
+So he's a different boss?
+
+948
+00:43:25,960 --> 00:43:28,760
+He's a client probably.
+
+949
+00:43:28,760 --> 00:43:30,400
+Oh, maybe so, okay, okay.
+
+950
+00:43:30,400 --> 00:43:32,040
+Cause you, Darren work, of course Darren worked
+
+951
+00:43:32,040 --> 00:43:35,160
+at an advertising company, we all know that.
+
+952
+00:43:35,160 --> 00:43:36,240
+Sure, yes.
+
+953
+00:43:37,360 --> 00:43:39,600
+And it's, yeah, it's this strange, I mean,
+
+954
+00:43:39,600 --> 00:43:41,160
+I don't even, we don't even need to get into it,
+
+955
+00:43:41,160 --> 00:43:44,280
+but it's a weird where he like, he mistakes
+
+956
+00:43:44,280 --> 00:43:47,200
+like a friend of what Tabatha's the daughter,
+
+957
+00:43:47,200 --> 00:43:50,400
+he mistakes like somebody who's over at the house
+
+958
+00:43:50,400 --> 00:43:52,120
+for being their daughter and he thinks,
+
+959
+00:43:52,120 --> 00:43:53,680
+is this an interracial family?
+
+960
+00:43:53,680 --> 00:43:55,120
+And he has a problem with that.
+
+961
+00:43:55,120 --> 00:43:58,800
+So Samantha puts a spell on him to where he sees everyone
+
+962
+00:43:58,800 --> 00:44:03,320
+as black and he learns a lesson about racism that way.
+
+963
+00:44:03,320 --> 00:44:08,320
+Very bizarre episode and considered important at the time,
+
+964
+00:44:08,760 --> 00:44:12,520
+so much so that it had like a message from a star
+
+965
+00:44:12,520 --> 00:44:14,400
+of Bewitched, Elizabeth Montgomery,
+
+966
+00:44:14,400 --> 00:44:16,720
+and she's delivering this message in front of a sign
+
+967
+00:44:16,720 --> 00:44:19,800
+that says Oscar Meyer because they were the sponsor
+
+968
+00:44:19,800 --> 00:44:20,640
+that night.
+
+969
+00:44:20,640 --> 00:44:24,640
+So she gives an opening speech about like tonight's episode
+
+970
+00:44:25,320 --> 00:44:27,760
+my friends at Oscar Meyer and I believe
+
+971
+00:44:27,760 --> 00:44:30,760
+that tonight's episode can teach you a little something.
+
+972
+00:44:30,760 --> 00:44:32,240
+Well, you've got my attention.
+
+973
+00:44:33,800 --> 00:44:35,320
+We gotta watch that episode.
+
+974
+00:44:35,320 --> 00:44:38,320
+Yeah, the clips are pretty bonkers.
+
+975
+00:44:38,320 --> 00:44:40,320
+But anyway, that's the- It sounds like it's good,
+
+976
+00:44:40,320 --> 00:44:42,440
+their heart was in the right place, that's good.
+
+977
+00:44:42,440 --> 00:44:44,320
+Oh, it seems really, yeah, and for the 60s
+
+978
+00:44:44,320 --> 00:44:46,520
+to devote an episode to racial tolerance,
+
+979
+00:44:46,520 --> 00:44:47,960
+yeah, is fantastic.
+
+980
+00:44:48,920 --> 00:44:51,520
+And to get our pals at Oscar Meyer involved.
+
+981
+00:44:51,520 --> 00:44:55,120
+But the main thing that I have to say about Parley Bayer
+
+982
+00:44:55,120 --> 00:44:59,920
+is that he apparently was, before the war,
+
+983
+00:44:59,920 --> 00:45:04,280
+he was a circus ringmaster and in doing so,
+
+984
+00:45:04,280 --> 00:45:07,820
+he met and married a trapeze artist and bareback writer
+
+985
+00:45:07,820 --> 00:45:10,760
+who stayed his wife his whole life.
+
+986
+00:45:10,760 --> 00:45:13,560
+Then he went to war, then came back
+
+987
+00:45:13,560 --> 00:45:17,160
+and got sort of a related job as a wild animal trainer
+
+988
+00:45:17,160 --> 00:45:20,360
+at a place that is difficult for me to talk about
+
+989
+00:45:20,360 --> 00:45:24,080
+because that place is called Jungleland USA.
+
+990
+00:45:24,080 --> 00:45:25,800
+That's in Thousand Oaks, California.
+
+991
+00:45:25,800 --> 00:45:30,320
+And do you remember why Jungleland USA is notable?
+
+992
+00:45:30,320 --> 00:45:32,200
+Oh, I'm trying to remember.
+
+993
+00:45:32,200 --> 00:45:34,080
+No, say it.
+
+994
+00:45:34,080 --> 00:45:37,000
+Jungleland USA was the primary home base
+
+995
+00:45:37,000 --> 00:45:39,360
+of a fellow named- Oh, yeah, yes.
+
+996
+00:45:39,360 --> 00:45:40,200
+Yes.
+
+997
+00:45:40,200 --> 00:45:41,040
+Chukko.
+
+998
+00:45:41,040 --> 00:45:42,480
+Yes, yes, I knew.
+
+999
+00:45:42,480 --> 00:45:43,600
+And I knew when you said that.
+
+1000
+00:45:43,600 --> 00:45:44,680
+Yes. Yep.
+
+1001
+00:45:44,680 --> 00:45:46,040
+Yes, yeah.
+
+1002
+00:45:46,040 --> 00:45:46,880
+Wow.
+
+1003
+00:45:47,560 --> 00:45:52,560
+I, it's obviously, I'm shaken to even discuss this right now,
+
+1004
+00:45:52,760 --> 00:45:57,760
+but some of the pure unadulterated evil at Jungleland USA
+
+1005
+00:45:58,040 --> 00:45:59,480
+caused by the presence of Chukko,
+
+1006
+00:45:59,480 --> 00:46:03,000
+I think is offset by my good pal Parley Bayer,
+
+1007
+00:46:03,000 --> 00:46:05,200
+the voice of Ernie the elf being around.
+
+1008
+00:46:05,200 --> 00:46:07,000
+Wow, man.
+
+1009
+00:46:07,000 --> 00:46:08,280
+Do you think, side note,
+
+1010
+00:46:08,280 --> 00:46:11,440
+do you think a full Chukko episode is better
+
+1011
+00:46:11,440 --> 00:46:14,940
+if we're sequestered, if we're separated,
+
+1012
+00:46:14,940 --> 00:46:16,900
+or do we have to wait until we're all together again
+
+1013
+00:46:16,900 --> 00:46:19,220
+for the Chukko episode to finally happen?
+
+1014
+00:46:19,220 --> 00:46:20,500
+Oh, dear God.
+
+1015
+00:46:20,500 --> 00:46:23,220
+I don't, well, I don't know if I wanna be alone.
+
+1016
+00:46:23,220 --> 00:46:24,820
+Oh, yeah, that's a good point.
+
+1017
+00:46:26,020 --> 00:46:28,220
+Chukko may visit us.
+
+1018
+00:46:28,220 --> 00:46:30,180
+Exactly, that's exactly what I was thinking.
+
+1019
+00:46:30,180 --> 00:46:32,020
+And if you say his name three times,
+
+1020
+00:46:32,020 --> 00:46:34,060
+then I'm gonna be stuck here alone with him.
+
+1021
+00:46:34,060 --> 00:46:36,540
+Oh my God, let's, oh, oh, wait a minute, wait a minute.
+
+1022
+00:46:36,540 --> 00:46:39,300
+I have, I maybe have the best idea I've had ever.
+
+1023
+00:46:39,300 --> 00:46:44,300
+Let's do a digital seance to summon Chukko.
+
+1024
+00:46:45,940 --> 00:46:47,260
+The podcast.
+
+1025
+00:46:48,820 --> 00:46:50,660
+I will look up how to do a seance,
+
+1026
+00:46:50,660 --> 00:46:52,820
+we'll all light candles,
+
+1027
+00:46:52,820 --> 00:46:54,940
+and we will try to talk to Chukko
+
+1028
+00:46:54,940 --> 00:46:58,460
+and see if we can get him to make peace with Scott.
+
+1029
+00:46:58,460 --> 00:47:00,120
+Oh my God.
+
+1030
+00:47:02,020 --> 00:47:05,820
+Look, if there was, my first objection is,
+
+1031
+00:47:05,820 --> 00:47:09,780
+if there's anybody who's just full of pure COVID,
+
+1032
+00:47:09,780 --> 00:47:11,620
+I think it's Chukko.
+
+1033
+00:47:11,620 --> 00:47:14,420
+I think I want him to get tested before this,
+
+1034
+00:47:14,420 --> 00:47:16,300
+before he's gonna end up in my body.
+
+1035
+00:47:16,300 --> 00:47:17,380
+He's a spirit.
+
+1036
+00:47:19,220 --> 00:47:21,460
+But we don't know how far this reaches.
+
+1037
+00:47:21,460 --> 00:47:22,300
+I don't know.
+
+1038
+00:47:22,300 --> 00:47:25,260
+We know dogs can't get it, but what about spirits?
+
+1039
+00:47:25,260 --> 00:47:27,380
+Look, I don't know the answer to that.
+
+1040
+00:47:27,380 --> 00:47:28,420
+We'll ask him.
+
+1041
+00:47:30,100 --> 00:47:32,780
+We'll ask him when we do the seance.
+
+1042
+00:47:32,780 --> 00:47:35,340
+We get five minutes in and Scott's like,
+
+1043
+00:47:35,340 --> 00:47:37,340
+there is a single red balloon
+
+1044
+00:47:37,340 --> 00:47:39,700
+floating outside of my window.
+
+1045
+00:47:39,700 --> 00:47:42,100
+Oh my gosh, okay, even better, okay,
+
+1046
+00:47:42,100 --> 00:47:44,980
+even better idea that I just had.
+
+1047
+00:47:44,980 --> 00:47:46,860
+We're recording this a little bit before
+
+1048
+00:47:46,860 --> 00:47:48,740
+we're gonna do our first Twitch live show.
+
+1049
+00:47:48,740 --> 00:47:52,220
+How about we do it on Twitch and all the listeners,
+
+1050
+00:47:52,220 --> 00:47:55,580
+all the listeners light a candle with us
+
+1051
+00:47:55,580 --> 00:47:58,020
+and we all try to summon Chukko.
+
+1052
+00:47:58,020 --> 00:47:58,860
+Oh God.
+
+1053
+00:47:59,860 --> 00:48:01,260
+That's a lot of people.
+
+1054
+00:48:01,260 --> 00:48:02,860
+That's a lot of people.
+
+1055
+00:48:02,860 --> 00:48:05,980
+We need to get out of this sequester as quickly as we can.
+
+1056
+00:48:05,980 --> 00:48:07,740
+This is, you know, this is a great-
+
+1057
+00:48:07,740 --> 00:48:09,780
+Scott develops a vaccine real quick.
+
+1058
+00:48:09,940 --> 00:48:12,100
+I figured it out.
+
+1059
+00:48:12,100 --> 00:48:14,140
+I don't know, it just came through me.
+
+1060
+00:48:14,140 --> 00:48:16,380
+It chapter one and two where big hits,
+
+1061
+00:48:16,380 --> 00:48:18,380
+Candy Man is coming back.
+
+1062
+00:48:18,380 --> 00:48:20,420
+I think it's time for Chukko to come.
+
+1063
+00:48:20,420 --> 00:48:21,260
+Digital seance.
+
+1064
+00:48:21,260 --> 00:48:23,300
+I know we like bringing back obscure IP,
+
+1065
+00:48:23,300 --> 00:48:25,500
+but this isn't the IP I want back.
+
+1066
+00:48:25,500 --> 00:48:30,500
+Digital seance of summon Chukko, summoning Chukko.
+
+1067
+00:48:31,660 --> 00:48:32,580
+Oh God.
+
+1068
+00:48:32,580 --> 00:48:33,540
+Well, how about this?
+
+1069
+00:48:33,540 --> 00:48:38,540
+Here, I'll add a, what if, as we did this, I took acid.
+
+1070
+00:48:38,700 --> 00:48:40,220
+Oh my God.
+
+1071
+00:48:40,220 --> 00:48:41,060
+Yeah.
+
+1072
+00:48:41,060 --> 00:48:42,260
+Should go fine.
+
+1073
+00:48:42,260 --> 00:48:43,540
+It's probably just chill me out,
+
+1074
+00:48:43,540 --> 00:48:45,580
+not make things horrifyingly worse.
+
+1075
+00:48:45,580 --> 00:48:48,820
+I have a, there's, you know, Ernie Keebler would tell you,
+
+1076
+00:48:48,820 --> 00:48:50,740
+you probably shouldn't do that though.
+
+1077
+00:48:54,740 --> 00:48:56,340
+So what are you, what's gonna happen?
+
+1078
+00:48:56,340 --> 00:48:59,740
+What if I go buy some acid, what are you guys gonna do?
+
+1079
+00:48:59,740 --> 00:49:01,060
+Are you gonna break my neck?
+
+1080
+00:49:01,060 --> 00:49:01,900
+Hmm.
+
+1081
+00:49:01,900 --> 00:49:05,340
+I would break your neck if you did acid.
+
+1082
+00:49:05,380 --> 00:49:10,380
+I would just find the most unpleasant videos
+
+1083
+00:49:11,460 --> 00:49:14,980
+of people reviewing new pretzel carts at theme parks.
+
+1084
+00:49:14,980 --> 00:49:19,740
+Like new pretzel carts, new like bathrooms,
+
+1085
+00:49:19,740 --> 00:49:21,220
+that sort of thing.
+
+1086
+00:49:21,220 --> 00:49:22,460
+That I have to watch them?
+
+1087
+00:49:22,460 --> 00:49:25,460
+And you have to watch them while on acid.
+
+1088
+00:49:25,460 --> 00:49:28,420
+I'll be looking for ones that like the aspect ratio,
+
+1089
+00:49:28,420 --> 00:49:29,980
+like the camera keeps changing,
+
+1090
+00:49:29,980 --> 00:49:31,380
+they're holding their phone vertically,
+
+1091
+00:49:31,380 --> 00:49:34,900
+and then horizontally the audio keeps pitching in and out.
+
+1092
+00:49:34,900 --> 00:49:37,220
+Dear Lord, I'll take the neck break.
+
+1093
+00:49:39,420 --> 00:49:40,980
+Get breaking.
+
+1094
+00:49:40,980 --> 00:49:44,860
+Now I'm quarantined, but I'll just open the door a crack.
+
+1095
+00:49:44,860 --> 00:49:46,500
+Break my neck, please.
+
+1096
+00:49:48,180 --> 00:49:49,020
+Wow.
+
+1097
+00:49:49,020 --> 00:49:49,940
+I've learned my lesson.
+
+1098
+00:49:49,940 --> 00:49:51,860
+Fine, we'll summon Chukko.
+
+1099
+00:49:51,860 --> 00:49:53,180
+We're gonna summon Chukko.
+
+1100
+00:49:53,180 --> 00:49:54,420
+That's exciting.
+
+1101
+00:49:54,420 --> 00:49:55,260
+Digital say.
+
+1102
+00:49:55,260 --> 00:49:56,140
+That's the most excited I've been
+
+1103
+00:49:56,140 --> 00:49:58,340
+since being locked in the apartment, honestly.
+
+1104
+00:49:58,340 --> 00:50:02,020
+Oh no, but I think that for a digital seance to work,
+
+1105
+00:50:02,020 --> 00:50:05,020
+you need like a lot of, you need like a thousand people.
+
+1106
+00:50:05,020 --> 00:50:08,540
+You need like everyone who subscribes to the Patreon, right?
+
+1107
+00:50:08,540 --> 00:50:10,100
+Oh yeah, I think you're right.
+
+1108
+00:50:10,100 --> 00:50:12,300
+Well, that's, there's no way we're gonna get that many.
+
+1109
+00:50:12,300 --> 00:50:13,420
+Oh, I don't know.
+
+1110
+00:50:14,580 --> 00:50:15,420
+Maybe.
+
+1111
+00:50:16,660 --> 00:50:19,260
+We're gonna have to set that number at a certain point.
+
+1112
+00:50:19,260 --> 00:50:20,100
+Let's see what.
+
+1113
+00:50:20,100 --> 00:50:21,540
+Life finds a way.
+
+1114
+00:50:21,540 --> 00:50:22,380
+Yeah.
+
+1115
+00:50:25,100 --> 00:50:28,620
+We gotta pick a stormy night in Los Angeles too.
+
+1116
+00:50:28,620 --> 00:50:31,140
+Oh no, it's storming tonight.
+
+1117
+00:50:31,140 --> 00:50:32,580
+Can we just do it tonight?
+
+1118
+00:50:32,580 --> 00:50:33,420
+Oh God.
+
+1119
+00:50:33,420 --> 00:50:37,460
+I'll announce this on the show tonight on Twitch tonight.
+
+1120
+00:50:37,460 --> 00:50:38,660
+Jesus Christ.
+
+1121
+00:50:39,980 --> 00:50:42,060
+But I have to learn how to do a seance first.
+
+1122
+00:50:42,060 --> 00:50:43,900
+I need to do some sort of prep.
+
+1123
+00:50:43,900 --> 00:50:44,740
+Yeah, whatever.
+
+1124
+00:50:44,740 --> 00:50:46,420
+I'm sure it's very complicated
+
+1125
+00:50:46,420 --> 00:50:49,220
+and requires months worth of prep.
+
+1126
+00:50:49,220 --> 00:50:52,780
+Requires 18 months of prep, by which point,
+
+1127
+00:50:52,780 --> 00:50:54,900
+you know, we'll hopefully be done with this whole thing.
+
+1128
+00:50:54,900 --> 00:50:56,220
+Okay, well it's possible.
+
+1129
+00:50:56,220 --> 00:50:57,820
+It's also possible I have nothing else to do,
+
+1130
+00:50:57,820 --> 00:50:59,700
+so I will learn it very fast.
+
+1131
+00:51:01,700 --> 00:51:03,420
+And then you're just like sending spirits
+
+1132
+00:51:03,420 --> 00:51:05,540
+into bodies all over the city.
+
+1133
+00:51:05,540 --> 00:51:07,980
+Yeah, that'd be cool as shit.
+
+1134
+00:51:07,980 --> 00:51:09,820
+Mike became a witch.
+
+1135
+00:51:09,820 --> 00:51:11,820
+It just took like being in his apartment
+
+1136
+00:51:11,820 --> 00:51:13,260
+for a week and a half.
+
+1137
+00:51:13,260 --> 00:51:16,460
+Whoa, I thought Mike became a dryad, is that wrong?
+
+1138
+00:51:18,020 --> 00:51:18,860
+No, a dru, he's a dru.
+
+1139
+00:51:18,860 --> 00:51:20,460
+A dru, a dru.
+
+1140
+00:51:20,460 --> 00:51:22,060
+He's not a dryad, he's a dru.
+
+1141
+00:51:22,060 --> 00:51:23,860
+Witches are not drues.
+
+1142
+00:51:23,860 --> 00:51:26,340
+Dryad, drues are not dryads.
+
+1143
+00:51:27,700 --> 00:51:28,980
+Basin is now Sanuk.
+
+1144
+00:51:28,980 --> 00:51:30,220
+Basin is now Sanuk.
+
+1145
+00:51:31,580 --> 00:51:33,100
+So that's exciting.
+
+1146
+00:51:33,100 --> 00:51:35,900
+All right, well, I guess, dear God,
+
+1147
+00:51:35,900 --> 00:51:39,260
+let me pray for the vaccine, pray for the vaccine.
+
+1148
+00:51:39,260 --> 00:51:42,300
+Okay, does that cover Ernie?
+
+1149
+00:51:42,300 --> 00:51:45,260
+Should we talk about Ernie's friends?
+
+1150
+00:51:45,260 --> 00:51:47,100
+How do you guys feel about new,
+
+1151
+00:51:47,100 --> 00:51:50,740
+Ernie is kind of smooth, he's kind of CG smooth right now.
+
+1152
+00:51:50,740 --> 00:51:52,940
+How do you guys feel about that?
+
+1153
+00:51:52,940 --> 00:51:54,300
+I don't care for it.
+
+1154
+00:51:54,300 --> 00:51:55,500
+I don't feel good about it.
+
+1155
+00:51:55,500 --> 00:51:59,380
+I think it confuses the age, it muddies it.
+
+1156
+00:51:59,420 --> 00:52:03,140
+Yeah, I think he's kind of less friendly, less jolly.
+
+1157
+00:52:03,140 --> 00:52:05,500
+It looks like he had work done too.
+
+1158
+00:52:05,500 --> 00:52:06,500
+Yeah, kind of does.
+
+1159
+00:52:06,500 --> 00:52:08,860
+It looks like he had some plastic surgery.
+
+1160
+00:52:11,340 --> 00:52:13,060
+He looks younger.
+
+1161
+00:52:14,660 --> 00:52:19,660
+I like him being kind of a Tom Bosley-esque figure.
+
+1162
+00:52:19,900 --> 00:52:21,020
+For sure.
+
+1163
+00:52:21,020 --> 00:52:23,820
+Yeah, be proud of the wrinkles, too you are.
+
+1164
+00:52:23,820 --> 00:52:24,660
+Yeah.
+
+1165
+00:52:25,460 --> 00:52:27,860
+Did we talk about, he was not the original,
+
+1166
+00:52:28,260 --> 00:52:29,340
+it was JJ?
+
+1167
+00:52:30,820 --> 00:52:33,140
+Yeah, I think there was another guy.
+
+1168
+00:52:33,140 --> 00:52:34,780
+Or who was the original leader?
+
+1169
+00:52:34,780 --> 00:52:39,780
+It was not Ernie, JJ Keebler, yeah, in 1969.
+
+1170
+00:52:39,860 --> 00:52:40,980
+JJ Keebler.
+
+1171
+00:52:40,980 --> 00:52:43,180
+He was the original head elf.
+
+1172
+00:52:44,140 --> 00:52:46,860
+And he looked like FDR or something.
+
+1173
+00:52:46,860 --> 00:52:48,660
+He had a much different look.
+
+1174
+00:52:49,820 --> 00:52:50,660
+He looked like kind of a...
+
+1175
+00:52:50,660 --> 00:52:51,500
+Very square.
+
+1176
+00:52:51,500 --> 00:52:52,340
+Very square.
+
+1177
+00:52:52,340 --> 00:52:54,820
+Yeah, he was not kind of as like cute of a cartoon.
+
+1178
+00:52:54,820 --> 00:52:56,940
+He was almost like a caricature of like
+
+1179
+00:52:57,980 --> 00:53:00,340
+some like captain of industry or something.
+
+1180
+00:53:01,460 --> 00:53:02,300
+Yeah.
+
+1181
+00:53:03,140 --> 00:53:04,140
+But then wait a minute,
+
+1182
+00:53:04,140 --> 00:53:06,900
+but then isn't one of the nephews JJ?
+
+1183
+00:53:06,900 --> 00:53:09,180
+Yes, I believe so.
+
+1184
+00:53:09,180 --> 00:53:10,380
+That's confusing.
+
+1185
+00:53:10,380 --> 00:53:11,220
+It is.
+
+1186
+00:53:11,220 --> 00:53:12,740
+That's probably a little nod.
+
+1187
+00:53:12,740 --> 00:53:16,700
+Yeah, but JJ, the original JJ is not around now.
+
+1188
+00:53:16,700 --> 00:53:19,780
+Yeah, yeah, so they can die.
+
+1189
+00:53:20,700 --> 00:53:22,140
+Well, or retire.
+
+1190
+00:53:23,060 --> 00:53:24,060
+Yeah.
+
+1191
+00:53:24,140 --> 00:53:28,060
+Or maybe JJ is working in a different capacity at Kellogg.
+
+1192
+00:53:29,380 --> 00:53:30,500
+Oh, he's corporate now.
+
+1193
+00:53:30,500 --> 00:53:34,620
+Yeah, he's just not a spokesman anymore, a spokes elf.
+
+1194
+00:53:34,620 --> 00:53:36,220
+Sure, sure.
+
+1195
+00:53:36,220 --> 00:53:38,780
+So yeah, he works in the corporate office
+
+1196
+00:53:38,780 --> 00:53:40,500
+and he does paperwork.
+
+1197
+00:53:40,500 --> 00:53:42,340
+He has to like jump on all the keys
+
+1198
+00:53:42,340 --> 00:53:44,500
+of his computer one at a time.
+
+1199
+00:53:44,500 --> 00:53:46,780
+Right, but he gets it done.
+
+1200
+00:53:46,780 --> 00:53:47,820
+Yeah, yeah, eventually.
+
+1201
+00:53:47,820 --> 00:53:49,260
+Yeah, and he has more fun than we do,
+
+1202
+00:53:49,260 --> 00:53:50,620
+just pecking with our fingers.
+
+1203
+00:53:50,620 --> 00:53:53,940
+Yeah, jumping on a giant keyboard is awesome.
+
+1204
+00:53:54,900 --> 00:53:55,820
+That sounds pretty great.
+
+1205
+00:53:55,820 --> 00:54:00,340
+Well, that's what Rob Dyrdek got to do
+
+1206
+00:54:00,340 --> 00:54:02,420
+on every episode of Ridiculousness.
+
+1207
+00:54:03,660 --> 00:54:04,500
+Of course.
+
+1208
+00:54:06,740 --> 00:54:07,580
+Who could forget?
+
+1209
+00:54:07,580 --> 00:54:10,020
+He had as much fun as a keyboard elf.
+
+1210
+00:54:10,020 --> 00:54:10,860
+Yeah.
+
+1211
+00:54:10,860 --> 00:54:12,660
+Our Carson.
+
+1212
+00:54:12,660 --> 00:54:16,220
+Our Johnny Carson, the most charismatic host.
+
+1213
+00:54:17,860 --> 00:54:19,340
+I think that's really where,
+
+1214
+00:54:19,340 --> 00:54:22,500
+that's why all the shows are shutting down
+
+1215
+00:54:22,500 --> 00:54:26,180
+and there is no like united voice during this crisis.
+
+1216
+00:54:26,180 --> 00:54:29,500
+And yeah, we need Dyrdek to weigh in
+
+1217
+00:54:29,500 --> 00:54:34,500
+and say like, man, this coronavirus is crazy, y'all.
+
+1218
+00:54:36,260 --> 00:54:39,140
+That was a big client at the old post house
+
+1219
+00:54:39,140 --> 00:54:40,020
+I used to work at.
+
+1220
+00:54:40,020 --> 00:54:44,300
+So not only was I running tapes for Ridiculousness
+
+1221
+00:54:44,300 --> 00:54:45,980
+up and downstairs all day,
+
+1222
+00:54:45,980 --> 00:54:50,060
+it was in six different languages, I believe.
+
+1223
+00:54:50,060 --> 00:54:52,020
+Wow. Oh my God.
+
+1224
+00:54:52,060 --> 00:54:53,220
+So there were foreign,
+
+1225
+00:54:53,220 --> 00:54:54,860
+like there's like somebody out there
+
+1226
+00:54:54,860 --> 00:54:56,820
+is the French voice of Rob Dyrdek.
+
+1227
+00:54:56,820 --> 00:54:57,660
+Oh yeah.
+
+1228
+00:54:57,660 --> 00:54:59,340
+And like people would get in trouble
+
+1229
+00:54:59,340 --> 00:55:02,220
+because it's like, no, Latin American Spanish
+
+1230
+00:55:02,220 --> 00:55:04,900
+is different than Castilian Spanish.
+
+1231
+00:55:04,900 --> 00:55:06,900
+Guys, we gotta get this right.
+
+1232
+00:55:06,900 --> 00:55:07,900
+Very important.
+
+1233
+00:55:13,620 --> 00:55:14,460
+Yeah.
+
+1234
+00:55:15,340 --> 00:55:18,140
+French Rob Dyrdek just would play clips
+
+1235
+00:55:18,140 --> 00:55:19,420
+and then say, Sacre bleu.
+
+1236
+00:55:22,020 --> 00:55:25,900
+It's like Lumiere.
+
+1237
+00:55:30,980 --> 00:55:31,820
+Yeah.
+
+1238
+00:55:31,820 --> 00:55:34,420
+So JJ retired,
+
+1239
+00:55:34,420 --> 00:55:36,620
+JJ had the same voice as Fred Flintstone,
+
+1240
+00:55:36,620 --> 00:55:38,700
+Alan Reed senior.
+
+1241
+00:55:42,020 --> 00:55:44,900
+But he's not, they aren't related, I don't believe.
+
+1242
+00:55:46,260 --> 00:55:47,980
+Ernie and JJ?
+
+1243
+00:55:47,980 --> 00:55:48,940
+JJ, yeah.
+
+1244
+00:55:48,940 --> 00:55:49,980
+I don't think so.
+
+1245
+00:55:49,980 --> 00:55:51,860
+There's not a familial relation.
+
+1246
+00:55:52,700 --> 00:55:53,540
+I don't think so.
+
+1247
+00:55:53,540 --> 00:55:54,700
+I didn't come across that.
+
+1248
+00:55:54,700 --> 00:55:58,260
+But he does have a mom, the mom is Ma.
+
+1249
+00:55:58,260 --> 00:55:59,100
+Right.
+
+1250
+00:55:59,100 --> 00:55:59,980
+Yeah.
+
+1251
+00:55:59,980 --> 00:56:00,820
+She doesn't really have,
+
+1252
+00:56:00,820 --> 00:56:02,940
+she's kind of just like all the Ma,
+
+1253
+00:56:02,940 --> 00:56:06,700
+she's like granny in Looney Tunes.
+
+1254
+00:56:07,860 --> 00:56:10,620
+She does not much going on character wise with her.
+
+1255
+00:56:10,620 --> 00:56:11,460
+Yeah.
+
+1256
+00:56:12,580 --> 00:56:13,420
+Yeah, there's not too,
+
+1257
+00:56:13,420 --> 00:56:15,900
+yeah, they should really, Ma should have more to do.
+
+1258
+00:56:15,900 --> 00:56:16,740
+I agree.
+
+1259
+00:56:16,740 --> 00:56:19,180
+If that's what you're saying, I agree.
+
+1260
+00:56:19,180 --> 00:56:20,300
+Yeah, yeah.
+
+1261
+00:56:22,020 --> 00:56:25,540
+I'm gonna go through this advertising week 360 list
+
+1262
+00:56:25,540 --> 00:56:27,340
+where they have them alphabetical.
+
+1263
+00:56:28,540 --> 00:56:30,100
+And this is just, you know,
+
+1264
+00:56:30,100 --> 00:56:33,260
+I think this is gonna be educational for everybody
+
+1265
+00:56:33,260 --> 00:56:36,220
+to just like, let's take this downtime
+
+1266
+00:56:36,220 --> 00:56:40,860
+and get educated on who each of them are, their hair color.
+
+1267
+00:56:40,860 --> 00:56:43,340
+So that when we're watching compilations,
+
+1268
+00:56:43,340 --> 00:56:44,860
+we don't get mixed up again.
+
+1269
+00:56:44,860 --> 00:56:46,420
+Let's learn this once and for all
+
+1270
+00:56:46,420 --> 00:56:48,540
+and know who every one of these characters is.
+
+1271
+00:56:48,540 --> 00:56:49,820
+I agree.
+
+1272
+00:56:49,820 --> 00:56:50,980
+Yeah.
+
+1273
+00:56:50,980 --> 00:56:52,260
+No more confusion.
+
+1274
+00:56:54,340 --> 00:56:58,380
+Elmer is the apprentice.
+
+1275
+00:56:58,380 --> 00:57:02,660
+He's the freckly one with kind of a big swirl of red hair.
+
+1276
+00:57:02,660 --> 00:57:04,380
+And he know that he's the apprentice
+
+1277
+00:57:04,380 --> 00:57:07,860
+because he wears the smaller style apprentice hat.
+
+1278
+00:57:07,860 --> 00:57:09,860
+It's not a big puffy chef's hat.
+
+1279
+00:57:09,860 --> 00:57:11,580
+So he's just learning.
+
+1280
+00:57:11,580 --> 00:57:12,580
+Right, so that's how, yeah,
+
+1281
+00:57:12,580 --> 00:57:15,340
+that's how you make the distinction between the like,
+
+1282
+00:57:15,340 --> 00:57:17,340
+professionals and the people that are learning
+
+1283
+00:57:17,340 --> 00:57:18,820
+is the hat size.
+
+1284
+00:57:18,820 --> 00:57:19,860
+Yeah, yeah, yeah.
+
+1285
+00:57:21,980 --> 00:57:26,180
+Buckets, however, is an established chef.
+
+1286
+00:57:27,140 --> 00:57:29,100
+Buckets reminds me, I'm looking at Buckets right now.
+
+1287
+00:57:29,100 --> 00:57:32,260
+He reminds me a little bit of Jeff Garland.
+
+1288
+00:57:32,260 --> 00:57:34,300
+Okay, I could see what you're saying.
+
+1289
+00:57:34,300 --> 00:57:36,300
+Mm-hmm, mm-hmm, a little similarity there.
+
+1290
+00:57:36,300 --> 00:57:39,260
+The thing I say is somebody calls him the muscle
+
+1291
+00:57:40,820 --> 00:57:42,380
+in one of the things I read.
+
+1292
+00:57:43,300 --> 00:57:48,300
+Yes, because he adds so much fudge to the cookie.
+
+1293
+00:57:51,020 --> 00:57:54,180
+A Buckets worth of fudge.
+
+1294
+00:57:54,180 --> 00:57:56,580
+So he's doing the most heavy lifting.
+
+1295
+00:57:56,580 --> 00:57:59,140
+Uh-huh, I like Buckets.
+
+1296
+00:57:59,140 --> 00:58:01,700
+Yeah, I like this guy. I like Buckets too.
+
+1297
+00:58:01,700 --> 00:58:05,380
+Well, we all reap the rewards of what Buckets does for us.
+
+1298
+00:58:05,380 --> 00:58:06,220
+Mm-hmm.
+
+1299
+00:58:08,860 --> 00:58:10,540
+Fast Eddie. Oh yeah.
+
+1300
+00:58:12,100 --> 00:58:14,300
+An elf of few words, just ask him to bake anything.
+
+1301
+00:58:14,300 --> 00:58:15,980
+And before the sentence gets out of your mouth,
+
+1302
+00:58:15,980 --> 00:58:17,620
+he's already off doing it.
+
+1303
+00:58:17,620 --> 00:58:19,060
+He also has red hair.
+
+1304
+00:58:19,060 --> 00:58:21,180
+It's a little confusing,
+
+1305
+00:58:21,180 --> 00:58:24,180
+but he's like twice the size of Elmer.
+
+1306
+00:58:24,180 --> 00:58:25,700
+And he has the real big hat.
+
+1307
+00:58:26,820 --> 00:58:29,180
+Yes, yes, not an apprentice hat.
+
+1308
+00:58:29,180 --> 00:58:34,180
+I think these three and Ernie map pretty well
+
+1309
+00:58:35,260 --> 00:58:39,540
+to the main members of the DeMeo crime family
+
+1310
+00:58:39,540 --> 00:58:40,580
+and the Sopranos.
+
+1311
+00:58:40,580 --> 00:58:42,500
+I think Ernie is clearly Tony.
+
+1312
+00:58:43,500 --> 00:58:45,100
+Elmer is Christopher.
+
+1313
+00:58:46,100 --> 00:58:49,180
+Buckets I think is Polly Walnuts.
+
+1314
+00:58:49,180 --> 00:58:53,300
+And I think the Fast Eddie is Silvio because-
+
+1315
+00:58:53,300 --> 00:58:56,780
+I would switch those around, I think.
+
+1316
+00:58:56,780 --> 00:58:59,980
+You think, but I think Silvio is more,
+
+1317
+00:59:00,860 --> 00:59:03,620
+I think Silvio is more reliable.
+
+1318
+00:59:03,620 --> 00:59:05,740
+Do you think Buckets is more reliable
+
+1319
+00:59:05,740 --> 00:59:07,580
+and trustworthy than Fast Eddie?
+
+1320
+00:59:08,620 --> 00:59:11,660
+I think Fast Eddie though goes so fast.
+
+1321
+00:59:11,660 --> 00:59:13,700
+He's, they're both reliable,
+
+1322
+00:59:13,700 --> 00:59:16,340
+but I think Buckets is steadier than Fast Eddie
+
+1323
+00:59:16,340 --> 00:59:18,660
+because Fast Eddie is impulsive.
+
+1324
+00:59:18,660 --> 00:59:21,620
+Yeah, then that's what you think of with Polly.
+
+1325
+00:59:21,620 --> 00:59:23,420
+So yeah, that's right.
+
+1326
+00:59:23,420 --> 00:59:25,020
+Polly a little more explosive.
+
+1327
+00:59:25,020 --> 00:59:28,220
+Silvio is much more like measured in general.
+
+1328
+00:59:30,660 --> 00:59:32,260
+Yeah, I would agree with that.
+
+1329
+00:59:32,260 --> 00:59:35,220
+Okay, so now that we're glad we squared that away.
+
+1330
+00:59:35,220 --> 00:59:36,700
+Yeah.
+
+1331
+00:59:36,700 --> 00:59:37,620
+But they're all important.
+
+1332
+00:59:37,620 --> 00:59:39,580
+You couldn't do any of this without them.
+
+1333
+00:59:39,580 --> 00:59:40,940
+They're all crucial members at the same time.
+
+1334
+00:59:40,940 --> 00:59:41,780
+Yes, yes, yes.
+
+1335
+00:59:42,220 --> 00:59:43,060
+They're crucial.
+
+1336
+00:59:43,060 --> 00:59:45,860
+The next one on the list, I feel like less so.
+
+1337
+00:59:46,900 --> 00:59:47,860
+Roger?
+
+1338
+00:59:47,860 --> 00:59:51,340
+Roger, something about Roger, I don't know.
+
+1339
+00:59:51,340 --> 00:59:52,540
+I'm getting a bad feeling.
+
+1340
+00:59:52,540 --> 00:59:55,100
+I think he is, I think he is Ralph Zafforetto.
+
+1341
+00:59:55,100 --> 00:59:58,820
+I think he is Joe Pantaleato's unhinged character.
+
+1342
+00:59:59,940 --> 01:00:02,020
+What don't you like about Roger?
+
+1343
+01:00:02,020 --> 01:00:04,420
+I don't know, I just get a weird vibe from him.
+
+1344
+01:00:05,780 --> 01:00:07,100
+Maybe it's the green.
+
+1345
+01:00:07,100 --> 01:00:08,740
+There's a shiftiness to him.
+
+1346
+01:00:11,820 --> 01:00:13,020
+I think he looks nice though.
+
+1347
+01:00:13,020 --> 01:00:16,340
+I was thinking he looks a little bit like Sam Waterston.
+
+1348
+01:00:17,620 --> 01:00:18,460
+I can see that.
+
+1349
+01:00:18,460 --> 01:00:19,300
+Yeah, I see that.
+
+1350
+01:00:19,300 --> 01:00:20,140
+That's fair.
+
+1351
+01:00:20,140 --> 01:00:21,060
+He's a nice guy.
+
+1352
+01:00:21,060 --> 01:00:23,060
+He's a climate change fighter.
+
+1353
+01:00:24,700 --> 01:00:26,500
+If Roger's anything like Sam.
+
+1354
+01:00:28,020 --> 01:00:29,820
+And he's, look, he's been around forever.
+
+1355
+01:00:29,820 --> 01:00:31,900
+I don't know, what a type of a boss is Ernie?
+
+1356
+01:00:31,900 --> 01:00:33,940
+Is Ernie somebody who's gonna keep people around
+
+1357
+01:00:33,940 --> 01:00:36,060
+just because of like loyalty?
+
+1358
+01:00:36,060 --> 01:00:37,900
+Or will he give somebody the axe
+
+1359
+01:00:37,900 --> 01:00:39,300
+if they're not pulling their weight?
+
+1360
+01:00:39,300 --> 01:00:41,020
+I feel like he's gonna give people the axe.
+
+1361
+01:00:41,260 --> 01:00:42,340
+He's nice.
+
+1362
+01:00:43,140 --> 01:00:44,420
+He's, what's his nickname again?
+
+1363
+01:00:44,420 --> 01:00:45,500
+Mr.
+
+1364
+01:00:45,500 --> 01:00:46,900
+Mr. Sincerity.
+
+1365
+01:00:46,900 --> 01:00:48,060
+Mr. Sincerity.
+
+1366
+01:00:49,340 --> 01:00:50,180
+But obviously-
+
+1367
+01:00:50,180 --> 01:00:51,900
+It's better to tell it like it is.
+
+1368
+01:00:51,900 --> 01:00:53,260
+Yeah, he has to tell it like it is.
+
+1369
+01:00:53,260 --> 01:00:55,340
+So I feel like he wouldn't maybe keep Roger around
+
+1370
+01:00:55,340 --> 01:00:57,540
+unless he was valuable to the team.
+
+1371
+01:01:00,340 --> 01:01:03,540
+I'm the most confused by Roger's role.
+
+1372
+01:01:03,540 --> 01:01:04,380
+Yeah.
+
+1373
+01:01:05,940 --> 01:01:06,900
+Something describes him,
+
+1374
+01:01:06,900 --> 01:01:09,740
+the Wikipedia describes him as the jeweler.
+
+1375
+01:01:09,780 --> 01:01:11,540
+What do you mean the jeweler?
+
+1376
+01:01:11,540 --> 01:01:12,380
+Yeah, what does that?
+
+1377
+01:01:12,380 --> 01:01:15,620
+Is that like putting in the rainbow chocolate chips
+
+1378
+01:01:15,620 --> 01:01:17,180
+for the rainbow cookies?
+
+1379
+01:01:17,180 --> 01:01:18,540
+Yeah.
+
+1380
+01:01:18,540 --> 01:01:22,300
+Rainbow chips deluxe, another goat, another great cookie.
+
+1381
+01:01:22,300 --> 01:01:24,580
+Oh, rainbow chips deluxe.
+
+1382
+01:01:24,580 --> 01:01:27,300
+Oh, I loved rainbow chips deluxe.
+
+1383
+01:01:27,300 --> 01:01:28,580
+Yeah, yeah, yeah.
+
+1384
+01:01:28,580 --> 01:01:29,420
+So exciting.
+
+1385
+01:01:29,420 --> 01:01:32,380
+So if Roger is jeweling them-
+
+1386
+01:01:32,380 --> 01:01:34,140
+Yes, he's jeweling the cookies.
+
+1387
+01:01:34,140 --> 01:01:38,020
+With chips, then we gotta be, we gotta like this guy.
+
+1388
+01:01:38,020 --> 01:01:38,860
+We gotta like him.
+
+1389
+01:01:39,620 --> 01:01:41,700
+Maybe that breaks the Sopranos metaphor.
+
+1390
+01:01:41,700 --> 01:01:46,700
+Maybe he's more like Adam Sandler in Uncut Chips.
+
+1391
+01:01:49,460 --> 01:01:51,740
+These are real chocolate chips.
+
+1392
+01:01:51,740 --> 01:01:52,580
+Ernie.
+
+1393
+01:01:56,260 --> 01:01:58,700
+Yeah, we got the green and the yellow.
+
+1394
+01:02:00,620 --> 01:02:04,380
+Ernie, I need you to just hold onto these chips for a week.
+
+1395
+01:02:04,380 --> 01:02:06,060
+Just hold on, give me 20%.
+
+1396
+01:02:06,060 --> 01:02:08,340
+I'll give you 20% when I pick it up.
+
+1397
+01:02:08,380 --> 01:02:11,300
+Now we got the spring colors.
+
+1398
+01:02:11,300 --> 01:02:14,140
+We got the different colors for Easter.
+
+1399
+01:02:14,140 --> 01:02:17,100
+The Easter colors were so lovely, I have to say.
+
+1400
+01:02:17,100 --> 01:02:17,940
+I agree.
+
+1401
+01:02:17,940 --> 01:02:18,780
+You gotta bring those back.
+
+1402
+01:02:20,340 --> 01:02:22,220
+These cookies have enough chips already.
+
+1403
+01:02:22,220 --> 01:02:23,940
+They're deluxe enough as they are.
+
+1404
+01:02:23,940 --> 01:02:26,620
+I disagree, I disagree.
+
+1405
+01:02:31,940 --> 01:02:34,740
+I don't think I see them in this list,
+
+1406
+01:02:34,740 --> 01:02:36,460
+but I wanna make sure we hit everybody.
+
+1407
+01:02:36,460 --> 01:02:40,460
+I'm also seeing Sam the peanut butter baker.
+
+1408
+01:02:40,460 --> 01:02:42,620
+Oh, I miss Sam the peanut butter baker.
+
+1409
+01:02:42,620 --> 01:02:43,460
+Yeah.
+
+1410
+01:02:43,460 --> 01:02:44,500
+That's in the Wikipedia.
+
+1411
+01:02:44,500 --> 01:02:48,820
+There's some lists that claim to be exhaustive
+
+1412
+01:02:48,820 --> 01:02:50,380
+that I don't think are.
+
+1413
+01:02:50,380 --> 01:02:51,220
+Right.
+
+1414
+01:02:52,140 --> 01:02:53,500
+In fact, the list I was just looking at
+
+1415
+01:02:53,500 --> 01:02:56,620
+didn't explain that Fast Eddie wraps the products,
+
+1416
+01:02:56,620 --> 01:02:58,420
+which I think we mentioned in our previous episode.
+
+1417
+01:02:58,420 --> 01:03:00,420
+That's a vital role.
+
+1418
+01:03:00,420 --> 01:03:01,420
+Yes. Extremely.
+
+1419
+01:03:01,420 --> 01:03:03,140
+Yeah, that's the whole production line.
+
+1420
+01:03:03,140 --> 01:03:06,380
+Did you come across Leonardo?
+
+1421
+01:03:07,300 --> 01:03:08,140
+Yes, yeah.
+
+1422
+01:03:08,140 --> 01:03:10,260
+Leonardo's the next in the list I'm looking at.
+
+1423
+01:03:10,260 --> 01:03:13,260
+Yeah, and Leonardo factors into the recent CGI ads.
+
+1424
+01:03:13,260 --> 01:03:15,500
+They've still been using him recently.
+
+1425
+01:03:15,500 --> 01:03:16,340
+Right.
+
+1426
+01:03:16,340 --> 01:03:19,540
+And he is the paint, he paints.
+
+1427
+01:03:19,540 --> 01:03:21,020
+Yes.
+
+1428
+01:03:21,020 --> 01:03:23,180
+And he's got a big beret and a paintbrush.
+
+1429
+01:03:23,180 --> 01:03:26,580
+And you gotta say he's a little bit similar to,
+
+1430
+01:03:26,580 --> 01:03:28,180
+from the Duffy Gang, Jelatoni.
+
+1431
+01:03:28,180 --> 01:03:29,180
+Jelatoni, of course.
+
+1432
+01:03:29,180 --> 01:03:30,780
+First thing I thought of.
+
+1433
+01:03:30,780 --> 01:03:32,340
+Yeah.
+
+1434
+01:03:32,340 --> 01:03:34,060
+So it would stand to reason then
+
+1435
+01:03:34,060 --> 01:03:36,700
+that also Leonardo fucks.
+
+1436
+01:03:36,700 --> 01:03:37,820
+Nice.
+
+1437
+01:03:37,820 --> 01:03:41,500
+I think 100%, you can say it, Leonardo fucks.
+
+1438
+01:03:41,500 --> 01:03:42,820
+Yeah, yeah.
+
+1439
+01:03:42,820 --> 01:03:44,180
+Sorry, parents.
+
+1440
+01:03:44,180 --> 01:03:46,500
+We'll start switching to tarnation
+
+1441
+01:03:46,500 --> 01:03:47,820
+as soon as we adjust to it.
+
+1442
+01:03:50,620 --> 01:03:51,780
+Then we got- Next up.
+
+1443
+01:03:54,540 --> 01:03:56,140
+Are you gonna say Doc?
+
+1444
+01:03:56,140 --> 01:03:58,620
+You should say, yeah, you say Doc.
+
+1445
+01:03:58,620 --> 01:04:00,180
+Doc is the character's name.
+
+1446
+01:04:01,140 --> 01:04:01,980
+Wow.
+
+1447
+01:04:02,980 --> 01:04:03,820
+Yes.
+
+1448
+01:04:04,780 --> 01:04:08,100
+Who adds a sprinkling of wisdom into every creation
+
+1449
+01:04:08,100 --> 01:04:10,380
+he makes in the big, what does that mean?
+
+1450
+01:04:10,380 --> 01:04:11,220
+Wisdom.
+
+1451
+01:04:11,220 --> 01:04:12,660
+I don't know.
+
+1452
+01:04:12,660 --> 01:04:13,780
+That seems inessential.
+
+1453
+01:04:13,780 --> 01:04:16,620
+If there's any weak link on the team, I think it's Doc.
+
+1454
+01:04:17,740 --> 01:04:22,740
+Yeah, although now I'm cross-checking with the Wikipedia
+
+1455
+01:04:23,220 --> 01:04:26,220
+and he's described as the doctor.
+
+1456
+01:04:26,220 --> 01:04:30,300
+And then they're extremely crucial these days, obviously.
+
+1457
+01:04:30,300 --> 01:04:31,620
+So maybe they can't get rid of Doc.
+
+1458
+01:04:32,260 --> 01:04:33,260
+He's a dual role guy.
+
+1459
+01:04:33,260 --> 01:04:35,900
+But why is he dressed up as a baker then?
+
+1460
+01:04:35,900 --> 01:04:38,260
+Shouldn't he have like a stethoscope?
+
+1461
+01:04:38,260 --> 01:04:41,540
+No, well, he's the doctor and cookie maker.
+
+1462
+01:04:43,380 --> 01:04:46,780
+Which now, now that sort of bugs me about Ernie
+
+1463
+01:04:46,780 --> 01:04:49,700
+if he's making people double up on jobs.
+
+1464
+01:04:49,700 --> 01:04:53,180
+Right, maybe Ernie isn't as good as we think he is.
+
+1465
+01:04:54,820 --> 01:04:56,340
+Seems possible.
+
+1466
+01:04:56,340 --> 01:04:58,900
+Might be sort of a tyrant the way we discovered
+
+1467
+01:04:58,900 --> 01:05:00,700
+Tony Solaroni is.
+
+1468
+01:05:00,700 --> 01:05:01,580
+Right.
+
+1469
+01:05:02,420 --> 01:05:04,900
+You gotta have some amount of distrust
+
+1470
+01:05:04,900 --> 01:05:09,900
+for before the owner who really controls the press
+
+1471
+01:05:09,940 --> 01:05:12,020
+who puts out these press releases,
+
+1472
+01:05:12,020 --> 01:05:15,420
+who represents the company in media.
+
+1473
+01:05:15,420 --> 01:05:17,100
+So it's all kind of slanted to him
+
+1474
+01:05:17,100 --> 01:05:18,900
+and to make him look like a real hero.
+
+1475
+01:05:18,900 --> 01:05:20,180
+Yeah, that's a good point.
+
+1476
+01:05:20,180 --> 01:05:24,100
+So yeah, who knows what, yeah, we should do some,
+
+1477
+01:05:24,100 --> 01:05:26,820
+we really need to figure out if Doc is being mistreated
+
+1478
+01:05:26,820 --> 01:05:28,340
+at the tree, at the factory.
+
+1479
+01:05:29,180 --> 01:05:30,460
+Mm-hmm.
+
+1480
+01:05:30,460 --> 01:05:32,060
+Cause it's possible.
+
+1481
+01:05:32,060 --> 01:05:35,940
+I mean, a number of elderly employees.
+
+1482
+01:05:35,940 --> 01:05:36,780
+Yes, yes.
+
+1483
+01:05:36,780 --> 01:05:38,940
+And so does that make you question
+
+1484
+01:05:38,940 --> 01:05:41,980
+whether there are robust enough retirement plans
+
+1485
+01:05:41,980 --> 01:05:45,060
+at this factory or do these people just have to,
+
+1486
+01:05:45,060 --> 01:05:46,660
+you know, work their fingers to the bone?
+
+1487
+01:05:46,660 --> 01:05:49,580
+Yeah, it's like Ernie a Bezos, is he a Jeff Bezos type?
+
+1488
+01:05:49,580 --> 01:05:52,860
+Is he somebody who underpays the employees
+
+1489
+01:05:52,860 --> 01:05:55,460
+and has gotten rich off their backs?
+
+1490
+01:05:55,460 --> 01:05:56,500
+It's possible.
+
+1491
+01:05:56,500 --> 01:05:59,700
+Maybe so, doesn't give them bathroom breaks.
+
+1492
+01:05:59,700 --> 01:06:02,140
+Just asking, also, I'm just asking questions.
+
+1493
+01:06:02,140 --> 01:06:03,740
+Just asking questions.
+
+1494
+01:06:03,740 --> 01:06:05,100
+That's all I'm doing.
+
+1495
+01:06:05,100 --> 01:06:07,060
+A phrase you're always happy to see.
+
+1496
+01:06:07,060 --> 01:06:11,100
+Like it's always good vibes when you see that phrase.
+
+1497
+01:06:11,100 --> 01:06:11,940
+Mm-hmm.
+
+1498
+01:06:13,580 --> 01:06:16,420
+I'm a skeptic, that's a cool thing to be, right?
+
+1499
+01:06:16,420 --> 01:06:17,500
+A skeptic. Oh yeah,
+
+1500
+01:06:17,500 --> 01:06:19,180
+professional skeptic, hell yeah.
+
+1501
+01:06:21,620 --> 01:06:23,220
+No vibes there.
+
+1502
+01:06:23,220 --> 01:06:26,180
+We got Sam, oh wait, oh, sorry,
+
+1503
+01:06:26,180 --> 01:06:29,180
+I said Sam, Sam is the peanut butter baker,
+
+1504
+01:06:29,180 --> 01:06:30,740
+which again, this list does not say.
+
+1505
+01:06:30,740 --> 01:06:32,460
+I've become disappointed as we've gone
+
+1506
+01:06:32,460 --> 01:06:34,500
+by the advertising week 360 list,
+
+1507
+01:06:34,500 --> 01:06:37,900
+but there are nice helpful pictures, so I'll give it that.
+
+1508
+01:06:37,900 --> 01:06:40,620
+Well, Sam was in the Weedables commercial.
+
+1509
+01:06:40,620 --> 01:06:44,020
+Weedables, another food we had a lot in the house growing up.
+
+1510
+01:06:46,420 --> 01:06:47,860
+I think I had two.
+
+1511
+01:06:47,860 --> 01:06:49,060
+I think we had a two.
+
+1512
+01:06:49,060 --> 01:06:51,140
+Yeah, they made like a lot of not just cookies,
+
+1513
+01:06:51,140 --> 01:06:53,980
+they had club crackers, they had the pizza.
+
+1514
+01:06:53,980 --> 01:06:55,380
+Always had club crackers.
+
+1515
+01:06:55,380 --> 01:06:56,980
+Club crackers great with soup.
+
+1516
+01:06:58,100 --> 01:07:00,500
+Pick up a box folks, if you're stocking up on canned goods
+
+1517
+01:07:00,500 --> 01:07:03,300
+when you're at the store, club crackers, delicious.
+
+1518
+01:07:03,300 --> 01:07:04,900
+Do you have some? Very buttery.
+
+1519
+01:07:04,900 --> 01:07:06,220
+I don't have some.
+
+1520
+01:07:06,220 --> 01:07:09,620
+Those though, I feel like, well they come in sleeves,
+
+1521
+01:07:09,620 --> 01:07:11,580
+but once you open a sleeve, I feel like the clock
+
+1522
+01:07:11,580 --> 01:07:13,780
+is ticking on those club crackers.
+
+1523
+01:07:13,780 --> 01:07:16,380
+Like they're gonna lose their crunch quick.
+
+1524
+01:07:17,420 --> 01:07:19,140
+Their essence?
+
+1525
+01:07:19,140 --> 01:07:21,180
+Their essence, their crunchy essence.
+
+1526
+01:07:21,860 --> 01:07:24,860
+Can I bring up some of the other products
+
+1527
+01:07:24,860 --> 01:07:27,420
+that in their product line, which there are,
+
+1528
+01:07:27,420 --> 01:07:29,740
+elf starring commercials and you guys might have run
+
+1529
+01:07:29,740 --> 01:07:30,580
+into these.
+
+1530
+01:07:33,580 --> 01:07:36,980
+I think it makes sense that today we don't see on shelves
+
+1531
+01:07:36,980 --> 01:07:39,380
+a product called Oh Boyzies,
+
+1532
+01:07:41,100 --> 01:07:45,100
+which is sort of a double, it's to get oh boy,
+
+1533
+01:07:45,100 --> 01:07:47,020
+because they'll have you saying oh boy,
+
+1534
+01:07:47,020 --> 01:07:50,340
+but they're also potato chips and it's meant to be
+
+1535
+01:07:50,700 --> 01:07:53,380
+it's meant to, the Boyzies is meant to make you think
+
+1536
+01:07:53,380 --> 01:07:57,300
+of Idaho and Idaho potatoes.
+
+1537
+01:07:57,300 --> 01:07:58,340
+Right.
+
+1538
+01:07:58,340 --> 01:07:59,540
+Weird name.
+
+1539
+01:07:59,540 --> 01:08:00,500
+Very strange name.
+
+1540
+01:08:00,500 --> 01:08:02,380
+I never had those.
+
+1541
+01:08:02,380 --> 01:08:07,380
+And I was not dying to eat their line of tortilla chips
+
+1542
+01:08:07,460 --> 01:08:12,180
+called Chachos with a weird cinnamon flavor
+
+1543
+01:08:12,180 --> 01:08:14,140
+called Cinnamon Crespagna.
+
+1544
+01:08:15,620 --> 01:08:19,260
+I think Crespagna is potentially a fictional,
+
+1545
+01:08:19,340 --> 01:08:22,740
+I could be wrong, I didn't look it up in any
+
+1546
+01:08:22,740 --> 01:08:23,580
+Spanish dictionary.
+
+1547
+01:08:23,580 --> 01:08:27,740
+The Nina, the Pinta, the Crespagna, the three ships.
+
+1548
+01:08:27,740 --> 01:08:30,380
+Columbus, the New World.
+
+1549
+01:08:30,380 --> 01:08:32,540
+Such early education stuff.
+
+1550
+01:08:35,420 --> 01:08:37,940
+Also educational was the Chachos ad where I learned
+
+1551
+01:08:37,940 --> 01:08:41,380
+how they make the chips, which is that all the elves
+
+1552
+01:08:41,380 --> 01:08:44,980
+gather in a circle and throw a tortilla up in the air
+
+1553
+01:08:44,980 --> 01:08:46,980
+three or four times and then somebody,
+
+1554
+01:08:46,980 --> 01:08:49,740
+one of the elves cracks the whip, cracks a big whip
+
+1555
+01:08:49,740 --> 01:08:52,420
+right in the center which splits it into many different
+
+1556
+01:08:52,420 --> 01:08:53,260
+chips.
+
+1557
+01:08:54,580 --> 01:08:56,300
+Like Indiana Jones?
+
+1558
+01:08:56,300 --> 01:08:57,700
+Yeah, yeah.
+
+1559
+01:08:57,700 --> 01:08:59,540
+It's a big old crack and if you don't do it right
+
+1560
+01:08:59,540 --> 01:09:01,340
+in the center, I bet that's a problem.
+
+1561
+01:09:01,340 --> 01:09:04,060
+That's a very special kitchen skill.
+
+1562
+01:09:04,060 --> 01:09:05,780
+Sounds efficient.
+
+1563
+01:09:05,780 --> 01:09:07,140
+Which elf cracked the whip?
+
+1564
+01:09:08,300 --> 01:09:11,540
+He was very far away in a pretty poor quality
+
+1565
+01:09:11,540 --> 01:09:14,660
+YouTube transfer so it's hard to see, I'll pull it up
+
+1566
+01:09:14,660 --> 01:09:16,620
+while we're talking, I'll see if I can, this will be
+
+1567
+01:09:17,260 --> 01:09:20,420
+a good test, can I identify after this lesson
+
+1568
+01:09:20,420 --> 01:09:21,500
+which elf it was?
+
+1569
+01:09:21,500 --> 01:09:22,940
+Yes, that's good.
+
+1570
+01:09:24,500 --> 01:09:28,860
+What other, I was looking at the list too of items.
+
+1571
+01:09:28,860 --> 01:09:32,100
+There's a lot of stuff I forgot from the 90s that they had
+
+1572
+01:09:32,100 --> 01:09:34,580
+that we had in the house, like cookie wise.
+
+1573
+01:09:36,020 --> 01:09:38,020
+Jason, did you go through this list too?
+
+1574
+01:09:39,300 --> 01:09:40,580
+No, send it to me.
+
+1575
+01:09:41,540 --> 01:09:43,860
+I looked at a couple lists, yeah.
+
+1576
+01:09:44,820 --> 01:09:48,220
+But if you wanna go ahead, hold on, yeah, let me,
+
+1577
+01:09:48,220 --> 01:09:50,420
+now I'm losing my list here.
+
+1578
+01:09:51,460 --> 01:09:55,540
+I think that, I'm now looking at the Chachos commercial
+
+1579
+01:09:55,540 --> 01:10:00,020
+and I think this might be a lot of one time,
+
+1580
+01:10:00,020 --> 01:10:03,740
+one use only Hispanic elves.
+
+1581
+01:10:03,740 --> 01:10:05,500
+Oh, interesting.
+
+1582
+01:10:05,500 --> 01:10:07,980
+Yeah, I think.
+
+1583
+01:10:07,980 --> 01:10:11,060
+They're all in sombreros so I think these are not
+
+1584
+01:10:11,140 --> 01:10:15,140
+the typical, these are not the people we've been covering.
+
+1585
+01:10:15,140 --> 01:10:15,980
+Right.
+
+1586
+01:10:17,780 --> 01:10:21,660
+So we had the, oh man.
+
+1587
+01:10:23,420 --> 01:10:26,540
+Now I'm just, now it keeps pulling up dry ads on my phone.
+
+1588
+01:10:26,540 --> 01:10:27,580
+All right, here we go.
+
+1589
+01:10:28,860 --> 01:10:33,860
+They had Keebler Fudge Shop cookies, which I remember.
+
+1590
+01:10:35,340 --> 01:10:39,060
+They had, now Rich and Chips used to be their like
+
+1591
+01:10:39,060 --> 01:10:40,380
+chocolate chip cookie.
+
+1592
+01:10:41,300 --> 01:10:44,500
+Which would just have like a lot of chocolate chips
+
+1593
+01:10:44,500 --> 01:10:48,620
+and it was just Rich and Chips with like an N, not an and.
+
+1594
+01:10:50,260 --> 01:10:53,100
+Well, in the midnight there was Chocolate Lovers.
+
+1595
+01:10:53,100 --> 01:10:55,660
+I think that was a variant of Chips Deluxe.
+
+1596
+01:10:56,780 --> 01:10:57,620
+Right.
+
+1597
+01:10:57,620 --> 01:10:59,860
+I watched a 1995 commercial on that
+
+1598
+01:10:59,860 --> 01:11:02,740
+where Ernie rings a woman's doorbell
+
+1599
+01:11:02,740 --> 01:11:04,540
+and asks, do you like chocolate?
+
+1600
+01:11:04,540 --> 01:11:06,980
+And she goes, honey, I live for it.
+
+1601
+01:11:07,820 --> 01:11:12,820
+Um, that's fun.
+
+1602
+01:11:15,940 --> 01:11:17,340
+Let's not forget to give some love
+
+1603
+01:11:17,340 --> 01:11:20,260
+to Zesta Salteen Crackers.
+
+1604
+01:11:20,260 --> 01:11:21,340
+Of course.
+
+1605
+01:11:22,660 --> 01:11:26,340
+I don't know which elf works primarily on Zesta.
+
+1606
+01:11:26,340 --> 01:11:28,620
+Zesta, yeah, I don't think it says.
+
+1607
+01:11:31,300 --> 01:11:33,460
+The, there was, did you get,
+
+1608
+01:11:33,460 --> 01:11:34,900
+oh wait, we still have more elves, right?
+
+1609
+01:11:34,900 --> 01:11:35,740
+There's like two or three elves left.
+
+1610
+01:11:35,740 --> 01:11:36,980
+Well, there's two left.
+
+1611
+01:11:36,980 --> 01:11:40,940
+There's Elwood, the teenage elf.
+
+1612
+01:11:42,500 --> 01:11:44,900
+Who's different than Zoot and JJ.
+
+1613
+01:11:44,900 --> 01:11:46,660
+Yes. Right.
+
+1614
+01:11:46,660 --> 01:11:48,260
+Elwood looks a little squirrely to me,
+
+1615
+01:11:48,260 --> 01:11:50,220
+so he would be Jackie Jr.
+
+1616
+01:11:51,540 --> 01:11:53,220
+He's the one who holds up the card game
+
+1617
+01:11:53,220 --> 01:11:55,340
+and then Vito kills.
+
+1618
+01:11:55,340 --> 01:11:57,940
+And then Florence, Florence I feel like
+
+1619
+01:11:57,940 --> 01:12:00,540
+does not get enough screen time.
+
+1620
+01:12:01,580 --> 01:12:02,420
+Well, right.
+
+1621
+01:12:02,420 --> 01:12:06,420
+All the elves are white except for Florence, who is black.
+
+1622
+01:12:06,420 --> 01:12:07,260
+Yes.
+
+1623
+01:12:07,260 --> 01:12:09,940
+And I have never seen a commercial with Florence.
+
+1624
+01:12:09,940 --> 01:12:12,740
+She is, she's wearing shoes with heels
+
+1625
+01:12:12,740 --> 01:12:15,820
+and maybe she's the one who puts the little like,
+
+1626
+01:12:15,820 --> 01:12:19,780
+she steps all the holes into the Zesta crackers.
+
+1627
+01:12:19,780 --> 01:12:21,220
+Oh, yes.
+
+1628
+01:12:21,220 --> 01:12:23,660
+Look, you've already given her more of a backstory
+
+1629
+01:12:23,660 --> 01:12:25,260
+than the people at Keibler have.
+
+1630
+01:12:26,180 --> 01:12:28,580
+So you've actually paid more attention to her
+
+1631
+01:12:28,580 --> 01:12:29,860
+than they have.
+
+1632
+01:12:29,860 --> 01:12:30,700
+Yeah, yeah.
+
+1633
+01:12:30,700 --> 01:12:31,860
+It's a good job.
+
+1634
+01:12:32,100 --> 01:12:33,900
+You're getting your steps in.
+
+1635
+01:12:33,900 --> 01:12:36,020
+It's, you're on your feet.
+
+1636
+01:12:36,020 --> 01:12:37,260
+There really should, look,
+
+1637
+01:12:37,260 --> 01:12:41,580
+there's room for a lot of new Keibler elves.
+
+1638
+01:12:41,580 --> 01:12:44,620
+And I feel like let's up the diversity.
+
+1639
+01:12:44,620 --> 01:12:46,020
+That's what I'm saying.
+
+1640
+01:12:46,020 --> 01:12:47,020
+Yeah. Yeah.
+
+1641
+01:12:47,020 --> 01:12:49,340
+Let's bring back the Chachos characters
+
+1642
+01:12:49,340 --> 01:12:51,900
+who apparently were only used for Chachos.
+
+1643
+01:12:51,900 --> 01:12:52,740
+Yes, that feels-
+
+1644
+01:12:52,740 --> 01:12:55,420
+Gave them to temporary, temporarily employed.
+
+1645
+01:12:55,420 --> 01:12:56,940
+But they're all, as we know, they're immortal.
+
+1646
+01:12:56,940 --> 01:12:58,180
+So they're running around somewhere.
+
+1647
+01:12:58,180 --> 01:12:59,620
+So bring them back, Ernie.
+
+1648
+01:12:59,620 --> 01:13:01,420
+Yeah. Come on, Ernie.
+
+1649
+01:13:01,500 --> 01:13:03,380
+You know what? I don't like Ernie now.
+
+1650
+01:13:03,380 --> 01:13:05,100
+Uh-oh. Hey.
+
+1651
+01:13:05,100 --> 01:13:06,340
+I'm sorry, Jason.
+
+1652
+01:13:07,340 --> 01:13:08,860
+Sounds like you're fake.
+
+1653
+01:13:08,860 --> 01:13:10,580
+Are you a fake friend, Michael?
+
+1654
+01:13:10,580 --> 01:13:13,140
+Turning on Ernie this hard, this fast?
+
+1655
+01:13:13,140 --> 01:13:13,980
+I don't know.
+
+1656
+01:13:13,980 --> 01:13:14,860
+I'm just saying a couple of things
+
+1657
+01:13:14,860 --> 01:13:16,580
+have added up in this discussion.
+
+1658
+01:13:16,580 --> 01:13:17,740
+And I think maybe,
+
+1659
+01:13:17,740 --> 01:13:19,580
+maybe Ernie's not the guy we think he is.
+
+1660
+01:13:19,580 --> 01:13:21,060
+That's all I'm saying.
+
+1661
+01:13:21,060 --> 01:13:22,060
+This is the kind of rage
+
+1662
+01:13:22,060 --> 01:13:24,460
+that only someone on drugs would have.
+
+1663
+01:13:24,460 --> 01:13:27,580
+Do you need me to come over there and break your neck?
+
+1664
+01:13:27,580 --> 01:13:29,100
+I'll be, all right, I'll be honest with you.
+
+1665
+01:13:29,100 --> 01:13:29,940
+I am on drugs
+
+1666
+01:13:29,940 --> 01:13:31,460
+and I would really like you to come over here
+
+1667
+01:13:31,460 --> 01:13:32,300
+and break my neck.
+
+1668
+01:13:32,300 --> 01:13:35,340
+It's the only cure as we've figured out.
+
+1669
+01:13:36,300 --> 01:13:38,140
+We're gonna have to, we're all, all right.
+
+1670
+01:13:38,140 --> 01:13:40,140
+I know gloves are hard to come by right now,
+
+1671
+01:13:40,140 --> 01:13:42,140
+but we're all gonna have to buy some gloves
+
+1672
+01:13:42,140 --> 01:13:43,780
+so we can visit each other's homes
+
+1673
+01:13:43,780 --> 01:13:45,220
+and break each other's necks.
+
+1674
+01:13:46,340 --> 01:13:49,380
+There are, like our telephone booths,
+
+1675
+01:13:49,380 --> 01:13:52,740
+I think in South Korea for testing for the virus,
+
+1676
+01:13:52,740 --> 01:13:55,220
+where it has like kind of holes and like those,
+
+1677
+01:13:55,220 --> 01:13:57,380
+you know how like when you're handling
+
+1678
+01:13:57,380 --> 01:14:01,220
+nuclear material in a movie or TV show,
+
+1679
+01:14:01,220 --> 01:14:02,900
+those gloves that kind of go through,
+
+1680
+01:14:02,900 --> 01:14:06,140
+like that's the protective way that you can touch it.
+
+1681
+01:14:06,140 --> 01:14:07,140
+Yeah, yeah.
+
+1682
+01:14:07,140 --> 01:14:10,940
+I'll build something like that in my window by my kitchen
+
+1683
+01:14:10,940 --> 01:14:13,100
+and you can just put your hands through the gloves
+
+1684
+01:14:13,100 --> 01:14:14,980
+and then break my neck that way.
+
+1685
+01:14:17,140 --> 01:14:18,620
+It'll be very easy.
+
+1686
+01:14:18,620 --> 01:14:21,420
+So we'll pass, and the kitchen counter
+
+1687
+01:14:21,420 --> 01:14:25,100
+is probably where you're doing your snorting.
+
+1688
+01:14:25,100 --> 01:14:26,420
+It's a nice clear surface.
+
+1689
+01:14:26,420 --> 01:14:29,780
+So I'll walk up, I'll do a spot check on you,
+
+1690
+01:14:29,780 --> 01:14:33,340
+see if you're doing a snort, and then I'll reach,
+
+1691
+01:14:33,340 --> 01:14:35,100
+yeah, you'll feel some gloves on your neck
+
+1692
+01:14:35,100 --> 01:14:38,540
+and that'll be me saving your life by breaking your neck.
+
+1693
+01:14:38,540 --> 01:14:40,740
+And I'll say, thank you, sir.
+
+1694
+01:14:40,740 --> 01:14:43,420
+And then you'll be on to the next neck breaking
+
+1695
+01:14:43,420 --> 01:14:44,780
+that you're scheduled for.
+
+1696
+01:14:46,540 --> 01:14:49,020
+Oh, wow, South Korea thinks it's so great.
+
+1697
+01:14:49,020 --> 01:14:51,020
+They've got testing booths.
+
+1698
+01:14:51,020 --> 01:14:54,900
+Can they get Trolls World 2 on demand real quick?
+
+1699
+01:14:56,940 --> 01:14:58,340
+You tell them, Jason.
+
+1700
+01:14:58,340 --> 01:14:59,460
+That's American.
+
+1701
+01:15:01,940 --> 01:15:04,340
+We might be low on testing kits,
+
+1702
+01:15:04,340 --> 01:15:08,300
+but we stocked every home with the movie Lovebirds
+
+1703
+01:15:08,300 --> 01:15:09,820
+on Netflix.
+
+1704
+01:15:10,940 --> 01:15:13,980
+We have Lovebirds and we created the Keibler elves.
+
+1705
+01:15:13,980 --> 01:15:15,180
+This is America.
+
+1706
+01:15:16,820 --> 01:15:20,900
+What was the phrase about American in America in the,
+
+1707
+01:15:20,900 --> 01:15:22,420
+Jason, you read it, right?
+
+1708
+01:15:22,420 --> 01:15:24,660
+The way, well, the elves, they're uniquely,
+
+1709
+01:15:24,660 --> 01:15:26,980
+they're an American strain.
+
+1710
+01:15:26,980 --> 01:15:28,940
+Oh yeah, that's right, sorry, they're an American strain.
+
+1711
+01:15:28,940 --> 01:15:32,340
+Non-drews, they're a uniquely American strain.
+
+1712
+01:15:32,340 --> 01:15:36,460
+And a uniquely American strain of cure
+
+1713
+01:15:36,460 --> 01:15:41,460
+is immediate release of Lovebirds and cats and Frozen 2.
+
+1714
+01:15:43,740 --> 01:15:45,100
+And Invisible Man.
+
+1715
+01:15:47,900 --> 01:15:51,980
+The man who was, they were just keeping these movies
+
+1716
+01:15:51,980 --> 01:15:53,740
+arbitrarily from us.
+
+1717
+01:15:53,740 --> 01:15:57,380
+And when duty called, Hollywood acted.
+
+1718
+01:15:58,540 --> 01:16:00,780
+Now toilet paper, not so much.
+
+1719
+01:16:00,780 --> 01:16:02,100
+Not so much.
+
+1720
+01:16:03,380 --> 01:16:07,820
+But our ironic cat's viewings can flow forth.
+
+1721
+01:16:07,820 --> 01:16:09,140
+Well, now I'm depressed.
+
+1722
+01:16:09,140 --> 01:16:10,500
+Now I'm depressed. Oh no.
+
+1723
+01:16:10,500 --> 01:16:11,460
+Well.
+
+1724
+01:16:11,460 --> 01:16:13,620
+Well then we gotta think of something fun.
+
+1725
+01:16:13,620 --> 01:16:15,860
+I came off the high of the Chukko seance
+
+1726
+01:16:15,860 --> 01:16:17,260
+and now I'm sad again.
+
+1727
+01:16:17,260 --> 01:16:21,220
+So there's kind of the more like one-off elves.
+
+1728
+01:16:21,220 --> 01:16:22,900
+There's micro Keibler.
+
+1729
+01:16:22,900 --> 01:16:25,260
+He was the elf who would shrink cookies down
+
+1730
+01:16:25,260 --> 01:16:27,980
+to like when they had the little sized cookies.
+
+1731
+01:16:27,980 --> 01:16:29,140
+Oh.
+
+1732
+01:16:29,140 --> 01:16:31,260
+There was a professor, there was very clearly
+
+1733
+01:16:31,260 --> 01:16:34,180
+an Albert Einstein kind of elf.
+
+1734
+01:16:35,780 --> 01:16:39,780
+And then my favorite of the people who show up
+
+1735
+01:16:39,780 --> 01:16:44,540
+to bother the elves is the cop who arrests,
+
+1736
+01:16:44,540 --> 01:16:46,500
+I believe it's Buckets.
+
+1737
+01:16:46,500 --> 01:16:49,500
+And the cop says, he's not the front man
+
+1738
+01:16:49,500 --> 01:16:52,700
+for a fudge smuggling operation.
+
+1739
+01:16:53,540 --> 01:16:56,420
+And Ernie says, no sir, he's our middle man.
+
+1740
+01:16:56,420 --> 01:16:57,900
+And that's a cute joke.
+
+1741
+01:16:57,900 --> 01:16:59,380
+Oh yeah, yeah, yeah.
+
+1742
+01:16:59,380 --> 01:17:00,420
+Well, that's very good.
+
+1743
+01:17:00,420 --> 01:17:02,180
+I however am the front man
+
+1744
+01:17:02,180 --> 01:17:04,340
+for a fudge smuggling operation.
+
+1745
+01:17:04,340 --> 01:17:05,180
+So.
+
+1746
+01:17:05,180 --> 01:17:09,460
+You're proud to admit it.
+
+1747
+01:17:09,460 --> 01:17:10,300
+That's the point.
+
+1748
+01:17:10,300 --> 01:17:11,700
+Yeah.
+
+1749
+01:17:11,700 --> 01:17:16,300
+Yeah, Friar Tuck who was mainly promoting Munchums.
+
+1750
+01:17:16,300 --> 01:17:19,420
+As he said, Zoot and JJ were, you know,
+
+1751
+01:17:19,420 --> 01:17:22,660
+excited about pizzerias, pizza chips.
+
+1752
+01:17:22,660 --> 01:17:24,540
+They didn't make them, but they were,
+
+1753
+01:17:25,420 --> 01:17:26,500
+they're Ernie's nephews.
+
+1754
+01:17:26,500 --> 01:17:27,980
+And if Zoot, if, you know,
+
+1755
+01:17:27,980 --> 01:17:32,180
+nephews who are so judgy and opinionated,
+
+1756
+01:17:32,180 --> 01:17:35,340
+if they like pizzerias, why wouldn't everyone?
+
+1757
+01:17:35,340 --> 01:17:36,660
+Yeah.
+
+1758
+01:17:36,660 --> 01:17:39,420
+Zach, the fudge shop supervisor.
+
+1759
+01:17:40,460 --> 01:17:43,460
+Flo, wait, is Flo the one we were talking about?
+
+1760
+01:17:43,460 --> 01:17:44,580
+Florence, yeah.
+
+1761
+01:17:44,580 --> 01:17:47,180
+Yes, oh, here wait, I found her job on Wikipedia.
+
+1762
+01:17:47,180 --> 01:17:48,420
+She's the accountant.
+
+1763
+01:17:49,420 --> 01:17:52,260
+Boo, boo to this, boring.
+
+1764
+01:17:52,260 --> 01:17:53,100
+Yeah.
+
+1765
+01:17:53,100 --> 01:17:56,060
+Give her something, in a fudge factory,
+
+1766
+01:17:56,060 --> 01:17:58,900
+she's just like working on a calculator.
+
+1767
+01:17:58,900 --> 01:17:59,940
+Give her something fun to do.
+
+1768
+01:17:59,940 --> 01:18:00,780
+Give her something fun.
+
+1769
+01:18:00,780 --> 01:18:02,460
+Let her drive the fudge submarine.
+
+1770
+01:18:03,940 --> 01:18:05,500
+Yeah, I agree.
+
+1771
+01:18:05,500 --> 01:18:08,500
+And do we, oh, Elwood, I don't think we said
+
+1772
+01:18:08,500 --> 01:18:10,140
+runs through the dough.
+
+1773
+01:18:11,020 --> 01:18:12,100
+Right.
+
+1774
+01:18:12,100 --> 01:18:13,100
+And then I don't really know
+
+1775
+01:18:13,100 --> 01:18:14,700
+what's up with Larry and Art.
+
+1776
+01:18:16,540 --> 01:18:17,900
+I got no info on Larry and Art.
+
+1777
+01:18:17,900 --> 01:18:19,020
+I don't either, yeah.
+
+1778
+01:18:19,100 --> 01:18:19,940
+Yeah.
+
+1779
+01:18:22,100 --> 01:18:24,140
+No qualities, did they have?
+
+1780
+01:18:24,140 --> 01:18:26,380
+Larry and Art, what commercial were they in?
+
+1781
+01:18:27,340 --> 01:18:29,140
+It doesn't say what I'm looking at.
+
+1782
+01:18:29,140 --> 01:18:31,860
+Who were the guys in the pizzerias commercial?
+
+1783
+01:18:31,860 --> 01:18:33,460
+Are those the regular elves?
+
+1784
+01:18:33,460 --> 01:18:35,540
+That's, they're the nephews.
+
+1785
+01:18:35,540 --> 01:18:37,580
+Okay, that's JJ and?
+
+1786
+01:18:37,580 --> 01:18:38,580
+JJ and Zoot.
+
+1787
+01:18:38,580 --> 01:18:40,260
+Zoot, Zoot, yeah, yeah.
+
+1788
+01:18:40,260 --> 01:18:41,100
+Yes, yeah, yeah.
+
+1789
+01:18:43,060 --> 01:18:47,020
+But, you know, that's not the end of the mythology
+
+1790
+01:18:47,020 --> 01:18:49,980
+because we got to the end of these characters.
+
+1791
+01:18:49,980 --> 01:18:53,260
+You know, I was thinking how, you know,
+
+1792
+01:18:53,260 --> 01:18:55,660
+I mean, the second gaze where we talk about things
+
+1793
+01:18:55,660 --> 01:18:59,980
+that aren't necessarily super on themed experience topic,
+
+1794
+01:18:59,980 --> 01:19:01,300
+and I was like, well, this is a little outside
+
+1795
+01:19:01,300 --> 01:19:04,340
+of the confines of what we usually do,
+
+1796
+01:19:04,340 --> 01:19:06,660
+but then I realized it is not, and I'll tell you why,
+
+1797
+01:19:06,660 --> 01:19:08,420
+because several years ago,
+
+1798
+01:19:08,420 --> 01:19:13,420
+there was a factory pop-up experience in New York City.
+
+1799
+01:19:13,860 --> 01:19:16,500
+There has been a themed experience
+
+1800
+01:19:16,500 --> 01:19:19,140
+based around the Keebler factory tree.
+
+1801
+01:19:20,100 --> 01:19:22,220
+Wow, I didn't know, I didn't see that.
+
+1802
+01:19:22,220 --> 01:19:26,260
+Yeah, it was done for the sacred holiday
+
+1803
+01:19:26,260 --> 01:19:31,260
+of National Fudge Day, which let's never forget it again.
+
+1804
+01:19:31,260 --> 01:19:35,620
+It's June 16th, which happens to be my mom's birthday.
+
+1805
+01:19:35,620 --> 01:19:38,660
+Wow. I had no idea all these years
+
+1806
+01:19:38,660 --> 01:19:41,580
+my mom was born on National Fudge Day.
+
+1807
+01:19:41,580 --> 01:19:43,860
+Wow, National Fudge, wow.
+
+1808
+01:19:43,860 --> 01:19:45,500
+Yeah, I'm so lucky. Do we know any other
+
+1809
+01:19:45,500 --> 01:19:48,540
+prominent Americans who were born on National Fudge Day?
+
+1810
+01:19:48,540 --> 01:19:51,340
+Ooh, that's a good question, I'll look that up.
+
+1811
+01:19:51,340 --> 01:19:52,580
+Yeah, what's 16th?
+
+1812
+01:19:52,580 --> 01:19:55,340
+16th. Celebrity birthdays.
+
+1813
+01:19:55,340 --> 01:19:56,660
+Celebrity.
+
+1814
+01:19:56,660 --> 01:19:58,980
+Tupac, y'all. Wow.
+
+1815
+01:19:58,980 --> 01:19:59,820
+Wow.
+
+1816
+01:20:03,700 --> 01:20:06,740
+Wow. Born on National Fudge Day.
+
+1817
+01:20:08,820 --> 01:20:11,820
+Roe, isn't there, his book is something about,
+
+1818
+01:20:11,820 --> 01:20:14,220
+oh, the rose that grew from concrete.
+
+1819
+01:20:14,220 --> 01:20:17,820
+Why, the title should have been the rose
+
+1820
+01:20:17,820 --> 01:20:20,180
+that grew from concrete on National Fudge Day.
+
+1821
+01:20:20,180 --> 01:20:21,660
+Mm-hmm, yeah.
+
+1822
+01:20:22,700 --> 01:20:27,220
+Wow, he might be the most famous,
+
+1823
+01:20:27,220 --> 01:20:29,740
+oh, wait a minute, the ultimate warrior,
+
+1824
+01:20:29,740 --> 01:20:31,700
+I believe, was born.
+
+1825
+01:20:31,700 --> 01:20:35,940
+Let me make sure that that's right before.
+
+1826
+01:20:37,420 --> 01:20:40,380
+Surprise National Fudge Day is in a warmer month,
+
+1827
+01:20:40,380 --> 01:20:42,500
+because, I mean, if you're not careful with that fudge,
+
+1828
+01:20:42,500 --> 01:20:46,060
+you're gonna end up with your own fudge spring,
+
+1829
+01:20:46,060 --> 01:20:47,740
+inadvertently. Yeah.
+
+1830
+01:20:47,740 --> 01:20:49,580
+Yeah, ultimate warrior.
+
+1831
+01:20:49,580 --> 01:20:53,100
+Ultimate warrior, born June 16th,
+
+1832
+01:20:53,100 --> 01:20:56,700
+professional wrestler and noted racist.
+
+1833
+01:20:56,700 --> 01:20:59,020
+Oh man, there's a lot of good ones.
+
+1834
+01:20:59,860 --> 01:21:03,460
+OJ getaway driver, Al Cowlings.
+
+1835
+01:21:03,460 --> 01:21:04,540
+Wow, really?
+
+1836
+01:21:04,540 --> 01:21:05,380
+Yeah.
+
+1837
+01:21:06,860 --> 01:21:08,180
+Wow.
+
+1838
+01:21:08,180 --> 01:21:10,660
+Geronimo was born on National Fudge.
+
+1839
+01:21:10,660 --> 01:21:11,820
+Really?
+
+1840
+01:21:11,820 --> 01:21:12,940
+Yeah, this is quite a day.
+
+1841
+01:21:12,940 --> 01:21:15,500
+I wonder if my mom knew about any of these.
+
+1842
+01:21:15,500 --> 01:21:18,900
+Phil Mickelson, one of the greatest golfers of all time.
+
+1843
+01:21:18,900 --> 01:21:20,620
+You're gonna text your mom,
+
+1844
+01:21:20,620 --> 01:21:21,940
+did you know you were born on the same day
+
+1845
+01:21:21,940 --> 01:21:23,340
+as the ultimate warrior?
+
+1846
+01:21:27,420 --> 01:21:30,660
+No, you're saying that assuming that my mom texts.
+
+1847
+01:21:30,660 --> 01:21:32,500
+Oh, fair enough, fair enough.
+
+1848
+01:21:32,500 --> 01:21:34,700
+That's a big leap that you were wrong on.
+
+1849
+01:21:34,700 --> 01:21:38,980
+Send her a letter that says she was born.
+
+1850
+01:21:38,980 --> 01:21:40,660
+The primary communication, yes.
+
+1851
+01:21:41,820 --> 01:21:45,660
+Oh man.
+
+1852
+01:21:45,660 --> 01:21:47,580
+So yeah, wish all these people
+
+1853
+01:21:47,580 --> 01:21:50,380
+happy National Fudge days slash birthdays next time around.
+
+1854
+01:21:50,380 --> 01:21:54,180
+But let's talk about the themed experience,
+
+1855
+01:21:54,180 --> 01:21:56,660
+because the themed experience fleshed out a lot of stuff.
+
+1856
+01:21:56,660 --> 01:21:58,420
+And I think this is where Jason,
+
+1857
+01:21:58,420 --> 01:22:01,860
+some of the expanded the logistics of the factory,
+
+1858
+01:22:01,860 --> 01:22:05,580
+I think were made especially clear by this event.
+
+1859
+01:22:05,580 --> 01:22:09,500
+That being the really important piece of knowledge
+
+1860
+01:22:09,500 --> 01:22:12,300
+about the factory that the tree was built on top
+
+1861
+01:22:12,300 --> 01:22:16,900
+of a flowing fudge river called the fudge terrain in spring.
+
+1862
+01:22:16,900 --> 01:22:18,340
+Whoa.
+
+1863
+01:22:18,340 --> 01:22:19,900
+Yeah, yeah, that's right.
+
+1864
+01:22:19,900 --> 01:22:21,620
+And I don't think they knew it always.
+
+1865
+01:22:21,620 --> 01:22:24,340
+That's what the story seems to tell that they were like,
+
+1866
+01:22:24,340 --> 01:22:26,140
+maybe they were running out of fudge or something.
+
+1867
+01:22:26,140 --> 01:22:28,260
+And then they like, you know,
+
+1868
+01:22:28,260 --> 01:22:29,580
+dug a shovel in or something.
+
+1869
+01:22:29,580 --> 01:22:31,700
+They were like building a new wing of the factory.
+
+1870
+01:22:31,700 --> 01:22:33,940
+It's like a Beverly hillbilly set up
+
+1871
+01:22:35,060 --> 01:22:37,300
+where they're in their holler and then they strike it,
+
+1872
+01:22:37,300 --> 01:22:40,180
+strike it rich because they find oil.
+
+1873
+01:22:40,180 --> 01:22:41,340
+Brown gold.
+
+1874
+01:22:41,340 --> 01:22:42,340
+Brown gold.
+
+1875
+01:22:42,340 --> 01:22:44,100
+Brown fudgey gold.
+
+1876
+01:22:44,100 --> 01:22:45,380
+Elfin tea.
+
+1877
+01:22:48,460 --> 01:22:51,340
+They also, they have a magic oven.
+
+1878
+01:22:51,340 --> 01:22:52,940
+I'm a little unclear on what,
+
+1879
+01:22:53,780 --> 01:22:55,820
+how it works and why it's magic.
+
+1880
+01:22:58,020 --> 01:23:00,220
+And there's also, Jason, you alluded to it,
+
+1881
+01:23:00,220 --> 01:23:01,900
+the rainbow cannon.
+
+1882
+01:23:01,900 --> 01:23:02,740
+Yeah.
+
+1883
+01:23:02,740 --> 01:23:04,780
+The rainbow cannon,
+
+1884
+01:23:04,780 --> 01:23:07,460
+when Ernie calls the team,
+
+1885
+01:23:07,460 --> 01:23:10,500
+when a non-believer in elves has been spotted.
+
+1886
+01:23:10,500 --> 01:23:13,380
+And when that happens, the rainbow cannon is fired up
+
+1887
+01:23:13,380 --> 01:23:17,380
+to send an insta rainbow in that person's direction
+
+1888
+01:23:17,380 --> 01:23:19,660
+to sway their minds and make them believe.
+
+1889
+01:23:20,620 --> 01:23:22,860
+It's sort of a back signal.
+
+1890
+01:23:22,860 --> 01:23:25,900
+Only in America do we gotta change this guy's mind.
+
+1891
+01:23:25,900 --> 01:23:26,980
+Get the gun.
+
+1892
+01:23:28,820 --> 01:23:30,020
+Shoot it in the air.
+
+1893
+01:23:30,020 --> 01:23:31,660
+Shoot it in the air above him.
+
+1894
+01:23:31,660 --> 01:23:32,820
+Make him dance.
+
+1895
+01:23:35,620 --> 01:23:39,020
+I should say also that, you know,
+
+1896
+01:23:39,020 --> 01:23:41,700
+all of this was done and the pop-up event was done
+
+1897
+01:23:41,700 --> 01:23:43,940
+in order to celebrate the release of a new type of cookie,
+
+1898
+01:23:43,940 --> 01:23:46,940
+Keebler Whoopsie fudge stripes cookies.
+
+1899
+01:23:47,820 --> 01:23:51,900
+Usually the cookies just have carefully painted stripes
+
+1900
+01:23:51,900 --> 01:23:55,700
+courtesy of Leonardo, but in the Whoopsie scenario,
+
+1901
+01:23:55,700 --> 01:24:00,700
+it was their first cookie that was covered fully in fudge
+
+1902
+01:24:01,580 --> 01:24:05,300
+or as they put it in a hashtag, hashtag fully fudge.
+
+1903
+01:24:08,220 --> 01:24:09,180
+Wow.
+
+1904
+01:24:09,180 --> 01:24:12,540
+This was a viral event that really got people talking
+
+1905
+01:24:12,540 --> 01:24:16,500
+three years later on a paywall Patreon.
+
+1906
+01:24:16,500 --> 01:24:17,820
+That's right.
+
+1907
+01:24:17,820 --> 01:24:18,660
+They really should.
+
+1908
+01:24:18,660 --> 01:24:20,500
+Due to disease boredom.
+
+1909
+01:24:20,500 --> 01:24:21,340
+Right.
+
+1910
+01:24:23,380 --> 01:24:26,460
+Throw away, us not wanting to waste a good topic
+
+1911
+01:24:26,460 --> 01:24:27,900
+on a quarantine episode.
+
+1912
+01:24:27,900 --> 01:24:32,660
+That being said, I mean, how long have we been going?
+
+1913
+01:24:32,660 --> 01:24:34,380
+I mean, this is a media topic.
+
+1914
+01:24:34,380 --> 01:24:36,620
+There's a ton here.
+
+1915
+01:24:36,620 --> 01:24:38,700
+I, yeah, there really is.
+
+1916
+01:24:38,700 --> 01:24:40,060
+Yeah, yeah, quite a bit.
+
+1917
+01:24:40,060 --> 01:24:41,460
+And actually, you know, I have a little bit more.
+
+1918
+01:24:41,460 --> 01:24:43,620
+I mean, I hear this, this might be a good way to end it,
+
+1919
+01:24:43,620 --> 01:24:45,780
+but I don't want to, you know, cut you guys off.
+
+1920
+01:24:45,780 --> 01:24:49,140
+If there's any important facts you want to share.
+
+1921
+01:24:50,140 --> 01:24:52,340
+I really, Jason, you go ahead.
+
+1922
+01:24:52,340 --> 01:24:53,860
+Well, I would just want to point out,
+
+1923
+01:24:53,860 --> 01:24:57,140
+like if you are craving like Girl Scout cookies,
+
+1924
+01:24:57,180 --> 01:24:59,100
+Caramel Delights or Thin Mints and stuff,
+
+1925
+01:24:59,980 --> 01:25:03,700
+Kepler essentially makes those varieties of cookie year round.
+
+1926
+01:25:03,700 --> 01:25:05,380
+I don't have the names in front of me,
+
+1927
+01:25:05,380 --> 01:25:08,740
+but like they basically make them.
+
+1928
+01:25:10,260 --> 01:25:13,660
+Yeah, you can get versions of the famous cookies.
+
+1929
+01:25:13,660 --> 01:25:14,500
+Yeah.
+
+1930
+01:25:14,500 --> 01:25:15,580
+Yeah, under different names.
+
+1931
+01:25:15,580 --> 01:25:18,180
+Or like the generic Kroger, I mean,
+
+1932
+01:25:18,180 --> 01:25:20,540
+your grocery store likely has the generic version
+
+1933
+01:25:20,540 --> 01:25:22,060
+of all these cookies.
+
+1934
+01:25:22,060 --> 01:25:22,900
+Sure.
+
+1935
+01:25:23,860 --> 01:25:24,700
+So.
+
+1936
+01:25:24,700 --> 01:25:26,300
+I like the tag alongs.
+
+1937
+01:25:26,860 --> 01:25:28,060
+We're talking Girl Scout cookies,
+
+1938
+01:25:28,060 --> 01:25:30,740
+the peanut butter patties, tag alongs.
+
+1939
+01:25:30,740 --> 01:25:31,860
+Those are my favorite.
+
+1940
+01:25:33,100 --> 01:25:34,780
+Always have been.
+
+1941
+01:25:34,780 --> 01:25:38,180
+You got to dock at points that they aren't being made
+
+1942
+01:25:38,180 --> 01:25:40,900
+by a little Elfin peanut butter baker.
+
+1943
+01:25:40,900 --> 01:25:41,740
+Well, of course.
+
+1944
+01:25:41,740 --> 01:25:43,020
+They don't have a Sam on their side.
+
+1945
+01:25:43,020 --> 01:25:44,260
+I agree with that.
+
+1946
+01:25:44,260 --> 01:25:45,700
+Yeah, it's a little more fun.
+
+1947
+01:25:46,980 --> 01:25:50,420
+Can I do this little segment here,
+
+1948
+01:25:50,420 --> 01:25:51,660
+perhaps to close this out?
+
+1949
+01:25:51,660 --> 01:25:52,700
+Of course, yes.
+
+1950
+01:25:53,660 --> 01:25:55,620
+Well, you know, because there's not a ton
+
+1951
+01:25:55,620 --> 01:25:57,980
+of Google results for these folks,
+
+1952
+01:25:59,100 --> 01:26:02,660
+some of the ones that I found ended up being on eBay.
+
+1953
+01:26:02,660 --> 01:26:05,460
+And it occurred to me, this might be a good opportunity
+
+1954
+01:26:05,460 --> 01:26:09,380
+to do a quick mini version of our rarely done
+
+1955
+01:26:09,380 --> 01:26:12,540
+this segment, Souvenir Showdown.
+
+1956
+01:26:12,540 --> 01:26:13,860
+I think it's SmackDown.
+
+1957
+01:26:13,860 --> 01:26:14,700
+SmackFuck.
+
+1958
+01:26:14,700 --> 01:26:18,380
+That's what happens when you don't ever do it.
+
+1959
+01:26:18,380 --> 01:26:19,220
+Yeah.
+
+1960
+01:26:21,220 --> 01:26:26,220
+So, because two of these items are so odd,
+
+1961
+01:26:26,460 --> 01:26:29,380
+I just had to have you guys learn about them
+
+1962
+01:26:29,380 --> 01:26:31,660
+and guess the prices.
+
+1963
+01:26:31,660 --> 01:26:36,660
+So the first one is a lot of 200 vintage Kepler Elf,
+
+1964
+01:26:37,900 --> 01:26:42,900
+Super Elf sail kites from the 1970s.
+
+1965
+01:26:43,740 --> 01:26:48,740
+This is a box that contains 200 kites.
+
+1966
+01:26:49,060 --> 01:26:50,780
+These were promotional items.
+
+1967
+01:26:50,780 --> 01:26:51,620
+Wow.
+
+1968
+01:26:51,620 --> 01:26:56,620
+They feature Ernie bursting forth in a Superman fashion.
+
+1969
+01:26:57,100 --> 01:26:59,100
+It says Super Elf really big.
+
+1970
+01:27:00,260 --> 01:27:03,940
+And then in smaller text, it says,
+
+1971
+01:27:03,940 --> 01:27:06,980
+who in reality is Ernie Keibler?
+
+1972
+01:27:08,820 --> 01:27:10,580
+Ask him the tough questions.
+
+1973
+01:27:10,660 --> 01:27:13,860
+Yeah, that's sort of what Mike is getting at.
+
+1974
+01:27:13,860 --> 01:27:15,820
+Huh, who is Ernie Keibler?
+
+1975
+01:27:15,820 --> 01:27:17,820
+So how many of these are there again?
+
+1976
+01:27:17,820 --> 01:27:20,620
+It's, you get a cardboard box and there are 200 inside.
+
+1977
+01:27:20,620 --> 01:27:22,700
+200, wow. Unassembled.
+
+1978
+01:27:22,700 --> 01:27:25,140
+From the 1970s, at some point in time,
+
+1979
+01:27:25,140 --> 01:27:26,780
+they were free with a purchase,
+
+1980
+01:27:26,780 --> 01:27:30,380
+with two packages of Keibler crackers or cookies.
+
+1981
+01:27:30,380 --> 01:27:31,660
+This one just was never open.
+
+1982
+01:27:31,660 --> 01:27:35,660
+So how much would it cost to get 200 kites?
+
+1983
+01:27:35,660 --> 01:27:38,740
+Is it a buy now or is it the auction starting price?
+
+1984
+01:27:38,740 --> 01:27:39,860
+Do you know?
+
+1985
+01:27:39,860 --> 01:27:42,540
+Oh, I'm seeing it as buy it now.
+
+1986
+01:27:42,540 --> 01:27:43,380
+Okay.
+
+1987
+01:27:43,380 --> 01:27:45,380
+You can still offer, but they have a buy it now option.
+
+1988
+01:27:45,380 --> 01:27:46,660
+Right, right.
+
+1989
+01:27:46,660 --> 01:27:49,260
+I'm gonna say they want five grand for that.
+
+1990
+01:27:51,820 --> 01:27:52,660
+Guess I'm wrong.
+
+1991
+01:27:53,660 --> 01:27:55,700
+I think $50 for that box.
+
+1992
+01:27:57,860 --> 01:28:01,580
+I think you've got the under, that is $219.
+
+1993
+01:28:01,580 --> 01:28:03,940
+Oh wow. That's not bad.
+
+1994
+01:28:03,940 --> 01:28:05,260
+That's pretty good.
+
+1995
+01:28:05,260 --> 01:28:08,500
+I feel like, I mean, the last I saw kites anywhere
+
+1996
+01:28:09,380 --> 01:28:11,740
+somewhere in a Fry's Electronics,
+
+1997
+01:28:11,740 --> 01:28:14,420
+some of the products still available there.
+
+1998
+01:28:14,420 --> 01:28:17,700
+And I'm sure they're letting kites go for $20.
+
+1999
+01:28:17,700 --> 01:28:20,300
+I don't know the quality of these kites, but I don't know,
+
+2000
+01:28:20,300 --> 01:28:24,540
+200, that's only, that's a dollar and change per kite.
+
+2001
+01:28:24,540 --> 01:28:25,860
+Yeah, that's okay.
+
+2002
+01:28:25,860 --> 01:28:27,020
+Pretty fair price.
+
+2003
+01:28:27,020 --> 01:28:30,260
+Maybe once this whole thing is over, we'll buy that
+
+2004
+01:28:30,260 --> 01:28:32,300
+and we'll have a fan event
+
+2005
+01:28:32,300 --> 01:28:34,180
+where we all fly these kites together.
+
+2006
+01:28:34,180 --> 01:28:39,180
+We end out, let's go fly Kepler Elf kite.
+
+2007
+01:28:42,740 --> 01:28:45,700
+Sounds like a good first way to be outside.
+
+2008
+01:28:45,700 --> 01:28:46,900
+Yeah.
+
+2009
+01:28:46,900 --> 01:28:49,580
+Yeah, we'll make sure it's a fan meetup.
+
+2010
+01:28:49,580 --> 01:28:50,420
+Right.
+
+2011
+01:28:50,420 --> 01:28:52,660
+Let's not test the waters by just going out
+
+2012
+01:28:52,660 --> 01:28:53,980
+with four people we like.
+
+2013
+01:28:53,980 --> 01:28:56,540
+Let's bring all of our fans in one place.
+
+2014
+01:28:56,540 --> 01:28:57,620
+Immediately.
+
+2015
+01:28:57,620 --> 01:29:02,020
+Yes, as soon as, in like, what, two weeks from now, right?
+
+2016
+01:29:02,020 --> 01:29:02,940
+Yeah, two weeks.
+
+2017
+01:29:02,940 --> 01:29:03,780
+We'll set the date.
+
+2018
+01:29:04,300 --> 01:29:05,140
+It's gonna be fine.
+
+2019
+01:29:05,140 --> 01:29:06,500
+Yeah, sorry about it.
+
+2020
+01:29:06,500 --> 01:29:08,940
+Professional podcasters and their listeners,
+
+2021
+01:29:08,940 --> 01:29:10,660
+famously in good health.
+
+2022
+01:29:12,140 --> 01:29:14,140
+Famously sturdy stock.
+
+2023
+01:29:14,140 --> 01:29:15,260
+All, what?
+
+2024
+01:29:16,420 --> 01:29:17,660
+Super athletic.
+
+2025
+01:29:17,660 --> 01:29:19,180
+Very athletic, yeah.
+
+2026
+01:29:19,180 --> 01:29:20,980
+Especially the hosts.
+
+2027
+01:29:20,980 --> 01:29:23,420
+There's podcasts with jacked people.
+
+2028
+01:29:23,420 --> 01:29:25,500
+Yeah, yes, that's true.
+
+2029
+01:29:25,500 --> 01:29:26,900
+Yeah, like the dumbbells.
+
+2030
+01:29:26,900 --> 01:29:27,740
+The dumbbells are jacked.
+
+2031
+01:29:27,740 --> 01:29:28,580
+The dumbbells.
+
+2032
+01:29:28,580 --> 01:29:29,420
+Yeah.
+
+2033
+01:29:30,300 --> 01:29:31,580
+Riders podcast.
+
+2034
+01:29:31,580 --> 01:29:33,180
+Major wrestling figures podcast.
+
+2035
+01:29:33,460 --> 01:29:34,340
+Those guys are jacked.
+
+2036
+01:29:34,340 --> 01:29:35,620
+Yeah.
+
+2037
+01:29:35,620 --> 01:29:37,620
+So they'll be out there too with us flying the kite,
+
+2038
+01:29:37,620 --> 01:29:38,460
+is what I'm saying.
+
+2039
+01:29:38,460 --> 01:29:41,820
+The dumbbells and rider and Hawkins.
+
+2040
+01:29:41,820 --> 01:29:43,300
+Beating us up.
+
+2041
+01:29:43,300 --> 01:29:45,340
+Beating us up and taking our kites.
+
+2042
+01:29:46,540 --> 01:29:47,580
+Breaking our necks.
+
+2043
+01:29:47,580 --> 01:29:48,700
+Yeah.
+
+2044
+01:29:48,700 --> 01:29:51,580
+Oh, I want them, I want any of them to break my neck.
+
+2045
+01:29:51,580 --> 01:29:53,020
+Sorry, Scott.
+
+2046
+01:29:53,020 --> 01:29:53,860
+Oh, damn.
+
+2047
+01:29:53,860 --> 01:29:54,700
+What if you don't do it full,
+
+2048
+01:29:54,700 --> 01:29:56,460
+like what if you don't fully break my neck?
+
+2049
+01:29:56,460 --> 01:29:58,500
+What if it's half broken?
+
+2050
+01:29:58,500 --> 01:29:59,740
+I'll get you part of the way there.
+
+2051
+01:29:59,740 --> 01:30:01,540
+Oh, you mean like if I'm not gonna do it all the way?
+
+2052
+01:30:01,540 --> 01:30:02,980
+Yeah, right.
+
+2053
+01:30:03,820 --> 01:30:05,620
+You could ensure that your wrestler friend would?
+
+2054
+01:30:05,620 --> 01:30:06,540
+Yes.
+
+2055
+01:30:06,540 --> 01:30:08,300
+Yeah, that means just practically.
+
+2056
+01:30:08,300 --> 01:30:11,140
+That's gonna, what I care about is you kicking drugs
+
+2057
+01:30:11,140 --> 01:30:13,460
+and if that's what it takes, then great.
+
+2058
+01:30:13,460 --> 01:30:14,580
+That's right.
+
+2059
+01:30:14,580 --> 01:30:18,820
+There's another good cause that is depicted
+
+2060
+01:30:18,820 --> 01:30:20,340
+in the second and final item.
+
+2061
+01:30:21,260 --> 01:30:25,340
+It is described as, well, it's a pin
+
+2062
+01:30:25,340 --> 01:30:29,180
+and the pin says, feel the urn, ERN,
+
+2063
+01:30:29,180 --> 01:30:31,700
+and that refers to Ernie, obviously,
+
+2064
+01:30:31,700 --> 01:30:35,460
+and it is clearly a reference to Bernie Sanders,
+
+2065
+01:30:36,540 --> 01:30:39,460
+apparently no longer viable presidential candidate
+
+2066
+01:30:39,460 --> 01:30:40,820
+for some fucking reason.
+
+2067
+01:30:42,180 --> 01:30:47,180
+Bernie Sanders, feel the urn, Keebler Elf presidential pin.
+
+2068
+01:30:47,700 --> 01:30:50,820
+It says very rare, so keep that in mind
+
+2069
+01:30:50,820 --> 01:30:52,220
+when you make your guess.
+
+2070
+01:30:52,220 --> 01:30:57,220
+And in the center, it's more the CGI style of Ernie,
+
+2071
+01:30:57,540 --> 01:31:00,540
+which I guess implies that it's more recent.
+
+2072
+01:31:00,540 --> 01:31:02,740
+Is this official merch?
+
+2073
+01:31:02,740 --> 01:31:05,580
+I don't know, I don't know.
+
+2074
+01:31:05,580 --> 01:31:08,660
+It seems, it does not feel like Keebler
+
+2075
+01:31:08,660 --> 01:31:11,980
+would make a reference to Bernie Sanders
+
+2076
+01:31:11,980 --> 01:31:14,060
+and I can't tell if this is from 2016
+
+2077
+01:31:14,060 --> 01:31:15,940
+or the current campaign.
+
+2078
+01:31:17,060 --> 01:31:19,260
+So feel the urn, it's a pin.
+
+2079
+01:31:19,260 --> 01:31:21,180
+I don't really have a size on this,
+
+2080
+01:31:22,580 --> 01:31:25,500
+but it was a pin, it's a pin.
+
+2081
+01:31:26,060 --> 01:31:28,460
+But I care to take a guess.
+
+2082
+01:31:29,660 --> 01:31:30,860
+Jason, go first.
+
+2083
+01:31:30,860 --> 01:31:32,140
+$40?
+
+2084
+01:31:33,260 --> 01:31:34,100
+Mike?
+
+2085
+01:31:34,100 --> 01:31:35,420
+I'm gonna say 99 cents.
+
+2086
+01:31:36,540 --> 01:31:40,180
+This costs $240.
+
+2087
+01:31:40,180 --> 01:31:41,300
+Oh my God.
+
+2088
+01:31:41,300 --> 01:31:43,860
+More money than 200 kites.
+
+2089
+01:31:43,860 --> 01:31:45,700
+What?
+
+2090
+01:31:45,700 --> 01:31:49,740
+I do not understand this pricing whatsoever.
+
+2091
+01:31:49,740 --> 01:31:51,260
+What the hell?
+
+2092
+01:31:51,260 --> 01:31:53,780
+I don't know, that just doesn't,
+
+2093
+01:31:53,780 --> 01:31:57,980
+you get one pin, it looks like pretty low res by the way.
+
+2094
+01:31:57,980 --> 01:32:01,340
+And then, but for less money, you get 200 kites?
+
+2095
+01:32:01,340 --> 01:32:02,700
+It's crazy.
+
+2096
+01:32:02,700 --> 01:32:04,020
+Yeah, madness.
+
+2097
+01:32:04,020 --> 01:32:06,820
+This is like when you try to buy Keebler cookies
+
+2098
+01:32:06,820 --> 01:32:08,860
+at like 7-Eleven and you're like,
+
+2099
+01:32:08,860 --> 01:32:11,860
+this box isn't normally 8.50.
+
+2100
+01:32:15,620 --> 01:32:17,980
+Yeah, yeah, I don't know.
+
+2101
+01:32:17,980 --> 01:32:19,980
+Yeah, maybe this is quarantine pricing.
+
+2102
+01:32:21,020 --> 01:32:23,180
+When I was looking through to get some EL Fudges,
+
+2103
+01:32:23,180 --> 01:32:25,860
+I thought about just shipping them via Amazon
+
+2104
+01:32:25,860 --> 01:32:30,580
+the normal way and they were like up charging for two boxes
+
+2105
+01:32:30,580 --> 01:32:32,300
+for like $13.
+
+2106
+01:32:33,140 --> 01:32:35,580
+I think Ernie's setting the price.
+
+2107
+01:32:35,580 --> 01:32:36,700
+I agree.
+
+2108
+01:32:36,700 --> 01:32:39,860
+Yeah, I think maybe even like juxtaposing him
+
+2109
+01:32:39,860 --> 01:32:42,420
+with this people's hero like Bernie Sanders is,
+
+2110
+01:32:42,420 --> 01:32:45,780
+I think it's like the weird way to like ride on his back
+
+2111
+01:32:45,780 --> 01:32:49,500
+and make him seem like somebody who cares about
+
+2112
+01:32:49,500 --> 01:32:54,500
+the rights of the every elf, just the little guy.
+
+2113
+01:32:55,940 --> 01:32:59,900
+And I don't think, I think they're very different people.
+
+2114
+01:32:59,900 --> 01:33:01,540
+Yeah, sorry, Jason.
+
+2115
+01:33:01,540 --> 01:33:02,820
+Yeah, well, what are you gonna do?
+
+2116
+01:33:02,820 --> 01:33:05,420
+I mean, Keebler is usually like Hostess,
+
+2117
+01:33:05,420 --> 01:33:08,740
+one of the more expensive snack cake cookie options.
+
+2118
+01:33:10,700 --> 01:33:12,420
+How expensive are they?
+
+2119
+01:33:12,420 --> 01:33:15,580
+You're talking about like a box for four or $5
+
+2120
+01:33:15,580 --> 01:33:17,700
+versus two or $3, you know?
+
+2121
+01:33:18,660 --> 01:33:19,620
+Okay.
+
+2122
+01:33:19,620 --> 01:33:22,060
+But you're trying to feed a family of four,
+
+2123
+01:33:22,060 --> 01:33:25,860
+I'm sure that was my mom's thinking, that adds up.
+
+2124
+01:33:25,860 --> 01:33:28,220
+You're gonna feed a family of four with cookies.
+
+2125
+01:33:29,300 --> 01:33:32,860
+Well, everyone's gonna, there are cookies in the hat,
+
+2126
+01:33:32,860 --> 01:33:35,980
+everyone's gonna want a little taste, you know?
+
+2127
+01:33:35,980 --> 01:33:37,620
+Yeah. That's a good point.
+
+2128
+01:33:37,620 --> 01:33:40,220
+Everyone is gonna want a little taste.
+
+2129
+01:33:40,220 --> 01:33:43,100
+And maybe a nice way to go out
+
+2130
+01:33:43,100 --> 01:33:46,300
+as we attribute this factory's fine work
+
+2131
+01:33:46,300 --> 01:33:50,940
+is to read another bit of mythology
+
+2132
+01:33:50,940 --> 01:33:55,860
+provided by the New York City Fudge Day pop-up exhibit
+
+2133
+01:33:56,900 --> 01:33:59,340
+that as you walked around that experience,
+
+2134
+01:33:59,340 --> 01:34:03,260
+you could see a plaque that contained the Elfen Creed.
+
+2135
+01:34:05,820 --> 01:34:08,420
+And it's pretty inspiring.
+
+2136
+01:34:08,420 --> 01:34:11,100
+It might make Jason shed a fudge tear.
+
+2137
+01:34:12,100 --> 01:34:12,940
+Let's hear it.
+
+2138
+01:34:12,940 --> 01:34:13,780
+Let's see it.
+
+2139
+01:34:14,740 --> 01:34:17,900
+We pledge to pursue our goal of baking cookies,
+
+2140
+01:34:17,900 --> 01:34:21,180
+crackers and snacks that are by whatever measure
+
+2141
+01:34:21,180 --> 01:34:24,060
+one chooses to apply, uncommonly good.
+
+2142
+01:34:26,460 --> 01:34:28,860
+Wow. Uncommonly good.
+
+2143
+01:34:29,980 --> 01:34:31,580
+That's the slogan.
+
+2144
+01:34:31,580 --> 01:34:33,540
+They say uncommonly good a lot.
+
+2145
+01:34:34,860 --> 01:34:36,300
+I mean, that's beautiful.
+
+2146
+01:34:36,300 --> 01:34:37,580
+I will say.
+
+2147
+01:34:37,580 --> 01:34:38,980
+Jason, reaction to that?
+
+2148
+01:34:38,980 --> 01:34:40,380
+This is the way.
+
+2149
+01:34:40,380 --> 01:34:42,940
+This is the way, as they say on the Mandalorian.
+
+2150
+01:34:44,300 --> 01:34:48,100
+It's pretty beautiful.
+
+2151
+01:34:48,100 --> 01:34:50,020
+Isn't there part of the Hippocratic oath
+
+2152
+01:34:50,020 --> 01:34:51,580
+that's about like...
+
+2153
+01:34:51,580 --> 01:34:53,100
+This is the way.
+
+2154
+01:34:53,100 --> 01:34:55,380
+No, what's the, what's the, what is it?
+
+2155
+01:34:55,380 --> 01:34:56,860
+First, do no harm.
+
+2156
+01:34:57,820 --> 01:34:58,660
+Oh, okay.
+
+2157
+01:34:58,660 --> 01:34:59,500
+Oh, it's not about good.
+
+2158
+01:34:59,500 --> 01:35:01,100
+That's right. Okay.
+
+2159
+01:35:01,100 --> 01:35:06,100
+Well, so the Elfen oath is first to do uncommonly good.
+
+2160
+01:35:06,260 --> 01:35:07,740
+Yes.
+
+2161
+01:35:07,740 --> 01:35:10,180
+Yeah. It's really nice.
+
+2162
+01:35:10,180 --> 01:35:12,900
+An important one to live by.
+
+2163
+01:35:12,940 --> 01:35:15,740
+Keep that in your hearts, dear listeners.
+
+2164
+01:35:15,740 --> 01:35:17,740
+Yeah. Yeah.
+
+2165
+01:35:17,740 --> 01:35:20,020
+It's a great thing.
+
+2166
+01:35:20,020 --> 01:35:25,020
+And boy, as there are shortages
+
+2167
+01:35:25,380 --> 01:35:27,420
+at the moment and grocery stores are crazy,
+
+2168
+01:35:28,580 --> 01:35:30,220
+if you know, all right,
+
+2169
+01:35:30,220 --> 01:35:32,060
+you, the Patreon subscriber especially,
+
+2170
+01:35:32,060 --> 01:35:33,700
+we've provided you a lot of entertainment
+
+2171
+01:35:33,700 --> 01:35:35,220
+and I just wanna say,
+
+2172
+01:35:35,220 --> 01:35:38,820
+if you're bored around the house in this stretch of time
+
+2173
+01:35:38,860 --> 01:35:43,860
+and you discover that you have a fudge terrainian river
+
+2174
+01:35:44,300 --> 01:35:47,820
+under your property, just a fudge terrainian spring,
+
+2175
+01:35:47,820 --> 01:35:50,060
+just loop us in, let us know.
+
+2176
+01:35:50,060 --> 01:35:51,900
+Yeah. I mean, I would say too,
+
+2177
+01:35:51,900 --> 01:35:53,660
+it's possible you don't even know about it.
+
+2178
+01:35:53,660 --> 01:35:56,540
+So get a shovel out and do a little digging.
+
+2179
+01:35:57,540 --> 01:35:58,380
+Cause we're like...
+
+2180
+01:35:58,380 --> 01:36:01,260
+Everyone listening, just start poking around your yard.
+
+2181
+01:36:01,260 --> 01:36:04,740
+Yeah. And it may be like, if maybe just like find a room
+
+2182
+01:36:04,740 --> 01:36:06,540
+and even in your house or apartment
+
+2183
+01:36:06,540 --> 01:36:08,060
+and just start digging that way too.
+
+2184
+01:36:08,060 --> 01:36:10,860
+If you have like just maybe, you know,
+
+2185
+01:36:10,860 --> 01:36:13,100
+like a closet or something,
+
+2186
+01:36:13,100 --> 01:36:16,060
+dig a hole into the floor of the closet,
+
+2187
+01:36:16,060 --> 01:36:18,020
+if it's right, like on the first floor.
+
+2188
+01:36:19,180 --> 01:36:20,020
+Yeah.
+
+2189
+01:36:20,020 --> 01:36:21,780
+So then you don't even have to go outside.
+
+2190
+01:36:22,740 --> 01:36:24,220
+Yeah. This could be an indoor activity.
+
+2191
+01:36:24,220 --> 01:36:25,580
+That's absolutely true.
+
+2192
+01:36:25,580 --> 01:36:27,700
+Because a fudge terrainian spring,
+
+2193
+01:36:28,860 --> 01:36:32,620
+with the contents were shared with all of the other patrons
+
+2194
+01:36:32,620 --> 01:36:33,900
+and the hosts of the show,
+
+2195
+01:36:33,900 --> 01:36:36,580
+it could save us through this crisis.
+
+2196
+01:36:36,620 --> 01:36:39,020
+Yeah. So let us know.
+
+2197
+01:36:39,020 --> 01:36:40,780
+Yeah. Send us your fudge.
+
+2198
+01:36:40,780 --> 01:36:42,180
+Send us your fudge.
+
+2199
+01:36:42,180 --> 01:36:43,860
+Hashtag send us your fudge.
+
+2200
+01:36:43,860 --> 01:36:45,620
+Hashtag send us your fudge.
+
+2201
+01:36:47,700 --> 01:36:48,700
+Well, it works for me.
+
+2202
+01:36:48,700 --> 01:36:50,060
+Hey, that was a blast.
+
+2203
+01:36:50,060 --> 01:36:52,380
+Nice taking a trip to the factory with you fellas.
+
+2204
+01:36:52,380 --> 01:36:54,140
+Yes. Likewise.
+
+2205
+01:36:54,140 --> 01:36:57,140
+All right. Well, stay subscribed, stay safe,
+
+2206
+01:36:57,140 --> 01:36:59,660
+and we'll be back for more soon.
+
+2207
+01:36:59,660 --> 01:37:01,420
+Yeah. ChocoSaiyan's coming soon.
+

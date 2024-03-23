@@ -1,0 +1,4288 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,000 --> 00:00:23,000
+Welcome to Podcast The Ride, The Second Gate.
+
+3
+00:00:23,000 --> 00:00:25,000
+I'm Scott Gardner, joined by Jason Sheridan.
+
+4
+00:00:25,000 --> 00:00:27,000
+Hi, yep, it's me, I'm here.
+
+5
+00:00:27,000 --> 00:00:30,000
+And that'll do it.
+
+6
+00:00:30,000 --> 00:00:32,000
+That's it, that's what we got.
+
+7
+00:00:32,000 --> 00:00:33,000
+This is what we got today.
+
+8
+00:00:33,000 --> 00:00:38,000
+This is the first ever Podcast The Ride without Mike Carlson.
+
+9
+00:00:38,000 --> 00:00:42,000
+He's the only one of us who's never missed one.
+
+10
+00:00:42,000 --> 00:00:46,000
+You know, we try to do this if somebody's going out of town for a little bit,
+
+11
+00:00:46,000 --> 00:00:52,000
+like, or has something going on, give little breaks here and there,
+
+12
+00:00:52,000 --> 00:00:55,000
+even though he's done some while in Schomburg.
+
+13
+00:00:55,000 --> 00:00:59,000
+But, you know, we thought still give him one off.
+
+14
+00:00:59,000 --> 00:01:03,000
+Yeah, we don't want him to, like, you know, have to get off the plane
+
+15
+00:01:03,000 --> 00:01:07,000
+and start, like, talking into a Zoom recorder at LAX, you know.
+
+16
+00:01:07,000 --> 00:01:10,000
+Like TMZ is greeting him.
+
+17
+00:01:10,000 --> 00:01:13,000
+We're waiting for it, we make him do one in the car.
+
+18
+00:01:13,000 --> 00:01:15,000
+Yes, yeah, yeah.
+
+19
+00:01:15,000 --> 00:01:17,000
+You're back, buddy, get back to it.
+
+20
+00:01:17,000 --> 00:01:19,000
+We're doing it on the encounter.
+
+21
+00:01:19,000 --> 00:01:22,000
+We're doing it on the restaurant in the middle of LAX that's never open anymore.
+
+22
+00:01:23,000 --> 00:01:25,000
+We're breaking in.
+
+23
+00:01:25,000 --> 00:01:29,000
+Let's zipline to the, let's throw a line up to that top of that thing,
+
+24
+00:01:29,000 --> 00:01:32,000
+record and what's left.
+
+25
+00:01:32,000 --> 00:01:36,000
+No, we're giving him one off.
+
+26
+00:01:36,000 --> 00:01:41,000
+So that leaves Jason and I here in this particularly odd setting,
+
+27
+00:01:41,000 --> 00:01:44,000
+which is like for whatever reason not in my yard,
+
+28
+00:01:44,000 --> 00:01:49,000
+but in this, like, narrow dog run kind of setting on the side of my house.
+
+29
+00:01:49,000 --> 00:01:50,000
+Yeah.
+
+30
+00:01:50,000 --> 00:01:52,000
+Next to, like, the power grid.
+
+31
+00:01:52,000 --> 00:01:55,000
+When I was driving over, I was like, oh, we can stay at the top,
+
+32
+00:01:55,000 --> 00:01:58,000
+like, lock the gates, we're in the garage, like, Marin.
+
+33
+00:01:58,000 --> 00:02:00,000
+And then we shifted from the garage.
+
+34
+00:02:00,000 --> 00:02:05,000
+Now we're not even yet due to work that you might hear happening in another yard.
+
+35
+00:02:05,000 --> 00:02:07,000
+Maybe you'll hear it less here.
+
+36
+00:02:07,000 --> 00:02:12,000
+So if, like, if there was kind of a punk ethos to Marin in the garage,
+
+37
+00:02:12,000 --> 00:02:17,000
+then, like, doesn't it, oh, like, isn't this one more than that,
+
+38
+00:02:17,000 --> 00:02:19,000
+where even we're next to the garage?
+
+39
+00:02:19,000 --> 00:02:21,000
+Yeah, we're in a dusty alleyway.
+
+40
+00:02:21,000 --> 00:02:24,000
+We're in a space, like, between a bunch of garages.
+
+41
+00:02:24,000 --> 00:02:28,000
+I think that makes us extra punk because there's extra garages around.
+
+42
+00:02:28,000 --> 00:02:29,000
+That's right.
+
+43
+00:02:29,000 --> 00:02:32,000
+So this is real grimy, I think.
+
+44
+00:02:32,000 --> 00:02:34,000
+But we're going to try to get something out of it.
+
+45
+00:02:34,000 --> 00:02:37,000
+And this is what I thought should be addressed a little bit.
+
+46
+00:02:37,000 --> 00:02:39,000
+Just being, well, first of all, that it's just you and I.
+
+47
+00:02:39,000 --> 00:02:41,000
+How does this feel in general?
+
+48
+00:02:41,000 --> 00:02:46,000
+Is this like, do we, is there like a, is there a nakedness to a lack of Mike?
+
+49
+00:02:46,000 --> 00:02:49,000
+Do we feel like, is there a phantom presence that we can't turn to?
+
+50
+00:02:49,000 --> 00:02:53,000
+I mean, Mike is certainly the one that, like, I knew Mike,
+
+51
+00:02:53,000 --> 00:02:55,000
+I've known Mike since, like, 2009.
+
+52
+00:02:55,000 --> 00:02:57,000
+I briefly lived with Mike.
+
+53
+00:02:57,000 --> 00:02:59,000
+I won't forget this, that you lived together.
+
+54
+00:02:59,000 --> 00:03:00,000
+Yes.
+
+55
+00:03:00,000 --> 00:03:01,000
+Yeah, yeah, yeah.
+
+56
+00:03:01,000 --> 00:03:05,000
+And then you met him a few years later,
+
+57
+00:03:05,000 --> 00:03:11,000
+and then I met you around that same time, like around parties or, you know, group hangouts.
+
+58
+00:03:11,000 --> 00:03:13,000
+We were probably at the same events a little bit,
+
+59
+00:03:13,000 --> 00:03:15,000
+and then things got sort of narrowed down.
+
+60
+00:03:15,000 --> 00:03:22,000
+I'm sure we talked or whatever, but I think I maybe hadn't connected that you were a big theme park guy specifically,
+
+61
+00:03:22,000 --> 00:03:25,000
+or like more so than anybody else in Mike's fold.
+
+62
+00:03:25,000 --> 00:03:31,000
+And then we started connecting, and then the podcast happened.
+
+63
+00:03:31,000 --> 00:03:37,000
+This is one thing I wanted to say in terms of, like, you and I meeting or getting to know each other.
+
+64
+00:03:37,000 --> 00:03:41,000
+Like, I'm sure we had a couple times by this point.
+
+65
+00:03:41,000 --> 00:03:49,000
+But while Mike's not here, I would like to embarrass him by saying that what my takeaway before we really spent a lot of time together,
+
+66
+00:03:49,000 --> 00:03:54,000
+started doing the podcast together, is that Mike is and was obsessed with you.
+
+67
+00:03:54,000 --> 00:04:01,000
+There was so many, there was like, I just remember, like, a pretty constant flow of like,
+
+68
+00:04:01,000 --> 00:04:06,000
+yeah, this guy Jason, you got to, he did this and he did this, and one time there was this, and you got to see,
+
+69
+00:04:06,000 --> 00:04:08,000
+you're going to have to spend some time with him because of this, this, that.
+
+70
+00:04:08,000 --> 00:04:11,000
+Like, there was so much buildup, I feel like.
+
+71
+00:04:11,000 --> 00:04:13,000
+I don't know how much you're aware of that.
+
+72
+00:04:13,000 --> 00:04:15,000
+I mean, I love that. I love hearing that.
+
+73
+00:04:15,000 --> 00:04:22,000
+So, like, nights where you aren't there, or maybe where you had like, I feel like you maybe met us at the Tamm O'Shanter.
+
+74
+00:04:22,000 --> 00:04:26,000
+We're on brand. We go to this like Disney-ish restaurant where Walt Disney used to go.
+
+75
+00:04:26,000 --> 00:04:33,000
+I think you might have met us there and then left, and then the entire rest of the outing was stories about you.
+
+76
+00:04:33,000 --> 00:04:37,000
+So there was a, like, there was a high level of interest and obsession.
+
+77
+00:04:37,000 --> 00:04:45,000
+I mean, I'm loving this. This is making me sound so much more interesting that I actually am,
+
+78
+00:04:45,000 --> 00:04:49,000
+and I love building that mythology for our wonderful listeners.
+
+79
+00:04:49,000 --> 00:04:58,000
+Mm-hmm, mm-hmm. I, yeah, he, I mean, he has said on the show before that he's never forgotten anything that you have done.
+
+80
+00:04:59,000 --> 00:05:05,000
+He remembers everything about, everything he's witnessed you do, and I can, like, I think I guess that was sort of,
+
+81
+00:05:05,000 --> 00:05:09,000
+I was aware of that even before the podcast began.
+
+82
+00:05:09,000 --> 00:05:17,000
+Wow. Well, I mean, my memory of meeting you, well, I actually felt very embarrassed one of the first times I met you,
+
+83
+00:05:17,000 --> 00:05:22,000
+because you had put out a video on Funny or Die, a very funny video about steam rollers.
+
+84
+00:05:22,000 --> 00:05:23,000
+Oh, yeah, yeah.
+
+85
+00:05:23,000 --> 00:05:30,000
+And I came up to you, we were in a, like, you know, a group of mutual friends, like, chit-chatting at a birthday boys' party,
+
+86
+00:05:30,000 --> 00:05:35,000
+and I said, oh, I really like that video you put out, and I think I said forklifts, and then I, as I was walking away,
+
+87
+00:05:35,000 --> 00:05:44,000
+I was like, oh my God, I got the whole big specific of the video wrong, and I felt very foolish.
+
+88
+00:05:44,000 --> 00:05:51,000
+And well, here's where I can tell you I remember it perfectly, I'm furious, and finally we can hash it out here in this side yard,
+
+89
+00:05:51,000 --> 00:05:56,000
+and I throw you against the fence. No, I don't recall that one bit.
+
+90
+00:05:56,000 --> 00:06:01,000
+I don't mind the switch out to forklifts makes all the sense.
+
+91
+00:06:01,000 --> 00:06:06,000
+Kind of a lateral move, yeah, big pieces of construction, and I, yeah.
+
+92
+00:06:06,000 --> 00:06:11,000
+Yeah, totally. I'm still learning what all of them are, having a baby son now.
+
+93
+00:06:11,000 --> 00:06:18,000
+Now, there's a lot of books that are teaching me what the specific big trucks and mechanisms are.
+
+94
+00:06:18,000 --> 00:06:22,000
+So there's, yeah, it's all close, I don't blame you.
+
+95
+00:06:22,000 --> 00:06:24,000
+That's interesting, I don't remember that one.
+
+96
+00:06:24,000 --> 00:06:31,000
+Yeah, I like that stuff where, like, this weird little, you know, before you spent a bunch of time together,
+
+97
+00:06:31,000 --> 00:06:33,000
+there was some odd little strand of something.
+
+98
+00:06:33,000 --> 00:06:39,000
+I like that we had this thing where we all took a tour of Imagineering pre-podcast.
+
+99
+00:06:39,000 --> 00:06:46,000
+That is kind of an interesting, that was maybe, was that like an early time that we hung out, I feel like?
+
+100
+00:06:46,000 --> 00:06:56,000
+I think so. That was also like, very, for me, it was very stressful because I was doing it like on my lunch break.
+
+101
+00:06:56,000 --> 00:07:01,000
+Like, I told them I would probably take a long lunch that hour, and I was just going from, like, you know,
+
+102
+00:07:01,000 --> 00:07:08,000
+Burbank, like, by this big shopping center, the Empire Center, formerly the Lockheed Martin aircraft plant.
+
+103
+00:07:08,000 --> 00:07:11,000
+Now one of the worst themed malls. Yeah.
+
+104
+00:07:11,000 --> 00:07:14,000
+Is it one of the most unpleasant shopping centers that exists?
+
+105
+00:07:14,000 --> 00:07:22,000
+I was dashing from there to Imagineering, but that kind of, the area around Imagineering is a little confusing,
+
+106
+00:07:22,000 --> 00:07:25,000
+the surface streets and stuff. Like, there's still a lot of...
+
+107
+00:07:25,000 --> 00:07:26,000
+Sparsely populated.
+
+108
+00:07:26,000 --> 00:07:34,000
+Sparsely populated, but then you'll just stumble upon a tiny residential street, and so, like, the clock was ticking,
+
+109
+00:07:34,000 --> 00:07:38,000
+and we wanted to be, you know, polite to our guide and stuff.
+
+110
+00:07:39,000 --> 00:07:44,000
+I remember, well, I remember that you, yeah, that you were running late, I think we heard that you were running late,
+
+111
+00:07:44,000 --> 00:07:52,000
+and then we watched you park from very far away, but then walk up to Imagineering with no particular pace or speed on it.
+
+112
+00:07:52,000 --> 00:08:00,000
+Well, I also saw a person walking to the same, who ended up being our guide, that I thought, I think that's...
+
+113
+00:08:00,000 --> 00:08:07,000
+Walking on the other side of the street at the same pace, and I kind of made the connection, because I think I had met her briefly once.
+
+114
+00:08:07,000 --> 00:08:08,000
+So you're like matching.
+
+115
+00:08:08,000 --> 00:08:11,000
+So I was kind of like, I think we're going, yeah, to the same place.
+
+116
+00:08:11,000 --> 00:08:18,000
+They're not sprinting, and I needn't sprint. Yeah, and then we got this great tour of Imagineering,
+
+117
+00:08:18,000 --> 00:08:22,000
+and nerded out about every poster on the wall, and every little thing we saw.
+
+118
+00:08:22,000 --> 00:08:29,000
+There were, like, audible gasps, and she seemed embarrassed by us at various times.
+
+119
+00:08:29,000 --> 00:08:35,000
+She, this is her day to day, and she's just like, you guys, Jesus, you guys really are...
+
+120
+00:08:35,000 --> 00:08:37,000
+You guys need to start a podcast or something.
+
+121
+00:08:37,000 --> 00:08:49,000
+And almost a year later, I think, like almost a year later, we started work, because we were like sketching it out for a few months before we got down to it.
+
+122
+00:08:49,000 --> 00:08:59,000
+Yeah, yeah. But yeah, relatively within that window of time, we'd love to come back to Imagineering again, if anybody has it in to let us.
+
+123
+00:09:00,000 --> 00:09:06,000
+Anyone, we met a handful of other people who worked there, but I'm after COVID and all the layoffs and stuff.
+
+124
+00:09:06,000 --> 00:09:10,000
+I don't want to bother anyone, because I don't know, students still have the job.
+
+125
+00:09:10,000 --> 00:09:13,000
+Is anyone there? That's right, I mean, moved.
+
+126
+00:09:13,000 --> 00:09:14,000
+Yeah.
+
+127
+00:09:14,000 --> 00:09:20,000
+Huh. Well, we'll see. We might be, those soaps might be shot.
+
+128
+00:09:20,000 --> 00:09:21,000
+Yeah.
+
+129
+00:09:21,000 --> 00:09:25,000
+But here, well, here's the other thing about you and I doing an episode.
+
+130
+00:09:25,000 --> 00:09:29,000
+I think Mike threw that out and like, yeah, we probably should. We've never done that.
+
+131
+00:09:29,000 --> 00:09:40,000
+But this in the past has been a, when somebody's not here, we sort of used it as a conduit to do an episode about something that only the two left are interested in.
+
+132
+00:09:40,000 --> 00:09:48,000
+There's, you know, there was this Marvel episode, there was an episode all about rock and roll, because Mike and I, of course, love rock and roll.
+
+133
+00:09:48,000 --> 00:09:54,000
+And then, and the, and then the Casamigos incident, of course, as well.
+
+134
+00:09:54,000 --> 00:09:55,000
+Yes.
+
+135
+00:09:55,000 --> 00:10:06,000
+With this, with us, I'm like, what is the, is there something that Mike is not, I can't, but I couldn't immediately think of something that's like, that's Jason Scott thing and not a Mike thing.
+
+136
+00:10:06,000 --> 00:10:10,000
+I think, I thought of it, but only like last night.
+
+137
+00:10:10,000 --> 00:10:20,000
+And I think it would be too labor intensive and too visual, which is like, and other people do it much better.
+
+138
+00:10:20,000 --> 00:10:28,000
+But like entertainment retail design, like you, you, a while back, we're talking about all the coffee table books of like malls.
+
+139
+00:10:28,000 --> 00:10:33,000
+Oh yeah, I bought all these shops that are called like storefronts, volume 47.
+
+140
+00:10:33,000 --> 00:10:34,000
+Yeah.
+
+141
+00:10:34,000 --> 00:10:36,000
+Entertainment restaurants, volume 102.
+
+142
+00:10:36,000 --> 00:10:43,000
+And, and we've talked before about, there's like a group of Twitter accounts.
+
+143
+00:10:43,000 --> 00:10:48,000
+This guy, Evan Collins and Y2K Aesthetic Institute.
+
+144
+00:10:48,000 --> 00:10:49,000
+Yes.
+
+145
+00:10:49,000 --> 00:10:58,000
+And it's kind of like 90s, 2000s design history of like public spaces, usually centered around entertainment and retail.
+
+146
+00:10:58,000 --> 00:11:01,000
+But they've done all the work.
+
+147
+00:11:01,000 --> 00:11:06,000
+Yeah, yeah, we're just like, we're just repeating material, I guess, and describing photos.
+
+148
+00:11:06,000 --> 00:11:11,000
+One of the worst things you can do for a long stretch of time, just, just describe photos.
+
+149
+00:11:11,000 --> 00:11:15,000
+What, you retweeted one last night, I want to say, that looked so crazy.
+
+150
+00:11:15,000 --> 00:11:16,000
+What was that?
+
+151
+00:11:16,000 --> 00:11:28,000
+That was, it was like an entertainment center in Florida, like a family fun center kind of place that didn't last very long, but it was very, like, very designed.
+
+152
+00:11:28,000 --> 00:11:33,000
+It was very like a lot of googie, it seems like, design.
+
+153
+00:11:33,000 --> 00:11:37,000
+And then it became the Pac-Man Cafe.
+
+154
+00:11:37,000 --> 00:11:39,000
+And then it became a Maggiano's.
+
+155
+00:11:39,000 --> 00:11:41,000
+That's right, that's right.
+
+156
+00:11:41,000 --> 00:11:44,000
+But it did exist as like, it got finished.
+
+157
+00:11:44,000 --> 00:11:50,000
+It was this like crazy kooky shopping center that looks like a sort of like Fantasia dream.
+
+158
+00:11:50,000 --> 00:11:52,000
+I don't, I don't really recall.
+
+159
+00:11:52,000 --> 00:11:56,000
+I believe it's in, like by Hollywood, Florida.
+
+160
+00:11:56,000 --> 00:12:01,000
+I think I saw the, the town Davies, Florida.
+
+161
+00:12:01,000 --> 00:12:07,000
+And it is, yeah, it was just very, very cool looking.
+
+162
+00:12:07,000 --> 00:12:11,000
+And, you know, it's a thing that I wish I could have gone there, you know.
+
+163
+00:12:11,000 --> 00:12:13,000
+Yeah, yeah.
+
+164
+00:12:13,000 --> 00:12:18,000
+And it became, the Pac-Man Cafe was part of it, like the one we went to in Schaumburg.
+
+165
+00:12:18,000 --> 00:12:20,000
+Yeah.
+
+166
+00:12:20,000 --> 00:12:22,000
+Or is that, is that what that's called?
+
+167
+00:12:22,000 --> 00:12:24,000
+That might be some other Pac-Man brand.
+
+168
+00:12:24,000 --> 00:12:25,000
+It might have been.
+
+169
+00:12:25,000 --> 00:12:26,000
+It's a sloppy brand.
+
+170
+00:12:26,000 --> 00:12:27,000
+It's all over the map.
+
+171
+00:12:27,000 --> 00:12:34,000
+But like, wouldn't, I don't know, maybe we have like a special interest in this sort of area, but I feel like it wouldn't be out of bounds for Mike.
+
+172
+00:12:34,000 --> 00:12:40,000
+And I think, I mean, it's not that some of the things that we've talked about separately, I mean, Casamigo certainly, that had to be done in a corner.
+
+173
+00:12:40,000 --> 00:12:42,000
+You had to go do that in your box.
+
+174
+00:12:42,000 --> 00:12:43,000
+That's right.
+
+175
+00:12:43,000 --> 00:12:44,000
+Yeah.
+
+176
+00:12:44,000 --> 00:12:51,000
+Oh wait, which I thought of something last night, and this is the second gate, and without shattering Mike's dreams, because I think you're fascinated by the story.
+
+177
+00:12:51,000 --> 00:12:56,000
+I think Mike is especially fascinated with the guy, with George Clooney's tequila partner, Randy Gerber.
+
+178
+00:12:56,000 --> 00:13:03,000
+And I think, and this is going to be done so in code, and I'm going to have to tell you off Mike my specifics, because I can't reveal sources.
+
+179
+00:13:03,000 --> 00:13:08,000
+But Mike's going to hear this, and he might shiver, he might cry when he hears this later.
+
+180
+00:13:08,000 --> 00:13:14,000
+I have talked to someone who has talked to someone who has interacted with Randy Gerber.
+
+181
+00:13:14,000 --> 00:13:15,000
+Wow.
+
+182
+00:13:15,000 --> 00:13:24,000
+And they were very quick, with no particular prodding or judgment, when asked, what can you tell me about Randy Gerber?
+
+183
+00:13:24,000 --> 00:13:29,000
+Randy Gerber, this person said in no uncertain terms that Randy Gerber is a huge piece of shit.
+
+184
+00:13:29,000 --> 00:13:30,000
+Oh no!
+
+185
+00:13:30,000 --> 00:13:31,000
+Randy Gerber sucks.
+
+186
+00:13:31,000 --> 00:13:41,000
+And I can say no more specifics, and the listeners might think that I'm making this up, or just throwing Randy Gerber shade, because I'm fired up by Mike's absence.
+
+187
+00:13:41,000 --> 00:13:53,000
+However, and I can't say more why, but you know, we've devoted a lot of time at this point to somebody who is evidently a huge piece of shit.
+
+188
+00:13:53,000 --> 00:13:56,000
+I just want to vaguely get that out there.
+
+189
+00:13:56,000 --> 00:14:01,000
+Well, it wouldn't be the first, and it's not going to be the last.
+
+190
+00:14:01,000 --> 00:14:14,000
+Well, I guess by virtue of a podcast that crosses over with real estate and development, and where billions of dollars are needed to do things, you are going to bump into huge pieces of shit.
+
+191
+00:14:14,000 --> 00:14:17,000
+We sometimes glorify huge pieces of shit.
+
+192
+00:14:17,000 --> 00:14:18,000
+Sometimes.
+
+193
+00:14:18,000 --> 00:14:21,000
+Yeah, yeah, it'll happen again.
+
+194
+00:14:21,000 --> 00:14:32,000
+But anyway, you know, we should just, I think we should be on the lookout for other things, for things that exclude Mike, in case this happens again.
+
+195
+00:14:32,000 --> 00:14:50,000
+I think that maybe the listener, that's why we threw it out as a mailbag, I think was maybe you can help us figure out what is, maybe we can have a moment here that spurs the Jason and Scott interest that Mike is shut out from.
+
+196
+00:14:50,000 --> 00:14:54,000
+Maybe we'll do an episode while he's in town even and not invite him.
+
+197
+00:14:54,000 --> 00:15:00,000
+Oh, well, we're really starting to war internal broadcast.
+
+198
+00:15:00,000 --> 00:15:03,000
+That's right, Mike, you are.
+
+199
+00:15:03,000 --> 00:15:06,000
+This is a president has been set.
+
+200
+00:15:06,000 --> 00:15:11,000
+You assume you can come to every episode, but you know, we'll see if there might be secret.
+
+201
+00:15:11,000 --> 00:15:15,000
+There might just be stuff showing up in the feed little surprises for you.
+
+202
+00:15:15,000 --> 00:15:21,000
+And I mean, of course, the biggest surprise is that he is still editing this episode.
+
+203
+00:15:21,000 --> 00:15:24,000
+Yeah, there's still spending in the story, everything that we're saying.
+
+204
+00:15:24,000 --> 00:15:26,000
+So we should probably be nicer.
+
+205
+00:15:26,000 --> 00:15:27,000
+Yeah. Thanks for doing it.
+
+206
+00:15:27,000 --> 00:15:29,000
+Still look great.
+
+207
+00:15:29,000 --> 00:15:30,000
+We miss you.
+
+208
+00:15:30,000 --> 00:15:32,000
+We miss you.
+
+209
+00:15:32,000 --> 00:15:34,000
+He's probably busy back already.
+
+210
+00:15:34,000 --> 00:15:37,000
+Even I think he's back within a couple days.
+
+211
+00:15:37,000 --> 00:15:39,000
+But we said we were going to do this.
+
+212
+00:15:39,000 --> 00:15:40,000
+I don't know.
+
+213
+00:15:40,000 --> 00:15:41,000
+I don't think he's OK.
+
+214
+00:15:41,000 --> 00:15:47,000
+I'm not right now, but in in his spirit, I have something I have something I wanted to honor him with.
+
+215
+00:15:47,000 --> 00:15:48,000
+Yes.
+
+216
+00:15:48,000 --> 00:15:57,000
+We want to get to your questions, but I just I real quick, you know, just wanted to because because people had mentioned this to us and it's you know,
+
+217
+00:15:57,000 --> 00:16:00,000
+well, we love the Florida parks and we get down there.
+
+218
+00:16:00,000 --> 00:16:02,000
+It's unlikely we would engage in this.
+
+219
+00:16:02,000 --> 00:16:07,000
+But Walt Disney World recently put their annual passes back on sale.
+
+220
+00:16:07,000 --> 00:16:08,000
+Oh, yeah.
+
+221
+00:16:08,000 --> 00:16:09,000
+OK.
+
+222
+00:16:09,000 --> 00:16:10,000
+Oh, right.
+
+223
+00:16:10,000 --> 00:16:11,000
+Oh, the other fucking thing.
+
+224
+00:16:11,000 --> 00:16:12,000
+That's right.
+
+225
+00:16:12,000 --> 00:16:13,000
+New confusing thing.
+
+226
+00:16:13,000 --> 00:16:14,000
+Yes.
+
+227
+00:16:14,000 --> 00:16:16,000
+So now I'm trapped.
+
+228
+00:16:16,000 --> 00:16:18,000
+I'm trapped in my own little little dog run here.
+
+229
+00:16:18,000 --> 00:16:25,000
+So, you know, just in the spirit of all three of us being here, I'm putting this up to you.
+
+230
+00:16:25,000 --> 00:16:28,000
+And this is just a real quick bit.
+
+231
+00:16:28,000 --> 00:16:31,000
+But I have the four annual passes here.
+
+232
+00:16:31,000 --> 00:16:32,000
+OK.
+
+233
+00:16:32,000 --> 00:16:34,000
+And I'm going to tell you their names.
+
+234
+00:16:34,000 --> 00:16:39,000
+And I want you to rank them in the order from cheapest to most expensive.
+
+235
+00:16:39,000 --> 00:16:40,000
+That's another one of these.
+
+236
+00:16:40,000 --> 00:16:43,000
+Enchant believe there's no inherent order.
+
+237
+00:16:43,000 --> 00:16:48,000
+There's no like they did not use words that have growth and a pattern.
+
+238
+00:16:48,000 --> 00:16:51,000
+I'm going to say these are worse.
+
+239
+00:16:51,000 --> 00:16:52,000
+My God.
+
+240
+00:16:52,000 --> 00:16:54,000
+So I truly haven't looked at them.
+
+241
+00:16:54,000 --> 00:16:56,000
+The other ones I feel like I vaguely knew.
+
+242
+00:16:56,000 --> 00:16:58,000
+But this will be totally new to me.
+
+243
+00:16:58,000 --> 00:16:59,000
+Yes.
+
+244
+00:16:59,000 --> 00:17:00,000
+OK.
+
+245
+00:17:00,000 --> 00:17:02,000
+Pirate pass.
+
+246
+00:17:02,000 --> 00:17:04,000
+Sorcerer pass.
+
+247
+00:17:04,000 --> 00:17:08,000
+In credit pass and pixie dust pass.
+
+248
+00:17:08,000 --> 00:17:15,000
+The only thing that I can think here, this is very stupid, by the way, as they all are.
+
+249
+00:17:15,000 --> 00:17:21,000
+I and also and also very gendered, don't you think?
+
+250
+00:17:21,000 --> 00:17:22,000
+Isn't that weird?
+
+251
+00:17:22,000 --> 00:17:25,000
+Like that they're like it's sort of specific.
+
+252
+00:17:25,000 --> 00:17:29,000
+Like I mean, I guess there's female pirates and the other dread.
+
+253
+00:17:29,000 --> 00:17:32,000
+I guess males can use pixie dust.
+
+254
+00:17:32,000 --> 00:17:34,000
+So I guess I'm wrong.
+
+255
+00:17:34,000 --> 00:17:45,000
+The only thing that I can think is that is like amounts of power because like a pirate has no other worldly power.
+
+256
+00:17:45,000 --> 00:17:46,000
+Right.
+
+257
+00:17:46,000 --> 00:17:54,000
+So they pirate would be at the bottom because a pirate doesn't have the power of a sorcerer or a superhero.
+
+258
+00:17:54,000 --> 00:17:56,000
+Let me just try before.
+
+259
+00:17:56,000 --> 00:17:57,000
+OK.
+
+260
+00:17:57,000 --> 00:17:59,000
+So pirate is lowest.
+
+261
+00:17:59,000 --> 00:18:01,000
+I'd say pixie dust.
+
+262
+00:18:01,000 --> 00:18:03,000
+It was the pixie dust pass.
+
+263
+00:18:03,000 --> 00:18:07,000
+I'd put that second because it's magical.
+
+264
+00:18:07,000 --> 00:18:08,000
+But you have to have it.
+
+265
+00:18:08,000 --> 00:18:15,000
+You need like a hook up like drugs and you might not have inherent magic unless you have the dust with you.
+
+266
+00:18:15,000 --> 00:18:23,000
+And then I'd say in credit pass, superheroes are more powerful than just having pixie dust.
+
+267
+00:18:23,000 --> 00:18:25,000
+And then sorcerer is the most on top of that.
+
+268
+00:18:25,000 --> 00:18:27,000
+Sorcerer is the most powerful.
+
+269
+00:18:27,000 --> 00:18:30,000
+It's nowhere close.
+
+270
+00:18:30,000 --> 00:18:31,000
+What do you know?
+
+271
+00:18:31,000 --> 00:18:35,000
+Here I am looking for logic in it and there is no I think more logic than them.
+
+272
+00:18:35,000 --> 00:18:36,000
+OK.
+
+273
+00:18:36,000 --> 00:18:39,000
+Pixie dust pass is the cheapest at three ninety nine.
+
+274
+00:18:39,000 --> 00:18:40,000
+OK.
+
+275
+00:18:40,000 --> 00:18:44,000
+Pirate pass is six ninety nine sorcerer passes eight ninety nine.
+
+276
+00:18:44,000 --> 00:18:45,000
+Yeah.
+
+277
+00:18:45,000 --> 00:18:50,000
+In credit pass is one thousand two hundred ninety nine dollars only.
+
+278
+00:18:50,000 --> 00:18:57,000
+And so I'm not going to go into all the specifics, but only in credit pass can be bought by anyone outside of Florida.
+
+279
+00:18:57,000 --> 00:18:58,000
+OK.
+
+280
+00:18:58,000 --> 00:19:00,000
+I oh I'm sorry.
+
+281
+00:19:00,000 --> 00:19:05,000
+Sorcerer pass can be bought by Florida residents or DVC members.
+
+282
+00:19:05,000 --> 00:19:17,000
+And I think I saw but it's if you bought DVC membership on the resale market after a certain point, you cannot buy that level like they Disney.
+
+283
+00:19:17,000 --> 00:19:24,000
+Disney Disney because of timeshare law, they have to let people resale sell their timeshares on a third party market.
+
+284
+00:19:24,000 --> 00:19:28,000
+But they they apparently figured out they can restrict the perks.
+
+285
+00:19:28,000 --> 00:19:34,000
+This is Mike has never been more jealous than I am to jump into this conversation as soon as he heard timeshare law.
+
+286
+00:19:34,000 --> 00:19:36,000
+He like jumped in his chair wherever he's listening.
+
+287
+00:19:36,000 --> 00:19:37,000
+Get me in there.
+
+288
+00:19:37,000 --> 00:19:38,000
+I know.
+
+289
+00:19:38,000 --> 00:19:39,000
+I got to get back in the game.
+
+290
+00:19:39,000 --> 00:19:40,000
+I know.
+
+291
+00:19:40,000 --> 00:19:41,000
+I will.
+
+292
+00:19:41,000 --> 00:19:44,000
+What the disorder makes no sense.
+
+293
+00:19:44,000 --> 00:19:45,000
+Yeah.
+
+294
+00:19:45,000 --> 00:19:46,000
+What are you talking about?
+
+295
+00:19:46,000 --> 00:19:50,000
+There's like even I don't know, even believe and chant.
+
+296
+00:19:50,000 --> 00:19:55,000
+Maybe I like just found an inherent system that made sense.
+
+297
+00:19:55,000 --> 00:20:02,000
+But this I don't I mean, I guess in credit pass being like incredible, but Pixie is lowest.
+
+298
+00:20:02,000 --> 00:20:05,000
+I very strange.
+
+299
+00:20:05,000 --> 00:20:06,000
+Yeah.
+
+300
+00:20:06,000 --> 00:20:09,000
+And it combined the way it combines mythologies and types of magic.
+
+301
+00:20:09,000 --> 00:20:11,000
+It's so so unfocused.
+
+302
+00:20:11,000 --> 00:20:17,000
+I might even say like, isn't there something to like Mickey pass and many pass and Donald and goofy?
+
+303
+00:20:17,000 --> 00:20:18,000
+Yeah.
+
+304
+00:20:18,000 --> 00:20:19,000
+You see, you don't want to rank them.
+
+305
+00:20:19,000 --> 00:20:20,000
+They're all.
+
+306
+00:20:20,000 --> 00:20:21,000
+Oh, they're all.
+
+307
+00:20:21,000 --> 00:20:24,000
+No, they're all on the, you know, the Mount Rushmore.
+
+308
+00:20:24,000 --> 00:20:25,000
+Yeah.
+
+309
+00:20:25,000 --> 00:20:26,000
+Yeah.
+
+310
+00:20:26,000 --> 00:20:27,000
+I don't know.
+
+311
+00:20:27,000 --> 00:20:31,000
+I don't know that I have better ideas other than like, I think.
+
+312
+00:20:31,000 --> 00:20:39,000
+Hey, look, I was just talking a lot of shit about Six Flags, but I do understand that when they say that there's a diamond platinum pass.
+
+313
+00:20:39,000 --> 00:20:43,000
+Well, that's a lot of words and that implies that that's the best pass you can get.
+
+314
+00:20:43,000 --> 00:20:48,000
+But why is in credit pass different than source source a pass?
+
+315
+00:20:51,000 --> 00:20:52,000
+No sense to me.
+
+316
+00:20:52,000 --> 00:20:54,000
+They all do come with parking, though.
+
+317
+00:20:55,000 --> 00:20:56,000
+Every one of them.
+
+318
+00:20:56,000 --> 00:20:57,000
+That's not like ours.
+
+319
+00:20:57,000 --> 00:20:58,000
+Not like ours.
+
+320
+00:20:58,000 --> 00:21:00,000
+No, that's that's going to be the trick for me.
+
+321
+00:21:00,000 --> 00:21:03,000
+I think news, newsflash.
+
+322
+00:21:04,000 --> 00:21:06,000
+Get ready for this breaking scoop audience.
+
+323
+00:21:06,000 --> 00:21:15,000
+I believe I have gone with the lowest pass for now, which I already forget the name of the lowest Disney Magic Key.
+
+324
+00:21:15,000 --> 00:21:18,000
+Which one is I got to learn so that I don't buy the wrong one.
+
+325
+00:21:18,000 --> 00:21:26,000
+I know I have the Enchant Pass because I've seen it or the I have an Enchant Magic Key, which just rolls off the tongue.
+
+326
+00:21:26,000 --> 00:21:27,000
+Yeah.
+
+327
+00:21:27,000 --> 00:21:30,000
+You know, it's just one Enchant Magic Key, please.
+
+328
+00:21:30,000 --> 00:21:31,000
+Yeah.
+
+329
+00:21:31,000 --> 00:21:33,000
+I'm having trouble with my Enchant Magic Key.
+
+330
+00:21:33,000 --> 00:21:34,000
+Could you help me?
+
+331
+00:21:34,000 --> 00:21:35,000
+Oh, that's a different window.
+
+332
+00:21:35,000 --> 00:21:36,000
+I'm so sorry.
+
+333
+00:21:37,000 --> 00:21:39,000
+It's you at a mental institution.
+
+334
+00:21:39,000 --> 00:21:41,000
+He does need help.
+
+335
+00:21:43,000 --> 00:21:44,000
+Is believe low?
+
+336
+00:21:44,000 --> 00:21:45,000
+No, but I believe high.
+
+337
+00:21:45,000 --> 00:21:46,000
+I don't know.
+
+338
+00:21:46,000 --> 00:21:52,000
+I need to learn what I'm going to get the lowest one and see if I can get away with it and upgrade if I need to.
+
+339
+00:21:52,000 --> 00:21:57,000
+But we're all going to pay a real bounty in parking fees because they aren't included for either of us.
+
+340
+00:21:57,000 --> 00:21:58,000
+That's true.
+
+341
+00:21:58,000 --> 00:21:59,000
+Yeah.
+
+342
+00:21:59,000 --> 00:22:03,000
+Oh, and you you have a day ticket you have not used that you are going to convert.
+
+343
+00:22:03,000 --> 00:22:04,000
+Roll over.
+
+344
+00:22:04,000 --> 00:22:05,000
+We're going to.
+
+345
+00:22:05,000 --> 00:22:09,000
+And so we'll get to see if that works.
+
+346
+00:22:09,000 --> 00:22:15,000
+Or if like, yes, we're in the park together because we're going to go to the park together soon.
+
+347
+00:22:15,000 --> 00:22:28,000
+And then we'll if you lose me for an hour and a half and some boring line has happened to me down in Florida, the nightmare of people are having fun and I'm here in this endless guest service line.
+
+348
+00:22:29,000 --> 00:22:31,000
+Or can I just do it easily in the app?
+
+349
+00:22:31,000 --> 00:22:37,000
+And it's as magic as the get as the scattering of pixie dust.
+
+350
+00:22:37,000 --> 00:22:40,000
+Well, that's pretty low on the rankings.
+
+351
+00:22:40,000 --> 00:22:42,000
+Oh, yeah, it's not very magic.
+
+352
+00:22:42,000 --> 00:22:43,000
+So, you know, all right.
+
+353
+00:22:43,000 --> 00:22:45,000
+I hope it's a lot more magical than that.
+
+354
+00:22:45,000 --> 00:22:47,000
+Oh, boy.
+
+355
+00:22:47,000 --> 00:22:48,000
+Well, all right.
+
+356
+00:22:48,000 --> 00:22:49,000
+We've been through it now.
+
+357
+00:22:49,000 --> 00:22:56,000
+Now we know Disney World's you've found a way to make it separately annoying.
+
+358
+00:22:56,000 --> 00:23:04,000
+It is it is, you know, as a Beach Boys fan, I'm sure you find yourself sometimes saying, I guess I just wasn't made for these times.
+
+359
+00:23:04,000 --> 00:23:07,000
+All right.
+
+360
+00:23:07,000 --> 00:23:08,000
+Absolutely.
+
+361
+00:23:08,000 --> 00:23:09,000
+Yes.
+
+362
+00:23:09,000 --> 00:23:10,000
+All the pathos of that song.
+
+363
+00:23:10,000 --> 00:23:15,000
+That's how I feel the burden of so so out of step.
+
+364
+00:23:15,000 --> 00:23:16,000
+I wish I was.
+
+365
+00:23:16,000 --> 00:23:25,000
+I, you know, I wish I was a Mike who reveled in these terms and things and a fine print.
+
+366
+00:23:25,000 --> 00:23:38,000
+Well, as if you have to go to a service counter to flip that pass correctly, you know, he and I'll be like perched on your shoulder, like trying to look like let me let me get a look at that Dell.
+
+367
+00:23:38,000 --> 00:23:40,000
+Let me get a look at your screen.
+
+368
+00:23:40,000 --> 00:23:41,000
+What to see what's going on over there.
+
+369
+00:23:41,000 --> 00:23:42,000
+How did it go?
+
+370
+00:23:42,000 --> 00:23:45,000
+There's this is an episode right here.
+
+371
+00:23:45,000 --> 00:23:51,000
+So then he couldn't remember if it was a believer and enchant.
+
+372
+00:23:51,000 --> 00:23:52,000
+All right.
+
+373
+00:23:52,000 --> 00:23:54,000
+Well, is that the thing?
+
+374
+00:23:54,000 --> 00:23:59,000
+Do we crack open the well the post office is open for business.
+
+375
+00:23:59,000 --> 00:24:15,000
+I the the only other thing I had was I just I just wanted to confirm the properties and I was racking my brain if I had I think I mentioned this very quickly on an episode that Genting Sky Worlds in Malaysia is happening.
+
+376
+00:24:15,000 --> 00:24:22,000
+This is you have to go back to January of 2019 when we discussed this the kind of disaster prone park in Malaysia.
+
+377
+00:24:22,000 --> 00:24:25,000
+The one that never opened was going to have like Ice Age and Fox stuff.
+
+378
+00:24:25,000 --> 00:24:26,000
+Yes.
+
+379
+00:24:26,000 --> 00:24:32,000
+It's been sitting vacant and has like a cars esc ride and a and a Skyliner type right.
+
+380
+00:24:32,000 --> 00:24:33,000
+It's all just been sitting there.
+
+381
+00:24:33,000 --> 00:24:34,000
+Yes.
+
+382
+00:24:34,000 --> 00:24:38,000
+And and the Genting Company just opened Genting Resorts World in Las Vegas.
+
+383
+00:24:38,000 --> 00:24:43,000
+That's massive hotel casino property, but they are back on track.
+
+384
+00:24:43,000 --> 00:24:46,000
+They've got the 20th century properties.
+
+385
+00:24:46,000 --> 00:24:57,000
+They're getting attractions based on Ice Age Rio Robots Night at the Museum Independence Day Planet of the Apes and most importantly for our concern epic.
+
+386
+00:24:57,000 --> 00:24:58,000
+Oh yeah.
+
+387
+00:24:58,000 --> 00:24:59,000
+Nimgaloo.
+
+388
+00:24:59,000 --> 00:25:02,000
+Which means Nimgaloo.
+
+389
+00:25:02,000 --> 00:25:05,000
+The description from Blue Loop.
+
+390
+00:25:05,000 --> 00:25:07,000
+The theme park industry website.
+
+391
+00:25:07,000 --> 00:25:19,000
+Epic is a whimsical world featuring the epic voyage to Moonhaven boat ride and the epic hummingbird flyers where where guests will help to defend Queen Marigold from the Bogans.
+
+392
+00:25:19,000 --> 00:25:20,000
+Uh huh.
+
+393
+00:25:20,000 --> 00:25:21,000
+From the Bogans.
+
+394
+00:25:21,000 --> 00:25:22,000
+From the Bogans or Pogans.
+
+395
+00:25:22,000 --> 00:25:34,000
+I think there's one clip on YouTube where a guy goes Pogans like very quietly and I'm like I think he said Pogans and I'm sure as everyone's screaming at their pod catching device now.
+
+396
+00:25:34,000 --> 00:25:35,000
+Come on.
+
+397
+00:25:35,000 --> 00:25:44,000
+Bogans are a race of frog ish insect like goblin beings who want to destroy the entire forest and are enemies of the leaf men.
+
+398
+00:25:44,000 --> 00:25:47,000
+Obviously, of course.
+
+399
+00:25:47,000 --> 00:25:57,000
+And if you if you don't think that everyone in Malaysia is completely familiar with the mythology of the Bogans, then it's you who were out of step.
+
+400
+00:25:57,000 --> 00:26:03,000
+But anyway, if you are a listener in Malaysia, when this opens, if we could request if you could go to the blog.
+
+401
+00:26:03,000 --> 00:26:11,000
+If we could request if you could just double check for us and see if Nimgaloo shows up in one of these two epic based attractions.
+
+402
+00:26:11,000 --> 00:26:16,000
+There's a walk around if he's like, yeah, just painted on something in a merry-go-round fashion.
+
+403
+00:26:16,000 --> 00:26:20,000
+I'm of course disappointed that there isn't a full Nimgaloo attraction.
+
+404
+00:26:20,000 --> 00:26:21,000
+Yeah.
+
+405
+00:26:22,000 --> 00:26:32,000
+Like it's I'm trying to think of a type of like a like the like the Nimgaloo swingamadoo and it's spelled with two U's.
+
+406
+00:26:32,000 --> 00:26:34,000
+Oh, that's good.
+
+407
+00:26:34,000 --> 00:26:41,000
+And then right. And you're about it's like you're it's giving it's like a swing ride and he's giving you the gift of flight.
+
+408
+00:26:41,000 --> 00:26:43,000
+Like you get to fly like him.
+
+409
+00:26:43,000 --> 00:26:46,000
+Maybe I don't know if he flies.
+
+410
+00:26:46,000 --> 00:26:52,000
+But right before it lifts, then you hear Steven Tyler's voice say your dreams about to come true.
+
+411
+00:26:52,000 --> 00:27:00,000
+And then up you lift and then you hear the Steven Tyler like scatty song that he famously does in the movie.
+
+412
+00:27:00,000 --> 00:27:02,000
+Everyone in Malaysia knows the song.
+
+413
+00:27:02,000 --> 00:27:05,000
+If you're a listener in Malaysia, I'm sure you know it.
+
+414
+00:27:05,000 --> 00:27:06,000
+I'm sure you say that. Yeah.
+
+415
+00:27:06,000 --> 00:27:08,000
+It's in your head already.
+
+416
+00:27:08,000 --> 00:27:16,000
+Listen, my knowledge of epic and Nimgaloo is entirely from one like 50 second video.
+
+417
+00:27:16,000 --> 00:27:18,000
+And I don't think I want to go deeper.
+
+418
+00:27:18,000 --> 00:27:20,000
+I don't think I want to know more.
+
+419
+00:27:20,000 --> 00:27:28,000
+I made the mistake of engaging more when I got a plush Nimgaloo on eBay and then it had like bugs in it.
+
+420
+00:27:28,000 --> 00:27:30,000
+I had to put it outside and throw it away.
+
+421
+00:27:30,000 --> 00:27:31,000
+Yeah.
+
+422
+00:27:31,000 --> 00:27:32,000
+I mean, that's a shit.
+
+423
+00:27:32,000 --> 00:27:34,000
+The bugs.
+
+424
+00:27:34,000 --> 00:27:35,000
+Yeah, that's really a shame.
+
+425
+00:27:35,000 --> 00:27:37,000
+I mean, I'm sure the Leafmen.
+
+426
+00:27:37,000 --> 00:27:40,000
+Well, I don't you know, I got to sit down and watch this.
+
+427
+00:27:40,000 --> 00:27:42,000
+They didn't dump it on Disney Plus.
+
+428
+00:27:42,000 --> 00:27:45,000
+Like some Fox stuff just shows up on Disney Plus without much fanfare.
+
+429
+00:27:45,000 --> 00:27:46,000
+Yeah, yeah.
+
+430
+00:27:46,000 --> 00:27:49,000
+Yeah, they don't do a big press release.
+
+431
+00:27:49,000 --> 00:27:50,000
+Epic is here.
+
+432
+00:27:50,000 --> 00:27:51,000
+Yeah.
+
+433
+00:27:51,000 --> 00:27:58,000
+Maybe central to Malaysia, though, they did because they know it's epic mania in Malaysia has been for a decade.
+
+434
+00:27:58,000 --> 00:27:59,000
+Twenty years.
+
+435
+00:27:59,000 --> 00:28:00,000
+When did epic come out?
+
+436
+00:28:00,000 --> 00:28:01,000
+There's no way of knowing.
+
+437
+00:28:01,000 --> 00:28:16,000
+Well, yeah, it came out some point in the 2010s because I used to work a job where we had to dump like high end versions of Fox titles in like a dozen languages on encrypted hard drives and then ship them across town to the Fox lot.
+
+438
+00:28:16,000 --> 00:28:21,000
+It's unclear what this workflow was, but it was high priority.
+
+439
+00:28:21,000 --> 00:28:26,000
+And so I have seen about 50 seconds of epic in a number of languages.
+
+440
+00:28:26,000 --> 00:28:27,000
+Oh, wow.
+
+441
+00:28:27,000 --> 00:28:28,000
+OK, OK.
+
+442
+00:28:29,000 --> 00:28:36,000
+Boy, I just hope the other nation's voices of Nimgaloo sparkled with the same magic as Steven Tyler.
+
+443
+00:28:36,000 --> 00:28:38,000
+We can only hope.
+
+444
+00:28:38,000 --> 00:28:39,000
+Yeah, yeah.
+
+445
+00:28:39,000 --> 00:28:40,000
+I mean, it's he's pretty one of a kind.
+
+446
+00:28:40,000 --> 00:28:45,000
+So look here, Mike's not even here and we're still talking about Steven Tyler.
+
+447
+00:28:45,000 --> 00:28:51,000
+He's just like, you know, he's haunting the podcast, I guess.
+
+448
+00:28:51,000 --> 00:28:57,000
+He's broken both of our brains to where the bad boys of Boston are still a presence.
+
+449
+00:28:57,000 --> 00:28:58,000
+Yeah.
+
+450
+00:28:58,000 --> 00:29:02,000
+But, you know, now it's we got to have some fun without it.
+
+451
+00:29:02,000 --> 00:29:09,000
+We have to see what the listeners think are things that can and should be discussed without him.
+
+452
+00:29:09,000 --> 00:29:10,000
+I don't know what this is.
+
+453
+00:29:10,000 --> 00:29:14,000
+I'm curious what anybody thinks here.
+
+454
+00:29:14,000 --> 00:29:19,000
+What we should do, what they think.
+
+455
+00:29:19,000 --> 00:29:21,000
+Jason and Scott only episode.
+
+456
+00:29:21,000 --> 00:29:23,000
+I wanted to like pose it kind of aggressively.
+
+457
+00:29:23,000 --> 00:29:24,000
+Jason and Scott only.
+
+458
+00:29:24,000 --> 00:29:28,000
+And you figure it out.
+
+459
+00:29:28,000 --> 00:29:29,000
+And I want to see if they figured it out.
+
+460
+00:29:29,000 --> 00:29:32,000
+So I want to find some questions here.
+
+461
+00:29:32,000 --> 00:29:38,000
+Yeah, I I see one right off the bat that we kind of answered Mitchell Williamson on Twitter.
+
+462
+00:29:38,000 --> 00:29:40,000
+These are all coming from Twitter.
+
+463
+00:29:40,000 --> 00:29:43,000
+I asked, what's your annual passes?
+
+464
+00:29:43,000 --> 00:29:44,000
+Scratch that magic keys.
+
+465
+00:29:44,000 --> 00:29:49,000
+Did you each get I got the Enchant key?
+
+466
+00:29:49,000 --> 00:29:55,000
+And Scott is going to get the lowest level.
+
+467
+00:29:55,000 --> 00:29:58,000
+Tell me what I write this on the back of my hand.
+
+468
+00:29:58,000 --> 00:30:01,000
+I have the graphic within search.
+
+469
+00:30:01,000 --> 00:30:03,000
+You're getting the imagine key.
+
+470
+00:30:03,000 --> 00:30:05,000
+You're getting the imagine key.
+
+471
+00:30:05,000 --> 00:30:07,000
+All right. Great.
+
+472
+00:30:07,000 --> 00:30:12,000
+So just remember that it's John Lennon.
+
+473
+00:30:12,000 --> 00:30:14,000
+That's my that's that's my key.
+
+474
+00:30:14,000 --> 00:30:16,000
+What pass would John Lennon get?
+
+475
+00:30:16,000 --> 00:30:17,000
+The imagine key.
+
+476
+00:30:17,000 --> 00:30:19,000
+That's what I'm going to get.
+
+477
+00:30:19,000 --> 00:30:30,000
+OK, so now I'm just going to gravitate to ones with any of our names on it, such as from Matthew Tidster, Matthew T Matt Tidster.
+
+478
+00:30:30,000 --> 00:30:35,000
+The two of you were able to put Mike into any attraction as an animatronic of himself.
+
+479
+00:30:35,000 --> 00:30:38,000
+What attraction do you put him on?
+
+480
+00:30:38,000 --> 00:30:39,000
+Hmm.
+
+481
+00:30:39,000 --> 00:30:42,000
+We add a mic to.
+
+482
+00:30:42,000 --> 00:30:45,000
+I mean, is it so do we put him somewhere here?
+
+483
+00:30:45,000 --> 00:30:49,000
+Do we put him somewhere he doesn't want to be or somewhere he does want to be?
+
+484
+00:30:49,000 --> 00:30:57,000
+Well, I think for visual fun, maybe we put Mike like as like to a scale.
+
+485
+00:30:57,000 --> 00:31:04,000
+Mike animatronic into it's a small world just because there's all these two foot dolls.
+
+486
+00:31:04,000 --> 00:31:08,000
+And then suddenly there's like a six foot tall man.
+
+487
+00:31:08,000 --> 00:31:09,000
+Sure. Yes.
+
+488
+00:31:09,000 --> 00:31:12,000
+Who's telling you about?
+
+489
+00:31:12,000 --> 00:31:21,000
+I don't know. A new kombucha brand or some some points method, some points.
+
+490
+00:31:21,000 --> 00:31:24,000
+No dolls. If I could interrupt the song for a minute.
+
+491
+00:31:24,000 --> 00:31:33,000
+I how how buying action figures will make him money.
+
+492
+00:31:33,000 --> 00:31:38,000
+I know it might make you happier than World Harmony learning about Ethereum.
+
+493
+00:31:38,000 --> 00:31:44,000
+And it's not too late to get in.
+
+494
+00:31:44,000 --> 00:31:48,000
+I yeah, we're somewhere he doesn't want to be.
+
+495
+00:31:48,000 --> 00:31:51,000
+Well, it's what's a Mike spot.
+
+496
+00:31:51,000 --> 00:31:54,000
+I mean, anywhere anywhere with bodyness, I suppose.
+
+497
+00:31:54,000 --> 00:31:59,000
+What's a body spot that he would not enjoy?
+
+498
+00:31:59,000 --> 00:32:01,000
+I guess being well, it's not there anymore.
+
+499
+00:32:01,000 --> 00:32:07,000
+I was going to say being right down the barrel of King Kong's banana breath, which he described as body.
+
+500
+00:32:07,000 --> 00:32:13,000
+One of those moments that I've been obsessed with ever since I get stuck on there, there's there's things I get stuck on.
+
+501
+00:32:13,000 --> 00:32:17,000
+And that is one of them that that is that he considered.
+
+502
+00:32:17,000 --> 00:32:21,000
+And I invite him to we'll pick this up when he's around again.
+
+503
+00:32:21,000 --> 00:32:34,000
+But the idea that that King Kong burping that it's I didn't even think of it as a burp, you know, like I think he always thought of it as like a big gross out moment, almost like akin to a fart.
+
+504
+00:32:34,000 --> 00:32:40,000
+I just never the describing of King Kong's banana breath is body always so bizarre to me.
+
+505
+00:32:40,000 --> 00:32:47,000
+I definitely have moments that I have latched onto is like, well, I'm never going to forget that.
+
+506
+00:32:47,000 --> 00:32:57,000
+But then there's other times where I'm like, I have forgotten more than I've ever remembered from the pod, because every now and then someone will tweet a specific.
+
+507
+00:32:57,000 --> 00:33:03,000
+And if we recorded it a few weeks ago, I'm just like, that was gone by the time I got back to my house.
+
+508
+00:33:03,000 --> 00:33:11,000
+Like that was well, which puts us in the situation sometimes of like telling a story that you have told before.
+
+509
+00:33:11,000 --> 00:33:18,000
+And that boy is that if you are in the middle of doing it and you realize it, there's no more horrible feeling.
+
+510
+00:33:18,000 --> 00:33:26,000
+I or you don't realize it or they're very well may be stories that I've told seven times and I'm not aware.
+
+511
+00:33:26,000 --> 00:33:37,000
+There's a story that Mike might not even might not even realize that he's told a number of times on the podcast, which is this thing about isn't there some story about the plane at the Margaritaville that it was that it was shot at by the Jamaican guy?
+
+512
+00:33:37,000 --> 00:33:40,000
+I feel like he's told this more than once on the podcast.
+
+513
+00:33:40,000 --> 00:33:44,000
+I mean, I know Jimmy Buffett's a pilot. He's like certified.
+
+514
+00:33:44,000 --> 00:33:47,000
+Sometimes he flies planes. Oh, so that's what might get you there.
+
+515
+00:33:47,000 --> 00:33:55,000
+But am I making up this story? It just seems like it seems familiar to me and that it inspired some song.
+
+516
+00:33:55,000 --> 00:34:02,000
+I like Aruba Big screw screw like he got screwed in Aruba.
+
+517
+00:34:02,000 --> 00:34:06,000
+I mean, I wouldn't put it past Mr. Buffett to make a song called Aruba Big Screw.
+
+518
+00:34:06,000 --> 00:34:10,000
+But yes, see, this is why we this is why we need Mike.
+
+519
+00:34:10,000 --> 00:34:21,000
+And I guess piggybacking off that last question, Gravitron Gals tweeted Jason and Scott, please each plus up a ride by increasing body.
+
+520
+00:34:21,000 --> 00:34:30,000
+Oh, oh, no, no kidding. Gravitron guys, are they like a rival or like a equivalent of the bumper car boys?
+
+521
+00:34:30,000 --> 00:34:35,000
+Does this say do we need to look out for Gravitron Gals?
+
+522
+00:34:35,000 --> 00:34:41,000
+It does say your favorite bad girls of theme park podcasting, but there is no link and there's not a picture.
+
+523
+00:34:41,000 --> 00:34:48,000
+So Gravitron Gals, you know, plus up that social media account, you know, if you're getting in the mix, you know.
+
+524
+00:34:48,000 --> 00:34:50,000
+Interesting. OK. Wait, wait. So we're wait.
+
+525
+00:34:50,000 --> 00:34:52,000
+It's the question. We're increasing body. Yeah.
+
+526
+00:34:52,000 --> 00:34:55,000
+Adding some body and this. Hmm.
+
+527
+00:34:55,000 --> 00:35:01,000
+Well, again, all right. So we know that burps is defined as body.
+
+528
+00:35:01,000 --> 00:35:05,000
+What else falls into the body camp for him?
+
+529
+00:35:05,000 --> 00:35:09,000
+What is he? Hmm.
+
+530
+00:35:09,000 --> 00:35:17,000
+Is it swear words or like mild sexuality is like a passing glance or a gentle touch?
+
+531
+00:35:17,000 --> 00:35:22,000
+Even I was going to say like you tender smile.
+
+532
+00:35:22,000 --> 00:35:35,000
+If you just add a little more hotel stuff to the Hollywood Tower Hotel to the Tower of Terror, a little more like, oh, someone, someone went to get ice with their shirt to unbuttoned.
+
+533
+00:35:35,000 --> 00:35:39,000
+Like a man has like a couple top buttons unbuttoned. Oh, that's good. Yeah.
+
+534
+00:35:39,000 --> 00:35:50,000
+Yeah. Yeah. Yeah. Or if there is a scene when you're kind of like setting the scene in the lobby in the video, like, you know, it was a night in 1940, whatever.
+
+535
+00:35:50,000 --> 00:36:01,000
+And like there's a you just throw in a moment apropos of nothing where somebody's a couple's being checked in and like, will that be two queens or one king?
+
+536
+00:36:01,000 --> 00:36:07,000
+The one king will be fine. And then Mike just like kind of like starts to sweat a little bit.
+
+537
+00:36:07,000 --> 00:36:13,000
+He's fanning himself down like, I know, kids are seeing that. I mean, they've got to get that out.
+
+538
+00:36:13,000 --> 00:36:15,000
+It has nothing to do with the story. Why is it even in there?
+
+539
+00:36:15,000 --> 00:36:22,000
+At the very least, you need a quick cutaway to their left hands to see if there's rings on those fingers.
+
+540
+00:36:22,000 --> 00:36:27,000
+If they're willing to go full frame on that marriage license, then I will not object to this scene.
+
+541
+00:36:27,000 --> 00:36:32,000
+But, yeah, that's good. Let's get let's get that in there.
+
+542
+00:36:32,000 --> 00:36:38,000
+And Michael, he'll be more freaked out about that than the drops on the ride. Yes.
+
+543
+00:36:38,000 --> 00:36:43,000
+OK, here's one thing that's more difficult when it's only two people is like somebody finding the questions.
+
+544
+00:36:43,000 --> 00:36:48,000
+Well, here's here's one that's just kind of a practical travel question.
+
+545
+00:36:48,000 --> 00:36:55,000
+If you had one day to go to either Disneyland, California Adventure, not or Universal Hollywood, which would you do?
+
+546
+00:36:55,000 --> 00:36:58,000
+That's a good question. It's from Robert Miller.
+
+547
+00:36:58,000 --> 00:37:04,000
+I don't know why would who would ever say Universal or not? That's insanity.
+
+548
+00:37:04,000 --> 00:37:13,000
+Well, I think I would need the context of like how often have you been to these places before?
+
+549
+00:37:13,000 --> 00:37:19,000
+Because it's like if you hit them, if you haven't hit like knots, I would say like, oh, don't overlook knots.
+
+550
+00:37:19,000 --> 00:37:25,000
+But if you are just in the context of like I'm coming to town for one day,
+
+551
+00:37:25,000 --> 00:37:31,000
+I think I would go with like original Disneyland for like the most well rounded experience.
+
+552
+00:37:31,000 --> 00:37:35,000
+Probably. And yeah, if you haven't done Galaxy's Edge anywhere else.
+
+553
+00:37:35,000 --> 00:37:43,000
+But if you're a constant Florida person, maybe I say California Adventure because it's got stuff that the others don't have as much.
+
+554
+00:37:43,000 --> 00:37:49,000
+So if you're looking for like high end experiences unique to Los Angeles,
+
+555
+00:37:49,000 --> 00:38:03,000
+then that but also but if you want to go to a sock market or a regular fossil, then, you know, don't sleep on Universal.
+
+556
+00:38:03,000 --> 00:38:06,000
+That's true. OK, here's one.
+
+557
+00:38:06,000 --> 00:38:11,000
+And I haven't vetted this. So if this is bad, then we're screwed.
+
+558
+00:38:11,000 --> 00:38:14,000
+We'll cut it. Mike will cut it. Thanks for editing.
+
+559
+00:38:14,000 --> 00:38:25,000
+Gruff McChainsaw has one for both of us. For Jason, which obscure comic strip character should have a dedicated land or attraction in a major theme park?
+
+560
+00:38:25,000 --> 00:38:32,000
+Hmm. Oh, God, that's a tough question.
+
+561
+00:38:32,000 --> 00:38:38,000
+I'm trying to think like what obscure character?
+
+562
+00:38:38,000 --> 00:38:43,000
+I mean, well, Dogpatch, we already had Dogpatch.
+
+563
+00:38:43,000 --> 00:38:57,000
+Little you know what is is you kind of would really blue sky like you kind of do anything with it is the old the very old broad sheet comic strip Little Nemo in Slumberland.
+
+564
+00:38:57,000 --> 00:39:00,000
+Oh, yeah. The kid who dreams and can go anywhere.
+
+565
+00:39:00,000 --> 00:39:06,000
+It's a pretty good video game of that. I think off of the movie, the weird sort of quietly received movie.
+
+566
+00:39:06,000 --> 00:39:09,000
+Oh, I forgot. How old is that move from like an early 90s?
+
+567
+00:39:09,000 --> 00:39:15,000
+OK. Yeah. Yeah. I mean, I think that could be very cool.
+
+568
+00:39:15,000 --> 00:39:20,000
+I also like crazy, crazy cat and Ignat's mouse, like it's which is very simple.
+
+569
+00:39:20,000 --> 00:39:27,000
+Well, comic strip about a mouse throwing a brick at a cat and then being chased by a cop dog.
+
+570
+00:39:27,000 --> 00:39:38,000
+And that but the it gets very bizarre and weird like this is the middle early middle 20th century, but it's very beautifully drawn.
+
+571
+00:39:38,000 --> 00:39:48,000
+And so I think you can see them in Toon Lagoon. I'm not 100 percent, but I think there's I mean, a lot of comic strips throwing a brick throwing a brick.
+
+572
+00:39:48,000 --> 00:39:52,000
+That's always what it is. It's there's usually a brick being thrown.
+
+573
+00:39:52,000 --> 00:40:00,000
+There is there's a comic book award called the Ignat's Awards and everyone gets a brick on a plaque or like a brick with a plaque on it.
+
+574
+00:40:00,000 --> 00:40:06,000
+Oh, there's a thing named after this. So then if it's a themed attraction, is that the equivalent of mouse ears?
+
+575
+00:40:06,000 --> 00:40:11,000
+Like you get a brick hat. Yeah. Yeah. A brick brick hat would be good.
+
+576
+00:40:11,000 --> 00:40:19,000
+Oh, you know what else? You know, I think what's more obscure in that these both have very passionate followings that are very pretty, pretty acclaimed.
+
+577
+00:40:19,000 --> 00:40:25,000
+But in the 2000s, there was a big, you know, boom of web comics.
+
+578
+00:40:25,000 --> 00:40:30,000
+And there's a couple, one called Octopus Pie, one called Museum of Mistakes.
+
+579
+00:40:30,000 --> 00:40:36,000
+I think Julie Wurtz, the cartoonist of the second one, actually follows one of our maybe us on Instagram.
+
+580
+00:40:36,000 --> 00:40:45,000
+But they're both about like being young people and like your shitty apartments in like Brooklyn in the early 2000s, mid 2000s.
+
+581
+00:40:45,000 --> 00:40:58,000
+And I think re experiencing the boom of like Williamsburg, Brooklyn in a theme park environment from like, you know, 2007 to like 2015 or whatever.
+
+582
+00:40:58,000 --> 00:41:04,000
+That's a unique experience. Fake Williamsburg. Interesting. Yeah. Sure. Sure.
+
+583
+00:41:04,000 --> 00:41:10,000
+OK, those are pretty good. I think I have an equivalent question posed to me.
+
+584
+00:41:10,000 --> 00:41:20,000
+And thanks for tracking our interests so well, Gruff. For Scott, which late night host, dead, alive or other, should have a dedicated land or attraction in a major theme park?
+
+585
+00:41:20,000 --> 00:41:32,000
+And the temptation is to go down the Leno path. But when I think about late night hosts that I'm obsessed with, I mean, there's one who really didn't get a full chance to make his mark
+
+586
+00:41:32,000 --> 00:41:39,000
+and who I think should have gone on for far more years than he got to. And that is Magic Johnson and his show, The Magic Hour.
+
+587
+00:41:39,000 --> 00:41:49,000
+Did you ever see The Magic Hour when I where I grew up, the Magic Hour used to come on after like Simpson's syndication.
+
+588
+00:41:49,000 --> 00:41:54,000
+Like, I think did The Magic Hour come on at like eleven thirty? I think Simpson's.
+
+589
+00:41:54,000 --> 00:41:57,000
+That was the talk show time. Makes sense to me.
+
+590
+00:41:57,000 --> 00:42:04,000
+OK, yeah, here's what it was. It was it was on the Fox affiliate. So Fox affiliates, a lot of them do the local news at 10 p.m.
+
+591
+00:42:04,000 --> 00:42:16,000
+And then Simpson's would air at 11. And so I would inevitably watch the first chunk, if not all of The Magic Hour, just because I had the TV on in the summer from watching The Simpsons.
+
+592
+00:42:16,000 --> 00:42:20,000
+Wow. So you'd catch the monologue, you get Magic's take on the news.
+
+593
+00:42:20,000 --> 00:42:28,000
+Yeah, I think I was even like at theater camp one summer and a bunch of us were like, have you guys seen The Magic Hour?
+
+594
+00:42:28,000 --> 00:42:31,000
+And we're like, yeah, he kind of dances out.
+
+595
+00:42:31,000 --> 00:42:37,000
+I think they're probably like as much magic, as much dancing as you want to do.
+
+596
+00:42:37,000 --> 00:42:41,000
+That's great because it fills the time. We know you're not super comfortable with the jokes.
+
+597
+00:42:41,000 --> 00:42:48,000
+So just like I mean, if you want to dance into the next act, if you want a full act to be dancing, if a guest leaves
+
+598
+00:42:49,000 --> 00:42:55,000
+and doesn't or doesn't show up for the day, we'll just fill it with dancing. All good. Don't worry. No pressure, Magic.
+
+599
+00:42:55,000 --> 00:43:03,000
+If you don't know about this, Magic Johnson had a talk show around like 1998 that was just it was a big party.
+
+600
+00:43:03,000 --> 00:43:09,000
+You know, Sheila E's there, you know, banging on Timbales or whatever.
+
+601
+00:43:09,000 --> 00:43:14,000
+It's like they just let her jam as long as she wanted. Stretch pad.
+
+602
+00:43:14,000 --> 00:43:19,000
+It kind of the only interesting thing that ever happened was that Howard Stern made fun of the show a lot and then he had him on
+
+603
+00:43:19,000 --> 00:43:25,000
+and they had a very awkward time together where Howard is very blunt about how the show was bad.
+
+604
+00:43:25,000 --> 00:43:30,000
+And so that's kind of the only thing it really produced.
+
+605
+00:43:30,000 --> 00:43:35,000
+But that's why I do wish that there was a themed attraction on it.
+
+606
+00:43:35,000 --> 00:43:39,000
+I mean, I think that the format of Race Through New York with Jimmy Fallon works so well.
+
+607
+00:43:39,000 --> 00:43:43,000
+A madcap adventure backstage at a talk show.
+
+608
+00:43:43,000 --> 00:43:50,000
+And being that Magic is involved and his name is Magic, what if there's some magic in the air in the attraction?
+
+609
+00:43:50,000 --> 00:43:54,000
+Like there's something or there's a magician on the show that night. I don't know.
+
+610
+00:43:54,000 --> 00:44:01,000
+Or Magic is Magic. Like the thing I've never told anybody till now, till I invited all you guests into my dressing room.
+
+611
+00:44:01,000 --> 00:44:06,000
+You're in Magic's dressing room. That's the pre show. And then I actually am Magic.
+
+612
+00:44:06,000 --> 00:44:11,000
+And then he kind of like blows some magic dust at you or gives you a magic key.
+
+613
+00:44:11,000 --> 00:44:18,000
+If they could have used that term at the time. Oh, yeah. I mean, you can really go anywhere with him going like Magic isn't just my name.
+
+614
+00:44:18,000 --> 00:44:30,000
+It's who I am. There's a reason. And so he maybe the magic shrinks you and then you're running around like, oh, my God, imagine being like lost.
+
+615
+00:44:30,000 --> 00:44:34,000
+Like, like, I lost our guests and they're loose on the set of the Magic Hour.
+
+616
+00:44:34,000 --> 00:44:39,000
+And then you get almost get hit by Sheila E's drumsticks or he's got a basketball and a bound.
+
+617
+00:44:39,000 --> 00:44:44,000
+Maybe you get stuck to the basketball and then it like I assume there was a hoop on the set.
+
+618
+00:44:44,000 --> 00:44:49,000
+You know, you end up you end up going through a hoop. I mean, that'd be crazy to find out what that's like.
+
+619
+00:44:49,000 --> 00:44:54,000
+You get lost in one of Magic's big purple suits.
+
+620
+00:44:54,000 --> 00:45:00,000
+You have to let you're sliding through. It's a simulator. You're like trying to find your way out the pants.
+
+621
+00:45:00,000 --> 00:45:05,000
+I mean, I think that's it. Right itself. Yeah, yeah, yeah.
+
+622
+00:45:05,000 --> 00:45:08,000
+It's pretty. Now, I don't remember what any of Magic's characters were.
+
+623
+00:45:08,000 --> 00:45:14,000
+If there were any. But I, you know, you'd like to get you in there and like any good madcap backstage at a talk show attraction.
+
+624
+00:45:14,000 --> 00:45:21,000
+Of course, you got to go to the moon. Maybe Magic throws a basketball to the moon and you kind of whip around it.
+
+625
+00:45:21,000 --> 00:45:25,000
+Oh, yeah. Yeah. I don't know how Magic was with free throws.
+
+626
+00:45:25,000 --> 00:45:30,000
+But I mean, there's that joke in the Terminator pre show where like Shaq puts in the robot contacts.
+
+627
+00:45:30,000 --> 00:45:33,000
+Right. Love that. And then he can make the three fro. Yeah.
+
+628
+00:45:33,000 --> 00:45:37,000
+Well, he was bad. I think Magic was better. OK. I believe.
+
+629
+00:45:37,000 --> 00:45:41,000
+Well, then he calls it like Babe Ruth. He goes like you're going to the moon.
+
+630
+00:45:41,000 --> 00:45:45,000
+He doesn't free throw. He had the sky hook, I believe, is his move.
+
+631
+00:45:45,000 --> 00:45:49,000
+I forget. Maybe Kareem did the sky hook and he did the baby sky hook.
+
+632
+00:45:49,000 --> 00:45:53,000
+I remember like five facts about basketball for being a child. Sure.
+
+633
+00:45:53,000 --> 00:45:56,000
+So he gives you a sky hook into the sky. Great attraction.
+
+634
+00:45:56,000 --> 00:46:00,000
+That's still. And if that was still there, talk shows off the air, but that's still there.
+
+635
+00:46:00,000 --> 00:46:03,000
+I think that's the best case scenario. Oh, those are always the best.
+
+636
+00:46:03,000 --> 00:46:06,000
+Like you feel it more that like this is still here.
+
+637
+00:46:06,000 --> 00:46:09,000
+Like when it's a TV show, you feel it more. Oh, yeah. Yeah.
+
+638
+00:46:09,000 --> 00:46:14,000
+Attention, everyone. We have we're putting a live episode of Harry and the Hendersons.
+
+639
+00:46:14,000 --> 00:46:18,000
+Still, I love that so much. So thanks for that question.
+
+640
+00:46:18,000 --> 00:46:23,000
+I'm going to keep scanning for our names here. Yeah, I've got one.
+
+641
+00:46:23,000 --> 00:46:28,000
+Oh, this came in through email. Tyler Harper from Alberta writes,
+
+642
+00:46:28,000 --> 00:46:33,000
+I'm going to be making a trip to Disney World for the first time in 13 years.
+
+643
+00:46:33,000 --> 00:46:38,000
+I need an updated opinion from you. Should I stay at Pop Century or off property?
+
+644
+00:46:38,000 --> 00:46:42,000
+Note the Skyliner will not be working for half our trip.
+
+645
+00:46:42,000 --> 00:46:45,000
+Also, how many spare pairs of socks should I pack per day?
+
+646
+00:46:45,000 --> 00:46:48,000
+Now, that's a second half is really more of a bike question.
+
+647
+00:46:48,000 --> 00:46:52,000
+So my rule is like to do a day because it rains so much in Florida
+
+648
+00:46:52,000 --> 00:46:56,000
+even before you factor in the water rides. But he's the sock expert.
+
+649
+00:46:56,000 --> 00:46:58,000
+So he's the sock expert. Yeah.
+
+650
+00:46:58,000 --> 00:47:01,000
+Well, he's always talking about taking his socks on and off. Oh, yeah.
+
+651
+00:47:01,000 --> 00:47:06,000
+Oh, that's the way you want as many as possible to be able to do the slipping on and off. Sure.
+
+652
+00:47:06,000 --> 00:47:10,000
+Yeah. You love your vacation planning questions. I do.
+
+653
+00:47:10,000 --> 00:47:12,000
+This is what you gravitate towards.
+
+654
+00:47:12,000 --> 00:47:21,000
+Well, I think that's really like I would say the Skyliner being closed for half the trip is kind of a big, you know,
+
+655
+00:47:21,000 --> 00:47:24,000
+not a deal breaker, but it's like, oh, that kind of sucks.
+
+656
+00:47:24,000 --> 00:47:28,000
+Like I wouldn't I'm not married to Pop Century.
+
+657
+00:47:28,000 --> 00:47:35,000
+I only stayed there because it was convenient location, you know, adjacent to a Skyliner station when we went down.
+
+658
+00:47:35,000 --> 00:47:38,000
+Yeah, that's the main attraction. So I don't know.
+
+659
+00:47:38,000 --> 00:47:41,000
+I think it's not necessarily like a great hotel either.
+
+660
+00:47:41,000 --> 00:47:48,000
+So if you got a cheaper deal off site. No, I think the like Disney partner hotels around Disney Springs have been very competitive
+
+661
+00:47:48,000 --> 00:47:53,000
+with like pricing and you can get like a it depends on how much if you're going to be blitzing through the parks,
+
+662
+00:47:53,000 --> 00:48:00,000
+like sun up to sun down and you just want the convenience of the on site buses and Skyliner for half the trip.
+
+663
+00:48:00,000 --> 00:48:02,000
+I would say maybe stay on site.
+
+664
+00:48:02,000 --> 00:48:07,000
+But if you like just want to know if you're going to be at the hotel a lot like you could your money will probably go further.
+
+665
+00:48:07,000 --> 00:48:13,000
+It seems like staying off site. Are you like is your dream of the podcast?
+
+666
+00:48:13,000 --> 00:48:19,000
+Is there more room to answer vacation planning questions and hotel specifics?
+
+667
+00:48:19,000 --> 00:48:26,000
+Like, is there a part of it's like if we could sort of eliminate the bits here and there, so just clear a path to know.
+
+668
+00:48:26,000 --> 00:48:30,000
+No, I think I think I think a little bit goes a long way.
+
+669
+00:48:30,000 --> 00:48:32,000
+I do. It's only because it's a mailbag question.
+
+670
+00:48:32,000 --> 00:48:37,000
+And like he he was going down for 13 first time in 13 years.
+
+671
+00:48:37,000 --> 00:48:42,000
+I mean, that's that's the big thing. I guess it's it's what you want your first time in 13 years.
+
+672
+00:48:42,000 --> 00:48:49,000
+Yeah. Yeah. Yeah. To be like, well, that's what I'm just asking, you know, because it's your first time in four years without Mike.
+
+673
+00:48:49,000 --> 00:48:55,000
+And it's you have more half of the agency in the episode. That's true.
+
+674
+00:48:55,000 --> 00:48:58,000
+Yeah, I don't know. Do you think I like the vacation planning most?
+
+675
+00:48:58,000 --> 00:49:01,000
+Because I think Mike is better at some of that.
+
+676
+00:49:01,000 --> 00:49:24,000
+Mm hmm. Well, that's what I want. If like left unabated, is there just like I mean, we know that like like Mike could just spin out a solo episode entirely about bookings and points and money saves and like putting many weeks into ultimately saving eighty dollars.
+
+677
+00:49:24,000 --> 00:49:30,000
+I think he could spin out this episode as a monologue quite handily.
+
+678
+00:49:30,000 --> 00:49:37,000
+Yes. Well, we've talked about what like solo little mini episodes with monologue kind of episodes would look like.
+
+679
+00:49:37,000 --> 00:49:40,000
+Yeah, I think that's what it is. Right.
+
+680
+00:49:40,000 --> 00:49:48,000
+I mean, I do. Yeah, we've also talked about at some point doing like here's a one day itinerary for this part.
+
+681
+00:49:48,000 --> 00:49:53,000
+Like here's you're not going to hit everything, but here's how you do like we have.
+
+682
+00:49:53,000 --> 00:49:54,000
+I've never been talked about.
+
+683
+00:49:54,000 --> 00:49:56,000
+That's come up. I.
+
+684
+00:49:56,000 --> 00:49:59,000
+That's that's the one at some point.
+
+685
+00:49:59,000 --> 00:50:07,000
+Like because we get these. I only bring it up because we've gotten so many emails and messages about like this sort of thing.
+
+686
+00:50:07,000 --> 00:50:10,000
+And and I like talking about like my experiences of doing it.
+
+687
+00:50:10,000 --> 00:50:19,000
+I also like I do it one way with it's just me or if it's me and like Jane or me and you guys and then me and my family.
+
+688
+00:50:19,000 --> 00:50:22,000
+Like my family only has a certain tolerance for this level of shit.
+
+689
+00:50:22,000 --> 00:50:27,000
+We're all getting older. They're like they're like, well, I'm not taking a bus to a boat.
+
+690
+00:50:27,000 --> 00:50:30,000
+What are you talking about? And it's like, yeah, that's fair.
+
+691
+00:50:30,000 --> 00:50:39,000
+When I was with this bachelor party group and we left Disney and we realized we needed to get to the Ticket and Transportation Center and our only options were a massive bus line,
+
+692
+00:50:39,000 --> 00:50:42,000
+a massive monorail line and a massive boat line.
+
+693
+00:50:42,000 --> 00:50:46,000
+It was like hell. Everybody truly was like fury.
+
+694
+00:50:46,000 --> 00:50:48,000
+Everybody was fuming and like what are you talking about?
+
+695
+00:50:48,000 --> 00:50:52,000
+This place has been open for how many decades and they've left us in this situation.
+
+696
+00:50:52,000 --> 00:50:58,000
+We're the only way. Well, someone told us after the fact and I did this in reverse when we were down there.
+
+697
+00:50:58,000 --> 00:51:02,000
+What you really should have done is go over to the contemporary.
+
+698
+00:51:02,000 --> 00:51:08,000
+You walk to the contemporary. You can walk to the contemporary and walk to the contemporary and call a lift from there.
+
+699
+00:51:08,000 --> 00:51:12,000
+OK, you can even walk to the Grand Floridian now. OK, most of the day.
+
+700
+00:51:12,000 --> 00:51:14,000
+Sometimes they get later in the night.
+
+701
+00:51:14,000 --> 00:51:17,000
+They cut the bridge on the contemporary.
+
+702
+00:51:17,000 --> 00:51:24,000
+There's just a crosswalk because I got dropped off at the contemporary one time when I was meeting you guys there in a lift.
+
+703
+00:51:24,000 --> 00:51:29,000
+OK, so that's maybe your little secret spots to not be stuck in these horrendous.
+
+704
+00:51:29,000 --> 00:51:34,000
+It was like hellish. It was I think I think all told.
+
+705
+00:51:35,000 --> 00:51:38,000
+It's like an hour and a half from the gate back to where we were staying.
+
+706
+00:51:38,000 --> 00:51:42,000
+It was like truly the most stressful.
+
+707
+00:51:42,000 --> 00:51:44,000
+Like I guess that's a lesson for the future.
+
+708
+00:51:44,000 --> 00:51:50,000
+Like maybe try to slip out of Disney World like an hour before closing so you don't end up in this.
+
+709
+00:51:50,000 --> 00:51:54,000
+Yeah, my other the other like this is a little longer.
+
+710
+00:51:54,000 --> 00:52:00,000
+But if it's just like yet might look a little conspicuous if 15 people were suddenly walking to the contemporary to call a lift.
+
+711
+00:52:00,000 --> 00:52:05,000
+But it's just like, oh, just get on whatever hotel bus shows up first and call a lift from that hotel.
+
+712
+00:52:05,000 --> 00:52:07,000
+Yeah, that's sort of what we were trying to do.
+
+713
+00:52:07,000 --> 00:52:10,000
+But a lot of people have that plan to. Yes.
+
+714
+00:52:10,000 --> 00:52:16,000
+This is madness. However, they force people into creating mythologies like now, why are we all staying there together?
+
+715
+00:52:16,000 --> 00:52:20,000
+How do we all know each other? Is this a high school reunion?
+
+716
+00:52:24,000 --> 00:52:27,000
+OK, so what else we got here?
+
+717
+00:52:27,000 --> 00:52:30,000
+Well, this one got a lot of likes and I know why.
+
+718
+00:52:33,000 --> 00:52:37,000
+Ayl Shacker. I'm sorry, I don't know how to say your name.
+
+719
+00:52:37,000 --> 00:52:42,000
+Wrote on Twitter, what do you dislike about Mike Carlson?
+
+720
+00:52:42,000 --> 00:52:45,000
+This is not I did see that one before.
+
+721
+00:52:45,000 --> 00:52:48,000
+That's that's this is evil. That's that's pure evil.
+
+722
+00:52:48,000 --> 00:52:52,000
+What a thing to what a thing to ask and propose.
+
+723
+00:52:52,000 --> 00:52:56,000
+I'll say that I'll say that, you know, Mike, you know, sometimes it's a little too selfless.
+
+724
+00:52:56,000 --> 00:52:59,000
+Honestly, got to watch out for himself. He's got to watch out for Mike.
+
+725
+00:52:59,000 --> 00:53:02,000
+Got to watch out for a number one sometimes worries about everyone else.
+
+726
+00:53:02,000 --> 00:53:10,000
+You know, that's the most like my like my biggest issue is that I work too hard.
+
+727
+00:53:10,000 --> 00:53:13,000
+But I'm saying it about him. I'm saying it about someone else.
+
+728
+00:53:13,000 --> 00:53:16,000
+I think that's a compliment when you say it about someone else.
+
+729
+00:53:16,000 --> 00:53:18,000
+If you say it about yourself, it's insane.
+
+730
+00:53:18,000 --> 00:53:21,000
+It's a weird humble brag, but that's interesting. Yeah.
+
+731
+00:53:21,000 --> 00:53:22,000
+Well, you know what? Yes.
+
+732
+00:53:22,000 --> 00:53:26,000
+He's a great friend and a loyal friend to many people in his life.
+
+733
+00:53:26,000 --> 00:53:30,000
+I will turn this around and say nice things about him.
+
+734
+00:53:30,000 --> 00:53:33,000
+That all maybe is the setup for what you're saying.
+
+735
+00:53:33,000 --> 00:53:37,000
+I yeah, I was I was pondering this one.
+
+736
+00:53:37,000 --> 00:53:40,000
+I think like it's not a dislike.
+
+737
+00:53:40,000 --> 00:53:45,000
+It's it's it's an outside observer suggestion that I've made.
+
+738
+00:53:45,000 --> 00:53:48,000
+This has happened off the air has happened in episodes many times.
+
+739
+00:53:49,000 --> 00:53:56,000
+I do feel like Mike cranks up the stress levels so much higher than they need to be cranked.
+
+740
+00:53:56,000 --> 00:54:03,000
+And when scenarios have arisen like the throwing the mini monster drink away,
+
+741
+00:54:03,000 --> 00:54:06,000
+I think I get hung up on them.
+
+742
+00:54:06,000 --> 00:54:11,000
+This is where he was in City Walk and like how do I dispose of this milkshake that I don't want?
+
+743
+00:54:11,000 --> 00:54:14,000
+And he invented a scenario in which everyone is staring at him
+
+744
+00:54:14,000 --> 00:54:18,000
+and there is no option that is a good option for throwing the drink away.
+
+745
+00:54:18,000 --> 00:54:23,000
+I'm I'm eyeing at that. I'm like this is this is 80 percent in your brain.
+
+746
+00:54:23,000 --> 00:54:27,000
+There's got to be a way that you can process stress better,
+
+747
+00:54:27,000 --> 00:54:31,000
+not have phantom stress that's in you that's only in your brain.
+
+748
+00:54:31,000 --> 00:54:36,000
+Because as soon as you say it, at least to me, I believe that the stress is fictional.
+
+749
+00:54:36,000 --> 00:54:41,000
+I well, yeah, I mean, you know, how much how much of that is is him
+
+750
+00:54:42,000 --> 00:54:46,000
+and how much is for like painting a good picture for the show?
+
+751
+00:54:46,000 --> 00:54:49,000
+I don't know. You know, I magnification.
+
+752
+00:54:49,000 --> 00:54:54,000
+My therapy is thought magnification and raising thoughts are a hell of a combination for worry,
+
+753
+00:54:54,000 --> 00:54:56,000
+worry, and stress levels. Sure, sure.
+
+754
+00:54:56,000 --> 00:55:03,000
+But yeah, yeah, I would have I think I would have just yeah, dumped it and then taken it.
+
+755
+00:55:03,000 --> 00:55:06,000
+The souvenir cup back to the car.
+
+756
+00:55:06,000 --> 00:55:09,000
+I think it would have been throwing it away anywhere at all.
+
+757
+00:55:09,000 --> 00:55:12,000
+I think that's the stories that I'm obsessed with.
+
+758
+00:55:12,000 --> 00:55:15,000
+They've come up over and over and here they are again.
+
+759
+00:55:15,000 --> 00:55:23,000
+But where he wouldn't throw away the drink and he and he had to clear his plate at the Liberty Square restaurant.
+
+760
+00:55:23,000 --> 00:55:27,000
+And these are not dislikes. This is not I can't go that that far about it.
+
+761
+00:55:27,000 --> 00:55:31,000
+I think I get hung up on them because like what is it?
+
+762
+00:55:31,000 --> 00:55:33,000
+It's it's it's a lot of dislike. It's an obsession.
+
+763
+00:55:33,000 --> 00:55:37,000
+What is the issue of cleaning his plate and wasting food?
+
+764
+00:55:37,000 --> 00:55:38,000
+What happened here?
+
+765
+00:55:38,000 --> 00:55:41,000
+Well, mommy would be upset if you don't clean your plate.
+
+766
+00:55:41,000 --> 00:55:42,000
+That's what I wonder.
+
+767
+00:55:42,000 --> 00:55:44,000
+That's what I'm trying to drive at is like what?
+
+768
+00:55:44,000 --> 00:55:50,000
+Yeah, there were there was some incident where I'm sure are both of our our mommies taught us this to some extent.
+
+769
+00:55:50,000 --> 00:55:58,000
+But whatever was up with it was so much more extreme that it's like maintained into his theme park going adulthood in a way that I don't think it needs to.
+
+770
+00:55:59,000 --> 00:56:10,000
+Well, unless it goes back to theme parks, unless he just went to the 50s primetime cafe at Hollywood Studios as a very young child where like the waitresses sass you.
+
+771
+00:56:10,000 --> 00:56:11,000
+Oh, yeah.
+
+772
+00:56:11,000 --> 00:56:18,000
+And they like talk about the waitress is like your mom is the idea of that restaurant and like no elbows on the table.
+
+773
+00:56:18,000 --> 00:56:19,000
+Finish your meatloaf.
+
+774
+00:56:19,000 --> 00:56:23,000
+This is a place I have never been to because why?
+
+775
+00:56:23,000 --> 00:56:24,000
+That sounds awful.
+
+776
+00:56:24,000 --> 00:56:25,000
+I have been to.
+
+777
+00:56:25,000 --> 00:56:28,000
+Well, Scott, it is what you ought to do this next time you're in Florida.
+
+778
+00:56:28,000 --> 00:56:33,000
+The bar you could just walk into dad's study, dad's lounge, the bar.
+
+779
+00:56:33,000 --> 00:56:37,000
+What? And you can get like I mean, you're not going to get the peanut butter and jelly milkshake.
+
+780
+00:56:37,000 --> 00:56:39,000
+Let's be real. But you can.
+
+781
+00:56:39,000 --> 00:56:43,000
+Yeah, you can go in the bar and it looks like a fun den.
+
+782
+00:56:43,000 --> 00:56:46,000
+And they just dad.
+
+783
+00:56:46,000 --> 00:56:47,000
+Yeah, you are a dad.
+
+784
+00:56:47,000 --> 00:56:49,000
+And I had no idea there was dad.
+
+785
+00:56:49,000 --> 00:56:50,000
+Oh, yeah.
+
+786
+00:56:50,000 --> 00:56:51,000
+Whoa.
+
+787
+00:56:51,000 --> 00:56:52,000
+I'm so glad to know God.
+
+788
+00:56:52,000 --> 00:56:58,000
+Now I'm dying to go to dad's study and I don't have to like I don't have to sit with the family.
+
+789
+00:56:58,000 --> 00:57:00,000
+I your dad's allowed to.
+
+790
+00:57:00,000 --> 00:57:02,000
+Is it an all dad bar?
+
+791
+00:57:02,000 --> 00:57:05,000
+I I've definitely seen plenty of dads in there.
+
+792
+00:57:05,000 --> 00:57:11,000
+I I don't know what its current up everywhere is operational state still a little fucked up.
+
+793
+00:57:11,000 --> 00:57:15,000
+So this is very like hetero normative, though.
+
+794
+00:57:15,000 --> 00:57:23,000
+The idea that like moms wouldn't want to abandon their families and go drink in a study.
+
+795
+00:57:23,000 --> 00:57:25,000
+It's a very fifties thing for sure.
+
+796
+00:57:25,000 --> 00:57:27,000
+Mom's maybe more than any backwards.
+
+797
+00:57:27,000 --> 00:57:29,000
+Love to go drink in that study.
+
+798
+00:57:29,000 --> 00:57:30,000
+All right.
+
+799
+00:57:30,000 --> 00:57:32,000
+I mean, mom and dad will go drink in the study.
+
+800
+00:57:32,000 --> 00:57:41,000
+Well, and if you know what door to knock on, there's a speakeasy just for pills called mommy's little helper in the alleyway.
+
+801
+00:57:42,000 --> 00:57:44,000
+It just looks like a little industrial vent.
+
+802
+00:57:44,000 --> 00:57:48,000
+But yeah, you do the right amount of knocks a handle just come through with pills.
+
+803
+00:57:48,000 --> 00:57:54,000
+Yeah, I'm sure I'm sure the bar at the Brown Herbie is a little less of a visually stimulate.
+
+804
+00:57:54,000 --> 00:57:57,000
+I'm sure it's a little quieter and more relaxed than that seems nice.
+
+805
+00:57:57,000 --> 00:58:01,000
+I didn't go there, but I thought about it when I was there.
+
+806
+00:58:01,000 --> 00:58:02,000
+So low.
+
+807
+00:58:02,000 --> 00:58:05,000
+Boy, dad's study was just waiting for me and I had no idea.
+
+808
+00:58:05,000 --> 00:58:10,000
+Well, I've learned something and something good came out of the mean question.
+
+809
+00:58:10,000 --> 00:58:13,000
+What do you dislike about Mike Carlson?
+
+810
+00:58:13,000 --> 00:58:14,000
+I don't.
+
+811
+00:58:14,000 --> 00:58:16,000
+That's a good answer, right?
+
+812
+00:58:16,000 --> 00:58:19,000
+It's just it's a concern I have and that's why I err it on the.
+
+813
+00:58:19,000 --> 00:58:25,000
+But if that's if he if look not wasting your food is a good quality to have.
+
+814
+00:58:25,000 --> 00:58:27,000
+It's hard to dislike.
+
+815
+00:58:27,000 --> 00:58:28,000
+Yes.
+
+816
+00:58:28,000 --> 00:58:30,000
+I just think he runs himself through the stress wringer.
+
+817
+00:58:30,000 --> 00:58:32,000
+Waste not want not.
+
+818
+00:58:32,000 --> 00:58:35,000
+You know, here's our names.
+
+819
+00:58:35,000 --> 00:58:40,000
+Dave Oogie says for Scott, are you going to name your next child Botanicus?
+
+820
+00:58:40,000 --> 00:58:47,000
+I remember thinking like, isn't there some like theme parky way to name your child and then going like, what am I?
+
+821
+00:58:47,000 --> 00:58:51,000
+This your your children are not bits.
+
+822
+00:58:51,000 --> 00:58:52,000
+This is insane.
+
+823
+00:58:52,000 --> 00:58:54,000
+This is be insane to.
+
+824
+00:58:54,000 --> 00:58:56,000
+But you know what?
+
+825
+00:58:56,000 --> 00:58:59,000
+You know, child number one is a pretty normal name.
+
+826
+00:58:59,000 --> 00:59:00,000
+Why not go crazy or number two?
+
+827
+00:59:00,000 --> 00:59:01,000
+Sure.
+
+828
+00:59:01,000 --> 00:59:03,000
+Botanicus is the next kid for Jason.
+
+829
+00:59:03,000 --> 00:59:07,000
+When you when you become mayor of Disneyland or hot dogs going to become free.
+
+830
+00:59:07,000 --> 00:59:10,000
+I I would hope so.
+
+831
+00:59:10,000 --> 00:59:16,000
+Yeah. I mean, I feel like Disney kind of the hot dog situation was a little dire a few years ago.
+
+832
+00:59:16,000 --> 00:59:26,000
+I think it's gotten better as they've like started serving them with better bread, maybe like dumping a bunch of crazy stuff on top.
+
+833
+00:59:26,000 --> 00:59:30,000
+I think hot dogs are one of the things like we were there's in Burbank.
+
+834
+00:59:30,000 --> 00:59:32,000
+There's a place called Dog House.
+
+835
+00:59:32,000 --> 00:59:43,000
+It's a pretty fun chain and they there's kind of like an elevated hot dog experience like good Frank's and crazy toppings and they use Hawaiian sweet rolls as the bread.
+
+836
+00:59:43,000 --> 00:59:46,000
+So, yes, I think hot dogs should be free at Disneyland.
+
+837
+00:59:46,000 --> 00:59:48,000
+It's the least they can do.
+
+838
+00:59:48,000 --> 00:59:49,000
+Great little.
+
+839
+00:59:49,000 --> 00:59:51,000
+I mean, who doesn't love that future more?
+
+840
+00:59:51,000 --> 00:59:54,000
+Why not put you in a position to make that happen?
+
+841
+00:59:54,000 --> 00:59:58,000
+Similarly, Sean Clark, Jason, what's the ham situation at your place currently?
+
+842
+00:59:58,000 --> 01:00:00,000
+No ham right now.
+
+843
+01:00:00,000 --> 01:00:02,000
+Got some hot dogs in the freezer.
+
+844
+01:00:04,000 --> 01:00:08,000
+Yeah, I don't I don't think I have any deli meat right now.
+
+845
+01:00:08,000 --> 01:00:10,000
+Wow. No ham in the house.
+
+846
+01:00:10,000 --> 01:00:13,000
+No, I were not our characters, folks.
+
+847
+01:00:13,000 --> 01:00:28,000
+I I I haven't really gotten back into the like deli, you know, slicing fresh sliced deli meat since Kovac, like since, you know, we've been going out more in the last however many number of months and all.
+
+848
+01:00:28,000 --> 01:00:36,000
+So and I find a lot of the prepackaged like deli stuff kind of gross at some places like this already in a box.
+
+849
+01:00:36,000 --> 01:00:37,000
+Yeah, yeah.
+
+850
+01:00:37,000 --> 01:00:38,000
+You can't go to a counter.
+
+851
+01:00:38,000 --> 01:00:43,000
+That's what I've been nothing but like sliced turkey sandwiches the entire time.
+
+852
+01:00:43,000 --> 01:00:45,000
+I completely shifted to that during cope.
+
+853
+01:00:45,000 --> 01:00:50,000
+It's a good like in for like working at home and doing dad stuff at home.
+
+854
+01:00:50,000 --> 01:00:52,000
+It's like a little like pack yourself a sandwich.
+
+855
+01:00:52,000 --> 01:00:53,000
+Oh, yeah.
+
+856
+01:00:53,000 --> 01:00:54,000
+You know what I mean?
+
+857
+01:00:54,000 --> 01:01:04,000
+A lot of is cheese quesadillas just because that's an easy, easy thing like cheese quesadillas and black beans or baked because it's just like so just throw a bean layer in there.
+
+858
+01:01:04,000 --> 01:01:05,000
+We throw together.
+
+859
+01:01:05,000 --> 01:01:06,000
+Yeah, yeah.
+
+860
+01:01:06,000 --> 01:01:07,000
+Yeah.
+
+861
+01:01:07,000 --> 01:01:08,000
+Elevates it a little.
+
+862
+01:01:11,000 --> 01:01:15,000
+This is mean poo jackal from poo jackal.
+
+863
+01:01:15,000 --> 01:01:17,000
+What's your favorite toy?
+
+864
+01:01:17,000 --> 01:01:18,000
+Oh, man.
+
+865
+01:01:18,000 --> 01:01:22,000
+Getting at what your favorites toy.
+
+866
+01:01:22,000 --> 01:01:29,000
+Well, now I'm going to switch it and I'm going to talk about Mike and it's a toy that I is still in the package.
+
+867
+01:01:29,000 --> 01:01:30,000
+I haven't read it.
+
+868
+01:01:30,000 --> 01:01:32,000
+Yes. What's your favorites toy?
+
+869
+01:01:32,000 --> 01:01:34,000
+So you think Mike is your favorite and then what's his toy?
+
+870
+01:01:34,000 --> 01:01:35,000
+No, no.
+
+871
+01:01:35,000 --> 01:01:42,000
+My well, he knows he's my favorite, but he got me for my birthday one year.
+
+872
+01:01:42,000 --> 01:01:46,000
+I think he founded it at like a collectible shop or a toy shop in Burbank.
+
+873
+01:01:46,000 --> 01:01:57,000
+It's it's a McFarland toys action figure of Todd McFarland of Todd, the artist wearing like a leather jacket and fingerless gloves.
+
+874
+01:01:57,000 --> 01:02:00,000
+And it's it's just such an interest.
+
+875
+01:02:00,000 --> 01:02:05,000
+Todd McFarland is such an interesting guy, such a character.
+
+876
+01:02:05,000 --> 01:02:10,000
+So to have his toy brand make a toy of him.
+
+877
+01:02:10,000 --> 01:02:14,000
+Oh, that was only available in the collectors club like that.
+
+878
+01:02:14,000 --> 01:02:19,000
+You would mail away for this with like, you know, barcodes and stuff.
+
+879
+01:02:19,000 --> 01:02:22,000
+It is it is truly a sight to behold.
+
+880
+01:02:22,000 --> 01:02:24,000
+Wow. Wow. Yeah.
+
+881
+01:02:24,000 --> 01:02:32,000
+Hey, Mike, also, he's gotten me the a bunch now of those really good back to the future toys.
+
+882
+01:02:32,000 --> 01:02:36,000
+What's the what's the brand? The really good action figure is that NECA?
+
+883
+01:02:36,000 --> 01:02:44,000
+Yeah, yeah, yeah. The NECA toys, not to mention a stuffed Doc Brown and stuffed DeLorean for my son.
+
+884
+01:02:44,000 --> 01:02:47,000
+Very sweet. Great gestures.
+
+885
+01:02:47,000 --> 01:02:50,000
+So look, more nice that Mike, you do great things for us.
+
+886
+01:02:50,000 --> 01:02:54,000
+We appreciate thank you.
+
+887
+01:02:54,000 --> 01:02:58,000
+Thank you to you, our favorite for our toys.
+
+888
+01:02:58,000 --> 01:03:01,000
+What have we?
+
+889
+01:03:02,000 --> 01:03:04,000
+What else we got here?
+
+890
+01:03:04,000 --> 01:03:06,000
+Well, here's a quick one.
+
+891
+01:03:06,000 --> 01:03:14,000
+Justin Dumbledore Mamu, I think that's a pretty good pun,
+
+892
+01:03:14,000 --> 01:03:21,000
+says, which on property hotel resort has the best lobby?
+
+893
+01:03:21,000 --> 01:03:24,000
+Wait for him. And that's Disney World.
+
+894
+01:03:24,000 --> 01:03:28,000
+I think just any I'm going to go ahead and say Disney World or Disneyland.
+
+895
+01:03:28,000 --> 01:03:30,000
+He doesn't specify.
+
+896
+01:03:30,000 --> 01:03:32,000
+It's the best lobby.
+
+897
+01:03:32,000 --> 01:03:34,000
+Grand Californians, pretty great.
+
+898
+01:03:34,000 --> 01:03:36,000
+Grand Floridians, pretty great.
+
+899
+01:03:36,000 --> 01:03:40,000
+Maybe that's those grands. Maybe it's it's a duel between the grands.
+
+900
+01:03:40,000 --> 01:03:42,000
+Yeah. I mean, I really like the grand.
+
+901
+01:03:42,000 --> 01:03:45,000
+The boardwalk in as a good lobby.
+
+902
+01:03:45,000 --> 01:03:52,000
+I'll tell you this, the old Polynesian lobby with the big waterfall that they've they've cut it out and simplified it a little.
+
+903
+01:03:52,000 --> 01:03:57,000
+But the original Polynesian lobby, like my family was always really wild for it.
+
+904
+01:03:57,000 --> 01:04:04,000
+If you want more of a lobby talk, then lobby for it.
+
+905
+01:04:04,000 --> 01:04:10,000
+When we treat these questions, I let's see.
+
+906
+01:04:10,000 --> 01:04:14,000
+We did bodyness.
+
+907
+01:04:14,000 --> 01:04:17,000
+Question, what have you done with Mike?
+
+908
+01:04:17,000 --> 01:04:21,000
+The jigs up. We banished him back to he was too polite.
+
+909
+01:04:21,000 --> 01:04:25,000
+He was like, look, buddy, you got to chatty Cathy's for co-hosts.
+
+910
+01:04:25,000 --> 01:04:28,000
+OK, you're a polite Midwestern boy. You go back to the Midwest.
+
+911
+01:04:28,000 --> 01:04:30,000
+We banished him back to Schomburg.
+
+912
+01:04:30,000 --> 01:04:40,000
+Go finish all the plates that you never when we talked to him the other day, he said he had a Lou Malnati pizza order coming to his family's house.
+
+913
+01:04:40,000 --> 01:04:45,000
+Yeah. And I was texting with him one day and he said they were heading to the racetrack.
+
+914
+01:04:45,000 --> 01:04:50,000
+So I think it's a local racetrack that was closing down.
+
+915
+01:04:50,000 --> 01:04:54,000
+So they wanted to stop by before closing.
+
+916
+01:04:54,000 --> 01:04:59,000
+But I was like, I don't I don't think it's dog racing.
+
+917
+01:04:59,000 --> 01:05:04,000
+I don't know what kind of racing it is, but I think it was more like, hey, that local spot is closing.
+
+918
+01:05:04,000 --> 01:05:07,000
+We should swing by. So it was just such a funny specific.
+
+919
+01:05:07,000 --> 01:05:13,000
+Oh, no, we're through the looking glass here. Now, the Carlson's are scumbags.
+
+920
+01:05:13,000 --> 01:05:16,000
+They're they're they're characters on the short lived TV show.
+
+921
+01:05:16,000 --> 01:05:25,000
+Look, they're all about they they put on this facade about about manners in their day to day life.
+
+922
+01:05:25,000 --> 01:05:27,000
+Make sure you spread these stories on the podcast.
+
+923
+01:05:27,000 --> 01:05:31,000
+They don't know that we're a bunch of deviant cock racers.
+
+924
+01:05:31,000 --> 01:05:35,000
+They all they make roosters race. That's right.
+
+925
+01:05:35,000 --> 01:05:38,000
+They're all about the roosters and the ponies.
+
+926
+01:05:38,000 --> 01:05:42,000
+We figured it out. Stay stay in Schomburg.
+
+927
+01:05:42,000 --> 01:05:45,000
+Stay with your roosters. Do your evil deeds.
+
+928
+01:05:45,000 --> 01:05:47,000
+I don't think anything else to go out on.
+
+929
+01:05:47,000 --> 01:05:49,000
+We've done a lot here. Anything.
+
+930
+01:05:49,000 --> 01:05:51,000
+I mean, I'm veering to one specific about us.
+
+931
+01:05:51,000 --> 01:05:56,000
+But what Jersey boardwalks versus SoCal boardwalks, which wins?
+
+932
+01:05:56,000 --> 01:05:59,000
+Oh, I mean, I'm of course going to say Jersey.
+
+933
+01:05:59,000 --> 01:06:02,000
+I mean, I think it's not really boardwalks per se.
+
+934
+01:06:02,000 --> 01:06:04,000
+There's a couple of peers that have one restaurant.
+
+935
+01:06:04,000 --> 01:06:08,000
+But and like, I mean, that you can.
+
+936
+01:06:08,000 --> 01:06:10,000
+I think there's a lot more variety in Jersey.
+
+937
+01:06:10,000 --> 01:06:12,000
+There's like tiny boardwalks or promenades.
+
+938
+01:06:12,000 --> 01:06:16,000
+And then there's like island, nearly island long boardwalks.
+
+939
+01:06:16,000 --> 01:06:21,000
+That's like, oh, most of the businesses in this town are on the boardwalk.
+
+940
+01:06:21,000 --> 01:06:24,000
+So it's kind of a different beast.
+
+941
+01:06:24,000 --> 01:06:31,000
+OK, here, Gruff McChainsaw says, if you could swap one attraction out from Disneyland
+
+942
+01:06:31,000 --> 01:06:36,000
+with its equivalent in any other park in the world, which one would you choose?
+
+943
+01:06:36,000 --> 01:06:39,000
+Wait, wait, say that one more time.
+
+944
+01:06:39,000 --> 01:06:45,000
+If you could swap one attraction out from Disneyland with its equivalent from any other park in the world,
+
+945
+01:06:45,000 --> 01:06:46,000
+which would you choose?
+
+946
+01:06:46,000 --> 01:06:51,000
+I mean, I think the long time answer up to a few years ago would have been swap.
+
+947
+01:06:51,000 --> 01:06:55,000
+Put the Florida Tower Tower. Yeah. Yeah.
+
+948
+01:06:55,000 --> 01:06:59,000
+Which now, yeah, I don't know if you'd say that with Guardians,
+
+949
+01:06:59,000 --> 01:07:01,000
+because Guardians is cool in its own thing.
+
+950
+01:07:01,000 --> 01:07:03,000
+It'd be nice to have like the room travel.
+
+951
+01:07:03,000 --> 01:07:05,000
+What's better?
+
+952
+01:07:05,000 --> 01:07:10,000
+I mean, if only there was more space.
+
+953
+01:07:10,000 --> 01:07:13,000
+It feels silly to change Big Thunder,
+
+954
+01:07:13,000 --> 01:07:17,000
+but I do think the Big Thunder's in Disney World and Paris are better
+
+955
+01:07:17,000 --> 01:07:20,000
+because they have more space to explore.
+
+956
+01:07:20,000 --> 01:07:25,000
+But I kind of like that little cozy Disneyland Big Thunder too.
+
+957
+01:07:25,000 --> 01:07:29,000
+What did they get better?
+
+958
+01:07:29,000 --> 01:07:33,000
+Gosh, that's a tough one.
+
+959
+01:07:33,000 --> 01:07:34,000
+Space Mountain.
+
+960
+01:07:34,000 --> 01:07:36,000
+Well, it'd be nice to like have some with that other.
+
+961
+01:07:36,000 --> 01:07:41,000
+Now I want to go on Paris Space Mountain because I didn't do it because I was afraid of cat when I was there.
+
+962
+01:07:41,000 --> 01:07:45,000
+So if it was a more intense, but I'd miss our current Space Mountain.
+
+963
+01:07:45,000 --> 01:07:46,000
+Oh, you know what?
+
+964
+01:07:46,000 --> 01:07:53,000
+I would trade in the empty track that is crumbling throughout Tomorrowland for a working people move.
+
+965
+01:07:53,000 --> 01:07:54,000
+Oh, man.
+
+966
+01:07:54,000 --> 01:07:56,000
+Well, that said, the people move in Florida.
+
+967
+01:07:56,000 --> 01:07:59,000
+Apparently they've reopened it finally, but it's been breaking down a lot.
+
+968
+01:07:59,000 --> 01:08:01,000
+So I don't know what the story with that is.
+
+969
+01:08:01,000 --> 01:08:02,000
+Oh, no.
+
+970
+01:08:02,000 --> 01:08:06,000
+So if you're asking what we did with Mike and then there.
+
+971
+01:08:06,000 --> 01:08:08,000
+But there's also the question I've gotten the question.
+
+972
+01:08:08,000 --> 01:08:10,000
+What have you done about living with the land?
+
+973
+01:08:10,000 --> 01:08:17,000
+It seems like living with the land is was closed mysteriously for a while, sort of without explanation.
+
+974
+01:08:17,000 --> 01:08:21,000
+I heard it was flooded, but I think it's real now.
+
+975
+01:08:21,000 --> 01:08:23,000
+OK, OK.
+
+976
+01:08:23,000 --> 01:08:26,000
+And they don't know who caused the flood.
+
+977
+01:08:26,000 --> 01:08:27,000
+They don't know.
+
+978
+01:08:27,000 --> 01:08:36,000
+There's no video of somebody like running in one sec, like really like wearing all black,
+
+979
+01:08:36,000 --> 01:08:41,000
+only their eyes are visible, kind of stealthily sneaking in, like opening up a pipe and letting it go
+
+980
+01:08:41,000 --> 01:08:45,000
+and then getting out of there and going to hide in dad's study.
+
+981
+01:08:45,000 --> 01:08:48,000
+Well, that boy, that's really specific, but I don't I hope not.
+
+982
+01:08:48,000 --> 01:08:52,000
+So that doesn't seem that doesn't ring the bell as like a familiar tale.
+
+983
+01:08:52,000 --> 01:08:57,000
+Not the normal like, you know, rumor mongers I've encountered anything like that.
+
+984
+01:08:57,000 --> 01:08:58,000
+Why do you ask?
+
+985
+01:08:58,000 --> 01:08:59,000
+Oh, no, no reason.
+
+986
+01:08:59,000 --> 01:09:03,000
+I was kind of like inventing something just just for fun, like a fun little.
+
+987
+01:09:03,000 --> 01:09:05,000
+Oh, like a little flight of fancy.
+
+988
+01:09:05,000 --> 01:09:07,000
+Yeah, yeah, yeah, yeah.
+
+989
+01:09:07,000 --> 01:09:11,000
+But no like no prints, no security camera footage.
+
+990
+01:09:11,000 --> 01:09:18,000
+This isn't like something people are mad about, like stealing buzzy's clothes from it's not because it's not going viral or anything.
+
+991
+01:09:18,000 --> 01:09:19,000
+This thing that doesn't exist.
+
+992
+01:09:19,000 --> 01:09:20,000
+I'm making that up.
+
+993
+01:09:20,000 --> 01:09:27,000
+Yeah, I think I. Yeah, I think you're you're you're one of those Mike stress situations now that you seem like you've made up whole cloth.
+
+994
+01:09:27,000 --> 01:09:30,000
+Oh, geez. I'm just I'm like I'm becoming him.
+
+995
+01:09:30,000 --> 01:09:35,000
+Yeah. Huh. God. Why do I have the sudden desire to go clear a plate?
+
+996
+01:09:35,000 --> 01:09:39,000
+I well, it is it is an early lunchtime.
+
+997
+01:09:39,000 --> 01:09:43,000
+So maybe get to it. Yeah.
+
+998
+01:09:43,000 --> 01:09:47,000
+OK. Few. OK. I need to relax a little bit.
+
+999
+01:09:47,000 --> 01:09:52,000
+It seems like I got away with it or I mean, I got somebody got nobody got away with anything.
+
+1000
+01:09:52,000 --> 01:09:53,000
+Anything else we want to hit before we.
+
+1001
+01:09:53,000 --> 01:09:57,000
+I mean, I think if you have anything last questions, I think we've had a lot of them.
+
+1002
+01:09:57,000 --> 01:09:59,000
+I mean, here's a weird.
+
+1003
+01:09:59,000 --> 01:10:01,000
+Well, here's one thing.
+
+1004
+01:10:01,000 --> 01:10:03,000
+Somebody just tweeted with a Simpsons gift.
+
+1005
+01:10:03,000 --> 01:10:09,000
+Where's Mike? When Mike isn't there, all the other guys should be asking, where's Mike?
+
+1006
+01:10:09,000 --> 01:10:11,000
+This is a reference to the poochie scene.
+
+1007
+01:10:11,000 --> 01:10:16,000
+And it did sort of happen as he did loom throughout it.
+
+1008
+01:10:16,000 --> 01:10:29,000
+Hey, what if the thing that we both like separately as a unit, the you and I, our most common interest is Mike.
+
+1009
+01:10:29,000 --> 01:10:31,000
+Isn't that wonderful? Yeah.
+
+1010
+01:10:31,000 --> 01:10:35,000
+Wow. Gee, I mean, I hope people have got to be tearing up about that.
+
+1011
+01:10:35,000 --> 01:10:43,000
+What they just heard. Like I know everybody's all cried out from Steve from Blue's Clues and saying you never forgot.
+
+1012
+01:10:43,000 --> 01:10:48,000
+I knew I didn't want to start crying on the podcast because I talked about Stephen Blue's Clues.
+
+1013
+01:10:48,000 --> 01:10:53,000
+But when he when he said that he never forgot us, that just, you know, that really hit me.
+
+1014
+01:10:53,000 --> 01:11:04,000
+That hit me right here. And now this moment that we've had about Mike, I just hope Mike comes back and tells us that while he was gone in Schomburg for two weeks that he never forgot us.
+
+1015
+01:11:04,000 --> 01:11:11,000
+And then and then we can all, you know, hold hands and listen to the Steve from Blue's Clues song.
+
+1016
+01:11:11,000 --> 01:11:15,000
+That's the theme song to Young Sheldon, right? What?
+
+1017
+01:11:15,000 --> 01:11:23,000
+Well, of course, as you probably remember, Steve put out a solo album produced by a guy from the Flaming Lips.
+
+1018
+01:11:23,000 --> 01:11:28,000
+Yeah, one of the songs from that is the theme song to Young Sheldon.
+
+1019
+01:11:28,000 --> 01:11:30,000
+The theme song of Young Sheldon? That's right.
+
+1020
+01:11:30,000 --> 01:11:32,000
+Really? Yeah. Wow.
+
+1021
+01:11:32,000 --> 01:11:40,000
+So so what you're saying is that via songwriting residuals and Nickelodeon residuals, Steve has all the money in the unit.
+
+1022
+01:11:40,000 --> 01:11:42,000
+Steve is rich as fuck.
+
+1023
+01:11:42,000 --> 01:11:47,000
+Probably more the songwriting residuals as we've learned about some of our Nickelodeon research.
+
+1024
+01:11:47,000 --> 01:11:50,000
+The residuals did not exactly come fast and furious.
+
+1025
+01:11:50,000 --> 01:11:54,000
+Oh, that's right. Oh, yes. We've spoken to Nickelodeon people who yeah, yeah, yeah.
+
+1026
+01:11:54,000 --> 01:11:56,000
+I mean, it was a little bit of a trick.
+
+1027
+01:11:56,000 --> 01:12:06,000
+Well, God, I mean, if Steve is rich and he doesn't and he never forgot us, I mean, being rich is a great excuse to never forget people.
+
+1028
+01:12:06,000 --> 01:12:19,000
+That's true. And hopefully it helped him pay off those student loans, which I saw a lot of people hooting that he mentioned, like, been through a lot, having our own families, houses, student loans.
+
+1029
+01:12:19,000 --> 01:12:22,000
+Yeah, you talked about student loans in the video.
+
+1030
+01:12:22,000 --> 01:12:26,000
+Yeah, I saw enough people talking about that. I was like, wait, I haven't seen this video yet.
+
+1031
+01:12:26,000 --> 01:12:31,000
+Does he just talk about student loans? And I was like, oh, no, he says it really fast in a list.
+
+1032
+01:12:31,000 --> 01:12:35,000
+We do get to hear a lot about Steve's college experience.
+
+1033
+01:12:35,000 --> 01:12:38,000
+Yeah, he makes it's kind of all about Steve, honestly.
+
+1034
+01:12:38,000 --> 01:12:41,000
+And then we us are an afterthought. Everybody's crying about it.
+
+1035
+01:12:41,000 --> 01:12:44,000
+But then he's kind of like, and you you're doing good, too.
+
+1036
+01:12:44,000 --> 01:12:49,000
+And like, you look good. And anyway, but of course, it got me.
+
+1037
+01:12:49,000 --> 01:12:56,000
+I mean, I have been you can probably tell my eyes are puffy from having cried all week about the Steve video.
+
+1038
+01:12:56,000 --> 01:13:10,000
+Sure. And I'm just going to be right back at it again when Mike comes back and just hey, Mike, if you're listening in all these weeks where we talked to you several days ago, we never forgot you.
+
+1039
+01:13:10,000 --> 01:13:17,000
+Jason, you didn't forget Mike now, did you? I didn't forget Mike. I didn't forget Mike or student loans.
+
+1040
+01:13:17,000 --> 01:13:22,000
+We're so sorry about the student loans, but we never forgot them and we never forgot you.
+
+1041
+01:13:22,000 --> 01:13:29,000
+So, yeah, I did go get ice once at a hotel with just my socks on.
+
+1042
+01:13:29,000 --> 01:13:32,000
+And I'm sorry about that level of body. That's a little body.
+
+1043
+01:13:32,000 --> 01:13:36,000
+But I mean, clothes, also all other clothes still on, but no shoes.
+
+1044
+01:13:36,000 --> 01:13:39,000
+And I know you think that's disgusting.
+
+1045
+01:13:39,000 --> 01:13:42,000
+It does imply that you would partially stripped.
+
+1046
+01:13:42,000 --> 01:13:47,000
+So you you were you stripped and then walked through a hotel lobby. Yeah.
+
+1047
+01:13:47,000 --> 01:13:58,000
+It all hotel hallway. That's the thing he never talks about is that when he switches, takes his socks off real quick at on the water rides, he hisses because he's so disgusted by what he's doing.
+
+1048
+01:13:58,000 --> 01:14:03,000
+He like hisses like a snake threatening warning you.
+
+1049
+01:14:04,000 --> 01:14:09,000
+And mutters dirty boy to himself.
+
+1050
+01:14:09,000 --> 01:14:15,000
+Dirty boy left a full plate for mommy to clean. No, no, no, no.
+
+1051
+01:14:15,000 --> 01:14:20,000
+Mommy said, don't be a dirty, damp boy.
+
+1052
+01:14:20,000 --> 01:14:23,000
+Would Optimus Prime be proud of a dirty, damp boy?
+
+1053
+01:14:23,000 --> 01:14:27,000
+No, he would forget about us. He would forget.
+
+1054
+01:14:27,000 --> 01:14:30,000
+But we would never. Mike, we never forgot you.
+
+1055
+01:14:30,000 --> 01:14:32,000
+We hope that you never forgot us.
+
+1056
+01:14:32,000 --> 01:14:37,000
+Audience, thanks for never forgetting to respond to our mailbag questions.
+
+1057
+01:14:37,000 --> 01:14:43,000
+You survived podcast The Ride the Second Gate and we survived one just you and I.
+
+1058
+01:14:43,000 --> 01:14:47,000
+And, you know, yeah, we'll be happy to have Mike back.
+
+1059
+01:14:47,000 --> 01:14:53,000
+But if push came to shove, like if we pushed or shoved Mike off of a cliff.
+
+1060
+01:14:53,000 --> 01:14:58,000
+Into whatever tool has been going on and off in the distance.
+
+1061
+01:14:58,000 --> 01:15:00,000
+While we've been doing. Yeah.
+
+1062
+01:15:00,000 --> 01:15:01,000
+A lot of them.
+
+1063
+01:15:01,000 --> 01:15:10,000
+Invite him to my house and then push or shove him into the buzz saw that a neighbor is working on so that our cuts of the Patreon money are bigger.
+
+1064
+01:15:10,000 --> 01:15:22,000
+Well, then we just now we I'm saying that now we know we can carry it just the two of us, not saying we want to do that, not saying that anybody was sneaking around living with the land and caused a big flood there.
+
+1065
+01:15:22,000 --> 01:15:26,000
+It's the we're not we're not we're not saying anything.
+
+1066
+01:15:26,000 --> 01:15:28,000
+I did say that Randy Gerber is a piece of shit.
+
+1067
+01:15:28,000 --> 01:15:30,000
+I'll make sure Mike never forget that.
+
+1068
+01:15:30,000 --> 01:15:34,000
+But we never forgot you and just nobody ever forget anything.
+
+1069
+01:15:34,000 --> 01:15:37,000
+That's right. That's the message we want to deliver here.
+
+1070
+01:15:37,000 --> 01:15:38,000
+So thanks for listening.
+
+1071
+01:15:38,000 --> 01:15:41,000
+Never forget to keep listening and keep subscribing.
+
+1072
+01:15:41,000 --> 01:15:43,000
+Bye bye.
+

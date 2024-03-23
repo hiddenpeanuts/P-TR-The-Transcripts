@@ -1,0 +1,7804 @@
+1
+00:00:00,000 --> 00:00:01,000
+Forever.
+
+2
+00:00:01,000 --> 00:00:02,000
+Dog.
+
+3
+00:00:02,000 --> 00:00:13,000
+Warning, the following podcast may contain soup being bowled for, puppets doing G-Funk,
+
+4
+00:00:13,000 --> 00:00:18,800
+and literal explosions in a place that builds rock-o-fire explosions.
+
+5
+00:00:18,800 --> 00:00:22,000
+Jamie Loftus joins us for a long-awaited topic.
+
+6
+00:00:22,000 --> 00:00:26,240
+At last, it's Chuck E. Cheese on Podcast The Ride.
+
+7
+00:00:30,000 --> 00:00:52,600
+Welcome to Podcast The Ride, the show where a childless person in their 30s can be a kid.
+
+8
+00:00:52,600 --> 00:00:56,320
+I'm Jason Sheridan, joined as always by Mike Carlson.
+
+9
+00:00:56,320 --> 00:00:57,320
+Yes, hello.
+
+10
+00:00:57,320 --> 00:00:58,320
+And Scott Gertner.
+
+11
+00:00:58,640 --> 00:01:00,640
+Sure can, and always are.
+
+12
+00:01:00,640 --> 00:01:04,640
+And our special guest today, one of the co-hosts of the Bechtel?
+
+13
+00:01:04,640 --> 00:01:05,640
+Bechtel.
+
+14
+00:01:05,640 --> 00:01:06,640
+Bechtel.
+
+15
+00:01:06,640 --> 00:01:08,080
+I knew I should have checked that.
+
+16
+00:01:08,080 --> 00:01:10,000
+The Bechtel cast, it's Jamie Loftus.
+
+17
+00:01:10,000 --> 00:01:11,000
+Hi Jamie.
+
+18
+00:01:11,000 --> 00:01:12,000
+Thanks for having me.
+
+19
+00:01:12,000 --> 00:01:13,000
+I'm so excited.
+
+20
+00:01:13,000 --> 00:01:14,000
+I'm a fan.
+
+21
+00:01:14,000 --> 00:01:15,000
+Oh, thank you.
+
+22
+00:01:15,000 --> 00:01:16,000
+Oh, thank you.
+
+23
+00:01:16,000 --> 00:01:17,000
+Oh, thank you.
+
+24
+00:01:17,000 --> 00:01:18,000
+We appreciate it.
+
+25
+00:01:18,000 --> 00:01:23,000
+And we're a fan of your work on this topic, on today's topic.
+
+26
+00:01:23,000 --> 00:01:24,000
+Thanks.
+
+27
+00:01:24,680 --> 00:01:30,520
+Yes, you've wonderfully condensed all of this maddening history and written some great articles
+
+28
+00:01:30,520 --> 00:01:31,520
+about it.
+
+29
+00:01:31,520 --> 00:01:38,120
+You can really identify a span of a couple months where I was very underemployed in 2017
+
+30
+00:01:38,120 --> 00:01:43,640
+based on the sheer volume of what I wrote about this topic.
+
+31
+00:01:43,640 --> 00:01:46,640
+And just wandering Chuck E. Cheese's in a blur.
+
+32
+00:01:46,640 --> 00:01:51,920
+Summer of 2017 was not inner personally my best, but the work was decent.
+
+33
+00:01:52,400 --> 00:01:54,520
+You made new friends at the Chuck E. Cheese.
+
+34
+00:01:54,520 --> 00:01:55,520
+I did, yeah.
+
+35
+00:01:55,520 --> 00:01:56,520
+I love Chuck E. Cheese.
+
+36
+00:01:56,520 --> 00:01:57,520
+Met some people.
+
+37
+00:01:57,520 --> 00:02:01,240
+I wish I was like, and now we're married.
+
+38
+00:02:01,240 --> 00:02:02,240
+That would be sick.
+
+39
+00:02:02,240 --> 00:02:08,800
+Well, as we know, there's wonderful relationships that came together because of animatronic
+
+40
+00:02:08,800 --> 00:02:09,800
+robots.
+
+41
+00:02:09,800 --> 00:02:15,960
+This is dealt with in the documentary, The Rock of Fire Explosion.
+
+42
+00:02:15,960 --> 00:02:18,560
+They bring people together.
+
+43
+00:02:18,560 --> 00:02:23,280
+And actually, there's a perfect thing I realize we need to talk to you about before we super
+
+44
+00:02:23,280 --> 00:02:31,040
+dive into the topic, because it's applicable to your podcast and to today's topic.
+
+45
+00:02:31,040 --> 00:02:37,680
+So you do the Bechtel cast, which is based around the Bechtel test, which is about measuring
+
+46
+00:02:37,680 --> 00:02:39,160
+representation of women in media.
+
+47
+00:02:39,160 --> 00:02:44,120
+And it's mainly due to women in a movie or TV show talk to each other about something
+
+48
+00:02:44,120 --> 00:02:45,120
+besides a man.
+
+49
+00:02:45,120 --> 00:02:48,160
+That's sort of the main definition of it.
+
+50
+00:02:48,960 --> 00:02:52,160
+We stumbled upon something a little while ago.
+
+51
+00:02:52,160 --> 00:03:00,800
+We have our own sort of theme park version of this that is based not so much in how present
+
+52
+00:03:00,800 --> 00:03:05,760
+is the character in the narrative, but it's mainly about names.
+
+53
+00:03:05,760 --> 00:03:13,520
+It's mainly about do female characters in theme park attractions or in themed entertainment
+
+54
+00:03:13,520 --> 00:03:16,480
+have as interesting of names as the men?
+
+55
+00:03:16,880 --> 00:03:20,000
+Because that's like a part of for the way we use the Bechtel test.
+
+56
+00:03:20,000 --> 00:03:22,800
+That's a part of what we use to is like, do the women have names?
+
+57
+00:03:22,800 --> 00:03:23,520
+Oh, OK.
+
+58
+00:03:23,520 --> 00:03:24,160
+A lot of time.
+
+59
+00:03:24,160 --> 00:03:24,880
+That is a component of it.
+
+60
+00:03:24,880 --> 00:03:25,440
+Oh, for sure.
+
+61
+00:03:25,440 --> 00:03:26,080
+OK, OK.
+
+62
+00:03:26,080 --> 00:03:30,240
+Yeah, because ours is specifically like we stumbled upon it during the Waterworld
+
+63
+00:03:30,240 --> 00:03:35,680
+stunt show because there's like the Deacon and the Mariner.
+
+64
+00:03:35,680 --> 00:03:37,520
+And then the woman's name is Helen.
+
+65
+00:03:37,520 --> 00:03:38,020
+Helen.
+
+66
+00:03:38,720 --> 00:03:40,560
+So we have the Helen test.
+
+67
+00:03:40,560 --> 00:03:44,000
+And the more we started paying attention, the more and more we realized like, wait,
+
+68
+00:03:44,000 --> 00:03:45,280
+what's there?
+
+69
+00:03:45,280 --> 00:03:46,160
+That's Helen.
+
+70
+00:03:46,720 --> 00:03:48,560
+That character is also named Helen.
+
+71
+00:03:48,560 --> 00:03:50,160
+And Chuck E. Cheese, obvious famous.
+
+72
+00:03:50,160 --> 00:03:52,240
+I mean, it is Helen Henney, which is fun.
+
+73
+00:03:52,240 --> 00:03:53,520
+Helen Henney has a little bit of character.
+
+74
+00:03:53,520 --> 00:03:54,560
+But Henney makes it fun.
+
+75
+00:03:54,560 --> 00:03:57,920
+But if you take if you're going pure first names, Helen versus.
+
+76
+00:03:57,920 --> 00:04:00,640
+Jasper, Pasquale, Munch and Helen.
+
+77
+00:04:00,640 --> 00:04:01,840
+Helen, all the same.
+
+78
+00:04:01,840 --> 00:04:04,240
+Yeah, this directly applies to the Helen test.
+
+79
+00:04:04,240 --> 00:04:04,640
+Right.
+
+80
+00:04:04,640 --> 00:04:05,200
+Yeah, yeah, yeah.
+
+81
+00:04:05,200 --> 00:04:06,960
+This was all triangulating.
+
+82
+00:04:06,960 --> 00:04:09,120
+We had to discuss the Helen test with you.
+
+83
+00:04:09,120 --> 00:04:12,640
+Chuck E. Cheese is very guilty of like token woman character.
+
+84
+00:04:13,440 --> 00:04:17,200
+Yes, but I but there were characters that could have I think last.
+
+85
+00:04:17,200 --> 00:04:18,160
+This is we'll get into it.
+
+86
+00:04:18,160 --> 00:04:21,920
+But there were characters that were introduced earlier that I feel like could have lasted.
+
+87
+00:04:21,920 --> 00:04:24,560
+And we could have had an equal representation.
+
+88
+00:04:24,560 --> 00:04:24,880
+Right.
+
+89
+00:04:24,880 --> 00:04:28,240
+There should be parity in in animatronics.
+
+90
+00:04:28,240 --> 00:04:28,640
+Yes.
+
+91
+00:04:28,640 --> 00:04:29,680
+Yeah, I agree.
+
+92
+00:04:29,680 --> 00:04:30,400
+But I don't know.
+
+93
+00:04:30,400 --> 00:04:34,560
+Like it's it's a question of I've thought about this before and I haven't reached a
+
+94
+00:04:34,560 --> 00:04:35,040
+conclusion.
+
+95
+00:04:35,040 --> 00:04:36,560
+So there's nothing written on it.
+
+96
+00:04:36,560 --> 00:04:45,760
+But like whether we as a society are better off with Helen Henney than we would have been
+
+97
+00:04:45,760 --> 00:04:50,400
+with Mitzi Mozzarella, I don't I don't have the answers.
+
+98
+00:04:51,600 --> 00:04:57,360
+I feel like maybe if I just dismiss Mitzi Mozzarella as you know, your run of the mill
+
+99
+00:04:57,360 --> 00:05:01,360
+cheerleader, that's me being a little bit reductive of her.
+
+100
+00:05:01,360 --> 00:05:03,280
+And I would need to do more research.
+
+101
+00:05:03,280 --> 00:05:03,920
+And perhaps.
+
+102
+00:05:03,920 --> 00:05:05,440
+I mean, I hear what you're saying.
+
+103
+00:05:05,440 --> 00:05:10,400
+But like, don't you think maybe Mitzi Mozzarella would have maybe evolved also past the point
+
+104
+00:05:10,400 --> 00:05:12,560
+of seeing the characters very simple?
+
+105
+00:05:13,120 --> 00:05:17,680
+We never know because we never got to see Mitzi Mozzarella in the 90s in 2000.
+
+106
+00:05:17,680 --> 00:05:19,680
+Because everyone is munch Pasquale.
+
+107
+00:05:19,680 --> 00:05:20,800
+They've all evolved.
+
+108
+00:05:20,800 --> 00:05:22,800
+They've all been around now for so many years.
+
+109
+00:05:22,800 --> 00:05:27,520
+But Mitzi Mozzarella, we should say, was the female character in the Rock of Fire
+
+110
+00:05:27,520 --> 00:05:30,960
+Explosion, which was the other band that was at Chobas Pizza.
+
+111
+00:05:31,760 --> 00:05:35,200
+And at some point there was a consolidation and one got turned into the other.
+
+112
+00:05:35,200 --> 00:05:37,520
+We'll get into it, I'm sure concept unification.
+
+113
+00:05:37,520 --> 00:05:39,600
+But so there was this alternate.
+
+114
+00:05:39,600 --> 00:05:43,840
+Imagine a world without the Helen Henney that we know so well, who's so well defined.
+
+115
+00:05:43,840 --> 00:05:46,160
+But instead, she's a mouse.
+
+116
+00:05:46,160 --> 00:05:47,760
+What do we know about her?
+
+117
+00:05:47,760 --> 00:05:48,960
+We we know nothing.
+
+118
+00:05:48,960 --> 00:05:49,600
+Yes.
+
+119
+00:05:49,600 --> 00:05:57,680
+I mean, in the famous set of like 1991 era training videos, Helen is at best bumbling.
+
+120
+00:05:57,680 --> 00:05:59,680
+She cannot figure out the register.
+
+121
+00:05:59,680 --> 00:06:02,080
+She cannot figure out how to bust the tables.
+
+122
+00:06:02,080 --> 00:06:04,960
+Yeah, they really frame her as an incompetent.
+
+123
+00:06:04,960 --> 00:06:05,600
+Yes.
+
+124
+00:06:05,600 --> 00:06:08,720
+Whereas Pasquale is literally the master of pizza.
+
+125
+00:06:09,680 --> 00:06:10,880
+And Pasquale is care.
+
+126
+00:06:10,880 --> 00:06:13,360
+It's weird because now Pasquale is kind of the fumbling.
+
+127
+00:06:13,360 --> 00:06:14,960
+Have you seen some of the recent videos?
+
+128
+00:06:14,960 --> 00:06:16,880
+Oh, I watched a lot of them recently.
+
+129
+00:06:16,880 --> 00:06:17,520
+Yes.
+
+130
+00:06:17,520 --> 00:06:18,560
+Pasquale now.
+
+131
+00:06:18,560 --> 00:06:22,800
+I mean, I guess Pasquale, I think he's one of the most well defined characters currently.
+
+132
+00:06:23,440 --> 00:06:28,160
+Because he now is not just a pizza master and a drummer.
+
+133
+00:06:28,800 --> 00:06:30,320
+He's also a comedian.
+
+134
+00:06:30,320 --> 00:06:32,720
+He doesn't stand up at the Lafferoni.
+
+135
+00:06:32,720 --> 00:06:33,220
+Yes.
+
+136
+00:06:34,180 --> 00:06:35,700
+He's branched out, too.
+
+137
+00:06:35,700 --> 00:06:37,060
+He's trying to learn new skills.
+
+138
+00:06:37,060 --> 00:06:38,020
+He's doing new things.
+
+139
+00:06:38,020 --> 00:06:39,220
+They're really triple threat.
+
+140
+00:06:39,220 --> 00:06:44,980
+Yeah, he's he's emerged maybe as the most prominent character of the of the classic.
+
+141
+00:06:44,980 --> 00:06:45,940
+He's my favorite.
+
+142
+00:06:45,940 --> 00:06:52,100
+Honestly, I like to pick credit where it's due the Pasquale episode of crashing, whether you like it or not.
+
+143
+00:06:53,140 --> 00:06:54,980
+Pete, Pasquale, it's classic.
+
+144
+00:06:56,260 --> 00:06:59,860
+How they land that cameo, biggest names.
+
+145
+00:07:00,820 --> 00:07:02,340
+I am upset.
+
+146
+00:07:02,340 --> 00:07:03,060
+I'm a little upset.
+
+147
+00:07:03,060 --> 00:07:07,780
+I feel like there's some munch stuff, but I feel like munch isn't being explored to its fullest.
+
+148
+00:07:07,780 --> 00:07:08,500
+No, I don't.
+
+149
+00:07:08,500 --> 00:07:10,980
+Yeah, I think munch is a little bit slept on.
+
+150
+00:07:10,980 --> 00:07:11,480
+Yeah.
+
+151
+00:07:12,180 --> 00:07:13,700
+Same goes for Jasper.
+
+152
+00:07:13,700 --> 00:07:15,620
+I don't think we know quite enough.
+
+153
+00:07:15,620 --> 00:07:18,260
+Chuck, he's been rebranded too many times.
+
+154
+00:07:18,260 --> 00:07:19,060
+I've had it.
+
+155
+00:07:19,060 --> 00:07:19,700
+I've had it.
+
+156
+00:07:19,700 --> 00:07:21,060
+You had a million likes.
+
+157
+00:07:21,060 --> 00:07:25,620
+The bowling for soup guy, who, by the way, will not answer my emails.
+
+158
+00:07:26,100 --> 00:07:26,600
+Boo.
+
+159
+00:07:27,300 --> 00:07:32,900
+You're going to voice an iconic character, then you have to be the PR voice of it too.
+
+160
+00:07:32,900 --> 00:07:34,660
+How busy could he possibly be?
+
+161
+00:07:35,860 --> 00:07:38,580
+Maybe that's mean, but I wish he would answer.
+
+162
+00:07:38,580 --> 00:07:39,460
+He should answer.
+
+163
+00:07:39,460 --> 00:07:43,140
+Yeah, probably one of seven bands on a tour with Sugar Ray.
+
+164
+00:07:44,020 --> 00:07:46,180
+Yeah, he's doing free summer concerts.
+
+165
+00:07:46,180 --> 00:07:46,980
+Yeah, yeah, yeah.
+
+166
+00:07:48,020 --> 00:07:49,220
+He's got ships to play.
+
+167
+00:07:49,220 --> 00:07:51,380
+Death march of eternal free concerts.
+
+168
+00:07:52,500 --> 00:07:53,700
+Answer my emails.
+
+169
+00:07:54,660 --> 00:07:56,820
+Be careful what you wish for if you have one hit 20 years ago.
+
+170
+00:07:56,820 --> 00:07:58,100
+He's going to dox me.
+
+171
+00:08:00,820 --> 00:08:03,060
+How dare you, Mr. Bowling for Soup.
+
+172
+00:08:06,980 --> 00:08:10,980
+Jasper is my least favorite, I'll say offhand.
+
+173
+00:08:10,980 --> 00:08:11,700
+Really?
+
+174
+00:08:11,700 --> 00:08:14,340
+I don't find a lot to like about Jasper.
+
+175
+00:08:14,340 --> 00:08:17,220
+He's a country guy, that's all I know.
+
+176
+00:08:17,220 --> 00:08:22,980
+I think because of country bears and all that, I think a dog in overalls that likes country music,
+
+177
+00:08:22,980 --> 00:08:23,940
+I can't be mad at that.
+
+178
+00:08:23,940 --> 00:08:24,820
+I can't have to like him.
+
+179
+00:08:27,300 --> 00:08:30,900
+A thing that always bothered me was that it's Munch's Make Believe band,
+
+180
+00:08:30,900 --> 00:08:33,540
+but Chuck E. takes center stage.
+
+181
+00:08:33,540 --> 00:08:34,180
+Takes the lead.
+
+182
+00:08:34,180 --> 00:08:39,140
+Well, but Fleetwood Mac, for instance, McFleetwood's the drummer.
+
+183
+00:08:40,500 --> 00:08:42,340
+Oh wait, no, but Munch is the keyboard player?
+
+184
+00:08:42,340 --> 00:08:42,660
+Yes.
+
+185
+00:08:42,660 --> 00:08:42,900
+Yeah.
+
+186
+00:08:42,900 --> 00:08:43,460
+Uh-huh.
+
+187
+00:08:43,460 --> 00:08:47,940
+Well, then it's also a little similar to Santana, where Santana doesn't sing.
+
+188
+00:08:47,940 --> 00:08:48,180
+Right.
+
+189
+00:08:48,980 --> 00:08:51,780
+So there's actually a fair amount of music.
+
+190
+00:08:52,500 --> 00:08:55,620
+Right, there's precedent in the rock and roll world.
+
+191
+00:08:55,620 --> 00:09:00,580
+Wasn't there like a similar focus issue in the Rock Fire Explosion where
+
+192
+00:09:02,500 --> 00:09:08,740
+Billy Bob is kind of like the central guy, but the band is actually led by someone else?
+
+193
+00:09:08,740 --> 00:09:09,060
+Am I?
+
+194
+00:09:10,580 --> 00:09:11,380
+I think you're right.
+
+195
+00:09:12,260 --> 00:09:14,500
+He's like the free roaming one.
+
+196
+00:09:14,500 --> 00:09:17,860
+Oh, because Fats Geronimo is like the lead singer.
+
+197
+00:09:18,260 --> 00:09:19,780
+But like Billy Bob.
+
+198
+00:09:19,780 --> 00:09:21,140
+He's the musical director.
+
+199
+00:09:21,860 --> 00:09:24,980
+The music voice is the guy at the keyboard in both bands.
+
+200
+00:09:25,700 --> 00:09:30,740
+Yeah, but then for some reason, Billy Bob Broccoli, I'm seeing his last name is.
+
+201
+00:09:30,740 --> 00:09:31,140
+Is it?
+
+202
+00:09:31,140 --> 00:09:31,220
+Really?
+
+203
+00:09:31,220 --> 00:09:36,740
+Which is a reference to Robert Brock, the investor that started the pizza wars.
+
+204
+00:09:36,740 --> 00:09:38,020
+Oh, the turncoat.
+
+205
+00:09:38,020 --> 00:09:38,260
+Yes.
+
+206
+00:09:39,140 --> 00:09:39,700
+Interesting.
+
+207
+00:09:40,500 --> 00:09:43,380
+Billy Bob was the center of attention.
+
+208
+00:09:44,020 --> 00:09:44,420
+Who knows?
+
+209
+00:09:45,060 --> 00:09:53,060
+So you end up with the same band dynamics when one is a literally reskinned version of a previous band.
+
+210
+00:09:53,060 --> 00:09:53,700
+Yes, right.
+
+211
+00:09:54,420 --> 00:09:59,700
+So yeah, so I always liked Munch the best, I will say that.
+
+212
+00:09:59,700 --> 00:10:02,820
+I'm coming out as the biggest Munch fan, always.
+
+213
+00:10:03,860 --> 00:10:07,460
+But I am upset with what they've not done with him lately.
+
+214
+00:10:07,460 --> 00:10:07,700
+Yeah.
+
+215
+00:10:07,700 --> 00:10:12,900
+Well, I think there's also some, it's similar to Chuck, there is some voice confusion with Munch
+
+216
+00:10:12,900 --> 00:10:15,540
+because sometimes he's like a monster.
+
+217
+00:10:15,540 --> 00:10:18,980
+He's like, like me eat, he's a cookie monster.
+
+218
+00:10:18,980 --> 00:10:21,540
+And sometimes he's like, I'm just a guy.
+
+219
+00:10:21,540 --> 00:10:21,940
+Yeah.
+
+220
+00:10:21,940 --> 00:10:22,660
+I'm Munch.
+
+221
+00:10:24,100 --> 00:10:25,780
+He's thorough Ravenscroft.
+
+222
+00:10:25,780 --> 00:10:31,140
+With Munch and Helen, I have like McDonald's land confusion.
+
+223
+00:10:31,140 --> 00:10:31,380
+Yes.
+
+224
+00:10:31,380 --> 00:10:33,860
+It's very like Grimace and Birdie.
+
+225
+00:10:33,860 --> 00:10:34,260
+Yeah, 100%.
+
+226
+00:10:34,260 --> 00:10:39,220
+It's mainly purple monster and then like, yeah, chicken woman.
+
+227
+00:10:40,180 --> 00:10:42,100
+Chicken woman who doesn't get a lot to do.
+
+228
+00:10:42,740 --> 00:10:43,060
+Right.
+
+229
+00:10:43,060 --> 00:10:46,180
+Like, yeah, underdeveloped chicken woman character.
+
+230
+00:10:46,180 --> 00:10:49,300
+But at least Birdie we know was into aviation.
+
+231
+00:10:49,300 --> 00:10:51,620
+She had goggles, she had the cool scarf.
+
+232
+00:10:51,620 --> 00:10:52,020
+Yes, Birdie.
+
+233
+00:10:52,020 --> 00:10:53,860
+She wore pants, she wore overalls.
+
+234
+00:10:53,860 --> 00:10:54,340
+Yes.
+
+235
+00:10:54,340 --> 00:10:55,060
+Yeah, yeah.
+
+236
+00:10:55,060 --> 00:10:58,100
+Birdie, I think would be a little bit more in the mix in those commercials.
+
+237
+00:10:58,100 --> 00:10:59,220
+That's my memory of it.
+
+238
+00:10:59,220 --> 00:11:00,100
+I don't know if that's true or not.
+
+239
+00:11:00,100 --> 00:11:02,340
+Because she was introduced because breakfast.
+
+240
+00:11:03,060 --> 00:11:04,900
+That was like why they made the character.
+
+241
+00:11:04,900 --> 00:11:05,700
+She's the early bird.
+
+242
+00:11:05,700 --> 00:11:06,660
+She's the early bird.
+
+243
+00:11:06,660 --> 00:11:07,220
+Right.
+
+244
+00:11:07,220 --> 00:11:08,580
+To your Egg McMuffins.
+
+245
+00:11:09,380 --> 00:11:11,140
+I didn't realize how much I knew about.
+
+246
+00:11:12,900 --> 00:11:13,780
+You're in the right place.
+
+247
+00:11:13,780 --> 00:11:14,900
+Oh, this is good.
+
+248
+00:11:14,900 --> 00:11:15,700
+Yeah, yeah, I know.
+
+249
+00:11:15,700 --> 00:11:17,700
+Yeah, we're speaking the same language.
+
+250
+00:11:17,700 --> 00:11:20,740
+In terms of you mentioned the character named after Robert Brock.
+
+251
+00:11:22,740 --> 00:11:27,620
+I went down the rabbit hole of just like very quickly looking at all the ancillary
+
+252
+00:11:27,620 --> 00:11:30,100
+Chuck E. Cheese characters over the years.
+
+253
+00:11:30,900 --> 00:11:37,060
+And my favorites that I came across was the short-lived barbershop quartet,
+
+254
+00:11:37,060 --> 00:11:38,740
+the four little shavers.
+
+255
+00:11:38,740 --> 00:11:40,740
+Yeah.
+
+256
+00:11:40,740 --> 00:11:45,460
+They're named Nolan, O Nolan, Mick Nolan, and Curly.
+
+257
+00:11:46,500 --> 00:11:47,300
+For Nolan Bushnell.
+
+258
+00:11:47,300 --> 00:11:49,060
+The Nolan's a nod to Nolan Bushnell.
+
+259
+00:11:49,060 --> 00:11:49,560
+Yeah.
+
+260
+00:11:51,860 --> 00:11:54,740
+Co-founder of Atari, founder of Chuck E. Cheese.
+
+261
+00:11:54,740 --> 00:11:55,220
+Right.
+
+262
+00:11:55,220 --> 00:11:56,740
+I didn't know that that was their names.
+
+263
+00:11:56,740 --> 00:11:57,620
+That's cool.
+
+264
+00:11:57,620 --> 00:12:01,380
+So they only went in a handful of stores that were trying
+
+265
+00:12:01,380 --> 00:12:04,580
+an ice cream parlor concept in a corner of the store.
+
+266
+00:12:05,300 --> 00:12:09,940
+So they're like the ice cream parlor, ice cream barbershop quartet,
+
+267
+00:12:09,940 --> 00:12:15,380
+it's not kind of the stripes, like ferals sort of thing.
+
+268
+00:12:15,380 --> 00:12:20,980
+I think there's a real lesson with the story of Chuck E. Cheese about homogenization
+
+269
+00:12:20,980 --> 00:12:25,140
+and refining brands to the point where they're a little bit dull.
+
+270
+00:12:25,140 --> 00:12:28,580
+Because if you look at the early messy history of Chuck E. Cheese,
+
+271
+00:12:28,580 --> 00:12:32,900
+the first of which opened in 1977 in San Jose, California,
+
+272
+00:12:33,860 --> 00:12:38,660
+all the original ones had different showrooms and different acts.
+
+273
+00:12:38,660 --> 00:12:42,020
+And there was a rotating guest star slot.
+
+274
+00:12:42,020 --> 00:12:45,140
+And in fact, the first guest star was Helen.
+
+275
+00:12:45,780 --> 00:12:50,820
+But Helen stuck around and had longevity and became one of the main five.
+
+276
+00:12:51,620 --> 00:12:52,120
+But.
+
+277
+00:12:52,660 --> 00:12:54,260
+The middle of second wave feminism.
+
+278
+00:12:54,260 --> 00:12:56,420
+We can't just rule her out.
+
+279
+00:12:56,420 --> 00:12:59,060
+We need a woman who's in the workplace, right?
+
+280
+00:12:59,060 --> 00:13:00,580
+She's a skin gal.
+
+281
+00:13:00,580 --> 00:13:04,740
+Well, kind of all of the guest stars, they cycled through a lot of women.
+
+282
+00:13:04,740 --> 00:13:08,260
+I don't think there was ever any talk of there being more than one woman in the band.
+
+283
+00:13:08,260 --> 00:13:09,300
+Oh, no, no, no.
+
+284
+00:13:09,300 --> 00:13:10,180
+No, you can't have that.
+
+285
+00:13:10,180 --> 00:13:10,980
+They have the way they have.
+
+286
+00:13:10,980 --> 00:13:12,980
+I would sooner have a dog in overalls.
+
+287
+00:13:14,820 --> 00:13:15,780
+Of course.
+
+288
+00:13:15,780 --> 00:13:17,380
+Another dog and two dogs.
+
+289
+00:13:17,380 --> 00:13:17,880
+Second.
+
+290
+00:13:19,540 --> 00:13:20,980
+As many as possible.
+
+291
+00:13:22,660 --> 00:13:26,820
+But like, it seems like for the first five years or so,
+
+292
+00:13:26,820 --> 00:13:29,940
+there'd be these showrooms with these weird bands and this character
+
+293
+00:13:29,940 --> 00:13:31,220
+who's only in this corner.
+
+294
+00:13:31,220 --> 00:13:32,820
+Yeah, an ice cream place.
+
+295
+00:13:32,820 --> 00:13:37,220
+And this one has a lounge singer hippo lady.
+
+296
+00:13:37,220 --> 00:13:39,460
+Foxy Colleen, the Irish lass.
+
+297
+00:13:39,460 --> 00:13:41,140
+Well, our Dolly Dimples.
+
+298
+00:13:41,140 --> 00:13:41,860
+Dolly Dimples.
+
+299
+00:13:41,860 --> 00:13:42,340
+Yeah, yeah, yeah.
+
+300
+00:13:42,340 --> 00:13:45,060
+Dolly Dimples should still be a care.
+
+301
+00:13:45,060 --> 00:13:46,340
+This is what I was saying earlier.
+
+302
+00:13:46,340 --> 00:13:51,860
+Dolly Dimples, Sally Sachet, where these characters could have stood the test of time.
+
+303
+00:13:51,860 --> 00:13:53,380
+They could come back now.
+
+304
+00:13:53,380 --> 00:13:53,860
+Yeah.
+
+305
+00:13:53,860 --> 00:13:56,740
+Krusty the cat who was originally Chucky's foil.
+
+306
+00:13:57,380 --> 00:13:57,880
+Yes.
+
+307
+00:13:58,600 --> 00:14:00,840
+That was back when they were all in frames.
+
+308
+00:14:00,840 --> 00:14:01,720
+In frames.
+
+309
+00:14:01,720 --> 00:14:04,440
+Yeah, the original ones were in frames above the restaurant.
+
+310
+00:14:04,440 --> 00:14:06,840
+Because they didn't have that Aaron Fecter magic.
+
+311
+00:14:06,840 --> 00:14:07,080
+No.
+
+312
+00:14:07,080 --> 00:14:09,240
+They didn't have that pneumatic tube magic.
+
+313
+00:14:09,240 --> 00:14:09,720
+No.
+
+314
+00:14:09,720 --> 00:14:11,160
+Oh, is that what happened?
+
+315
+00:14:11,160 --> 00:14:15,240
+Because the characters were initially just the upper halves.
+
+316
+00:14:15,240 --> 00:14:17,880
+They were very rudimentary animatronics.
+
+317
+00:14:17,880 --> 00:14:22,120
+And then, I mean, we can tear apart the pizza wars all day.
+
+318
+00:14:22,120 --> 00:14:22,680
+Yes.
+
+319
+00:14:23,560 --> 00:14:29,400
+Aaron Fecter, thanks to Robert Brock, was funded to make this full animatronic band.
+
+320
+00:14:30,440 --> 00:14:34,440
+Because they were more fluid and they were easier to customize because of whatever the
+
+321
+00:14:34,440 --> 00:14:39,160
+tubing system that he had invented for Whack-a-Mole and then got scammed out of Whack-a-Mole,
+
+322
+00:14:39,160 --> 00:14:41,240
+even though he kind of stole it himself.
+
+323
+00:14:41,240 --> 00:14:42,840
+So he had the Tubie system.
+
+324
+00:14:42,840 --> 00:14:47,560
+And then he made this band called the Wolf Pack 5, which is really fun.
+
+325
+00:14:47,560 --> 00:14:50,280
+And there's still videos of them on YouTube.
+
+326
+00:14:50,280 --> 00:14:57,800
+And then Robert Brock funded, saw their Wolf Pack 5, was like, oh, this is cool.
+
+327
+00:14:57,800 --> 00:15:01,720
+And funded him to make the Rock-a-Fire explosion.
+
+328
+00:15:01,720 --> 00:15:02,220
+Yes.
+
+329
+00:15:03,720 --> 00:15:06,840
+Brock worked for the founder Nolan Bush, who was a franchisee.
+
+330
+00:15:07,640 --> 00:15:08,440
+Brock's a snake.
+
+331
+00:15:08,440 --> 00:15:09,080
+He's a snake.
+
+332
+00:15:09,080 --> 00:15:12,120
+Because he's like, oh, shit, this guy's going to blow us out of the water.
+
+333
+00:15:12,120 --> 00:15:13,720
+I'm getting in business with this guy.
+
+334
+00:15:13,720 --> 00:15:16,920
+And just copies the Chucky formula, which I always had at the other.
+
+335
+00:15:16,920 --> 00:15:19,720
+I always thought Showbiz Pizza came first and Chucky copied.
+
+336
+00:15:19,720 --> 00:15:20,220
+Me too.
+
+337
+00:15:20,280 --> 00:15:21,560
+And it's the other way around.
+
+338
+00:15:21,560 --> 00:15:22,060
+Yeah, yeah.
+
+339
+00:15:22,840 --> 00:15:27,480
+So yeah, Nolan Bushnell found Chucky Cheese with his Atari money,
+
+340
+00:15:28,520 --> 00:15:35,000
+looking for a way to get arcades going again and to find an excuse for you to be able to drink
+
+341
+00:15:35,000 --> 00:15:37,560
+in an arcade because that was not a like.
+
+342
+00:15:37,560 --> 00:15:39,560
+They weren't zoned for that or whatever.
+
+343
+00:15:39,560 --> 00:15:45,080
+So and for what are the adults doing while the kids are playing games?
+
+344
+00:15:45,080 --> 00:15:48,200
+Which they will sit and watch an animatronic band, I guess was the idea.
+
+345
+00:15:48,200 --> 00:15:54,280
+There was like a few examples in early Chucky Cheese's where they had like a mom's room and
+
+346
+00:15:54,280 --> 00:15:58,200
+a dad's room where they would they were just like small rooms.
+
+347
+00:15:58,200 --> 00:16:01,640
+I think it was only in a couple of locations, but they would have soap operas just playing
+
+348
+00:16:01,640 --> 00:16:02,440
+in one room.
+
+349
+00:16:02,440 --> 00:16:05,800
+And that's where the moms go and sports playing in another small room.
+
+350
+00:16:05,800 --> 00:16:07,000
+And that's where the dads go.
+
+351
+00:16:07,000 --> 00:16:10,600
+And so they can stay there for however long while their kids spend all their money.
+
+352
+00:16:10,600 --> 00:16:12,040
+You can breastfeed in one.
+
+353
+00:16:12,040 --> 00:16:14,200
+You can stretch your balls in the other.
+
+354
+00:16:14,200 --> 00:16:16,920
+There's a stag film playing in the dad's room.
+
+355
+00:16:18,440 --> 00:16:26,040
+Like the parents are separated while their kids play in rooms that their children are not in.
+
+356
+00:16:26,040 --> 00:16:29,000
+So neither has eyes on their on their children.
+
+357
+00:16:29,000 --> 00:16:31,960
+No kid check the system to track your child.
+
+358
+00:16:32,520 --> 00:16:36,760
+In the early days, it was just the I just remember walking in like any restaurant.
+
+359
+00:16:36,760 --> 00:16:41,320
+It was just the honor system that the child you come with is the child.
+
+360
+00:16:42,840 --> 00:16:43,800
+Yeah, honor system.
+
+361
+00:16:45,000 --> 00:16:46,440
+He's just throwing a tantrum.
+
+362
+00:16:46,440 --> 00:16:47,480
+He's upset.
+
+363
+00:16:47,480 --> 00:16:48,280
+He lost the game.
+
+364
+00:16:48,280 --> 00:16:49,960
+He's not mad because I'm abducting him.
+
+365
+00:16:50,680 --> 00:16:55,480
+That does sound a little dystopian, like a little Fahrenheit 451 of like, well, we come home.
+
+366
+00:16:55,480 --> 00:16:58,440
+There's father's room and mother's room and child room.
+
+367
+00:16:58,440 --> 00:16:58,760
+Right.
+
+368
+00:16:58,760 --> 00:17:01,080
+And if you don't like it, make your own room.
+
+369
+00:17:02,760 --> 00:17:05,480
+I think that that was like pre animatronic band.
+
+370
+00:17:05,480 --> 00:17:08,920
+Like while there was not much else to look at, though, like they're just like, oh, we
+
+371
+00:17:08,920 --> 00:17:10,280
+got to give them something to do.
+
+372
+00:17:10,280 --> 00:17:13,240
+So give them beer and then turn on a sport.
+
+373
+00:17:14,200 --> 00:17:14,600
+Right.
+
+374
+00:17:14,680 --> 00:17:18,280
+Do they have to tape soap operas to play at nine o'clock?
+
+375
+00:17:19,160 --> 00:17:23,400
+Was that a time when like dad might say like, I don't mind that place that Chuck E.
+
+376
+00:17:23,400 --> 00:17:23,800
+Cheese's.
+
+377
+00:17:23,800 --> 00:17:25,160
+That's not such a bad place.
+
+378
+00:17:25,160 --> 00:17:26,120
+We could go over there.
+
+379
+00:17:26,120 --> 00:17:29,480
+Like that was a bad like a time when maybe you could have gotten your dad more on board
+
+380
+00:17:30,200 --> 00:17:31,880
+to go because like it catered to him.
+
+381
+00:17:32,520 --> 00:17:35,320
+Like the kind of family time where you don't actually have to be together,
+
+382
+00:17:35,320 --> 00:17:37,000
+which is my family's favorite.
+
+383
+00:17:37,000 --> 00:17:37,320
+Right.
+
+384
+00:17:37,320 --> 00:17:37,480
+Yeah.
+
+385
+00:17:38,440 --> 00:17:40,520
+Everyone gets to kind of do their own thing.
+
+386
+00:17:40,520 --> 00:17:40,680
+Yeah.
+
+387
+00:17:40,680 --> 00:17:45,960
+I mean, the early days of family dining does feel like, you know how you hate your fucking
+
+388
+00:17:45,960 --> 00:17:47,960
+kids, but we all got to eat.
+
+389
+00:17:49,400 --> 00:17:55,240
+Here's some dark wood and some do dads and some beer like that was that is what I picture
+
+390
+00:17:55,240 --> 00:17:55,560
+early.
+
+391
+00:17:55,560 --> 00:18:01,400
+Ben agains and ground rounds and fiddle fat or whatever those fucking places.
+
+392
+00:18:01,400 --> 00:18:05,720
+I always wonder what the drinking cut off was in early Chuck E.
+
+393
+00:18:05,720 --> 00:18:09,640
+Cheese days because now it's too, I can say from personal experience.
+
+394
+00:18:09,640 --> 00:18:09,880
+Yeah.
+
+395
+00:18:10,680 --> 00:18:11,880
+You can't get more than two.
+
+396
+00:18:11,880 --> 00:18:17,080
+You get two X's on your hands and if you've got both X's, you're too, you're fucked up.
+
+397
+00:18:17,080 --> 00:18:20,280
+You know, you can't, you can't drink any more blue moons.
+
+398
+00:18:22,120 --> 00:18:26,200
+But I wonder, I feel like it might've been open season back then.
+
+399
+00:18:26,200 --> 00:18:26,760
+Yeah.
+
+400
+00:18:26,760 --> 00:18:27,880
+I wouldn't be surprised.
+
+401
+00:18:28,360 --> 00:18:32,360
+Also at the time I found the menu for the original Chuck E.
+
+402
+00:18:32,360 --> 00:18:33,960
+Cheese pizza time theater.
+
+403
+00:18:35,400 --> 00:18:36,840
+Soft frozen yogurt.
+
+404
+00:18:36,840 --> 00:18:39,000
+Enjoy the latest taste sensation.
+
+405
+00:18:39,560 --> 00:18:45,960
+Toppings include granola, shredded coconut, wheat germ, dates, chopped nuts and shaved
+
+406
+00:18:45,960 --> 00:18:46,520
+almonds.
+
+407
+00:18:47,400 --> 00:18:51,240
+So very trendy, I guess at the end of seventies.
+
+408
+00:18:53,240 --> 00:18:56,680
+We eat your seventies food was really strange in general.
+
+409
+00:18:56,680 --> 00:18:57,000
+Yeah.
+
+410
+00:18:57,000 --> 00:18:57,320
+Yeah.
+
+411
+00:18:57,320 --> 00:19:01,800
+All that weird just gelatin hanging in there is also, they had like a vegetarian pizza and
+
+412
+00:19:01,800 --> 00:19:06,280
+then a protein pizza where they just kind of doubled the cheese and then put shaved
+
+413
+00:19:06,280 --> 00:19:08,840
+almonds on top and like beef.
+
+414
+00:19:08,920 --> 00:19:09,560
+Yeah.
+
+415
+00:19:09,560 --> 00:19:11,080
+That was like almonds.
+
+416
+00:19:11,080 --> 00:19:11,240
+Yeah.
+
+417
+00:19:11,240 --> 00:19:15,240
+I was going to say like this is a weird California pizza kitchen like precursor.
+
+418
+00:19:15,240 --> 00:19:18,120
+The food has always been pretty gnarly there.
+
+419
+00:19:20,040 --> 00:19:24,600
+There are some people who will defend the food, but from my experience, it's pretty
+
+420
+00:19:24,600 --> 00:19:25,960
+indefensible.
+
+421
+00:19:25,960 --> 00:19:27,720
+The pizza is very sharp.
+
+422
+00:19:31,240 --> 00:19:37,160
+Like I don't subscribe to like the Shane Dawson conspiracy theories or any garbage like that.
+
+423
+00:19:37,160 --> 00:19:37,400
+Yeah.
+
+424
+00:19:37,400 --> 00:19:37,640
+Yeah.
+
+425
+00:19:37,640 --> 00:19:37,960
+Yeah.
+
+426
+00:19:37,960 --> 00:19:38,280
+Yes.
+
+427
+00:19:38,280 --> 00:19:45,640
+It's Shane Dawson Shane Dawson put forth the theory that they recycle their pizza that
+
+428
+00:19:45,640 --> 00:19:51,240
+they like easy to wrap your head around system of taking uneaten slices and reconstructing
+
+429
+00:19:51,240 --> 00:19:53,320
+them into a new pizza.
+
+430
+00:19:53,320 --> 00:19:57,880
+And that is a theory presented by one of YouTube's most popular racists.
+
+431
+00:19:59,880 --> 00:20:01,080
+A competitive area.
+
+432
+00:20:01,080 --> 00:20:02,760
+How do you keep track of them?
+
+433
+00:20:02,760 --> 00:20:03,080
+Yeah.
+
+434
+00:20:03,080 --> 00:20:03,400
+Yeah.
+
+435
+00:20:03,400 --> 00:20:03,720
+Yeah.
+
+436
+00:20:03,720 --> 00:20:04,280
+They have to.
+
+437
+00:20:04,280 --> 00:20:06,840
+It's the register of the top 10,000.
+
+438
+00:20:06,840 --> 00:20:11,880
+But I mean, kicking a business while they have been down for 15 years.
+
+439
+00:20:13,240 --> 00:20:14,680
+So much has fallen.
+
+440
+00:20:14,680 --> 00:20:16,440
+It actually, I think it did make me mad.
+
+441
+00:20:16,440 --> 00:20:18,840
+I think I did get to like, don't throw this on them.
+
+442
+00:20:18,840 --> 00:20:19,800
+It's me.
+
+443
+00:20:19,800 --> 00:20:21,640
+And there's all these fights happening.
+
+444
+00:20:21,640 --> 00:20:25,000
+And there's all like horrible fights happening all the time in the Chuck E.
+
+445
+00:20:25,000 --> 00:20:31,400
+Cheese's and also the misinformation that the robots are going away entirely.
+
+446
+00:20:31,400 --> 00:20:32,040
+They are.
+
+447
+00:20:32,040 --> 00:20:36,760
+I mean, they're probably on the way to it, but we've heard it said like I've seen a
+
+448
+00:20:36,760 --> 00:20:37,400
+lot of the band.
+
+449
+00:20:37,400 --> 00:20:38,520
+They're gone.
+
+450
+00:20:38,520 --> 00:20:39,400
+There's no more of them.
+
+451
+00:20:39,400 --> 00:20:40,120
+The most part, right?
+
+452
+00:20:40,120 --> 00:20:44,360
+We've asked our listeners send us pictures of the full of give us full munch.
+
+453
+00:20:44,360 --> 00:20:45,560
+I want to see the full munch.
+
+454
+00:20:45,560 --> 00:20:46,760
+There's a lot of them out there.
+
+455
+00:20:46,760 --> 00:20:47,720
+I have the full.
+
+456
+00:20:47,720 --> 00:20:53,080
+So the way to know whether you're getting the full munch or not is to know when the
+
+457
+00:20:53,080 --> 00:20:53,480
+Chuck E.
+
+458
+00:20:53,480 --> 00:20:56,680
+Cheese was opened because they're starting to remove them now.
+
+459
+00:20:56,680 --> 00:20:59,640
+It's been like two, I think like two years since they said they were going to.
+
+460
+00:20:59,640 --> 00:20:59,960
+Yeah.
+
+461
+00:20:59,960 --> 00:21:01,400
+And now they're starting to remove them.
+
+462
+00:21:01,400 --> 00:21:04,600
+And then the plan is to make it like an open dance space.
+
+463
+00:21:05,240 --> 00:21:09,640
+And then they're just making that now they're just making those like short sketch
+
+464
+00:21:09,640 --> 00:21:13,480
+videos with puppets that look like the animatronics sort of.
+
+465
+00:21:13,480 --> 00:21:15,880
+And I want to know who writes the videos because I want in.
+
+466
+00:21:16,920 --> 00:21:19,960
+I watched a YouTube video of like the production team.
+
+467
+00:21:19,960 --> 00:21:20,360
+Really?
+
+468
+00:21:20,360 --> 00:21:21,080
+I'll send you that.
+
+469
+00:21:21,080 --> 00:21:21,480
+I'll find it.
+
+470
+00:21:21,480 --> 00:21:22,520
+Say who the writer was.
+
+471
+00:21:23,080 --> 00:21:25,960
+They talked to a guy who, I mean, it seems like it's all hands on deck.
+
+472
+00:21:25,960 --> 00:21:27,240
+I think it's the Muppet Workshop.
+
+473
+00:21:27,240 --> 00:21:30,440
+I think you're puppeteering in your own and you're directing it.
+
+474
+00:21:30,440 --> 00:21:33,480
+I'm going to find their LinkedIn and be like, I'll work for free.
+
+475
+00:21:33,480 --> 00:21:34,200
+I don't care.
+
+476
+00:21:34,200 --> 00:21:36,200
+If you're willing to move to Irving, Texas.
+
+477
+00:21:36,760 --> 00:21:37,240
+I'll go.
+
+478
+00:21:37,240 --> 00:21:39,240
+I'll be like, we need to do some work on Helen.
+
+479
+00:21:39,240 --> 00:21:41,480
+I'm uniquely qualified.
+
+480
+00:21:41,480 --> 00:21:44,840
+That's a legitimate angle, I think, to make your way in on.
+
+481
+00:21:45,480 --> 00:21:46,600
+By any means necessary.
+
+482
+00:21:48,200 --> 00:21:54,840
+But if the location was open prior to 1998, there should still be a full band there.
+
+483
+00:21:54,840 --> 00:21:59,320
+Post-98, they start scaling down the animatronics to just a Chucky.
+
+484
+00:21:59,320 --> 00:21:59,880
+Yes.
+
+485
+00:21:59,880 --> 00:22:02,040
+Studio C, they call that model.
+
+486
+00:22:02,040 --> 00:22:10,760
+And that Chucky is designed by Garner Holt, a popular animatronic creator and company.
+
+487
+00:22:12,760 --> 00:22:16,680
+It's the same company that built all of the robots for the Cars ride.
+
+488
+00:22:16,680 --> 00:22:22,680
+And all of these really good recent Knott's Berry Farm rides where they've added and refreshed
+
+489
+00:22:22,680 --> 00:22:24,920
+robots to these sort of ancient attractions.
+
+490
+00:22:24,920 --> 00:22:26,520
+And the new robots are wonderful.
+
+491
+00:22:28,040 --> 00:22:30,920
+That's the one good thing you could say about the Studio C Chucks.
+
+492
+00:22:30,920 --> 00:22:32,040
+He made the new Chuck?
+
+493
+00:22:32,040 --> 00:22:32,840
+Oh, that's good.
+
+494
+00:22:32,840 --> 00:22:34,600
+Yeah, good company.
+
+495
+00:22:34,600 --> 00:22:38,520
+Had a really good exhibit at a museum in San Bernardino recently.
+
+496
+00:22:38,520 --> 00:22:41,240
+The Studio C Chucks are criminally underused.
+
+497
+00:22:41,240 --> 00:22:42,280
+They're just sitting there.
+
+498
+00:22:42,280 --> 00:22:43,320
+No, and look good.
+
+499
+00:22:43,320 --> 00:22:44,600
+They look great.
+
+500
+00:22:44,600 --> 00:22:46,040
+Are they taking those out, though?
+
+501
+00:22:46,680 --> 00:22:47,640
+Slowly they are.
+
+502
+00:22:48,360 --> 00:22:49,000
+Where are they going?
+
+503
+00:22:49,000 --> 00:22:49,960
+Do we know where they're going?
+
+504
+00:22:49,960 --> 00:22:50,440
+I don't know.
+
+505
+00:22:50,440 --> 00:22:52,120
+I really want to know what they're doing.
+
+506
+00:22:52,120 --> 00:22:54,760
+If they're being dismantled for parts, I'll lose my mind.
+
+507
+00:22:55,320 --> 00:22:56,840
+They have to be, right?
+
+508
+00:22:56,840 --> 00:22:57,240
+I know.
+
+509
+00:22:58,040 --> 00:22:58,520
+Hmm.
+
+510
+00:22:58,520 --> 00:22:59,020
+Yeah.
+
+511
+00:22:59,320 --> 00:23:01,320
+Or they're going in a big unmarked grave.
+
+512
+00:23:02,520 --> 00:23:04,040
+Like an unmarked robot grave.
+
+513
+00:23:04,680 --> 00:23:05,640
+Oh my gosh.
+
+514
+00:23:05,640 --> 00:23:08,040
+Did you know it happened in Nolan Bushnell twice?
+
+515
+00:23:13,160 --> 00:23:17,400
+They're burning some of the ETs to make room in the grave for Chuckie.
+
+516
+00:23:17,400 --> 00:23:22,200
+I was saying if you go to a Chuckie Cheese and you walk in and there's just screens and
+
+517
+00:23:22,200 --> 00:23:27,160
+maybe a little camera that you can be on the green screen and then a single solitary robot,
+
+518
+00:23:27,480 --> 00:23:28,840
+that is a Studio C.
+
+519
+00:23:30,600 --> 00:23:34,600
+The one if anyone pre-gamed our dynasty typewriter show at the Chuckie Cheese,
+
+520
+00:23:35,320 --> 00:23:38,040
+that one is a Studio C and the robot is still there.
+
+521
+00:23:38,920 --> 00:23:40,440
+The one near the dynasty typewriter?
+
+522
+00:23:40,440 --> 00:23:40,680
+Yes.
+
+523
+00:23:40,680 --> 00:23:40,920
+Yeah.
+
+524
+00:23:40,920 --> 00:23:40,920
+
+
+525
+00:23:45,400 --> 00:23:48,440
+So those are the most at risk is what we're saying.
+
+526
+00:23:48,440 --> 00:23:48,760
+Yeah.
+
+527
+00:23:48,760 --> 00:23:50,440
+Of just taking out the one robot.
+
+528
+00:23:50,440 --> 00:23:55,240
+But if there's five robots, then you've got robot consensus and it's too hard to get rid of all of them.
+
+529
+00:23:56,200 --> 00:23:57,320
+But they're still going to try?
+
+530
+00:23:58,200 --> 00:24:03,960
+So I looked up my childhood one in Wilmington, Delaware and that had the full band
+
+531
+00:24:04,520 --> 00:24:07,240
+up at least into 2012.
+
+532
+00:24:07,240 --> 00:24:09,320
+I watched a video of the band from 2012.
+
+533
+00:24:09,320 --> 00:24:13,560
+Then I saw like a walkthrough of it in 2016 and I think it was gone.
+
+534
+00:24:14,680 --> 00:24:23,320
+But kept the sky tubes, had not yet removed the sky tubes, but the band was gone.
+
+535
+00:24:23,400 --> 00:24:25,240
+And that was the one I went to growing up.
+
+536
+00:24:27,240 --> 00:24:31,240
+Usually we would go if we got good report cards, we went.
+
+537
+00:24:31,240 --> 00:24:33,560
+We were good boys, so we always got good report cards.
+
+538
+00:24:35,480 --> 00:24:39,880
+And then friends birthdays, at a certain point after a few years, my mom was like,
+
+539
+00:24:39,880 --> 00:24:47,720
+look, we'll go to Chuckie Cheese, but can we go to a cheaper, better pizza place before?
+
+540
+00:24:47,720 --> 00:24:52,760
+Can we just eat and then we'll get you tokens, we'll play the games.
+
+541
+00:24:52,760 --> 00:24:54,680
+But I do not want to eat there, Jace.
+
+542
+00:24:57,400 --> 00:25:01,480
+I feel like me, my dad and my brother always liked the pizza.
+
+543
+00:25:01,480 --> 00:25:05,320
+I as a kid always liked eating at the place I was going.
+
+544
+00:25:05,320 --> 00:25:07,000
+It's like we're staying at the hotel.
+
+545
+00:25:07,000 --> 00:25:08,840
+Well, I want to check out the hotel restaurant.
+
+546
+00:25:08,840 --> 00:25:09,720
+I just made it.
+
+547
+00:25:10,440 --> 00:25:13,880
+It's probably a holdover from Disney of like, well, you're here.
+
+548
+00:25:13,880 --> 00:25:15,560
+You want to do the stuff that's here.
+
+549
+00:25:15,560 --> 00:25:19,560
+Yeah, I remember my dad being weirdly defensive of the pizza as well.
+
+550
+00:25:20,840 --> 00:25:22,280
+I don't really know why.
+
+551
+00:25:22,280 --> 00:25:23,480
+I don't think he liked being there.
+
+552
+00:25:23,480 --> 00:25:26,600
+Though my childhood one was closed while I was still a child.
+
+553
+00:25:28,600 --> 00:25:32,040
+I don't know if it was because it was under attended or it was like kind of like
+
+554
+00:25:32,040 --> 00:25:34,200
+not the best neighborhood or what it was.
+
+555
+00:25:34,200 --> 00:25:37,320
+But yeah, that was our good report cards.
+
+556
+00:25:37,320 --> 00:25:40,600
+We had to end up going to Bugaboo Creek, which is another.
+
+557
+00:25:40,600 --> 00:25:42,120
+You guys ever heard of Bugaboo Creek?
+
+558
+00:25:42,120 --> 00:25:42,680
+No.
+
+559
+00:25:42,680 --> 00:25:46,840
+That was, I think it must have only been in Canada and maybe like New England,
+
+560
+00:25:46,840 --> 00:25:50,440
+but it's an animatronic restaurant where the theme is Canada.
+
+561
+00:25:50,920 --> 00:25:57,080
+And there is an animatronic tree at the front that would greet you and be like,
+
+562
+00:25:57,080 --> 00:25:58,680
+welcome to Bugaboo Creek.
+
+563
+00:25:58,680 --> 00:25:59,080
+Sit down.
+
+564
+00:25:59,080 --> 00:26:02,200
+There's a 500 hour wait and would tell jokes.
+
+565
+00:26:02,200 --> 00:26:03,880
+And then there was like talking moose on the wall.
+
+566
+00:26:03,880 --> 00:26:05,000
+It was kind of like rainforest.
+
+567
+00:26:05,000 --> 00:26:07,480
+I think it was they were ripping off Rainforest Cafe.
+
+568
+00:26:07,480 --> 00:26:09,960
+They're like, what if Rainforest Cafe was Canada?
+
+569
+00:26:09,960 --> 00:26:10,360
+Right.
+
+570
+00:26:10,360 --> 00:26:11,560
+And that's where we went.
+
+571
+00:26:11,560 --> 00:26:15,000
+Was there a Mountie of some kind, like a Mountie robot or something?
+
+572
+00:26:15,560 --> 00:26:21,160
+No, the waiters were dressed as like all like lumberjack.
+
+573
+00:26:21,160 --> 00:26:21,480
+OK.
+
+574
+00:26:21,480 --> 00:26:25,720
+But there was I definitely remember there were a bunch of moose.
+
+575
+00:26:25,720 --> 00:26:28,440
+There was the talking tree because I used to be really afraid of it.
+
+576
+00:26:29,080 --> 00:26:32,280
+And there was there was a few different, but I haven't found many people who have been to
+
+577
+00:26:32,280 --> 00:26:33,320
+Bugaboo Creeks.
+
+578
+00:26:33,320 --> 00:26:35,160
+That's totally unfamiliar to me.
+
+579
+00:26:35,160 --> 00:26:36,280
+They're all gone now.
+
+580
+00:26:36,280 --> 00:26:37,000
+I think I'm wrapping.
+
+581
+00:26:37,000 --> 00:26:42,280
+I've started to not be afraid of talking trees finally in my 30s because there's a lot.
+
+582
+00:26:42,280 --> 00:26:45,640
+There's that Sanrio Puroland is very that vibe.
+
+583
+00:26:45,640 --> 00:26:48,520
+And then I remember being freaked out by them at FAO Schwartz.
+
+584
+00:26:49,320 --> 00:26:52,360
+There's a lot of talking tree animatronics out there.
+
+585
+00:26:52,360 --> 00:26:52,860
+Yeah.
+
+586
+00:26:53,720 --> 00:26:54,520
+I'm trying to think.
+
+587
+00:26:54,520 --> 00:26:57,880
+I mean, the scary trees on Snow White Scary Adventure, but they didn't do they talk.
+
+588
+00:26:58,680 --> 00:26:59,480
+I'm talking those.
+
+589
+00:26:59,480 --> 00:27:00,840
+You're talking about the real.
+
+590
+00:27:00,840 --> 00:27:01,560
+Hello.
+
+591
+00:27:01,560 --> 00:27:03,000
+They have kind of like apple cheek.
+
+592
+00:27:03,000 --> 00:27:05,080
+They have like big like brown cheeks.
+
+593
+00:27:05,080 --> 00:27:07,720
+There's a wizard laws talking trees to.
+
+594
+00:27:07,720 --> 00:27:08,520
+Oh, yeah.
+
+595
+00:27:08,520 --> 00:27:09,320
+Well, they grab.
+
+596
+00:27:09,880 --> 00:27:10,360
+They grab.
+
+597
+00:27:10,360 --> 00:27:11,080
+They were violent.
+
+598
+00:27:11,080 --> 00:27:14,920
+There's also there was a type of fruit snack where in the ad there was a talking tree.
+
+599
+00:27:14,920 --> 00:27:15,240
+Yeah.
+
+600
+00:27:15,240 --> 00:27:20,280
+It goes, oh, and he like rains fruit snacks from his branches.
+
+601
+00:27:20,280 --> 00:27:22,520
+You were afraid of him a little bit.
+
+602
+00:27:22,520 --> 00:27:23,080
+Yeah.
+
+603
+00:27:23,080 --> 00:27:23,400
+Yeah.
+
+604
+00:27:23,400 --> 00:27:24,440
+That's a scary.
+
+605
+00:27:24,440 --> 00:27:27,160
+There is something scary about a tree like the bark face.
+
+606
+00:27:28,280 --> 00:27:28,600
+Yeah.
+
+607
+00:27:28,600 --> 00:27:30,200
+Bark face, whatever reason.
+
+608
+00:27:30,200 --> 00:27:30,520
+Yeah.
+
+609
+00:27:30,520 --> 00:27:31,080
+Strange.
+
+610
+00:27:31,080 --> 00:27:37,240
+The only talking tree I ever really loved was grandmother Willow from Pocahontas.
+
+611
+00:27:37,240 --> 00:27:38,520
+My mom was great.
+
+612
+00:27:38,520 --> 00:27:39,400
+She was awesome.
+
+613
+00:27:40,040 --> 00:27:44,120
+There was like we had a I don't know what kind of tree it was outside when I was little.
+
+614
+00:27:44,120 --> 00:27:49,000
+And my mom went on it and like put a little smiley face on it and sharpie and was like,
+
+615
+00:27:49,000 --> 00:27:50,600
+you can go talk to it.
+
+616
+00:27:50,600 --> 00:27:53,160
+So I would just talk to a tree outside.
+
+617
+00:27:54,600 --> 00:27:56,360
+But it wasn't grandmother Willow in your mind.
+
+618
+00:27:56,360 --> 00:27:57,960
+It was just another talking tree.
+
+619
+00:27:57,960 --> 00:27:58,680
+No, it was grandmother.
+
+620
+00:27:58,680 --> 00:27:59,160
+Oh, it was.
+
+621
+00:27:59,160 --> 00:27:59,720
+My mind.
+
+622
+00:27:59,720 --> 00:28:00,280
+Okay.
+
+623
+00:28:00,280 --> 00:28:01,320
+I was loving it.
+
+624
+00:28:01,320 --> 00:28:01,880
+That's great.
+
+625
+00:28:01,880 --> 00:28:02,120
+Yeah.
+
+626
+00:28:02,120 --> 00:28:05,560
+I'm teaching you lessons about preserving nature.
+
+627
+00:28:05,560 --> 00:28:05,800
+Yeah.
+
+628
+00:28:05,800 --> 00:28:08,360
+She was teaching me about colonialism outside my house.
+
+629
+00:28:09,480 --> 00:28:09,960
+Wild.
+
+630
+00:28:09,960 --> 00:28:12,360
+The story of mine you watched is not true.
+
+631
+00:28:12,760 --> 00:28:14,200
+Not one word of it.
+
+632
+00:28:14,200 --> 00:28:20,600
+So a friend told me about this place called has anyone encountered this?
+
+633
+00:28:20,600 --> 00:28:22,120
+They were in the Midwest.
+
+634
+00:28:22,120 --> 00:28:24,760
+Similarly to Bugaboos, an offshoot.
+
+635
+00:28:25,800 --> 00:28:28,760
+Major Magic's All-Star Pizza Review.
+
+636
+00:28:28,760 --> 00:28:29,080
+No.
+
+637
+00:28:29,080 --> 00:28:29,480
+No.
+
+638
+00:28:29,480 --> 00:28:32,920
+It is a Chuck E. Cheese like that's Major Magic.
+
+639
+00:28:32,920 --> 00:28:34,920
+He's a little guy and.
+
+640
+00:28:34,920 --> 00:28:36,040
+Oh, he's a little guy.
+
+641
+00:28:36,040 --> 00:28:38,120
+He's a little Captain Crunch.
+
+642
+00:28:38,120 --> 00:28:39,560
+Little Captain Crunch guy.
+
+643
+00:28:40,840 --> 00:28:42,120
+Was that a pancake or a burger?
+
+644
+00:28:42,120 --> 00:28:43,480
+I think that's a drum.
+
+645
+00:28:43,480 --> 00:28:45,000
+I think that's a drum with a face.
+
+646
+00:28:45,000 --> 00:28:45,480
+It's a drum.
+
+647
+00:28:45,480 --> 00:28:45,880
+So.
+
+648
+00:28:45,880 --> 00:28:47,400
+It's got those apple cheeks I'm talking about.
+
+649
+00:28:47,400 --> 00:28:48,920
+We looked this up.
+
+650
+00:28:48,920 --> 00:28:49,960
+Hi, Jane.
+
+651
+00:28:49,960 --> 00:28:50,840
+We looked this up.
+
+652
+00:28:52,040 --> 00:28:59,320
+The website I found the most of the stuff about on was a man named Dennis Machine Gun Thompson,
+
+653
+00:29:00,120 --> 00:29:03,160
+who was the drummer in the MC5.
+
+654
+00:29:03,160 --> 00:29:03,640
+What?
+
+655
+00:29:03,640 --> 00:29:04,200
+What?
+
+656
+00:29:04,200 --> 00:29:07,480
+Was involved in this Chuck E. Cheese offshoot.
+
+657
+00:29:07,480 --> 00:29:07,720
+Yes.
+
+658
+00:29:08,760 --> 00:29:09,000
+So.
+
+659
+00:29:09,000 --> 00:29:10,360
+There is a cool.
+
+660
+00:29:10,360 --> 00:29:10,600
+Oh, I miss being.
+
+661
+00:29:10,600 --> 00:29:11,720
+Pizza drama.
+
+662
+00:29:12,280 --> 00:29:16,920
+There is a cool like fox girl in a pink jumpsuit playing guitar too.
+
+663
+00:29:17,800 --> 00:29:18,280
+Wow.
+
+664
+00:29:18,280 --> 00:29:18,680
+Yeah.
+
+665
+00:29:18,680 --> 00:29:19,240
+Here.
+
+666
+00:29:19,240 --> 00:29:19,880
+She's cool.
+
+667
+00:29:20,760 --> 00:29:22,680
+Oh, that's like the best of all three.
+
+668
+00:29:22,680 --> 00:29:23,160
+Whoa.
+
+669
+00:29:23,160 --> 00:29:24,680
+Wait, what is this band called again?
+
+670
+00:29:25,560 --> 00:29:28,760
+Major Magic's All-Star Pizza Review.
+
+671
+00:29:28,760 --> 00:29:30,040
+What's the name of the band?
+
+672
+00:29:30,040 --> 00:29:30,760
+Of the band.
+
+673
+00:29:30,760 --> 00:29:31,320
+I'm not sure.
+
+674
+00:29:31,320 --> 00:29:34,360
+Flash the Drummer is a guy.
+
+675
+00:29:35,640 --> 00:29:36,360
+I think that's a.
+
+676
+00:29:37,000 --> 00:29:37,560
+She's red.
+
+677
+00:29:37,560 --> 00:29:40,600
+That's what the sax player was Sergeant Pepperoni.
+
+678
+00:29:41,160 --> 00:29:41,720
+Perfect.
+
+679
+00:29:41,720 --> 00:29:42,440
+Funny.
+
+680
+00:29:42,440 --> 00:29:49,960
+This guy was had the title vice president of entertainment and then had to recruit people.
+
+681
+00:29:49,960 --> 00:29:50,760
+Oh, this is a real.
+
+682
+00:29:50,760 --> 00:29:52,760
+No, no, the guy from the MC5.
+
+683
+00:29:52,760 --> 00:29:54,040
+Oh, that was his title.
+
+684
+00:29:55,560 --> 00:29:56,600
+That wasn't a puppet's name.
+
+685
+00:29:56,600 --> 00:29:57,080
+OK.
+
+686
+00:29:57,080 --> 00:30:00,680
+No, I mean, the puppets were clearly military ranks.
+
+687
+00:30:00,680 --> 00:30:01,320
+Oh, yeah, sure.
+
+688
+00:30:01,320 --> 00:30:02,440
+Sergeant Pepperoni, major.
+
+689
+00:30:03,720 --> 00:30:05,880
+There's no vice president in the military.
+
+690
+00:30:05,880 --> 00:30:06,280
+Yeah.
+
+691
+00:30:06,280 --> 00:30:09,720
+So yeah, major magic's is a whole other rabbit hole.
+
+692
+00:30:09,720 --> 00:30:10,760
+Oh, my God.
+
+693
+00:30:10,760 --> 00:30:11,720
+I'm sorry.
+
+694
+00:30:11,720 --> 00:30:12,360
+Bugaboo.
+
+695
+00:30:12,360 --> 00:30:13,480
+Bugaboo Creek.
+
+696
+00:30:13,480 --> 00:30:14,280
+Bugaboo Creek.
+
+697
+00:30:14,280 --> 00:30:18,040
+I feel like my mom used to go to like a bugaboo steakhouse.
+
+698
+00:30:18,040 --> 00:30:18,760
+Yeah, that was it.
+
+699
+00:30:19,160 --> 00:30:19,720
+Is that it?
+
+700
+00:30:19,720 --> 00:30:20,440
+Yeah.
+
+701
+00:30:20,440 --> 00:30:22,040
+Yeah, they might have changed the name.
+
+702
+00:30:22,040 --> 00:30:25,880
+Maybe they changed it, but I don't remember animal cheese.
+
+703
+00:30:25,880 --> 00:30:26,360
+Yeah.
+
+704
+00:30:26,360 --> 00:30:27,320
+That's a whole nother.
+
+705
+00:30:27,320 --> 00:30:27,800
+So sad.
+
+706
+00:30:27,800 --> 00:30:30,520
+Major Magic, not enough to keep restaurant open.
+
+707
+00:30:31,400 --> 00:30:32,840
+The Toledo Blade.
+
+708
+00:30:32,840 --> 00:30:35,160
+What is it?
+
+709
+00:30:35,160 --> 00:30:37,960
+Roasted by the Toledo Blade.
+
+710
+00:30:37,960 --> 00:30:44,840
+This is also like an alternate path for you being the pizza reporter for local newspapers.
+
+711
+00:30:45,480 --> 00:30:47,720
+If only this was still needed by anyone.
+
+712
+00:30:47,720 --> 00:30:48,200
+I know.
+
+713
+00:30:48,200 --> 00:30:50,440
+If there's no longer anything to cover.
+
+714
+00:30:50,440 --> 00:30:52,520
+It's a beat reporter.
+
+715
+00:30:52,520 --> 00:30:57,240
+I went to a Chuck E. Cheese in Wisconsin a couple of weeks ago, and it was in pretty good shape.
+
+716
+00:30:57,240 --> 00:30:58,680
+It was a Studio C model.
+
+717
+00:30:58,920 --> 00:31:08,120
+But I went to my boyfriend's hometown in Racine, Wisconsin, and we found some good stuff.
+
+718
+00:31:08,920 --> 00:31:16,680
+This one had to have opened sometime after 1998, but they had the dressing of like,
+
+719
+00:31:16,680 --> 00:31:19,800
+they'll do like parody posters at Chuck E. Cheese sometimes.
+
+720
+00:31:19,800 --> 00:31:21,480
+And these were the best ones I'd ever seen.
+
+721
+00:31:22,280 --> 00:31:23,960
+There's an ER parody.
+
+722
+00:31:25,480 --> 00:31:26,120
+What is that?
+
+723
+00:31:26,120 --> 00:31:26,680
+Is it just like a...
+
+724
+00:31:27,320 --> 00:31:31,720
+It's just Chuck E. and Munch in a surgical room.
+
+725
+00:31:31,720 --> 00:31:35,080
+It's called ERRR, which I don't know what the joke is.
+
+726
+00:31:36,600 --> 00:31:39,320
+There'll be these parodies posters, and they did it for albums too.
+
+727
+00:31:40,280 --> 00:31:41,800
+The one year we were in was TV shows.
+
+728
+00:31:41,800 --> 00:31:46,360
+It seems like sometimes it's pizza puns, and other times it's about that they're dumb or fat.
+
+729
+00:31:46,360 --> 00:31:49,320
+So I regard that as like, they aren't smart like doctors.
+
+730
+00:31:49,320 --> 00:31:50,280
+They're like, errr.
+
+731
+00:31:52,200 --> 00:31:53,080
+That's what I think of it.
+
+732
+00:31:53,080 --> 00:31:54,040
+Galaxy range.
+
+733
+00:31:54,920 --> 00:31:57,240
+It's a very Mad Magazine style.
+
+734
+00:31:57,240 --> 00:31:58,200
+Yeah, yeah, yeah.
+
+735
+00:31:58,200 --> 00:31:59,480
+Of like, they're dumb.
+
+736
+00:31:59,480 --> 00:32:02,120
+You can get the word doofus or clod in there or something.
+
+737
+00:32:02,120 --> 00:32:03,800
+My favorite one is Chuck Feld.
+
+738
+00:32:04,520 --> 00:32:05,640
+We'll talk to him at Chuck Feld.
+
+739
+00:32:05,640 --> 00:32:07,560
+Yeah, Chuck Feld is a classic.
+
+740
+00:32:07,560 --> 00:32:09,080
+Chuck Feld, which is a poster.
+
+741
+00:32:09,080 --> 00:32:09,640
+He's...
+
+742
+00:32:09,640 --> 00:32:13,320
+Okay, so Chuck E. Cheese is in a blazer.
+
+743
+00:32:13,320 --> 00:32:16,600
+He looks kind of like Jerry, and he's doing standup for,
+
+744
+00:32:16,600 --> 00:32:20,840
+seemingly, the backs of the heads of human Kramer, George, and Lane.
+
+745
+00:32:20,840 --> 00:32:23,320
+Yes, he's doing standup for the cast.
+
+746
+00:32:23,320 --> 00:32:24,280
+Yes, yeah.
+
+747
+00:32:24,280 --> 00:32:25,960
+It's still the regular...
+
+748
+00:32:25,960 --> 00:32:29,160
+So these people who know their friend Jerry Seinfeld
+
+749
+00:32:29,880 --> 00:32:33,960
+today are seeing a different standup show by another guy named Chuck Feld.
+
+750
+00:32:33,960 --> 00:32:34,360
+Yeah.
+
+751
+00:32:34,360 --> 00:32:35,480
+Jerry Chuck Feld.
+
+752
+00:32:35,480 --> 00:32:36,680
+Jerry Chuck Feld.
+
+753
+00:32:36,680 --> 00:32:38,440
+Or is it Chuck E. Chuck Feld?
+
+754
+00:32:38,440 --> 00:32:39,320
+Yes, that's right.
+
+755
+00:32:39,320 --> 00:32:41,400
+Charles Entertainment Chuck Feld.
+
+756
+00:32:41,400 --> 00:32:44,360
+His, yeah, his standup pseudonym is...
+
+757
+00:32:45,160 --> 00:32:45,480
+Was there...
+
+758
+00:32:45,480 --> 00:32:47,320
+There's an X files, I think, also?
+
+759
+00:32:47,320 --> 00:32:48,760
+Yeah, the C files, of course.
+
+760
+00:32:49,560 --> 00:32:49,960
+Uh-huh.
+
+761
+00:32:49,960 --> 00:32:53,000
+And then, perhaps the laziest of all, Chuck Trick.
+
+762
+00:32:54,680 --> 00:32:55,560
+Oh, man.
+
+763
+00:32:55,560 --> 00:32:56,360
+Jamming together.
+
+764
+00:32:58,040 --> 00:33:00,680
+Not even like pizza trick or something, which...
+
+765
+00:33:00,680 --> 00:33:03,880
+Or like the symbol could be in a pizza, not even that.
+
+766
+00:33:04,760 --> 00:33:07,400
+If we're in the area of the parody posters,
+
+767
+00:33:08,280 --> 00:33:09,800
+I have a little bit of stuff prepared.
+
+768
+00:33:09,800 --> 00:33:12,600
+We can keep jumping around the history and whatever,
+
+769
+00:33:12,600 --> 00:33:14,760
+but so those are the TV posters.
+
+770
+00:33:15,400 --> 00:33:17,480
+I remember being around ones in...
+
+771
+00:33:19,080 --> 00:33:21,640
+My childhood one was in Northridge, California,
+
+772
+00:33:21,640 --> 00:33:25,000
+and they had a lot of classic album covers.
+
+773
+00:33:25,000 --> 00:33:25,500
+Oh.
+
+774
+00:33:26,760 --> 00:33:29,640
+They had Yellow Submarine Sandwich,
+
+775
+00:33:30,440 --> 00:33:32,520
+their insert of Beatles cartoon style,
+
+776
+00:33:33,400 --> 00:33:35,000
+Saturday Night Retriever.
+
+777
+00:33:35,000 --> 00:33:36,520
+Is that a night fever?
+
+778
+00:33:36,520 --> 00:33:38,680
+Oh, do you have these ones that my childhood one too, yeah?
+
+779
+00:33:38,680 --> 00:33:39,480
+Okay, yes, yeah.
+
+780
+00:33:40,040 --> 00:33:40,680
+I loved the...
+
+781
+00:33:40,680 --> 00:33:44,040
+I legitimately have very fond memories of seeing...
+
+782
+00:33:44,760 --> 00:33:46,760
+I was probably acquainted with, for example,
+
+783
+00:33:47,960 --> 00:33:49,960
+Braun in the USA.
+
+784
+00:33:49,960 --> 00:33:50,460
+Braun.
+
+785
+00:33:52,040 --> 00:33:56,360
+I think I knew that before I had ever seen the cover of Born in the USA.
+
+786
+00:33:57,640 --> 00:33:59,720
+I think similarly Bad Dog,
+
+787
+00:34:01,160 --> 00:34:03,160
+where Jasper is presented like Michael Jackson.
+
+788
+00:34:03,160 --> 00:34:04,280
+Michael Jasper.
+
+789
+00:34:04,280 --> 00:34:05,080
+Michael Jasper.
+
+790
+00:34:05,640 --> 00:34:06,920
+That's one joke to it.
+
+791
+00:34:06,920 --> 00:34:07,400
+That's pretty good.
+
+792
+00:34:07,400 --> 00:34:08,600
+They wish they thought of that.
+
+793
+00:34:10,040 --> 00:34:12,600
+But the Flabby Road, another one,
+
+794
+00:34:13,000 --> 00:34:14,760
+because a lot of the song parodies also,
+
+795
+00:34:14,760 --> 00:34:17,720
+they'll just talk about being fat and the pizza makes them fat,
+
+796
+00:34:17,720 --> 00:34:21,400
+which is a strange message in your pizza restaurant.
+
+797
+00:34:21,400 --> 00:34:23,960
+But the one I legitimately like a lot,
+
+798
+00:34:23,960 --> 00:34:25,240
+I really like this,
+
+799
+00:34:25,240 --> 00:34:25,960
+is a...
+
+800
+00:34:25,960 --> 00:34:28,280
+And it's a deep cut for them to be parodying,
+
+801
+00:34:28,280 --> 00:34:31,560
+is a parody of Iron Butterfly and Agata da Vita,
+
+802
+00:34:31,560 --> 00:34:34,440
+and they make it I've agata da pizza,
+
+803
+00:34:35,720 --> 00:34:39,000
+and the artist's not Iron Butterfly, but Italian pizza guy.
+
+804
+00:34:40,360 --> 00:34:41,240
+That's thoughtful.
+
+805
+00:34:41,640 --> 00:34:42,440
+Yeah, that's good.
+
+806
+00:34:42,440 --> 00:34:44,680
+They really went one step further with it.
+
+807
+00:34:44,680 --> 00:34:48,360
+And I love these album covers and they've always made me so happy.
+
+808
+00:34:49,240 --> 00:34:53,880
+And I've always thought they needed to exist in other...
+
+809
+00:34:55,480 --> 00:34:58,680
+It pains me that they stopped doing this in a certain era,
+
+810
+00:34:58,680 --> 00:35:00,920
+so you don't get any past 1990,
+
+811
+00:35:00,920 --> 00:35:02,760
+or there may never be a new one again.
+
+812
+00:35:02,760 --> 00:35:05,240
+And they stay with albums you might know,
+
+813
+00:35:05,240 --> 00:35:07,160
+and I always thought it needed to cut deeper.
+
+814
+00:35:07,160 --> 00:35:07,880
+So this is...
+
+815
+00:35:07,880 --> 00:35:11,480
+Mike, we just talked about you just resuscitated your Twitter account,
+
+816
+00:35:12,600 --> 00:35:15,960
+the topical genie from the Aladdin show at California Adventure.
+
+817
+00:35:16,760 --> 00:35:19,400
+You were doing that in 2010, 2011.
+
+818
+00:35:19,400 --> 00:35:25,560
+I had this idea about doing new Chuck E. Cheese album covers in 2008.
+
+819
+00:35:25,560 --> 00:35:28,200
+So I'm gonna show you a Photoshop that I made in 2008,
+
+820
+00:35:28,200 --> 00:35:30,280
+and I finally have a place for it.
+
+821
+00:35:30,280 --> 00:35:32,920
+I was just like, how about artsier album covers?
+
+822
+00:35:32,920 --> 00:35:34,440
+So let me show you this here.
+
+823
+00:35:35,160 --> 00:35:37,400
+This is Chuck E. Sane.
+
+824
+00:35:38,200 --> 00:35:39,800
+It's kind of...
+
+825
+00:35:39,800 --> 00:35:43,880
+It's an Aladdin Sane where he's Chuck E. as the Bowie stripe.
+
+826
+00:35:44,760 --> 00:35:46,120
+I'll post all this on Twitter.
+
+827
+00:35:47,000 --> 00:35:48,520
+It's a little scary, isn't it?
+
+828
+00:35:48,520 --> 00:35:51,560
+I would see a vaguely androgynous Chuck.
+
+829
+00:35:51,560 --> 00:35:53,000
+And I would have been like, you would have been like,
+
+830
+00:35:53,000 --> 00:35:54,120
+that was in the restaurant.
+
+831
+00:35:54,120 --> 00:35:55,160
+I've been like, oh yeah, yeah.
+
+832
+00:35:55,160 --> 00:35:57,880
+Yeah, I wasn't even trying to go too far beyond
+
+833
+00:35:57,880 --> 00:35:59,160
+what the kind of thing they would actually have.
+
+834
+00:35:59,160 --> 00:36:01,160
+This they probably wouldn't have because it's a little too sexualized.
+
+835
+00:36:01,160 --> 00:36:03,720
+But I was just thinking about the greatest album covers of all time.
+
+836
+00:36:03,720 --> 00:36:05,640
+There's the Cars, Candio.
+
+837
+00:36:05,640 --> 00:36:09,160
+And I've turned that into the Hens Pizza O.
+
+838
+00:36:10,520 --> 00:36:14,280
+We're looking at Helen in kind of a body stocking,
+
+839
+00:36:14,280 --> 00:36:17,320
+lying on top of a big slice of pizza.
+
+840
+00:36:17,320 --> 00:36:17,880
+Right, right.
+
+841
+00:36:17,880 --> 00:36:18,440
+Iconic.
+
+842
+00:36:18,440 --> 00:36:20,760
+And then this was this one I just made the other day
+
+843
+00:36:20,760 --> 00:36:22,440
+just to keep this trend going.
+
+844
+00:36:23,640 --> 00:36:25,720
+But here, because they never went metal.
+
+845
+00:36:26,600 --> 00:36:31,400
+So what I made is Pasqualica, Master of Pizzas.
+
+846
+00:36:32,120 --> 00:36:35,720
+And this is a graveyard with many pizzas
+
+847
+00:36:35,720 --> 00:36:39,640
+and the disembodied hands of the master, Pasquale.
+
+848
+00:36:40,600 --> 00:36:43,960
+So what I'm saying is I'm going to post these on the Twitter,
+
+849
+00:36:43,960 --> 00:36:49,400
+but I would there's lots of great artists out there listening to the show.
+
+850
+00:36:49,400 --> 00:36:51,160
+More of these, please.
+
+851
+00:36:51,160 --> 00:36:53,880
+I don't have a catchy name or a hashtag for it.
+
+852
+00:36:53,880 --> 00:36:58,200
+I mean, maybe it's just Chuckie covers, just hashtag Chuckie covers.
+
+853
+00:36:58,200 --> 00:36:59,400
+But I want to see more.
+
+854
+00:37:00,200 --> 00:37:05,480
+Like if our feed could be full of classic album covers or TV,
+
+855
+00:37:07,480 --> 00:37:10,360
+if you have a good Chuck Feld idea as well.
+
+856
+00:37:10,360 --> 00:37:11,800
+And this isn't a contest.
+
+857
+00:37:11,800 --> 00:37:14,680
+None of these assets have to be legally clearable.
+
+858
+00:37:14,680 --> 00:37:18,120
+Just send like, let's all share some Chuckie album covers
+
+859
+00:37:18,120 --> 00:37:19,720
+since they aren't making these things anymore.
+
+860
+00:37:19,720 --> 00:37:23,400
+Yeah, I was also going to say like, don't limit this to great artists.
+
+861
+00:37:27,160 --> 00:37:28,920
+If you suck, let's do it anyway.
+
+862
+00:37:29,400 --> 00:37:31,000
+Your first day of art.
+
+863
+00:37:31,000 --> 00:37:33,320
+Yeah, please.
+
+864
+00:37:33,320 --> 00:37:34,520
+Like we'll see any.
+
+865
+00:37:34,520 --> 00:37:38,200
+Yeah, actually, I perhaps might prefer the worst or the rough draft.
+
+866
+00:37:39,000 --> 00:37:39,960
+It doesn't matter.
+
+867
+00:37:39,960 --> 00:37:40,440
+Oh, yeah.
+
+868
+00:37:41,080 --> 00:37:42,360
+Let's get these moving.
+
+869
+00:37:42,360 --> 00:37:43,320
+Let's get a listicle.
+
+870
+00:37:43,320 --> 00:37:47,960
+Yeah, I recall seeing I recall seeing because they had like,
+
+871
+00:37:47,960 --> 00:37:50,280
+you know, they had the channels you would watch.
+
+872
+00:37:50,280 --> 00:37:53,240
+They would have TVs playing and it would just be a loop of entertainment.
+
+873
+00:37:53,240 --> 00:37:56,680
+Sometimes featuring a character named mouth or.
+
+874
+00:37:56,680 --> 00:37:57,400
+Oh, yeah.
+
+875
+00:37:57,400 --> 00:37:58,280
+Yeah, yeah, yeah, yeah.
+
+876
+00:37:58,280 --> 00:37:59,240
+I remember.
+
+877
+00:37:59,240 --> 00:38:00,280
+I remember mouth.
+
+878
+00:38:00,280 --> 00:38:02,920
+Very unpleasant, like fucking rocky horror mouth.
+
+879
+00:38:03,640 --> 00:38:03,960
+Yeah.
+
+880
+00:38:03,960 --> 00:38:07,560
+And I remember not caring for that video loop at all.
+
+881
+00:38:08,760 --> 00:38:11,240
+Because there were games around, there were big robots,
+
+882
+00:38:11,240 --> 00:38:15,480
+but there was this loop of comedy and then mouth.
+
+883
+00:38:16,840 --> 00:38:18,520
+A lot of tugging on your mom's leg.
+
+884
+00:38:18,520 --> 00:38:19,640
+Mommy, it's mouth.
+
+885
+00:38:20,360 --> 00:38:21,480
+Mommy, you want to go home?
+
+886
+00:38:21,480 --> 00:38:22,200
+It's mouth.
+
+887
+00:38:22,200 --> 00:38:24,760
+Did they play at the one I went to when I was a kid,
+
+888
+00:38:24,760 --> 00:38:26,840
+they played a lot of old Pink Panther cartoons.
+
+889
+00:38:26,840 --> 00:38:27,640
+That was like.
+
+890
+00:38:27,640 --> 00:38:28,120
+Interesting.
+
+891
+00:38:28,120 --> 00:38:30,680
+Something they would play between animatronic shows.
+
+892
+00:38:30,680 --> 00:38:33,960
+And that was that was probably the first time I would have seen those cartoons.
+
+893
+00:38:33,960 --> 00:38:35,400
+I guess they played cartoon.
+
+894
+00:38:35,400 --> 00:38:37,800
+They did play cartoons, but I don't have a memory of what they were.
+
+895
+00:38:37,800 --> 00:38:39,480
+But they would be breaks.
+
+896
+00:38:39,480 --> 00:38:40,760
+I remember in between.
+
+897
+00:38:40,760 --> 00:38:41,080
+Yeah.
+
+898
+00:38:41,080 --> 00:38:43,080
+Like their spot, their content.
+
+899
+00:38:43,080 --> 00:38:45,880
+Now it's music videos that they play between their content.
+
+900
+00:38:45,880 --> 00:38:50,680
+And it's like music videos that they seem to have licensed in the mid to late aughts.
+
+901
+00:38:50,680 --> 00:38:52,760
+Like at least 10 years ago, because.
+
+902
+00:38:52,760 --> 00:38:54,280
+Like real music videos.
+
+903
+00:38:54,280 --> 00:38:57,080
+Yeah, there's one I remember the last time I was there there.
+
+904
+00:38:57,320 --> 00:38:59,880
+Because they only have like 45 minutes worth of them.
+
+905
+00:38:59,880 --> 00:39:04,200
+And then it goes back to Vanessa Carlton, A Thousand Miles, which is a song from 2002.
+
+906
+00:39:04,200 --> 00:39:05,320
+Yeah, very old.
+
+907
+00:39:05,320 --> 00:39:08,200
+I was going to say Michelle Branch.
+
+908
+00:39:08,200 --> 00:39:08,520
+Yeah.
+
+909
+00:39:08,520 --> 00:39:09,480
+Vanessa Carlton.
+
+910
+00:39:10,280 --> 00:39:12,440
+I was going to say very similar.
+
+911
+00:39:12,440 --> 00:39:14,120
+Yeah, it was similar at the same time.
+
+912
+00:39:14,120 --> 00:39:14,840
+Yeah.
+
+913
+00:39:14,840 --> 00:39:16,040
+Who bestank the reason?
+
+914
+00:39:17,160 --> 00:39:17,800
+Is that in there?
+
+915
+00:39:17,800 --> 00:39:19,480
+That would probably line up.
+
+916
+00:39:20,280 --> 00:39:20,920
+Maybe.
+
+917
+00:39:22,440 --> 00:39:23,480
+Oh, at the movies?
+
+918
+00:39:24,440 --> 00:39:25,160
+The fun one?
+
+919
+00:39:26,120 --> 00:39:27,800
+Well, they did the smooth criminal cover too.
+
+920
+00:39:27,800 --> 00:39:28,280
+Well, yeah.
+
+921
+00:39:28,280 --> 00:39:29,720
+I don't remember at the movies.
+
+922
+00:39:30,920 --> 00:39:33,160
+Movies was the name of the song, I believe.
+
+923
+00:39:33,160 --> 00:39:33,720
+Oh, OK.
+
+924
+00:39:34,920 --> 00:39:36,840
+They were dressed like the Ghostbusters at it.
+
+925
+00:39:36,840 --> 00:39:37,160
+Yeah.
+
+926
+00:39:37,160 --> 00:39:37,560
+Sweet.
+
+927
+00:39:37,560 --> 00:39:39,160
+They would talk about going to the movies.
+
+928
+00:39:39,160 --> 00:39:41,720
+We had the best day dressing up like Ghostbusters.
+
+929
+00:39:41,720 --> 00:39:43,800
+Boy, being an alien at a farm is a dream.
+
+930
+00:39:44,360 --> 00:39:49,880
+Maybe they just didn't license music past bowling for soup at their peak.
+
+931
+00:39:49,880 --> 00:39:52,600
+Maybe they just used all his connections.
+
+932
+00:39:52,600 --> 00:39:54,440
+He's like, yeah, I know Vanessa Carlton.
+
+933
+00:39:55,320 --> 00:39:56,280
+I'll hook you up.
+
+934
+00:39:56,280 --> 00:39:57,160
+I'll hook you up.
+
+935
+00:39:57,160 --> 00:39:59,320
+That's what you get when you're in business with bowling for soup.
+
+936
+00:40:01,720 --> 00:40:04,200
+I was watching the Tonys a couple of weeks ago, and they're like,
+
+937
+00:40:04,200 --> 00:40:07,160
+coming up after the break, David Byrne and Vanessa Carlton.
+
+938
+00:40:07,160 --> 00:40:08,280
+And I'm like, what?
+
+939
+00:40:09,080 --> 00:40:10,360
+What is this combination?
+
+940
+00:40:10,360 --> 00:40:12,520
+And they were presenting an award.
+
+941
+00:40:12,520 --> 00:40:16,760
+The reason is David Byrne is doing a one-man thing on Broadway,
+
+942
+00:40:16,760 --> 00:40:21,800
+and Vanessa Carlton is taking over as Carole King in the Carole King music.
+
+943
+00:40:21,800 --> 00:40:22,440
+Wow, really?
+
+944
+00:40:22,440 --> 00:40:23,240
+That's kind of cool.
+
+945
+00:40:23,240 --> 00:40:23,720
+Yeah.
+
+946
+00:40:23,720 --> 00:40:24,520
+I should like that.
+
+947
+00:40:24,520 --> 00:40:25,160
+Good for her.
+
+948
+00:40:25,160 --> 00:40:26,360
+Good for her.
+
+949
+00:40:26,360 --> 00:40:28,280
+I kind of like A Thousand Miles.
+
+950
+00:40:28,280 --> 00:40:28,920
+I do too.
+
+951
+00:40:28,920 --> 00:40:29,480
+Yeah.
+
+952
+00:40:29,480 --> 00:40:30,360
+I'll also come out.
+
+953
+00:40:30,360 --> 00:40:33,480
+This is going back to, I shouldn't just be equating them, but Michelle Branch.
+
+954
+00:40:34,040 --> 00:40:34,520
+I like that.
+
+955
+00:40:34,520 --> 00:40:36,440
+I want to come out in favor of that Santana song.
+
+956
+00:40:36,440 --> 00:40:37,320
+The Game of Loves.
+
+957
+00:40:37,320 --> 00:40:40,280
+I was just about to say I like that song.
+
+958
+00:40:40,280 --> 00:40:41,800
+Pro Game of Loves.
+
+959
+00:40:41,800 --> 00:40:43,400
+I'm a big fan of that song as well.
+
+960
+00:40:43,400 --> 00:40:44,440
+A little bit of this.
+
+961
+00:40:44,440 --> 00:40:45,160
+Wah wah wah.
+
+962
+00:40:45,880 --> 00:40:48,360
+I think I'm an everywhere man myself.
+
+963
+00:40:49,480 --> 00:40:49,960
+Everywhere?
+
+964
+00:40:51,160 --> 00:40:52,440
+I think that other one is better.
+
+965
+00:40:52,440 --> 00:40:53,480
+You're into me.
+
+966
+00:40:53,480 --> 00:40:54,360
+But I'm all right with it.
+
+967
+00:40:54,360 --> 00:40:55,160
+I'm all right with it.
+
+968
+00:40:56,840 --> 00:40:58,040
+You guys ever have hit clips?
+
+969
+00:40:59,640 --> 00:41:00,760
+Wait, the sense familiar?
+
+970
+00:41:00,760 --> 00:41:02,920
+That's not the thing you got from McDonald's, is it?
+
+971
+00:41:02,920 --> 00:41:04,440
+They had them at McDonald's at one point,
+
+972
+00:41:04,440 --> 00:41:09,480
+but it was like a little tiny USB looking thing that you could plug into a fake boom box,
+
+973
+00:41:09,480 --> 00:41:11,960
+and it would play exactly one minute of a hit song.
+
+974
+00:41:12,520 --> 00:41:13,480
+It was only a minute.
+
+975
+00:41:13,480 --> 00:41:16,760
+I remember each one had one song, but I thought it was a full slam.
+
+976
+00:41:16,760 --> 00:41:18,760
+No, it was just a minute of a song.
+
+977
+00:41:18,760 --> 00:41:22,680
+And we would get, because my family couldn't afford the current ones,
+
+978
+00:41:23,480 --> 00:41:26,520
+we would get one minute of ABC by the Jackson 5.
+
+979
+00:41:28,520 --> 00:41:29,960
+They made vintage ones too.
+
+980
+00:41:29,960 --> 00:41:32,680
+And then Sugar Ray would be on sale, so we have those ones.
+
+981
+00:41:32,680 --> 00:41:33,180
+Sure.
+
+982
+00:41:34,280 --> 00:41:35,160
+Bad news, guys.
+
+983
+00:41:35,160 --> 00:41:36,680
+We're pricing it down.
+
+984
+00:41:36,680 --> 00:41:38,920
+They're going down to $149 from $209.
+
+985
+00:41:41,240 --> 00:41:41,880
+Wow.
+
+986
+00:41:41,880 --> 00:41:45,800
+These are the things that are going to make us, that already are making us sound old.
+
+987
+00:41:46,680 --> 00:41:48,360
+And they're so bizarre.
+
+988
+00:41:48,760 --> 00:41:50,600
+Our parents were pretty clean.
+
+989
+00:41:50,600 --> 00:41:51,640
+We used to have records.
+
+990
+00:41:52,600 --> 00:41:59,960
+We would download 45 second real player clips of songs from MTV.com.
+
+991
+00:42:03,720 --> 00:42:05,720
+You could listen to songs in CD quality.
+
+992
+00:42:05,720 --> 00:42:06,680
+No, no.
+
+993
+00:42:06,680 --> 00:42:08,840
+We had to listen to a scratchy clip.
+
+994
+00:42:08,840 --> 00:42:10,200
+Scratchy Lady Marmalade.
+
+995
+00:42:15,160 --> 00:42:16,120
+Boy, those are the days.
+
+996
+00:42:17,160 --> 00:42:18,920
+You were talking about the loops.
+
+997
+00:42:19,880 --> 00:42:23,960
+Oh yeah, I was just saying, I don't have a good memory of those.
+
+998
+00:42:23,960 --> 00:42:26,520
+I don't have any fondness for them in my brain.
+
+999
+00:42:26,520 --> 00:42:30,520
+I think there was just too much stuff I liked better, but a lot of it didn't stick with me.
+
+1000
+00:42:30,520 --> 00:42:32,440
+They are all on YouTube.
+
+1001
+00:42:32,440 --> 00:42:36,440
+There is so much, in talking about tackling a Chuck E. Cheese episode,
+
+1002
+00:42:36,440 --> 00:42:42,200
+I just had to ignore Giant Swaths of Stuff, because it would take full days to watch all
+
+1003
+00:42:42,200 --> 00:42:44,600
+of the material that's been archived on YouTube.
+
+1004
+00:42:44,600 --> 00:42:48,520
+It's a ton, and I would get no pleasure or enjoyment.
+
+1005
+00:42:49,080 --> 00:42:49,720
+That is almost any of it.
+
+1006
+00:42:49,720 --> 00:42:56,120
+Yeah, it's crazy to me how thorough the programming was at the restaurant,
+
+1007
+00:42:56,120 --> 00:43:03,240
+at its peak, where they would make a new hour-long show every single month for a long time.
+
+1008
+00:43:03,880 --> 00:43:11,640
+I guess this would have been post them reskinning the Rock of Fire explosion,
+
+1009
+00:43:11,640 --> 00:43:15,800
+but there was a while where there was a new show every single month,
+
+1010
+00:43:15,800 --> 00:43:19,880
+and then I think it went a seasonal show, and then it just was like eternal,
+
+1011
+00:43:20,920 --> 00:43:23,560
+just the same Vanessa Carlton music video.
+
+1012
+00:43:23,560 --> 00:43:28,600
+But they used to program new stuff all the time where they would play different songs,
+
+1013
+00:43:28,600 --> 00:43:33,160
+and then it was just, and the Rock of Fire explosion was doing the same thing when they
+
+1014
+00:43:33,160 --> 00:43:35,080
+were trying to stay in competition with each other.
+
+1015
+00:43:35,080 --> 00:43:40,200
+So there's all these long ass, it's archived on, I forget what the website is,
+
+1016
+00:43:40,200 --> 00:43:42,760
+but I think it's like a Rock of Fire explosion fan site,
+
+1017
+00:43:43,320 --> 00:43:48,360
+where there's a lot of the hour-long programs archived.
+
+1018
+00:43:50,440 --> 00:43:56,120
+It's that mixed media where this stuff has always been confusing, where sometimes it's puppets,
+
+1019
+00:43:56,120 --> 00:44:00,280
+and sometimes it is people in suits, and then sometimes it's footage of the robots who you're
+
+1020
+00:44:00,280 --> 00:44:05,880
+watching right there, but in other cases it's a robot like the Studio C Chuck doesn't look like
+
+1021
+00:44:05,880 --> 00:44:10,040
+the one that's on the screen, and that doesn't look like the one that's outside, because that's
+
+1022
+00:44:10,040 --> 00:44:15,000
+the Alvin and the Chipmunksified, the bowling for soup one. I swear there are
+
+1023
+00:44:16,280 --> 00:44:19,480
+vantage points you could have in a Chuck E. Cheese where you're looking at five different
+
+1024
+00:44:19,480 --> 00:44:21,560
+iterations of Chuck E. at once.
+
+1025
+00:44:21,560 --> 00:44:26,520
+There's a lot of cognitive dissonance for it. I must be confusing, I remember as a kid being
+
+1026
+00:44:26,520 --> 00:44:33,080
+like, wait a second, Chuck E. is there and moving, and then Chuck E. is also on stage,
+
+1027
+00:44:33,080 --> 00:44:36,840
+and then you just have to reconcile with that. I feel like that doesn't usually happen.
+
+1028
+00:44:37,240 --> 00:44:41,240
+In play, you're only supposed to see one character at a time.
+
+1029
+00:44:41,240 --> 00:44:43,000
+Yeah, Disney is very strict about that.
+
+1030
+00:44:43,000 --> 00:44:47,720
+That's a no-no. If you were taking a photo with Mickey and you saw him walk out of an exit,
+
+1031
+00:44:49,080 --> 00:44:50,360
+that would freak you out.
+
+1032
+00:44:50,360 --> 00:44:54,920
+Yeah, but Chuck E. Cheese, the second you walk in the door, you could be looking at three or four
+
+1033
+00:44:54,920 --> 00:44:55,960
+different media.
+
+1034
+00:44:57,800 --> 00:45:03,560
+He's on the screen as the puppet, he's a walk-around character, but there's a robot of him in the back.
+
+1035
+00:45:04,040 --> 00:45:09,480
+There's art of multiple kinds of him, and he'll be on a machine looking different than he does on
+
+1036
+00:45:09,480 --> 00:45:09,880
+the wall.
+
+1037
+00:45:09,880 --> 00:45:15,480
+He's also sitting in the little car ride nearby. There's so many of him.
+
+1038
+00:45:16,360 --> 00:45:20,840
+They could also show that there's a 40 years of Chuck E. thing they're showing now, which has
+
+1039
+00:45:20,840 --> 00:45:26,120
+all the old clips in it. Can you imagine how confusing that would be for you as a kid?
+
+1040
+00:45:26,920 --> 00:45:34,040
+There is a really good shirt that they were selling. If you get an XL
+
+1041
+00:45:34,920 --> 00:45:39,320
+t-shirt at Chuck E. Cheese, because they don't make them for adults, but that will about fit me.
+
+1042
+00:45:39,320 --> 00:45:43,800
+They had a great line of 40th anniversary merch. I got it all.
+
+1043
+00:45:43,800 --> 00:45:47,480
+Oh, really? Oh my God, I need to look this up. Is this on eBay? Can I look at this now?
+
+1044
+00:45:48,760 --> 00:45:54,600
+My favorite was a red t-shirt that said 40 years of Chuck E. and showed you every iteration of
+
+1045
+00:45:54,600 --> 00:45:57,640
+Chuck E. all the way up to 2017.
+
+1046
+00:45:58,280 --> 00:46:00,760
+So that's like 19 varieties.
+
+1047
+00:46:01,800 --> 00:46:04,920
+Back when he was still a rat, they changed his damn species.
+
+1048
+00:46:04,920 --> 00:46:05,400
+Oh, yeah.
+
+1049
+00:46:06,520 --> 00:46:08,440
+They literally define him as a mouse now.
+
+1050
+00:46:10,200 --> 00:46:14,040
+And that at the very opening of the company, I found this interesting.
+
+1051
+00:46:14,920 --> 00:46:19,800
+It was originally going to be called Coyote Pizza, and then Nolan Bushnell was informed the
+
+1052
+00:46:19,800 --> 00:46:28,360
+costume he bought was a rat, not a coyote. And his pitch for like, okay, we can fix this.
+
+1053
+00:46:29,000 --> 00:46:33,000
+The name now, it's going to be Rick Ratt's Pizza.
+
+1054
+00:46:33,000 --> 00:46:33,960
+Yeah, Rick Ratt.
+
+1055
+00:46:35,480 --> 00:46:42,840
+The company, the board went, no, no, it is not going to be Rick Ratt Pizza.
+
+1056
+00:46:42,840 --> 00:46:45,000
+Rick Ratt is so funny.
+
+1057
+00:46:45,400 --> 00:46:52,760
+He definitely had his eye on a different prize because the quote he says when asked about,
+
+1058
+00:46:52,760 --> 00:46:58,840
+why did you pick pizza to serve? He said, I chose pizza because of the wait time and the build
+
+1059
+00:46:58,840 --> 00:47:06,680
+schedule. Very few components and not too many ways to screw it up. Now that is a man who makes
+
+1060
+00:47:06,680 --> 00:47:09,560
+computer things talking about food.
+
+1061
+00:47:09,560 --> 00:47:12,520
+That's a programmer's approach to a restaurant.
+
+1062
+00:47:12,520 --> 00:47:15,080
+That is a normal way to talk about food.
+
+1063
+00:47:15,080 --> 00:47:17,720
+Little room for error. Very few bugs.
+
+1064
+00:47:18,760 --> 00:47:20,520
+Don't you think hot dogs would have been better?
+
+1065
+00:47:20,520 --> 00:47:28,200
+Well, so they did serve hot dogs for a little while. And in the infamous 1991 training videos,
+
+1066
+00:47:28,200 --> 00:47:34,280
+they show you how to make the hot dog, which is you take a sheet of tin foil, you wrap the
+
+1067
+00:47:34,280 --> 00:47:39,880
+bun in half the tin foil, then you put the hot dog on the other half, and then you put that on a pan
+
+1068
+00:47:39,880 --> 00:47:46,360
+and put it in the pizza oven. I have never seen a baked hot dog before. But then in the video,
+
+1069
+00:47:46,360 --> 00:47:51,880
+they very gingerly then put it in the bun and present it on a plate with one mustard,
+
+1070
+00:47:51,880 --> 00:47:58,680
+one ketchup, one relish, and a bag of Lay's. And it is a beautiful presentation of a hot dog and chips.
+
+1071
+00:47:59,400 --> 00:48:00,520
+Beautiful presentation.
+
+1072
+00:48:00,520 --> 00:48:03,000
+Ray has never uttered until this moment.
+
+1073
+00:48:03,560 --> 00:48:08,360
+Right now they're really pushing their salad bar, which I would not recommend.
+
+1074
+00:48:09,320 --> 00:48:16,360
+I would recommend the lunch buffet. They're trying to basically make it like a Panera bread
+
+1075
+00:48:16,360 --> 00:48:23,080
+with a dance floor where they have solid Wi-Fi now. They have coffee all day. They're putting
+
+1076
+00:48:23,080 --> 00:48:27,240
+in electrical outlets to encourage. I think that's the new soap opera sports room. It's like,
+
+1077
+00:48:27,240 --> 00:48:33,080
+oh, you can come here and do your stuff while your kids are losing their minds on the dance
+
+1078
+00:48:33,080 --> 00:48:40,840
+floor or whatever. But they have a daytime Monday through Friday open buffet for eight bucks.
+
+1079
+00:48:40,840 --> 00:48:44,360
+That's decent. The salad bar, don't touch it. Scary.
+
+1080
+00:48:44,360 --> 00:48:46,120
+Does the buffet have pizza in it then?
+
+1081
+00:48:46,120 --> 00:48:53,640
+Yeah. It's like pizza, cinnamon sticks. There's a couple different options. And then you get a
+
+1082
+00:48:53,640 --> 00:48:58,360
+drink with it and then you just refill until there's too many families there and you start
+
+1083
+00:48:58,360 --> 00:49:01,240
+to get uncomfortable. I shouldn't be here.
+
+1084
+00:49:01,240 --> 00:49:07,080
+But it did seem like on their earnings report or company history, they're trying to get
+
+1085
+00:49:07,080 --> 00:49:12,760
+adults without kids. They're trying to get that arrested development kind of older millennials.
+
+1086
+00:49:12,760 --> 00:49:15,480
+And remove the robots out of their minds?
+
+1087
+00:49:15,880 --> 00:49:16,760
+That's what I don't get.
+
+1088
+00:49:16,760 --> 00:49:22,200
+That's the reason an arrested development person would... Look, there's fucking lines for
+
+1089
+00:49:22,840 --> 00:49:29,560
+four hours to get into a brand new bar with a robot performing called Oga's Cantina. That
+
+1090
+00:49:29,560 --> 00:49:35,720
+should teach him something. Maybe just what they need to do is invest in better robots.
+
+1091
+00:49:35,720 --> 00:49:42,280
+I want to see Chuck and Munch and Pasquale and Helen and Jasper with all of the super hydraulics
+
+1092
+00:49:42,280 --> 00:49:43,320
+of Rex.
+
+1093
+00:49:43,320 --> 00:49:48,520
+So has anyone seen this 30 minute commercial for the endless salad bar?
+
+1094
+00:49:48,520 --> 00:49:50,200
+Yes, the ASMR video.
+
+1095
+00:49:50,200 --> 00:49:55,800
+Yes, it's a yoga ASMR kind of new age thing. And it's 30 minutes long.
+
+1096
+00:49:55,800 --> 00:49:59,240
+I am aghast. My mouth is wide open.
+
+1097
+00:49:59,560 --> 00:50:02,760
+Weird that companies are getting into ASMR now.
+
+1098
+00:50:02,760 --> 00:50:08,600
+Yeah, it's a couple years. So I'll play a couple... I watched a few minutes and honestly,
+
+1099
+00:50:08,600 --> 00:50:10,280
+I was like, well, kind of funny.
+
+1100
+00:50:10,280 --> 00:50:10,840
+It's cute.
+
+1101
+00:50:10,840 --> 00:50:11,400
+Yeah, it's kind of cute.
+
+1102
+00:50:11,400 --> 00:50:12,120
+Are you done crunching?
+
+1103
+00:50:30,280 --> 00:50:31,480
+Chuck E. Cheese.
+
+1104
+00:50:34,680 --> 00:50:38,200
+This is all of us tonight. We have the sound of sleep we've ever had.
+
+1105
+00:50:39,160 --> 00:50:41,960
+Listening to a peaceful voice talk about Chuck E. Cheese.
+
+1106
+00:50:41,960 --> 00:50:46,600
+They just switched the advertising company that they work with. So I think that they're
+
+1107
+00:50:46,600 --> 00:50:51,640
+trying to be like a fun brand now that will like, I don't know, what was the brand that
+
+1108
+00:50:51,640 --> 00:50:53,880
+threatened to commit suicide or something?
+
+1109
+00:50:54,680 --> 00:50:56,600
+Oh, I know what you're talking about.
+
+1110
+00:50:56,600 --> 00:50:59,000
+There was a brand that, yeah, said that they were going to...
+
+1111
+00:50:59,800 --> 00:51:01,160
+Stakehams is very online.
+
+1112
+00:51:01,160 --> 00:51:02,120
+Stakehams did something...
+
+1113
+00:51:02,120 --> 00:51:03,480
+Rebbes was talking to somebody.
+
+1114
+00:51:04,360 --> 00:51:06,040
+I think it was Sonny D.
+
+1115
+00:51:06,040 --> 00:51:10,760
+Sonny D. Yeah, Sonny D was like, I don't know how many more days I'm going to have like this.
+
+1116
+00:51:10,760 --> 00:51:14,200
+Yeah, Sonny D was like extremely depressed.
+
+1117
+00:51:14,200 --> 00:51:20,600
+Yeah, and Hostess was like, no, come on, we're here for you. And Wendy's... It's a dark world.
+
+1118
+00:51:20,600 --> 00:51:21,400
+Darkest timeline.
+
+1119
+00:51:23,400 --> 00:51:26,360
+Oh yeah, Sonny D said, I can't do this anymore.
+
+1120
+00:51:29,560 --> 00:51:35,080
+And Round Table Pizza wrote back, kill yourself.
+
+1121
+00:51:39,560 --> 00:51:40,760
+Pop Tarts replied.
+
+1122
+00:51:42,280 --> 00:51:43,640
+Jackbox replied.
+
+1123
+00:51:44,520 --> 00:51:46,920
+Everything, it's Crest replied.
+
+1124
+00:51:47,640 --> 00:51:48,600
+I hate...
+
+1125
+00:51:48,600 --> 00:51:54,440
+I like to imagine that as two people in the same office just like logging. They're in different
+
+1126
+00:51:54,440 --> 00:51:57,400
+hoot suite windows just tweeting each other.
+
+1127
+00:51:57,400 --> 00:51:58,360
+Just reading passwords.
+
+1128
+00:51:58,360 --> 00:51:59,080
+Uber eats at few occasions.
+
+1129
+00:51:59,080 --> 00:52:02,120
+Having a breakdown through brand accounts.
+
+1130
+00:52:02,840 --> 00:52:05,080
+Moon Pie replied.
+
+1131
+00:52:05,080 --> 00:52:07,720
+That's what I'm thinking of, that Moon Pie's got involved.
+
+1132
+00:52:08,360 --> 00:52:09,560
+Oh God.
+
+1133
+00:52:09,560 --> 00:52:10,920
+What's happening?
+
+1134
+00:52:10,920 --> 00:52:11,160
+Yeah.
+
+1135
+00:52:11,160 --> 00:52:11,800
+I don't know.
+
+1136
+00:52:13,160 --> 00:52:17,080
+I miss when it was robots instead of...
+
+1137
+00:52:17,800 --> 00:52:18,040
+Yeah.
+
+1138
+00:52:18,040 --> 00:52:18,440
+Snarky people.
+
+1139
+00:52:18,440 --> 00:52:23,240
+Bizarre live corporations yelling into our pockets.
+
+1140
+00:52:23,240 --> 00:52:29,880
+I appreciate that Chucky has remained fairly uncool consistently throughout the history.
+
+1141
+00:52:32,600 --> 00:52:41,320
+Yeah. Their attempt at cool was he skateboards and even then has a helmet and pads that restrict.
+
+1142
+00:52:41,320 --> 00:52:42,760
+He's such a nerd.
+
+1143
+00:52:42,760 --> 00:52:46,280
+He's so safe.
+
+1144
+00:52:46,280 --> 00:52:51,560
+Skateboarding in the very flat parking lot, like mile long parking lots that are next to Chucky
+
+1145
+00:52:51,560 --> 00:52:51,960
+Jesus.
+
+1146
+00:52:52,840 --> 00:52:55,640
+The most dangerous version of him was the grifter rat.
+
+1147
+00:52:56,280 --> 00:52:58,120
+The cigar chomping...
+
+1148
+00:52:58,120 --> 00:52:58,840
+The joysy.
+
+1149
+00:52:58,840 --> 00:52:59,720
+The cigar guy.
+
+1150
+00:52:59,720 --> 00:53:00,840
+The joysy rat.
+
+1151
+00:53:00,840 --> 00:53:01,640
+Yeah.
+
+1152
+00:53:01,640 --> 00:53:03,800
+Yeah. Ricky. What's his name?
+
+1153
+00:53:03,800 --> 00:53:04,440
+Rick Rat.
+
+1154
+00:53:04,440 --> 00:53:05,000
+Rick Rat.
+
+1155
+00:53:06,840 --> 00:53:07,720
+Yeah. That was a scary...
+
+1156
+00:53:10,040 --> 00:53:11,560
+Here I am, Chucky Cheese.
+
+1157
+00:53:13,800 --> 00:53:18,680
+I've realized that the voice of that early Chuck that I do is...
+
+1158
+00:53:18,680 --> 00:53:20,360
+Or that we were both doing...
+
+1159
+00:53:20,360 --> 00:53:21,160
+Is it Jay Leno?
+
+1160
+00:53:21,720 --> 00:53:21,960
+Yes.
+
+1161
+00:53:21,960 --> 00:53:22,360
+Yeah.
+
+1162
+00:53:22,360 --> 00:53:23,480
+Precisely.
+
+1163
+00:53:23,480 --> 00:53:30,120
+But then I was thinking about that and realizing there's some crossover there because think about
+
+1164
+00:53:30,120 --> 00:53:39,320
+it. He's like the entertainer traversing the country. Every little podunk town, he's there.
+
+1165
+00:53:39,320 --> 00:53:44,920
+He's entertaining people. Another guy comes along and it's thought that maybe they can
+
+1166
+00:53:44,920 --> 00:53:45,400
+coexist.
+
+1167
+00:53:45,400 --> 00:53:46,440
+Oh, right, right, right.
+
+1168
+00:53:46,440 --> 00:53:48,760
+And then he crushes the other one.
+
+1169
+00:53:48,760 --> 00:53:49,240
+Right.
+
+1170
+00:53:49,240 --> 00:53:52,040
+Sends him packing. He's not around anymore.
+
+1171
+00:53:52,840 --> 00:53:55,400
+Billy Bob just wasn't selling the pizzas.
+
+1172
+00:53:57,080 --> 00:53:59,640
+That's what it boils down to. He wasn't bringing in the numbers.
+
+1173
+00:54:02,920 --> 00:54:05,400
+Fats just wasn't as good of a bandleader as Munch.
+
+1174
+00:54:05,400 --> 00:54:11,240
+Chucky Cheese hiding in a closet to listen in on the unification talks.
+
+1175
+00:54:13,640 --> 00:54:17,560
+That's the way they had to rebrand him into this little child skateboarder mouse.
+
+1176
+00:54:18,120 --> 00:54:20,600
+He could not be an entertainment sleaze.
+
+1177
+00:54:20,600 --> 00:54:25,400
+But Billy Bob's a family guy. I wish him well. Do you want to put me on the marquee?
+
+1178
+00:54:25,400 --> 00:54:27,480
+I guess. All right, I guess. Okay, I'll do it.
+
+1179
+00:54:27,480 --> 00:54:30,840
+Yeah, I'll do it if you want me to come down. If you want, look, it's not up to me.
+
+1180
+00:54:30,840 --> 00:54:31,640
+I'm around here.
+
+1181
+00:54:35,480 --> 00:54:37,400
+I hadn't thought about it that they're exactly the same.
+
+1182
+00:54:37,400 --> 00:54:39,320
+They're this. Exactly the same.
+
+1183
+00:54:39,320 --> 00:54:40,520
+Equals Chucky.
+
+1184
+00:54:41,800 --> 00:54:45,800
+Real quick, back to the food. My sister was the only one in the family to ever have a birthday
+
+1185
+00:54:45,800 --> 00:54:49,960
+here. And it was a breakfast birthday because I think it was cheaper.
+
+1186
+00:54:51,080 --> 00:54:53,400
+It was a little cheaper because most kids did the same thing.
+
+1187
+00:54:57,080 --> 00:55:01,800
+I think one friend had a McDonald's birthday and it wasn't even at a McDonald's with a play place,
+
+1188
+00:55:02,680 --> 00:55:05,560
+which was insane. So you just went?
+
+1189
+00:55:05,560 --> 00:55:10,120
+Of course. Yeah, yeah, yeah. It was still McDonald's. It's still the best place
+
+1190
+00:55:10,120 --> 00:55:15,400
+other than Chucky Cheese or Discovery Zone. But I was just going to say the breakfast was
+
+1191
+00:55:16,520 --> 00:55:18,760
+just French toast sticks.
+
+1192
+00:55:20,040 --> 00:55:24,520
+That doesn't sound bad. I'd rather, if I'm going to eat there, go with something they can't really
+
+1193
+00:55:24,520 --> 00:55:28,840
+get wrong. But was that just like cut a pizza with syrup on top?
+
+1194
+00:55:28,840 --> 00:55:34,600
+It was just, yeah, no cheese. It was just crust. Crust sugar.
+
+1195
+00:55:35,560 --> 00:55:42,200
+The salad bar prep videos from the 90s. There's a very funny moment in one of them where they're
+
+1196
+00:55:42,200 --> 00:55:46,200
+like, here's how you cut this and here's how long you can leave these out. And they're like,
+
+1197
+00:55:46,200 --> 00:55:52,040
+and don't forget the garnish. Use lots of kale around the containers as the garnish.
+
+1198
+00:55:52,920 --> 00:56:00,280
+It's all these wilted looking vegetables and then giant stalks of kale, a food everyone now knows
+
+1199
+00:56:00,280 --> 00:56:05,800
+and has strong opinions on. But that was the most healthy thing was the garnish.
+
+1200
+00:56:06,680 --> 00:56:11,000
+It's all this kale. No one's eating it. It's just there for decoration.
+
+1201
+00:56:11,800 --> 00:56:12,360
+Love it.
+
+1202
+00:56:13,400 --> 00:56:18,280
+Also that garlic, they would brush everything with this garlic spread and the how to make it.
+
+1203
+00:56:18,280 --> 00:56:27,880
+It's like, take your jug of liquid margarine. If I walked into a friend's house now and was like,
+
+1204
+00:56:27,880 --> 00:56:31,880
+why do you have margarine in the fridge? I don't think I've ever met.
+
+1205
+00:56:33,000 --> 00:56:35,960
+I love the demos of how to put the costume on.
+
+1206
+00:56:35,960 --> 00:56:36,920
+Oh my God.
+
+1207
+00:56:37,160 --> 00:56:42,280
+You just watch a bunch of teenagers struggling with it. They're like, keep the head clean,
+
+1208
+00:56:42,280 --> 00:56:45,320
+which certainly has never happened. Clean with 409.
+
+1209
+00:56:45,320 --> 00:56:48,920
+Yeah, it was 409. I wrote down some of the instructions when we find them.
+
+1210
+00:56:48,920 --> 00:56:52,600
+Oh, great. I'm on the website looking at jobs.
+
+1211
+00:56:55,000 --> 00:57:00,200
+Please, by the end of the episode, you get hired. You do a virtual chat interview while we're talking.
+
+1212
+00:57:01,400 --> 00:57:02,840
+All right, she's a general manager.
+
+1213
+00:57:03,800 --> 00:57:08,040
+Oh, entertainment experience. That's great. Our middle name is entertainment.
+
+1214
+00:57:10,200 --> 00:57:15,080
+To clean Chucky, 409 or similar cleaner should be used on the face, hat or toes.
+
+1215
+00:57:16,600 --> 00:57:21,960
+Any upholstery cleaner like Woolite should be used on the fur. When you put Chucky away at night,
+
+1216
+00:57:21,960 --> 00:57:27,480
+spray a little disinfectant in the head to keep it fresh. Hands, vests and body can be machine
+
+1217
+00:57:27,480 --> 00:57:31,480
+washed in cold water at the lowest setting. Vests can be air dried.
+
+1218
+00:57:32,360 --> 00:57:38,600
+That never once happened. No one kept the head fresh for the next person to wear it.
+
+1219
+00:57:39,640 --> 00:57:43,640
+It was good that most of the stuff was machine washable, except at the very end of one video,
+
+1220
+00:57:43,640 --> 00:57:51,560
+they're like, Helen's dress must be dry clean only. Everything machine washable except this one piece.
+
+1221
+00:57:51,560 --> 00:58:00,760
+Also, like putting a big mascot uniform in a washing machine. Could that keep it looking good?
+
+1222
+00:58:00,760 --> 00:58:07,240
+Like that's not a place for something like that. Yeah, I don't understand like where.
+
+1223
+00:58:07,240 --> 00:58:12,040
+What's a big enough. Whose job is that to do? Do they have them backstage? I'm guessing.
+
+1224
+00:58:12,040 --> 00:58:14,040
+Oh, yeah. Go to the laundromat.
+
+1225
+00:58:14,040 --> 00:58:19,000
+We're taking. I think it's laundromat. Yeah. And sit on top of the machine for a while.
+
+1226
+00:58:19,000 --> 00:58:24,840
+Insane. So in those same videos, in the 90s ones,
+
+1227
+00:58:24,840 --> 00:58:28,920
+the guy hosting them is a guy named Todd Horchner. And I watched a bunch of those.
+
+1228
+00:58:28,920 --> 00:58:35,960
+And then I watched a video from 2007 and I did a double take because the guy in the 2007 video,
+
+1229
+00:58:35,960 --> 00:58:42,760
+it says Todd Horchner. And I'm like, he looks 20 years younger. He looks younger in 2007.
+
+1230
+00:58:42,760 --> 00:58:48,360
+And then I found his LinkedIn. He was the head of training at Chuck E Cheese for 25 years.
+
+1231
+00:58:49,240 --> 00:58:56,440
+So he was a company man. He stuck it out and looked great in the 2000s. Now I think started
+
+1232
+00:58:56,440 --> 00:59:02,040
+his own consulting company. I got a little taste of Todd Horchner and Munch interacting.
+
+1233
+00:59:02,040 --> 00:59:17,880
+Oh, fine. That's that regular guy. Hey, Todd.
+
+1234
+00:59:17,880 --> 00:59:19,720
+Yeah, yeah. Just a loud man.
+
+1235
+00:59:19,720 --> 00:59:22,600
+What do you prefer, do you think, with Munch's character?
+
+1236
+00:59:22,600 --> 00:59:26,120
+I think I like loud man. I think so. I agree.
+
+1237
+00:59:26,120 --> 00:59:30,760
+Like you expect it's the first choice to go me want pizza, but.
+
+1238
+00:59:30,760 --> 00:59:33,880
+And that's still pretty grimacey too. Oh, yeah.
+
+1239
+00:59:34,520 --> 00:59:37,320
+Oh, yeah. You could go the other way where he's like dumb and slow.
+
+1240
+00:59:37,960 --> 00:59:42,840
+But yeah, I kind of like, yes, Todd, more information, please.
+
+1241
+00:59:44,600 --> 00:59:47,720
+You should voice Munch. Yeah, come on.
+
+1242
+00:59:49,800 --> 00:59:54,040
+That would be an achievement. Yes. How do I audition for that? Are you on a part of the
+
+1243
+00:59:54,040 --> 00:59:58,680
+website? Are they hiring for Munch right now? I was looking at jobs in Irving just to see,
+
+1244
+00:59:59,560 --> 01:00:03,000
+if there's any creative positions open. It looks like they're filled right now,
+
+1245
+01:00:03,000 --> 01:00:08,920
+but I'll wait it out. The first time I went to Chekichi, because I originally went
+
+1246
+01:00:09,560 --> 01:00:15,240
+as for a goofy piece I was writing when they first made that kind of tone deaf bizarre
+
+1247
+01:00:15,240 --> 01:00:22,360
+announcement that adults can go alone now. So I was like, all right, I'll go. And I went to
+
+1248
+01:00:22,360 --> 01:00:29,560
+one at the Eagle Rock Mall nearby, and that is a studio C, which I didn't even know what that
+
+1249
+01:00:29,560 --> 01:00:37,000
+meant then. The days of ignorance. I was a fool. But Obama was still president. It was wild. But
+
+1250
+01:00:38,440 --> 01:00:45,160
+I went and I met because I was, you know, like one of the it's mostly like nannies and kids
+
+1251
+01:00:45,160 --> 01:00:52,360
+and then me. And there was a guy there who was troubleshooting the arcade games because it
+
+1252
+01:00:52,360 --> 01:00:56,680
+wasn't super busy. And then he did a little bit of maintenance on the animatronic. And he was like,
+
+1253
+01:00:56,680 --> 01:01:02,200
+an older guy seemed very friendly. And then like spotted me alone. And like, you know, some clock
+
+1254
+01:01:02,200 --> 01:01:06,760
+me. I was like, Oh, what is going to happen? And then he just, he just left a fistful of tokens on
+
+1255
+01:01:06,760 --> 01:01:12,280
+the table. And he was so, and this was like right before they switched from tokens to play passes.
+
+1256
+01:01:12,280 --> 01:01:18,440
+So tokens were still 20 summer 2016. So I guess I was ready about this for a full year anyways.
+
+1257
+01:01:18,440 --> 01:01:27,800
+The the and then I ended up talking to him for a little bit and his job was to to do maintenance
+
+1258
+01:01:27,800 --> 01:01:35,960
+for every animatronic in like the bottom half of California. Like he there's so and he'd been he'd
+
+1259
+01:01:35,960 --> 01:01:41,480
+been working for Chuck E. Cheese for I want to say at least 15 but possibly longer. He had at one
+
+1260
+01:01:41,480 --> 01:01:49,080
+point been the manager of the Chuck E. Cheese in Vegas. And he was just like the stories I could
+
+1261
+01:01:49,080 --> 01:01:56,520
+tell you. And it was like, he is like, it was too much. I like he left the state. It was too much.
+
+1262
+01:01:57,400 --> 01:02:02,680
+And yeah, they allowed gambling at that one. I really want to go to the Chuck E. Cheese in Vegas.
+
+1263
+01:02:02,680 --> 01:02:07,160
+It's a little off the beaten path. So I didn't get to go. They should do like how they have that like
+
+1264
+01:02:07,160 --> 01:02:13,560
+Taco Bell Cantina. They should do a Chuck E. Cheese on the strip. Like with a bunch of fun,
+
+1265
+01:02:13,560 --> 01:02:19,640
+colorful drinks. Margaritas. Margaritas. No kids. And then the class in the classic and then like
+
+1266
+01:02:19,640 --> 01:02:25,800
+Rick Rad in there. Yeah, so fun. Maybe bring Rick Rad back. People would like that. Yeah, if this
+
+1267
+01:02:25,800 --> 01:02:32,440
+brand was smart at all, they would at least in one place like have a destination like old school,
+
+1268
+01:02:33,400 --> 01:02:38,440
+like using original assets, original videos. We know they have all of it. And it's Vegas is the
+
+1269
+01:02:38,440 --> 01:02:44,040
+place I think. Hell yeah. Vegas is the place for you. Taco Bell is like starting a hotel. Yeah, I see.
+
+1270
+01:02:45,640 --> 01:02:51,800
+Yeah, I'm down. Are you trying? I'm gonna try. I signed up for email notifications. How much is
+
+1271
+01:02:51,800 --> 01:02:56,520
+it? It's like a regular hotel reservation, right? Comparable to Palm Springs. It's like $2 a night.
+
+1272
+01:02:56,520 --> 01:03:03,240
+$300 a night or something. Oh, that's a lot. Well, you know, put on a credit card, see what happens.
+
+1273
+01:03:03,240 --> 01:03:08,680
+Yeah, money isn't real. It gets paid for by someone. Actually, but it's in the middle of August.
+
+1274
+01:03:08,680 --> 01:03:17,320
+So that's off season for Palm Springs because it's technically so hot. So I guess you're paying a
+
+1275
+01:03:17,320 --> 01:03:24,440
+little bit of a premium for the pop-up aspect. Right. Yeah, but seeing like really good working
+
+1276
+01:03:24,440 --> 01:03:30,840
+animatronics is unlike Disney Universal is rare. They had, was it last year they had
+
+1277
+01:03:30,840 --> 01:03:37,400
+the Rockafire with Deadpool, which I was conflicted about. Yeah. But it was like, yeah, I mean,
+
+1278
+01:03:37,400 --> 01:03:46,040
+they only had two songs playing, but to see really well, like working, Billy Bob and Mitzi was there
+
+1279
+01:03:46,040 --> 01:03:52,680
+too. Yeah. But like then Deadpool, of course. But it was good. I was like, whoa. Like, so just if you
+
+1280
+01:03:52,680 --> 01:03:57,480
+saw like pristine Chuck E. Cheese characters, classic looking characters, that's going to
+
+1281
+01:03:57,480 --> 01:04:03,640
+trigger something in your child brain. But it's got to be originals and Chuck has to be in the hat.
+
+1282
+01:04:03,640 --> 01:04:10,280
+Bowler hat, vest, red. He has to be shady. You have to be suspicious of him. That's the fun. Cigar.
+
+1283
+01:04:10,280 --> 01:04:17,000
+He's poisoning his lungs. You have to feel unsafe around him. Yes. The Neil Hamburger style tuxedo,
+
+1284
+01:04:17,000 --> 01:04:22,120
+like wrinkled tuxedo. Yes. If he were a human man, you shouldn't trust him. You wouldn't want to
+
+1285
+01:04:22,120 --> 01:04:27,240
+spend time around him. That's the one I want. The Rockafire explosion. Also, they had like another
+
+1286
+01:04:27,240 --> 01:04:34,200
+weird encounter with like a questionable, but they did. They did something with CeeLo like during.
+
+1287
+01:04:34,200 --> 01:04:40,280
+Yeah. CeeLo. Right. Right. Right. Yeah. And they're in Keanu. The. Are they? The Kean
+
+1288
+01:04:40,280 --> 01:04:45,960
+Peele movie. I didn't know that. It's not much of it, but they're like in a warehouse with them.
+
+1289
+01:04:45,960 --> 01:04:51,000
+So. Gotcha. Well, they'll pop up in various things and there's been a couple of music videos,
+
+1290
+01:04:51,000 --> 01:04:55,640
+Mayor Hawthorne, one of my favorite guys, did a video with them. And it's never clear whether.
+
+1291
+01:04:55,640 --> 01:04:59,560
+I guess there's multiple ways you can either participate. You can get Aaron Fector involved,
+
+1292
+01:04:59,560 --> 01:05:04,280
+the inventor, or you can go to one of these places like in Mississippi where a guy is just
+
+1293
+01:05:04,280 --> 01:05:10,600
+keeping a perfect replica of one. Our friend Doug Jones went and had a very bizarre time.
+
+1294
+01:05:10,600 --> 01:05:17,800
+We talked about that in an episode, but. That's so cool. Yeah. So they're around,
+
+1295
+01:05:17,800 --> 01:05:21,880
+but so what's it? Well, maybe we should talk about that copyright thing. A lot of like if you watch
+
+1296
+01:05:21,880 --> 01:05:26,600
+the documentary, if you watch the documentary, the Rockfire Explosion explains all this. And
+
+1297
+01:05:26,600 --> 01:05:33,480
+there was also this really good podcast recently, Slate's Decoder Ring, the name of it. And they
+
+1298
+01:05:33,480 --> 01:05:38,360
+broke down a lot of this stuff. But so the the divide, we were starting to say Brock is the name
+
+1299
+01:05:38,360 --> 01:05:44,120
+of the guy. Robert Brock. Robert Brock, who was like going to he was like a holiday investor and
+
+1300
+01:05:44,120 --> 01:05:49,480
+he was going to open a bunch of Chuck E. Cheese's. Yeah. And Fector started getting
+
+1301
+01:05:49,480 --> 01:05:55,400
+ANSI to like get the contract and maybe have his own original band put in instead of Chuck E.
+
+1302
+01:05:55,400 --> 01:05:59,320
+Cheese because they were more experimental at the time. They'd have Dolly Dimples, the hippo lounge
+
+1303
+01:05:59,320 --> 01:06:03,960
+singer. There'd be weird other stuff. We don't even talk about the king. That's all we'll talk
+
+1304
+01:06:03,960 --> 01:06:08,040
+about. We still have that to get all that stuff to get at least read some descriptions of characters.
+
+1305
+01:06:08,360 --> 01:06:16,360
+Yeah, but yeah, but so the base history, Brock breaks off with Fector, makes a new place,
+
+1306
+01:06:16,360 --> 01:06:23,480
+show biz pizza place as opposed to Chuck E. Cheese pizza time theater. And these places end
+
+1307
+01:06:23,480 --> 01:06:29,400
+up in a bitter competition. Immediately gets sued. Yes. Right. Right. Yes. And it's like over two
+
+1308
+01:06:29,400 --> 01:06:34,280
+years of them in court before it's settled at the peak of both businesses. It's tons of money.
+
+1309
+01:06:34,760 --> 01:06:40,440
+Insane. And they would open down the street from each other. Yeah. It was, it was a war.
+
+1310
+01:06:40,440 --> 01:06:45,240
+And there was a solid two years where both businesses were turning a profit. And then,
+
+1311
+01:06:45,240 --> 01:06:49,320
+you know, that's stopped. Because they wore each other into the ground. They opened at an
+
+1312
+01:06:49,320 --> 01:06:55,080
+unsustainable pace and were suing each other. They both built each other up to just immediately
+
+1313
+01:06:55,080 --> 01:07:02,840
+collapse because there was just hollow cores. So there was, it hit a breaking point where the only
+
+1314
+01:07:02,840 --> 01:07:10,040
+way is to propose a merger of the two businesses that were, that had been suing each other.
+
+1315
+01:07:10,040 --> 01:07:14,520
+So what's so strange is that Chuck E. Cheese was first show biz pizza ripped them off,
+
+1316
+01:07:14,520 --> 01:07:18,680
+but show biz pizza kind of swallowed Chuck E. Cheese. Yeah, they were in the better state
+
+1317
+01:07:18,680 --> 01:07:25,000
+financially when the merger happened. But Chuck E. Cheese had the brand recognition. So keeping
+
+1318
+01:07:25,000 --> 01:07:31,000
+the band made sense. And there was a time, a la Leno Conan, we tried to coexist.
+
+1319
+01:07:31,560 --> 01:07:40,440
+One can do the 10 slot and one could do 1130. And they, so there's ads where it's Billy Bob and
+
+1320
+01:07:40,440 --> 01:07:44,760
+yes. And you would go to the restaurant and not know which you were going to see.
+
+1321
+01:07:44,760 --> 01:07:51,320
+So an unbelievably confusing brand. But what an exciting time. That would have been so cool.
+
+1322
+01:07:51,320 --> 01:07:55,320
+You know, like you, I would be like, oh my God, it's like a different, it would be so,
+
+1323
+01:07:55,400 --> 01:08:01,400
+it would be thrilling. Yeah. Yeah. Would there be just two show biz pizzas, like in the same half
+
+1324
+01:08:01,400 --> 01:08:06,280
+mile from each other? Maybe you went, but one would be Chuck and one would be because ours was show
+
+1325
+01:08:06,280 --> 01:08:10,440
+biz first. And then they obviously rebranded to Chuck E. Cheese. I don't remember. Do you guys know
+
+1326
+01:08:11,160 --> 01:08:16,840
+these yours was showbiz first? Yes. I don't, I don't ever remember the rock fire being in there.
+
+1327
+01:08:16,840 --> 01:08:21,560
+I never saw them. I don't think I ever saw them with them until like a decade ago. Yeah. Mine was
+
+1328
+01:08:21,560 --> 01:08:27,960
+a pizza time theater that had the other rooms. So it also had my, the one I grew up with had the
+
+1329
+01:08:27,960 --> 01:08:35,320
+King, the Elvis, the beach, Bowser's the musical and, and the Beagles, the dog Beatles. They all
+
+1330
+01:08:35,320 --> 01:08:39,960
+at various times were in my childhood. That's unbelievable. Jamie, do you remember? I'm trying
+
+1331
+01:08:39,960 --> 01:08:48,440
+to figure it out. I show, I show biz pizza closed forever a few months before I was born. So I
+
+1332
+01:08:48,440 --> 01:08:54,680
+definitely never went, but I'm trying to figure out if my location was ever, I don't know. Yeah.
+
+1333
+01:08:54,680 --> 01:09:01,880
+I want to, okay. So mine was a show biz pizza in Brockton mass. A show biz pizza was at the
+
+1334
+01:09:01,880 --> 01:09:08,200
+West gate mall. They turned it into a Chuck E. Cheese. Oh, the area grew too violent. No more fun.
+
+1335
+01:09:08,200 --> 01:09:13,640
+Oh, that's what happened. It closes entirely. Yeah. I guess, well there's, yeah, one of my,
+
+1336
+01:09:13,640 --> 01:09:18,040
+like the, another childhood one of mine became part of a dead mall, the fall broke mall, which
+
+1337
+01:09:18,040 --> 01:09:24,440
+now is back together, but became an empty. Oh, thank God the mall is okay. Yeah. Did yours ever
+
+1338
+01:09:24,440 --> 01:09:30,440
+recover or is Brockton? West gate mall is, is yeah, no West gate mall is alive and well. My brother
+
+1339
+01:09:30,440 --> 01:09:37,320
+worked at FYE there until that closed. So my Chuck E. Cheese, I only remember Chuck E. Cheese there.
+
+1340
+01:09:37,320 --> 01:09:42,680
+I never remember show biz pizza, but for a while it was like a real catnip for me because two doors
+
+1341
+01:09:42,680 --> 01:09:48,680
+down was a comic book store. So like good report cards come around. I'm like, like a pig and shit.
+
+1342
+01:09:48,680 --> 01:09:55,720
+And then the comic store closes. Chuck E. Cheese keeps going. When I'm in high school, a different
+
+1343
+01:09:55,720 --> 01:10:02,040
+better comic store opened there. And the day after my senior prom, you know, everyone's still hanging
+
+1344
+01:10:02,040 --> 01:10:09,000
+out. Like we too far away from the beach. We were like, what do we do? And that's some, some that
+
+1345
+01:10:09,000 --> 01:10:14,920
+weekend to the consensus. Let's go to Chuck E. Cheese. So we went to Chuck E. Cheese and this is,
+
+1346
+01:10:14,920 --> 01:10:20,840
+this was how cool I was. I was like, can I sneak away to the comic store for a little while? No,
+
+1347
+01:10:20,840 --> 01:10:26,360
+I probably shouldn't. Should I sneak away from my friends to go look at comic books? No, I'll just
+
+1348
+01:10:26,360 --> 01:10:30,920
+keep hanging out at Chuck E. Cheese. That's fine. So you didn't do it. I didn't do it. No. What a
+
+1349
+01:10:30,920 --> 01:10:37,640
+choice you face. What a choice. Yeah. So I had my eye on the prize. It was really like focused on
+
+1350
+01:10:38,200 --> 01:10:43,560
+high school graduation activities. I'm like, I got my driver's license. I guess I can come back
+
+1351
+01:10:43,560 --> 01:10:51,320
+to the comic store another day. I'm on the retro pizza zone boards right now. And there's someone
+
+1352
+01:10:51,320 --> 01:10:56,920
+who visited a lot of Chuck E. Cheese's in the early 2000s and writes a very depressing description
+
+1353
+01:10:56,920 --> 01:11:03,400
+of my Chuck E. Cheese in its last. This is not how I remembered it, but I'm sure this was an adult and
+
+1354
+01:11:03,400 --> 01:11:09,960
+they had a more objective perspective. But they said, I visited once in October 2002,
+
+1355
+01:11:10,680 --> 01:11:15,720
+Brockton. It was very, it was a part of a mall. It was very tiny. To say the least,
+
+1356
+01:11:15,720 --> 01:11:20,200
+my mom was worried about driving to this particular location because Brockton was not a town she was
+
+1357
+01:11:20,200 --> 01:11:26,760
+familiar with. And she said it was considered a tough city. I visited and was disappointed in the
+
+1358
+01:11:26,760 --> 01:11:32,200
+store size, the condition of the show, a two stage so tiny that the characters were crammed together
+
+1359
+01:11:32,200 --> 01:11:38,360
+literally on top. That is true. Munch was almost dead except for a slow head twitch. Helen's mouth
+
+1360
+01:11:38,360 --> 01:11:46,200
+was shut and her eyes were closed. Jasper's back head was on the stage with his hat dangling off
+
+1361
+01:11:46,200 --> 01:11:52,920
+and Pasquale only moved his mouth. So I guess it died a really slow death.
+
+1362
+01:11:52,920 --> 01:11:59,000
+Pasquale had signed a document saying unplug me if I, my wish is to not be kept alive.
+
+1363
+01:11:59,880 --> 01:12:05,720
+Is there a good resource for all the Chuck E. Cheese's that you're looking at?
+
+1364
+01:12:05,720 --> 01:12:11,880
+I'm just on the retro pizza zone message board. So I don't know if there is like a pizza zone.
+
+1365
+01:12:11,880 --> 01:12:15,960
+I think that that's the website that does most of the archival stuff of the old shows and stuff
+
+1366
+01:12:15,960 --> 01:12:20,360
+like that though. I think that this is about as close as it gets. I think I had searched that site
+
+1367
+01:12:20,360 --> 01:12:27,800
+to find out that the Northridge location was a pizza tie or as they say, like yes, Northridge
+
+1368
+01:12:27,800 --> 01:12:33,320
+was a PTT and it became a phase three. Like there's all this crazy terminology, which I'm
+
+1369
+01:12:33,320 --> 01:12:39,960
+happy to know now. I'm sorry about the decay, but in your mind, none of that's true. They're all
+
+1370
+01:12:39,960 --> 01:12:46,520
+more alive than ever and a child's brain processes trauma in wild ways. And I remember it being,
+
+1371
+01:12:46,520 --> 01:12:53,400
+you know, a little small, but beautiful describing a town in Brockton, Massachusetts as a tough town.
+
+1372
+01:12:54,040 --> 01:12:59,160
+I just imagine like whitey bulger waiting at the city limits. Like you're coming into my town.
+
+1373
+01:12:59,160 --> 01:13:04,600
+I beat up the Chuck E. Cheese. Be careful. Brockton mass rules. People are the haters.
+
+1374
+01:13:04,600 --> 01:13:10,920
+They're just, they're just upset. Yeah. Retro pizza zone is called the city of champions.
+
+1375
+01:13:10,920 --> 01:13:16,520
+Rocky Marciano is from there. Wow. Yeah. We got a 50 foot bronze statue.
+
+1376
+01:13:16,520 --> 01:13:24,760
+The 50 foot Marilamon row and pump spring. Yeah. Yeah. Yeah. It's a long distance relationship,
+
+1377
+01:13:24,760 --> 01:13:29,560
+but they make it work. Yeah. Ups and downs, ups and downs.
+
+1378
+01:13:30,520 --> 01:13:37,800
+So the two chains are coexisting, but at a certain point it comes to a head and there can only be one
+
+1379
+01:13:38,360 --> 01:13:44,360
+and partially because they own the copyright to the Chuck E. Cheese characters, but not to
+
+1380
+01:13:44,360 --> 01:13:50,920
+the rock of fire. And they offer Aaron Fecter a deal, which is let us take, let us take the
+
+1381
+01:13:50,920 --> 01:13:58,040
+characters because there's no other plan and we give, we'll give you nothing for it. And at least
+
+1382
+01:13:58,040 --> 01:14:04,600
+that's how he describes it. And he was, he just thought it was a raw deal and that he was going
+
+1383
+01:14:04,600 --> 01:14:09,400
+to do something else with the characters to keep them alive and that they would have a life in
+
+1384
+01:14:09,400 --> 01:14:17,560
+movies or TV. And so he said no, which just led to that all of the rock of fires were dismantled
+
+1385
+01:14:17,560 --> 01:14:23,640
+and turned into munches make believe band because they, because they were not, they were still the
+
+1386
+01:14:23,640 --> 01:14:30,440
+pizza time players. Right. Right. Right. Phase three as my store was described is when they
+
+1387
+01:14:30,440 --> 01:14:35,720
+became full bodies, no longer in the frames and all of the characters. So like Fats Geronimo is
+
+1388
+01:14:35,720 --> 01:14:42,840
+at the keyboard. He was stripped of his gorilla pair and turned into munch. And Mitzi becomes
+
+1389
+01:14:43,800 --> 01:14:49,000
+Helen, which is a really disturbing one because she's like, she's got like breasts. It's weird.
+
+1390
+01:14:49,000 --> 01:14:54,600
+Like when they, when they strip her down, like, like the skeletal version is really bizarre.
+
+1391
+01:14:54,600 --> 01:15:01,080
+It is very, cause it cuts off after the titties. It just is like titties and then skeleton.
+
+1392
+01:15:01,400 --> 01:15:08,520
+It's very, very jarring to look at. It's somebody's like really bizarre erotic art. I do feel like
+
+1393
+01:15:08,520 --> 01:15:14,600
+there are like nipples too. I think they like for some reason, like, or at least very pointy breasts.
+
+1394
+01:15:14,600 --> 01:15:20,680
+Sure. Yes. You're just like, what, who you can, I have a guess at the gender of the designer.
+
+1395
+01:15:22,040 --> 01:15:25,720
+It is insane. A lot of body horror themes on the show.
+
+1396
+01:15:25,720 --> 01:15:31,640
+Yeah. Will Smith, Jeannie. What is the, what is phase five?
+
+1397
+01:15:32,440 --> 01:15:37,640
+I don't know offhand. Cause I'm, I was phase five. Yeah. I was phase.
+
+1398
+01:15:38,760 --> 01:15:41,160
+You're all about to witness a great becoming.
+
+1399
+01:15:42,520 --> 01:15:49,400
+In phase five, they all like on fire. Yeah. In phase five. I show you my true form.
+
+1400
+01:15:51,080 --> 01:15:55,240
+Yeah. Streamwood was, was the one on Barrington road. Streamwood.
+
+1401
+01:15:55,240 --> 01:16:02,920
+Yeah. That's the town. What a weird town. That sounds like a one season Fox show about a town
+
+1402
+01:16:02,920 --> 01:16:09,720
+with a lot of secrets. Wait, phase five circles of light. Do you know what that means? No,
+
+1403
+01:16:09,720 --> 01:16:14,120
+that sounds like Chuck E. Cheese kills God. Like that sounds like.
+
+1404
+01:16:16,760 --> 01:16:23,640
+Me now. I got the pan. I got to figure this out. What does that mean? Circles of light phase five.
+
+1405
+01:16:23,640 --> 01:16:28,440
+I think I've seen like a lot of light shows that like, I don't know why they think like, yeah,
+
+1406
+01:16:28,440 --> 01:16:33,640
+kids want, want dance floors and light shows. It's like kids always like robot, like robots
+
+1407
+01:16:33,640 --> 01:16:38,920
+haven't gone out of fashion. I don't know. I think the kid that the consensus was with like,
+
+1408
+01:16:38,920 --> 01:16:45,720
+it sounds like they thought that the robots that were there were scary to kids and which is like,
+
+1409
+01:16:45,720 --> 01:16:51,720
+not unreasonable. And that it would have been too expensive to replace them with better robots.
+
+1410
+01:16:51,720 --> 01:16:55,960
+Sure. That's probably right. I was more scared of the walk around characters,
+
+1411
+01:16:55,960 --> 01:17:00,920
+but I'm wondering how much ground did they lose in the late nineties to laser tag slash go kart
+
+1412
+01:17:00,920 --> 01:17:06,840
+places? Oh, that's a good point. I don't know. There's, I've heard Nolan Bush now that he did
+
+1413
+01:17:06,840 --> 01:17:11,560
+an episode of, it was like a business podcast. Oh, is that how I made this? I think it's called
+
+1414
+01:17:12,120 --> 01:17:19,800
+or I don't know why I have a lot of money. No, he's, he's with, he's with us. Okay. I think this
+
+1415
+01:17:19,800 --> 01:17:25,560
+came out like last year, but I think his, if I'm remembering correctly, it was his working theory
+
+1416
+01:17:25,560 --> 01:17:32,120
+that like the business slowed down because they were banking on people coming back to the restaurant
+
+1417
+01:17:32,120 --> 01:17:37,960
+very frequently when people would only come like a few times a year for report cards. And so they
+
+1418
+01:17:37,960 --> 01:17:42,120
+ended up losing money when they weren't making a new show every month. Cause people would be like,
+
+1419
+01:17:42,120 --> 01:17:47,960
+well, I already know what that is. I'm not going to go. And so like when they couldn't like keep up
+
+1420
+01:17:47,960 --> 01:17:53,160
+the hype of like, it's just not a place you would go every week. So then they started to lose steam
+
+1421
+01:17:53,160 --> 01:17:58,600
+or that's his theory. That happened. There was just an article about that. The San Gabriel valley,
+
+1422
+01:17:58,600 --> 01:18:03,000
+where there's a lot of, uh, uh, Chinese, like Chinese food restaurants that have been there
+
+1423
+01:18:03,000 --> 01:18:10,760
+forever. Um, these massive dim sum places could not keep up because they were, it was, it was places
+
+1424
+01:18:10,760 --> 01:18:17,880
+where large, uh, weddings or, or birthday, large parties was the core of their business. But then
+
+1425
+01:18:17,880 --> 01:18:23,320
+like middle of the week, people aren't throwing events of that size. So then having to keep that
+
+1426
+01:18:23,320 --> 01:18:28,760
+much like food and different kinds of meat on stock, like operating costs just add up.
+
+1427
+01:18:28,760 --> 01:18:35,080
+Right. Yeah. It's just an occasion place. So they have not yet cracked having young
+
+1428
+01:18:35,080 --> 01:18:41,240
+professionals go work there on laptops and only get coffee. They'll get there and then they'll
+
+1429
+01:18:41,240 --> 01:18:47,560
+rue the day they got rid of the robots. I'm hoping they're still in Pasadena. I went to the Pasadena
+
+1430
+01:18:47,560 --> 01:18:54,280
+one. They have a beautiful full band still operational. I went on my birthday in 2017,
+
+1431
+01:18:54,280 --> 01:18:59,880
+but I don't know if it's still there. Here's my, I'm not totally sure. My pitch for that is maybe
+
+1432
+01:18:59,880 --> 01:19:07,000
+like if you want to have us go during the day, you change Chuckie's clothes, give him, I know
+
+1433
+01:19:07,000 --> 01:19:13,640
+it's going to be a similar face, but at least give us a bowler hat and a vest and we'll fuck,
+
+1434
+01:19:13,640 --> 01:19:19,800
+we're idiots. We'll go right up there and see it. Why do we like the bowler hat? Uh, it's cause we
+
+1435
+01:19:19,800 --> 01:19:24,680
+saw it when we were kids. That's all it is. I mean, mostly, but I think also it's a more interesting
+
+1436
+01:19:24,680 --> 01:19:29,480
+feeling like old timey choice, which is always, I just respect Laudville. So that's why I like it.
+
+1437
+01:19:29,480 --> 01:19:35,880
+I mean, that's where it all goes back to that. You know, everything's an acceptable answer.
+
+1438
+01:19:35,880 --> 01:19:40,040
+I have phase five here, but that's like really what the newer version is called. So I guess
+
+1439
+01:19:40,040 --> 01:19:44,360
+they're just saying that they're that it's rock and roll Chuckie at my stream would Barrington
+
+1440
+01:19:44,360 --> 01:19:49,640
+road Chuckie cheese. Sorry to hear that. Sorry for your loss. Do we know what were the last place
+
+1441
+01:19:49,640 --> 01:19:54,840
+to have bowler hat Chuck was? I don't think we know that. I don't know. Could there be one
+
+1442
+01:19:55,480 --> 01:20:01,240
+in America that like kind of, they just ignored what they were supposed to do and they forgot
+
+1443
+01:20:01,240 --> 01:20:07,800
+existed that does have bowler hat Chuckie cheese. There's gotta be some like rogue locations that
+
+1444
+01:20:07,800 --> 01:20:13,080
+have just been forgotten even to the company. Why would we throw this out? It works. Why would we
+
+1445
+01:20:13,080 --> 01:20:16,840
+throw it away? Cause that's all these unification, all these training. They were like,
+
+1446
+01:20:16,920 --> 01:20:25,160
+if it's bad, throw it in the garbage. Right. It's a very, very early nineties world of plenty sort
+
+1447
+01:20:25,160 --> 01:20:30,120
+of field. And they're not really thinking about reduce reuse recycle back then. No. At the very
+
+1448
+01:20:30,120 --> 01:20:35,160
+least there would be maybe the old suit lying around somewhere in someone's back of their
+
+1449
+01:20:35,960 --> 01:20:41,080
+restaurant. Yeah. Maybe international. There's, there's a lot of them international in Australia.
+
+1450
+01:20:41,080 --> 01:20:49,880
+His name is Charlie cheese because they did not like the, uh, the, uh, colloquial, uh, version of
+
+1451
+01:20:49,880 --> 01:20:56,200
+vomiting down the Chuck. That's more strongly there. More strongly. So they will throw up cheese.
+
+1452
+01:20:57,480 --> 01:21:03,080
+We'd be remiss if we didn't talk a little about the full name, which is Charles entertainment.
+
+1453
+01:21:03,080 --> 01:21:07,480
+Geez. Right. Uh, facts that apparently people did not really know. And it sort of like caught
+
+1454
+01:21:07,480 --> 01:21:12,520
+internet fire a couple of years ago. Yeah. It was a hashtag viral story,
+
+1455
+01:21:13,800 --> 01:21:17,320
+which they check. He cheese manages to do that every once in a while, which is another thing.
+
+1456
+01:21:17,320 --> 01:21:22,120
+I think they're cluelessness with their own audience and that like all of the interest with
+
+1457
+01:21:22,120 --> 01:21:29,240
+this place is like be semi ironic people in their thirties. Uh, uh, like how most, you know,
+
+1458
+01:21:29,800 --> 01:21:36,600
+fucking marshals doesn't have stories, uh, going viral, uh, once a year, twice a year
+
+1459
+01:21:36,680 --> 01:21:41,640
+in marshals is dreams. They're going to have to start threatening to kill themselves.
+
+1460
+01:21:41,640 --> 01:21:46,600
+Like all the other cool brands every now and then I see a post about marshals and it's like,
+
+1461
+01:21:46,600 --> 01:21:53,080
+look how old these truffles are, like, look how old these perishables are. I love, I love it.
+
+1462
+01:21:53,080 --> 01:21:58,760
+Now it's so bad. Now that it's like, it's just so much exhaustion with like brands trying to be
+
+1463
+01:21:58,760 --> 01:22:04,040
+cool that when you just see them like blowing it, you're like, awesome. Like, great. That's
+
+1464
+01:22:04,040 --> 01:22:09,720
+what you've been doing. You're supposed to do that. Show me a listicle about like bowls. I don't care.
+
+1465
+01:22:12,200 --> 01:22:19,320
+I, um, wait, what does the other middle name too that we haven't, uh, or the full name, uh,
+
+1466
+01:22:19,320 --> 01:22:23,640
+which is even more delightful to me than Charles entertainment cheese, the squally pea pie plate.
+
+1467
+01:22:23,640 --> 01:22:31,160
+Yes. And it's, but then also his origin is that Chuckie discovered him in the kitchen playing
+
+1468
+01:22:31,160 --> 01:22:37,160
+drums on pie plates. So there's both those things. His last name is pie plates, but also
+
+1469
+01:22:37,160 --> 01:22:44,040
+he was playing drums on the pie plates. So it's a little cloudy maybe. Oh, can it be, but also it
+
+1470
+01:22:44,040 --> 01:22:49,240
+could be, but it is both on that has, that is Canon. So it's both, but I forgot this whole thing.
+
+1471
+01:22:49,240 --> 01:22:56,200
+I just found, did you guys catch the pretty recent backstory of Chuckie cheese? Like another, maybe
+
+1472
+01:22:56,200 --> 01:23:01,080
+related to what you talked about, but like I read this whole book that they recently put out
+
+1473
+01:23:01,080 --> 01:23:07,560
+about how Chuckie was an orphan mouse who he lived in an orphanage and he would sing and he was sad
+
+1474
+01:23:07,560 --> 01:23:13,000
+because, because he was an orphan, nobody, he, his favorite song was happy birthday. He was Oliver
+
+1475
+01:23:13,000 --> 01:23:19,080
+twist. No, his own birthday. So nobody could ever say, I did not come across this for him. Uh,
+
+1476
+01:23:19,080 --> 01:23:24,760
+but he taught himself to sing and every birthday was his favorite song. And he moved, he, okay.
+
+1477
+01:23:25,240 --> 01:23:31,560
+Very, very important information. He was very good at singing and also got really good at Pong and
+
+1478
+01:23:31,560 --> 01:23:40,600
+he won $50 in a Pong contest at the orphanage. And that was enough for him to catch a bus to go,
+
+1479
+01:23:41,720 --> 01:23:47,720
+start residing in New York city. Why didn't he just sneak into a pipe in the bus? Because he is
+
+1480
+01:23:47,720 --> 01:23:54,440
+a mouse. I couldn't tell you he knew, but he paid, he's a good boy. He paid the ticket $50. He went
+
+1481
+01:23:54,440 --> 01:24:01,640
+and lived. He also really liked pizza. So he went to live above the squalies, pizzeria, and then
+
+1482
+01:24:01,640 --> 01:24:06,680
+showed up. Like was, he was caught in the kitchen and Pascual was going to like get him, like kill
+
+1483
+01:24:06,680 --> 01:24:12,680
+him. And then he started singing and he thought, Oh, that's well, I shouldn't kill a singing mouse.
+
+1484
+01:24:13,240 --> 01:24:19,080
+So then he, I feel crazy saying, but I swear they put this out. Where is this? Where is this?
+
+1485
+01:24:19,080 --> 01:24:24,360
+What is this book? I'm trying to find it. Chuck E. Cheese Pascualy backstory. I love this.
+
+1486
+01:24:25,800 --> 01:24:31,560
+Also wait, I'm sorry. I missed something big. He grew up at St. Marinara's orphanage.
+
+1487
+01:24:33,240 --> 01:24:38,920
+That's good. I like that. Also this is the business insider, the website where I found this,
+
+1488
+01:24:39,640 --> 01:24:42,600
+makes the point of the book has no author.
+
+1489
+01:24:43,320 --> 01:24:52,520
+Um, well he, he gave it to us. The book has no author. He's just passed down. Yeah. Yeah.
+
+1490
+01:24:52,520 --> 01:24:56,760
+Um, but squalie was so shocked that he dropped his rolling pin. A mouse that can sing in my
+
+1491
+01:24:56,760 --> 01:25:03,080
+restaurant is saved. I'm gonna make you a star. So he set up a restaurant, immediately called it
+
+1492
+01:25:03,080 --> 01:25:07,800
+Chuck E. Cheese's. Right. It was just Pascual's pizza place. He's like, nevermind. It's Chuck E.
+
+1493
+01:25:07,800 --> 01:25:12,120
+Cheese's now. And everybody like big grand opening. Everybody comes see the singing mouse.
+
+1494
+01:25:12,120 --> 01:25:17,720
+He'd never sung in front of a crowd before. So he buckled everybody booed and left.
+
+1495
+01:25:18,520 --> 01:25:23,480
+This is like M and M in eight mile. Yeah. The first time he tries to battle rap.
+
+1496
+01:25:24,040 --> 01:25:27,720
+I mean that, I wish they kept modernizing it because we could have had a post-grips that
+
+1497
+01:25:27,720 --> 01:25:35,880
+Chuck mile. Yeah. Somebody make that please. Um, and it's in his case, it is pizza sauce,
+
+1498
+01:25:35,960 --> 01:25:42,920
+not mom's spaghetti. Right. No, no, I would say it's no spaghetti is available. But anyway,
+
+1499
+01:25:42,920 --> 01:25:46,600
+people started leaving. They changed the name of Pascual. He changed the name of the restaurant
+
+1500
+01:25:46,600 --> 01:25:52,600
+to be his name. Everybody left boo. And then what, and then he like noticed a kid and started
+
+1501
+01:25:52,600 --> 01:25:57,400
+singing happy birthday to him late. And then everybody filed back in. It was like, ah, cool.
+
+1502
+01:25:57,400 --> 01:26:02,280
+Let's stay here. Right. So Chuck fucked up. He didn't do, but this is a whole other.
+
+1503
+01:26:03,240 --> 01:26:08,440
+Chuckie cheese clearly different than Rick rat. Rick rat. Yeah. 200 year old mutant.
+
+1504
+01:26:08,440 --> 01:26:13,640
+Well, yeah. Abuses his talent. This child sweet Chuckie is that's the new,
+
+1505
+01:26:14,600 --> 01:26:18,520
+yeah. That's the new origin of Chuckie essentially. Yeah. That's from like five years ago.
+
+1506
+01:26:18,520 --> 01:26:25,160
+Right. Wow. I like, yeah, that there's some sort of like Chuckie, maybe like Rick rat died in some
+
+1507
+01:26:25,160 --> 01:26:31,400
+like freak accident and Chuckie saw his opportunity to like really sure. He took his name.
+
+1508
+01:26:31,400 --> 01:26:37,080
+John Draper, Dick Whitman. Yeah. Rick rat is the Dick Whitman character.
+
+1509
+01:26:38,280 --> 01:26:45,000
+Or no other way around. Yeah. Yeah. Rick rat is. Oh, we're saying he stole the story of any
+
+1510
+01:26:45,000 --> 01:26:49,960
+invented this bullshits story. The cat or whatever is the brother who's like, it's you,
+
+1511
+01:26:49,960 --> 01:26:55,480
+you're Rick rat. It's like, I don't know. Forget about it. Here's $10,000. Here's $10,000.
+
+1512
+01:26:56,360 --> 01:27:02,280
+Crusty the cat hangs himself in his flop house. That's why he didn't keep being in the band.
+
+1513
+01:27:02,280 --> 01:27:07,560
+Yeah. This is a dark re-imagined. Like if this was a movie, it would be just called Chuck.
+
+1514
+01:27:08,600 --> 01:27:15,160
+Yeah. Why is, and maybe somebody found this and I didn't, has there ever been talk of a real TV
+
+1515
+01:27:15,160 --> 01:27:22,040
+show or movie? Cause there's those that we watch that directed DVD or directed VHS. There's a
+
+1516
+01:27:22,040 --> 01:27:26,840
+couple of those. A Chuck E Cheese in the Galaxy. From like what, from what like years?
+
+1517
+01:27:28,120 --> 01:27:37,160
+There is a movie from 1999. Oh. That is entirely digital environments. That's also about an orphan
+
+1518
+01:27:37,720 --> 01:27:43,000
+and Chuck needs to do a race in outer space to pay for. I'm trying to remember.
+
+1519
+01:27:43,000 --> 01:27:44,840
+I remember. Medicine.
+
+1520
+01:27:44,840 --> 01:27:45,400
+What? Sauce?
+
+1521
+01:27:47,480 --> 01:27:48,840
+This guy is really sick.
+
+1522
+01:27:50,680 --> 01:27:54,200
+We're going to give you a transfusion. Put sauce in your body.
+
+1523
+01:27:54,200 --> 01:27:59,240
+The healthcare system's fucked up. We need to raise money and a race.
+
+1524
+01:27:59,240 --> 01:28:02,840
+But so there, I mean, you're, well, you're proposing here, say what you were saying and I will
+
+1525
+01:28:02,840 --> 01:28:06,200
+ready my material about Chuck and the, your Chuck E Cheese in the Galaxy.
+
+1526
+01:28:06,200 --> 01:28:09,080
+Okay. Yeah. Okay. Good. Good. Yeah. Cause I'm basically like.
+
+1527
+01:28:09,080 --> 01:28:10,440
+Longest episode ever.
+
+1528
+01:28:10,440 --> 01:28:15,400
+There is so much content still being produced and we'll get to that. Maybe that's the last thing.
+
+1529
+01:28:15,400 --> 01:28:16,440
+Sure. Yeah. We'll start driving.
+
+1530
+01:28:16,440 --> 01:28:21,800
+As I found, I'll tease it now. I found a new and maybe you've, there's an album
+
+1531
+01:28:21,800 --> 01:28:28,280
+worth of songs made in the last few years. A full, I have it on, I put on Apple music.
+
+1532
+01:28:28,280 --> 01:28:34,600
+It's a free download off of their YouTube. And there's others, other music videos and stuff
+
+1533
+01:28:34,600 --> 01:28:40,120
+of things that I'm also fascinated with. But for some, for a company that makes so much content
+
+1534
+01:28:40,120 --> 01:28:45,960
+and for a character that so many people know and is easily identifiable, why would they never
+
+1535
+01:28:45,960 --> 01:28:52,520
+have attempted to make a real TV show or a real movie? I mean, it's honestly, you just shit it out
+
+1536
+01:28:52,520 --> 01:28:58,040
+like the Sonic movie or Alvin and the Chipmunks. Like who cares if it's good or not? Like I would,
+
+1537
+01:28:58,040 --> 01:29:04,200
+I'm surprised that it's never happened. I think in the nineties, there was for a very
+
+1538
+01:29:04,200 --> 01:29:11,800
+brief period and even if you could work around it, you get away with it. There was the idea of
+
+1539
+01:29:11,800 --> 01:29:17,640
+shame in children's that are like, well, we can't, it can't be a commercial on the other hands.
+
+1540
+01:29:17,640 --> 01:29:22,840
+So Mac and me. Yeah. Mac and me and Mac tonight. And it's all this fucking annoyed,
+
+1541
+01:29:22,840 --> 01:29:26,280
+like all this fucking kids. Oh yeah. There's video games. Yeah. Right. There's video.
+
+1542
+01:29:26,280 --> 01:29:32,360
+And there's, there's Chucky cheese video games as well. There's a we Chucky cheese game,
+
+1543
+01:29:33,080 --> 01:29:38,440
+which we have to find somewhere and play. I watch a little of it. It's kind of like you're in the
+
+1544
+01:29:38,440 --> 01:29:43,560
+play room. Like, and then there's mini games and like, it's just Chuck and Munch and kind of basic.
+
+1545
+01:29:43,560 --> 01:29:49,320
+Yeah. But fun. They did one. Yeah. Before you pull out the music stuff, there's one thing.
+
+1546
+01:29:50,120 --> 01:29:57,800
+There's like a weird fact about Robert Brock, who we mentioned earlier. So Robert Brock has,
+
+1547
+01:29:57,880 --> 01:30:02,680
+there is a lasting impression that if you drive around any like major area with
+
+1548
+01:30:04,120 --> 01:30:10,440
+office parks, Robert Brock is there present there because as we said, he was a holiday in franchisee.
+
+1549
+01:30:10,440 --> 01:30:16,760
+He was like a business guy. Franchising things was his business. One of his business was the
+
+1550
+01:30:16,760 --> 01:30:23,800
+residence line of hotels that was bought and is now residents in by Marriott. So you see like any
+
+1551
+01:30:23,800 --> 01:30:30,120
+extended stay hotel, like he was one of the first guys doing that. If you see residents in by
+
+1552
+01:30:30,120 --> 01:30:39,160
+Marriott, that's Robert Brock. His body's very nice. I hope he's burning in hell. He started a war.
+
+1553
+01:30:39,160 --> 01:30:44,680
+Well, you're an extended stay, you're an extended stay person. Yes. Exceded stay suites. You don't
+
+1554
+01:30:44,680 --> 01:30:50,920
+like residents by Marriott. Brand loyalty. Yeah. Let me jam through my material on Galaxy 5000.
+
+1555
+01:30:50,920 --> 01:30:57,000
+It's just two quick clips. Really this film is kind of a proto speed racer. It's a race and it's
+
+1556
+01:30:57,000 --> 01:31:08,120
+all digital environments. But with the component of there's some romance in this film. There is,
+
+1557
+01:31:08,680 --> 01:31:14,600
+so all of the characters that we know, except Pasquale is a human being in this very disturbingly,
+
+1558
+01:31:14,600 --> 01:31:20,680
+but the rest are all mascots and their mouths do move. And so- Well, like a human man, no head?
+
+1559
+01:31:21,000 --> 01:31:27,560
+Yeah. He's just a guy with a mustache. Oh, I hate that. He looks like Captain Lu playing Mario.
+
+1560
+01:31:27,560 --> 01:31:32,760
+Right? Exactly. Yeah. Yes. Yeah. Yeah. So it's all really strange and disturbing. They're getting
+
+1561
+01:31:32,760 --> 01:31:40,280
+ready for a race and there is, they go to space and find a human woman who wants to mount Chucky
+
+1562
+01:31:40,280 --> 01:31:48,120
+very badly. And there's a lot of weird like, like Chuck and Jasper eyeing this, this woman as, you
+
+1563
+01:31:48,120 --> 01:31:53,800
+know, as she stays away and like, like, you know, she bends over and picks up a handkerchief and
+
+1564
+01:31:53,800 --> 01:32:01,240
+they like, eh. Where is this available? YouTube porn. I think it was a prize. I think is what
+
+1565
+01:32:01,240 --> 01:32:06,680
+how you were originally giving it away. Cool. Yes. It would know we've got enough tickets. You
+
+1566
+01:32:06,680 --> 01:32:10,600
+could watch Jasper awful. A human. It was playing in the dad room.
+
+1567
+01:32:10,600 --> 01:32:16,120
+On Galaxy 5000, uncut in the dad room.
+
+1568
+01:32:17,160 --> 01:32:24,440
+Okay, guys, make sure your dumb wife's not around. There's a tastefully cut one in the mom room.
+
+1569
+01:32:25,320 --> 01:32:29,800
+Yeah. Very fade to black. Yeah. Leave it to the imagination.
+
+1570
+01:32:31,640 --> 01:32:39,160
+It's almost sexier that way. But the Chuck impression that I do is very much from this
+
+1571
+01:32:39,160 --> 01:32:44,040
+and this interaction where the human woman is making Helen very jealous.
+
+1572
+01:32:44,840 --> 01:32:48,360
+Bye, Chuckie. I was going to see if you'd come to the soda shop with me after the
+
+1573
+01:32:48,360 --> 01:32:54,840
+qualifier tomorrow, but I didn't know that you were taken. Oh, you mean Helen?
+
+1574
+01:32:56,440 --> 01:33:00,920
+She's just a friend. You know, she's like one of the guys. Right, Helen?
+
+1575
+01:33:04,520 --> 01:33:12,040
+She hates that. Oh, that is so many different levels of what is that background contacted me.
+
+1576
+01:33:14,040 --> 01:33:19,640
+I really should have prepared you for this. Yeah, she thinks that they're dating. This is
+
+1577
+01:33:19,640 --> 01:33:26,200
+oddly akin to Mickey Minnie Kermit Miss Piggy, though the terms are unclear and the woman seems
+
+1578
+01:33:26,200 --> 01:33:30,920
+to want to be in the relationship much more than the man. But that's like Chuck doesn't even
+
+1579
+01:33:30,920 --> 01:33:36,120
+isn't remotely aware that they're an item. No. And it's just right in front of her like,
+
+1580
+01:33:36,120 --> 01:33:43,160
+yeah, look at that ass. And but then cut to later, I'm doing everyone a favor by only playing these
+
+1581
+01:33:43,160 --> 01:33:47,480
+things. These are kind of the only entertaining things in the Galaxy 5000. But then there's a
+
+1582
+01:33:47,480 --> 01:33:54,200
+song where you get to go to the aforementioned soda shop, which is a giant space dome. And from
+
+1583
+01:33:54,200 --> 01:33:59,240
+there, Helen sings a song venting her frustrations. And here's here's a little taste of that.
+
+1584
+01:34:13,160 --> 01:34:16,200
+Could you say that I'm just one of the guys?
+
+1585
+01:34:27,400 --> 01:34:33,800
+This is her hopelessly devoted to you. Oh, very much. Oh, absolutely. That's totally what it is.
+
+1586
+01:34:33,800 --> 01:34:39,000
+Oh, my God. Could you say that I'm just one of the guys?
+
+1587
+01:34:39,000 --> 01:34:43,800
+Oh, I love that. What is that change? What is that key change?
+
+1588
+01:34:46,040 --> 01:34:52,200
+The phrasing is the phrasing. Let's let's bectal test this.
+
+1589
+01:34:53,240 --> 01:34:58,280
+There's not another woman for her to talk to. Well, I guess there's human women. Yeah, they're
+
+1590
+01:34:58,280 --> 01:35:03,320
+fighting about a man record. Now that I know this exists, I'll do a full watch and report back.
+
+1591
+01:35:03,320 --> 01:35:06,760
+If it does, you know, it's a flawed metric. It's not perfect.
+
+1592
+01:35:09,400 --> 01:35:15,640
+Yes, the pining for and during that song, she's on top of a space dome watching Chuck fix so
+
+1593
+01:35:15,640 --> 01:35:22,440
+strangely proportioned computer car. She doesn't even like come to bed with her or whatever. She's
+
+1594
+01:35:22,440 --> 01:35:32,440
+just like, I got to work in the car. Well, Jay Leno parallels. Oh, no, poor Mavis singing this.
+
+1595
+01:35:33,320 --> 01:35:41,320
+Great. Maybe it's just watching this YouTube video every day. Why does he hang out with Kevin
+
+1596
+01:35:41,320 --> 01:35:55,960
+instead of me? So on board for a Mavis music. I want to touch his tonight show money. He says I
+
+1597
+01:35:55,960 --> 01:36:05,640
+can't. I know as my college commencement speaker. His whole speech was Jay's top 10 Hollywood tips.
+
+1598
+01:36:05,640 --> 01:36:17,960
+It was a list. Oh, flagrant. That's insane. That's so great, though. That's the only way that this
+
+1599
+01:36:17,960 --> 01:36:25,640
+parallel doesn't work is that Chuck didn't like rip off all of his material. But Rockefeller was
+
+1600
+01:36:25,640 --> 01:36:31,080
+the rip off. But you might say they kind of did the more like creative kind of like that's what
+
+1601
+01:36:31,080 --> 01:36:35,240
+the crazier stuff like we are really a fan. We haven't taught. We haven't talked about that,
+
+1602
+01:36:35,240 --> 01:36:40,760
+that there are there's the community that thinks it's blasphemous when we say and I like the
+
+1603
+01:36:40,760 --> 01:36:44,520
+Rockefeller characters, but I have much more affection for Chuck E. Cheese. But I think that
+
+1604
+01:36:44,520 --> 01:36:50,760
+is a really aggressive statement to some fans of Rockefeller who were like there were by far the
+
+1605
+01:36:50,760 --> 01:36:56,920
+better band. Yeah, band wise, people really stand. Yes. Well, I think that that was Aaron
+
+1606
+01:36:56,920 --> 01:37:02,120
+factors fault, though, wasn't it? Because he was he like he had like an opportunity to include them.
+
+1607
+01:37:02,120 --> 01:37:08,680
+But then, like I do remember some this might have been in the documentary, but he said something like
+
+1608
+01:37:08,680 --> 01:37:14,120
+but I saw such potential in that, like he valued the IP over the invention. And that was like his
+
+1609
+01:37:14,120 --> 01:37:22,040
+fatal mistake is these are going to be movies. So he had I do this and then there were no,
+
+1610
+01:37:22,040 --> 01:37:26,040
+no, they just I mean, the reason I value one over the other is just because I know them. I never
+
+1611
+01:37:26,040 --> 01:37:31,880
+get to really see the Rockefeller explosion. Videos don't really tell you everything as Doug
+
+1612
+01:37:31,880 --> 01:37:37,560
+himself tells us. You had to have seen it. You had to be there and he to go see the band had to drive
+
+1613
+01:37:37,560 --> 01:37:42,760
+to Mr. Rural Mississippi. That's amazing, which I guess we all need to do. I guess we need to do it.
+
+1614
+01:37:42,760 --> 01:37:48,280
+Have but I know I think I might I might agree. I might like them more. I just didn't have them
+
+1615
+01:37:48,280 --> 01:37:52,600
+around. They weren't there for me the way Chuck and Pasquale were. Yes, I agree. Yes. And there
+
+1616
+01:37:52,600 --> 01:37:57,320
+wasn't a purple character, which I always like. I do. I do like purple. Although, yeah, fat seems
+
+1617
+01:37:57,320 --> 01:38:02,520
+cool to that was probably cool in this slate podcast that just came out. Aaron Vector himself
+
+1618
+01:38:02,520 --> 01:38:07,960
+is comparing the two and he says something like it's it truly is like, you know, because they're
+
+1619
+01:38:07,960 --> 01:38:14,760
+similar bands. But to me, you'd have to be a just, you know, total dumb, dummy idiot to think that
+
+1620
+01:38:14,760 --> 01:38:20,200
+the Chuck band is better. But I don't know. I guess he's like really he's yeah, he thinks you
+
+1621
+01:38:20,200 --> 01:38:26,040
+are a moron if you like Munch's make a band more. I like that there's a Beatles Stones thing about
+
+1622
+01:38:26,040 --> 01:38:31,960
+them. Yeah, like which it's a very much an individual or reflection of you more so than
+
+1623
+01:38:32,200 --> 01:38:40,760
+and apparently far in the distance, an MC five. Oh, yeah. In its own little ecosystem. Strangely,
+
+1624
+01:38:40,760 --> 01:38:46,600
+like the little cult one. Yeah. That, you know, it's like I'm more off the beaten path. Sure.
+
+1625
+01:38:46,600 --> 01:38:52,600
+Those line up exactly. Yeah. Yeah. What do you got, Mike? Because we're at risk of a three.
+
+1626
+01:38:53,400 --> 01:38:57,400
+Oh, yeah. I mean, there's let me zoom through here because so there's a lot of modern stuff.
+
+1627
+01:38:57,400 --> 01:39:03,640
+We'll post we'll post photos. I do want to talk a little bit more about like Sally Sashay, but
+
+1628
+01:39:03,640 --> 01:39:08,520
+that's OK. I mean, you can look her up and we'll do a full character study of Sally Sashay later.
+
+1629
+01:39:09,080 --> 01:39:14,360
+She's the skunk. You know what? I'll read her bio. I'm not. I'm just saying let's be done before.
+
+1630
+01:39:14,360 --> 01:39:19,720
+Yeah, that's fair. No, I understand. She was often. She was often. She was often called the
+
+1631
+01:39:19,720 --> 01:39:24,200
+beauty from Biloxi and she was also dubbed the disco skunk. The character often
+
+1632
+01:39:24,200 --> 01:39:31,560
+was. Character often poked fun at her perfume and and she was confused at how someone who would
+
+1633
+01:39:31,560 --> 01:39:37,000
+make your ears feel so good but can make your nose feel so bad. Sally was rather sassy and wouldn't
+
+1634
+01:39:37,000 --> 01:39:41,960
+bite back at Chuck E. Cheese's insults and defend her singing. Again, this is what I'm saying. Why
+
+1635
+01:39:41,960 --> 01:39:47,880
+isn't Sally Sashay in the mix now? I was like, I feel like she's the more complex female character.
+
+1636
+01:39:47,880 --> 01:39:53,720
+I completely agree. She sounds like she's got more agency than than Helen. Yes, poor Helen.
+
+1637
+01:39:54,840 --> 01:40:05,160
+How could you say I have no agency? It's more like Mae West kind of like. Yeah, Madame Oink,
+
+1638
+01:40:05,800 --> 01:40:12,840
+the piggy from Paris. She was a guest star. She was sultry and spoke in a thick French accent.
+
+1639
+01:40:12,840 --> 01:40:19,000
+She was in the frame, right? Yes. Yeah. Also apparently Jasper flirted heavily with all of
+
+1640
+01:40:19,000 --> 01:40:26,840
+these. Yes, that's yes. Foxy Colleen, the Irish lassie. The Irish lassie, yeah. She was in multiple
+
+1641
+01:40:26,840 --> 01:40:32,520
+show tapes. She was sweet in nature and was known for singing traditional Irish folk songs.
+
+1642
+01:40:33,480 --> 01:40:40,200
+This is this is so much erasure taking place. All the all the all the male
+
+1643
+01:40:40,200 --> 01:40:46,120
+male band members get to stay. Yes, it's true. I guess that that's a point against the Rockafire
+
+1644
+01:40:46,120 --> 01:40:52,280
+explosion. If they retrofitted everything, it seems like Chuck E. Cheese's had a wealth of female
+
+1645
+01:40:52,280 --> 01:40:59,640
+characters to pull from, but only one robot with titties. Is that why they had to pick Helen?
+
+1646
+01:40:59,640 --> 01:41:04,680
+Oh, maybe it's a practical. It's a practical reason. Yeah. Yeah, maybe because there were not
+
+1647
+01:41:05,560 --> 01:41:11,640
+like female robot bodies. But the original Helen, if you look up on one of these sites,
+
+1648
+01:41:12,520 --> 01:41:17,960
+now I understand the name. Helen Henney was clearly supposed to be a play on Helen Reddy,
+
+1649
+01:41:17,960 --> 01:41:24,280
+because she was a she was a real like folk singer. She was like much like much skinnier and like long
+
+1650
+01:41:24,280 --> 01:41:30,920
+hippie hair. So she may have been like more of a Joan Baez or something. I don't know. I don't know
+
+1651
+01:41:30,920 --> 01:41:37,000
+what she was like and what she sang about, but I think she may have been a little more like thoughtful,
+
+1652
+01:41:37,000 --> 01:41:41,960
+poetic. That was the idea. She was a feel like Joni Mitchell or something. Yeah, I think so.
+
+1653
+01:41:41,960 --> 01:41:46,920
+And there was that one summer where Helen sang the It Don't Worry Me song from the end of Nashville
+
+1654
+01:41:48,360 --> 01:41:57,000
+and everyone's screaming about who fired the gun. God. I would like to, I would love to program.
+
+1655
+01:41:57,000 --> 01:42:00,040
+I will say I do know that reference. I know exactly what you're talking about. I know you do.
+
+1656
+01:42:01,240 --> 01:42:05,480
+I would love to program the Chuck E. Cheese robots to sing the songs from Nash,
+
+1657
+01:42:05,480 --> 01:42:10,680
+from Robert Altman's Nashville. You bought the band. If I bought the band. Side note really fast,
+
+1658
+01:42:10,680 --> 01:42:16,040
+also these are robots that never got built who got left behind. Because clearly Helen,
+
+1659
+01:42:16,040 --> 01:42:20,440
+if Helen Henney was a parody of Helen Reddy, I think they were going to make that more of a
+
+1660
+01:42:20,440 --> 01:42:26,120
+thing that the guest stars would be a play on a character on a real singer that you know, which
+
+1661
+01:42:26,200 --> 01:42:36,920
+always current that CEC and who could be more current in 1977 than Elton John and Glenn Camel.
+
+1662
+01:42:37,640 --> 01:42:42,920
+That's good. I like that. I hear that new Bruce Springsteen record is real heavily Glenn Camel.
+
+1663
+01:42:46,200 --> 01:42:53,960
+Yeah, Glenn Camel. Yeah. Bruce Skunkstein. Yeah, sure. And those there's no pictures of those.
+
+1664
+01:42:53,960 --> 01:42:59,160
+No, those never got built. Those never existed. There was like a PR material saying when Camel
+
+1665
+01:42:59,160 --> 01:43:04,680
+is coming. That's a let down. Imagine going back being like any day now.
+
+1666
+01:43:07,080 --> 01:43:13,640
+Child is calling the restaurant. Like, hey, is Glenn there? The us of 1977. That sounds like it
+
+1667
+01:43:13,640 --> 01:43:18,920
+would be like if they did like one of the live characters that that would be a two person suit
+
+1668
+01:43:18,920 --> 01:43:23,960
+to Glenn Camel. Probably. Yeah, you'd have to one person would have to be his ass.
+
+1669
+01:43:25,160 --> 01:43:32,520
+Gary looked in that hump. Yeah, for sure. So yeah, as I was saying before, the current Chucky
+
+1670
+01:43:32,520 --> 01:43:38,600
+YouTube is very active. Yes. They posted two days ago, five days ago. Five days ago is when that
+
+1671
+01:43:38,600 --> 01:43:44,120
+salad bar thing came out. Wow. Like that's new. And they are very active. There's these cute little
+
+1672
+01:43:44,280 --> 01:43:52,840
+I got push notifications on. There's these cute little puppets they use now. And there's a lot of
+
+1673
+01:43:52,840 --> 01:43:57,000
+there's a lot of first of all, dances. I won't we won't get into them, but they make up a lot of
+
+1674
+01:43:57,000 --> 01:44:03,400
+dances. I think that's just a prep for the for the new stuff. Yeah. Trying to like, I mean, look,
+
+1675
+01:44:03,400 --> 01:44:08,520
+and just the drawing, they're all so much sexier than they used to be. This is like, I mean,
+
+1676
+01:44:08,520 --> 01:44:15,080
+they're like CGI. Yeah, those are the CGI versions. Yeah. Yeah. Current Munch is real creep. I don't
+
+1677
+01:44:15,080 --> 01:44:21,320
+like I don't like Current Munch at all. No, boy. He's got the sonic teeth. Yeah. So let me start.
+
+1678
+01:44:21,320 --> 01:44:27,720
+Munch is sliding into some DMs that he should not be a little too horny. I don't know.
+
+1679
+01:44:28,840 --> 01:44:35,160
+Let me start. Let me start with this. So this is an example of one of my favorite
+
+1680
+01:44:35,800 --> 01:44:44,920
+new Chuck E. Cheese music videos. This is called Rockin' Robot. And Chuck, look at the outfit Chuck
+
+1681
+01:44:44,920 --> 01:44:51,160
+is wearing. Someone describe it. It's like a big it's like an open red hoodie and a chain.
+
+1682
+01:44:52,600 --> 01:44:57,160
+What was there a style equivalent? Yeah, I'm trying to think what how you would describe it.
+
+1683
+01:44:57,160 --> 01:45:02,200
+It's like a sleeveless sweatshirt. I'm ready to get into I mean, I feel like this is almost an
+
+1684
+01:45:02,200 --> 01:45:11,080
+attempt at some sort of hype beast aesthetic for Chuck, which I'm ready for. Yeah, good next
+
+1685
+01:45:11,080 --> 01:45:17,160
+evolution. Yeah. So this is a taste of what they're doing now. He does have that Xan.
+
+1686
+01:45:32,200 --> 01:45:55,160
+This is like some Silicon Valley pro stem bullshit.
+
+1687
+01:45:55,160 --> 01:46:02,120
+This would inspire a young Aaron Fector today.
+
+1688
+01:46:09,480 --> 01:46:14,120
+I'm going to fast forward real quick to when the robot gets built in this video and you'll have
+
+1689
+01:46:14,120 --> 01:46:20,680
+we'll link to this video and there it is. And the robot is terrifying. So I'll fast forward here.
+
+1690
+01:46:20,680 --> 01:46:28,200
+It's playing air guitar or something. Do you think he dabs?
+
+1691
+01:46:31,400 --> 01:46:36,760
+This robot has titties too. He kind of looks like the fish from the shape of water.
+
+1692
+01:46:36,920 --> 01:46:42,600
+Oh, like with a tic tac for a head. I do like the ski board solo.
+
+1693
+01:46:46,840 --> 01:46:55,320
+He said his dad is like twenty five.
+
+1694
+01:47:07,720 --> 01:47:14,200
+Why did this little boy give the robot such a sculpted chest? I don't know. It's again. Yeah tomorrow's
+
+1695
+01:47:16,200 --> 01:47:23,880
+The parents are really proud this Chucky cheese used to encourage you to go into the career of being a dirtbag entertainer
+
+1696
+01:47:24,680 --> 01:47:26,680
+performing for kicks
+
+1697
+01:47:26,920 --> 01:47:30,200
+Yeah, I ran a cabaret. I kind of like the
+
+1698
+01:47:30,760 --> 01:47:35,240
+The Chucky cheese youtube channel, I I like it. I do I like it too
+
+1699
+01:47:35,640 --> 01:47:41,320
+They're churning out content all the damn time. Yeah, it's a fun thing to wake up to
+
+1700
+01:47:42,440 --> 01:47:47,080
+There's a lot of you'll watch new ones as they do like recall any you've seen lately all of them
+
+1701
+01:47:47,480 --> 01:47:52,920
+They're doing some like videos with helen. They'll make comedy videos with pasquale where
+
+1702
+01:47:53,540 --> 01:47:55,540
+Establishing shot the laffaroni
+
+1703
+01:47:55,620 --> 01:48:00,900
+Pasquale is always headlining in hotel pizza buns. I like I mostly watch the pasquale videos
+
+1704
+01:48:01,620 --> 01:48:05,620
+There's uh, there's a rip off of deep thoughts with jack handy with munch
+
+1705
+01:48:06,420 --> 01:48:10,020
+Which I don't love which is a weird reference to be making
+
+1706
+01:48:10,260 --> 01:48:11,060
+Yeah
+
+1707
+01:48:11,060 --> 01:48:19,700
+Well, there's a show loop from a few years ago with the don parto and intro impression introduces pasquale p pizza
+
+1708
+01:48:20,580 --> 01:48:27,140
+Uh hell in any what pie plates I want to make sure you have a new blood in the writing room
+
+1709
+01:48:31,380 --> 01:48:36,820
+So yeah, so there's an l but that is not rock and robot does not appear on the new album, okay
+
+1710
+01:48:37,380 --> 01:48:42,660
+Which is funny because i'm looking at my apple music in the first two it's prince's originals then the munch's make-believe band
+
+1711
+01:48:43,140 --> 01:48:45,140
+songs in the key of
+
+1712
+01:48:45,860 --> 01:48:47,460
+e
+
+1713
+01:48:47,460 --> 01:48:48,660
+Yeah, okay
+
+1714
+01:48:48,980 --> 01:48:54,580
+Yeah, yeah, that's mike in a nutshell if somebody needed to like just found your phone and needed to write a report about you
+
+1715
+01:48:56,420 --> 01:49:01,540
+Yep, oh the third thing is patton's greatest speeches very strange very strange
+
+1716
+01:49:03,060 --> 01:49:05,060
+Patton all right. So
+
+1717
+01:49:05,620 --> 01:49:09,460
+You'll notice like on this. I won't play all the songs, but a lot of the songs are
+
+1718
+01:49:10,660 --> 01:49:14,420
+Parody or inspired by like let me get here
+
+1719
+01:49:14,420 --> 01:49:16,420
+Here
+
+1720
+01:49:18,420 --> 01:49:24,420
+Don't stop so you get enough seemingly and then the chorus is very much like thrillers like it's clearly
+
+1721
+01:49:24,900 --> 01:49:30,680
+Michael jackson is not cancelled in the turkey cheese. No, no, it's too hard to do this song is called. Let's have a party
+
+1722
+01:49:38,260 --> 01:49:40,260
+This is what timberlake does
+
+1723
+01:49:44,900 --> 01:49:47,460
+Now is he still the singer
+
+1724
+01:50:00,500 --> 01:50:02,500
+And then we have me and my friend
+
+1725
+01:50:05,860 --> 01:50:07,860
+Oh, hey, this is familiar
+
+1726
+01:50:14,900 --> 01:50:16,900
+Just
+
+1727
+01:50:38,260 --> 01:50:40,260
+They even do the ding
+
+1728
+01:50:44,420 --> 01:50:46,420
+Just like his name
+
+1729
+01:50:53,460 --> 01:50:56,980
+I mean, this is great. I love this. I'd rather listen to this than uh
+
+1730
+01:50:57,540 --> 01:51:04,740
+Fucking kids bop where they like actually they take the real song right ripping it off, but they have a song by there's some innovation here
+
+1731
+01:51:04,900 --> 01:51:11,380
+Yeah, yeah, helen has still make it its own thing. Yeah, helen has uncle helen's game in time. Oh game in time
+
+1732
+01:51:11,380 --> 01:51:13,380
+Yeah, i've seen that video
+
+1733
+01:51:14,500 --> 01:51:16,500
+High score
+
+1734
+01:51:28,740 --> 01:51:30,740
+Right another yeah
+
+1735
+01:51:44,420 --> 01:51:46,420
+Do
+
+1736
+01:52:08,500 --> 01:52:11,140
+That's it's always a good time by owl city. Yeah
+
+1737
+01:52:15,060 --> 01:52:17,060
+It's always a good time
+
+1738
+01:52:18,900 --> 01:52:26,040
+So they got that so now I like most of this album is there one song I might call problematic
+
+1739
+01:52:26,820 --> 01:52:33,460
+Yes, it wouldn't be this has been a problematic episode in a little ways. It's called dad try to order a third
+
+1740
+01:52:35,620 --> 01:52:38,740
+It's not so bad, but maybe I mean you tell me
+
+1741
+01:52:39,780 --> 01:52:41,780
+You tell me and you'll know
+
+1742
+01:52:42,740 --> 01:52:44,740
+You'll know exactly what
+
+1743
+01:52:55,860 --> 01:53:01,320
+I won't even well, I will say it. It's called another chuckie day. So here we go
+
+1744
+01:53:08,580 --> 01:53:10,580
+That kind of problematic
+
+1745
+01:53:11,940 --> 01:53:13,940
+Here
+
+1746
+01:53:24,420 --> 01:53:30,260
+Head on back down. I won't stay in bed, but I found that I just came dally as my day begins
+
+1747
+01:53:30,340 --> 01:53:32,980
+I got to be a chuckie jesus hanging with my friends
+
+1748
+01:53:33,380 --> 01:53:38,340
+Hop out of bed like a kangaroo. I just make it through all the morning things they got to do
+
+1749
+01:53:38,500 --> 01:53:42,660
+I brush my teeth till I get them both shiny even soaking in the bathtub is where you go
+
+1750
+01:53:48,900 --> 01:53:50,900
+Pizza was the case they gave them
+
+1751
+01:53:50,980 --> 01:53:53,460
+The next thing you know, I got to go because I
+
+1752
+01:54:05,140 --> 01:54:07,140
+The guy from bowling for soups
+
+1753
+01:54:08,660 --> 01:54:13,540
+It's reese really the one he could have gotten in there and said i'm gonna pass on that one
+
+1754
+01:54:13,700 --> 01:54:20,580
+Yeah, I mean it and now try listening to that one bowling for soup song after like hearing any of these chuckie
+
+1755
+01:54:21,140 --> 01:54:28,600
+It's like so him it's wild right? He's barely changing his voice, right? Oh, he was kind of whiny already springsteen
+
+1756
+01:54:32,580 --> 01:54:36,980
+Yeah, that was yeah, uh, that's like a cousin of that boys of summer song
+
+1757
+01:54:39,300 --> 01:54:41,700
+Right, so there is another chuckie day
+
+1758
+01:54:42,340 --> 01:54:47,540
+Lottie dotty chuck likes to party. I have some bad news too chuckie is cancelled pasquale
+
+1759
+01:54:47,620 --> 01:54:52,980
+Unfortunately the famous videos where pasquale teaches you how to make pizza were filmed at the chuckie cheese location
+
+1760
+01:54:53,540 --> 01:54:57,720
+In texas in a town known as white settlement, texas
+
+1761
+01:55:01,460 --> 01:55:06,420
+Did not change that name in the night, I don't know has that been changed maybe yeah, let me look that up
+
+1762
+01:55:07,300 --> 01:55:10,440
+Yeah, i'm gonna roll over to white settlement
+
+1763
+01:55:10,440 --> 01:55:12,440
+Man
+
+1764
+01:55:13,640 --> 01:55:16,520
+Laura ingram just like nodding her head like this good it's tight
+
+1765
+01:55:19,320 --> 01:55:23,020
+No, it's still oh my still a city in texas
+
+1766
+01:55:25,320 --> 01:55:29,160
+Well, we ended on a dark note I guess uh, well so you talk about the fights
+
+1767
+01:55:29,720 --> 01:55:34,040
+We talk about all the fights that happen there. Um, one of my favorite facts about chuckie cheese
+
+1768
+01:55:34,040 --> 01:55:37,820
+I learned uh chuckie only went non-smoking in 1993
+
+1769
+01:55:38,700 --> 01:55:45,840
+Which I guess is about when most restaurants did but in a corporate history it said they did see a drop in business
+
+1770
+01:55:47,260 --> 01:55:48,460
+I guess
+
+1771
+01:55:48,460 --> 01:55:53,900
+I think everywhere was slowly starting to go and everywhere did see a drop in business and then rebounded
+
+1772
+01:55:54,060 --> 01:55:59,980
+But that was also made me laugh because that the same year they went non-smoking was also the year they introduced kid check
+
+1773
+01:56:00,380 --> 01:56:06,700
+Which is the blacklight the hand stamp where they stamp the kid's hands and the parents hands and they have to match
+
+1774
+01:56:06,860 --> 01:56:10,940
+Before you can leave which is there to this day, which is there to this day
+
+1775
+01:56:11,020 --> 01:56:16,540
+Don't worry about it. If you're a lone adult you don't need to get stamped. You just get a stamp for fun. Yeah
+
+1776
+01:56:19,820 --> 01:56:22,940
+Yikes, um, I just I like that if you
+
+1777
+01:56:23,820 --> 01:56:24,780
+type
+
+1778
+01:56:24,780 --> 01:56:26,940
+Chuckie cheese into youtube you get
+
+1779
+01:56:27,500 --> 01:56:33,180
+Current cute puppet videos about building robots that are a little well done. You also get bizarre
+
+1780
+01:56:34,140 --> 01:56:39,900
+Charisma charisma free training videos from 1991 you also get some of the scariest fights
+
+1781
+01:56:41,340 --> 01:56:45,500
+On camera like it's such a wide breadth of content
+
+1782
+01:56:45,900 --> 01:56:50,220
+The one I have so many clips from the fights in march a fight at a pittsburgh chuckie cheese
+
+1783
+01:56:50,300 --> 01:56:56,540
+I don't know what year it was chuckie cheese involved up to 50 people after an argument between a one-year-old's parents escalated
+
+1784
+01:56:56,940 --> 01:56:58,140
+Oh
+
+1785
+01:56:58,140 --> 01:57:04,720
+There's only so many people inside a chuckie cheese at any given time which means the one-year-old could have gotten involved
+
+1786
+01:57:07,420 --> 01:57:09,420
+Don't talk to my parents like that
+
+1787
+01:57:11,420 --> 01:57:14,620
+Motherfucker sprayed milk in my eyes. You're trash you're trash
+
+1788
+01:57:15,980 --> 01:57:19,660
+It's like hair yankings that are so like the fights get
+
+1789
+01:57:20,300 --> 01:57:27,020
+Bonkers and another chuckie cheese in brookfield wisconsin two women were arrested following a mass brawl involving 20 people on july
+
+1790
+01:57:27,240 --> 01:57:32,860
+27th the brawl was sparked according to the police by one child taking too long to choose a toy
+
+1791
+01:57:37,020 --> 01:57:41,740
+I don't know the galaxy 5000 doesn't look good to me. It looks like it might be a problematic
+
+1792
+01:57:45,420 --> 01:57:48,380
+Also, but then you have to with these fights keep in mind that as
+
+1793
+01:57:49,020 --> 01:57:55,740
+Yeah, 50 people are all fighting and deep in the background the trusty munches make-believe band is performing
+
+1794
+01:57:56,380 --> 01:57:58,540
+Like like none of it's happening. They're like
+
+1795
+01:58:03,340 --> 01:58:08,300
+They're bar band veterans they've seen everything they don't care they're not even just especially the vegas ones
+
+1796
+01:58:08,540 --> 01:58:13,180
+Yeah, I don't know that like good wi-fi is gonna help the idea of like
+
+1797
+01:58:14,040 --> 01:58:19,980
+Suburban parents just begrudgingly sitting there with a strong wi-fi connection on instagram
+
+1798
+01:58:20,140 --> 01:58:25,100
+Just like getting mad at their neighbors like I can't believe they got a boat like yeah
+
+1799
+01:58:25,980 --> 01:58:32,460
+Gassed up, but like whatever suburban parents do on the internet. Oh, she said what I gotta go to the next door
+
+1800
+01:58:32,540 --> 01:58:35,180
+I'm gonna do some posts on next door and citizen
+
+1801
+01:58:35,580 --> 01:58:39,980
+There was this is my lab. This is the last one I want to read from there was an abc nightline
+
+1802
+01:58:40,460 --> 01:58:46,300
+Story about it and it said it had become uh chuck e cheese had become a hot spot for violent brawls between adults
+
+1803
+01:58:46,700 --> 01:58:53,100
+And they happen mostly at birthday parties police have been called to one location in pennsylvania 17 times in 18 months
+
+1804
+01:58:56,140 --> 01:58:58,780
+Yet brockton gets the rap as the rough area
+
+1805
+01:58:59,260 --> 01:59:06,300
+Yeah, it's ridiculous bring back the brockton chuck e cheese bring back whitey bulger at least stuff was organized
+
+1806
+01:59:06,860 --> 01:59:09,180
+Yeah, let's bring whitey bulger back to life
+
+1807
+01:59:10,220 --> 01:59:13,020
+Rocky marciano only fought when the bell rang
+
+1808
+01:59:14,780 --> 01:59:18,540
+Uh, well now some towns are asking chuck e cheese to step into the
+
+1809
+01:59:18,860 --> 01:59:25,580
+Ring amid pressure from local politicians some chuck e cheeses have stopped serving alcohol and added security guards who carry pistols
+
+1810
+01:59:29,180 --> 01:59:35,180
+You have to have an armed man or woman holy arm the bots arm the bots
+
+1811
+01:59:36,620 --> 01:59:38,620
+Reach for the sky
+
+1812
+01:59:39,980 --> 01:59:42,460
+You're gonna fight me here i'm gonna give you some lead
+
+1813
+01:59:45,180 --> 01:59:48,780
+Or yeah arm the arm the walk around chuck he's got a little gun
+
+1814
+01:59:49,180 --> 01:59:55,580
+I wonder if they have I wouldn't I okay. How surprised would you be if the walk around chuck had like a knife?
+
+1815
+01:59:56,380 --> 02:00:00,940
+Not at all. I would not be surprised if they had if they had a knife for their own safety
+
+1816
+02:00:01,100 --> 02:00:05,660
+Yeah, what if he used it like to cut pizza also? Yeah. Oh that's cover. Yeah
+
+1817
+02:00:06,940 --> 02:00:08,940
+It says pizza
+
+1818
+02:00:10,940 --> 02:00:14,140
+For pizza for nothing else. Yeah. Yeah, that's a fine
+
+1819
+02:00:14,300 --> 02:00:20,460
+But like walk around chuck e doing that like fake, you know would do the split sometimes do the like almost split
+
+1820
+02:00:20,780 --> 02:00:24,380
+Yeah in those videos just like doing the split and their gun goes off
+
+1821
+02:00:27,180 --> 02:00:30,700
+My favorite part of the walk around chuck e is if you watch, you know
+
+1822
+02:00:30,700 --> 02:00:35,660
+Because he'll come out once every like 15 minutes or something. I'll count down to it in the restaurant
+
+1823
+02:00:35,900 --> 02:00:41,660
+He'll come out he'll do his bit children will chase him around the restaurant and then he'll you know
+
+1824
+02:00:41,660 --> 02:00:46,700
+I like the two seconds that chuck he thinks that he's no longer inside of the people and he drops the act
+
+1825
+02:00:46,860 --> 02:00:53,340
+You see the shoulders fall and you just see someone like go back to just take the head off for 10 minutes
+
+1826
+02:00:54,060 --> 02:00:55,340
+wait
+
+1827
+02:00:55,340 --> 02:00:56,700
+Anytime
+
+1828
+02:00:56,700 --> 02:01:03,020
+Anytime you see like a performer switch. I that's my favorite thing. I'll never forget the the time I saw
+
+1829
+02:01:03,820 --> 02:01:09,500
+Uh in storyland in new hampshire when I was little uh, cinderella on a smoke break and that like
+
+1830
+02:01:10,300 --> 02:01:12,300
+Fucked me up. Oh, yeah, that's yeah
+
+1831
+02:01:12,620 --> 02:01:20,140
+And my mom was like she's just like me like she was really trying to be like she smokes misty menthol 120s as well
+
+1832
+02:01:20,780 --> 02:01:22,780
+Oh, man
+
+1833
+02:01:26,380 --> 02:01:32,860
+Just to give everyone a heads up if you were wondering are there posts of concealed carry advocates may
+
+1834
+02:01:33,020 --> 02:01:37,420
+That chuckie says please no weapons in our store. The answer is yes
+
+1835
+02:01:41,020 --> 02:01:44,540
+A right unexercised is a right denied
+
+1836
+02:01:47,020 --> 02:01:49,660
+Says this one says munch
+
+1837
+02:01:52,380 --> 02:01:58,800
+A right on exercise here's a here's a new story on guns.com
+
+1838
+02:01:59,680 --> 02:02:01,680
+No
+
+1839
+02:02:02,640 --> 02:02:08,000
+Some guys just pumping their fists a decade ago going like yes, I got the I got guns.com. Yes
+
+1840
+02:02:09,440 --> 02:02:12,980
+For more information about my thoughts about freedoms and liberties
+
+1841
+02:02:17,040 --> 02:02:24,480
+Wow, yeah, I don't know what a place what an evolution the pizza wars came and went before any of us were born
+
+1842
+02:02:25,120 --> 02:02:26,000
+and
+
+1843
+02:02:26,000 --> 02:02:29,040
+now we're left with just one hub for
+
+1844
+02:02:29,680 --> 02:02:36,400
+Uh hair pulling and gun violence and inedible food. I wonder do we think there could be another pizza war?
+
+1845
+02:02:37,360 --> 02:02:44,320
+Like very famously like professional wrestling is we used to have monday night wars and now there's a new company that's going to challenge them
+
+1846
+02:02:44,640 --> 02:02:46,960
+Very soon and there's going to be more war like
+
+1847
+02:02:48,160 --> 02:02:50,400
+Wars are great when they're not real wars
+
+1848
+02:02:51,040 --> 02:02:58,400
+Sure, yeah business wars are fantastic fun to watch because the only losers are people who have money anyways
+
+1849
+02:02:59,840 --> 02:03:05,440
+So it doesn't matter low stakes. Yeah, I would love I would love for there to be more pizza wars
+
+1850
+02:03:05,520 --> 02:03:13,120
+I feel like if there was like a very modern version of chuckie cheese. Yes, cool. Like if they made it like a
+
+1851
+02:03:13,840 --> 02:03:18,240
+Not laser taggy, but like they have all those vr experiences now
+
+1852
+02:03:18,480 --> 02:03:26,000
+Yeah, gaming arena is a phrase i've heard a lot lately. I don't i'm afraid to inquire more
+
+1853
+02:03:26,720 --> 02:03:32,160
+Dave and busters has been around for a long time. Obviously, that's the adult version of it, but there's got to be some way
+
+1854
+02:03:33,040 --> 02:03:36,160
+To do a more modern version for aimed more at kids
+
+1855
+02:03:36,800 --> 02:03:41,120
+well if we also it'd be great if there was a re schism and like we start if we
+
+1856
+02:03:41,760 --> 02:03:46,320
+Became chuckie cheese franchisees and switched it back to the bowler hat and he's with rad now
+
+1857
+02:03:46,640 --> 02:03:49,360
+And then that grew and other people were with us and others were against us
+
+1858
+02:03:49,360 --> 02:03:54,800
+But there's another some of the chuckie cheeses all split and all press is good press. Yeah
+
+1859
+02:03:55,600 --> 02:03:58,160
+Could we are you a gun chuckie cheese or not?
+
+1860
+02:03:59,520 --> 02:04:01,360
+Well, we'll have to be a gun chuckie cheese
+
+1861
+02:04:01,360 --> 02:04:05,040
+I think because we just have to get more people in and that'll be at a track that'll be part of it
+
+1862
+02:04:06,160 --> 02:04:10,880
+Bring your gun put it on the table. We don't care. Uh-huh. Yeah rick raps got four of them
+
+1863
+02:04:12,480 --> 02:04:14,720
+And then we will just go against the corporate
+
+1864
+02:04:15,120 --> 02:04:23,040
+Mandate and change all the things and we can bring back the sky. What's her name sachet skunk? Oh sally sachet sally sachet. Thank you
+
+1865
+02:04:23,040 --> 02:04:27,760
+Yeah, absolutely. Yes, we can just start throwing the elven sky each bowser's are back
+
+1866
+02:04:28,240 --> 02:04:34,080
+Yeah, if we round up all the like new the the animatronic people and get let's get factor back on board. You're back in hey
+
+1867
+02:04:34,640 --> 02:04:42,480
+Storm in the country company factors. He's still in florida with the animatronics and now he helps throw he he is a thriving youtube channel
+
+1868
+02:04:43,200 --> 02:04:50,720
+And he has he lets people do birthday parties kids from orlandale can do five nights at freddy's themed birthday parties
+
+1869
+02:04:51,280 --> 02:04:58,320
+The haunted animatronics factory, right? Oh, yes. That was a big resurgence for them was five nights for freddy
+
+1870
+02:04:58,400 --> 02:05:02,080
+Yeah, a big hit. I don't know if that movie is actually going to happen or not
+
+1871
+02:05:02,080 --> 02:05:08,960
+But it would be I feel like the animatronic they would they they will rue the day the animatronics left if that ever worked out
+
+1872
+02:05:09,440 --> 02:05:11,600
+Right. Yeah, they'll be so relevant again
+
+1873
+02:05:12,240 --> 02:05:15,040
+Yeah, and erin's factory is the place to make it
+
+1874
+02:05:15,200 --> 02:05:20,000
+I mean it is pretty much doing fine except when everything exploded because he was inventing a
+
+1875
+02:05:20,620 --> 02:05:22,620
+experimental fuel called
+
+1876
+02:05:22,700 --> 02:05:24,700
+Carbohydrillion
+
+1877
+02:05:24,800 --> 02:05:27,700
+That sounds like um marvel
+
+1878
+02:05:31,680 --> 02:05:36,100
+Throw some words scary words invented carbo carbo hydrillion
+
+1879
+02:05:37,920 --> 02:05:40,880
+Write it down. It's got to be printed an hour ago
+
+1880
+02:05:42,560 --> 02:05:49,600
+There's a lot of there's talk now there's been talk but there's now another article a round of articles about toys of rust coming back
+
+1881
+02:05:50,080 --> 02:05:55,920
+Oh, but there's a little talk. Yeah already. I mean everything is just a big shell game toys of rust basically
+
+1882
+02:05:56,560 --> 02:05:58,560
+bane capital saddled it with
+
+1883
+02:05:59,280 --> 02:06:01,440
+So much debt even though it was making money
+
+1884
+02:06:01,520 --> 02:06:05,840
+It couldn't pay off of its debt and then everybody from bane capital just made a ton of money
+
+1885
+02:06:06,080 --> 02:06:11,520
+Then they still own everything and they just could like it's just they're waiting for the right time to go back
+
+1886
+02:06:11,520 --> 02:06:16,480
+So they didn't lose so much money that it's all just a business. All everyone's a big crook. Anyway
+
+1887
+02:06:17,200 --> 02:06:21,520
+They're talking about so nobody ever lost love or faith in jeffrey
+
+1888
+02:06:22,000 --> 02:06:26,000
+No, people love jeffrey. The only people that got hurt were the employees of toys of rust
+
+1889
+02:06:26,880 --> 02:06:31,920
+Like the people in charge all made a lot of money and then yeah, yeah, it sucks
+
+1890
+02:06:32,560 --> 02:06:35,440
+But anyway, they're talking about bringing toys of rust back, which I think it will
+
+1891
+02:06:35,920 --> 02:06:41,600
+They're they've already rebranded as jeffrey's toy box and there's weird kiosks and croakers
+
+1892
+02:06:42,000 --> 02:06:45,200
+So like what they're just already trying to get some money
+
+1893
+02:06:46,080 --> 02:06:50,240
+So you will come upon I don't think any out here maybe but in the midwest though
+
+1894
+02:06:50,240 --> 02:06:56,720
+You'll just see a kiosk that says jeffrey's toy box and a croaker and there's just some random toys codes for fortnight skin
+
+1895
+02:06:57,600 --> 02:06:58,880
+maybe
+
+1896
+02:06:58,880 --> 02:07:00,800
+but they're talking about like
+
+1897
+02:07:00,800 --> 02:07:04,160
+Bringing stores back now they're gonna I forget there's a decent amount
+
+1898
+02:07:04,160 --> 02:07:07,120
+They're talking like maybe by the end of the year, which I don't know if that'll happen
+
+1899
+02:07:07,360 --> 02:07:10,420
+But they're talking about like more of a kid environment
+
+1900
+02:07:11,200 --> 02:07:16,400
+Play area birthday party thing, which is something they did but feel like more of when we were kids
+
+1901
+02:07:16,960 --> 02:07:23,600
+Yeah, so it's like come on toys of rust if you really want to get back in the game and win us back over let's get a
+
+1902
+02:07:24,240 --> 02:07:28,000
+jeffrey robot and some of his friends that we may never have heard of before
+
+1903
+02:07:28,640 --> 02:07:29,680
+That's what i'm saying
+
+1904
+02:07:29,680 --> 02:07:36,320
+Oh, that would be so great. Yeah, and booze and guns and booze and guns. Let us drink in a toys of rust
+
+1905
+02:07:37,120 --> 02:07:44,400
+Like a whole foods. You can take a glass of wine toys of us on this newsmax article complaining about places that don't allow you guns
+
+1906
+02:07:44,480 --> 02:07:46,480
+Toys are us right above chuckie cheese
+
+1907
+02:07:48,960 --> 02:07:51,140
+All right, no more trampling on liberties
+
+1908
+02:07:51,540 --> 02:07:53,540
+Oh
+
+1909
+02:07:54,660 --> 02:07:56,660
+Oh
+
+1910
+02:08:01,620 --> 02:08:03,620
+Oh
+
+1911
+02:08:04,420 --> 02:08:06,580
+Oh, yes, thank you and hey
+
+1912
+02:08:06,740 --> 02:08:11,780
+Thanks for like, you know all your articles on it are are great and so fun to talk to you about all this stuff
+
+1913
+02:08:12,020 --> 02:08:14,260
+um, anything that makes it feel worth it
+
+1914
+02:08:15,860 --> 02:08:19,140
+Your dark time the dark days of 2016 17
+
+1915
+02:08:19,220 --> 02:08:22,660
+Yeah now and it results in a very dark podcast
+
+1916
+02:08:23,220 --> 02:08:27,380
+Um, uh, hey, let's exit through the gift shop. Is there anything you'd like to plug?
+
+1917
+02:08:27,780 --> 02:08:34,660
+Oh, uh, you can listen to the bechdel cast. Uh every thursday. That's on iHeartRadio. It's a feminist movie podcast
+
+1918
+02:08:34,660 --> 02:08:36,660
+I host with my friend caitlyn dorante
+
+1919
+02:08:37,060 --> 02:08:43,220
+Um, if you happen to live in scotland, you should come see my show at adan bro fringe this summer
+
+1920
+02:08:43,940 --> 02:08:45,940
+And uh, yeah, that's it
+
+1921
+02:08:46,260 --> 02:08:48,820
+Great. It's gonna be great. You're gonna be a star
+
+1922
+02:08:49,540 --> 02:08:51,540
+Yeah
+
+1923
+02:08:52,420 --> 02:08:59,140
+Awesome, yeah. Well, thanks so much and you can find us go to go to twitter once again hashtag chuckie covers
+
+1924
+02:08:59,860 --> 02:09:03,960
+I really like to see some of those subscribe to the second gate at patreon.com
+
+1925
+02:09:04,660 --> 02:09:09,460
+Podcasts the ride where I can only imagine there will be a lot more chuck content to come. Oh my god
+
+1926
+02:09:09,700 --> 02:09:15,380
+Um, because it's a it's I mean this could be its own podcast the four little shavers episode
+
+1927
+02:09:16,100 --> 02:09:18,100
+alone
+
+1928
+02:09:19,540 --> 02:09:21,540
+No, they each get their own
+
+1929
+02:09:21,620 --> 02:09:28,660
+Uh, uh, and uh, yeah, we got t-shirts on tpublic check us out on instagram and uh follow at topical genie
+
+1930
+02:09:28,980 --> 02:09:36,020
+Follow at topical genie. Um, maybe we can uh, uh, oh I well I set up at if you haven't found it already
+
+1931
+02:09:36,100 --> 02:09:40,820
+I always follow at et. Goodbye and et will say goodbye to you
+
+1932
+02:09:42,180 --> 02:09:44,180
+and uh
+
+1933
+02:09:46,340 --> 02:09:48,340
+Topical g goblin
+
+1934
+02:09:50,100 --> 02:09:52,340
+Yeah, the g is gonna be hard two g's in a row
+
+1935
+02:09:52,420 --> 02:09:58,900
+Yeah, my goal is for us to end up with the longest plug list in all of podcasting like by the end of it
+
+1936
+02:09:59,060 --> 02:10:06,820
+You need to follow 40 things for it to be as dense and confusing as the as showbiz pizza place versus pizza time theater
+
+1937
+02:10:07,460 --> 02:10:10,100
+Um, we're hoping to open the podcast time theater
+
+1938
+02:10:11,540 --> 02:10:18,260
+I've got a bunch of in check out est check out. I I have the rights to nexium now. I'm rebooting nexium, but it's gonna be cool
+
+1939
+02:10:18,340 --> 02:10:23,060
+It's gonna be you're in charge now. Yeah, I'm in charge now. It's gonna be more dance floors issue
+
+1940
+02:10:23,380 --> 02:10:27,300
+It was a leadership issue. Um studio n is coming
+
+1941
+02:10:28,980 --> 02:10:31,780
+You're plenty charismatic i'll get a brand to you any day
+
+1942
+02:10:32,420 --> 02:10:35,960
+It'll be a me animatronic and then quickly a dance floor and puppets
+
+1943
+02:10:38,500 --> 02:10:41,960
+All right, then follow vanguard aka jason sherdon
+
+1944
+02:10:41,960 --> 02:10:43,960
+And
+
+1945
+02:10:44,440 --> 02:10:48,360
+Uh, hey, that's it. Uh, thanks. What a blast see ya
+
+1946
+02:10:53,160 --> 02:10:59,320
+This has been a forever dog production executive produced by mike carlson jason sherryden
+
+1947
+02:10:59,720 --> 02:11:04,040
+scott gerdner brett bowen joe cilio and alex ramsey
+
+1948
+02:11:04,580 --> 02:11:06,840
+engineered and mastered by alex archer
+
+1949
+02:11:07,480 --> 02:11:10,300
+For more original podcasts, please visit foreverdogpodcast.com
+
+1950
+02:11:11,640 --> 02:11:16,840
+And subscribe to our shows on apple podcasts spotify or wherever you get your podcasts
+
+1951
+02:11:17,480 --> 02:11:25,180
+Keep up with the latest forever dog news by following us on twitter and instagram at forever dog team and liking our page on facebook
+

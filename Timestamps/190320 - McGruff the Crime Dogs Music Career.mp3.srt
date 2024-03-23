@@ -1,0 +1,7892 @@
+1
+00:00:02,980 --> 00:00:05,360
+Five, four, three, two, one.
+
+2
+00:00:21,176 --> 00:00:26,716
+This is Podcast the Ride, the second gate hosted by three guys who are about to totally blow out their voices.
+
+3
+00:00:26,876 --> 00:00:29,996
+Talking like this for an hour straight.
+
+4
+00:00:31,076 --> 00:00:32,936
+It's not an easy one to do.
+
+5
+00:00:33,416 --> 00:00:35,596
+I'll be suffering the rest of the day.
+
+6
+00:00:36,796 --> 00:00:43,396
+My name is Mike Carlson and I love to talk like this and warn kids about drugs.
+
+7
+00:00:44,176 --> 00:00:44,716
+Jason Sheridan.
+
+8
+00:00:44,936 --> 00:00:51,016
+Hey, this is Jason Sheridan encouraging you all to buy timers for your lamps that go on at 5pm
+
+9
+00:00:51,016 --> 00:00:53,336
+and then go off at about 2am.
+
+10
+00:00:53,356 --> 00:00:54,736
+I like this different McGruff.
+
+11
+00:00:54,996 --> 00:00:55,736
+This is the I.
+
+12
+00:00:55,736 --> 00:00:57,076
+Hey there, what's up?
+
+13
+00:00:57,136 --> 00:00:57,976
+I'm McGruff.
+
+14
+00:00:58,076 --> 00:00:59,076
+Hey, it's McGruff.
+
+15
+00:00:59,996 --> 00:01:04,836
+So we are today talking about, I don't want to declare this the best episode we've ever done,
+
+16
+00:01:05,356 --> 00:01:08,396
+but it might be, at least I'm very, very excited about it.
+
+17
+00:01:08,516 --> 00:01:08,776
+It's a solid shot.
+
+18
+00:01:08,896 --> 00:01:10,456
+It's a solid shot at it.
+
+19
+00:01:10,996 --> 00:01:12,976
+It's barely tied into theme parks.
+
+20
+00:01:13,736 --> 00:01:15,216
+It just, there's a costume character.
+
+21
+00:01:15,416 --> 00:01:22,176
+I think maybe what we're finding is that the one a month of the Patreon is like sort of adjacent,
+
+22
+00:01:22,176 --> 00:01:24,736
+which I think is fine.
+
+23
+00:01:24,876 --> 00:01:28,516
+Look, it's a costume character and it's very silly.
+
+24
+00:01:29,076 --> 00:01:32,176
+It's definitely the theme park spirit and silliness.
+
+25
+00:01:32,176 --> 00:01:34,056
+So it's justified in my mind.
+
+26
+00:01:34,276 --> 00:01:38,896
+And we have talked before about sometimes when you look at the world,
+
+27
+00:01:38,956 --> 00:01:41,076
+it seems like everything is theme parks.
+
+28
+00:01:41,536 --> 00:01:44,176
+Yes, everything is theme parks and everything is wrestling, I've found.
+
+29
+00:01:44,176 --> 00:01:45,196
+It's all the same.
+
+30
+00:01:45,196 --> 00:01:47,676
+Politics is wrestling and everything else is theme parks.
+
+31
+00:01:47,676 --> 00:01:49,696
+So that's basically how the world is.
+
+32
+00:01:49,896 --> 00:01:50,556
+That's my world.
+
+33
+00:01:50,636 --> 00:01:52,436
+That's a little philosophy for me.
+
+34
+00:01:52,696 --> 00:01:56,236
+That's your Patton Oswalt spaceship horseman.
+
+35
+00:01:56,396 --> 00:01:57,196
+Yes. What is it?
+
+36
+00:01:57,336 --> 00:01:59,136
+I don't remember, but I know what you're talking about.
+
+37
+00:01:59,436 --> 00:02:03,056
+Yeah, I don't remember. Ninja pirate horseman is his book, correct?
+
+38
+00:02:03,076 --> 00:02:03,576
+Yes.
+
+39
+00:02:03,576 --> 00:02:04,336
+I think I got it.
+
+40
+00:02:04,436 --> 00:02:05,516
+Yeah, it's a horseman.
+
+41
+00:02:05,656 --> 00:02:11,456
+If you read the, you know, I've talked before, Jason Woellner got me into this Blue Loop website,
+
+42
+00:02:11,456 --> 00:02:14,956
+which is sort of like a trade magazine for not just theme parks,
+
+43
+00:02:15,616 --> 00:02:19,196
+but themed and experiential and entertainment in general.
+
+44
+00:02:19,196 --> 00:02:23,596
+And it's the main things they report on our theme parks and then museums
+
+45
+00:02:23,596 --> 00:02:27,836
+because museums are starting to do a lot more, you know,
+
+46
+00:02:27,836 --> 00:02:31,816
+interactive stuff for themes sort of stuff.
+
+47
+00:02:31,816 --> 00:02:36,856
+And then there was an article where I was like, all right, I got to stop reading this
+
+48
+00:02:36,856 --> 00:02:39,016
+because the made up terms are making me mad.
+
+49
+00:02:39,676 --> 00:02:44,316
+But experiential shopping of like getting people back into malls
+
+50
+00:02:44,316 --> 00:02:47,056
+with like, how can we gamify the mall?
+
+51
+00:02:47,716 --> 00:02:50,476
+Or like, sort of what the void is about a little bit.
+
+52
+00:02:50,476 --> 00:02:52,076
+Yeah, that's true.
+
+53
+00:02:52,476 --> 00:02:55,176
+And there's I well, I don't know what else is an example of that,
+
+54
+00:02:55,176 --> 00:02:59,396
+but I did go into a Disney store and there was some like interactive
+
+55
+00:02:59,396 --> 00:03:05,796
+augmented reality thing involving like last Jedi that you played in the store.
+
+56
+00:03:05,796 --> 00:03:10,236
+Yeah, I think stuff like that or Instagram like backdrops.
+
+57
+00:03:10,236 --> 00:03:13,576
+And then like even still hanging on from like eight years ago,
+
+58
+00:03:13,976 --> 00:03:19,016
+Q, you know, scan this QR code like that was a yeah.
+
+59
+00:03:19,296 --> 00:03:22,876
+And of course, indoor hurricane machines.
+
+60
+00:03:23,616 --> 00:03:29,376
+That's long before that's that's experiential shopping or whatever the term was.
+
+61
+00:03:29,556 --> 00:03:32,496
+We'll we'll get to our episode about indoor hurricane machines.
+
+62
+00:03:32,496 --> 00:03:34,296
+Yeah, we'll experience all of them.
+
+63
+00:03:34,296 --> 00:03:38,096
+I assume we'll travel across country and find the best one and rank them.
+
+64
+00:03:38,296 --> 00:03:39,396
+Sure. I think so.
+
+65
+00:03:39,396 --> 00:03:42,196
+Yeah, find the difference between the manufacturers.
+
+66
+00:03:42,556 --> 00:03:45,296
+Yeah, this like this one's a better hurricane experience.
+
+67
+00:03:45,676 --> 00:03:50,876
+But upkeep is suffering a little and I think the font is better on the
+
+68
+00:03:50,876 --> 00:03:55,236
+you know, the hurricane saga, indoor hurricane saga.
+
+69
+00:03:55,236 --> 00:03:58,136
+Oh, no. Yeah, it's what we're doing it.
+
+70
+00:03:58,516 --> 00:04:01,496
+So we have as I was just about to say before we start recording,
+
+71
+00:04:02,096 --> 00:04:03,656
+there is too much material.
+
+72
+00:04:03,656 --> 00:04:06,916
+So today's episode is specifically about not just McGruff.
+
+73
+00:04:06,936 --> 00:04:09,496
+It is about McGruff's music career.
+
+74
+00:04:09,496 --> 00:04:15,856
+And I was like, I wasn't totally sure about the rules myself because I know nothing.
+
+75
+00:04:16,116 --> 00:04:18,796
+I'm not prepared to talk about McGruff in general.
+
+76
+00:04:18,996 --> 00:04:19,736
+Right. No, we're not.
+
+77
+00:04:19,816 --> 00:04:22,216
+Now, you and the reason I know about this because we were walking.
+
+78
+00:04:22,516 --> 00:04:24,776
+The three of us were walking to eat lunch after recording.
+
+79
+00:04:24,776 --> 00:04:27,396
+And there's a police station around here.
+
+80
+00:04:27,396 --> 00:04:30,196
+And I believe you said there's a full McGruff suit.
+
+81
+00:04:30,356 --> 00:04:32,636
+You told me that there's a full McGruff suit.
+
+82
+00:04:32,636 --> 00:04:36,436
+If you look through the window and always in the lobby of the police station.
+
+83
+00:04:36,516 --> 00:04:37,296
+And I was like, holy shit.
+
+84
+00:04:37,376 --> 00:04:39,496
+And then you're like, you know, there's a McGruff album.
+
+85
+00:04:39,496 --> 00:04:41,116
+And I went, what are you? What?
+
+86
+00:04:41,376 --> 00:04:44,456
+And then I went home, immediately looked it up and I've been obsessed
+
+87
+00:04:44,456 --> 00:04:46,036
+with it for like eight months.
+
+88
+00:04:46,236 --> 00:04:48,416
+Yeah, you you bit even harder than I did.
+
+89
+00:04:48,476 --> 00:04:50,196
+I poked around a little bit.
+
+90
+00:04:50,536 --> 00:04:54,076
+But but my I mean, I bit I bit harder.
+
+91
+00:04:54,096 --> 00:04:56,876
+Bit like I was biting a cat in half.
+
+92
+00:04:57,516 --> 00:04:58,896
+They're putting me down tomorrow.
+
+93
+00:04:59,776 --> 00:05:01,196
+I'm rabid.
+
+94
+00:05:01,336 --> 00:05:03,336
+I'm a minister society.
+
+95
+00:05:03,336 --> 00:05:07,136
+I know a priest, no funeral.
+
+96
+00:05:07,136 --> 00:05:09,796
+Unmarked grave.
+
+97
+00:05:10,956 --> 00:05:15,836
+So what I my my takeaway that I did not dive as deep as you,
+
+98
+00:05:15,856 --> 00:05:18,136
+but my takeaway right away was,
+
+99
+00:05:18,136 --> 00:05:22,916
+you know, something like this is is is catnip for me.
+
+100
+00:05:22,976 --> 00:05:24,256
+Ironically catnip.
+
+101
+00:05:24,276 --> 00:05:27,136
+And I like a good bad album.
+
+102
+00:05:27,136 --> 00:05:29,916
+I always have or, you know, a silly.
+
+103
+00:05:29,916 --> 00:05:31,256
+Why does this exist album?
+
+104
+00:05:31,456 --> 00:05:37,456
+But my in poking around initially the songs better than they have a right to be.
+
+105
+00:05:37,536 --> 00:05:39,216
+The songs compelling here.
+
+106
+00:05:39,336 --> 00:05:40,456
+That is what's compelling.
+
+107
+00:05:40,456 --> 00:05:45,536
+And the thing it's not just how funny it's an anti-drug album or, by the way, two albums.
+
+108
+00:05:45,856 --> 00:05:48,256
+Yeah, it's too full. And also there's some of it.
+
+109
+00:05:48,256 --> 00:05:52,996
+I will ask the listeners to find the rest for me because they're not all archived on YouTube.
+
+110
+00:05:53,456 --> 00:05:56,416
+So there for sure is at least a part two lurking somewhere
+
+111
+00:05:56,416 --> 00:05:59,376
+because all the songs have not been heard by us.
+
+112
+00:05:59,376 --> 00:06:08,236
+Are you talking about OK, the first one of which I know I'm more familiar with is McGruff's smart kids.
+
+113
+00:06:08,696 --> 00:06:12,596
+Yes, McGruff smart kids 1986 was released.
+
+114
+00:06:12,656 --> 00:06:16,576
+Yes. And that's the one that I listened to the first for the one you told me about it.
+
+115
+00:06:16,576 --> 00:06:19,616
+And then there was a different album I discovered from 1991,
+
+116
+00:06:19,616 --> 00:06:25,296
+which came out exclusively at Burger King and it's called McGruff cares for you.
+
+117
+00:06:26,356 --> 00:06:34,136
+Well, now that sounds like it could be like an like Delilah would play like that's like it would be soft rock hits like.
+
+118
+00:06:34,136 --> 00:06:37,216
+Well, there's a lot of soft rock on both of these albums.
+
+119
+00:06:37,216 --> 00:06:38,016
+Yeah, yeah.
+
+120
+00:06:38,076 --> 00:06:47,156
+So that's like really my musical alley and one that I didn't know till yesterday that I threw on with my wife,
+
+121
+00:06:47,156 --> 00:06:53,816
+Aaron and the beginning made us go, oh, like it's the it is like the kind of thing we would just listen to anyway.
+
+122
+00:06:53,896 --> 00:06:55,856
+I was smart smart kids.
+
+123
+00:06:56,036 --> 00:06:58,976
+Yes, I think it might be the song smart kids.
+
+124
+00:06:59,476 --> 00:07:02,796
+I think I know exactly what you're talking because I was just listening to them again before you got here.
+
+125
+00:07:02,896 --> 00:07:07,396
+And I that one started and I think that's it's like a bit of the sax very like a lot of sax in this.
+
+126
+00:07:07,436 --> 00:07:08,336
+Yeah, yeah, yeah.
+
+127
+00:07:08,536 --> 00:07:09,256
+I think that's what I think.
+
+128
+00:07:09,596 --> 00:07:16,116
+I know we're talking about very I have this whole there and I have both gotten into this is going to sound really contrived,
+
+129
+00:07:16,116 --> 00:07:20,796
+but we have both gotten into Kenny G and that's really yeah.
+
+130
+00:07:21,776 --> 00:07:24,636
+Because some early Kenny G pretty good.
+
+131
+00:07:24,656 --> 00:07:31,856
+He's got ties to legit early 80s instrumental funk with this guy Kashif who's super respected.
+
+132
+00:07:32,276 --> 00:07:36,156
+He like Kenny G played on some stuff that is fantastic.
+
+133
+00:07:36,796 --> 00:07:39,636
+I encourage people to look up a video called Hi, how you doing?
+
+134
+00:07:39,936 --> 00:07:41,536
+That is a fucking blast.
+
+135
+00:07:41,696 --> 00:07:47,536
+It is not I get what's lame about him in the 90s, but he came out of some pretty cool stuff.
+
+136
+00:07:47,536 --> 00:07:49,276
+I'm not kidding. There's good Kenny.
+
+137
+00:07:49,756 --> 00:07:54,696
+And this thing, the this thing reminded me of the of the Kenny G that I like.
+
+138
+00:07:55,576 --> 00:07:58,816
+Yeah, there's a lot of my first thought is and this is not really equivalent,
+
+139
+00:07:58,816 --> 00:08:07,596
+but like if you were just hearing Rod Stewart in the last 10 years, you'd go, oh God, this is just lame old standard crap.
+
+140
+00:08:07,956 --> 00:08:09,736
+But like he was cool in the 90s.
+
+141
+00:08:09,916 --> 00:08:13,036
+Yeah, he was sort of like over the Hill.
+
+142
+00:08:13,876 --> 00:08:17,616
+Perhaps the most prominent raspy voiced singer besides McGruff.
+
+143
+00:08:17,796 --> 00:08:18,616
+Yeah, right.
+
+144
+00:08:19,676 --> 00:08:21,876
+Me and Rod, we're recording together.
+
+145
+00:08:22,736 --> 00:08:25,876
+We blew our voices out like Lennon and Nielsen.
+
+146
+00:08:25,976 --> 00:08:27,716
+But now it just gives us character.
+
+147
+00:08:28,316 --> 00:08:30,896
+There have been legends about either of us aren't true.
+
+148
+00:08:32,356 --> 00:08:33,796
+That McGruff is a little bit of a pirate.
+
+149
+00:08:35,176 --> 00:08:37,416
+Oh, yeah. Yeah, I guess so.
+
+150
+00:08:38,596 --> 00:08:39,076
+Yarg.
+
+151
+00:08:40,096 --> 00:08:41,276
+So I believe.
+
+152
+00:08:41,276 --> 00:08:42,796
+Now, I'll listen to old Kenny G.
+
+153
+00:08:42,796 --> 00:08:43,596
+I don't know.
+
+154
+00:08:44,176 --> 00:08:48,636
+I'll make I'll try to whittle down what I consider the good Kenny.
+
+155
+00:08:48,636 --> 00:08:49,816
+The essential G.
+
+156
+00:08:50,156 --> 00:08:52,016
+Yeah, G was a G.
+
+157
+00:08:52,296 --> 00:08:57,236
+So we'll do a quick little in case you don't know McGruff.
+
+158
+00:08:57,456 --> 00:08:58,796
+Yeah, McGruff the crime dog.
+
+159
+00:08:58,916 --> 00:09:02,176
+If you're a young listener, perhaps you're not so familiar with him.
+
+160
+00:09:02,336 --> 00:09:10,496
+He's a giant dog in a trench coat who would appear on commercials and in other various media and tell you not to do drugs.
+
+161
+00:09:10,496 --> 00:09:12,376
+Tell you watch out for strangers.
+
+162
+00:09:12,536 --> 00:09:15,256
+I primarily know him from commercials.
+
+163
+00:09:15,256 --> 00:09:17,076
+I think I don't there was there were specials.
+
+164
+00:09:17,076 --> 00:09:19,156
+There's a Drew Barrymore special that he's on.
+
+165
+00:09:19,216 --> 00:09:19,936
+Oh, that's right.
+
+166
+00:09:19,996 --> 00:09:23,956
+Which we'll talk, I'm sure another time we don't have time for that.
+
+167
+00:09:23,956 --> 00:09:29,096
+But he has some other interesting media ventures that that exist.
+
+168
+00:09:29,356 --> 00:09:35,136
+And he's he alternates between being a cartoon character and being a suited.
+
+169
+00:09:35,136 --> 00:09:35,696
+Yes.
+
+170
+00:09:37,816 --> 00:09:45,836
+On the McGruff Smart Kids album, it's got this wonderfully plain cover of him as a suited character.
+
+171
+00:09:46,136 --> 00:09:48,756
+Just like leaning up against some fake brick.
+
+172
+00:09:48,916 --> 00:09:49,836
+You know what it looks like, Jason?
+
+173
+00:09:50,716 --> 00:09:52,536
+This one. Sorry, I can't turn this over.
+
+174
+00:09:52,536 --> 00:09:53,976
+Like Sesame Street.
+
+175
+00:09:54,236 --> 00:10:03,296
+Yeah, I think it's a really pleasant like pretty cheap photo, but it's like really sets the tone right and creates the character for this album.
+
+176
+00:10:03,296 --> 00:10:08,416
+A cheap photo for like fully produced songs, because that's the thing that gets me.
+
+177
+00:10:08,416 --> 00:10:11,416
+They made two albums and one in the late 80s.
+
+178
+00:10:11,476 --> 00:10:13,696
+The other in 91, did you say was that?
+
+179
+00:10:13,696 --> 00:10:14,956
+Yeah, that's what it says.
+
+180
+00:10:15,436 --> 00:10:25,316
+And doing anything with media, I feel like before at least Windows Media Player before Pro Tools was so much work.
+
+181
+00:10:25,516 --> 00:10:32,036
+It's so much labor to do to record songs for like a throwaway like.
+
+182
+00:10:32,056 --> 00:10:38,936
+And this, you know, these are very synth laden, but since they're already to do, and there's some real instruments.
+
+183
+00:10:38,936 --> 00:10:41,116
+I was just complimenting the saxophone work.
+
+184
+00:10:41,136 --> 00:10:42,616
+There's a lot of great sex work.
+
+185
+00:10:42,616 --> 00:10:43,956
+There's a lot of first one.
+
+186
+00:10:44,056 --> 00:10:44,196
+Yeah.
+
+187
+00:10:44,196 --> 00:10:46,556
+So this is not some like you'll hear.
+
+188
+00:10:46,556 --> 00:10:50,096
+You'll hear it up the quality of this music as much as we can.
+
+189
+00:10:50,296 --> 00:10:51,236
+No, no, but you're absolutely right.
+
+190
+00:10:51,316 --> 00:10:55,916
+Like it's like it's legitimately produced music.
+
+191
+00:10:55,916 --> 00:10:57,456
+It's not Shinse MIDI.
+
+192
+00:10:57,956 --> 00:10:59,556
+Yeah, I couldn't find.
+
+193
+00:10:59,636 --> 00:11:01,116
+I cannot find credits.
+
+194
+00:11:01,556 --> 00:11:02,836
+No, I tried.
+
+195
+00:11:03,016 --> 00:11:08,236
+I looked at all the places you go to find out who what session players played on things.
+
+196
+00:11:08,316 --> 00:11:09,876
+And I don't think it exists.
+
+197
+00:11:09,896 --> 00:11:16,696
+The tape is on discogs.com, which is the best source of who played on what right is on there,
+
+198
+00:11:16,696 --> 00:11:19,956
+which is like a collector site that also gives you like a worth of an album.
+
+199
+00:11:19,956 --> 00:11:22,636
+And I think the worth of this is because it's only on cassette.
+
+200
+00:11:22,736 --> 00:11:25,036
+I think the worth is literally one cent.
+
+201
+00:11:25,036 --> 00:11:29,256
+Although it seems to be hard to find and all the YouTube comments are very.
+
+202
+00:11:29,676 --> 00:11:31,776
+Can I can somebody send me this?
+
+203
+00:11:31,816 --> 00:11:35,056
+Here's my people just give their email address right in the comments.
+
+204
+00:11:35,436 --> 00:11:37,316
+Please just get me this album.
+
+205
+00:11:37,316 --> 00:11:42,776
+Yeah, but the YouTube gets the job done unless you really need to be listening to this on a cassette.
+
+206
+00:11:42,916 --> 00:11:45,796
+Like when you're out and about like a walkman.
+
+207
+00:11:46,356 --> 00:11:47,536
+Do you feel Mike?
+
+208
+00:11:47,616 --> 00:11:49,116
+You're more into this than anybody.
+
+209
+00:11:49,516 --> 00:11:54,236
+Are you do you feel like you want you need these on your mobile device?
+
+210
+00:11:54,316 --> 00:11:59,056
+Do you are you ever driving around and like God, I wish I could play the I have played it from the YouTube
+
+211
+00:11:59,056 --> 00:11:59,836
+in my car.
+
+212
+00:11:59,836 --> 00:12:00,456
+Sure.
+
+213
+00:12:00,736 --> 00:12:01,056
+Uh huh.
+
+214
+00:12:01,136 --> 00:12:03,176
+So that's that's all I need really job done.
+
+215
+00:12:03,236 --> 00:12:09,776
+It eats data, but I did rip this though for this purpose just so it wouldn't be tied to the Internet.
+
+216
+00:12:09,776 --> 00:12:11,096
+We're not sitting through an ad.
+
+217
+00:12:11,376 --> 00:12:11,856
+Yes.
+
+218
+00:12:12,096 --> 00:12:14,796
+Or anything that we've you the patreon listeners.
+
+219
+00:12:14,836 --> 00:12:15,856
+We've done you the service.
+
+220
+00:12:15,856 --> 00:12:18,576
+Yeah, I'm making you listen to a Verizon ad.
+
+221
+00:12:18,576 --> 00:12:21,996
+You is now that all right.
+
+222
+00:12:22,056 --> 00:12:23,356
+Yeah, you'll listen to other ads.
+
+223
+00:12:23,536 --> 00:12:25,636
+Yeah, not you're not on this.
+
+224
+00:12:25,636 --> 00:12:26,336
+Not on this feed.
+
+225
+00:12:26,456 --> 00:12:28,416
+No, I just feel like that's been the pre-roll.
+
+226
+00:12:28,456 --> 00:12:31,036
+I've gotten on YouTube a lot recently.
+
+227
+00:12:31,036 --> 00:12:36,496
+It's like a little if we get a blue shoe sponsorship, you are exclusively going to read the ads.
+
+228
+00:12:36,496 --> 00:12:37,896
+Oh, that's fine.
+
+229
+00:12:37,896 --> 00:12:39,636
+I'm going to test the product.
+
+230
+00:12:39,636 --> 00:12:40,536
+Oh, okay.
+
+231
+00:12:40,536 --> 00:12:41,676
+It's blue shoe again.
+
+232
+00:12:41,676 --> 00:12:45,236
+It's generic Viagra and Cialis and stuff.
+
+233
+00:12:45,556 --> 00:12:53,816
+What is generic mean like like it's not it's not it's what's the term for pharmacist over the counter?
+
+234
+00:12:54,476 --> 00:12:56,836
+No, it's just not name brand.
+
+235
+00:12:56,836 --> 00:12:57,856
+It's like it.
+
+236
+00:12:57,956 --> 00:13:04,976
+Well, but blue shoe is a name brand, but they're just providing like we're going to they are.
+
+237
+00:13:05,016 --> 00:13:12,436
+So they don't make the they get pills from elsewhere and they get a reaction pills and they send it to you without the hassle.
+
+238
+00:13:12,516 --> 00:13:13,316
+It's generic.
+
+239
+00:13:13,316 --> 00:13:18,936
+It's like if you're just buying like the up and up brand Loretta Dean instead of Claritin.
+
+240
+00:13:18,936 --> 00:13:23,476
+Okay, but they don't ever why is this this is we don't have time for this.
+
+241
+00:13:24,656 --> 00:13:30,456
+Why is why would they have a branding like blue shoe because the generic drugs generally just name the real drug?
+
+242
+00:13:31,376 --> 00:13:40,236
+Yeah, well, I think they're I think they're just the mid they're the middle blue shoe is a company that find that generic Viagra and gives it to you.
+
+243
+00:13:40,416 --> 00:13:42,156
+The pill you're taking is not blue.
+
+244
+00:13:42,196 --> 00:13:47,716
+I think they also do like a digital consultation because you still need a script for a lot of the consultation.
+
+245
+00:13:47,716 --> 00:13:49,836
+It's just do you get erections?
+
+246
+00:13:50,076 --> 00:13:51,016
+No, are you all right?
+
+247
+00:13:51,076 --> 00:13:51,616
+Are you horny?
+
+248
+00:13:51,816 --> 00:13:52,916
+Yes, I try to be.
+
+249
+00:13:52,996 --> 00:13:56,516
+Well, this will help you if you're going to take erection medicine.
+
+250
+00:13:56,516 --> 00:13:58,576
+Make sure you trust the source.
+
+251
+00:13:58,696 --> 00:14:00,456
+Don't eat anything generic.
+
+252
+00:14:00,716 --> 00:14:05,816
+Make sure your digital doctor knows what he's doing giving blue shoe test of it.
+
+253
+00:14:05,836 --> 00:14:08,316
+So like it works if you're alone too.
+
+254
+00:14:08,736 --> 00:14:13,976
+So so my boner is like two feet because I'm a big dog.
+
+255
+00:14:14,176 --> 00:14:17,836
+My fuzzy boner.
+
+256
+00:14:18,636 --> 00:14:20,996
+Try the biggest lipstick you ever see.
+
+257
+00:14:21,016 --> 00:14:22,916
+I guess it's not fuzzy because it was a dog.
+
+258
+00:14:23,176 --> 00:14:23,956
+It's the yeah.
+
+259
+00:14:23,956 --> 00:14:24,236
+All right.
+
+260
+00:14:24,236 --> 00:14:25,316
+You get it.
+
+261
+00:14:25,316 --> 00:14:27,676
+So what's it puts Edwin to shame?
+
+262
+00:14:27,676 --> 00:14:28,096
+Sorry.
+
+263
+00:14:28,256 --> 00:14:32,836
+And Edwin, by the way, has a large penis and I'm not saying that to be funny.
+
+264
+00:14:33,096 --> 00:14:33,656
+It happened.
+
+265
+00:14:33,856 --> 00:14:35,576
+It came out once and we were shocked.
+
+266
+00:14:35,756 --> 00:14:36,096
+Whoa.
+
+267
+00:14:36,236 --> 00:14:37,416
+He is a tiny dog.
+
+268
+00:14:37,876 --> 00:14:45,756
+I we were like, oh my God, like it was shocking for him to be like a 15 pound dog.
+
+269
+00:14:45,876 --> 00:14:47,236
+Did you trip on it?
+
+270
+00:14:47,476 --> 00:14:49,796
+That's how you found out wasn't out that long.
+
+271
+00:14:49,796 --> 00:14:50,316
+He trip.
+
+272
+00:14:50,476 --> 00:14:51,856
+It just it did.
+
+273
+00:14:51,976 --> 00:15:00,416
+It was like a horror movie that when it emerged anyway, so sorry to trash up the podcast with this talk back to false dogs.
+
+274
+00:15:00,496 --> 00:15:07,616
+So Jack, Jack Kyle real quick is the guy who created McGruff and he just died two years ago or a year and a half ago.
+
+275
+00:15:07,676 --> 00:15:16,576
+And he was like in his 90s and I he had his obituary in the New York Times and I'm looking through some of it and he
+
+276
+00:15:16,736 --> 00:15:19,276
+was talking about McGruff because he loved McGruff.
+
+277
+00:15:19,296 --> 00:15:24,316
+He was an advertising guy and he felt this was a good fit character and would teach kids.
+
+278
+00:15:24,456 --> 00:15:25,296
+And he really believed in it.
+
+279
+00:15:25,476 --> 00:15:31,576
+Major figure at the ad agency is like one of the top people at this gigantic ad agency.
+
+280
+00:15:31,736 --> 00:15:37,736
+And then like as this ends up with his whole other career, it's kind of like six years later.
+
+281
+00:15:37,736 --> 00:15:40,996
+He does an album, which is also because McGruff debuts in 1980.
+
+282
+00:15:41,216 --> 00:15:41,976
+Oh that long ago.
+
+283
+00:15:41,976 --> 00:15:43,596
+Then he does six years later.
+
+284
+00:15:43,596 --> 00:15:50,156
+He's like time to make an album, which also when we do the McGruff voice, we're doing a more fully for McGruff because on the album,
+
+285
+00:15:50,156 --> 00:15:51,796
+you'll hear his voice.
+
+286
+00:15:51,816 --> 00:15:57,116
+You know, it's a lot like Steven Tyler doing dream on, you know, he doesn't quite sound like the Steven Tyler from Aerosmith.
+
+287
+00:15:57,316 --> 00:16:03,216
+You'll recognize later dream on his voice is not as scratchy, not as doesn't have the years on it.
+
+288
+00:16:03,296 --> 00:16:04,796
+So you'll hear McGruff smart kids.
+
+289
+00:16:04,816 --> 00:16:07,576
+He's still kind of talking like this versus like this.
+
+290
+00:16:07,796 --> 00:16:09,536
+Do we even know that it's him?
+
+291
+00:16:09,896 --> 00:16:10,236
+We don't.
+
+292
+00:16:10,236 --> 00:16:15,336
+I think this article leads me to believe he never didn't do the voice.
+
+293
+00:16:15,336 --> 00:16:15,896
+Wow.
+
+294
+00:16:16,096 --> 00:16:25,436
+So I as far as I know, I McGruff not originally though used as an anti-drug campaigns, but like from what I was reading,
+
+295
+00:16:25,536 --> 00:16:28,296
+he was originally like lock your doors.
+
+296
+00:16:28,296 --> 00:16:30,336
+Yes, your lights on to deter burglars.
+
+297
+00:16:30,356 --> 00:16:31,596
+Well, there's a I don't have a cute up.
+
+298
+00:16:31,616 --> 00:16:40,076
+There's a very famous very famous commercial or PSA where he's talking about like fake movers stealing stuff from people's houses.
+
+299
+00:16:40,816 --> 00:16:41,296
+Great.
+
+300
+00:16:41,676 --> 00:16:46,196
+Where it's like look, there's a Johnson's they're moving except they're not.
+
+301
+00:16:46,836 --> 00:16:52,456
+Make sure, you know, if you're like there's like a fake like, I don't know if that was a real thing in the 70s or the 80s
+
+302
+00:16:52,456 --> 00:16:56,636
+where people would fake bring fake movers and then loot someone's house.
+
+303
+00:16:56,916 --> 00:17:03,476
+If a cop shows up at your door before you go on a trip to Paris, make sure that he's not actually a crook.
+
+304
+00:17:03,476 --> 00:17:07,876
+Check to make sure he doesn't have a silver tooth that shines when he smiles at you.
+
+305
+00:17:07,876 --> 00:17:14,936
+If you're in a courtroom and the flag has golden fringe on it, the validity of the judge is in question.
+
+306
+00:17:16,916 --> 00:17:20,796
+So John Burt's society.
+
+307
+00:17:20,856 --> 00:17:21,796
+There's too much.
+
+308
+00:17:22,196 --> 00:17:22,476
+All right.
+
+309
+00:17:22,536 --> 00:17:26,276
+Let me I will now I had this cute up and then I was thinking I won't play it, but I will play this.
+
+310
+00:17:26,596 --> 00:17:28,416
+So, oh wait, no, no, I'm getting ahead of myself.
+
+311
+00:17:28,676 --> 00:17:29,156
+So Mr.
+
+312
+00:17:29,156 --> 00:17:31,376
+Kyle said about McGruff, I just like this quote.
+
+313
+00:17:31,816 --> 00:17:36,716
+He wasn't vicious not tremendously smart maybe but he had but he was no wimp either.
+
+314
+00:17:36,716 --> 00:17:39,956
+He was a father figure or possibly an uncle figure.
+
+315
+00:17:39,956 --> 00:17:46,576
+Just an uncle in a trench coat looking out for just a dog uncle.
+
+316
+00:17:47,916 --> 00:17:54,956
+So he a couple years ago, maybe or maybe a year ago, we were looking through McGruff stuff.
+
+317
+00:17:55,036 --> 00:17:55,496
+I don't know.
+
+318
+00:17:55,496 --> 00:17:57,756
+Maybe it's after the smart kids album, whatever the timeline.
+
+319
+00:17:58,276 --> 00:18:00,476
+He was doing this till he died.
+
+320
+00:18:00,616 --> 00:18:05,056
+Like he was doing McGruff and we found this commercial 30 seconds long.
+
+321
+00:18:05,056 --> 00:18:07,336
+That is hilarious.
+
+322
+00:18:07,336 --> 00:18:08,956
+It looks like it was shot on a phone.
+
+323
+00:18:08,976 --> 00:18:13,776
+Maybe I don't know who paid for this, but it's on McGruff's official YouTube channel.
+
+324
+00:18:13,776 --> 00:18:15,236
+It's kind of a latter day.
+
+325
+00:18:15,536 --> 00:18:18,416
+It's not it's January 18th, 2017.
+
+326
+00:18:18,416 --> 00:18:22,176
+Wow, because McGruff has certainly like been now licensed for like Geico commercials.
+
+327
+00:18:22,176 --> 00:18:26,096
+And I think the estate or whatever just like he can think of we paid for McGruff.
+
+328
+00:18:26,096 --> 00:18:27,456
+We could get him.
+
+329
+00:18:27,636 --> 00:18:30,356
+I think come in here and be a guest on the podcast.
+
+330
+00:18:30,356 --> 00:18:31,336
+Yeah, I think so.
+
+331
+00:18:31,516 --> 00:18:34,216
+I think we would have to voice him maybe but like not about it.
+
+332
+00:18:34,216 --> 00:18:36,736
+He's just going to like I want to talk about the teacups.
+
+333
+00:18:36,896 --> 00:18:37,776
+Yeah.
+
+334
+00:18:37,776 --> 00:18:39,536
+My favorite attraction.
+
+335
+00:18:39,716 --> 00:18:40,936
+I get a kick out of them.
+
+336
+00:18:41,036 --> 00:18:42,016
+So real quick here.
+
+337
+00:18:42,016 --> 00:18:45,056
+I'm going to play this commercial because it's so funny.
+
+338
+00:18:45,396 --> 00:18:59,216
+When you're saving those once in a lifetime memories, why try to save a few
+
+339
+00:18:59,216 --> 00:19:04,616
+bucks on a counterfeit battery because unlike us you can't just rewind and start over.
+
+340
+00:19:04,856 --> 00:19:08,536
+Genuine batteries are a safer option and you can count on their performance.
+
+341
+00:19:08,716 --> 00:19:10,876
+So you won't miss those special moments.
+
+342
+00:19:11,296 --> 00:19:11,756
+Get real.
+
+343
+00:19:12,276 --> 00:19:12,816
+Protect yourself.
+
+344
+00:19:13,176 --> 00:19:14,576
+Buy from legitimate sources.
+
+345
+00:19:15,556 --> 00:19:20,156
+And that's obviously his voice because he sounds like he's dying.
+
+346
+00:19:20,856 --> 00:19:21,116
+It's the real.
+
+347
+00:19:21,396 --> 00:19:22,636
+It was in his 90s.
+
+348
+00:19:22,996 --> 00:19:24,396
+Legitimate sources.
+
+349
+00:19:25,976 --> 00:19:26,396
+Battery.
+
+350
+00:19:26,656 --> 00:19:27,976
+Like who paid for that?
+
+351
+00:19:27,976 --> 00:19:30,996
+He does sound like a real like on the way out dog.
+
+352
+00:19:31,116 --> 00:19:31,356
+Yeah.
+
+353
+00:19:31,356 --> 00:19:35,396
+So we were like, oh my God, that's like his last that one of his last performances is
+
+354
+00:19:35,396 --> 00:19:35,696
+McGruff.
+
+355
+00:19:35,716 --> 00:19:37,176
+So he was still doing it.
+
+356
+00:19:37,336 --> 00:19:38,976
+What a micro issue.
+
+357
+00:19:39,136 --> 00:19:40,556
+I know batteries.
+
+358
+00:19:40,876 --> 00:19:41,916
+We were like, what is that?
+
+359
+00:19:42,196 --> 00:19:42,996
+What is that?
+
+360
+00:19:43,136 --> 00:19:48,556
+I have to say I was recently at a 99 cent store and just without looking grabbed like
+
+361
+00:19:48,556 --> 00:19:49,996
+a four pack of double A's.
+
+362
+00:19:49,996 --> 00:19:50,936
+Oh you're part of the problem.
+
+363
+00:19:51,296 --> 00:19:57,656
+And I it lasted a set of double A batteries last about a month and I was like, what the
+
+364
+00:19:57,656 --> 00:19:59,136
+hell like an electric toothbrush?
+
+365
+00:19:59,176 --> 00:20:00,516
+And I was like, what the fuck happened?
+
+366
+00:20:00,516 --> 00:20:04,436
+And I looked and I was like, wait, why did these not say alkaline?
+
+367
+00:20:04,496 --> 00:20:06,276
+Why did he say like aluminum?
+
+368
+00:20:06,616 --> 00:20:09,856
+I I was like, what the fuck are these non alkaline batteries?
+
+369
+00:20:09,856 --> 00:20:14,596
+Because I just remember any game boys or game gears growing up.
+
+370
+00:20:14,716 --> 00:20:19,636
+They're like only alkaline batteries and we're like, where would you find non alkaline?
+
+371
+00:20:19,636 --> 00:20:24,996
+And then every now and then you do see double or triple A non alkaline batteries and
+
+372
+00:20:26,016 --> 00:20:28,896
+Street ruffians who sell them to you in the back alley.
+
+373
+00:20:29,396 --> 00:20:30,156
+Don't get there.
+
+374
+00:20:30,156 --> 00:20:33,316
+Make sure it's a copper top, not a bronze top.
+
+375
+00:20:33,776 --> 00:20:36,876
+Counterfeit batteries were brand.
+
+376
+00:20:37,036 --> 00:20:40,236
+They were Panasonic branded like shit batteries.
+
+377
+00:20:40,416 --> 00:20:41,936
+That's the weird thing.
+
+378
+00:20:41,936 --> 00:20:45,856
+Also sometimes the 99 cent store they're like close to expiring as well.
+
+379
+00:20:45,876 --> 00:20:46,216
+Yeah.
+
+380
+00:20:46,596 --> 00:20:51,296
+So that that also kicks you in the ass, which is funny because it is always recognized.
+
+381
+00:20:51,376 --> 00:20:53,636
+It's like Sony Sony Maxwell.
+
+382
+00:20:53,636 --> 00:20:57,576
+Like it's but then you're like, wait, when have I ever had Sony batteries?
+
+383
+00:20:57,696 --> 00:20:59,896
+Unless it came with the TV, you know?
+
+384
+00:20:59,916 --> 00:21:00,536
+Oh, yeah, they are.
+
+385
+00:21:00,636 --> 00:21:03,096
+Yes, that's a name you trust, but not for batteries.
+
+386
+00:21:03,096 --> 00:21:03,756
+Yeah, right.
+
+387
+00:21:04,436 --> 00:21:08,176
+It's yeah, the 99 cents or two, like you have to like vitamins will be like three
+
+388
+00:21:08,176 --> 00:21:10,316
+months away from expiring or something.
+
+389
+00:21:10,376 --> 00:21:12,056
+So you gotta watch out.
+
+390
+00:21:12,416 --> 00:21:14,156
+You know, don't need expired vitamins.
+
+391
+00:21:14,376 --> 00:21:20,656
+It's it's good for like the limited edition cereals where it's like orange
+
+392
+00:21:20,656 --> 00:21:23,276
+creamsicle Golden Grahams or something.
+
+393
+00:21:24,436 --> 00:21:25,936
+So many I got something.
+
+394
+00:21:26,156 --> 00:21:27,916
+Where am I going to find that?
+
+395
+00:21:28,036 --> 00:21:29,676
+I know they're not going to be around forever.
+
+396
+00:21:29,676 --> 00:21:32,296
+I mean, you don't orange creamsicle Golden.
+
+397
+00:21:32,376 --> 00:21:33,276
+Is that what I got?
+
+398
+00:21:33,416 --> 00:21:35,136
+Didn't I buy something like that up in Santa?
+
+399
+00:21:35,296 --> 00:21:41,916
+We were at Santa Barbara and I was buying peanut M&Ms, but I found some crazy
+
+400
+00:21:41,916 --> 00:21:43,136
+Captain Crunch or something.
+
+401
+00:21:43,156 --> 00:21:45,236
+You found a weird category and you did buy it.
+
+402
+00:21:45,236 --> 00:21:46,056
+I did buy it.
+
+403
+00:21:46,056 --> 00:21:47,816
+Anyway, we have we are 20 minutes in.
+
+404
+00:21:47,916 --> 00:21:51,956
+We have to we have 45 minutes worth of music to play.
+
+405
+00:21:53,056 --> 00:21:55,236
+We don't need to play the full.
+
+406
+00:21:55,236 --> 00:21:58,456
+We won't, but I just want to make sure we'll see.
+
+407
+00:21:58,516 --> 00:22:00,016
+We'll see if we get to all of it.
+
+408
+00:22:00,236 --> 00:22:01,756
+Amount, but yeah, for sure.
+
+409
+00:22:01,756 --> 00:22:04,836
+Because also the problem with Smart Kids 2 is like I'm like, okay, what tracks can
+
+410
+00:22:04,836 --> 00:22:07,756
+we skip and then I keep playing each track and I go, we can't skip that.
+
+411
+00:22:07,796 --> 00:22:08,636
+We can't skip that.
+
+412
+00:22:08,676 --> 00:22:09,556
+We can't skip that.
+
+413
+00:22:09,556 --> 00:22:10,036
+All right.
+
+414
+00:22:10,316 --> 00:22:13,576
+So McGruff's Smart Kids 1986.
+
+415
+00:22:13,996 --> 00:22:18,976
+It starts with a song that a lot of people might know because this was used in
+
+416
+00:22:18,976 --> 00:22:23,776
+the commercials and the PSA's and there's a famous very famous commercial of McGruff
+
+417
+00:22:23,776 --> 00:22:29,316
+playing cartoon McGruff playing a piano on someone's lawn, which is this song.
+
+418
+00:22:30,256 --> 00:22:32,136
+So I'm asserting the very famous.
+
+419
+00:22:32,316 --> 00:22:32,516
+Very.
+
+420
+00:22:32,516 --> 00:22:34,276
+I don't think I know any of these.
+
+421
+00:22:34,276 --> 00:22:37,676
+Did you have the McGruff commercial out here though, where he would say Scruff
+
+422
+00:22:37,676 --> 00:22:39,876
+McGruff, Chicago, Illinois, 606-52.
+
+423
+00:22:40,136 --> 00:22:41,796
+And take a bite out of a crowd.
+
+424
+00:22:41,896 --> 00:22:43,896
+It sounds that that's like a meter that's familiar.
+
+425
+00:22:43,996 --> 00:22:48,916
+He got Scruff from McGruff, Chicago, Illinois, 606-52.
+
+426
+00:22:49,216 --> 00:22:49,656
+Wow.
+
+427
+00:22:50,016 --> 00:22:51,116
+I certainly don't know what that was.
+
+428
+00:22:51,176 --> 00:22:54,336
+That's that's like a real 588-2300 Empire.
+
+429
+00:22:54,336 --> 00:22:58,656
+Someone pointed out online that is just a city and a zip code.
+
+430
+00:22:58,676 --> 00:23:01,316
+Like there's no PO box or address or anything.
+
+431
+00:23:01,336 --> 00:23:02,916
+You're just sending it to a city.
+
+432
+00:23:03,116 --> 00:23:04,256
+But like they.
+
+433
+00:23:04,356 --> 00:23:04,636
+All right.
+
+434
+00:23:04,716 --> 00:23:05,716
+I'll play this for you, Scott.
+
+435
+00:23:05,716 --> 00:23:06,796
+See if you recognize this.
+
+436
+00:23:06,876 --> 00:23:08,396
+I know we don't have time for this, but whatever.
+
+437
+00:23:08,696 --> 00:23:11,556
+Here's my nephew Scruff about to run into trouble again.
+
+438
+00:23:11,696 --> 00:23:12,396
+Hey, Bobo.
+
+439
+00:23:12,436 --> 00:23:13,616
+Where's your video game?
+
+440
+00:23:13,716 --> 00:23:14,296
+In here.
+
+441
+00:23:14,416 --> 00:23:15,616
+Look at this.
+
+442
+00:23:15,816 --> 00:23:16,676
+Oh, again.
+
+443
+00:23:16,956 --> 00:23:18,256
+Pull the gun out.
+
+444
+00:23:19,276 --> 00:23:19,816
+You'll see.
+
+445
+00:23:20,076 --> 00:23:21,816
+But that's not the only problem he has.
+
+446
+00:23:21,836 --> 00:23:23,156
+I haven't thought about Scruff in a while.
+
+447
+00:23:23,156 --> 00:23:23,916
+Hey, here's a shortcut.
+
+448
+00:23:24,156 --> 00:23:25,576
+Not down there, Square.
+
+449
+00:23:25,816 --> 00:23:26,776
+I don't think it's safe.
+
+450
+00:23:26,956 --> 00:23:27,436
+Come on.
+
+451
+00:23:27,536 --> 00:23:28,476
+The coast is clear.
+
+452
+00:23:28,676 --> 00:23:30,376
+I'm not taking a chance, Lance.
+
+453
+00:23:30,896 --> 00:23:32,776
+Scruff is a fucking idiot.
+
+454
+00:23:33,576 --> 00:23:34,736
+Hello, dogface.
+
+455
+00:23:35,176 --> 00:23:36,336
+That's his nephew, though.
+
+456
+00:23:36,336 --> 00:23:38,916
+So he wasn't actually raising him.
+
+457
+00:23:38,996 --> 00:23:40,156
+What are you going to do now?
+
+458
+00:23:40,276 --> 00:23:40,976
+I don't know.
+
+459
+00:23:40,976 --> 00:23:41,436
+Why he's an uncle?
+
+460
+00:23:41,536 --> 00:23:42,396
+I hope this is sad.
+
+461
+00:23:42,396 --> 00:23:43,636
+I've been doing activity book more.
+
+462
+00:23:43,736 --> 00:23:44,896
+I've never had kids of my own.
+
+463
+00:23:44,916 --> 00:23:48,816
+You'll find out what you can do about bullies, drugs, and guns.
+
+464
+00:23:48,976 --> 00:23:50,356
+Am I the hero again?
+
+465
+00:23:50,556 --> 00:23:51,436
+You'll see.
+
+466
+00:23:51,656 --> 00:23:53,076
+And you'll see lots of games.
+
+467
+00:23:53,196 --> 00:23:53,616
+Cool.
+
+468
+00:23:53,796 --> 00:23:56,256
+For your free copy of my new comic activity book,
+
+469
+00:23:56,376 --> 00:24:00,416
+Bright Scruff McGruff, Chicago, Illinois, 60652.
+
+470
+00:24:00,836 --> 00:24:03,556
+I don't know what it is.
+
+471
+00:24:03,816 --> 00:24:04,876
+60652.
+
+472
+00:24:05,256 --> 00:24:06,996
+See, the singing voice came out there.
+
+473
+00:24:07,116 --> 00:24:10,736
+He hadn't released an album in seven years, but he still had it.
+
+474
+00:24:10,736 --> 00:24:11,736
+He had the hankering.
+
+475
+00:24:11,856 --> 00:24:13,276
+So a couple of things with that one.
+
+476
+00:24:13,276 --> 00:24:17,196
+I never realized that if you wrote to that, you were writing to the nephew.
+
+477
+00:24:18,116 --> 00:24:19,896
+That you weren't writing to McGruff.
+
+478
+00:24:19,936 --> 00:24:22,296
+You were writing to Scruff McGruff, the nephew.
+
+479
+00:24:22,576 --> 00:24:27,316
+The other thing to reiterate from earlier, that is a fully 2D animated
+
+480
+00:24:27,316 --> 00:24:32,856
+advertisement and not like pre-flash, pre when you could just grind out.
+
+481
+00:24:32,856 --> 00:24:33,496
+There was money.
+
+482
+00:24:34,076 --> 00:24:34,576
+There was money.
+
+483
+00:24:34,576 --> 00:24:35,256
+Money was coming in.
+
+484
+00:24:35,296 --> 00:24:36,716
+I think money from the ad council.
+
+485
+00:24:37,136 --> 00:24:39,176
+Yeah, the government was paying for a lot of them.
+
+486
+00:24:39,536 --> 00:24:42,076
+I wonder if the government funded his sessions.
+
+487
+00:24:42,236 --> 00:24:46,516
+Well, and I think the networks and affiliates would donate the airtime.
+
+488
+00:24:46,516 --> 00:24:51,076
+They could write off using those ads and filling slots when they needed to.
+
+489
+00:24:51,296 --> 00:24:55,356
+So this thing went for six months like Brian Wilson doing good vibrations.
+
+490
+00:24:55,436 --> 00:24:57,436
+Studio after studio.
+
+491
+00:24:57,736 --> 00:24:58,796
+We got to get it right.
+
+492
+00:24:59,056 --> 00:25:01,376
+We got a recording Tahiti.
+
+493
+00:25:01,536 --> 00:25:03,836
+The vibe ain't right.
+
+494
+00:25:04,136 --> 00:25:08,456
+The salty air is going to help get molecules out of the saxophone.
+
+495
+00:25:08,456 --> 00:25:09,816
+Makes sense.
+
+496
+00:25:10,396 --> 00:25:11,416
+Those are my mind.
+
+497
+00:25:12,256 --> 00:25:13,516
+It's the government's time.
+
+498
+00:25:13,556 --> 00:25:14,336
+Who cares?
+
+499
+00:25:15,256 --> 00:25:17,736
+Uncle Sam is paying for rock and roll.
+
+500
+00:25:18,676 --> 00:25:19,356
+All right, we got to do this.
+
+501
+00:25:19,516 --> 00:25:19,936
+All right.
+
+502
+00:25:20,156 --> 00:25:23,736
+McGruff Smart Kids 1986 starts with a song that we all know.
+
+503
+00:25:24,016 --> 00:25:25,016
+Famous song.
+
+504
+00:25:25,396 --> 00:25:26,836
+Very, very famous.
+
+505
+00:25:27,756 --> 00:25:29,356
+Winners don't use.
+
+506
+00:25:33,236 --> 00:25:33,956
+McGruff here.
+
+507
+00:25:34,216 --> 00:25:38,176
+I want you to learn a song that tells people to say no to drugs.
+
+508
+00:25:39,076 --> 00:25:42,136
+Users are losers and losers are users.
+
+509
+00:25:42,176 --> 00:25:43,636
+So don't use drugs.
+
+510
+00:25:44,076 --> 00:25:45,536
+Don't use drugs.
+
+511
+00:25:45,536 --> 00:25:48,756
+Winners don't use and users don't win.
+
+512
+00:25:49,056 --> 00:25:50,476
+So don't use drugs.
+
+513
+00:25:50,796 --> 00:25:51,956
+Don't use drugs.
+
+514
+00:25:52,096 --> 00:25:52,316
+All right.
+
+515
+00:25:52,316 --> 00:25:54,376
+That's the like that's all we need from that one.
+
+516
+00:25:54,376 --> 00:25:59,536
+What is somebody pointed out on a YouTube comment calling a drug user a loser?
+
+517
+00:25:59,816 --> 00:26:02,016
+Perhaps not great for their self-esteem.
+
+518
+00:26:03,056 --> 00:26:06,396
+May it is like it's a problem and you know, it's hard to overcome it.
+
+519
+00:26:06,416 --> 00:26:08,236
+Kind of a misunderstanding of addiction.
+
+520
+00:26:08,236 --> 00:26:08,796
+Yeah.
+
+521
+00:26:08,836 --> 00:26:09,836
+Sober up loser.
+
+522
+00:26:10,336 --> 00:26:14,136
+That song very much in the same family as Mr.
+
+523
+00:26:14,236 --> 00:26:19,036
+Belvedere and the and the flasic pickle song.
+
+524
+00:26:19,096 --> 00:26:22,336
+Oh, this is a close relative of Leon Redbone.
+
+525
+00:26:22,516 --> 00:26:22,676
+Right.
+
+526
+00:26:22,776 --> 00:26:22,916
+Yeah.
+
+527
+00:26:22,916 --> 00:26:32,076
+I think it's general ragtime piano and kind of on my what's like that vibe like when
+
+528
+00:26:32,076 --> 00:26:34,476
+I have blossom in my head blocking the Mr.
+
+529
+00:26:34,576 --> 00:26:35,076
+Belvedere.
+
+530
+00:26:38,276 --> 00:26:38,676
+Yeah.
+
+531
+00:26:39,036 --> 00:26:41,536
+Why can't I fake that Mr.
+
+532
+00:26:41,636 --> 00:26:41,896
+Belvedere?
+
+533
+00:26:42,016 --> 00:26:43,856
+What a failure on my I can't think of it either.
+
+534
+00:26:43,856 --> 00:26:46,736
+I don't know if I've ever seen a single episode.
+
+535
+00:26:48,036 --> 00:26:49,756
+Never met before.
+
+536
+00:26:51,096 --> 00:26:55,836
+Leon Redbone clearly inspiration for you.
+
+537
+00:26:55,836 --> 00:26:59,316
+When you told me the songs were good on this album and I think I think you may have
+
+538
+00:26:59,316 --> 00:27:03,016
+hinted like what type of songs were but I was maybe thinking more along those lines.
+
+539
+00:27:03,036 --> 00:27:04,676
+So yeah, this song is about that.
+
+540
+00:27:04,676 --> 00:27:05,436
+I don't care about that.
+
+541
+00:27:05,516 --> 00:27:06,356
+I don't care about it either.
+
+542
+00:27:06,376 --> 00:27:07,636
+It's fine, but I don't care.
+
+543
+00:27:07,856 --> 00:27:11,276
+It doesn't I wouldn't we wouldn't be doing this episode of all the songs were in that
+
+544
+00:27:11,276 --> 00:27:11,496
+vein.
+
+545
+00:27:11,796 --> 00:27:11,936
+Absolutely.
+
+546
+00:27:12,096 --> 00:27:12,256
+Yeah.
+
+547
+00:27:12,536 --> 00:27:17,656
+So right off the gate, there's a song called No, No, No.
+
+548
+00:27:18,116 --> 00:27:18,276
+Okay.
+
+549
+00:27:18,316 --> 00:27:23,136
+And does that prevent there from being a later song called Just Say No?
+
+550
+00:27:23,716 --> 00:27:26,336
+No, no, no, no, no, no, no, no.
+
+551
+00:27:26,876 --> 00:27:27,056
+All right.
+
+552
+00:27:27,076 --> 00:27:27,416
+Here we go.
+
+553
+00:27:27,416 --> 00:27:28,576
+This is called No, No, No.
+
+554
+00:27:38,680 --> 00:27:44,680
+You hear it across the nation, just say no.
+
+555
+00:27:50,232 --> 00:27:51,772
+Just say no.
+
+556
+00:27:57,848 --> 00:27:58,948
+I'm gonna say no.
+
+557
+00:28:08,780 --> 00:28:09,540
+Yes.
+
+558
+00:28:10,140 --> 00:28:12,500
+And then a major key.
+
+559
+00:28:14,040 --> 00:28:16,100
+You've got some courage to show.
+
+560
+00:28:20,568 --> 00:28:27,548
+Like this is like, I can't think of better to hold steady fist pumping like we're all gonna do it
+
+561
+00:28:27,548 --> 00:28:32,248
+We're gonna make something of ourselves. I think that that oh
+
+562
+00:28:32,248 --> 00:28:32,848
+That's like
+
+563
+00:28:32,848 --> 00:28:40,208
+You can see the big Coachella fields
+
+564
+00:28:40,208 --> 00:28:47,248
+Course of kids out to do it like yes
+
+565
+00:28:53,628 --> 00:28:54,148
+I
+
+566
+00:28:54,148 --> 00:28:58,828
+Halfway through a set or the end of a set that suddenly a children's choir comes out like
+
+567
+00:28:58,828 --> 00:29:06,208
+What do you like with a kid's choir I would do one more chorus no turn this one off
+
+568
+00:29:06,208 --> 00:29:09,628
+You've got some courage to show
+
+569
+00:29:09,628 --> 00:29:16,368
+And let yourself respect
+
+570
+00:29:21,928 --> 00:29:24,308
+You've got some courage to show
+
+571
+00:29:24,308 --> 00:29:31,748
+And let yourself respect bro
+
+572
+00:29:31,748 --> 00:29:44,228
+It's just it's it's great it's already great right out the gate it's great that's the state stadium rock yeah stadium rock he I
+
+573
+00:29:44,228 --> 00:29:49,328
+Want to know so much about this like did he did he think it's like kind of fun that he's singing
+
+574
+00:29:49,328 --> 00:29:52,648
+He's not a great singer, but that's sort of the charm of it because I think that's the great
+
+575
+00:29:52,648 --> 00:29:57,048
+I think it's kind of fun that he's like a bad singer and he's doing a voice of a dog
+
+576
+00:29:57,048 --> 00:30:01,268
+It seems like he's singing and trying his best at singing and then every 20 seconds
+
+577
+00:30:01,268 --> 00:30:06,608
+He remembers like oh, I gotta still be McGruff. I'll gravel it a little for this word. Yeah
+
+578
+00:30:06,608 --> 00:30:11,908
+Oh, yeah, yeah, sure and he wasn't he was still a man of in his 40s or 50s
+
+579
+00:30:11,908 --> 00:30:17,548
+40s I think at this time an odd person to be doing music that like I was I've been trying to think of
+
+580
+00:30:17,668 --> 00:30:23,968
+For a lot of it I think that one has sort of a early Madonna thing yes
+
+581
+00:30:23,968 --> 00:30:30,428
+Yeah, yeah, yeah, yeah before it brightens up when it's a little minor sad at the beginning it kind of reminds me of Papa
+
+582
+00:30:30,428 --> 00:30:35,568
+Don't preach yeah, yeah, and then the chorus is also sort of in a Madonna thing, but with this
+
+583
+00:30:35,568 --> 00:30:40,368
+Yeah, this is a guy. This is a 50 year old man doing like 80s teen pop
+
+584
+00:30:40,368 --> 00:30:46,488
+It is probably then closer to Papa only once what's best for you the Danny I yellow
+
+585
+00:30:49,828 --> 00:30:50,388
+Oh
+
+586
+00:30:50,388 --> 00:30:57,328
+That was lost in my brain, I'm so glad you brought it yeah Papa just wants what's best for you
+
+587
+00:30:57,328 --> 00:31:04,368
+because Danny I yellow is in the music video, but then was like upset by how it turned out and felt like he'd betrayed his
+
+588
+00:31:04,368 --> 00:31:10,608
+Okay, his his Catholic Christian values or whatever so he needed to like read address, right?
+
+589
+00:31:10,928 --> 00:31:16,568
+Yeah, and you know guys like that are the best Papa's you know they're the most warm-giving
+
+590
+00:31:17,668 --> 00:31:24,468
+Emotionally intelligent sort of yeah, what's the that's like the it's a similar character to Andrew Dice Clay in
+
+591
+00:31:24,468 --> 00:31:25,468
+Star is born
+
+592
+00:31:25,468 --> 00:31:30,968
+Yeah, that kind of Papa. Oh that he actually was very supportive
+
+593
+00:31:30,968 --> 00:31:35,528
+I thought but a little miscott but like he's around all these jackass
+
+594
+00:31:35,528 --> 00:31:37,948
+Buddies
+
+595
+00:31:37,948 --> 00:31:43,548
+By the way I said earlier like I like when the when I said the children's choir in this case
+
+596
+00:31:43,548 --> 00:31:47,068
+I was thinking because it's clearly supposed to sound like kids thinking singing
+
+597
+00:31:47,068 --> 00:31:52,968
+You know larger picture. I like when musicians bring out the local
+
+598
+00:31:52,968 --> 00:31:57,548
+Choir the local orchestra like cuz that's a big deal for like the local thief
+
+599
+00:31:57,548 --> 00:32:02,968
+But like a huge deal for them kind of happened with the Rolling Stones at old chela
+
+600
+00:32:02,968 --> 00:32:05,968
+Like we got that you can't always get what you want with a choir
+
+601
+00:32:05,968 --> 00:32:09,188
+Yeah, I'm questioning kids choir specifically
+
+602
+00:32:09,468 --> 00:32:13,708
+The big thing holding me back from really liking this album too much kids
+
+603
+00:32:13,708 --> 00:32:17,668
+Oh, okay kids, and I'm way more in I don't think I realize that
+
+604
+00:32:17,668 --> 00:32:23,448
+Yeah, when we if it was McGruff performing, and I do think you'd have to have a kids choir
+
+605
+00:32:23,448 --> 00:32:29,788
+I think that's probably a part of it when the idea that I just had in my head when we perform this album front to back somewhere
+
+606
+00:32:29,788 --> 00:32:36,408
+We can do it with a different like adult choir or maybe with no choir at all. We'll see well, but depends
+
+607
+00:32:36,708 --> 00:32:40,148
+But we need to do it with the singer of fun guesting
+
+608
+00:32:40,148 --> 00:32:45,588
+Soaring Nate Ruess. Yeah, well, there'll be a whole set of guest stars doing each song
+
+609
+00:32:45,588 --> 00:32:48,668
+It'll be a sort of tribute album with a lot of different singers
+
+610
+00:32:48,668 --> 00:32:52,688
+Alright, let's get to the next song
+
+611
+00:32:52,688 --> 00:32:53,528
+marijuana
+
+612
+00:32:53,528 --> 00:33:03,328
+This is the real I don't want to downplay side two, but this is one of those records were like oh my god
+
+613
+00:33:03,328 --> 00:33:08,788
+This is all killer no, this side a is all hits side is all hits
+
+614
+00:33:08,788 --> 00:33:12,688
+But then side B there's a lot of sleepers on there and there's a lot of good stuff
+
+615
+00:33:12,688 --> 00:33:16,088
+Yeah, but yeah, you're right side a is just like oh, it's like
+
+616
+00:33:16,088 --> 00:33:20,088
+I'm trying to think of what's just a great, you know
+
+617
+00:33:20,088 --> 00:33:25,128
+I was gonna say enema of the state and that's not a good example exactly
+
+618
+00:33:25,128 --> 00:33:26,828
+Here we go marijuana
+
+619
+00:33:33,688 --> 00:33:37,808
+Marijuana don't try it at all
+
+620
+00:33:37,808 --> 00:33:47,468
+It's like beating your head on a wall pan am I mean it's not awkward we want to say Jason's man though
+
+621
+00:33:47,468 --> 00:33:57,568
+Cause it's doing you know good at all Jason
+
+622
+00:34:03,328 --> 00:34:04,648
+You can lose
+
+623
+00:34:04,648 --> 00:34:15,868
+Cause your life is a gift don't abuse it
+
+624
+00:34:15,868 --> 00:34:17,008
+If you gamble with life
+
+625
+00:34:22,100 --> 00:34:22,620
+Soaring.
+
+626
+00:34:22,260 --> 00:34:24,780
+Yeah, very, the chorus, great chorus.
+
+627
+00:34:24,780 --> 00:34:26,080
+Oh.
+
+628
+00:34:27,600 --> 00:34:29,160
+Let it rip.
+
+629
+00:34:29,820 --> 00:34:31,720
+I imagine eating McGruff soloing.
+
+630
+00:34:31,900 --> 00:34:34,800
+Yeah, it's always if it's a sax or guitar.
+
+631
+00:34:34,800 --> 00:34:36,400
+I don't tie it at all.
+
+632
+00:34:36,400 --> 00:34:36,940
+Yeah.
+
+633
+00:34:37,180 --> 00:34:39,220
+It's a fender, it's great, right?
+
+634
+00:34:39,760 --> 00:34:41,220
+Just ripping a solo.
+
+635
+00:34:41,340 --> 00:34:45,780
+I picked it up late, but I can play with the greats.
+
+636
+00:34:45,820 --> 00:34:48,540
+Gotta use, Guy didn't know what he had on his hands.
+
+637
+00:34:51,560 --> 00:34:54,340
+That one, that to me gives me a little shade
+
+638
+00:34:54,340 --> 00:34:57,720
+of like Bon Jovi's Runaway.
+
+639
+00:34:58,180 --> 00:34:58,320
+Yes.
+
+640
+00:34:58,580 --> 00:34:59,220
+Very like fast.
+
+641
+00:34:59,460 --> 00:35:01,440
+Dun dun dun dun dun dun dun dun dun dun dun.
+
+642
+00:35:01,680 --> 00:35:03,740
+There's a, the next one is a Bon Jovi,
+
+643
+00:35:03,940 --> 00:35:05,820
+the next one is my thing, my favorite on the whole album
+
+644
+00:35:05,820 --> 00:35:07,940
+and it also reminds me of like Living on a Prayer.
+
+645
+00:35:08,060 --> 00:35:11,500
+The bass line is a very Living on a Prayer style bass line.
+
+646
+00:35:12,080 --> 00:35:15,000
+It's all calling to mind, but not in a rip-offy way.
+
+647
+00:35:15,060 --> 00:35:17,160
+None of them are clear rip-offs of anything.
+
+648
+00:35:17,300 --> 00:35:17,680
+Right.
+
+649
+00:35:17,800 --> 00:35:18,980
+They're all just, I don't know,
+
+650
+00:35:18,980 --> 00:35:20,900
+he's like exploring influences.
+
+651
+00:35:21,160 --> 00:35:25,220
+Yeah, he's just, he's taking what any artist does
+
+652
+00:35:25,220 --> 00:35:27,080
+and just I'll take all his inspiration
+
+653
+00:35:27,080 --> 00:35:28,460
+and make it into something new.
+
+654
+00:35:28,780 --> 00:35:31,100
+Because if I try to do a Bon Jovi song,
+
+655
+00:35:31,140 --> 00:35:32,460
+it's not gonna sound like them
+
+656
+00:35:32,460 --> 00:35:35,640
+because it's run through the filter of McGruff.
+
+657
+00:35:36,080 --> 00:35:37,500
+Bring my own thing, do it.
+
+658
+00:35:38,240 --> 00:35:40,440
+Marijuana though is the only, is the one specifically
+
+659
+00:35:40,440 --> 00:35:42,700
+because they were still pushing the gateway drug thing
+
+660
+00:35:42,700 --> 00:35:45,060
+with marijuana, so that's, Jason, I just wanna explain that.
+
+661
+00:35:45,200 --> 00:35:47,620
+You know, you feel that, so don't get so mad at McGruff
+
+662
+00:35:47,620 --> 00:35:48,220
+is what I'm saying.
+
+663
+00:35:48,220 --> 00:35:48,620
+Well.
+
+664
+00:35:48,640 --> 00:35:50,920
+He was, he had the best of intentions is what I mean.
+
+665
+00:35:50,920 --> 00:35:53,520
+He's just worried you're gonna move on to inhalants
+
+666
+00:35:53,520 --> 00:35:54,760
+or cocaine and crack.
+
+667
+00:35:54,780 --> 00:35:56,280
+Right. Or worse, alcohol.
+
+668
+00:35:57,400 --> 00:35:59,260
+Uh-oh, he ran out of marijuana.
+
+669
+00:35:59,460 --> 00:36:01,520
+Guess he's gotta go to his backup crack.
+
+670
+00:36:03,220 --> 00:36:05,560
+Well, as Scott, you might not have known,
+
+671
+00:36:05,620 --> 00:36:06,860
+Scott was just listing the names
+
+672
+00:36:06,860 --> 00:36:08,500
+of the next few songs on the album.
+
+673
+00:36:08,700 --> 00:36:09,880
+Yes, that's where we're headed.
+
+674
+00:36:10,240 --> 00:36:11,620
+Yep. So this is my,
+
+675
+00:36:11,700 --> 00:36:12,680
+I think my favorite one.
+
+676
+00:36:12,780 --> 00:36:14,080
+It's just class A to B,
+
+677
+00:36:14,240 --> 00:36:16,080
+like all the class substances.
+
+678
+00:36:16,720 --> 00:36:18,280
+Literally ending with alcohol.
+
+679
+00:36:18,280 --> 00:36:20,560
+This one may have slipped to number two,
+
+680
+00:36:20,580 --> 00:36:23,880
+but for a while this was by far number one for me
+
+681
+00:36:23,880 --> 00:36:25,920
+on the album, inhalants.
+
+682
+00:36:26,400 --> 00:36:27,720
+Song is called inhalants.
+
+683
+00:36:28,020 --> 00:36:29,380
+We have to play most of it.
+
+684
+00:36:29,440 --> 00:36:30,920
+Let's just get right to it.
+
+685
+00:36:31,020 --> 00:36:31,300
+Great.
+
+686
+00:36:32,900 --> 00:36:33,920
+Wait, wait, shit.
+
+687
+00:36:34,580 --> 00:36:35,640
+I'm queuing up.
+
+688
+00:36:35,700 --> 00:36:37,360
+I don't wanna scramble your brain.
+
+689
+00:36:37,800 --> 00:36:38,460
+Here we go.
+
+690
+00:36:38,980 --> 00:36:39,960
+Nevermind, take two.
+
+691
+00:36:41,100 --> 00:36:43,780
+So this is like living out of prayer
+
+692
+00:36:43,780 --> 00:36:45,860
+or Billie Jean or something, that bass line.
+
+693
+00:36:45,860 --> 00:36:47,800
+A little bit of Rockwell.
+
+694
+00:36:48,560 --> 00:36:48,620
+Yeah.
+
+695
+00:36:50,380 --> 00:36:52,000
+But like, I think you could see if you go back,
+
+696
+00:36:52,120 --> 00:36:53,680
+you could, it could work for Billie Jean
+
+697
+00:36:53,680 --> 00:36:54,600
+or it could work for like.
+
+698
+00:36:59,992 --> 00:37:02,892
+Donnie used to work on the Donnie, yes.
+
+699
+00:37:03,492 --> 00:37:05,052
+Yeah, the union's been a strike.
+
+700
+00:37:05,072 --> 00:37:09,232
+It's so true, there's danger in inhalants.
+
+701
+00:37:11,532 --> 00:37:16,952
+They can break you in two, so never sniff inhalants.
+
+702
+00:37:19,012 --> 00:37:21,272
+Breathing them is really no thrill.
+
+703
+00:37:21,572 --> 00:37:24,292
+Don't you know inhalants really can kill?
+
+704
+00:37:24,952 --> 00:37:26,472
+Don't do inhalants.
+
+705
+00:37:26,872 --> 00:37:28,552
+You'll be suffering pain.
+
+706
+00:37:28,552 --> 00:37:30,092
+Don't do inhalants.
+
+707
+00:37:30,532 --> 00:37:32,252
+They will damage your brain.
+
+708
+00:37:32,352 --> 00:37:33,892
+Don't do inhalants.
+
+709
+00:37:34,412 --> 00:37:36,052
+Cause it's really insane.
+
+710
+00:37:36,832 --> 00:37:38,752
+More can't stay now.
+
+711
+00:37:38,892 --> 00:37:40,552
+Cause inhalants kill.
+
+712
+00:37:41,072 --> 00:37:46,532
+Learn a lesson so true.
+
+713
+00:37:47,852 --> 00:37:49,692
+There's danger in inhalants.
+
+714
+00:37:51,712 --> 00:37:56,892
+They can break you in two, so never sniff inhalants.
+
+715
+00:37:59,232 --> 00:38:01,092
+They can break you in two.
+
+716
+00:38:01,892 --> 00:38:04,732
+Don't you know inhalants really can kill?
+
+717
+00:38:05,252 --> 00:38:06,772
+Don't do inhalants.
+
+718
+00:38:07,292 --> 00:38:08,852
+You'll be suffering pain.
+
+719
+00:38:08,892 --> 00:38:10,512
+Don't do inhalants.
+
+720
+00:38:10,912 --> 00:38:12,492
+They will damage your brain.
+
+721
+00:38:12,532 --> 00:38:14,132
+Don't do inhalants.
+
+722
+00:38:14,652 --> 00:38:16,232
+Cause it's really insane.
+
+723
+00:38:17,012 --> 00:38:18,952
+More can't stay now.
+
+724
+00:38:19,152 --> 00:38:21,312
+Cause inhalants eat ill.
+
+725
+00:38:21,732 --> 00:38:23,192
+Oh, he talks, he talks here too.
+
+726
+00:38:24,612 --> 00:38:26,872
+Just because something is safe to use one way
+
+727
+00:38:26,872 --> 00:38:29,292
+doesn't mean it's safe to use another way.
+
+728
+00:38:29,292 --> 00:38:34,512
+Cleaners, sprays, and other household chemicals can become deadly poisons when inhaled.
+
+729
+00:38:34,612 --> 00:38:37,932
+Don't ever try it. Just say no to inhalants.
+
+730
+00:38:39,272 --> 00:38:41,732
+Most of the songs have spoken words.
+
+731
+00:38:42,472 --> 00:38:43,352
+No inhalants really can kill.
+
+732
+00:38:43,352 --> 00:38:46,812
+So it's like a Springsteen rap or like you know in the middle of the song.
+
+733
+00:38:47,352 --> 00:38:47,792
+Exactly.
+
+734
+00:38:48,152 --> 00:38:49,692
+Something like that.
+
+735
+00:38:52,152 --> 00:38:55,812
+So the inhalants one was, this is one you've definitely,
+
+736
+00:38:56,012 --> 00:38:59,532
+we were driving somewhere and you pulled up the YouTube video.
+
+737
+00:38:59,772 --> 00:39:03,532
+I think I also kind of have a memory of you sitting on your couch here at one point.
+
+738
+00:39:03,632 --> 00:39:07,412
+You picked up like you were noodling on a guitar or a keyboard and you were like,
+
+739
+00:39:07,612 --> 00:39:09,352
+that's a bass line to inhalants.
+
+740
+00:39:09,892 --> 00:39:13,212
+Oh well I was playing you the bass line and inhalants earlier today on my guitar.
+
+741
+00:39:13,632 --> 00:39:16,952
+But before I learned it on the keyboard as well.
+
+742
+00:39:17,452 --> 00:39:20,952
+I also had a very Jason thought as I was listening to that which is,
+
+743
+00:39:21,372 --> 00:39:25,952
+well I don't think I've ever done inhalants unless I inadvertently did a whip it
+
+744
+00:39:25,952 --> 00:39:28,452
+while shooting whipped cream into my mouth.
+
+745
+00:39:29,732 --> 00:39:35,492
+Accidental inhalants are still inhalants.
+
+746
+00:39:35,632 --> 00:39:39,752
+There's so many cans of it around the holiday season with all the pies around.
+
+747
+00:39:40,512 --> 00:39:43,312
+Whipped cream is great and it's fine to enjoy on its own.
+
+748
+00:39:43,432 --> 00:39:45,812
+But make sure you don't do it right out of the can.
+
+749
+00:39:45,812 --> 00:39:48,932
+You may be doing it into a spoon and then consume it that way.
+
+750
+00:39:49,332 --> 00:39:52,392
+You're leaving germs behind for anybody else using it.
+
+751
+00:39:52,472 --> 00:39:53,952
+Well, keep it far enough away.
+
+752
+00:39:54,012 --> 00:39:56,212
+Make sure the whipped cream can is clean.
+
+753
+00:39:56,492 --> 00:39:59,732
+Unless of course you're using a solo can of whipped cream,
+
+754
+00:39:59,752 --> 00:40:02,192
+which in Jason's case I imagine is true.
+
+755
+00:40:02,752 --> 00:40:05,992
+Maybe stick to Cool Whip.
+
+756
+00:40:07,072 --> 00:40:12,312
+No long term side effects from that thing mostly made of excess tire rubber.
+
+757
+00:40:12,512 --> 00:40:14,552
+Unless you hit your teeth with a spoon.
+
+758
+00:40:16,732 --> 00:40:19,232
+Oh my gruff. We should get rights to my gruff.
+
+759
+00:40:19,352 --> 00:40:20,792
+Inhalants is a real jam.
+
+760
+00:40:21,032 --> 00:40:23,912
+And also, but yeah, what a strange flow.
+
+761
+00:40:24,072 --> 00:40:27,432
+I think what we're finding is while we really like all of the songs,
+
+762
+00:40:27,452 --> 00:40:29,892
+I think there is a way to order this and have it build
+
+763
+00:40:29,892 --> 00:40:35,732
+and have it be more of a the wall type situation that kind of tells a story
+
+764
+00:40:35,732 --> 00:40:42,512
+because we've now bounced from marijuana, pretty tame, to sprays, household cleaners.
+
+765
+00:40:42,512 --> 00:40:43,132
+Yeah.
+
+766
+00:40:43,472 --> 00:40:47,132
+And then we're going to get harder and then go way backwards.
+
+767
+00:40:47,952 --> 00:40:48,652
+Yes. Yeah.
+
+768
+00:40:49,072 --> 00:40:50,012
+Rubber cement.
+
+769
+00:40:52,032 --> 00:40:58,872
+Yeah. The next song is cocaine and crack.
+
+770
+00:40:59,592 --> 00:41:04,152
+Group together. Y'all have to share a song. Sorry.
+
+771
+00:41:04,152 --> 00:41:07,292
+Yeah. Sorry. But here we go.
+
+772
+00:41:09,672 --> 00:41:11,532
+The happiest song ever.
+
+773
+00:41:17,032 --> 00:41:17,692
+Crack.
+
+774
+00:41:16,432 --> 00:41:21,192
+That's what you see a lot.
+
+775
+00:41:22,072 --> 00:41:24,752
+It's really the dress you do user.
+
+776
+00:41:24,852 --> 00:41:26,312
+Yeah. Right. Are you thinking?
+
+777
+00:41:42,652 --> 00:41:43,512
+Come on.
+
+778
+00:41:43,532 --> 00:41:49,572
+This one, I get kind of like a manic Monday.
+
+779
+00:41:50,172 --> 00:41:51,572
+Yeah. Yeah. Yeah.
+
+780
+00:41:51,572 --> 00:41:54,292
+A little bit of the 60s by way of 80s. Yeah.
+
+781
+00:41:54,292 --> 00:41:57,912
+I'm not sure this one's a tougher genre to figure out, but I really like it.
+
+782
+00:41:57,912 --> 00:42:02,052
+I feel like there's one or two moments where I was like, this almost sounds like an indie rock song.
+
+783
+00:42:02,312 --> 00:42:07,432
+Somebody pointed out, and I don't think it's wrong, that this whole thing sounds like an Ariel Pink album.
+
+784
+00:42:07,732 --> 00:42:10,352
+Yeah. Oh, yeah. That little synth solo.
+
+785
+00:42:10,352 --> 00:42:11,592
+This odd noodley.
+
+786
+00:42:12,032 --> 00:42:13,932
+Yeah. Like it's a lot of genres.
+
+787
+00:42:13,952 --> 00:42:18,932
+It's kind of a little lo-fi in its production, but like it's very kind of cool and groovy.
+
+788
+00:42:19,232 --> 00:42:24,252
+And like if you slowed it all down 20%, it would sound exactly like Ariel Pink.
+
+789
+00:42:24,492 --> 00:42:26,832
+Yeah. Well, maybe I'll try that for the next McGruff.
+
+790
+00:42:27,072 --> 00:42:33,312
+Do you think anyone working behind the scenes on this album was like, I got to hit a deadline on this.
+
+791
+00:42:34,612 --> 00:42:36,352
+I got to get some coke.
+
+792
+00:42:37,692 --> 00:42:45,572
+If McGruff was doing coke to finish the album, I mean, no one's written about McGruff's drug problem, but it's possible.
+
+793
+00:42:45,892 --> 00:42:54,672
+Well, and what there isn't is a song about LSD, also famously the source of many great 60s albums.
+
+794
+00:42:54,672 --> 00:42:58,092
+LSD is fine. It opens up your creativity.
+
+795
+00:42:59,312 --> 00:43:02,252
+I just need some ludes to get through the day.
+
+796
+00:43:02,592 --> 00:43:04,592
+Mushrooms too. Good for mental health.
+
+797
+00:43:05,332 --> 00:43:09,392
+A doctor gave me one and a shaman gave me the other.
+
+798
+00:43:11,772 --> 00:43:16,132
+Because yeah, we go from crack and cocaine and crack to alcohol.
+
+799
+00:43:16,612 --> 00:43:22,772
+Yeah. Okay. Well, before alcohol, can I also just say I think the funniest spoken word on the album is cocaine.
+
+800
+00:43:22,972 --> 00:43:24,332
+Oh, sorry. Let me go back.
+
+801
+00:43:24,492 --> 00:43:31,232
+Because this one's a little bit less of like, so remember, there's a pretty specific directive.
+
+802
+00:43:34,692 --> 00:43:39,312
+Cocaine, there's terrible trouble behind it.
+
+803
+00:43:39,372 --> 00:43:40,292
+Consent wallowing.
+
+804
+00:43:41,372 --> 00:43:42,952
+That's the whole quality of the video.
+
+805
+00:43:43,012 --> 00:43:44,712
+Making a mess of your mind.
+
+806
+00:43:44,712 --> 00:43:46,152
+Also, very low-fi.
+
+807
+00:43:46,572 --> 00:43:46,912
+Yes.
+
+808
+00:43:47,752 --> 00:43:52,252
+There is help available for people who have a problem with cocaine or crack addiction.
+
+809
+00:43:52,732 --> 00:43:55,972
+Have them call 1-800-COCAINE for advice.
+
+810
+00:43:56,352 --> 00:44:01,452
+And if someone ever offers you crack or cocaine, be smart. Just say no.
+
+811
+00:44:02,832 --> 00:44:09,832
+Because nobody's needed that crack and cocaine. There's terrible trouble behind it.
+
+812
+00:44:10,392 --> 00:44:13,292
+And sooner or later you burn in your brain.
+
+813
+00:44:13,292 --> 00:44:15,292
+Make it a mess of your mind.
+
+814
+00:44:15,292 --> 00:44:20,452
+If we slow it down and it sounds cool, we should put that as a tag at the end of the episode.
+
+815
+00:44:20,652 --> 00:44:25,432
+Just like, here's our fucking, here's our Pitchfork entry remix.
+
+816
+00:44:25,752 --> 00:44:30,092
+So here's our vaporwave re-edit of cocaine and crack.
+
+817
+00:44:30,892 --> 00:44:33,512
+But I like the, I love the phone number.
+
+818
+00:44:34,452 --> 00:44:36,372
+1-800-COCAINE.
+
+819
+00:44:36,692 --> 00:44:41,032
+That's not a number you call to get cocaine. Let's be clear about that.
+
+820
+00:44:41,252 --> 00:44:42,272
+Oh man, really?
+
+821
+00:44:44,632 --> 00:44:50,132
+I also, one thing I want to say, oddly, is that in a rare, very rare event,
+
+822
+00:44:50,492 --> 00:44:53,592
+the YouTube comments on all of these videos are pretty funny.
+
+823
+00:44:54,252 --> 00:44:58,192
+And mostly pointing out, boy, this would be great to listen to while blazed.
+
+824
+00:44:58,352 --> 00:45:04,792
+But in this case, somebody says, so like imagine a kid going up to their dad and saying,
+
+825
+00:45:04,952 --> 00:45:09,372
+I think you have a problem with cocaine. You should call 1-800-COCAINE and get help.
+
+826
+00:45:09,612 --> 00:45:13,492
+And they say that would be the child's last words.
+
+827
+00:45:13,492 --> 00:45:18,932
+Life, oh, what the fuck did you say about me?
+
+828
+00:45:19,332 --> 00:45:24,192
+Or the guy starts calling it because he's just like, my fucking kid lied. They're not bringing me cocaine.
+
+829
+00:45:25,152 --> 00:45:27,872
+We need to look into what that number was.
+
+830
+00:45:28,032 --> 00:45:31,032
+Yeah, the full history of when it was that McGruff affiliated.
+
+831
+00:45:31,332 --> 00:45:32,472
+Yeah, and why was it?
+
+832
+00:45:32,752 --> 00:45:34,252
+It's me, waiting for a human operator.
+
+833
+00:45:35,352 --> 00:45:39,272
+Or it was him and he just was fielding calls at his home as McGruff.
+
+834
+00:45:39,652 --> 00:45:41,972
+I've been there, pal. Hang in there.
+
+835
+00:45:43,512 --> 00:45:47,612
+I'm a dog. I sniff whatever's in front of me. I didn't know what it was.
+
+836
+00:45:48,732 --> 00:45:52,652
+But I got smart. Adults can get smart too.
+
+837
+00:45:52,972 --> 00:45:54,352
+I'll come over.
+
+838
+00:45:54,352 --> 00:46:00,372
+I'll play you my album. I'll chill you out.
+
+839
+00:46:00,592 --> 00:46:03,212
+I got some new stuff I'm working on. Want to get your feedback?
+
+840
+00:46:04,332 --> 00:46:06,672
+We've really been ripping some peace lines lately.
+
+841
+00:46:06,912 --> 00:46:09,232
+And there's time we can look at my screenplay.
+
+842
+00:46:10,392 --> 00:46:11,972
+Did McGruff play all the instruments?
+
+843
+00:46:12,092 --> 00:46:12,852
+I think so.
+
+844
+00:46:12,852 --> 00:46:13,532
+Like Prince or something?
+
+845
+00:46:13,532 --> 00:46:17,612
+That's what I'm a man. Yeah, yeah, yeah. He's like, he's firing drummers left and right.
+
+846
+00:46:17,732 --> 00:46:19,092
+Fine, I'll just do it.
+
+847
+00:46:19,512 --> 00:46:23,172
+When Paul told Ringo to move during the making of Back in the USSR.
+
+848
+00:46:23,352 --> 00:46:26,472
+Ringo also fired from this.
+
+849
+00:46:27,772 --> 00:46:30,232
+Fuck you, Ringo.
+
+850
+00:46:30,512 --> 00:46:34,472
+His resume looked good. I mean, the Beatles, what have you.
+
+851
+00:46:34,472 --> 00:46:36,132
+I've never heard of him before.
+
+852
+00:46:37,172 --> 00:46:38,292
+Didn't know what he was doing.
+
+853
+00:46:38,612 --> 00:46:43,232
+Some British druggie. He was all messed up in the brain.
+
+854
+00:46:44,092 --> 00:46:48,232
+But he did give me a good idea for a song. A song with the word no in it a lot.
+
+855
+00:46:49,312 --> 00:46:52,532
+No, no, no, no. I know you should have covered the no-no song.
+
+856
+00:46:53,272 --> 00:46:54,512
+That's a big missed opportunity.
+
+857
+00:46:54,592 --> 00:46:56,912
+Well, we'll make a McGruff cover of the no-no song.
+
+858
+00:46:57,492 --> 00:47:01,132
+That's the most Mike Wheelhouse projects there could ever be.
+
+859
+00:47:01,132 --> 00:47:02,432
+That's my dream project.
+
+860
+00:47:03,612 --> 00:47:05,672
+But the most, maybe the most Scott Wheelhouse.
+
+861
+00:47:05,812 --> 00:47:06,312
+Other what?
+
+862
+00:47:06,872 --> 00:47:12,152
+Other, although on the flip side, getting Ringo to cover a McGruff song, also a dream project.
+
+863
+00:47:12,172 --> 00:47:13,972
+Either way, it's a two way street.
+
+864
+00:47:13,972 --> 00:47:19,032
+But my, I think my personal wheelhouse is the song alcohol.
+
+865
+00:47:19,492 --> 00:47:20,612
+Oh, yeah, yeah, yeah.
+
+866
+00:47:20,732 --> 00:47:33,672
+Because what we have here is a child mascot, an 80s nostalgia thing doing a song that is very clearly a Steely Dan homage.
+
+867
+00:47:34,112 --> 00:47:36,572
+This is straight 100% Steely Dan.
+
+868
+00:47:36,852 --> 00:47:38,032
+Yeah. Well, it's just.
+
+869
+00:47:38,032 --> 00:47:38,732
+Let's hear you.
+
+870
+00:47:38,872 --> 00:47:40,172
+I might.
+
+871
+00:47:40,452 --> 00:47:43,052
+Let me just chill out here.
+
+872
+00:47:43,972 --> 00:47:45,992
+I mean, this is you got to get high to this.
+
+873
+00:47:45,992 --> 00:47:46,992
+Yeah.
+
+874
+00:47:48,352 --> 00:47:51,252
+Hey, open up your eyes.
+
+875
+00:47:51,872 --> 00:47:54,392
+You've got to see.
+
+876
+00:47:54,792 --> 00:47:56,412
+Guitar is right on.
+
+877
+00:47:56,612 --> 00:47:59,072
+Alcohol fills your world with lies.
+
+878
+00:48:00,192 --> 00:48:01,632
+Listen to me.
+
+879
+00:48:01,792 --> 00:48:02,992
+Fills your world with lies.
+
+880
+00:48:03,572 --> 00:48:04,452
+Don't be a go.
+
+881
+00:48:04,532 --> 00:48:06,972
+It's no good when you're drinking.
+
+882
+00:48:07,292 --> 00:48:08,412
+Tell your friends now.
+
+883
+00:48:08,492 --> 00:48:10,652
+It won't show you the way.
+
+884
+00:48:10,912 --> 00:48:11,892
+Try using your own.
+
+885
+00:48:11,892 --> 00:48:14,772
+Hey, you better start thinking.
+
+886
+00:48:14,772 --> 00:48:17,592
+Being straight is.
+
+887
+00:48:18,712 --> 00:48:21,292
+It seems so very nice.
+
+888
+00:48:22,912 --> 00:48:25,032
+But you best be looking twice.
+
+889
+00:48:25,272 --> 00:48:26,112
+Coming up.
+
+890
+00:48:26,432 --> 00:48:28,732
+Cause you will have to pay a price.
+
+891
+00:48:29,732 --> 00:48:32,352
+You're going to lose.
+
+892
+00:48:33,092 --> 00:48:34,452
+Someday.
+
+893
+00:48:35,772 --> 00:48:36,592
+I just.
+
+894
+00:48:36,752 --> 00:48:37,632
+I just.
+
+895
+00:48:37,632 --> 00:48:39,152
+I embroidered.
+
+896
+00:48:39,152 --> 00:48:41,812
+It's so good.
+
+897
+00:48:42,012 --> 00:48:42,572
+Right on.
+
+898
+00:48:43,812 --> 00:48:45,612
+Good is my point.
+
+899
+00:48:45,612 --> 00:48:46,532
+It is good.
+
+900
+00:48:46,592 --> 00:48:47,552
+It is really good.
+
+901
+00:48:47,712 --> 00:48:48,132
+Yeah.
+
+902
+00:48:48,292 --> 00:48:52,412
+That's, I mean, that's more, that's the most appealing to my musical sensibility.
+
+903
+00:48:52,712 --> 00:48:54,812
+But here's the reason why I found out about the whole thing.
+
+904
+00:48:54,812 --> 00:48:59,052
+Cause the podcast, as I showed it out previously, I found out about this from beyond
+
+905
+00:48:59,052 --> 00:49:00,092
+Yacht Rock podcast.
+
+906
+00:49:00,212 --> 00:49:04,532
+I'm very fond of that is a great way, a great source of chill,
+
+907
+00:49:04,532 --> 00:49:08,592
+I'm a fan of the 70s, 80s, Yacht Rock, AOR, the kind of bullshit I like.
+
+908
+00:49:09,292 --> 00:49:13,032
+And they're incredible catalogers of this kind of music.
+
+909
+00:49:13,392 --> 00:49:17,412
+And one day, and they, they do episodes called Yachter and Yacht where they decide
+
+910
+00:49:17,412 --> 00:49:20,152
+is the honor with a very mathematical scale.
+
+911
+00:49:20,272 --> 00:49:22,812
+Does this qualify as Yacht Rock or does it in Yacht?
+
+912
+00:49:22,992 --> 00:49:28,492
+And the top, the hundred on a scale of zero to a hundred, a hundred being what a
+
+913
+00:49:28,492 --> 00:49:30,832
+fool believes the most Yacht song.
+
+914
+00:49:31,072 --> 00:49:34,392
+So you're calibrating backwards off of what a fool believes.
+
+915
+00:49:36,032 --> 00:49:40,192
+And so this song, an over 50s Yacht and below 50s.
+
+916
+00:49:40,472 --> 00:49:44,972
+Now this song I looked up, totally caught me by surprise in the episode.
+
+917
+00:49:45,252 --> 00:49:47,532
+Like I still remember driving around and like, what the fuck is this?
+
+918
+00:49:47,712 --> 00:49:49,832
+And I don't think they even said it at first.
+
+919
+00:49:49,952 --> 00:49:51,412
+She's like, what is this weird song?
+
+920
+00:49:51,412 --> 00:49:52,952
+And then, oh my God, it's McGruff.
+
+921
+00:49:53,272 --> 00:49:55,872
+And they, then they ended up rating it Yacht.
+
+922
+00:49:55,872 --> 00:49:56,432
+Oh yeah.
+
+923
+00:49:56,432 --> 00:50:02,892
+And they adopted at 61 on a scale of a hundred, an exact tie with Lionel Richie's
+
+924
+00:50:02,892 --> 00:50:03,692
+All Night Long.
+
+925
+00:50:03,952 --> 00:50:04,472
+Wow.
+
+926
+00:50:04,512 --> 00:50:06,852
+It's as much of a Yacht Rock song as All Night Long.
+
+927
+00:50:06,852 --> 00:50:07,232
+Wow.
+
+928
+00:50:07,472 --> 00:50:09,332
+So that's, and they're critical.
+
+929
+00:50:09,412 --> 00:50:11,032
+They'll throw shit down the drain.
+
+930
+00:50:11,032 --> 00:50:11,532
+Right.
+
+931
+00:50:12,212 --> 00:50:17,972
+So this is about as good of a tribunal as could have reviewed the thing.
+
+932
+00:50:17,992 --> 00:50:19,632
+And yeah, it's, it's legit steely down.
+
+933
+00:50:19,972 --> 00:50:25,192
+And culturally, like this was, so this is still 1986 album.
+
+934
+00:50:25,192 --> 00:50:25,632
+Oh yeah.
+
+935
+00:50:25,752 --> 00:50:28,132
+We're halfway through McGruff's Smart Kids at this point.
+
+936
+00:50:28,292 --> 00:50:34,912
+So like, this is still an era when everyone is smoking in the office and people taking liquid lunches and stuff.
+
+937
+00:50:34,972 --> 00:50:40,112
+Although I looked up cause I was like, well didn't there used to be something about hard liquor ads on TV?
+
+938
+00:50:40,492 --> 00:50:44,872
+And I had to stop reading cause it seemed like a very interesting article I want to read later.
+
+939
+00:50:45,532 --> 00:50:47,672
+But there are hard liquor.
+
+940
+00:50:47,752 --> 00:50:52,412
+There was a ban on hard liquor ads until like 1994.
+
+941
+00:50:52,412 --> 00:50:55,672
+And it was self-imposed by the liquor company.
+
+942
+00:50:55,912 --> 00:50:58,772
+Like you would, they wouldn't, they were not advertising on TV.
+
+943
+00:50:59,052 --> 00:51:03,652
+And then Seagrams broke it in 1994 and then kind of opened up the floodgates.
+
+944
+00:51:03,692 --> 00:51:12,032
+I think there's still a law that you cannot show like any alcohol ads until a certain hour of the day on broadcast at least.
+
+945
+00:51:12,112 --> 00:51:12,992
+I don't know about cable.
+
+946
+00:51:13,012 --> 00:51:15,712
+Former Universal Studios owner Seagrams.
+
+947
+00:51:15,712 --> 00:51:16,412
+Seagrams, yeah.
+
+948
+00:51:16,412 --> 00:51:16,652
+Uh huh.
+
+949
+00:51:16,792 --> 00:51:18,192
+That ties back to theme parks.
+
+950
+00:51:18,292 --> 00:51:18,712
+So.
+
+951
+00:51:18,712 --> 00:51:19,152
+Finally.
+
+952
+00:51:19,232 --> 00:51:19,812
+Oh, thank God.
+
+953
+00:51:19,812 --> 00:51:22,892
+I, I, if they, I don't know.
+
+954
+00:51:22,972 --> 00:51:30,172
+Like, yeah, it's, it's always funny to see like the, the PSAs about alcohol and tobacco and then think about like,
+
+955
+00:51:30,752 --> 00:51:37,712
+so, uh, the government has allocated money to urge caution and restraint on these things,
+
+956
+00:51:37,712 --> 00:51:44,092
+but there's still a million politicians who get alcohol and cigarette lobbying money or like.
+
+957
+00:51:44,412 --> 00:51:44,432
+Sure.
+
+958
+00:51:44,472 --> 00:51:47,932
+Jewel lobbying money, like e-cigarette lobby money.
+
+959
+00:51:48,212 --> 00:51:50,052
+It's all really backwards, isn't it?
+
+960
+00:51:50,172 --> 00:51:53,572
+And cigarettes not really addressed too much on this album.
+
+961
+00:51:53,892 --> 00:51:54,512
+Not nearly.
+
+962
+00:51:54,652 --> 00:51:57,832
+I mean, they don't get there's, there's in a dedicated cigarette song at least.
+
+963
+00:51:57,992 --> 00:52:02,492
+Well, cause all cops probably smoke it cause I've had my grumps smoked like a chimney.
+
+964
+00:52:02,572 --> 00:52:02,992
+Oh yeah.
+
+965
+00:52:03,032 --> 00:52:04,172
+You think I sound like this.
+
+966
+00:52:04,232 --> 00:52:04,652
+Yeah.
+
+967
+00:52:04,772 --> 00:52:13,072
+The irony though of the chill ass, just that is a like literally last night I was drinking a glass of wine and listening to the song alcohol.
+
+968
+00:52:13,532 --> 00:52:14,472
+If you can believe it.
+
+969
+00:52:14,472 --> 00:52:16,192
+Let's give it a little more like just cause it's so.
+
+970
+00:52:16,192 --> 00:52:16,992
+I won't complain.
+
+971
+00:52:16,992 --> 00:52:19,492
+I can like picture a live concert.
+
+972
+00:52:48,572 --> 00:52:48,292
+Very nice.
+
+973
+00:52:49,692 --> 00:52:56,012
+Ah, but you'd best be looking twice cause you will have to pay a price.
+
+974
+00:52:56,712 --> 00:52:59,432
+You're going to lose.
+
+975
+00:52:59,952 --> 00:53:01,432
+Shonday.
+
+976
+00:53:01,692 --> 00:53:04,412
+It's no good when you're naked.
+
+977
+00:53:04,412 --> 00:53:05,192
+What a reach for this man as a singer.
+
+978
+00:53:05,292 --> 00:53:08,212
+It won't show you the way.
+
+979
+00:53:08,212 --> 00:53:10,252
+And he didn't go with the kids choir here.
+
+980
+00:53:10,512 --> 00:53:12,692
+Yeah, I think it's maybe what I like it the most.
+
+981
+00:53:13,532 --> 00:53:13,532
+
+
+982
+00:53:13,872 --> 00:53:14,712
+Kids abandoned.
+
+983
+00:53:16,712 --> 00:53:15,172
+I'm straight.
+
+984
+00:53:17,912 --> 00:53:22,552
+Do do do do the good little bass part at the end.
+
+985
+00:53:22,552 --> 00:53:23,052
+Yeah.
+
+986
+00:53:23,172 --> 00:53:26,332
+I can picture a concert version of this.
+
+987
+00:53:26,472 --> 00:53:36,792
+And in my head, when it's just instrumental and he's not singing, he is walking over to a stool with a scotch and soda on it to have a sip.
+
+988
+00:53:36,792 --> 00:53:45,312
+And then he's like, I'm instantly imagining the live performance and someone like grooving along when they don't have to sing or play and like taking a drink.
+
+989
+00:53:45,512 --> 00:53:48,052
+And then like, yeah, we're one sec quick sip.
+
+990
+00:53:48,232 --> 00:53:49,192
+And then, all right, here we go.
+
+991
+00:53:49,292 --> 00:53:50,172
+But first three.
+
+992
+00:53:50,172 --> 00:53:50,712
+Yeah.
+
+993
+00:53:51,032 --> 00:53:54,412
+Alcoholics are worse than terrorists.
+
+994
+00:53:56,072 --> 00:53:58,372
+Send them out of the country.
+
+995
+00:54:01,472 --> 00:54:08,752
+The this song feels like like there's a Rolling Stones Miss You, one of the best songs ever.
+
+996
+00:54:08,872 --> 00:54:12,352
+There's a lot version of it that's nine minutes and it's an extended jam version.
+
+997
+00:54:12,492 --> 00:54:20,472
+This song could have six, seven, eight, nine more minutes of just free association like jazz guitar solo.
+
+998
+00:54:20,752 --> 00:54:23,912
+Like it would be you would not get sick of you wouldn't get tired of it.
+
+999
+00:54:24,132 --> 00:54:26,712
+And that's how they that's how Steely Dan does it, man.
+
+1000
+00:54:27,252 --> 00:54:31,172
+Yeah, yeah, you're getting some big spoken word entry.
+
+1001
+00:54:31,372 --> 00:54:33,352
+Maybe this one is missing a spoken word entry.
+
+1002
+00:54:33,592 --> 00:54:33,752
+Yes.
+
+1003
+00:54:33,752 --> 00:54:39,272
+But I want it to be some weird like about a, you know, about like a trip he took to the islands.
+
+1004
+00:54:39,312 --> 00:54:41,352
+I don't want it to be about some phone number.
+
+1005
+00:54:42,852 --> 00:54:45,772
+And then I met a little Caribbean girl.
+
+1006
+00:54:46,772 --> 00:54:49,712
+A couple of bleary nights later.
+
+1007
+00:54:51,552 --> 00:54:57,932
+Well, when we do it live, we'll do a we'll insert a three minute like rap like in the middle there.
+
+1008
+00:54:57,932 --> 00:54:58,292
+Sure.
+
+1009
+00:54:58,312 --> 00:55:03,352
+Where he talks and then another three minutes of guitar soloing and then maybe a little more rap.
+
+1010
+00:55:03,532 --> 00:55:04,052
+Who knows?
+
+1011
+00:55:04,272 --> 00:55:04,492
+Yeah.
+
+1012
+00:55:04,612 --> 00:55:11,752
+You know, the locals, they, you know, they like to say I'm one of them and I tell this story a lot.
+
+1013
+00:55:13,572 --> 00:55:16,772
+Second home for old McGriff.
+
+1014
+00:55:16,872 --> 00:55:17,692
+Cabo.
+
+1015
+00:55:17,692 --> 00:55:19,612
+They're in my mind right now.
+
+1016
+00:55:20,012 --> 00:55:21,472
+Cabo, wabo, canine.
+
+1017
+00:55:22,532 --> 00:55:25,332
+Like like Clooney talking about that fucking lake.
+
+1018
+00:55:26,712 --> 00:55:30,732
+That lake they all that they shot Oceans 12 at by all their vacation homes.
+
+1019
+00:55:31,472 --> 00:55:36,772
+Well, that's how McGruff is in kind of an oceans posse with Smokey the Bear.
+
+1020
+00:55:36,852 --> 00:55:37,652
+Yeah, yeah.
+
+1021
+00:55:37,672 --> 00:55:42,192
+With the with the Vlasic Pickle mascot voiced by Leon Redbone.
+
+1022
+00:55:43,032 --> 00:55:45,132
+I mean, he doesn't know who is it?
+
+1023
+00:55:45,132 --> 00:55:46,392
+It's what's it's like.
+
+1024
+00:55:46,392 --> 00:55:49,272
+Hey, who's who's the guy?
+
+1025
+00:55:50,052 --> 00:55:53,492
+The voices narrates Frosty the Snowman, Jimmy Durrani.
+
+1026
+00:55:53,492 --> 00:55:57,492
+Yeah, maybe maybe the Vlasic voice is not one of those people.
+
+1027
+00:55:57,652 --> 00:56:02,292
+No, he's like a soft sweet kind of hmm.
+
+1028
+00:56:02,812 --> 00:56:06,332
+While other things happen, I'll check into who voiced the Vlasic.
+
+1029
+00:56:06,352 --> 00:56:07,392
+Do you even know who I'm talking about?
+
+1030
+00:56:07,612 --> 00:56:08,652
+Oh, I 100 percent.
+
+1031
+00:56:08,992 --> 00:56:10,992
+He's like a stork or something.
+
+1032
+00:56:10,992 --> 00:56:12,592
+Yeah, he's a dignified stork.
+
+1033
+00:56:12,592 --> 00:56:15,072
+He's kind of on par with Mr.
+
+1034
+00:56:15,072 --> 00:56:16,892
+Peanut. They have a certain.
+
+1035
+00:56:16,892 --> 00:56:18,172
+He's probably in the game.
+
+1036
+00:56:18,632 --> 00:56:18,772
+Oh, yeah.
+
+1037
+00:56:19,132 --> 00:56:20,332
+Dignity about them.
+
+1038
+00:56:20,632 --> 00:56:26,712
+Though like Smokey and McGruff have causes and Vlasic Pickle is more of a.
+
+1039
+00:56:26,712 --> 00:56:28,152
+His causes eat pickles.
+
+1040
+00:56:28,172 --> 00:56:30,072
+Oh, don't buy counterfeit pickles.
+
+1041
+00:56:30,372 --> 00:56:34,732
+I feel like sometimes he has that sort of like Ed Winnie voice and other times.
+
+1042
+00:56:34,972 --> 00:56:36,212
+I do think he has different voices.
+
+1043
+00:56:36,252 --> 00:56:40,372
+I feel like there's a CGI one of him now that's a little upsetting.
+
+1044
+00:56:40,912 --> 00:56:41,812
+And Bill Hader is Mr.
+
+1045
+00:56:41,892 --> 00:56:42,552
+Peanut now.
+
+1046
+00:56:42,832 --> 00:56:43,252
+Is there Ed?
+
+1047
+00:56:43,432 --> 00:56:43,832
+Yeah.
+
+1048
+00:56:43,832 --> 00:56:48,232
+He's a he's one of the only mascots that isn't Chris Parnell.
+
+1049
+00:56:48,472 --> 00:56:48,932
+Oh, yeah.
+
+1050
+00:56:48,932 --> 00:56:50,552
+He's always all of them.
+
+1051
+00:56:50,752 --> 00:56:53,892
+OK, the next song is called Just Say No.
+
+1052
+00:56:54,712 --> 00:57:00,472
+And it's not as good as the other songs, but part one part of it is hilarious.
+
+1053
+00:57:00,472 --> 00:57:01,652
+So we'll just play.
+
+1054
+00:57:12,132 --> 00:57:20,952
+Maybe other kids are doing drugs and saying that you really ought to come along.
+
+1055
+00:57:21,112 --> 00:57:24,612
+Maybe they don't know that we will be staying.
+
+1056
+00:57:25,412 --> 00:57:29,992
+So, you know, you are saying this song.
+
+1057
+00:57:29,992 --> 00:57:39,192
+Just say no.
+
+1058
+00:57:50,636 --> 00:57:52,956
+I mean, that is a good synth, too.
+
+1059
+00:57:53,556 --> 00:57:54,396
+Good harmonies.
+
+1060
+00:57:54,536 --> 00:57:58,016
+And never be afraid to walk away from trouble.
+
+1061
+00:57:58,856 --> 00:58:01,736
+Taking drugs is really not the way.
+
+1062
+00:58:03,336 --> 00:58:06,496
+And never hesitate, just get out on the double.
+
+1063
+00:58:06,516 --> 00:58:07,736
+This one's a little busy.
+
+1064
+00:58:07,816 --> 00:58:10,396
+And you know exactly what to say.
+
+1065
+00:58:10,496 --> 00:58:12,876
+He's lacking a primary to any bells and whistles.
+
+1066
+00:58:13,076 --> 00:58:14,856
+Just say no.
+
+1067
+00:58:15,276 --> 00:58:16,976
+Just say no.
+
+1068
+00:58:18,456 --> 00:58:19,656
+Just say no.
+
+1069
+00:58:21,856 --> 00:58:24,136
+Just say no.
+
+1070
+00:58:25,016 --> 00:58:26,216
+Just say no.
+
+1071
+00:58:26,376 --> 00:58:27,656
+Just say no.
+
+1072
+00:58:27,656 --> 00:58:33,656
+You could overlay this to like the music videos from the Disney parades when they're dancing around the hotel.
+
+1073
+00:58:33,656 --> 00:58:37,096
+You know kids, your friends don't have any right to tell you what to do with your own body.
+
+1074
+00:58:37,216 --> 00:58:38,376
+I can't hear you at all.
+
+1075
+00:58:39,796 --> 00:58:44,976
+So if someone tries to get you to amuse drugs, don't waste time arguing with them.
+
+1076
+00:58:44,976 --> 00:58:47,496
+You don't have to say why you don't take drugs.
+
+1077
+00:58:48,096 --> 00:58:49,556
+Just say no.
+
+1078
+00:58:50,236 --> 00:58:52,896
+Just say no.
+
+1079
+00:58:53,396 --> 00:58:53,916
+No.
+
+1080
+00:58:55,336 --> 00:58:57,176
+Just say no.
+
+1081
+00:58:57,536 --> 00:58:57,576
+No.
+
+1082
+00:58:59,616 --> 00:59:01,196
+Just say no.
+
+1083
+00:59:01,256 --> 00:59:01,636
+No.
+
+1084
+00:59:29,816 --> 00:59:31,316
+Alright, alright.
+
+1085
+00:59:31,416 --> 00:59:38,656
+I think I'm just upset that so much real estate was devoted to maybe the lesser...
+
+1086
+00:59:38,656 --> 00:59:39,716
+I screwed up.
+
+1087
+00:59:40,016 --> 00:59:41,596
+We can go back and play alcohol again.
+
+1088
+00:59:41,616 --> 00:59:52,356
+You can overlay that, what I was saying, you can overlay that onto like the music video sequences from Disney parades where they're dancing to Gloria Estefan at a new hotel they want to showcase.
+
+1089
+00:59:52,376 --> 00:59:55,136
+There's a lot of, this is a real Miami Sand Machine vibe in here.
+
+1090
+00:59:55,136 --> 00:59:59,616
+I think the harmonies remind me a little bit of Huey Lewis and the News.
+
+1091
+00:59:59,616 --> 01:00:03,276
+It's an 80s update of the 60s harmonies.
+
+1092
+01:00:03,576 --> 01:00:06,776
+It's sort of a do you believe in love kind of vibe.
+
+1093
+01:00:07,116 --> 01:00:14,276
+So more great, I think I'm doing a little like kind of wine flavor profile thing here with this album.
+
+1094
+01:00:14,576 --> 01:00:18,396
+Oh yeah, I detect a little bit of Huey with Shades of Gloria.
+
+1095
+01:00:18,916 --> 01:00:21,296
+Like if you were DJing you would maybe play that after.
+
+1096
+01:00:21,556 --> 01:00:25,116
+Yeah, I could see mixing that into...
+
+1097
+01:00:25,116 --> 01:00:51,636
+I talked about this when I was on Jordan Jesse Goh, but how Jordan was asking me about how at my wedding, a real thing, my number one, one of the top moments of the wedding was when the DJ successfully segued into Erotic City out of the song Hot Drinks, the Wendy's instructional song.
+
+1098
+01:00:51,636 --> 01:00:52,736
+Oh right, right, right, right.
+
+1099
+01:00:52,736 --> 01:00:55,996
+It's a very like oddly good, it's a really relative of the drop.
+
+1100
+01:00:55,996 --> 01:00:59,776
+I just was sent this. I was just texted Hot Drinks a week ago.
+
+1101
+01:00:59,776 --> 01:01:00,836
+Have we not talked about it before?
+
+1102
+01:01:00,836 --> 01:01:02,916
+I don't think we have. I had never seen it, yeah.
+
+1103
+01:01:02,976 --> 01:01:03,656
+Oh that's crazy.
+
+1104
+01:01:03,776 --> 01:01:04,336
+Oh yeah.
+
+1105
+01:01:04,336 --> 01:01:19,316
+This was a huge thing in the funnier dive basement and I, there was a DJ who was a very good DJ, bless his heart, he was nice and amenable to everything, but he like, I remember explaining, so there's a couple songs that we really, that must be played.
+
+1106
+01:01:19,316 --> 01:01:22,756
+And one of them is a song from a Wendy's training video.
+
+1107
+01:01:22,756 --> 01:01:31,276
+And he was like, okay, well, you know, keep in mind, I do weddings all the time and you know, you really want some crowd pleasers just to get, you know, grandma out of the dance floor.
+
+1108
+01:01:31,456 --> 01:01:39,276
+And we were like, I know, but the kind of people who will be at this wedding and truly Hot Drinks tore the dance floor up.
+
+1109
+01:01:39,536 --> 01:01:47,116
+It was like such a dream because we always begged at funnier dive, like holiday parties, like, will you just, will you put this in the mix?
+
+1110
+01:01:47,176 --> 01:01:50,896
+We're all going to go insane if you put it on and they always, they just said no.
+
+1111
+01:01:50,916 --> 01:01:52,616
+And so that was our chant.
+
+1112
+01:01:52,736 --> 01:01:56,456
+It was a fucking jam at the wedding and then he said did it in a prince perfectly.
+
+1113
+01:01:56,456 --> 01:01:57,016
+That's great.
+
+1114
+01:01:57,016 --> 01:01:58,236
+Incredible moment.
+
+1115
+01:01:58,456 --> 01:01:59,516
+Thank you DJ Dennis.
+
+1116
+01:02:00,396 --> 01:02:04,376
+The phrase, not particularly pleasing, the phrase Hot Drinks.
+
+1117
+01:02:04,896 --> 01:02:05,716
+Have you heard the song?
+
+1118
+01:02:05,796 --> 01:02:06,536
+Oh yeah, yeah.
+
+1119
+01:02:06,576 --> 01:02:08,496
+I've seen all those Wendy's videos.
+
+1120
+01:02:08,496 --> 01:02:09,556
+Yeah, yeah, yeah.
+
+1121
+01:02:09,556 --> 01:02:12,476
+Because it doesn't sound like a cold drink sounds refreshing.
+
+1122
+01:02:12,756 --> 01:02:13,376
+A hot, you don't like.
+
+1123
+01:02:13,536 --> 01:02:14,016
+Hot drink.
+
+1124
+01:02:14,156 --> 01:02:18,496
+Hot isn't really the aspect that you like of a, unless it's like the winter.
+
+1125
+01:02:18,656 --> 01:02:26,216
+In the context of those videos, they're talking about the, how you, as you, a Wendy's employee would present coffee and tea, right?
+
+1126
+01:02:27,276 --> 01:02:28,216
+But I think the fact.
+
+1127
+01:02:28,216 --> 01:02:29,836
+The line to which you need to fill it up.
+
+1128
+01:02:30,096 --> 01:02:34,996
+Yeah, which is a real safety issue dealing with boiling hot drinks.
+
+1129
+01:02:35,036 --> 01:02:37,136
+Came to a head not long after with McDonald's.
+
+1130
+01:02:37,136 --> 01:02:38,076
+With McDonald's.
+
+1131
+01:02:38,876 --> 01:02:42,416
+And it did turn out that McDonald's cooking that coffee too hot.
+
+1132
+01:02:42,536 --> 01:02:43,176
+It was way too hot.
+
+1133
+01:02:43,176 --> 01:02:43,936
+Yeah, it's colder.
+
+1134
+01:02:44,356 --> 01:02:51,636
+But I, I think the association with Wendy's where I think fast food restaurant, soft drink soda.
+
+1135
+01:02:51,976 --> 01:02:54,076
+And then the phrase Hot Drinks.
+
+1136
+01:02:54,156 --> 01:02:56,516
+I'm just imagining like warm soda.
+
+1137
+01:02:57,076 --> 01:03:00,276
+It's just the most unpleasant thing.
+
+1138
+01:03:00,276 --> 01:03:02,436
+Hot Coke really gets you going.
+
+1139
+01:03:03,476 --> 01:03:10,136
+Although that is, I think there are old recipe books or like cure all things of like, you know, no, not feeling well.
+
+1140
+01:03:10,136 --> 01:03:11,336
+Enjoy a hot doctor.
+
+1141
+01:03:11,556 --> 01:03:12,876
+Serve hot Dr. Pepper.
+
+1142
+01:03:13,276 --> 01:03:14,636
+Like I have heard that.
+
+1143
+01:03:14,636 --> 01:03:16,596
+And that sounds like something you would have had as a child.
+
+1144
+01:03:16,596 --> 01:03:17,816
+Well, okay.
+
+1145
+01:03:18,856 --> 01:03:19,316
+Of course.
+
+1146
+01:03:19,556 --> 01:03:21,576
+All right. All right. Next we got, we got, we got a roll here.
+
+1147
+01:03:22,096 --> 01:03:25,716
+Next song is Smart Kids, which I think is the song we were talking about before.
+
+1148
+01:03:25,716 --> 01:03:26,396
+Yes. Yeah.
+
+1149
+01:03:26,396 --> 01:03:27,676
+And this is an intro.
+
+1150
+01:03:28,456 --> 01:03:29,536
+All right. Here we go.
+
+1151
+01:03:29,576 --> 01:03:30,616
+The song itself loses me a little bit.
+
+1152
+01:03:30,616 --> 01:03:31,256
+Boy, it starts.
+
+1153
+01:03:31,256 --> 01:03:32,396
+But the intro is strong.
+
+1154
+01:03:32,796 --> 01:03:32,896
+Yeah.
+
+1155
+01:03:40,760 --> 01:03:43,700
+And the smart kids know that it's wrong, feeling good.
+
+1156
+01:03:44,220 --> 01:03:46,860
+Smart kids know they belong, moving up.
+
+1157
+01:03:47,200 --> 01:03:50,280
+Smart kids reaching a star, being sure.
+
+1158
+01:03:50,540 --> 01:03:52,800
+Smart kids know who they are.
+
+1159
+01:03:53,060 --> 01:03:55,220
+And it's true, truly it's true.
+
+1160
+01:03:56,140 --> 01:03:59,340
+You should never do drugs, you can just say no,
+
+1161
+01:03:59,440 --> 01:04:01,860
+because it's true, truly it's true.
+
+1162
+01:04:02,820 --> 01:04:05,720
+You don't need to do drugs, and the smart kids
+
+1163
+01:04:05,720 --> 01:04:08,620
+know that it's true, it's so much true.
+
+1164
+01:04:08,680 --> 01:04:09,940
+They know that it's true.
+
+1165
+01:04:09,940 --> 01:04:10,540
+Oh wait, wait a little more sex.
+
+1166
+01:04:12,880 --> 01:04:16,840
+Oh yeah, double sex, make her straight style.
+
+1167
+01:04:16,840 --> 01:04:17,060
+Double sex, make her straight style.
+
+1168
+01:04:18,620 --> 01:04:20,120
+That's a delight.
+
+1169
+01:04:20,640 --> 01:04:21,440
+That's fantastic.
+
+1170
+01:04:21,460 --> 01:04:22,460
+I haven't got nothing else there,
+
+1171
+01:04:22,580 --> 01:04:24,200
+I just like that intro a lot.
+
+1172
+01:04:25,660 --> 01:04:27,740
+The next song is my favorite.
+
+1173
+01:04:28,100 --> 01:04:28,700
+What are we up to?
+
+1174
+01:04:28,700 --> 01:04:30,560
+It's now replayed, we are now up to nine,
+
+1175
+01:04:30,640 --> 01:04:34,340
+track nine, the song Make Your Body Last.
+
+1176
+01:04:34,620 --> 01:04:37,240
+Yeah, I think this became your number one.
+
+1177
+01:04:37,240 --> 01:04:39,380
+I think it's become my number one.
+
+1178
+01:04:39,520 --> 01:04:43,080
+Yeah, yeah, and I know there's the part
+
+1179
+01:04:43,080 --> 01:04:45,740
+that you're into specifically, that I agree,
+
+1180
+01:04:45,920 --> 01:04:47,500
+I know you've hummed the melody.
+
+1181
+01:04:48,760 --> 01:04:50,240
+Yeah, I think I know what you're saying.
+
+1182
+01:04:51,040 --> 01:04:52,080
+It's just, I think it's some-
+
+1183
+01:04:52,080 --> 01:04:54,340
+It's like a little step down thing, it's very cool.
+
+1184
+01:04:54,540 --> 01:04:55,580
+Yeah, there's a lot of hooks,
+
+1185
+01:04:55,660 --> 01:04:58,420
+it's just like packed with hooks, I love a hooky song.
+
+1186
+01:04:58,560 --> 01:05:00,260
+The irony is sailed, we're just straight up,
+
+1187
+01:05:00,280 --> 01:05:01,880
+oh yeah, this is not this little part.
+
+1188
+01:05:02,300 --> 01:05:04,320
+Yeah, there's no irony there.
+
+1189
+01:05:04,660 --> 01:05:07,320
+All right, here we go, Make Your Body Last.
+
+1190
+01:05:07,520 --> 01:05:09,420
+It's not a song about sex, by the way.
+
+1191
+01:05:09,820 --> 01:05:10,420
+Thank God.
+
+1192
+01:05:10,640 --> 01:05:12,980
+It's about not doing drugs to make your body last.
+
+1193
+01:05:13,420 --> 01:05:15,180
+You need blue chew, blue chew.
+
+1194
+01:05:16,120 --> 01:05:18,340
+All right, here we go.
+
+1195
+01:05:27,704 --> 01:05:31,824
+Our kids are making drugs and want you to play.
+
+1196
+01:05:32,264 --> 01:05:39,984
+Today, if you care, we will care about what goes inside you, you'll say, no way.
+
+1197
+01:05:43,416 --> 01:05:47,556
+You've got to make it last as your body, treat it right.
+
+1198
+01:06:08,504 --> 01:06:12,844
+Out of touch, and the sax feels very hollow,
+
+1199
+01:06:12,904 --> 01:06:17,604
+and also the little cut up samples reminds me a lot of
+
+1200
+01:06:17,604 --> 01:06:20,924
+like adult education or I don't know how much you know
+
+1201
+01:06:20,924 --> 01:06:21,624
+the hollow notes.
+
+1202
+01:06:21,624 --> 01:06:22,364
+I don't know that one.
+
+1203
+01:06:22,884 --> 01:06:26,824
+But the little, like they're starting to do that kind of
+
+1204
+01:06:26,824 --> 01:06:29,204
+thing, like editing the vocal samples.
+
+1205
+01:06:29,624 --> 01:06:31,424
+Yeah, cause you can hear the cut, but that's a style
+
+1206
+01:06:31,424 --> 01:06:33,404
+and it's kind of cool sounding like it's cut off
+
+1207
+01:06:33,404 --> 01:06:34,884
+as opposed to just doing it.
+
+1208
+01:06:34,884 --> 01:06:35,264
+Yeah.
+
+1209
+01:06:35,664 --> 01:06:40,404
+The people making these songs and the parents of the
+
+1210
+01:06:40,404 --> 01:06:45,664
+children listening to it, likely children had their youth
+
+1211
+01:06:45,664 --> 01:06:48,824
+in the sixties and seventies and probably destroyed
+
+1212
+01:06:48,824 --> 01:06:52,684
+their bodies and brains with substances and alcohol
+
+1213
+01:06:52,684 --> 01:06:53,044
+and cigarettes.
+
+1214
+01:06:53,044 --> 01:06:54,784
+That's why they're trying to pass on this knowledge.
+
+1215
+01:06:55,624 --> 01:06:58,364
+We did it, you shouldn't do it.
+
+1216
+01:06:58,704 --> 01:07:01,604
+We still do it on the weekends when you're not around.
+
+1217
+01:07:02,864 --> 01:07:05,784
+But we're gonna make you feel like shit.
+
+1218
+01:07:06,524 --> 01:07:10,344
+This is a real, can you go to the spoken word of that
+
+1219
+01:07:10,344 --> 01:07:11,184
+if you can locate it?
+
+1220
+01:07:11,184 --> 01:07:15,204
+We can just keep, it's a real, it's an incredibly
+
+1221
+01:07:15,204 --> 01:07:16,784
+convoluted message in spoken word.
+
+1222
+01:07:16,784 --> 01:07:19,264
+I'm just gonna play it through cause I like it so much.
+
+1223
+01:07:19,764 --> 01:07:19,784
+Sure.
+
+1224
+01:07:19,784 --> 01:07:24,524
+Cause it's your body, you've got to make it last.
+
+1225
+01:07:24,644 --> 01:07:27,244
+Cause it's your body, treat it right.
+
+1226
+01:07:28,204 --> 01:07:31,584
+Cause it's your body, you've got to make it last.
+
+1227
+01:07:31,584 --> 01:07:35,104
+Cause it's your body, treat it right.
+
+1228
+01:07:36,884 --> 01:07:39,904
+Just think, in all the world there's only one you
+
+1229
+01:07:39,904 --> 01:07:42,864
+and anything you ever do will be done in your body.
+
+1230
+01:07:43,284 --> 01:07:45,784
+Since bodies are made to last a good long time,
+
+1231
+01:07:46,024 --> 01:07:48,064
+don't hurt yours by putting drugs in it.
+
+1232
+01:07:48,264 --> 01:07:49,424
+Just say no.
+
+1233
+01:07:49,844 --> 01:07:52,084
+Anything you do will be in your body.
+
+1234
+01:07:52,644 --> 01:07:54,884
+The only thing you, it'll always be in your body.
+
+1235
+01:07:54,924 --> 01:07:56,324
+So you have to be careful.
+
+1236
+01:07:56,444 --> 01:07:57,684
+Don't put drugs in it.
+
+1237
+01:07:57,904 --> 01:07:58,104
+Yeah.
+
+1238
+01:07:58,104 --> 01:07:59,024
+Not you in it.
+
+1239
+01:07:59,184 --> 01:08:01,724
+Don't huff paint, don't swallow gum.
+
+1240
+01:08:02,624 --> 01:08:04,344
+Don't put paint in your body.
+
+1241
+01:08:04,384 --> 01:08:06,624
+But he's also sort of examining like what is the self?
+
+1242
+01:08:07,224 --> 01:08:08,184
+What is the body?
+
+1243
+01:08:08,284 --> 01:08:12,584
+You know, like it's a vessel to travel this spaceship earth
+
+1244
+01:08:12,584 --> 01:08:12,964
+with.
+
+1245
+01:08:13,804 --> 01:08:15,824
+There is a theme parky message of like,
+
+1246
+01:08:15,824 --> 01:08:17,004
+there's only one you.
+
+1247
+01:08:17,364 --> 01:08:18,804
+You know, you're great, you're special.
+
+1248
+01:08:18,884 --> 01:08:20,364
+There's only one you.
+
+1249
+01:08:20,504 --> 01:08:23,324
+Well, we're in brain bender territory again.
+
+1250
+01:08:23,324 --> 01:08:23,704
+Yeah.
+
+1251
+01:08:23,724 --> 01:08:26,244
+Where if there's a little buzzy in our brain,
+
+1252
+01:08:26,244 --> 01:08:28,284
+he should not pick up a can of paint
+
+1253
+01:08:28,284 --> 01:08:31,864
+and shove it down his 12 year old boy's throat.
+
+1254
+01:08:32,024 --> 01:08:32,244
+Yeah.
+
+1255
+01:08:32,404 --> 01:08:33,604
+It's also kind of like he's saying though,
+
+1256
+01:08:33,604 --> 01:08:34,584
+there's no afterlife.
+
+1257
+01:08:36,264 --> 01:08:38,404
+We only go around this earth one time.
+
+1258
+01:08:38,544 --> 01:08:40,024
+I'm a humanist.
+
+1259
+01:08:41,164 --> 01:08:45,104
+I'm happy to go over this with you.
+
+1260
+01:08:45,404 --> 01:08:48,544
+You know, let's hang and talk about it with drugs.
+
+1261
+01:08:48,564 --> 01:08:51,524
+You can find a lot more about it in the work of Kurt Vonnegut,
+
+1262
+01:08:51,744 --> 01:08:53,084
+a close friend of mine.
+
+1263
+01:08:55,184 --> 01:08:56,264
+Oh, my gruff.
+
+1264
+01:08:56,264 --> 01:08:58,424
+Shame what he's done to his body.
+
+1265
+01:08:58,664 --> 01:09:04,884
+I think he smoked in the hospital at the end.
+
+1266
+01:09:05,704 --> 01:09:09,344
+What is interesting is that as McGruff's creator
+
+1267
+01:09:09,344 --> 01:09:13,404
+lived into his nineties and he made his body last.
+
+1268
+01:09:13,744 --> 01:09:15,244
+He truly did like as much,
+
+1269
+01:09:15,364 --> 01:09:17,584
+almost as much as you can do right now in this day and age.
+
+1270
+01:09:18,284 --> 01:09:20,564
+So he was whatever he was doing,
+
+1271
+01:09:20,584 --> 01:09:21,784
+he was doing something right.
+
+1272
+01:09:21,784 --> 01:09:25,944
+But it's all very counter to, you know, Keith Richards.
+
+1273
+01:09:26,204 --> 01:09:28,884
+He has done everything that McGruff warns against.
+
+1274
+01:09:29,484 --> 01:09:30,904
+He has not treated his body right.
+
+1275
+01:09:31,104 --> 01:09:32,644
+He's just said yes.
+
+1276
+01:09:32,804 --> 01:09:35,604
+I don't want to accuse Keith Richards of doing inhalants,
+
+1277
+01:09:35,824 --> 01:09:39,744
+but I mean, I don't know about spray for sprays, but maybe.
+
+1278
+01:09:40,184 --> 01:09:43,164
+He also fell out of a tree, a coconut tree and hit his head
+
+1279
+01:09:43,164 --> 01:09:47,064
+and had to have his skull opened up to remove like the
+
+1280
+01:09:47,064 --> 01:09:49,704
+swelling from his brain for let his brain breathe essentially.
+
+1281
+01:09:50,024 --> 01:09:50,604
+Oh my God.
+
+1282
+01:09:50,604 --> 01:09:51,564
+But he's fine.
+
+1283
+01:09:51,684 --> 01:09:53,104
+Don't fall out of a coconut tree.
+
+1284
+01:09:54,304 --> 01:09:56,804
+But they're, hey, the Rolling Stones are playing
+
+1285
+01:09:56,804 --> 01:09:59,544
+the Rose Bowl soon, so everything's fine with Keith.
+
+1286
+01:10:00,664 --> 01:10:02,424
+Keith has stopped drinking though.
+
+1287
+01:10:02,544 --> 01:10:02,864
+Oh really?
+
+1288
+01:10:02,884 --> 01:10:03,384
+I read.
+
+1289
+01:10:03,664 --> 01:10:07,404
+So that like he had gone down, I think from me reading
+
+1290
+01:10:07,404 --> 01:10:08,624
+some interview with him 10 years ago,
+
+1291
+01:10:08,644 --> 01:10:11,604
+where it's like his assistant came in and poured a solo cup
+
+1292
+01:10:11,604 --> 01:10:14,644
+full of vodka at 10 a.m. or at noon.
+
+1293
+01:10:15,324 --> 01:10:15,704
+Yikes.
+
+1294
+01:10:16,004 --> 01:10:20,284
+So he's, you know, maybe McGruff has gotten through to Keith.
+
+1295
+01:10:21,404 --> 01:10:22,984
+We're saying that's why.
+
+1296
+01:10:23,024 --> 01:10:23,824
+Yeah, that's why.
+
+1297
+01:10:24,884 --> 01:10:27,224
+Did you guys hear the stories a few years ago
+
+1298
+01:10:27,224 --> 01:10:28,664
+when they were doing a reunion tour?
+
+1299
+01:10:28,744 --> 01:10:31,364
+Of course they played like a warmup show at the Echo
+
+1300
+01:10:31,364 --> 01:10:33,064
+in Los Angeles, but they.
+
+1301
+01:10:33,424 --> 01:10:34,524
+I don't want to talk about that.
+
+1302
+01:10:34,744 --> 01:10:35,804
+You missed it?
+
+1303
+01:10:36,064 --> 01:10:36,404
+Their practice.
+
+1304
+01:10:36,404 --> 01:10:37,684
+Well, I was in line.
+
+1305
+01:10:37,984 --> 01:10:41,044
+I got out of line because I thought my number wasn't
+
+1306
+01:10:41,044 --> 01:10:41,844
+going to be called.
+
+1307
+01:10:41,944 --> 01:10:44,824
+And then if I had just stuck around, they were giving to like,
+
+1308
+01:10:44,964 --> 01:10:46,324
+they didn't have enough people.
+
+1309
+01:10:46,364 --> 01:10:48,144
+So if you were just there in front,
+
+1310
+01:10:48,144 --> 01:10:49,624
+you would have walked up and bought the ticket
+
+1311
+01:10:49,624 --> 01:10:50,404
+and gone to see them.
+
+1312
+01:10:50,984 --> 01:10:52,764
+It's a whole, I hate it.
+
+1313
+01:10:52,764 --> 01:10:53,864
+I'm so mad at myself anyway.
+
+1314
+01:10:53,984 --> 01:10:57,304
+But their practice space was like in a warehouse
+
+1315
+01:10:57,304 --> 01:11:00,344
+or rental space over by the Burbank airport.
+
+1316
+01:11:00,664 --> 01:11:00,904
+Oh yeah.
+
+1317
+01:11:01,244 --> 01:11:03,484
+Like people would be walking by
+
+1318
+01:11:03,484 --> 01:11:04,664
+because there were other businesses
+
+1319
+01:11:04,664 --> 01:11:06,424
+or other companies located around there.
+
+1320
+01:11:06,424 --> 01:11:07,144
+And they'd be like,
+
+1321
+01:11:07,244 --> 01:11:09,804
+who's playing the Rolling Stones so fucking late?
+
+1322
+01:11:09,824 --> 01:11:12,124
+And they're like, oh, it's the Rolling Stones.
+
+1323
+01:11:12,244 --> 01:11:14,884
+And then I think they, the other anecdote from that
+
+1324
+01:11:14,884 --> 01:11:18,904
+is that like McCartney was like, you know,
+
+1325
+01:11:19,224 --> 01:11:22,324
+rehearsing in the same complex or in the same area.
+
+1326
+01:11:22,884 --> 01:11:23,344
+So like,
+
+1327
+01:11:23,584 --> 01:11:24,004
+Wow.
+
+1328
+01:11:24,224 --> 01:11:27,564
+All sharing walls with Chili John's.
+
+1329
+01:11:27,564 --> 01:11:28,064
+Yeah.
+
+1330
+01:11:28,084 --> 01:11:30,584
+Chili John's is shaking with the sounds of the stones.
+
+1331
+01:11:30,624 --> 01:11:31,984
+And the Big Dog garage.
+
+1332
+01:11:32,324 --> 01:11:34,064
+A lot of Burbank.
+
+1333
+01:11:34,304 --> 01:11:35,664
+I don't know the Big Dog garage.
+
+1334
+01:11:35,684 --> 01:11:36,304
+That's Jay's.
+
+1335
+01:11:36,304 --> 01:11:38,244
+Jay's, where all his cars are.
+
+1336
+01:11:38,284 --> 01:11:40,364
+Oh, oh, oh, oh, oh.
+
+1337
+01:11:40,364 --> 01:11:41,384
+Isn't it called the Big Dog garage?
+
+1338
+01:11:41,664 --> 01:11:42,004
+Yeah, it is.
+
+1339
+01:11:42,024 --> 01:11:43,184
+Oh, I didn't know that offhand.
+
+1340
+01:11:43,244 --> 01:11:44,944
+I didn't know that terminology.
+
+1341
+01:11:45,324 --> 01:11:47,784
+Unrelated to the apparel company we all love.
+
+1342
+01:11:48,264 --> 01:11:49,644
+Big Dog clothing.
+
+1343
+01:11:49,664 --> 01:11:50,284
+Big Dog clothing.
+
+1344
+01:11:50,804 --> 01:11:52,464
+Which we usually wear when recording.
+
+1345
+01:11:52,664 --> 01:11:53,464
+Yeah, most, yeah.
+
+1346
+01:11:53,824 --> 01:11:55,424
+We forgot to start posting those photos.
+
+1347
+01:11:55,644 --> 01:11:56,024
+Yeah.
+
+1348
+01:11:56,684 --> 01:11:57,124
+All right.
+
+1349
+01:11:57,204 --> 01:11:58,344
+We're heading to the end.
+
+1350
+01:11:58,344 --> 01:12:00,124
+We got two more on this album.
+
+1351
+01:12:01,284 --> 01:12:03,584
+How much more is there in the other?
+
+1352
+01:12:05,284 --> 01:12:07,784
+Eight songs on the other album.
+
+1353
+01:12:08,404 --> 01:12:11,324
+We could, we'll see where we're at after these two songs
+
+1354
+01:12:11,324 --> 01:12:13,304
+and we'll assess what we're gonna do.
+
+1355
+01:12:13,344 --> 01:12:13,584
+All right.
+
+1356
+01:12:13,584 --> 01:12:16,264
+So this song is called, I'll Decide On My Own.
+
+1357
+01:12:17,284 --> 01:12:18,684
+Wait, no.
+
+1358
+01:12:18,684 --> 01:12:19,724
+No, it's your body.
+
+1359
+01:12:20,004 --> 01:12:20,764
+It cut back, sorry.
+
+1360
+01:12:21,144 --> 01:12:22,284
+I'm doing this live, folks.
+
+1361
+01:12:23,024 --> 01:12:24,284
+I've done pretty good so far.
+
+1362
+01:12:24,304 --> 01:12:25,144
+Here we go.
+
+1363
+01:12:37,240 --> 01:12:39,460
+I'm trying to find you herpes.
+
+1364
+01:12:39,500 --> 01:12:40,780
+I know they're wrong.
+
+1365
+01:12:40,780 --> 01:12:43,460
+My brain may laugh at me, but this is my song.
+
+1366
+01:12:43,720 --> 01:12:45,280
+Got a sigh, I itemize.
+
+1367
+01:12:45,500 --> 01:12:46,460
+They'll never make me.
+
+1368
+01:12:46,460 --> 01:12:48,220
+Got a sigh, I itemize.
+
+1369
+01:12:48,320 --> 01:12:49,360
+They'll never shake me.
+
+1370
+01:12:49,360 --> 01:12:51,160
+Got a sigh, I itemize.
+
+1371
+01:12:51,160 --> 01:12:52,240
+They'll never make me.
+
+1372
+01:12:52,240 --> 01:12:54,080
+Got a sigh, I itemize.
+
+1373
+01:12:54,300 --> 01:12:55,460
+I itemize.
+
+1374
+01:12:56,480 --> 01:12:59,620
+It's kind of the Phil Collins 50s hearkening
+
+1375
+01:12:59,620 --> 01:13:00,640
+mixed with the 80s.
+
+1376
+01:13:00,640 --> 01:13:02,420
+It's that sax specifically that sounds like
+
+1377
+01:13:02,420 --> 01:13:03,340
+the Clarence Clemens.
+
+1378
+01:13:03,380 --> 01:13:05,540
+You're a friend of mine intro at least.
+
+1379
+01:13:05,540 --> 01:13:08,440
+But that song is, or maybe that's my least favorite.
+
+1380
+01:13:08,820 --> 01:13:09,080
+I agree.
+
+1381
+01:13:09,200 --> 01:13:11,420
+It sounds to me, it reminds me too much of like,
+
+1382
+01:13:11,420 --> 01:13:12,820
+you know, like Christian cassettes
+
+1383
+01:13:12,820 --> 01:13:15,060
+that I would have had to listen to growing up.
+
+1384
+01:13:15,940 --> 01:13:16,580
+We can skip that.
+
+1385
+01:13:16,600 --> 01:13:19,120
+You guys obviously go and listen to all the side of my own
+
+1386
+01:13:19,120 --> 01:13:20,260
+in your own time.
+
+1387
+01:13:20,320 --> 01:13:20,920
+Yeah, yeah, yeah.
+
+1388
+01:13:21,460 --> 01:13:22,380
+But we'll skip to.
+
+1389
+01:13:22,400 --> 01:13:24,620
+Is there a single playlist that has these?
+
+1390
+01:13:24,980 --> 01:13:27,620
+There's a YouTube video that has the full thing.
+
+1391
+01:13:27,620 --> 01:13:29,820
+That's what I've ripped and listening to,
+
+1392
+01:13:29,900 --> 01:13:32,260
+but they're also have been broken up into singles.
+
+1393
+01:13:32,440 --> 01:13:34,520
+Though warning, make your body last
+
+1394
+01:13:34,520 --> 01:13:39,420
+on that particular dub has some cassette warbling issues.
+
+1395
+01:13:39,600 --> 01:13:41,700
+Yes, and I should have played,
+
+1396
+01:13:41,860 --> 01:13:44,140
+I should have ripped make your body last
+
+1397
+01:13:44,140 --> 01:13:45,700
+from the other rip of it.
+
+1398
+01:13:45,860 --> 01:13:48,500
+Which was taken from an undamaged cassette.
+
+1399
+01:13:49,140 --> 01:13:51,220
+It's really funny that we know that,
+
+1400
+01:13:51,320 --> 01:13:54,240
+that we've gone into it and are aware of the varying
+
+1401
+01:13:54,240 --> 01:13:56,980
+audio fidelity issues between the YouTube copies.
+
+1402
+01:13:57,020 --> 01:14:00,020
+I'm gonna let you collate all the links for this episode
+
+1403
+01:14:00,020 --> 01:14:00,900
+for the description.
+
+1404
+01:14:01,180 --> 01:14:01,700
+Oh sure.
+
+1405
+01:14:02,100 --> 01:14:03,140
+It's probably already done.
+
+1406
+01:14:03,360 --> 01:14:04,280
+Yeah, I mean it's all here.
+
+1407
+01:14:05,600 --> 01:14:06,040
+Okay.
+
+1408
+01:14:06,400 --> 01:14:08,540
+Yeah, so I apologize to the listener.
+
+1409
+01:14:08,800 --> 01:14:12,920
+You all post a full high quality version
+
+1410
+01:14:12,920 --> 01:14:14,240
+of make your body last.
+
+1411
+01:14:14,460 --> 01:14:16,040
+In a very Steely Dan move,
+
+1412
+01:14:16,040 --> 01:14:18,720
+apologizing for audio fidelity issues.
+
+1413
+01:14:18,980 --> 01:14:20,080
+They had to like one of their albums,
+
+1414
+01:14:20,080 --> 01:14:21,520
+they had to put a big note on it.
+
+1415
+01:14:21,520 --> 01:14:24,580
+Like we are not comfortable with the way this way.
+
+1416
+01:14:24,580 --> 01:14:25,540
+And it's like, it's fine.
+
+1417
+01:14:25,620 --> 01:14:27,300
+What do you guys, you guys are maniacs.
+
+1418
+01:14:27,400 --> 01:14:28,200
+Hey, they wanna be just,
+
+1419
+01:14:28,220 --> 01:14:30,200
+they wanna be very professional and I get it.
+
+1420
+01:14:30,680 --> 01:14:31,480
+So this song is called,
+
+1421
+01:14:31,520 --> 01:14:32,960
+it's not one of my favorite songs either,
+
+1422
+01:14:32,960 --> 01:14:35,160
+but I appreciate how weird it is.
+
+1423
+01:14:35,180 --> 01:14:37,520
+I'm glad I'm me is the song.
+
+1424
+01:14:37,820 --> 01:14:39,260
+Oh, no, okay.
+
+1425
+01:14:39,560 --> 01:14:40,560
+Well, here, let's play it
+
+1426
+01:14:40,560 --> 01:14:42,620
+and then I'll say what I think is going on musically.
+
+1427
+01:14:42,620 --> 01:14:44,400
+I think it's a pretty fun ending.
+
+1428
+01:14:52,056 --> 01:14:52,976
+I like being me.
+
+1429
+01:14:52,996 --> 01:14:55,636
+And I know that you agree.
+
+1430
+01:14:57,096 --> 01:14:58,796
+It is so very true.
+
+1431
+01:14:59,396 --> 01:15:01,656
+You're the best at being you.
+
+1432
+01:15:02,836 --> 01:15:05,176
+Yeah, I like every day.
+
+1433
+01:15:05,876 --> 01:15:07,496
+I can work and I can play.
+
+1434
+01:15:09,376 --> 01:15:11,016
+Every day when it's done,
+
+1435
+01:15:11,596 --> 01:15:13,156
+I look back on all the fun.
+
+1436
+01:15:15,136 --> 01:15:17,756
+Yes, I'm glad I'm me.
+
+1437
+01:15:18,316 --> 01:15:20,876
+Yes, I'm glad I'm me.
+
+1438
+01:15:20,916 --> 01:15:24,556
+Because my life is really great.
+
+1439
+01:15:24,556 --> 01:15:27,336
+I'm gonna celebrate.
+
+1440
+01:15:27,516 --> 01:15:30,296
+Well, I'm glad I'm me.
+
+1441
+01:15:30,596 --> 01:15:33,056
+Yes, I'm glad I'm me.
+
+1442
+01:15:33,736 --> 01:15:36,676
+Because my life is really great.
+
+1443
+01:15:37,656 --> 01:15:39,716
+I'm gonna celebrate.
+
+1444
+01:15:40,496 --> 01:15:43,496
+Drugs are not for me.
+
+1445
+01:15:43,736 --> 01:15:45,976
+You know you've got a lot going for yourself.
+
+1446
+01:15:46,176 --> 01:15:49,556
+I'm so glad I'm free.
+
+1447
+01:15:49,996 --> 01:15:52,396
+Everything's fine, everything's super duper.
+
+1448
+01:15:52,676 --> 01:15:55,596
+Drugs are not for me.
+
+1449
+01:15:55,696 --> 01:15:58,396
+You have to keep your body strong, your brain sharp.
+
+1450
+01:15:58,576 --> 01:16:01,736
+I'm so glad I'm free.
+
+1451
+01:16:02,376 --> 01:16:03,816
+Feeling good, like I should.
+
+1452
+01:16:04,976 --> 01:16:06,136
+I like being me.
+
+1453
+01:16:06,156 --> 01:16:08,376
+And I know that you agree.
+
+1454
+01:16:10,116 --> 01:16:11,836
+It is so very true.
+
+1455
+01:16:12,496 --> 01:16:14,096
+You're the best at being you.
+
+1456
+01:16:15,236 --> 01:16:18,336
+Yeah, I like every day.
+
+1457
+01:16:18,576 --> 01:16:20,736
+I can work and I can play.
+
+1458
+01:16:20,736 --> 01:16:24,196
+Every day when it's done,
+
+1459
+01:16:24,916 --> 01:16:26,296
+I look back on all the fun.
+
+1460
+01:16:27,756 --> 01:16:30,736
+Yes, I'm glad I'm me.
+
+1461
+01:16:31,496 --> 01:16:32,876
+Yes, I'm glad I'm me.
+
+1462
+01:16:32,876 --> 01:16:33,676
+I think we got it.
+
+1463
+01:16:34,096 --> 01:16:37,056
+No, no, no.
+
+1464
+01:16:37,576 --> 01:16:39,836
+You had an idea of what it's from.
+
+1465
+01:16:40,076 --> 01:16:43,196
+I created a YouTube comment for making me...
+
+1466
+01:16:43,196 --> 01:16:45,556
+Do you offhand know...
+
+1467
+01:16:45,556 --> 01:16:47,936
+It's very clear what they're tributing.
+
+1468
+01:16:48,316 --> 01:16:53,676
+The very beginning I was like a little Fred Schneidery.
+
+1469
+01:16:53,676 --> 01:16:54,056
+Oh, sure.
+
+1470
+01:16:54,676 --> 01:16:57,176
+You're right, that too.
+
+1471
+01:16:57,596 --> 01:16:59,956
+B-52 like shouting and kind of a little weird.
+
+1472
+01:17:00,816 --> 01:17:03,216
+That was my thought.
+
+1473
+01:17:03,276 --> 01:17:05,416
+Totally. I think it's extremely Devo.
+
+1474
+01:17:05,676 --> 01:17:10,636
+I also think that song with zero
+
+1475
+01:17:11,276 --> 01:17:13,116
+change of the lyrics or anything,
+
+1476
+01:17:13,296 --> 01:17:14,676
+just give that to Devo.
+
+1477
+01:17:14,716 --> 01:17:17,956
+They play it and you're like, that's a really subversive song.
+
+1478
+01:17:18,436 --> 01:17:22,856
+There's a song called That's Good and a song It's a Beautiful World.
+
+1479
+01:17:23,476 --> 01:17:25,056
+It's like the exact same thing.
+
+1480
+01:17:25,076 --> 01:17:28,556
+It's so positive that something's weird about it.
+
+1481
+01:17:29,676 --> 01:17:31,536
+I think they could just straight up...
+
+1482
+01:17:31,536 --> 01:17:33,276
+And if they had straight up covered that,
+
+1483
+01:17:33,316 --> 01:17:35,856
+you'd be like, oh, in a devilish Devo move,
+
+1484
+01:17:37,456 --> 01:17:39,776
+they appropriated this Reagan era...
+
+1485
+01:17:39,776 --> 01:17:40,836
+Child song.
+
+1486
+01:17:41,076 --> 01:17:44,236
+I think that's a pretty good...
+
+1487
+01:17:44,236 --> 01:17:49,116
+Just behind Dare to Be Stupid as far as Devo homages go.
+
+1488
+01:17:49,916 --> 01:17:50,496
+I was hard on it.
+
+1489
+01:17:50,496 --> 01:17:52,356
+There's a lot of interesting moves in there.
+
+1490
+01:17:52,476 --> 01:17:53,616
+The synth is weird.
+
+1491
+01:17:53,876 --> 01:17:57,216
+I apologize to the song for saying it's not one of my... It is good.
+
+1492
+01:17:57,396 --> 01:17:59,236
+And the robot. Oh, man.
+
+1493
+01:17:59,236 --> 01:18:02,096
+Yeah, when the robot comes in, I wonder what's wrong with me.
+
+1494
+01:18:02,196 --> 01:18:04,016
+That's the great... The robot's giving him advice.
+
+1495
+01:18:04,156 --> 01:18:06,296
+Who is the robot? Why is it there?
+
+1496
+01:18:06,816 --> 01:18:11,836
+If you were a kid and someone was like, you have to listen to both sides of this cassette,
+
+1497
+01:18:12,176 --> 01:18:14,776
+at a certain point, I feel like you'd either be like,
+
+1498
+01:18:14,856 --> 01:18:16,416
+all right, I get it. Don't do drugs.
+
+1499
+01:18:16,656 --> 01:18:20,356
+Can you tell me how to deal with bullying or something else I'm dealing with?
+
+1500
+01:18:20,356 --> 01:18:22,316
+Or just like, okay, great.
+
+1501
+01:18:22,356 --> 01:18:25,436
+You've listed off all the drugs I would like to try.
+
+1502
+01:18:25,436 --> 01:18:30,456
+Now I know which drugs to try despite whoever's making me listen to this.
+
+1503
+01:18:30,456 --> 01:18:32,616
+I know the differences between the types.
+
+1504
+01:18:32,736 --> 01:18:33,936
+Yeah. Yeah.
+
+1505
+01:18:33,936 --> 01:18:38,736
+Also, you start showing up at school and saying, I'm glad I'm me.
+
+1506
+01:18:38,736 --> 01:18:40,636
+I'm good at being great.
+
+1507
+01:18:41,236 --> 01:18:43,676
+Then now you end up with a bullying problem.
+
+1508
+01:18:43,676 --> 01:18:49,016
+Your favorite teacher takes you aside like, hey, I don't want to tell you to not be yourself.
+
+1509
+01:18:49,016 --> 01:18:51,636
+But like, maybe chill.
+
+1510
+01:18:51,816 --> 01:18:53,396
+Chill. Let's chill it out a little.
+
+1511
+01:18:53,396 --> 01:18:54,196
+Just calm down.
+
+1512
+01:18:54,216 --> 01:18:58,016
+That is the Scott Gardner elementary school story big time.
+
+1513
+01:18:58,196 --> 01:18:59,856
+Teachers try to help me.
+
+1514
+01:19:00,076 --> 01:19:06,196
+Just maybe don't just like, because I had a much more falsetto voice too.
+
+1515
+01:19:06,236 --> 01:19:09,336
+So I'm coming in like, I'm talking about Disneyland.
+
+1516
+01:19:10,116 --> 01:19:13,896
+I think you might, some trouble might be ahead for you.
+
+1517
+01:19:13,916 --> 01:19:16,876
+A kid is smoking and you're like, hey, you need to make your body last.
+
+1518
+01:19:18,916 --> 01:19:19,896
+Come on, buddy.
+
+1519
+01:19:20,456 --> 01:19:23,376
+But now I have the confidence to proudly say,
+
+1520
+01:19:23,376 --> 01:19:25,436
+I totally present myself as a good boy.
+
+1521
+01:19:25,436 --> 01:19:26,876
+Yeah. Yeah.
+
+1522
+01:19:27,416 --> 01:19:30,436
+Finally, I don't really, I don't fear repercussion.
+
+1523
+01:19:30,436 --> 01:19:31,136
+Sure.
+
+1524
+01:19:31,136 --> 01:19:35,096
+Don't use those match books to smoke. Use them to start a match book collection.
+
+1525
+01:19:35,316 --> 01:19:38,856
+You can keep them in a large glass jar so you can see all of them.
+
+1526
+01:19:38,876 --> 01:19:41,436
+It'd make a nice decoration for your room on a shelf.
+
+1527
+01:19:41,836 --> 01:19:44,316
+Do you, Jason, have a match book collection?
+
+1528
+01:19:44,816 --> 01:19:48,116
+I mean, just casually, but I use them.
+
+1529
+01:19:48,516 --> 01:19:50,016
+I thought you might. Yeah.
+
+1530
+01:19:50,176 --> 01:19:54,676
+All right. So we are at one hour, 20 minutes here.
+
+1531
+01:19:54,676 --> 01:19:55,716
+Oh my God.
+
+1532
+01:19:56,656 --> 01:19:58,516
+So do we feel like...
+
+1533
+01:19:58,516 --> 01:20:00,396
+How robust is the number two?
+
+1534
+01:20:00,396 --> 01:20:04,696
+We could certainly make a meal out of number two, but we also could just go to the highlights.
+
+1535
+01:20:05,276 --> 01:20:08,896
+I mean, if you want to save number two for a future episode.
+
+1536
+01:20:08,916 --> 01:20:12,396
+Well, the thing is there are four sides or four cassettes.
+
+1537
+01:20:12,436 --> 01:20:13,876
+Four-sided cassette.
+
+1538
+01:20:14,836 --> 01:20:16,556
+This is cassette three.
+
+1539
+01:20:17,496 --> 01:20:20,836
+So there are two, a full other or three, excuse me.
+
+1540
+01:20:20,996 --> 01:20:25,856
+I believe three other cassettes that are not online that are Holy Grail.
+
+1541
+01:20:25,876 --> 01:20:31,756
+So we could just play a couple things from here and then if a listener knows where to find this.
+
+1542
+01:20:32,216 --> 01:20:33,136
+And do a full deep dive.
+
+1543
+01:20:33,336 --> 01:20:35,956
+Right. Because we could also do more McGruff.
+
+1544
+01:20:36,156 --> 01:20:38,936
+Clearly there's a lot. There's a lot more McGruff to come. Yeah.
+
+1545
+01:20:39,376 --> 01:20:42,636
+Let's do, you know what? There are two songs specifically I want to play.
+
+1546
+01:20:42,716 --> 01:20:45,776
+So now we're on to what is the name of this album?
+
+1547
+01:20:45,776 --> 01:20:50,456
+So this is McGruff Cares for You, the 1991 album that was exclusively available at Burger King.
+
+1548
+01:20:50,856 --> 01:20:56,656
+And from the title is it him like on a velvet bed looking like Laverte?
+
+1549
+01:20:57,316 --> 01:21:04,216
+It is a little drawing of McGruff and just says McGruff and has a little magnifying glass.
+
+1550
+01:21:05,436 --> 01:21:11,236
+If only it was him with a champagne flute with a second one waiting for you, rose petals on the bed.
+
+1551
+01:21:11,916 --> 01:21:15,616
+All I want to do is write new McGruff songs too.
+
+1552
+01:21:15,956 --> 01:21:19,876
+I wish he was still around to like, I'd be like, I got an album for you.
+
+1553
+01:21:19,876 --> 01:21:28,236
+And then I like, it was like a late period McGruff album, you know, like a Loretta, Jack White Loretta Lynn situation.
+
+1554
+01:21:28,236 --> 01:21:32,716
+Where it's like, oh my God, we forgot how good McGruff was.
+
+1555
+01:21:33,176 --> 01:21:34,716
+This is his return to form.
+
+1556
+01:21:34,716 --> 01:21:40,756
+I need to warn kids nowadays about like vodka tampons, like a child chorus.
+
+1557
+01:21:41,156 --> 01:21:44,956
+Don't chug beer in your asshole.
+
+1558
+01:21:45,916 --> 01:21:47,156
+Yeah, don't butt chug.
+
+1559
+01:21:48,856 --> 01:21:51,716
+I'm going to find the movie Blockers funny.
+
+1560
+01:21:52,936 --> 01:21:54,736
+That John Cena is an actor.
+
+1561
+01:21:55,056 --> 01:21:58,916
+Is that a gag in Blockers? Like years after?
+
+1562
+01:21:59,336 --> 01:22:02,756
+Of course it takes like five years for something to end up in a movie.
+
+1563
+01:22:02,756 --> 01:22:06,116
+In fact, I'd recommend not putting a funnel in your asshole at all.
+
+1564
+01:22:06,356 --> 01:22:09,336
+For no reason, unless a doctor's doing it.
+
+1565
+01:22:09,676 --> 01:22:12,416
+Unless it's medicine to make your asshole better.
+
+1566
+01:22:14,396 --> 01:22:16,736
+Be careful with your asshole.
+
+1567
+01:22:17,936 --> 01:22:21,396
+Hand sanitizer, only use it for hands.
+
+1568
+01:22:22,016 --> 01:22:24,636
+Don't put liquids up your butt willy nilly.
+
+1569
+01:22:25,236 --> 01:22:27,396
+Make sure you know just what it is.
+
+1570
+01:22:28,016 --> 01:22:31,456
+Like that's a, we need to make that song.
+
+1571
+01:22:31,856 --> 01:22:35,636
+All right. Okay. So this song, I like this.
+
+1572
+01:22:35,636 --> 01:22:38,936
+This song falls a little more in line with what you would think the album would be.
+
+1573
+01:22:38,956 --> 01:22:40,496
+The songs are a little less good.
+
+1574
+01:22:40,676 --> 01:22:45,636
+It's a little more instructional, but there are some gems on it and there's still some good beats.
+
+1575
+01:22:46,096 --> 01:22:50,076
+This song, I don't think there is a Burger King.
+
+1576
+01:22:50,376 --> 01:22:52,356
+Like he goes, be nutritious.
+
+1577
+01:22:52,356 --> 01:22:55,456
+But again, once in a while Burger King wouldn't be bad.
+
+1578
+01:22:56,416 --> 01:23:00,496
+Everyone deserves a drink. Hershey's chocolate pie for dessert, please.
+
+1579
+01:23:00,676 --> 01:23:03,796
+So this song is called Alphabet-er.
+
+1580
+01:23:06,656 --> 01:23:10,296
+So here, I'll just, I won't even say anything about it. Here we go.
+
+1581
+01:23:10,736 --> 01:23:22,816
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z.
+
+1582
+01:23:22,816 --> 01:23:24,636
+This song's got a good groove that I like.
+
+1583
+01:23:25,016 --> 01:23:27,536
+Okay gang, let's take the alphabet lesson.
+
+1584
+01:23:40,440 --> 01:23:40,920
+What's the matter?
+
+1585
+01:23:41,560 --> 01:23:42,320
+Hey, prime watch.
+
+1586
+01:23:52,248 --> 01:23:53,268
+Hours to care for.
+
+1587
+01:24:11,632 --> 01:24:14,112
+It's dangerous cross out the light.
+
+1588
+01:24:14,112 --> 01:24:18,132
+J walk exclamation point don't parentheses.
+
+1589
+01:24:18,132 --> 01:24:18,892
+L
+
+1590
+01:24:18,892 --> 01:24:22,492
+And then when it comes back here I really like the group again.
+
+1591
+01:24:26,032 --> 01:24:29,232
+McGrath the crime dog, join with his team.
+
+1592
+01:24:30,012 --> 01:24:31,012
+N
+
+1593
+01:24:31,012 --> 01:24:34,032
+Neighborhood, keep yours crime free and clean.
+
+1594
+01:24:34,252 --> 01:24:34,852
+O
+
+1595
+01:24:34,852 --> 01:24:35,692
+Help S
+
+1596
+01:24:35,692 --> 01:24:36,892
+Skip to the end of the alphabet.
+
+1597
+01:24:38,892 --> 01:24:42,572
+Prevention, youth patrols are a helpful tool.
+
+1598
+01:24:42,792 --> 01:24:43,692
+Q
+
+1599
+01:24:43,692 --> 01:24:44,632
+Youth patrols.
+
+1600
+01:24:44,872 --> 01:24:46,052
+Ask them so you'll learn all about youth.
+
+1601
+01:24:50,200 --> 01:24:50,960
+I'm gonna touch.
+
+1602
+01:24:51,140 --> 01:24:51,820
+S.
+
+1603
+01:24:52,180 --> 01:24:55,120
+Shoplifting, it's not yours unless you pay.
+
+1604
+01:24:55,280 --> 01:24:55,740
+D.
+
+1605
+01:24:56,500 --> 01:24:59,360
+Telephone, down that one one when you need aid.
+
+1606
+01:24:59,380 --> 01:24:59,880
+U.
+
+1607
+01:25:00,080 --> 01:25:01,620
+Users are losers.
+
+1608
+01:25:02,220 --> 01:25:03,380
+Winners know that's true.
+
+1609
+01:25:03,380 --> 01:25:04,200
+Fuck, wait, wait, wait, here we go.
+
+1610
+01:25:04,700 --> 01:25:07,700
+Volunteer, there is so much you can do.
+
+1611
+01:25:07,820 --> 01:25:08,320
+W.
+
+1612
+01:25:08,980 --> 01:25:12,040
+Watch out, how about you've heard him say it?
+
+1613
+01:25:12,040 --> 01:25:12,740
+X.
+
+1614
+01:25:13,220 --> 01:25:13,560
+Xylophone.
+
+1615
+01:25:13,600 --> 01:25:14,400
+Xylophone.
+
+1616
+01:25:14,860 --> 01:25:16,260
+Yeah, he can play it.
+
+1617
+01:25:17,300 --> 01:25:18,160
+Fuck off.
+
+1618
+01:25:18,540 --> 01:25:19,420
+No, no, no.
+
+1619
+01:25:20,260 --> 01:25:20,760
+U.
+
+1620
+01:25:21,060 --> 01:25:23,460
+The key to all we sung today.
+
+1621
+01:25:23,740 --> 01:25:24,200
+Z.
+
+1622
+01:25:24,360 --> 01:25:26,480
+Zap our song and son, let's go and play.
+
+1623
+01:25:28,100 --> 01:25:30,980
+You kids are pretty good, that's great, I need to say.
+
+1624
+01:25:31,620 --> 01:25:34,960
+So that's certainly more what you would think
+
+1625
+01:25:34,960 --> 01:25:36,380
+a McGruff album would be.
+
+1626
+01:25:36,420 --> 01:25:39,000
+A lot of things to be fearful of,
+
+1627
+01:25:39,080 --> 01:25:41,460
+like a lot of things I worried about as a kid,
+
+1628
+01:25:41,640 --> 01:25:44,500
+strangers, home invasion, fire drills.
+
+1629
+01:25:44,740 --> 01:25:45,380
+But I do think-
+
+1630
+01:25:45,380 --> 01:25:46,280
+Being asked to play a xylophone.
+
+1631
+01:25:46,280 --> 01:25:47,600
+Being asked to play a xylophone.
+
+1632
+01:25:47,600 --> 01:25:49,340
+That beat is very Ariel Pink.
+
+1633
+01:25:49,900 --> 01:25:51,320
+That beat alone without the kids,
+
+1634
+01:25:51,340 --> 01:25:53,080
+I think is a cool little groove.
+
+1635
+01:25:53,460 --> 01:25:53,760
+Yeah.
+
+1636
+01:25:53,960 --> 01:25:56,000
+But then the kids obviously take it down
+
+1637
+01:25:56,000 --> 01:25:57,540
+because it's like a child song.
+
+1638
+01:25:57,840 --> 01:26:01,180
+The other novelty song that was played at my wedding
+
+1639
+01:26:01,180 --> 01:26:03,820
+was a boy band song that I made at Funny or Die
+
+1640
+01:26:03,820 --> 01:26:05,760
+with Nick Kurosi and Charles Ingram.
+
+1641
+01:26:06,880 --> 01:26:08,480
+Those are the two oddity requests.
+
+1642
+01:26:09,000 --> 01:26:10,580
+And it has like a little rap part,
+
+1643
+01:26:10,720 --> 01:26:12,040
+like boy band songs might have had.
+
+1644
+01:26:12,220 --> 01:26:14,900
+And it has the exact beat where there's an x
+
+1645
+01:26:14,900 --> 01:26:16,620
+and you don't know what to say for it.
+
+1646
+01:26:16,700 --> 01:26:18,640
+X is for the xylophone.
+
+1647
+01:26:18,860 --> 01:26:19,060
+Yeah.
+
+1648
+01:26:19,280 --> 01:26:20,580
+There's a joke of,
+
+1649
+01:26:20,840 --> 01:26:23,160
+this is a little tossed off joke,
+
+1650
+01:26:23,460 --> 01:26:24,700
+it's something I made.
+
+1651
+01:26:25,260 --> 01:26:28,380
+And then he does it, that is how he handles x for real.
+
+1652
+01:26:28,660 --> 01:26:30,000
+Yeah, we can play it.
+
+1653
+01:26:30,220 --> 01:26:32,080
+Do do do do do do do do do do do do do do do do do do do do.
+
+1654
+01:26:32,080 --> 01:26:35,100
+X is for Xander Cage, he protects us.
+
+1655
+01:26:35,580 --> 01:26:38,840
+I just realized we have to play two more songs, sorry.
+
+1656
+01:26:39,860 --> 01:26:40,020
+Okay.
+
+1657
+01:26:40,620 --> 01:26:41,840
+I don't know what-
+
+1658
+01:26:41,840 --> 01:26:44,180
+That at least had a variety of topic matter.
+
+1659
+01:26:44,400 --> 01:26:44,800
+Yes.
+
+1660
+01:26:45,060 --> 01:26:45,780
+Not just drugs.
+
+1661
+01:26:45,780 --> 01:26:48,520
+And this album does have different topics.
+
+1662
+01:26:48,900 --> 01:26:51,900
+Now this song is so goddamn confusing.
+
+1663
+01:26:52,460 --> 01:26:53,800
+And I will just say the name of it
+
+1664
+01:26:53,800 --> 01:26:55,380
+and we will try to figure it out.
+
+1665
+01:26:55,540 --> 01:26:57,800
+It is called Who Has Zards?
+
+1666
+01:26:58,020 --> 01:27:00,080
+Z-A-R-D-S.
+
+1667
+01:27:07,384 --> 01:27:14,704
+They're stinky, they're sly, they lurk in neighborhood.
+
+1668
+01:27:20,280 --> 01:27:23,720
+This feels problematic already.
+
+1669
+01:27:59,740 --> 01:28:01,740
+Yeah, creepy.
+
+1670
+01:28:09,020 --> 01:28:11,600
+This is kind of like Octopus's garden.
+
+1671
+01:28:16,580 --> 01:28:17,020
+Yeah.
+
+1672
+01:28:11,880 --> 01:28:21,280
+It's a Zard. I have no idea. I don't know this term.
+
+1673
+01:28:22,920 --> 01:28:27,660
+I should look it up. I think this would have to be a slow down Aerial Pack thing too.
+
+1674
+01:28:39,160 --> 01:28:42,980
+Also very experimental because it just switches before it's like...
+
+1675
+01:28:42,980 --> 01:28:46,940
+This album is more experimental than the other one. I believe.
+
+1676
+01:28:47,480 --> 01:28:49,980
+Sweets.
+
+1677
+01:28:51,980 --> 01:28:54,080
+Predator. I think they're talking about Predator.
+
+1678
+01:28:54,940 --> 01:28:57,840
+Zard is not a term anyone has ever used.
+
+1679
+01:28:58,700 --> 01:29:05,260
+Or used since...
+
+1680
+01:29:05,260 --> 01:29:14,760
+It's like Slender Man. It sounds like they're warning about the dangers of Slender Man.
+
+1681
+01:29:15,040 --> 01:29:22,280
+Yeah, you get the gist of it. Zards. I don't know if that was a term maybe he was trying to get to take off and then somebody was like,
+
+1682
+01:29:22,360 --> 01:29:24,900
+That's confusing. Why would you say that in a PSA?
+
+1683
+01:29:25,380 --> 01:29:32,620
+Officer, a Zard is after me. Okay, kid. All right, you move it along. We need... there's people here with real problems.
+
+1684
+01:29:32,820 --> 01:29:34,580
+Goes back out police station.
+
+1685
+01:29:35,000 --> 01:29:37,500
+This kid is captured by Zard instantly.
+
+1686
+01:29:39,140 --> 01:29:42,860
+He's like on the phone, Mom, there's a Zard has got me. What are you talking about? A Zard.
+
+1687
+01:29:43,060 --> 01:29:46,400
+You're very creative, aren't you honey? I'll see you for dinner.
+
+1688
+01:29:46,420 --> 01:29:49,580
+You're just calling from Brian's house obviously. You're watching one of your little shows.
+
+1689
+01:29:49,760 --> 01:29:55,040
+Let's find you someone trustworthy to get you home like a wrestling coach or a priest.
+
+1690
+01:29:55,040 --> 01:30:01,340
+Always trust a priest. Always trust a wrestling coach, Congressman.
+
+1691
+01:30:03,280 --> 01:30:10,200
+This actually leads in to track seven. Strangers Don't Look Strange.
+
+1692
+01:30:11,280 --> 01:30:14,020
+And it's a similar... Some of them do. Some of them do.
+
+1693
+01:30:14,020 --> 01:30:22,260
+This song spells it out for you and it's a lot of kids singing. So again, it's not nearly as good as the other album song, but it is... you'll hear.
+
+1694
+01:30:23,540 --> 01:30:26,100
+Hi kids. Hi, McGruff.
+
+1695
+01:30:26,520 --> 01:30:32,000
+I think the toughest job for me and for your parents is teaching kids to stay away from strangers.
+
+1696
+01:30:32,820 --> 01:30:40,100
+Strangers aren't people who look strange or dangerous. A stranger is anyone your family doesn't know real well.
+
+1697
+01:30:40,100 --> 01:30:48,800
+If a person has never been to your house for dinner, that's a stranger. If you don't know his kids or where he lives, that's a stranger.
+
+1698
+01:30:49,700 --> 01:30:58,440
+Even people you think you know can really be strangers. Let me ask you about different people and you tell me whether they're strangers or not.
+
+1699
+01:30:58,940 --> 01:31:00,260
+How about the mail carrier?
+
+1700
+01:31:01,140 --> 01:31:07,160
+I've known him a long, long time, but I guess he's really a stranger. I don't even know where he lives.
+
+1701
+01:31:07,760 --> 01:31:11,120
+Right. How about the school crossing guard?
+
+1702
+01:31:11,500 --> 01:31:16,020
+He's really nice and he helps us. But he's not a good friend of my family.
+
+1703
+01:31:16,400 --> 01:31:18,120
+These people you see every day?
+
+1704
+01:31:18,300 --> 01:31:22,540
+Yes he is. How about the woman who works in the ice cream store?
+
+1705
+01:31:22,680 --> 01:31:23,360
+Oh Jason, that's a friend.
+
+1706
+01:31:23,360 --> 01:31:26,540
+She's never been to our house for dinner. So she's a stranger.
+
+1707
+01:31:27,100 --> 01:31:30,800
+She sure is. Is the school bus driver a stranger?
+
+1708
+01:31:31,060 --> 01:31:37,460
+I see him every day. He knows my name, but my family doesn't know him. He's a stranger.
+
+1709
+01:31:37,820 --> 01:31:39,320
+Yep, he's a stranger.
+
+1710
+01:31:39,520 --> 01:31:39,900
+These kids are good.
+
+1711
+01:31:40,080 --> 01:31:41,280
+Is your uncle a stranger?
+
+1712
+01:31:41,960 --> 01:31:44,880
+I don't see him every day, but he's not a stranger.
+
+1713
+01:31:45,420 --> 01:31:46,400
+No, he's not.
+
+1714
+01:31:46,560 --> 01:31:49,040
+Sorry we had to do this quiz. I have a kid.
+
+1715
+01:31:49,440 --> 01:31:51,800
+I've been evicted from my office.
+
+1716
+01:31:51,800 --> 01:31:56,880
+You can't talk to strangers because you only have to talk to the wrong one once to be in real trouble.
+
+1717
+01:31:57,260 --> 01:32:03,080
+Grown-ups know better than to try to talk with kids. So when you don't talk to a stranger, don't worry about it.
+
+1718
+01:32:03,120 --> 01:32:04,260
+It's not bad manners.
+
+1719
+01:32:04,260 --> 01:32:04,700
+You mean you don't what?
+
+1720
+01:32:04,760 --> 01:32:05,720
+It's good sense.
+
+1721
+01:32:06,100 --> 01:32:06,840
+Alright, here we go.
+
+1722
+01:32:07,020 --> 01:32:10,500
+There are people coming to this country who don't come from here.
+
+1723
+01:32:10,920 --> 01:32:12,540
+They're not sending their vets.
+
+1724
+01:32:14,400 --> 01:32:22,180
+Jesus.
+
+1725
+01:32:23,260 --> 01:32:25,340
+It's like from Labyrinth or something.
+
+1726
+01:32:26,100 --> 01:32:27,880
+Strangers look well dressed and clean.
+
+1727
+01:32:55,340 --> 01:32:56,760
+Just a bad Jesus.
+
+1728
+01:32:57,480 --> 01:32:58,840
+It's a nightmare song.
+
+1729
+01:33:15,064 --> 01:33:21,864
+What do you do about strangers? Stay away from them. Don't look at them. Don't walk near them and don't talk to them.
+
+1730
+01:33:22,404 --> 01:33:28,384
+If a stranger talks to you, don't answer. Just keep walking. If a stranger gets near you, grunt.
+
+1731
+01:33:28,704 --> 01:33:33,124
+If a stranger follows you, run someplace safe and yell.
+
+1732
+01:33:35,824 --> 01:33:39,404
+Everyone is a threat. The suburbs are a hell.
+
+1733
+01:33:40,024 --> 01:33:46,944
+At the end of the song is, and yell. I wish it had echoed. And yell, yell, yell, yell.
+
+1734
+01:33:47,044 --> 01:33:49,864
+Yeah. Well, we can make that change.
+
+1735
+01:33:50,084 --> 01:33:51,784
+We can remix this thing.
+
+1736
+01:33:52,024 --> 01:33:56,344
+Yeah. So I was interested that you, do you believe that the crossing guard is not a stranger?
+
+1737
+01:33:57,464 --> 01:34:01,544
+It depends. I feel like, you know, I was...
+
+1738
+01:34:01,544 --> 01:34:05,764
+You were upset with their classification of those people at the start as strangers.
+
+1739
+01:34:06,504 --> 01:34:11,744
+My mom would talk to like cross... Like there were like, not a lot of crossing guards because we were
+
+1740
+01:34:11,744 --> 01:34:17,764
+in like suburban sprawl. So there wasn't, it was far to walk anywhere. But the bus drivers, my mom,
+
+1741
+01:34:17,904 --> 01:34:24,964
+like all knew. But I'm saying even if, McGruff's lesson is you see the crossing guard every day.
+
+1742
+01:34:25,004 --> 01:34:28,424
+You say, hello, he seems perfectly nice. But if the crossing guard comes up to you and goes, hey,
+
+1743
+01:34:28,444 --> 01:34:32,524
+you want to come over to my house? You tell your kid, don't go to the house. He's a stranger.
+
+1744
+01:34:32,624 --> 01:34:36,384
+Yeah. You learn. I'm just trying to explain McGruff's message.
+
+1745
+01:34:36,404 --> 01:34:43,404
+But it is reinforcing like the world, you know, it sounds like the fucking water world of like,
+
+1746
+01:34:43,404 --> 01:34:48,624
+the world, dry land is gone. The world is covered. The oceans have taken back the planet.
+
+1747
+01:34:49,144 --> 01:34:50,804
+The suburbs are a war zone.
+
+1748
+01:34:50,904 --> 01:34:56,564
+I agree that my mother's raised me and I was too sheltered, but I think McGruff's lesson is good
+
+1749
+01:34:56,824 --> 01:35:02,044
+here. I think it's an important distinction to make that the crossing guard is friendly,
+
+1750
+01:35:02,044 --> 01:35:07,684
+but don't go with him. You've done every bit. We don't go to his house. He could be a secret
+
+1751
+01:35:07,684 --> 01:35:11,584
+pedophile. Well, I think they are, I mean, nowadays, certainly it's like I'm friends on
+
+1752
+01:35:11,584 --> 01:35:16,864
+the internet or like I know them from Fortnite. It's like, well, okay. The internet is not.
+
+1753
+01:35:17,424 --> 01:35:25,184
+I think it's a weird message to convey via this like soaring, frightening song.
+
+1754
+01:35:26,404 --> 01:35:30,584
+I guess. This like, I'm trying to think what that it's, I don't know. It's like a scary,
+
+1755
+01:35:30,744 --> 01:35:35,764
+like it's like a tears for fears outtake. It's like really big and echoey and frightening.
+
+1756
+01:35:36,824 --> 01:35:42,624
+It certainly is. I'm just saying McGruff is spot on with this message. I think it is a good little
+
+1757
+01:35:42,624 --> 01:35:49,084
+distinction to make, but what a strange thing to do. Oh, it's bizarre. It's terrifying. And
+
+1758
+01:35:49,084 --> 01:35:53,504
+I was just scared of everyone. Yeah. Well, that's fair. That's good. I mean,
+
+1759
+01:35:53,504 --> 01:35:58,224
+that's better than the other raised your right. Yeah. Be afraid of everyone. Don't trust me. Be
+
+1760
+01:35:58,224 --> 01:36:04,264
+afraid of this tape. In fact, trust the people on Nick at night. They're all long dead. They can't
+
+1761
+01:36:04,264 --> 01:36:15,784
+hurt you. Maury Amsterdam. Get into a van. Oh, Maury. It's not the first time he's come up on the
+
+1762
+01:36:15,784 --> 01:36:20,804
+podcast. I don't think Maury Amsterdam. All right. So there are, I'll list the names of the songs.
+
+1763
+01:36:20,804 --> 01:36:24,964
+You guys can listen to them in your own time. We will dissect them on a different show. I'm sure
+
+1764
+01:36:24,964 --> 01:36:32,304
+number two, anger. Number three, little bit of litter. Number five, cool rules. Number six,
+
+1765
+01:36:32,544 --> 01:36:37,464
+buddies. And then the last track is number eight, unique about, which is a very similar,
+
+1766
+01:36:37,664 --> 01:36:42,684
+like send them off with a good feeling about themselves kind of a message. So, but I think
+
+1767
+01:36:42,684 --> 01:36:49,264
+you're closed with the right one. That felt like the album closer. Yes. That's like this like
+
+1768
+01:36:50,224 --> 01:36:57,424
+unsettling notes that echoes out. And then with the word yell and a scary drone after a bunch of
+
+1769
+01:36:57,424 --> 01:37:03,804
+like, all the songs have had kids, but that was a frightening kid. Oh yeah. And I, yeah. And I think
+
+1770
+01:37:03,804 --> 01:37:08,184
+it's good. I liked that McGruff was experimenting on the second. I liked that he didn't just rest
+
+1771
+01:37:08,184 --> 01:37:13,384
+on his laurels and do the same song type of stuff he did, you know, cause so many artists do that
+
+1772
+01:37:13,384 --> 01:37:17,964
+and they just go back to the well. McGruff was taking a risk there. That's not, nothing on the
+
+1773
+01:37:17,964 --> 01:37:23,164
+first album sounds like that. Yeah. Well, McGruff's always been about shaking the box, even within an
+
+1774
+01:37:23,164 --> 01:37:27,764
+individual McGruff album. He's covering a lot of territory and that's what I'm impressed with.
+
+1775
+01:37:27,764 --> 01:37:33,384
+Having surveyed this whole thing. Yeah. Look, he made that the last song was almost like industrial
+
+1776
+01:37:33,384 --> 01:37:40,764
+or something after a bunch of, you know, kind of a sort of Marimba Miami sound machine kind of like.
+
+1777
+01:37:41,084 --> 01:37:46,264
+It's like McGruff's tin machine, David Bowie's tin machine. You know, they was trying something,
+
+1778
+01:37:47,144 --> 01:37:51,184
+trying to do the 90. Like he was trying to get ahead of the curve on a lot of these things. And
+
+1779
+01:37:51,184 --> 01:37:58,584
+if you become friends with soupy sales sons, diverting your successful career to make two albums
+
+1780
+01:37:58,584 --> 01:38:05,424
+with them might not be a good idea. Stay away from the sales boys. If there's later 90 stuff,
+
+1781
+01:38:05,424 --> 01:38:10,044
+I would be interested if there's a song. I don't think there is, but I would love to find.
+
+1782
+01:38:10,304 --> 01:38:15,344
+I am a little, so it's probably a little too early for this, even on the Burger King one,
+
+1783
+01:38:15,484 --> 01:38:22,044
+there's not a, um, I feel like there was a lot of like, I knew about the AIDS crisis,
+
+1784
+01:38:22,044 --> 01:38:27,184
+but I only knew the red ribbon. I feel like we would do a lot of charity fundraisers
+
+1785
+01:38:27,184 --> 01:38:32,664
+for this sort of thing, but net they wouldn't explain to kids what it was. It was just a problem.
+
+1786
+01:38:32,964 --> 01:38:38,464
+Just go sell those pizza kits. So you want a McGruff song explaining AIDS? No, not explaining
+
+1787
+01:38:38,464 --> 01:38:44,084
+the full, the full overview of it, but I feel like I saw a lot of like the AIDS quilt, the AIDS quilt
+
+1788
+01:38:45,404 --> 01:38:54,844
+don't get AIDS. It's really not good for you. Your body, your body is your vessel. So keep AIDS out
+
+1789
+01:38:54,844 --> 01:38:59,624
+of it. But in turn, I just mean in terms of messaging towards children from the early to
+
+1790
+01:38:59,624 --> 01:39:06,284
+mid nineties of like drugs, AIDS, violence, we grew up with a lot of AIDS by 1891. Yeah. Yeah.
+
+1791
+01:39:06,284 --> 01:39:12,044
+Yeah. Post-mess Johnson. I don't know if there's any McGruff sex stuff though. I don't think there's
+
+1792
+01:39:12,284 --> 01:39:17,884
+any. Oh yeah. I mean like first graders understanding of AIDS is a little like it's,
+
+1793
+01:39:18,164 --> 01:39:22,524
+I get it. Like if you're talking to seventh and eighth graders. Yeah. I was the whole thing with
+
+1794
+01:39:22,524 --> 01:39:27,024
+me when I was watching AIDS specials and like a condom demonstration as a kid, I'm like, I don't
+
+1795
+01:39:27,024 --> 01:39:30,504
+know what I'm supposed to do with this. Right. I don't even know what they're talking about.
+
+1796
+01:39:30,604 --> 01:39:34,644
+I was the kid watching it. I mean, six or seven, I guess that's for Google, but they're watching,
+
+1797
+01:39:34,704 --> 01:39:39,544
+they're putting a condom on a banana. I'm like, so what's this all about then? I don't. And I think
+
+1798
+01:39:39,544 --> 01:39:45,284
+I asked my parents and they're like, um, do you want to watch Looney Tunes instead? Yeah.
+
+1799
+01:39:45,284 --> 01:39:48,984
+Let's change the channel. I learned about the human body from Rob Liefeld comics. So it took
+
+1800
+01:39:48,984 --> 01:39:54,544
+me a while to deprogram myself from horrifying nineties, uh, hyper stylized comic book art.
+
+1801
+01:39:54,644 --> 01:39:59,244
+I think we all, as comic fans, we learned a lot about anatomy from the X-Men. Anatomy. Well,
+
+1802
+01:39:59,424 --> 01:40:06,704
+your feet are constantly pointed and you have a lot of belts and pouches. Sure. Well, I think of
+
+1803
+01:40:06,704 --> 01:40:12,584
+a gruff, if there's a, was a further album, he would have tried to get into grunge. Um, I, I,
+
+1804
+01:40:12,584 --> 01:40:15,964
+I found something on the way out the door and I'm just going to have to have you look this up. Do
+
+1805
+01:40:15,964 --> 01:40:20,284
+you know, uh, you'll, you would know what I was talking about already. If there's a gruff grunge
+
+1806
+01:40:20,284 --> 01:40:27,244
+song, maybe continue though. Okay. I'm going to need you to Google sound cloud or is it sound
+
+1807
+01:40:27,244 --> 01:40:33,064
+cloud or is it one of the other? I don't know. Just Google X crime dog X. Oh, I think as one big,
+
+1808
+01:40:33,064 --> 01:40:39,284
+I know what this is. Yeah. Um, the, this is, uh, and the, uh, that's the artist and there is an album
+
+1809
+01:40:39,284 --> 01:40:47,504
+called 1984 through 86. And here's what this is. There is a, like, there is a hardcore band
+
+1810
+01:40:47,504 --> 01:40:56,164
+from the 2000s that made, uh, a couple of EPs and the, and the EPs were called take a bite,
+
+1811
+01:40:56,744 --> 01:41:01,904
+drunk kids can bite it and bark today. What is the song you want? And you know, when those EPs were,
+
+1812
+01:41:01,904 --> 01:41:09,124
+they were all covers of McGruff's smart kids album. Wow. I didn't realize that. Have you found it?
+
+1813
+01:41:09,184 --> 01:41:15,424
+I can help look if you don't. It's either a sound cloud or a, uh, um, what's one of those other X
+
+1814
+01:41:15,424 --> 01:41:22,884
+crime dog X. As soon as you said the phrase hardcore band, I was like, oh, they cover them.
+
+1815
+01:41:23,044 --> 01:41:29,724
+Of course they would have covered it. It's all anti-reagant. Yeah. Yeah. Yeah. Yeah. Oh, wow.
+
+1816
+01:41:31,124 --> 01:41:36,444
+I sampled alcohol. If I have make your body left right here, play whatever you're into. Um, let's
+
+1817
+01:41:36,444 --> 01:41:40,484
+just get it. Oh wow.
+
+1818
+01:41:59,724 --> 01:42:00,884
+Yeah.
+
+1819
+01:42:32,568 --> 01:42:35,008
+I guess I didn't realize that there was actually covers of the songs.
+
+1820
+01:42:35,008 --> 01:42:35,588
+Wow.
+
+1821
+01:42:35,788 --> 01:42:37,168
+That fucking whips.
+
+1822
+01:42:37,168 --> 01:42:37,948
+I like it.
+
+1823
+01:42:38,068 --> 01:42:39,108
+Fucking slaps.
+
+1824
+01:42:39,868 --> 01:42:40,488
+I love it.
+
+1825
+01:42:40,888 --> 01:42:42,508
+They were a hardcore straight edge band.
+
+1826
+01:42:43,008 --> 01:42:45,008
+Okay, I wasn't sure about that element of it.
+
+1827
+01:42:45,008 --> 01:42:45,848
+Also straight edge.
+
+1828
+01:42:46,268 --> 01:42:48,768
+Okay, because that's the thing with like,
+
+1829
+01:42:48,768 --> 01:42:51,268
+I was reading an article that referred to like minor threat
+
+1830
+01:42:51,268 --> 01:42:54,208
+and that was also, I guess a lot of hardcore bands are that.
+
+1831
+01:42:54,508 --> 01:42:57,328
+So it actually weirdly, the messages are,
+
+1832
+01:42:57,568 --> 01:43:00,548
+they are conveying the McGruff messages.
+
+1833
+01:43:00,588 --> 01:43:02,268
+Right, so they like the message.
+
+1834
+01:43:02,268 --> 01:43:05,948
+Yeah, in some way, but there's also, it's, they're not the only,
+
+1835
+01:43:05,948 --> 01:43:09,428
+this is not the only time that McGruff and punk have collided
+
+1836
+01:43:09,428 --> 01:43:14,728
+because there is a McGruff song by Jello, by Afra and the Melvins,
+
+1837
+01:43:14,728 --> 01:43:22,948
+which I don't know offhand, but so McGruff has inspired musicians of all genres.
+
+1838
+01:43:23,088 --> 01:43:23,948
+Well, maybe one genre.
+
+1839
+01:43:23,968 --> 01:43:25,448
+This is the Melvins song.
+
+1840
+01:43:25,748 --> 01:43:27,168
+Let's hear it.
+
+1841
+01:43:32,268 --> 01:43:32,488
+So
+
+1842
+01:44:12,312 --> 01:44:14,172
+I'm a savior of heart.
+
+1843
+01:44:45,464 --> 01:44:46,504
+I mean, you get the idea.
+
+1844
+01:44:46,744 --> 01:44:46,884
+Yeah.
+
+1845
+01:44:47,044 --> 01:44:47,764
+I don't know if I do.
+
+1846
+01:44:47,904 --> 01:44:50,084
+I don't know where you got it in.
+
+1847
+01:44:50,084 --> 01:44:52,064
+Inspires everyone, I think.
+
+1848
+01:44:52,244 --> 01:44:55,344
+I just yeah, I just love that that that
+
+1849
+01:44:55,344 --> 01:44:58,044
+McGruff's musical reach has been pretty far.
+
+1850
+01:44:58,064 --> 01:44:58,524
+Yeah.
+
+1851
+01:44:58,584 --> 01:45:00,004
+But let's keep it up.
+
+1852
+01:45:00,324 --> 01:45:04,204
+The more more more more covers, I think, with I really do,
+
+1853
+01:45:04,444 --> 01:45:10,064
+especially with that, that that's we're asking for that to be
+
+1854
+01:45:10,064 --> 01:45:13,704
+brought into current that like churches should be playing that
+
+1855
+01:45:13,884 --> 01:45:16,684
+we should close a lot our live shows with that.
+
+1856
+01:45:17,104 --> 01:45:18,664
+Maybe I would like more noise.
+
+1857
+01:45:18,664 --> 01:45:22,224
+Yeah, I would love like fucked up or Titus Andronicus or Monster
+
+1858
+01:45:22,224 --> 01:45:24,524
+Magnet or something to do some McGruff covers.
+
+1859
+01:45:25,584 --> 01:45:30,424
+Yeah, I challenge any artist worth their.
+
+1860
+01:45:30,604 --> 01:45:34,524
+We have a couple of musician listeners, I feel like that are in
+
+1861
+01:45:34,524 --> 01:45:35,064
+bands.
+
+1862
+01:45:35,904 --> 01:45:38,884
+I don't know if they're on Patreon yet, but they should challenge
+
+1863
+01:45:38,884 --> 01:45:41,944
+whoever if you're in a band, we challenge you.
+
+1864
+01:45:41,964 --> 01:45:42,524
+Take your pick.
+
+1865
+01:45:42,624 --> 01:45:43,104
+Yeah.
+
+1866
+01:45:43,104 --> 01:45:46,124
+I mean, though, obviously, I would love to hear some real I want
+
+1867
+01:45:46,124 --> 01:45:48,204
+to hear that extended alcohol jam.
+
+1868
+01:45:48,444 --> 01:45:52,124
+Yeah, but but we may have to do it also.
+
+1869
+01:45:52,144 --> 01:45:52,964
+So sure.
+
+1870
+01:45:53,124 --> 01:45:53,484
+Great.
+
+1871
+01:45:53,644 --> 01:45:55,184
+We may have to do the full tribute.
+
+1872
+01:45:55,264 --> 01:45:59,104
+We're also going to have to like, you know, study jazz fusion for
+
+1873
+01:45:59,104 --> 01:46:02,024
+a while to like get up to get the musicality up.
+
+1874
+01:46:02,024 --> 01:46:02,524
+That's fair.
+
+1875
+01:46:02,744 --> 01:46:03,344
+That's some tough.
+
+1876
+01:46:03,504 --> 01:46:06,044
+That's some tough noodling he's doing there.
+
+1877
+01:46:06,084 --> 01:46:06,664
+Yeah, that's true.
+
+1878
+01:46:06,744 --> 01:46:08,424
+McGruff himself, who I assume.
+
+1879
+01:46:09,024 --> 01:46:09,264
+Right.
+
+1880
+01:46:09,544 --> 01:46:12,324
+I'm going to have to practice standing on the other side of a
+
+1881
+01:46:12,444 --> 01:46:16,444
+recording booth, smoking and nodding my head a couple of years ago.
+
+1882
+01:46:16,444 --> 01:46:20,064
+A couple of years ago for my birthday, I just got it.
+
+1883
+01:46:20,284 --> 01:46:23,824
+I rented a rehearsal room and we just like played songs and everyone
+
+1884
+01:46:23,824 --> 01:46:25,344
+would switch off playing instruments or whatever.
+
+1885
+01:46:25,724 --> 01:46:29,564
+Maybe this birthday we do a similar thing, but it's all McGruff songs.
+
+1886
+01:46:29,924 --> 01:46:32,324
+We're going to have to figure out the Lord and all the McGruff songs
+
+1887
+01:46:32,324 --> 01:46:33,064
+and play them.
+
+1888
+01:46:33,084 --> 01:46:36,384
+We have to learn how it we have to learn the charts on this thing.
+
+1889
+01:46:36,384 --> 01:46:37,104
+Well, we'll see.
+
+1890
+01:46:37,184 --> 01:46:38,444
+Well, you know, it's a lot to think about.
+
+1891
+01:46:38,444 --> 01:46:38,924
+We've gone.
+
+1892
+01:46:38,964 --> 01:46:42,044
+This is now we're almost to our in 50 minutes.
+
+1893
+01:46:42,044 --> 01:46:42,464
+Wow.
+
+1894
+01:46:42,584 --> 01:46:42,904
+All right.
+
+1895
+01:46:42,964 --> 01:46:44,304
+Well, let's get let's get out of here.
+
+1896
+01:46:44,304 --> 01:46:45,104
+Get out of here now.
+
+1897
+01:46:45,144 --> 01:46:49,444
+But that was, you know, with it with two entire albums to review.
+
+1898
+01:46:49,524 --> 01:46:51,384
+Yeah, it was bound to happen.
+
+1899
+01:46:52,004 --> 01:46:54,664
+Hey, everybody involved in this, these albums.
+
+1900
+01:46:54,924 --> 01:46:55,604
+Great job.
+
+1901
+01:46:56,044 --> 01:46:57,864
+Musicians out of the world.
+
+1902
+01:46:57,964 --> 01:46:59,124
+Step it up.
+
+1903
+01:46:59,264 --> 01:47:05,344
+Let McGruff's confusing messages rain and new songs inspired by his met, you
+
+1904
+01:47:05,344 --> 01:47:09,524
+know, songs about like making sure you're thrown or disposing of old light bulbs
+
+1905
+01:47:10,644 --> 01:47:14,504
+properly or, you know, finding proper recycle centers.
+
+1906
+01:47:14,624 --> 01:47:16,264
+Vaping is addictive.
+
+1907
+01:47:17,104 --> 01:47:22,644
+Just because it is candy or tastes like candy.
+
+1908
+01:47:23,384 --> 01:47:24,724
+Don't do chew.
+
+1909
+01:47:25,404 --> 01:47:31,044
+It's not it's not as relevant as it was, was, but still don't chew.
+
+1910
+01:47:31,444 --> 01:47:32,164
+Don't do Jason.
+
+1911
+01:47:32,264 --> 01:47:34,664
+Those Disney pins on Amazon are counterfeit.
+
+1912
+01:47:34,864 --> 01:47:38,564
+Don't you dare think about ordering them and trying to trade them.
+
+1913
+01:47:38,564 --> 01:47:39,424
+Scrapper pins.
+
+1914
+01:47:39,424 --> 01:47:43,084
+The German people are really upset with you online when you said that you could
+
+1915
+01:47:43,084 --> 01:47:44,764
+buy Disney on Amazon.
+
+1916
+01:47:45,284 --> 01:47:46,784
+Oh, really?
+
+1917
+01:47:46,964 --> 01:47:47,604
+Yeah, that's real.
+
+1918
+01:47:47,624 --> 01:47:48,444
+Well, I guess.
+
+1919
+01:47:48,624 --> 01:47:51,504
+And you know, I got this from other Disney blogs like that.
+
+1920
+01:47:51,564 --> 01:47:54,584
+You can buy bulk pins online and then use them to trade.
+
+1921
+01:47:55,064 --> 01:47:58,844
+But that's how then these scrapper pins get into circulation.
+
+1922
+01:47:58,964 --> 01:48:02,804
+I've been working with the Chicago Police Department to bring in.
+
+1923
+01:48:02,864 --> 01:48:03,744
+Yeah, it's counterfeit.
+
+1924
+01:48:05,724 --> 01:48:06,324
+Fakes.
+
+1925
+01:48:06,464 --> 01:48:09,884
+Fake pins will soon have harsher punishments than child
+
+1926
+01:48:09,884 --> 01:48:12,064
+trafficking, as it should be.
+
+1927
+01:48:12,244 --> 01:48:14,124
+McGruff doing a sting with fake pins.
+
+1928
+01:48:14,164 --> 01:48:16,684
+He's got like one of those pin badges on for the Disney.
+
+1929
+01:48:17,024 --> 01:48:19,024
+Yeah, I mean, I don't rest, pal.
+
+1930
+01:48:19,524 --> 01:48:23,624
+I don't I don't want collectors to take a wash on that.
+
+1931
+01:48:24,004 --> 01:48:28,464
+The I don't particularly care about the line item on Disney's budget sheet about
+
+1932
+01:48:28,464 --> 01:48:31,784
+like, oh, we lost thousands of dollars to fake pins.
+
+1933
+01:48:31,784 --> 01:48:34,124
+Like, oh, I'm not exactly sympathetic.
+
+1934
+01:48:34,124 --> 01:48:36,024
+I'll try to spin your way out of this one, pal.
+
+1935
+01:48:36,164 --> 01:48:37,144
+You were wrong.
+
+1936
+01:48:37,424 --> 01:48:41,604
+All right, let's get out of here.
+
+1937
+01:48:41,624 --> 01:48:42,344
+Yeah, yeah.
+
+1938
+01:48:42,344 --> 01:48:43,264
+This needs to be done.
+
+1939
+01:48:43,444 --> 01:48:43,704
+All right.
+
+1940
+01:48:43,764 --> 01:48:44,704
+You survive.
+
+1941
+01:48:44,704 --> 01:48:45,444
+You'll survive.
+
+1942
+01:48:45,824 --> 01:48:46,124
+You'll survive.
+
+1943
+01:48:46,404 --> 01:48:46,744
+You'll survive.
+
+1944
+01:48:47,124 --> 01:48:47,184
+You'll survive.
+
+1945
+01:48:48,524 --> 01:48:52,184
+If there's a podcast you love, make sure you're supporting it.
+
+1946
+01:48:52,344 --> 01:48:53,304
+It helps them.
+
+1947
+01:48:53,644 --> 01:48:56,624
+It helps them with the infrastructure they need.
+
+1948
+01:48:56,624 --> 01:48:58,904
+Yeah, like a wire splitter they had to start using.
+
+1949
+01:48:59,324 --> 01:49:01,764
+So because they have headphones, they needed black.
+
+1950
+01:49:01,764 --> 01:49:02,884
+Listen to my songs.
+
+1951
+01:49:03,004 --> 01:49:04,504
+There's chords everywhere.
+
+1952
+01:49:04,504 --> 01:49:05,484
+I like what you hear.
+
+1953
+01:49:05,564 --> 01:49:07,144
+Tell your friend about it.
+
+1954
+01:49:07,204 --> 01:49:11,424
+They'd want to hear a two hour long podcast about a 35 year old album
+
+1955
+01:49:11,424 --> 01:49:13,764
+that almost no one has ever heard.
+
+1956
+01:49:13,764 --> 01:49:17,264
+Five dollars a month for this content.
+
+1957
+01:49:17,764 --> 01:49:20,524
+A hell of a deal and much cheaper than drugs.
+
+1958
+01:49:21,624 --> 01:49:24,164
+My voice is starting to go with it.
+
+1959
+01:49:24,164 --> 01:49:24,804
+Yeah, yeah, I heard.
+
+1960
+01:49:25,144 --> 01:49:25,844
+Let's bail.
+
+1961
+01:49:25,944 --> 01:49:27,664
+Let's get the hell out of here.
+
+1962
+01:49:27,784 --> 01:49:29,324
+Treat your vocal cords right.
+
+1963
+01:49:29,564 --> 01:49:30,664
+Thanks for listening.
+
+1964
+01:49:31,984 --> 01:49:37,524
+Using crack and cocaine to get high.
+
+1965
+01:49:38,084 --> 01:49:40,144
+That's what you say.
+
+1966
+01:49:41,264 --> 01:49:41,484
+No.
+
+1967
+01:49:42,824 --> 01:49:44,984
+But it's really insane.
+
+1968
+01:49:46,244 --> 01:49:47,684
+You could die.
+
+1969
+01:49:48,244 --> 01:49:52,104
+What are you thinking of?
+
+1970
+01:49:54,604 --> 01:49:59,244
+Because nobody's needing that crack and cocaine.
+
+1971
+01:49:59,244 --> 01:50:04,844
+There's terrible trouble behind it.
+
+1972
+01:50:05,104 --> 01:50:09,804
+And sooner or later you burn in your brain,
+
+1973
+01:50:10,644 --> 01:50:14,484
+making a mess of your mind.
+

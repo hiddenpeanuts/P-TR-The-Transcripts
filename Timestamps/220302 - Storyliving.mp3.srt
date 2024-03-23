@@ -1,0 +1,4012 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:05,000 --> 00:00:26,000
+Welcome to Podcast the Ride, the second gate, the only Patreon podcast feed that helps you
+
+3
+00:00:26,000 --> 00:00:29,400
+compose the next chapter in the story of your life.
+
+4
+00:00:29,400 --> 00:00:32,400
+I'm Jason Sheridan, joined as always by Mike Carlson.
+
+5
+00:00:32,400 --> 00:00:36,400
+Hi, yes, I'm Mike Carlson and I'm a purveyor of stories.
+
+6
+00:00:36,400 --> 00:00:39,400
+I feel that stories help shape us and I'm trying to mold.
+
+7
+00:00:39,400 --> 00:00:43,400
+I'm actually, you know what, I'm going to use a copy off of a Disney website to say
+
+8
+00:00:43,400 --> 00:00:48,400
+that here at Podcast the Ride, we want to inspire a better world through the power of
+
+9
+00:00:48,400 --> 00:00:49,400
+stories.
+
+10
+00:00:49,400 --> 00:00:53,400
+And I just want to say that I believe that and you're welcome, everyone.
+
+11
+00:00:53,400 --> 00:00:56,400
+Scott Garner, what do you think about stories?
+
+12
+00:00:56,400 --> 00:01:01,400
+Welcome to a podcast where you can live your life to the fullest and truly take pride in
+
+13
+00:01:01,400 --> 00:01:04,400
+every new episode to come.
+
+14
+00:01:04,400 --> 00:01:07,400
+Now, that didn't answer your question about stories.
+
+15
+00:01:07,400 --> 00:01:09,400
+And stories, well, I don't know.
+
+16
+00:01:09,400 --> 00:01:12,400
+Of course, I'm all about storytelling and I always have been.
+
+17
+00:01:12,400 --> 00:01:17,400
+Each episode of the show is a new chapter in a podcast and in our lives.
+
+18
+00:01:17,400 --> 00:01:21,400
+And I love, it's my honor to tell stories with you two.
+
+19
+00:01:21,400 --> 00:01:22,400
+Thank you.
+
+20
+00:01:22,400 --> 00:01:27,400
+I also want to say it's an honor as well, but I also want to say that the stories we
+
+21
+00:01:27,400 --> 00:01:31,400
+tell and specifically the stories about like Jason eating a hot dog are making the world
+
+22
+00:01:31,400 --> 00:01:32,400
+a better place.
+
+23
+00:01:32,400 --> 00:01:36,400
+You know, so that's what I like to think of when we're putting it out there.
+
+24
+00:01:36,400 --> 00:01:40,400
+We're kind of doing like really great work for the world.
+
+25
+00:01:40,400 --> 00:01:49,400
+I don't want to call our storytelling legendary, but you know, how else do you, I'm just
+
+26
+00:01:49,400 --> 00:01:52,400
+vocalizing what I'm sure our listeners are always thinking.
+
+27
+00:01:52,400 --> 00:01:53,400
+Yeah, that's true.
+
+28
+00:01:53,400 --> 00:01:54,400
+Yeah.
+
+29
+00:01:54,400 --> 00:01:58,400
+When we told the story about the Jason running off of the Mark Twain to get that Sunday,
+
+30
+00:01:58,400 --> 00:02:01,400
+you know, I think people like it kind of made the world better.
+
+31
+00:02:01,400 --> 00:02:02,400
+Yeah.
+
+32
+00:02:02,400 --> 00:02:08,400
+And if we offered some sort of like apartment complex or like housing neighborhood, imagine
+
+33
+00:02:08,400 --> 00:02:13,400
+if we could infuse those stories of last minute ice cream, like Indiana Jones reaching back
+
+34
+00:02:13,400 --> 00:02:16,400
+for his hat as the temple wall comes down.
+
+35
+00:02:16,400 --> 00:02:17,400
+Well, you know what I was thinking?
+
+36
+00:02:17,400 --> 00:02:19,400
+Cause we're going to, we're talking about story living today.
+
+37
+00:02:19,400 --> 00:02:23,400
+The new, the new future boondoggle that Disney's planning.
+
+38
+00:02:23,400 --> 00:02:28,400
+Disney's newest endeavor that'll make you say what the hell is happening.
+
+39
+00:02:28,400 --> 00:02:29,400
+But they'll eventually abandon.
+
+40
+00:02:29,400 --> 00:02:31,400
+There's a lot of them going right now.
+
+41
+00:02:31,400 --> 00:02:32,400
+Yes.
+
+42
+00:02:32,400 --> 00:02:36,400
+And story, they have whittled down the list of magic wishes, dreams.
+
+43
+00:02:36,400 --> 00:02:40,400
+They've whittled down the list of seven words to one recently.
+
+44
+00:02:40,400 --> 00:02:45,400
+It's all about story and I'm, I can't get, I'm not sick of it.
+
+45
+00:02:45,400 --> 00:02:47,400
+Well, they didn't get their story Jones.
+
+46
+00:02:47,400 --> 00:02:50,400
+Cause that spaceship earth got canceled and that was all about storytelling.
+
+47
+00:02:50,400 --> 00:02:51,400
+Right.
+
+48
+00:02:51,400 --> 00:02:52,400
+Yeah.
+
+49
+00:02:52,400 --> 00:02:53,400
+How are we going to get story?
+
+50
+00:02:53,400 --> 00:02:58,400
+So what you're saying is the spirit of storytelling is on the loose and wreaking havoc.
+
+51
+00:02:58,400 --> 00:03:00,400
+They're trying to capture it.
+
+52
+00:03:00,400 --> 00:03:05,400
+That's why they have to like figure out all of these bases, these communities to trap
+
+53
+00:03:05,400 --> 00:03:08,400
+it in front of contain it, contain the madness.
+
+54
+00:03:08,400 --> 00:03:09,400
+Sure.
+
+55
+00:03:09,400 --> 00:03:12,400
+Lake Buena Vista to Kissimmee St. Cloud to Lake Nona.
+
+56
+00:03:12,400 --> 00:03:13,400
+It's ping pong around Florida.
+
+57
+00:03:13,400 --> 00:03:18,400
+Soon to come to a neighborhood near you starting in the Coachella Valley of California.
+
+58
+00:03:18,400 --> 00:03:19,400
+Yeah.
+
+59
+00:03:19,400 --> 00:03:20,400
+They build a lake for this thing.
+
+60
+00:03:20,400 --> 00:03:21,400
+We got to dig our own lake.
+
+61
+00:03:21,400 --> 00:03:24,400
+It's taking over every lake we already have.
+
+62
+00:03:24,400 --> 00:03:29,400
+Look, all I know is that so many great stories begin with either the phrase I'm building
+
+63
+00:03:29,400 --> 00:03:34,400
+a community in the desert or I'm starting a major construction park project in the state
+
+64
+00:03:34,400 --> 00:03:35,400
+of California.
+
+65
+00:03:35,400 --> 00:03:40,400
+Those are always, you know, it's going to work out when you hear those at the top.
+
+66
+00:03:40,400 --> 00:03:42,400
+The most beautiful stories there are.
+
+67
+00:03:42,400 --> 00:03:43,400
+Yeah.
+
+68
+00:03:43,400 --> 00:03:46,400
+The Manson family and the big short.
+
+69
+00:03:46,400 --> 00:03:47,400
+That's right.
+
+70
+00:03:47,400 --> 00:03:52,400
+We at the Manson family, storytelling is at the heart of everything we do.
+
+71
+00:03:52,400 --> 00:03:56,400
+I'd also like to add that zibidizopdab, zibidizopdabadaboo.
+
+72
+00:03:58,400 --> 00:03:59,400
+Beautiful, Charlie.
+
+73
+00:03:59,400 --> 00:04:01,400
+Yeah, it's okay.
+
+74
+00:04:01,400 --> 00:04:03,400
+So yeah, if you, you don't know what we're talking about.
+
+75
+00:04:03,400 --> 00:04:05,400
+Then congratulations.
+
+76
+00:04:05,400 --> 00:04:06,400
+Congratulations.
+
+77
+00:04:06,400 --> 00:04:08,400
+You avoided the discourse.
+
+78
+00:04:08,400 --> 00:04:15,400
+But Disney is like they've tried and done many times building a place for you to live.
+
+79
+00:04:15,400 --> 00:04:20,400
+There's some annoying terminology where it's like people that want to, what is it?
+
+80
+00:04:20,400 --> 00:04:21,400
+I'm sorry, I'm missing it.
+
+81
+00:04:21,400 --> 00:04:22,400
+Jason, do you have it?
+
+82
+00:04:22,400 --> 00:04:25,400
+Like people that want to like live more Disney or something.
+
+83
+00:04:25,400 --> 00:04:26,400
+There's some sort of phrase like that.
+
+84
+00:04:26,400 --> 00:04:28,400
+More elements of Disney in their life.
+
+85
+00:04:28,400 --> 00:04:30,400
+Like the magic, the Disney magic.
+
+86
+00:04:30,400 --> 00:04:32,400
+They want more Disney in their life.
+
+87
+00:04:32,400 --> 00:04:38,400
+They can come here and live in this new, like fresh, I don't know, vibrant community.
+
+88
+00:04:38,400 --> 00:04:43,400
+A place that forever inspires you to add wonderful new passages to your story.
+
+89
+00:04:43,400 --> 00:04:49,400
+Who's brain has ever functioned like this?
+
+90
+00:04:49,400 --> 00:05:01,400
+By the way, we're a podcast of three people who are, something wrong with us clinically as far as like the amount of obsession we have of the different topics we talk about and obsess over.
+
+91
+00:05:01,400 --> 00:05:03,400
+And this is too much, folks.
+
+92
+00:05:03,400 --> 00:05:05,400
+This is too much for us.
+
+93
+00:05:05,400 --> 00:05:07,400
+Because what is it?
+
+94
+00:05:07,400 --> 00:05:09,400
+It's also nothing, too.
+
+95
+00:05:09,400 --> 00:05:10,400
+It's nothing.
+
+96
+00:05:10,400 --> 00:05:20,400
+You watch the video that was posted and it's not like, okay, I wouldn't like to live in a place where Mickey and Tweedledum and Tweedledee are hanging around all the time.
+
+97
+00:05:20,400 --> 00:05:21,400
+That doesn't sound good.
+
+98
+00:05:21,400 --> 00:05:24,400
+But that's what I guess Disney magic is.
+
+99
+00:05:24,400 --> 00:05:26,400
+It's like a play there, look, it's them.
+
+100
+00:05:26,400 --> 00:05:29,400
+And this thing's shaped like a mountain.
+
+101
+00:05:29,400 --> 00:05:40,400
+But this is just a fine looking aesthetic for not elder living community.
+
+102
+00:05:40,400 --> 00:05:42,400
+But there is an assortment.
+
+103
+00:05:42,400 --> 00:05:44,400
+There will be a part of that.
+
+104
+00:05:44,400 --> 00:05:47,400
+Maybe, but it's not all of it.
+
+105
+00:05:47,400 --> 00:05:49,400
+It's just housing development.
+
+106
+00:05:49,400 --> 00:05:53,400
+It's all of this run around to say, we're doing houses now.
+
+107
+00:05:53,400 --> 00:06:03,400
+It is the same language you would use when you're opening up an e-ticket ride to just talk about strip mall and a couple houses and some condos.
+
+108
+00:06:03,400 --> 00:06:12,400
+It's using the same flowery language that at least works when you're talking about a theme park or when you're talking about meeting a princess or something.
+
+109
+00:06:12,400 --> 00:06:15,400
+Master plans community is the term.
+
+110
+00:06:15,400 --> 00:06:21,400
+This is like the wonderful stories you'll make when you get a burrito bowl at the Chipotle.
+
+111
+00:06:21,400 --> 00:06:29,400
+That's really what there'll be a Chipotle on site that you can walk to in front of our beautiful manmade lake.
+
+112
+00:06:29,400 --> 00:06:31,400
+Which fine, do it.
+
+113
+00:06:31,400 --> 00:06:36,400
+But let's not dress this up more than it is.
+
+114
+00:06:36,400 --> 00:06:41,400
+No, it's just here's a looping image on their website of a couple.
+
+115
+00:06:41,400 --> 00:06:44,400
+It's gauzy and they're clinking glasses.
+
+116
+00:06:44,400 --> 00:06:45,400
+That's my takeaway.
+
+117
+00:06:45,400 --> 00:06:51,400
+They're building a place that can contain all the glass clinking that anyone could ever dream of.
+
+118
+00:06:51,400 --> 00:06:54,400
+You will be cheersing every couple hours at this place.
+
+119
+00:06:54,400 --> 00:06:56,400
+There will be a reason to cheer.
+
+120
+00:06:56,400 --> 00:06:57,400
+You'll bring that glass.
+
+121
+00:06:57,400 --> 00:07:01,400
+You'll have a champagne flute as you walk around town, cheersing your neighbors.
+
+122
+00:07:01,400 --> 00:07:02,400
+They're going to monitor you.
+
+123
+00:07:02,400 --> 00:07:05,400
+There's going to be a quota you have to fill every day.
+
+124
+00:07:05,400 --> 00:07:08,400
+If you haven't cheersed in a few hours, you got to make sure you do it.
+
+125
+00:07:08,400 --> 00:07:10,400
+They listen for clinks.
+
+126
+00:07:10,400 --> 00:07:14,400
+It's like the way that our phones monitor our steps.
+
+127
+00:07:14,400 --> 00:07:15,400
+However, that is tracked.
+
+128
+00:07:15,400 --> 00:07:19,400
+It's five clinks per day, if not more.
+
+129
+00:07:19,400 --> 00:07:20,400
+Hopefully in your sleep.
+
+130
+00:07:20,400 --> 00:07:27,400
+Hopefully you wake up from a sound sleep at three in the morning, walk into the front of your house and clink glasses with somebody and then go back to bed.
+
+131
+00:07:27,400 --> 00:07:30,400
+And then somebody will knock on your door if you don't do it.
+
+132
+00:07:30,400 --> 00:07:33,400
+Somebody will be like, we've noticed.
+
+133
+00:07:33,400 --> 00:07:34,400
+We've noticed you have it.
+
+134
+00:07:34,400 --> 00:07:35,400
+Are you OK in here?
+
+135
+00:07:35,400 --> 00:07:36,400
+Grab a glass, sir.
+
+136
+00:07:36,400 --> 00:07:42,400
+It'll be a cast member because in the language of this place, they make it known that cast members are working here.
+
+137
+00:07:42,400 --> 00:07:50,400
+So using the same language from a theme park to describe, I don't know, the people that are like changing towels at the pool.
+
+138
+00:07:50,400 --> 00:07:52,400
+Will there be the whole company they call?
+
+139
+00:07:52,400 --> 00:07:54,400
+They call every employee a cast member.
+
+140
+00:07:54,400 --> 00:07:58,400
+There's also a giant asterisk next to those mentions.
+
+141
+00:07:58,400 --> 00:08:03,400
+And then I think like elsewhere they mentioned like and select third party vendors.
+
+142
+00:08:03,400 --> 00:08:05,400
+Oh, you know, that'll be like the.
+
+143
+00:08:05,400 --> 00:08:10,400
+The Citizen app secret police that they hire to monitor.
+
+144
+00:08:10,400 --> 00:08:12,400
+Yeah, yeah.
+
+145
+00:08:12,400 --> 00:08:15,400
+Peter Steele's, is that right?
+
+146
+00:08:15,400 --> 00:08:18,400
+He's the guy behind Citizen, that app where you just.
+
+147
+00:08:18,400 --> 00:08:19,400
+Yeah, yeah.
+
+148
+00:08:19,400 --> 00:08:22,400
+The app where people go insane, where it's like, oh, what if Nextdoor was more insane?
+
+149
+00:08:22,400 --> 00:08:23,400
+Yeah.
+
+150
+00:08:23,400 --> 00:08:31,400
+And in case you know what I'm talking about, there was like a plan to like literally like privatize a police force using the Citizen app, which I believe has been scrapped for now.
+
+151
+00:08:32,400 --> 00:08:41,400
+But that sounds like you were going to be able to like pay a fee for the secret Citizen police, which really sounds like bleak dystopia.
+
+152
+00:08:41,400 --> 00:08:47,400
+We're like, I have the better police or not the better police, the scarier police.
+
+153
+00:08:47,400 --> 00:08:57,400
+Yeah, I mean, there's already facial recognition companies where, you know, whatever their initial intended, the technology was meant to be used for.
+
+154
+00:08:57,400 --> 00:09:04,400
+They've already started like selling it to police departments and the military and God knows what other sinister organizations.
+
+155
+00:09:04,400 --> 00:09:06,400
+Yeah, the Walt Disney Corporation.
+
+156
+00:09:06,400 --> 00:09:08,400
+I recognize your face.
+
+157
+00:09:08,400 --> 00:09:11,400
+Soon, yeah, Mickey will recognize your face.
+
+158
+00:09:11,400 --> 00:09:13,400
+You'll think it's great.
+
+159
+00:09:13,400 --> 00:09:14,400
+He greeted me.
+
+160
+00:09:14,400 --> 00:09:16,400
+Scott Gardner.
+
+161
+00:09:16,400 --> 00:09:18,400
+Wow, knows my name.
+
+162
+00:09:18,400 --> 00:09:23,400
+You got a B minus in chemistry in high school.
+
+163
+00:09:23,400 --> 00:09:25,400
+I know everything about you.
+
+164
+00:09:27,400 --> 00:09:35,400
+I could have monitored every traffic can type blood type every red light you've run a negative.
+
+165
+00:09:35,400 --> 00:09:40,400
+Let's just like to get it out of their language just for us just to be clear.
+
+166
+00:09:40,400 --> 00:09:45,400
+And if you miss this announcement, yes, story living by Disney is this new venture.
+
+167
+00:09:45,400 --> 00:09:52,400
+I have to go to another website to get somebody to put it in plain English, just arbitrarily architectural digest wrote it up.
+
+168
+00:09:52,400 --> 00:10:01,400
+Super fans can now call Disney home by buying an estate condominium or single family home within the one of the companies story living by Disney communities.
+
+169
+00:10:01,400 --> 00:10:05,400
+So they're going to be building developments across the country across the world.
+
+170
+00:10:05,400 --> 00:10:07,400
+I'm not totally sure.
+
+171
+00:10:07,400 --> 00:10:13,400
+Yeah, so they're just like they want to they don't have enough and they want more.
+
+172
+00:10:13,400 --> 00:10:16,400
+They don't own enough land on the earth.
+
+173
+00:10:16,400 --> 00:10:17,400
+Yet all come.
+
+174
+00:10:17,400 --> 00:10:20,400
+Congratulations on describing all modern companies.
+
+175
+00:10:20,400 --> 00:10:21,400
+I understand that.
+
+176
+00:10:21,400 --> 00:10:23,400
+I mean, that is what all companies want.
+
+177
+00:10:23,400 --> 00:10:24,400
+They want more.
+
+178
+00:10:24,400 --> 00:10:27,400
+That is a descriptor of a company.
+
+179
+00:10:27,400 --> 00:10:29,400
+They want more.
+
+180
+00:10:29,400 --> 00:10:31,400
+Disney presents capitalism.
+
+181
+00:10:31,400 --> 00:10:32,400
+That's true.
+
+182
+00:10:32,400 --> 00:10:33,400
+You're right.
+
+183
+00:10:33,400 --> 00:10:34,400
+More actively.
+
+184
+00:10:34,400 --> 00:10:35,400
+Yes.
+
+185
+00:10:35,400 --> 00:10:38,400
+What if we get rid of the rides and the characters and the stuff?
+
+186
+00:10:38,400 --> 00:10:39,400
+Yeah.
+
+187
+00:10:39,400 --> 00:10:46,400
+Do you still is there enough left if it's just kind of generally we're going to say the words we're going to say magic and dreaming stories.
+
+188
+00:10:46,400 --> 00:10:49,400
+So that do you want to buy land from us now?
+
+189
+00:10:49,400 --> 00:10:56,400
+Right now, if they were building like a theme park in the middle of the desert, then maybe we go, well, this is what they do.
+
+190
+00:10:56,400 --> 00:10:58,400
+They make theme parks.
+
+191
+00:10:58,400 --> 00:10:59,400
+So maybe we would be more OK.
+
+192
+00:10:59,400 --> 00:11:03,400
+But like this is like we would like to own where people live now.
+
+193
+00:11:03,400 --> 00:11:10,400
+We would like to use the nostalgia and the fun of the park like that because that's really what they're trying to do with all this language.
+
+194
+00:11:10,400 --> 00:11:18,400
+They're trying to manipulate you and to say like going, oh, I do love Disney because I like the movies, the actual substance of what the company is produced of.
+
+195
+00:11:18,400 --> 00:11:28,400
+The years and they're using it to manipulate people and thinking like I need to live in a house that Disney owns or I need to live on like I need to walk on concrete that they own.
+
+196
+00:11:28,400 --> 00:11:35,400
+Like they're using that to their advantage to now make people feel like this will make them in the park all the time.
+
+197
+00:11:35,400 --> 00:11:41,400
+But there's not even like it build us a space mountain in there or something like like there's not even that.
+
+198
+00:11:42,400 --> 00:11:50,400
+Yeah, one thing because that used to be part of that that Burbank thing I'm obsessed with where that was going to be essentially a mall and studios.
+
+199
+00:11:50,400 --> 00:11:55,400
+But there was going to be the great movie writers, going to be a stupid restaurant with a ship teetering off the freeway.
+
+200
+00:11:55,400 --> 00:11:59,400
+Yeah, they were still going to do the stuff, but that's not the vibe in 2022.
+
+201
+00:11:59,400 --> 00:12:04,400
+The vibe is boring and and generic music and.
+
+202
+00:12:04,400 --> 00:12:09,400
+You got it.
+
+203
+00:12:09,400 --> 00:12:13,400
+Things that all that Disney stuff's too too cartoonish.
+
+204
+00:12:13,400 --> 00:12:18,400
+We don't like that. Yeah, I'm going to be like nice looking walls and a lagoon.
+
+205
+00:12:18,400 --> 00:12:26,400
+Don't forget the lagoon. Hey, we got to talk about the lagoon, which they keep saying will be done with like cutting edge technology with crystal.
+
+206
+00:12:26,400 --> 00:12:29,400
+Oh, yeah, it's it's a trademark. It's trademark.
+
+207
+00:12:29,400 --> 00:12:32,400
+I look it up. I went to the website of the thing.
+
+208
+00:12:32,400 --> 00:12:42,400
+If you are not familiar with local oddities of California, there is a place in California called the Salton Sea, which is what it sounds like.
+
+209
+00:12:42,400 --> 00:12:48,400
+It was an inland salt lake from like runoff from elsewhere.
+
+210
+00:12:48,400 --> 00:12:53,400
+Basically, developers tried to make this a vacation destination in the 50s and 60s.
+
+211
+00:12:53,400 --> 00:13:00,400
+And for a little while it worked like people would come movie stars would come and they would have vacation homes until.
+
+212
+00:13:00,400 --> 00:13:13,400
+The environment of the desert said no, and the water started to essentially rot and kill all the fish.
+
+213
+00:13:13,400 --> 00:13:20,400
+And now it's an ecological disaster site filled with like empty shells of buildings that stinks.
+
+214
+00:13:20,400 --> 00:13:26,400
+Right. Yeah. Urban explorers kind of go there, but it looks so little.
+
+215
+00:13:26,400 --> 00:13:31,400
+Yeah, which is not far from it is this what they're planning to build.
+
+216
+00:13:31,400 --> 00:13:37,400
+Yeah, this is in the I think this is in like this is around a bunch of like ritzy houses in the desert.
+
+217
+00:13:37,400 --> 00:13:46,400
+Also, like this is in a different spot that's already sort of like a yes, not your know, it's surrounded by developments all around.
+
+218
+00:13:46,400 --> 00:13:50,400
+And it's just you know, we can we could step through kind of the video they put out and stuff like.
+
+219
+00:13:51,400 --> 00:13:58,400
+But just to say this, the specific one that they've announced that they haven't broken ground on, but that they own the land and they're planning to do something.
+
+220
+00:13:58,400 --> 00:14:02,400
+It's in Rancho Mirage, which is near Palm Springs. It's in that general area.
+
+221
+00:14:02,400 --> 00:14:07,400
+Right. And it's called Cotino. So that is that's the specific.
+
+222
+00:14:07,400 --> 00:14:12,400
+So they're there. This is all Disney building a big Palm Springs development ultimately.
+
+223
+00:14:12,400 --> 00:14:17,400
+Yeah. More and more. But so it's all in C. Right. They're kind of near all that.
+
+224
+00:14:17,400 --> 00:14:26,400
+Yeah, it's all kind of in the general area. Cotino, a takeoff on the scientific term for Cotino's Cotigri, Cotigria,
+
+225
+00:14:26,400 --> 00:14:32,400
+which is basically the scientific term for the the the smoke tree plant.
+
+226
+00:14:32,400 --> 00:14:43,400
+And so this is a reference inside a reference. The smoke tree ranch was Walt's Palm Springs Ranch that he would that you can now vacation out.
+
+227
+00:14:43,400 --> 00:14:56,400
+If you go to the statue in Disneyland, the partner statue, you can see the symbol on his tie is the smoke tree ranch like the Illuminati esque symbol, which is all over that ranch.
+
+228
+00:14:56,400 --> 00:15:01,400
+You can go see it. Yeah, I had no idea there was that symbol.
+
+229
+00:15:01,400 --> 00:15:06,400
+And apparently he wore a tie and a lot of the specials with this insignia.
+
+230
+00:15:06,400 --> 00:15:13,400
+That's the letters of the S.T.R. It almost I I'm almost like, did they implant this?
+
+231
+00:15:13,400 --> 00:15:19,400
+Did this not exist until they had this plan like found this property like like Hans Dice?
+
+232
+00:15:19,400 --> 00:15:26,400
+Oh, just added Dyson last Jedi. And they're like, you remember it, right?
+
+233
+00:15:26,400 --> 00:15:32,400
+Is that what I forget? I don't even know about the dice. Yeah. They suddenly put Dyson.
+
+234
+00:15:32,400 --> 00:15:36,400
+Yeah, they just added the Dyson and then kind of acted like that was like something that he always had.
+
+235
+00:15:36,400 --> 00:15:41,400
+OK, yeah, I think it is like that. I don't believe it was on the partner statue.
+
+236
+00:15:41,400 --> 00:15:47,400
+I need proof. I need a photo from at least two years ago.
+
+237
+00:15:47,400 --> 00:15:51,400
+Yeah, this was always the plan. But yeah, that's how they end up justifying.
+
+238
+00:15:51,400 --> 00:15:56,400
+Why are we and how that they need to look Disney build whatever you're going to build, do whatever you do.
+
+239
+00:15:56,400 --> 00:16:01,400
+But this is where it really as I'm watching the promotional video they put out,
+
+240
+00:16:01,400 --> 00:16:06,400
+the where I really started rolling my eyes that like in our first stop will be the Coachella Valley,
+
+241
+00:16:06,400 --> 00:16:11,400
+a land that Walt loved. It was a place that allowed him to escape and to dream.
+
+242
+00:16:11,400 --> 00:16:17,400
+Yeah, of course. All right. OK, somebody some intern go find two photos of Walt in the desert.
+
+243
+00:16:17,400 --> 00:16:20,400
+There's got to be a go find him on a burrow or something.
+
+244
+00:16:21,400 --> 00:16:25,400
+I like we all famously, of course, Smoke Tree Ranch.
+
+245
+00:16:25,400 --> 00:16:28,400
+We know it. We all know it. We've all always known it.
+
+246
+00:16:28,400 --> 00:16:32,400
+Walt, there's no place more associated with Walt than the Coachella Valley.
+
+247
+00:16:32,400 --> 00:16:36,400
+Of course, this is all feels fake. I think everybody is fake.
+
+248
+00:16:36,400 --> 00:16:41,400
+They made it all up. He loves seeing future islands at Coachella every year.
+
+249
+00:16:41,400 --> 00:16:45,400
+And he would go to the festival. Yeah, that's what most people associate Coachella with.
+
+250
+00:16:45,400 --> 00:16:50,400
+Now you go see the big outdoor music festival and 100 degree weather and everyone's on drugs.
+
+251
+00:16:50,400 --> 00:16:54,400
+Walt, it was Walt. He loved it. Allowed him to dream.
+
+252
+00:16:54,400 --> 00:16:59,400
+I mean, everyone went to Palm Springs. Every rich person went to Palm Springs back then.
+
+253
+00:16:59,400 --> 00:17:01,400
+Yes, it wasn't like the streets.
+
+254
+00:17:01,400 --> 00:17:05,400
+The property is on is like the other rich guys.
+
+255
+00:17:05,400 --> 00:17:09,400
+I think it's at the corner of Bob Hope and Gerald Ford.
+
+256
+00:17:09,400 --> 00:17:15,400
+So literally two other old guy names on this Walt property.
+
+257
+00:17:15,400 --> 00:17:17,400
+So this is Rancho Mirage.
+
+258
+00:17:17,400 --> 00:17:24,400
+This is like one of the last undeveloped, like empty pieces of property they were saying in Rancho Mirage.
+
+259
+00:17:24,400 --> 00:17:28,400
+Seemingly. Yeah, it is. It really stands out if you look at it on a map.
+
+260
+00:17:28,400 --> 00:17:34,400
+It is this just big block of sand. It's kind of weird.
+
+261
+00:17:34,400 --> 00:17:38,400
+Here, let me see. Let me see if I can do my little demonstration. I was going to do.
+
+262
+00:17:38,400 --> 00:17:45,400
+Maybe I can't. Well, the you talk about like we'd be excited if they were building a park or something.
+
+263
+00:17:45,400 --> 00:17:49,400
+I can't get it done, but I compared these things side by side.
+
+264
+00:17:49,400 --> 00:17:58,400
+This is I'm showing you the land that Cortino is going to be on like top to bottom like like north south.
+
+265
+00:17:58,400 --> 00:18:06,400
+It is the exact height of the height probably isn't the word, but that's like as as long as the Disneyland property.
+
+266
+00:18:06,400 --> 00:18:16,400
+So you could fit all of the Disneyland property on here, including the parking garages and then have room for another sliver to add that other side of the street with the parking garages again.
+
+267
+00:18:16,400 --> 00:18:24,400
+And then there would still be more left. So imagine like a lot Disneyland and two sets of Mickey and Friends and Pixar and hotels and all that.
+
+268
+00:18:24,400 --> 00:18:31,400
+Yeah, yeah. And then still a little bit more room. So this is a tight. It's like what is it? I think it's one hundred and sixty eight acres.
+
+269
+00:18:31,400 --> 00:18:45,400
+It's pretty pretty ginormous. Now there will be public areas like one of the web, one of the pages on the website or one of the blogs picked up on like I don't know if it was a pitch deck or like just a set of photos of like this vibe we're going for.
+
+270
+00:18:45,400 --> 00:18:53,400
+And they had photos of the boardwalk resort at Disney World. That's cool. Like, yeah, you can just go to the boardwalk at any time.
+
+271
+00:18:53,400 --> 00:18:59,400
+Anyone can go there. You walk around, eat the restaurants, you know, see the little acts and stuff that I get. Yeah.
+
+272
+00:18:59,400 --> 00:19:06,400
+Or like, I mean, there's a lot of these sorts of properties in Los Angeles and there's there's stuff going on.
+
+273
+00:19:06,400 --> 00:19:12,400
+And, you know, besides the absurd parking fees and garages.
+
+274
+00:19:12,400 --> 00:19:19,400
+Well, hopefully it's like the wonderful worlds built for us by our future mayor Rick Caruso.
+
+275
+00:19:19,400 --> 00:19:29,400
+Hopefully it's somewhat of the vibe of the Grove and the Americana and these places that are our eventual master has been deigned to give us.
+
+276
+00:19:29,400 --> 00:19:47,400
+Yeah, it's it's I mean, it's just funny. I mean, Disney doing this is funny because there's a long history starting with Epcot, which of course Epcot was supposed to be an experimental prototype city of tomorrow with like Walt being the emperor of it.
+
+277
+00:19:47,400 --> 00:19:54,400
+And there was he had future some good ideas for it, some very bad ideas for it.
+
+278
+00:19:54,400 --> 00:19:59,400
+Obviously, when he died, they didn't do it, but they did it with celebration and then abandoned it.
+
+279
+00:19:59,400 --> 00:20:08,400
+Basically now Golden Oak is that the newest one? Yeah. And I think they're all sold. Okay. Is that is it started or no? Golden Oak. Yeah. Million dollar homes.
+
+280
+00:20:08,400 --> 00:20:15,400
+That's been going for a while. Okay. So that there's that does exist something like this already. That's the that's the area north of Disney World a little bit.
+
+281
+00:20:15,400 --> 00:20:27,400
+Yes. These crazy McMansions. It's like they Jason to how is it the Four Seasons or the Ritz? Like one of the things is you get to use the amenities at the nice hotel next door.
+
+282
+00:20:27,400 --> 00:20:35,400
+I didn't even know there was that there. There was that level of fancy hotel. Now without here's the what is their connection to that?
+
+283
+00:20:35,400 --> 00:20:42,400
+Do they fully own it or is it one of these were like they're hedging their bets and it's kind of us, but we don't do these nitty gritty parts.
+
+284
+00:20:42,400 --> 00:20:50,400
+Okay. So this is under the umbrella, seemingly of of experience Disney signature. What is it called?
+
+285
+00:20:50,400 --> 00:21:01,400
+Yes, experience. It's like tomorrow is quoted. Mr. Tomorrow Daddy tomorrow as I call him is quoted. Yeah. So this is like respectful. I call him Zaddy. I really think you should.
+
+286
+00:21:01,400 --> 00:21:12,400
+You should take it a little further. I apologize. Disney signature experiences, which is the umbrella of the features of vacation club, Golden Oak, the cruise line, Alani.
+
+287
+00:21:12,400 --> 00:21:24,400
+That all kind of falls under that as opposed to like the theme parks, which falls elsewhere nowadays. But imagineering, you know, kind of works with a lot of it.
+
+288
+00:21:24,400 --> 00:21:37,400
+With a lot of it still involved in all this. Yeah. Yeah. Maybe we should let the man himself speak a little bit. Let me just play a little snippet of of Zaddy.
+
+289
+00:21:37,400 --> 00:21:44,400
+Let's we always want to let Zaddy talk. Let's just like I'm just going to let I don't know where to end this exactly.
+
+290
+00:21:44,400 --> 00:21:53,400
+But like let's let him very coherently explain the general idea of what is going on here.
+
+291
+00:21:53,400 --> 00:21:58,400
+Disney has shared stories that have touched the hearts and minds of people around the world for nearly 100 years.
+
+292
+00:21:58,400 --> 00:22:10,400
+At Disney parks, experiences and products are jobs to turn dreams and stories into reality, into something that you can touch, taste and smell, something you can feel and experience and share with those you love.
+
+293
+00:22:10,400 --> 00:22:18,400
+Disney experiences are magical because they start with great storytelling. They include quality that is unmatched anywhere in our industry.
+
+294
+00:22:18,400 --> 00:22:27,400
+Of course, they're brought to life by our world class Disney cast members. And every time we reach a new horizon, we start to dream a little bigger and we look for new ways to tell our stories.
+
+295
+00:22:27,400 --> 00:22:35,400
+OK, we've all watched a lot of hours of shit like this. This is one of the most content free runs of ever.
+
+296
+00:22:35,400 --> 00:22:43,400
+Nothing. And imagery. Nothing like it's kids are hugging Pluto and a baby's blowing a bubble and slow motion running.
+
+297
+00:22:43,400 --> 00:22:47,400
+I what it's all just kind of like, all right, tell us what the what's the scam, bud?
+
+298
+00:22:48,400 --> 00:22:52,400
+Do it. Spit it out. So I guess so. I guess this is experiences.
+
+299
+00:22:52,400 --> 00:23:02,400
+This is this is all in one department now. Parks. We know parks. We know. I guess this is experiences, but it's also a lot of subcontractors involved as well.
+
+300
+00:23:02,400 --> 00:23:12,400
+What is what story are you? What is the story? Is there like a Disney Springs style or a downtown Disney like Pleasure Island story?
+
+301
+00:23:12,400 --> 00:23:22,400
+The way they. Yes, that's the that's what we like. It's a crazy old sea captain and he had an idea to get with the Bang Master and convert the fireworks factory.
+
+302
+00:23:22,400 --> 00:23:28,400
+This I can. It's all inane and crazy. But yes, what is the story of Cotino?
+
+303
+00:23:28,400 --> 00:23:40,400
+Right. The answer is, well, Walt once used to know. No, not a story. Yeah, not a story. Yeah, we need a fantastical story like the wall was a guy in Hollywood in the 50s who liked to go to Palm Springs.
+
+304
+00:23:40,400 --> 00:23:45,400
+Oh, really? Interesting. It just never told the story. Never heard this before.
+
+305
+00:23:45,400 --> 00:23:51,400
+Well, and you know, of course, he got that polo injury and he kind of had to change his leisure activities.
+
+306
+00:23:52,400 --> 00:23:56,400
+Right. Will you? Will they have a simulate like simulate how Walt got his polo?
+
+307
+00:23:56,400 --> 00:24:06,400
+We haven't talked enough about Walt's polo injury on this show. I believe that cover for in the narrative that does that lead to the theme parks?
+
+308
+00:24:06,400 --> 00:24:11,400
+Because then he starts tinkering with his little backyard trains and then eventually bigger and bigger.
+
+309
+00:24:11,400 --> 00:24:16,400
+That's a question. Without his polo. All right. Well, that's an episode to follow. Walt's polo injury.
+
+310
+00:24:16,400 --> 00:24:22,400
+And the polo grounds. Maybe put that on the next one we do. Yeah, that sounds fine. Yeah.
+
+311
+00:24:22,400 --> 00:24:28,400
+The polo grounds in the Coachella Valley, I think, are now where the Coachella Music Festival is.
+
+312
+00:24:29,400 --> 00:24:36,400
+That's right. Yeah. Well, he'd be really upset that all these young people are tripping and vomiting all over his beloved polo grounds.
+
+313
+00:24:36,400 --> 00:24:41,400
+He would have been mad that the old Coachella happened that we went to five years ago. He would have thought those youngsters.
+
+314
+00:24:41,400 --> 00:24:48,400
+Yeah, these long hairs. Yeah. The Rolling Stones. I kind of recall seeing hearing that name before I died.
+
+315
+00:24:48,400 --> 00:24:55,400
+Yeah, he cursed them out on his day. He said Kurt Russell and then he said, fuck the Rolling Stones as he died.
+
+316
+00:24:56,400 --> 00:25:00,400
+Send the assassination squad for Mark Jagger.
+
+317
+00:25:00,400 --> 00:25:11,400
+The Smithers have the Rolling Stones killed. Yeah. So there's no story. Is Pluto hanging out in here even?
+
+318
+00:25:11,400 --> 00:25:18,400
+Well, he's in the stock footage. I know. But so does that indicate that Pluto will be walking around?
+
+319
+00:25:18,400 --> 00:25:23,400
+Is he Pluto, your mailman? Well, at least that's something.
+
+320
+00:25:23,400 --> 00:25:28,400
+I think in the first six months there will be characters and there will be activities.
+
+321
+00:25:28,400 --> 00:25:37,400
+What? You do? I think it tapers way down. I think it tapers way off because what they showed they were not good at with Celebration
+
+322
+00:25:37,400 --> 00:25:42,400
+and sometimes they're not good at with the parks is just upkeep. You got to keep doing this.
+
+323
+00:25:42,400 --> 00:25:46,400
+Like even slow seasons, you have to have shows and you have to stuff going on.
+
+324
+00:25:46,400 --> 00:25:51,400
+And they're just they don't have an interest in upkeep. Yeah, I don't know.
+
+325
+00:25:51,400 --> 00:25:56,400
+The Golden Oak thing, I guess. How long has been going? Couple of years now. A few years.
+
+326
+00:25:56,400 --> 00:26:03,400
+But the people there, it's all seven million dollars. That's just a very expensive, very, very expensive, which I think this is going to be very expensive too.
+
+327
+00:26:03,400 --> 00:26:08,400
+Maybe less expensive than that. I think it will be less expensive because it's not at Disney World.
+
+328
+00:26:09,400 --> 00:26:18,400
+But I'm surprised we haven't said this phrase yet. The construction partner, DMB Development, a new boring company name for us up there with King Features.
+
+329
+00:26:18,400 --> 00:26:27,400
+Dave Matthews Band Development. I wish he was involved. She wakes up in Cortino.
+
+330
+00:26:27,400 --> 00:26:36,400
+If you look up, they're based in Arizona. If you look up other properties they have built, these are million dollar homes, million dollar condos.
+
+331
+00:26:36,400 --> 00:26:39,400
+Yeah, this can be expensive. Yeah, it's going to be expensive.
+
+332
+00:26:39,400 --> 00:26:54,400
+Hey, let's check in. If you search if you search DMB Development controversy, you get to learn that the former president of DMB Associates, which I guess is their old name,
+
+333
+00:26:54,400 --> 00:27:03,400
+DMB Associates, DMB Development, all kind of leads, all roads lead to Rome. So I don't know whatever crazy scheme they're doing with the names.
+
+334
+00:27:03,400 --> 00:27:10,400
+Karen Taylor Robson, currently running for the Republican nomination for governor of Arizona.
+
+335
+00:27:10,400 --> 00:27:15,400
+That can't be a good person to be in that position.
+
+336
+00:27:15,400 --> 00:27:30,400
+Taylor Robinson's campaign website highlights the issues she views as most important, including border security, election integrity, opposing abortion, and supporting veterans.
+
+337
+00:27:30,400 --> 00:27:40,400
+So the usual Republican gibberish is the usual culture war nonsense and lip service to veterans without improving their lives in any meaningful way.
+
+338
+00:27:40,400 --> 00:27:49,400
+Small asterisk takes you to the bottom of the site. And by veterans, I mean cyber ninjas. We have to support the cyber ninjas who are auditing our election.
+
+339
+00:27:49,400 --> 00:27:56,400
+Even though they didn't find anything, they're going to try again and again. And even if they never find it, we know 2020, it was so rigged for us.
+
+340
+00:27:56,400 --> 00:28:01,400
+Are there any pictures of her with Mike Lindell anywhere on the website?
+
+341
+00:28:01,400 --> 00:28:04,400
+I have to think. There will be before the end of this.
+
+342
+00:28:04,400 --> 00:28:07,400
+Yeah, there will be. That's an endorsement.
+
+343
+00:28:07,400 --> 00:28:10,400
+Will Mike Lindell have a house here?
+
+344
+00:28:10,400 --> 00:28:19,400
+Look, I didn't expect the former president of a company that builds million dollar homes to be necessarily a good person.
+
+345
+00:28:19,400 --> 00:28:28,400
+But like, you got to think that company's like, oh God, could she? Does she have to do this? And why does every article say former president of us?
+
+346
+00:28:28,400 --> 00:28:30,400
+I don't know. They might be.
+
+347
+00:28:30,400 --> 00:28:31,400
+Oh, yeah, I'm sure.
+
+348
+00:28:31,400 --> 00:28:34,400
+I'm sure a lot of the people are on board.
+
+349
+00:28:34,400 --> 00:28:45,400
+I'm sure a lot of the residents, the initial buyers were like, oh yeah, come to Katino, live next to, you know, used car lot dealership owners and ill fitting let's go branded shirts.
+
+350
+00:28:45,400 --> 00:28:50,400
+You know, I was going to say this early.
+
+351
+00:28:50,400 --> 00:28:54,400
+They should have gone all the way. It's Katino, but they may as well have just called it.
+
+352
+00:28:54,400 --> 00:29:02,400
+There's a lot of ideas I have for this place that we should get to the end, but they may as well have just called it Kamino, the name of the clone planet in Star Wars Attack of the Clones.
+
+353
+00:29:02,400 --> 00:29:08,400
+It's so close. Got the O at the end. Kamino is that rainy plant. It's obviously the opposite of the desert.
+
+354
+00:29:08,400 --> 00:29:14,400
+But why not use some Star Wars IP at this point to at least like dress it up a bit?
+
+355
+00:29:14,400 --> 00:29:21,400
+Well, and if you go with the Star Wars vibe, then you only have to build like four huts and leave the rest as sand.
+
+356
+00:29:21,400 --> 00:29:23,400
+That's a good point.
+
+357
+00:29:23,400 --> 00:29:24,400
+Exactly.
+
+358
+00:29:24,400 --> 00:29:27,400
+If you want to live, it'll be even more authentic than the Star Cruiser.
+
+359
+00:29:27,400 --> 00:29:33,400
+Like you could just live in Ray's little like tent and then you go get quarter portions every day.
+
+360
+00:29:33,400 --> 00:29:39,400
+And at least you're at least we would go like, you know, this looks like it would be a miserable place to live, but at least it's themed.
+
+361
+00:29:39,400 --> 00:29:44,400
+I live in where they live in a replica of where Anakin's mom got killed.
+
+362
+00:29:44,400 --> 00:29:50,400
+Right. Yes. And then there'll be like, there'll be just sort of a desert patch like on the new on Boba Fett.
+
+363
+00:29:50,400 --> 00:29:58,400
+Now they have there's a lot of like Tusken Raider content where you just see where the Tusken Raiders live in the middle of nowhere out on Tatooine.
+
+364
+00:29:58,400 --> 00:30:04,400
+So yeah, there'll be a whole at least. Is it nice? Spoiler alert, Scott, it's not.
+
+365
+00:30:04,400 --> 00:30:09,400
+It doesn't look like Cotino. It doesn't look like Crystal Lagoon.
+
+366
+00:30:09,400 --> 00:30:17,400
+Giant screens, those giant screen sets to build the middle of nowhere, to digitally build the middle of nowhere.
+
+367
+00:30:17,400 --> 00:30:28,400
+That's what Cotino is going to be. Wow. It's so spacious. And as long as you don't bump into the wall, that does sound like the sort of thing that Karen Taylor Robinson would be like.
+
+368
+00:30:28,400 --> 00:30:32,400
+And we've got to investigate this flat earth thing. You know, we've got to look at.
+
+369
+00:30:32,400 --> 00:30:37,400
+Where is it a hollow earth? I saw Godzilla versus Kong could be a hollow earth.
+
+370
+00:30:37,400 --> 00:30:41,400
+A lot of creatures. Can I give some advice to somebody?
+
+371
+00:30:41,400 --> 00:30:54,400
+If you're looking to like do a Disney, like if you want to live more Disney, like go to a place where the houses aren't that expensive with like a big basement and like make a weird, crazy themed basement like that.
+
+372
+00:30:54,400 --> 00:30:58,400
+You know what I mean? Like live, like make it whatever movie you like.
+
+373
+00:30:58,400 --> 00:31:08,400
+Like I've seen you've seen the videos where like the Star Trek dentists make it like make his office into like the bridge of the enterprise or it looks like a shuttle bay or whatever.
+
+374
+00:31:08,400 --> 00:31:13,400
+Like that's living your fantasy. Yeah. Do that. Just do it in wherever.
+
+375
+00:31:13,400 --> 00:31:17,400
+Like I don't know why. Like you're getting true. Don't get tricked.
+
+376
+00:31:17,400 --> 00:31:25,400
+It's probably some fine homes across this country that where people have done weird Disney recreations.
+
+377
+00:31:25,400 --> 00:31:31,400
+Yes, there of course are. And we I mean, we've talked about on the show. We want to have a weird room.
+
+378
+00:31:31,400 --> 00:31:35,400
+We're living in the wrong city to do it, to have a house like that.
+
+379
+00:31:35,400 --> 00:31:42,400
+Yeah, yeah. Well, we're like we could only dream of an amount of rooms that can fit the people who we live with. Right.
+
+380
+00:31:42,400 --> 00:31:52,400
+We don't have space for a crazy room. Right. That when like you die and the police come in and they're like, oh boy, this guy.
+
+381
+00:31:52,400 --> 00:31:54,400
+There was this room. There was this room.
+
+382
+00:31:54,400 --> 00:31:59,400
+There's a lot of Etsy receipts in here. A lot of Etsy receipts for furnishings.
+
+383
+00:31:59,400 --> 00:32:14,400
+Yeah. Yeah. A place that you show off to guests and they're so off put by the amount of detail in it that they don't come over again, even though it's impressive visually.
+
+384
+00:32:14,400 --> 00:32:20,400
+They're just like, OK, stay out of that room. This is the went once. We don't have to do it again.
+
+385
+00:32:20,400 --> 00:32:27,400
+This is exactly like Captain Picard's quarters on the NCC 1701. Oh my God.
+
+386
+00:32:27,400 --> 00:32:33,400
+He made his he made a room in his house look like what the what's Captain EO again.
+
+387
+00:32:33,400 --> 00:32:39,400
+And he knows about all the stuff. Right. And he still made his house look partially like Captain.
+
+388
+00:32:39,400 --> 00:32:44,400
+I know he says he cared. He likes Major and Minor Domo more than he likes whoever the star of it.
+
+389
+00:32:44,400 --> 00:32:54,400
+There's a there's a spot in the attic. And as he makes his wife like hang on a rope and come down from the ceiling wearing this outfit and say, you think me beautiful?
+
+390
+00:32:54,400 --> 00:33:07,400
+You said it's the only way you can get hard. Yes, Your Majesty. But without the key to unlock it, his last words give any indication of the nature of the crime.
+
+391
+00:33:07,400 --> 00:33:14,400
+It's like, well, no, he he just muttered it wasn't originally Angelica Houston. It was another actor.
+
+392
+00:33:14,400 --> 00:33:19,400
+And he died before he could finish and say the name that was somebody famous. I just learned who that was.
+
+393
+00:33:19,400 --> 00:33:23,400
+Yeah, it's crazy. It's what is it? Is it a Shelley Long?
+
+394
+00:33:23,400 --> 00:33:31,400
+Yeah, yeah, weird. That's crazy. Well, look, we looked right back around to that. We like this stuff. Oh, yeah.
+
+395
+00:33:31,400 --> 00:33:39,400
+I did. It was a famous person. Well, I just yeah, I just it's crazy to me if you were like way into Disney that you would do that.
+
+396
+00:33:39,400 --> 00:33:47,400
+Obviously, what's going to happen is it's going to be at least at first like probably pretty nice and just rich people will buy houses there.
+
+397
+00:33:47,400 --> 00:33:54,400
+Yeah, I mean, this is Disney's fate. One of their favorite demos nowadays. Yeah, the hyper rich, right, which is where everything is headed.
+
+398
+00:33:54,400 --> 00:34:05,400
+Yeah. Pricing out middle class and lower income families. Well, it's like there are these like between all the resorts and the adventures by Disney and all that.
+
+399
+00:34:05,400 --> 00:34:15,400
+So there for sure are some Disney zones out there that don't really feel Disney. Yeah, right. So this is just the next step of that.
+
+400
+00:34:15,400 --> 00:34:22,400
+Right. Yeah, it's just like this is just this is just how they do things when they announce they have to add all this crap. That doesn't mean anything.
+
+401
+00:34:22,400 --> 00:34:32,400
+There's vacation club properties that are just essentially Disney hotels in Vero Beach. I think the Outer Banks to somewhere along there in the Carolinas.
+
+402
+00:34:32,400 --> 00:34:38,400
+Those are not there's no real like cartoony thing. Well, no, there is. I mean, there are characters, there's pools and stuff.
+
+403
+00:34:38,400 --> 00:34:50,400
+But it's just essentially imagine if you were staying at like the yacht club and yacht and beach club and you just took that away from Epcot and put it on the coast and there's no parks or anything.
+
+404
+00:34:50,400 --> 00:34:58,400
+Yeah, you can use your timeshare points within the company to go stay there. Right. And you can book just like any other hotel, too.
+
+405
+00:34:58,400 --> 00:35:05,400
+But I do wonder, like, how popular are those? Like, I don't know.
+
+406
+00:35:05,400 --> 00:35:13,400
+My I when my family was in the 90s, we were like, why would we go to just a hotel and not the theme park?
+
+407
+00:35:13,400 --> 00:35:20,400
+Like we couldn't. Yeah. I think it was for people who just wanted to go to the beach. Right. You know, but wanted a Disney hotel. Sure.
+
+408
+00:35:21,400 --> 00:35:29,400
+Experience a little bit of Disney. Yeah, I mean, I'm just yeah, I'm saying as much as we're making fun of all this, it's just like this is just has this is how they have to press release.
+
+409
+00:35:29,400 --> 00:35:36,400
+And I would I mean, maybe there'll be like an insane Disney super fan. But if you're a crazy Disney super fan, why don't you just go live in Anaheim?
+
+410
+00:35:36,400 --> 00:35:46,400
+Like, why would you live in the middle of the desert hours away from Anaheim? Yeah, there's a because there's no there's probably nice houses around there.
+
+411
+00:35:46,400 --> 00:35:50,400
+Well, there's the Anaheim Hills if you're richer. Yeah.
+
+412
+00:35:50,400 --> 00:36:00,400
+There was a video restored video someone uploaded recently of the, you know, a six minute promotional video for the Disney Institute.
+
+413
+00:36:00,400 --> 00:36:07,400
+And it's got all that like 90s stuff you you like the kind of 90s editing that John T. Disney 90s music.
+
+414
+00:36:07,400 --> 00:36:13,400
+But like, it's clear what's going on. Like, they explain what the Disney Institute is.
+
+415
+00:36:13,400 --> 00:36:18,400
+It is essentially like, yeah, vacation. You're on vacation, but you want to take some classes.
+
+416
+00:36:18,400 --> 00:36:21,400
+Maybe you want to work on your tennis swing. Maybe you want to see how TV shows are made.
+
+417
+00:36:21,400 --> 00:36:25,400
+Maybe you want to do some cooking classes with your your spouse.
+
+418
+00:36:25,400 --> 00:36:29,400
+I can I don't want to do one thing in that list. But yes, they explain it.
+
+419
+00:36:29,400 --> 00:36:36,400
+But like you can explain it in six minutes. It's like, yeah, it's it's a adult education.
+
+420
+00:36:36,400 --> 00:36:41,400
+You know, it's a lark. You know, it's it makes sense is what I'm saying.
+
+421
+00:36:41,400 --> 00:36:44,400
+Yeah, no, this is one of these big word soupy things.
+
+422
+00:36:44,400 --> 00:36:50,400
+And it's yeah, world class service and legendary storytelling.
+
+423
+00:36:50,400 --> 00:36:53,400
+But then that leads into there's this there's a shot in it.
+
+424
+00:36:53,400 --> 00:37:04,400
+This video of like a grandmother with her grandkid pouring water on a tomato five straight seconds, not into the soil, but on top of the tomato.
+
+425
+00:37:04,400 --> 00:37:09,400
+And if that's you washing the tomato, when you take it inside, where are we using the is it a loose tomato?
+
+426
+00:37:09,400 --> 00:37:13,400
+Yeah, like she picked a tomato out of the ground and she's pouring a bunch of water out of it.
+
+427
+00:37:13,400 --> 00:37:16,400
+And they cut out of the watering can. She's about to take a big bite of it.
+
+428
+00:37:16,400 --> 00:37:21,400
+Is that a bite? I don't know. I think I'm making this up, but I'm pretty sure this is just a long.
+
+429
+00:37:21,400 --> 00:37:25,400
+You I'm just saying, I made a shot. Does it seem like she's longingly looking at the tomato?
+
+430
+00:37:25,400 --> 00:37:32,400
+Like she's like, I want to take a big bite of this thing. No, she and her granddaughter, whoever it is, are laughing.
+
+431
+00:37:32,400 --> 00:37:35,400
+This is fun to that. This is I mean, kind of what they hear.
+
+432
+00:37:35,400 --> 00:37:43,400
+Let me just play like what happens once they say that it's Katina and that like maybe this would be fifty five and up aimed.
+
+433
+00:37:43,400 --> 00:37:46,400
+Let's see. We're clinking glasses.
+
+434
+00:37:46,400 --> 00:37:48,400
+You know, here this is just pen. This is Avatar.
+
+435
+00:37:48,400 --> 00:37:52,400
+They're showing the drone again, unfocused in what.
+
+436
+00:37:52,400 --> 00:37:57,400
+But now it'll be like, hey, good yoga today. Wow.
+
+437
+00:37:57,400 --> 00:38:02,400
+Look at this vase. Maybe I'll buy it. Oh, look, you brought strawberries over.
+
+438
+00:38:02,400 --> 00:38:05,400
+Here's the tomato. Wow.
+
+439
+00:38:05,400 --> 00:38:11,400
+In the bright hue of the sun, let's pour as much water and then clinking glasses.
+
+440
+00:38:11,400 --> 00:38:15,400
+Let's clink. And then a dog's got a tennis ball in its mouth.
+
+441
+00:38:15,400 --> 00:38:20,400
+What is it? What if you're so about storytelling and what story is it?
+
+442
+00:38:20,400 --> 00:38:24,400
+What is it? These are unrelated. This is an abstract film you've made.
+
+443
+00:38:24,400 --> 00:38:28,400
+This is a you did this to a bunch of like caustic noise rock.
+
+444
+00:38:28,400 --> 00:38:31,400
+Then it would be, boy, that was one of the weirdest movies I've ever seen.
+
+445
+00:38:31,400 --> 00:38:33,400
+They've well, they didn't say they bought.
+
+446
+00:38:33,400 --> 00:38:37,400
+They bought the rights to George Lucas's experimental films he's been making in his garage.
+
+447
+00:38:37,400 --> 00:38:39,400
+And that's what the stories are.
+
+448
+00:38:39,400 --> 00:38:43,400
+They're just formed like shapeless and formless and experimental stories.
+
+449
+00:38:43,400 --> 00:38:46,400
+Is anyone going to get to see them? No, only Charlie Rose.
+
+450
+00:38:46,400 --> 00:38:50,400
+No, you could just don't do anything bad. I'll show them to you.
+
+451
+00:38:50,400 --> 00:38:53,400
+All right. Bleed your chance, Charlie.
+
+452
+00:38:53,400 --> 00:39:01,400
+Anyway, you also get to meet as a guy, another as a new guy who talks to you and then Michael Hundigan.
+
+453
+00:39:01,400 --> 00:39:04,400
+Here's this like fitted shirt man.
+
+454
+00:39:04,400 --> 00:39:06,400
+This guy, he looks like he is.
+
+455
+00:39:06,400 --> 00:39:11,400
+He was bred in a lab that solely produces Harvard Lampoon presidents.
+
+456
+00:39:11,400 --> 00:39:16,400
+It was slick eyebrow fitted man.
+
+457
+00:39:16,400 --> 00:39:19,400
+And Michael Hundigan says a lot of nothing.
+
+458
+00:39:19,400 --> 00:39:21,400
+And then Josh Demaro says more nothing.
+
+459
+00:39:21,400 --> 00:39:26,400
+And then he's now meet one of the people responsible for this exciting development.
+
+460
+00:39:26,400 --> 00:39:28,400
+And then it goes back to Michael Hundigan.
+
+461
+00:39:28,400 --> 00:39:31,400
+I met Michael Hundigan. Nothing new to say.
+
+462
+00:39:31,400 --> 00:39:39,400
+Everyone in this video is doing an interview where they're looking not into the camera, but at an interviewer, but they are reading off of a teleprompter.
+
+463
+00:39:39,400 --> 00:39:42,400
+It's not an interview just because you don't look in the camera lens.
+
+464
+00:39:42,400 --> 00:39:45,400
+The most scripted thing I've ever seen.
+
+465
+00:39:45,400 --> 00:40:04,400
+There. Yeah, I mean, I get I get that on some level corporations have to pretend because the true answer to like what is this is like Disney sees a big opportunity to make a lot of money by buying up land across the world and just completely like expanding and owning more pieces of the world.
+
+466
+00:40:04,400 --> 00:40:06,400
+Like they're not going to say that.
+
+467
+00:40:06,400 --> 00:40:14,400
+But couldn't they have made something up better? Couldn't they have made like some explanation better or like or just don't do any of you know what?
+
+468
+00:40:14,400 --> 00:40:19,400
+Because, you know, who cares? Like the Americana, but the Americana was never couched in.
+
+469
+00:40:19,400 --> 00:40:23,400
+We want to transport you to put no, it's just like a funny place to the big.
+
+470
+00:40:23,400 --> 00:40:26,400
+They'll look as a big tower and trolley goes through it and fountain.
+
+471
+00:40:26,400 --> 00:40:36,400
+Yeah, they never nobody tried to convince me that all the passages in my life are going to happen at the Americana, even though they have is what has happened.
+
+472
+00:40:36,400 --> 00:40:39,400
+Little clearer to just say outdoor mall next to indoor malls.
+
+473
+00:40:39,400 --> 00:40:41,400
+The walkway. Yes.
+
+474
+00:40:41,400 --> 00:40:52,400
+Well, I can ask. Look, Disney, just say you want to make because I bet we probably would with this got built walk around to Cotino town center and opening weekend.
+
+475
+00:40:52,400 --> 00:40:54,400
+Of course.
+
+476
+00:40:54,400 --> 00:40:58,400
+I mean, we're going to buy. We will be asked to leave.
+
+477
+00:40:58,400 --> 00:41:00,400
+Oh, you three.
+
+478
+00:41:00,400 --> 00:41:08,400
+There is one aspect of this and I look I don't want to be the ghoul bringing this up, but they're saying that this is going to be done maybe in like 2040.
+
+479
+00:41:08,400 --> 00:41:10,400
+You imagine how hot it is going to be.
+
+480
+00:41:10,400 --> 00:41:12,400
+Oh, yeah.
+
+481
+00:41:12,400 --> 00:41:14,400
+2040. How what?
+
+482
+00:41:14,400 --> 00:41:22,400
+Deep in a website. I say it could be wrong, but I definitely saw that referred to either way, even if it's not that far off like this place here.
+
+483
+00:41:22,400 --> 00:41:25,400
+It'll be hotter next year. Oh my God.
+
+484
+00:41:25,400 --> 00:41:26,400
+2040.
+
+485
+00:41:26,400 --> 00:41:32,400
+There are some bad contractors in California, but you don't usually start by assuming like we're going to have the worst contractors.
+
+486
+00:41:32,400 --> 00:41:34,400
+So we wouldn't set expectations.
+
+487
+00:41:34,400 --> 00:41:38,400
+That's why I saw it somewhere.
+
+488
+00:41:38,400 --> 00:41:40,400
+A little too far. Maybe that's all phases.
+
+489
+00:41:40,400 --> 00:41:42,400
+Maybe it's totally completed.
+
+490
+00:41:42,400 --> 00:41:44,400
+Yeah, I mean, it is a lot of acres.
+
+491
+00:41:44,400 --> 00:41:50,400
+Again, that is like bigger than Disneyland by a lot and how long it took all of Disneyland to develop.
+
+492
+00:41:50,400 --> 00:41:52,400
+Yeah, maybe that's correct.
+
+493
+00:41:52,400 --> 00:41:58,400
+Are you sure it didn't read Disney plans to abandon the casino by 2040?
+
+494
+00:41:58,400 --> 00:42:00,400
+Yeah, that's probably right.
+
+495
+00:42:00,400 --> 00:42:02,400
+Disney plans to let it rot.
+
+496
+00:42:02,400 --> 00:42:18,400
+Well, they may also be penciling in some economic declines because like reading about some of the other DMV developments, like we've started construction on this development in 2006 and then the housing bubble immediately burst.
+
+497
+00:42:18,400 --> 00:42:24,400
+So like they had a, I don't know, a shopping center on a road with nothing else on it.
+
+498
+00:42:24,400 --> 00:42:27,400
+Like they got the shopping center done and they got like a house done.
+
+499
+00:42:27,400 --> 00:42:47,400
+But it's just like they had to essentially subsidize the supermarket while the housing market recovered so that when people did start buying homes and they got completed the construction and people moved in, there would be the mixed use that they had advertised.
+
+500
+00:42:47,400 --> 00:42:50,400
+Well, the economy seems fine now.
+
+501
+00:42:50,400 --> 00:42:51,400
+Yeah, everything's fine.
+
+502
+00:42:51,400 --> 00:42:52,400
+Everything's going great.
+
+503
+00:42:52,400 --> 00:42:53,400
+Everything's fine.
+
+504
+00:42:53,400 --> 00:42:56,400
+We're recording this the end of February and everything in the world looks great.
+
+505
+00:42:56,400 --> 00:42:57,400
+Everything feels pretty solid.
+
+506
+00:42:57,400 --> 00:42:58,400
+Everything feels wonderful.
+
+507
+00:42:58,400 --> 00:43:01,400
+February 25th, baby, 2022.
+
+508
+00:43:01,400 --> 00:43:03,400
+New Batman movie coming.
+
+509
+00:43:03,400 --> 00:43:04,400
+How about that?
+
+510
+00:43:04,400 --> 00:43:06,400
+Oh yeah, it is coming out.
+
+511
+00:43:06,400 --> 00:43:08,400
+Pretty good.
+
+512
+00:43:08,400 --> 00:43:11,400
+Oh boy, it seems like Paul Dano really took himself to the brink.
+
+513
+00:43:11,400 --> 00:43:13,400
+He took himself to the brink.
+
+514
+00:43:13,400 --> 00:43:14,400
+He almost died.
+
+515
+00:43:14,400 --> 00:43:16,400
+I only want Batman.
+
+516
+00:43:16,400 --> 00:43:23,400
+I only want Batman villains and actors to play Batman villains who do serious permanent damage to themselves.
+
+517
+00:43:23,400 --> 00:43:24,400
+Yes, that's it.
+
+518
+00:43:24,400 --> 00:43:29,400
+To play a guy who once was played by like a guy who smoked cigarettes in Musso and Frank's.
+
+519
+00:43:29,400 --> 00:43:33,400
+Well, you know what Jajago Borges said when she played Miss Minerva on the old 60s Batman show.
+
+520
+00:43:33,400 --> 00:43:35,400
+She was in a day spa.
+
+521
+00:43:35,400 --> 00:43:43,400
+She stayed in a day spa for three months and only subsisted on the steam in the steam room.
+
+522
+00:43:43,400 --> 00:43:47,400
+So because she really wanted to live the character of Miss Minerva who owned the evil day spa.
+
+523
+00:43:47,400 --> 00:43:52,400
+So it's just a long tradition is what I'm saying of actors punching themselves.
+
+524
+00:43:52,400 --> 00:43:53,400
+Yes.
+
+525
+00:43:53,400 --> 00:43:54,400
+Egghead got scurvy.
+
+526
+00:43:54,400 --> 00:43:56,400
+Was only eating eggs.
+
+527
+00:43:56,400 --> 00:43:59,400
+Vincent Price famously eating only eggs for weeks.
+
+528
+00:43:59,400 --> 00:44:00,400
+But eat some orange juice with them.
+
+529
+00:44:00,400 --> 00:44:01,400
+Have some citrus.
+
+530
+00:44:01,400 --> 00:44:04,400
+Sounds like Gaston from The Miner, Big and Strong.
+
+531
+00:44:04,400 --> 00:44:05,400
+That should be good for you.
+
+532
+00:44:05,400 --> 00:44:07,400
+Liberace, what did he do?
+
+533
+00:44:07,400 --> 00:44:09,400
+Who was he again?
+
+534
+00:44:09,400 --> 00:44:12,400
+The Great Chandel, of course.
+
+535
+00:44:12,400 --> 00:44:16,400
+And he played his evil twin brother, the mobster.
+
+536
+00:44:16,400 --> 00:44:23,400
+And yeah, he lives, you know, he lived on the streets for three years to prepare for that.
+
+537
+00:44:23,400 --> 00:44:27,400
+You're fucking dead.
+
+538
+00:44:27,400 --> 00:44:28,400
+He seduced.
+
+539
+00:44:28,400 --> 00:44:30,400
+Give me your money.
+
+540
+00:44:30,400 --> 00:44:35,400
+And Chandel seduced Aunt Harriet is also what happened on that episode.
+
+541
+00:44:35,400 --> 00:44:37,400
+I don't think they had sex.
+
+542
+00:44:37,400 --> 00:44:38,400
+He had, look, he had a lure.
+
+543
+00:44:38,400 --> 00:44:39,400
+He absolutely did.
+
+544
+00:44:39,400 --> 00:44:40,400
+The older ladies.
+
+545
+00:44:40,400 --> 00:44:41,400
+Yes.
+
+546
+00:44:41,400 --> 00:44:42,400
+Yes.
+
+547
+00:44:42,400 --> 00:44:45,400
+It might not have been his persuasion, but my goodness, this man was just as popular
+
+548
+00:44:45,400 --> 00:44:49,400
+with the Aunt Harriet types, I believe.
+
+549
+00:44:49,400 --> 00:44:53,400
+You know, we missed something about the Walt backstory.
+
+550
+00:44:53,400 --> 00:44:59,400
+Walt's famous love of the smoke tree ranch in the Coachella Valley that.
+
+551
+00:44:59,400 --> 00:45:00,400
+We got the Polo injury, right?
+
+552
+00:45:00,400 --> 00:45:01,400
+We did get that.
+
+553
+00:45:01,400 --> 00:45:02,400
+Yeah, we did.
+
+554
+00:45:02,400 --> 00:45:03,400
+I believe we did cover.
+
+555
+00:45:03,400 --> 00:45:05,400
+If we didn't, we'll get to it in the full episode.
+
+556
+00:45:05,400 --> 00:45:06,400
+It was Polo injury.
+
+557
+00:45:06,400 --> 00:45:09,400
+But I'm so excited.
+
+558
+00:45:09,400 --> 00:45:10,400
+Yeah, yeah, yeah.
+
+559
+00:45:10,400 --> 00:45:12,400
+We're all daydreaming about that now.
+
+560
+00:45:12,400 --> 00:45:16,400
+But OK, but key to our story of inspiration.
+
+561
+00:45:16,400 --> 00:45:17,400
+Here's the this is the story.
+
+562
+00:45:17,400 --> 00:45:21,400
+The story is Walt and the story of inspiration is the man himself, Walt Disney.
+
+563
+00:45:21,400 --> 00:45:26,400
+Of all the destinations in the world, Walt chose Palm Springs as his favorite special retreat.
+
+564
+00:45:26,400 --> 00:45:29,400
+As he referred to it, his laughing place.
+
+565
+00:45:29,400 --> 00:45:32,400
+No, no, no.
+
+566
+00:45:32,400 --> 00:45:34,400
+In twenty twenty two.
+
+567
+00:45:34,400 --> 00:45:36,400
+All right, everyone, look up.
+
+568
+00:45:36,400 --> 00:45:40,400
+Let's let's associate the phrase laughing place as much as we can now.
+
+569
+00:45:40,400 --> 00:45:41,400
+Did he today?
+
+570
+00:45:41,400 --> 00:45:44,400
+That's did he first of all, he didn't say that right?
+
+571
+00:45:44,400 --> 00:45:45,400
+I don't know.
+
+572
+00:45:45,400 --> 00:45:46,400
+Probably not.
+
+573
+00:45:46,400 --> 00:45:48,400
+The second of all, yeah.
+
+574
+00:45:48,400 --> 00:45:53,400
+Also, like laughing place, you know, I look I've never seen the film.
+
+575
+00:45:53,400 --> 00:45:55,400
+I wouldn't care to see the film.
+
+576
+00:45:55,400 --> 00:45:56,400
+Sure.
+
+577
+00:45:56,400 --> 00:46:01,400
+But in the context of the ride, the laughing place ends up being a not a good place to go.
+
+578
+00:46:01,400 --> 00:46:04,400
+That's why would they imagine going to Walt's?
+
+579
+00:46:04,400 --> 00:46:12,400
+Imagine getting tossed into Walt's laughing place is a very good chance that whoever wrote that has no clue about the song with self controversy.
+
+580
+00:46:12,400 --> 00:46:19,400
+Yeah, maybe doesn't know they just they were charmed by the I think maybe there was a piece in like history somewhere where walls like this is my laughing place.
+
+581
+00:46:19,400 --> 00:46:22,400
+Although he probably said about every place he stayed.
+
+582
+00:46:22,400 --> 00:46:24,400
+But still, they're like, oh, that sounds funny.
+
+583
+00:46:24,400 --> 00:46:26,400
+That sounds fun.
+
+584
+00:46:26,400 --> 00:46:30,400
+And he where there's a can of chili and a cold glass of black and white scotch.
+
+585
+00:46:30,400 --> 00:46:32,400
+That's his laughing place.
+
+586
+00:46:32,400 --> 00:46:35,400
+Look, I got to tour his apartment once, you know, that's right.
+
+587
+00:46:35,400 --> 00:46:39,400
+His toilet was his laughing place in the apartment.
+
+588
+00:46:39,400 --> 00:46:42,400
+I saw Walt Disney's toilet, by the way, I don't know if we've talked about this enough.
+
+589
+00:46:42,400 --> 00:46:45,400
+No, actually, I guess we really didn't.
+
+590
+00:46:45,400 --> 00:46:46,400
+Yeah, I know.
+
+591
+00:46:46,400 --> 00:46:53,400
+It's all been about the, you know, the magic lamp that Zaddy DiMaro taught us about.
+
+592
+00:46:53,400 --> 00:47:00,400
+But it's the I think the true beacon in the darkest days of COVID was that Walt's toilet would flush again.
+
+593
+00:47:00,400 --> 00:47:02,400
+Yeah, I was going to ask, is it hooked up? Was there water in it?
+
+594
+00:47:02,400 --> 00:47:03,400
+Yeah, can you use it?
+
+595
+00:47:03,400 --> 00:47:05,400
+I believe it could. You could use it.
+
+596
+00:47:05,400 --> 00:47:07,400
+We were not allowed to use it.
+
+597
+00:47:07,400 --> 00:47:13,400
+But yeah, I got this. I got to I got to see where the magic happened.
+
+598
+00:47:13,400 --> 00:47:17,400
+Any particular observations about it? Was it an unusual toilet anywhere?
+
+599
+00:47:17,400 --> 00:47:20,400
+Yeah, we're looking at an American Standard or a Kohler.
+
+600
+00:47:20,400 --> 00:47:23,400
+You know, I should have taken a note about it.
+
+601
+00:47:23,400 --> 00:47:28,400
+I don't remember what kind it was. It was a very, very small room.
+
+602
+00:47:28,400 --> 00:47:31,400
+It was not a big area to do it.
+
+603
+00:47:31,400 --> 00:47:37,400
+In general, by the way, there's some magic to, I guess, to that like it's in a bit above the firehouse.
+
+604
+00:47:37,400 --> 00:47:39,400
+And this is my my little world that I built.
+
+605
+00:47:39,400 --> 00:47:43,400
+But it's kind of a it's like a well, so a weird place to stay for a while.
+
+606
+00:47:43,400 --> 00:47:47,400
+This little oh, it's super like living in this garage for a little while.
+
+607
+00:47:47,400 --> 00:47:50,400
+The apartment is so weird.
+
+608
+00:47:50,400 --> 00:47:54,400
+It was obviously cool to go up there. And like it feels ghostly.
+
+609
+00:47:54,400 --> 00:47:59,400
+It feels like haunted because so much of it feels like it's been preserved.
+
+610
+00:47:59,400 --> 00:48:03,400
+But then you like logistically think about like like living here for a while.
+
+611
+00:48:03,400 --> 00:48:05,400
+You're like, this is strange.
+
+612
+00:48:05,400 --> 00:48:08,400
+It would feel like like I'm trying to think of a good example.
+
+613
+00:48:08,400 --> 00:48:11,400
+It would feel like living on a ride.
+
+614
+00:48:11,400 --> 00:48:15,400
+It would feel like living in the bed with the pirate on Pirates of the Caribbean or something.
+
+615
+00:48:15,400 --> 00:48:19,400
+The skeleton scoot over dear. It feels like that scale.
+
+616
+00:48:19,400 --> 00:48:22,400
+Well, of course, they have two separate beds in there, too.
+
+617
+00:48:22,400 --> 00:48:26,400
+And Walt Lillian had two separate beds in the Lillian was never there.
+
+618
+00:48:26,400 --> 00:48:27,400
+That's a hypothetical.
+
+619
+00:48:27,400 --> 00:48:33,400
+But to be honest, he brought his mistress up there like whoever it was, I don't know.
+
+620
+00:48:33,400 --> 00:48:36,400
+But she ever got. Yeah.
+
+621
+00:48:36,400 --> 00:48:37,400
+Right. And corrupt.
+
+622
+00:48:37,400 --> 00:48:39,400
+Walt had a lady in Anaheim. He had a lady out in the desert.
+
+623
+00:48:39,400 --> 00:48:41,400
+He had a lady.
+
+624
+00:48:41,400 --> 00:48:46,400
+Walt's journeys took him in pursuit of stories in quotes.
+
+625
+00:48:46,400 --> 00:48:50,400
+What's love of his insatiable love of stories of stories.
+
+626
+00:48:50,400 --> 00:48:55,400
+He wasn't satisfied to just be part of one story that he committed to.
+
+627
+00:48:55,400 --> 00:48:58,400
+Right. In front of his friends and family.
+
+628
+00:48:58,400 --> 00:49:01,400
+He wanted to share his love of stories with everyone.
+
+629
+00:49:01,400 --> 00:49:06,400
+Walt's love of family was so large, he had a second one in the Coachella Valley.
+
+630
+00:49:15,400 --> 00:49:19,400
+Do you remember? Do you remember on Fox a few years ago?
+
+631
+00:49:19,400 --> 00:49:27,400
+I feel like this was the kind of in the first downturn of like, oh, everyone's watching, you know, good shows start to show up on cable.
+
+632
+00:49:27,400 --> 00:49:29,400
+People are kind of checking out from broadcast TV.
+
+633
+00:49:29,400 --> 00:49:31,400
+There was a drama on Fox.
+
+634
+00:49:31,400 --> 00:49:35,400
+I think it was canceled after two or three episodes about a guy.
+
+635
+00:49:35,400 --> 00:49:39,400
+The whole premise was like, this guy's got two families.
+
+636
+00:49:39,400 --> 00:49:41,400
+That's going to be a pain in the ass.
+
+637
+00:49:41,400 --> 00:49:43,400
+Really? I don't remember this.
+
+638
+00:49:43,400 --> 00:49:47,400
+And he was living two lives like secret family, secret family.
+
+639
+00:49:47,400 --> 00:49:48,400
+Yeah. Wow.
+
+640
+00:49:48,400 --> 00:49:49,400
+No, I don't remember this.
+
+641
+00:49:49,400 --> 00:49:50,400
+Who was on the show?
+
+642
+00:49:50,400 --> 00:49:52,400
+I don't. I got to look this up.
+
+643
+00:49:52,400 --> 00:49:55,400
+I can remember that someone is like just screaming.
+
+644
+00:49:55,400 --> 00:49:56,400
+It's like they shot five episodes.
+
+645
+00:49:56,400 --> 00:49:58,400
+They only aired three.
+
+646
+00:49:58,400 --> 00:50:01,400
+Somebody's a big fan of the secret.
+
+647
+00:50:01,400 --> 00:50:04,400
+I want to know, is this like the cool secret family man?
+
+648
+00:50:04,400 --> 00:50:09,400
+Well, that's secret family man.
+
+649
+00:50:09,400 --> 00:50:11,400
+That's a good parody.
+
+650
+00:50:11,400 --> 00:50:15,400
+That's what you'd sing to yourself as you're commuting between the family.
+
+651
+00:50:15,400 --> 00:50:20,400
+Well, okay.
+
+652
+00:50:20,400 --> 00:50:27,400
+Another also to file away future episode waltz can get that one done too.
+
+653
+00:50:27,400 --> 00:50:29,400
+We say all your thoughts.
+
+654
+00:50:29,400 --> 00:50:31,400
+We'll have to like recreate.
+
+655
+00:50:31,400 --> 00:50:32,400
+Here's a really gross thought.
+
+656
+00:50:32,400 --> 00:50:36,400
+Well, we can, one of us can recreate his diet for a week and then we can
+
+657
+00:50:36,400 --> 00:50:41,400
+figure out what his ball movement might have been like.
+
+658
+00:50:41,400 --> 00:50:42,400
+I do.
+
+659
+00:50:42,400 --> 00:50:47,400
+You know where I'm, do you guys have denizens chili by the palette?
+
+660
+00:50:47,400 --> 00:50:48,400
+Great.
+
+661
+00:50:48,400 --> 00:50:51,400
+And then just, let's see, it's a week.
+
+662
+00:50:51,400 --> 00:50:53,400
+So nine bottles of scotch.
+
+663
+00:50:53,400 --> 00:50:54,400
+Yeah.
+
+664
+00:50:54,400 --> 00:50:57,400
+We're all end up in the hospital in the room.
+
+665
+00:50:57,400 --> 00:51:01,400
+He died in after a week of eating and drinking like that.
+
+666
+00:51:01,400 --> 00:51:05,400
+We weren't supposed to live like he lived in December, 1966.
+
+667
+00:51:05,400 --> 00:51:06,400
+Yeah.
+
+668
+00:51:06,400 --> 00:51:07,400
+Yeah.
+
+669
+00:51:07,400 --> 00:51:09,400
+Don't forget the cigarettes.
+
+670
+00:51:09,400 --> 00:51:10,400
+You got to smoke.
+
+671
+00:51:10,400 --> 00:51:11,400
+Oh no, nevermind.
+
+672
+00:51:11,400 --> 00:51:12,400
+I guess I take it back.
+
+673
+00:51:12,400 --> 00:51:13,400
+Okay.
+
+674
+00:51:13,400 --> 00:51:16,400
+Smoke like a carton a week.
+
+675
+00:51:16,400 --> 00:51:19,400
+Canceled after the second episode.
+
+676
+00:51:19,400 --> 00:51:21,400
+It's called Lone star.
+
+677
+00:51:21,400 --> 00:51:23,400
+Aired in 2010.
+
+678
+00:51:23,400 --> 00:51:26,400
+It was about a man who'd lived a double life married to two different
+
+679
+00:51:26,400 --> 00:51:28,400
+women in two different Texas towns.
+
+680
+00:51:28,400 --> 00:51:31,400
+Who was married to two different women in two different Texas towns.
+
+681
+00:51:31,400 --> 00:51:34,400
+I wish Chris Knopf, Kevin Spacey.
+
+682
+00:51:34,400 --> 00:51:35,400
+Who's left.
+
+683
+00:51:35,400 --> 00:51:36,400
+Charlie Rose.
+
+684
+00:51:36,400 --> 00:51:39,400
+Charlie Rose stars on Lone star.
+
+685
+00:51:39,400 --> 00:51:41,400
+That's why people don't remember it.
+
+686
+00:51:41,400 --> 00:51:43,400
+Cause it was so short lived.
+
+687
+00:51:43,400 --> 00:51:46,400
+Adrian, uh, Plycky, is that how you say her name?
+
+688
+00:51:46,400 --> 00:51:47,400
+Yeah.
+
+689
+00:51:47,400 --> 00:51:48,400
+She was.
+
+690
+00:51:48,400 --> 00:51:49,400
+Okay.
+
+691
+00:51:49,400 --> 00:51:51,400
+She's on the second field.
+
+692
+00:51:51,400 --> 00:51:52,400
+Um,
+
+693
+00:51:52,400 --> 00:51:54,400
+I don't know if you guys remember her name.
+
+694
+00:51:54,400 --> 00:51:55,400
+I don't know.
+
+695
+00:51:55,400 --> 00:51:56,400
+I don't know.
+
+696
+00:51:56,400 --> 00:51:57,400
+I don't know.
+
+697
+00:51:57,400 --> 00:51:58,400
+I don't know.
+
+698
+00:51:58,400 --> 00:51:59,400
+Okay.
+
+699
+00:51:59,400 --> 00:52:01,400
+She's on the second field.
+
+700
+00:52:01,400 --> 00:52:02,400
+Um,
+
+701
+00:52:02,400 --> 00:52:03,400
+She was in the wonder.
+
+702
+00:52:03,400 --> 00:52:04,400
+She was on the David E.
+
+703
+00:52:04,400 --> 00:52:06,400
+Kelly wonder woman that never went.
+
+704
+00:52:06,400 --> 00:52:07,400
+The pilot.
+
+705
+00:52:07,400 --> 00:52:08,400
+Yeah.
+
+706
+00:52:08,400 --> 00:52:09,400
+Many years ago.
+
+707
+00:52:09,400 --> 00:52:10,400
+James Wolk.
+
+708
+00:52:10,400 --> 00:52:11,400
+Maybe.
+
+709
+00:52:11,400 --> 00:52:12,400
+Oh, I don't know who that is.
+
+710
+00:52:12,400 --> 00:52:14,400
+Uh, Hey, you got John Voight.
+
+711
+00:52:14,400 --> 00:52:15,400
+All right.
+
+712
+00:52:15,400 --> 00:52:16,400
+Great.
+
+713
+00:52:16,400 --> 00:52:17,400
+You got the Voight man.
+
+714
+00:52:17,400 --> 00:52:18,400
+Always a good phrase to hear.
+
+715
+00:52:18,400 --> 00:52:19,400
+You got a John Voight.
+
+716
+00:52:19,400 --> 00:52:20,400
+I saw him.
+
+717
+00:52:20,400 --> 00:52:23,400
+So a phrase that Cotino might hear one day.
+
+718
+00:52:23,400 --> 00:52:24,400
+Cause what?
+
+719
+00:52:24,400 --> 00:52:26,400
+Cotino homeowners association.
+
+720
+00:52:26,400 --> 00:52:27,400
+You had Sean Voight.
+
+721
+00:52:27,400 --> 00:52:28,400
+I saw John Voight.
+
+722
+00:52:28,400 --> 00:52:29,400
+Uh,
+
+723
+00:52:29,400 --> 00:52:31,400
+At arts deli a couple of years ago.
+
+724
+00:52:31,400 --> 00:52:35,400
+He was just having a business meeting of some kind through all of celebrity with that.
+
+725
+00:52:35,400 --> 00:52:36,400
+Without that coming up.
+
+726
+00:52:36,400 --> 00:52:37,400
+Talking about that.
+
+727
+00:52:37,400 --> 00:52:38,400
+Yeah.
+
+728
+00:52:38,400 --> 00:52:41,400
+Is arts the one on the, by the bowling alley adventure or no?
+
+729
+00:52:41,400 --> 00:52:42,400
+Almost.
+
+730
+00:52:42,400 --> 00:52:43,400
+Okay.
+
+731
+00:52:43,400 --> 00:52:44,400
+Um,
+
+732
+00:52:44,400 --> 00:52:45,400
+Anyways, uh,
+
+733
+00:52:45,400 --> 00:52:46,400
+What have we missed about all this?
+
+734
+00:52:46,400 --> 00:52:49,400
+Oh, here's a weird thing that,
+
+735
+00:52:49,400 --> 00:52:50,400
+Um,
+
+736
+00:52:50,400 --> 00:52:51,400
+Okay.
+
+737
+00:52:51,400 --> 00:52:54,400
+Well, a couple of things I can point out from their website.
+
+738
+00:52:54,400 --> 00:52:55,400
+Um,
+
+739
+00:52:55,400 --> 00:52:57,400
+And, and elsewhere in that video,
+
+740
+00:52:57,400 --> 00:52:58,400
+Um,
+
+741
+00:52:58,400 --> 00:53:02,400
+My favorite part of the website they put up story living by Disney.com is,
+
+742
+00:53:02,400 --> 00:53:05,400
+There's a big section of jargon copy.
+
+743
+00:53:05,400 --> 00:53:09,400
+And before that, there's a big picture and a big splash titled the Disney touch.
+
+744
+00:53:09,400 --> 00:53:15,400
+And the background of that phrase, the Disney touch is a dude jamming out on guitar.
+
+745
+00:53:15,400 --> 00:53:16,400
+Oh, I saw that.
+
+746
+00:53:16,400 --> 00:53:17,400
+Yeah.
+
+747
+00:53:17,400 --> 00:53:18,400
+Yeah.
+
+748
+00:53:18,400 --> 00:53:19,400
+Very exciting.
+
+749
+00:53:19,400 --> 00:53:21,400
+Now there's another guy with a guitar in the back.
+
+750
+00:53:21,400 --> 00:53:24,400
+So Cotino is a place to start your dad band.
+
+751
+00:53:24,400 --> 00:53:25,400
+Oh yeah.
+
+752
+00:53:25,400 --> 00:53:29,400
+Cotino and Cialis using the same stock footage.
+
+753
+00:53:29,400 --> 00:53:32,400
+Cotino doesn't have two bathtubs next to each other.
+
+754
+00:53:32,400 --> 00:53:33,400
+You know,
+
+755
+00:53:33,400 --> 00:53:34,400
+You can hold hands with your partner.
+
+756
+00:53:34,400 --> 00:53:38,400
+You know, that's like kind of a rambly blues jam they're doing right there.
+
+757
+00:53:38,400 --> 00:53:39,400
+That's a long tongue.
+
+758
+00:53:39,400 --> 00:53:40,400
+It's tall Sally.
+
+759
+00:53:40,400 --> 00:53:41,400
+Yeah.
+
+760
+00:53:41,400 --> 00:53:42,400
+That is a long tall Sally.
+
+761
+00:53:42,400 --> 00:53:43,400
+Yeah.
+
+762
+00:53:43,400 --> 00:53:47,400
+If they want to structure it and not just, not just jam, of course you'd want to jam.
+
+763
+00:53:47,400 --> 00:53:52,400
+Rambling in incoherent, mostly incorrect story about muddy waters.
+
+764
+00:53:53,400 --> 00:53:54,400
+And the crossroads.
+
+765
+00:53:54,400 --> 00:53:55,400
+Get Belushi.
+
+766
+00:53:55,400 --> 00:53:57,400
+Get Belushi on stage.
+
+767
+00:53:57,400 --> 00:53:59,400
+You'll probably play the grand opening.
+
+768
+00:53:59,400 --> 00:54:00,400
+Yeah.
+
+769
+00:54:00,400 --> 00:54:03,400
+The other thing that I like is the, okay.
+
+770
+00:54:03,400 --> 00:54:06,400
+So they're like, they're showing the town center.
+
+771
+00:54:06,400 --> 00:54:09,400
+And again, look, I like these boring outdoor mall places.
+
+772
+00:54:09,400 --> 00:54:10,400
+I would like that.
+
+773
+00:54:10,400 --> 00:54:14,400
+I would go walk around here, but it's just so funny to see it presented by tomorrow by
+
+774
+00:54:14,400 --> 00:54:18,400
+this man who people have, especially when the park reopened and it's like, no here,
+
+775
+00:54:18,400 --> 00:54:21,400
+this is an exact, this is what an executive looks like.
+
+776
+00:54:21,400 --> 00:54:23,400
+He cares about the parks.
+
+777
+00:54:23,400 --> 00:54:26,400
+He's shaking hands and he is beautiful.
+
+778
+00:54:26,400 --> 00:54:29,400
+And then he's like, and now we're watching him just spew shit about condos.
+
+779
+00:54:32,400 --> 00:54:34,400
+That's kind of where I fall on this.
+
+780
+00:54:34,400 --> 00:54:38,400
+But anyway, but look, I would like to go to the place in this concept art with this
+
+781
+00:54:38,400 --> 00:54:43,400
+like technicolor, these technicolor bubbles in the air and with these boring wine
+
+782
+00:54:43,400 --> 00:54:45,400
+bars, I would like to be here.
+
+783
+00:54:45,400 --> 00:54:49,400
+But one thing I like there's, so there's like a pillar in the middle of the words
+
+784
+00:54:49,400 --> 00:54:52,400
+that, you know, this is very standard concept art, right?
+
+785
+00:54:52,400 --> 00:54:56,400
+Where they don't know what brands are going to come start restaurants or, you know,
+
+786
+00:54:56,400 --> 00:54:58,400
+fill the retail spaces in this place.
+
+787
+00:54:59,400 --> 00:55:04,400
+So they just make up some bullshit, you know, arione, you just put some Italian
+
+788
+00:55:04,400 --> 00:55:07,400
+word, but there's this one where there's a pole in the middle.
+
+789
+00:55:07,400 --> 00:55:11,400
+And in the video, it's just panning across this shot, right?
+
+790
+00:55:11,400 --> 00:55:15,400
+So you see the first half of it and it's pie P I E or pie place.
+
+791
+00:55:15,400 --> 00:55:20,400
+And then it gets all the way over and you see there's a space after pie.
+
+792
+00:55:20,400 --> 00:55:25,400
+And then it gets to the rest of the word and it's R O apostrophe S pie rose.
+
+793
+00:55:26,400 --> 00:55:28,400
+The restaurant is called pie rose.
+
+794
+00:55:29,400 --> 00:55:33,400
+And I think the intent was when this was a still painting, they probably imagined
+
+795
+00:55:33,400 --> 00:55:36,400
+there was like a D back here, like it was Pietros or something.
+
+796
+00:55:36,400 --> 00:55:39,400
+But in the video that shows the space, they commit to that.
+
+797
+00:55:39,400 --> 00:55:41,400
+The restaurant is pie rose, pie rose.
+
+798
+00:55:41,400 --> 00:55:43,400
+So I'm excited to go to pie rose.
+
+799
+00:55:43,400 --> 00:55:46,400
+I bet it's like a hot one style, like tie in red.
+
+800
+00:55:46,400 --> 00:55:48,400
+Everything's real spicy.
+
+801
+00:55:49,400 --> 00:55:50,400
+It's a hot one.
+
+802
+00:55:53,400 --> 00:55:54,400
+That's row.
+
+803
+00:55:54,400 --> 00:55:55,400
+Oh, I see.
+
+804
+00:55:55,400 --> 00:55:56,400
+Oh, I get it.
+
+805
+00:55:56,400 --> 00:55:57,400
+And they could.
+
+806
+00:55:57,400 --> 00:56:01,400
+I was thinking it was like a new Disney character name, like pie rose.
+
+807
+00:56:02,400 --> 00:56:04,400
+And she's like, her name's Rose and she makes pies.
+
+808
+00:56:05,400 --> 00:56:06,400
+That sounds nice.
+
+809
+00:56:06,400 --> 00:56:09,400
+She's like friendly and she welcomes you in and you go like pie rose.
+
+810
+00:56:09,400 --> 00:56:10,400
+How are you?
+
+811
+00:56:10,400 --> 00:56:11,400
+And she's like, oh, great.
+
+812
+00:56:11,400 --> 00:56:12,400
+I'm doing fine.
+
+813
+00:56:12,400 --> 00:56:13,400
+I'm doing fine.
+
+814
+00:56:13,400 --> 00:56:14,400
+Sit down.
+
+815
+00:56:14,400 --> 00:56:15,400
+Whipping up a boysenberry.
+
+816
+00:56:15,400 --> 00:56:16,400
+Yeah.
+
+817
+00:56:16,400 --> 00:56:17,400
+Yeah.
+
+818
+00:56:17,400 --> 00:56:18,400
+Maybe pie rose.
+
+819
+00:56:18,400 --> 00:56:19,400
+Yeah.
+
+820
+00:56:19,400 --> 00:56:22,400
+Maybe it is that, that like heat theme and it's the updated version of the fireworks
+
+821
+00:56:22,400 --> 00:56:23,400
+factory.
+
+822
+00:56:23,400 --> 00:56:24,400
+I rose.
+
+823
+00:56:24,400 --> 00:56:25,400
+Yeah.
+
+824
+00:56:25,400 --> 00:56:26,400
+I rose the real name of the bang master.
+
+825
+00:56:26,400 --> 00:56:27,400
+Oh yeah.
+
+826
+00:56:27,400 --> 00:56:29,400
+Well, there's the part, there's an X-Men villain named pyro as well.
+
+827
+00:56:29,400 --> 00:56:30,400
+Yeah.
+
+828
+00:56:30,400 --> 00:56:33,400
+It's spelled traditionally like pyro is, but maybe.
+
+829
+00:56:33,400 --> 00:56:34,400
+Yeah.
+
+830
+00:56:34,400 --> 00:56:35,400
+I don't know.
+
+831
+00:56:35,400 --> 00:56:36,400
+Well, now in my heart, sit on it.
+
+832
+00:56:36,400 --> 00:56:37,400
+Now they can't buy rose.
+
+833
+00:56:37,400 --> 00:56:38,400
+Yeah.
+
+834
+00:56:38,400 --> 00:56:39,400
+Stick a cheesecake factory in there.
+
+835
+00:56:39,400 --> 00:56:40,400
+It's gotta be pyro.
+
+836
+00:56:40,400 --> 00:56:41,400
+Yeah.
+
+837
+00:56:41,400 --> 00:56:42,400
+I think that's the pyro.
+
+838
+00:56:42,400 --> 00:56:43,400
+Well, hopefully.
+
+839
+00:56:43,400 --> 00:56:44,400
+Yeah.
+
+840
+00:56:44,400 --> 00:56:45,400
+What are we?
+
+841
+00:56:45,400 --> 00:56:46,400
+Are there any places we want to want to go in there?
+
+842
+00:56:46,400 --> 00:56:50,720
+Like what would your dream lineup be for the, for the outdoor mall?
+
+843
+00:56:50,720 --> 00:56:54,240
+I mean, the place I want to go is the place that's already there that I like.
+
+844
+00:56:54,240 --> 00:56:55,880
+It's called Palm Springs.
+
+845
+00:56:55,880 --> 00:56:58,480
+Like I think that's what all of this is.
+
+846
+00:56:58,480 --> 00:57:01,280
+They're trying to generate from nothing.
+
+847
+00:57:01,280 --> 00:57:03,680
+How about this?
+
+848
+00:57:03,680 --> 00:57:05,600
+What if they throw Gideon's out there?
+
+849
+00:57:05,600 --> 00:57:08,200
+Oh, well, you know what I mentioned.
+
+850
+00:57:08,200 --> 00:57:09,200
+All right.
+
+851
+00:57:10,000 --> 00:57:11,000
+Oh yeah.
+
+852
+00:57:11,000 --> 00:57:13,880
+All that that said, chocolate chip cookie in the desert.
+
+853
+00:57:13,880 --> 00:57:15,360
+I mean, that's not the best.
+
+854
+00:57:15,360 --> 00:57:21,320
+Well, hot chocolate chip cookie, but a hot chocolate chip cookie in the 85 degree Orlando
+
+855
+00:57:21,320 --> 00:57:22,320
+heat.
+
+856
+00:57:22,320 --> 00:57:24,680
+Uh, well yeah, that's true.
+
+857
+00:57:24,680 --> 00:57:29,960
+Maybe they, you know, I, I went to Hershey park once and they were giving out samples
+
+858
+00:57:29,960 --> 00:57:34,880
+of the chocolate they had made for the troops during operation desert storm that melts at
+
+859
+00:57:34,880 --> 00:57:35,880
+higher temperatures.
+
+860
+00:57:35,880 --> 00:57:38,600
+Maybe they can get hold of that.
+
+861
+00:57:38,600 --> 00:57:42,600
+Reinforce desert heat with standing shock.
+
+862
+00:57:42,600 --> 00:57:44,920
+Reinforce MRE chocolate.
+
+863
+00:57:44,920 --> 00:57:48,680
+Welcome to Gideon's where we use chocolate from desert storm.
+
+864
+00:57:48,680 --> 00:57:54,120
+It holds up in the heat much better.
+
+865
+00:57:54,120 --> 00:57:55,120
+Wizard of Gideon.
+
+866
+00:57:55,120 --> 00:57:56,520
+I mean, what is Gideon a wizard?
+
+867
+00:57:56,520 --> 00:57:57,880
+What's the backstory of Gideon's?
+
+868
+00:57:57,880 --> 00:57:58,880
+Do we know?
+
+869
+00:57:58,880 --> 00:58:00,360
+Well, it's kind of in a cult bookstore.
+
+870
+00:58:00,360 --> 00:58:01,360
+Yeah.
+
+871
+00:58:01,360 --> 00:58:02,800
+But it's like Gideon, like a magician or something.
+
+872
+00:58:02,800 --> 00:58:03,800
+Do we know?
+
+873
+00:58:03,800 --> 00:58:05,640
+Is there a, yeah, I guess there would be a Gideon, right?
+
+874
+00:58:05,640 --> 00:58:07,440
+We got to dig into.
+
+875
+00:58:07,440 --> 00:58:08,440
+We got to dig in.
+
+876
+00:58:09,280 --> 00:58:12,800
+Hopefully there's, there's talk about bringing Gideon's to Anaheim, but maybe this is a quicker
+
+877
+00:58:12,800 --> 00:58:15,640
+path to get Gideon's and Joshua tree.
+
+878
+00:58:15,640 --> 00:58:17,640
+What about chicken guy?
+
+879
+00:58:17,640 --> 00:58:18,640
+Chicken guy.
+
+880
+00:58:18,640 --> 00:58:19,640
+Yeah.
+
+881
+00:58:19,640 --> 00:58:20,640
+And Josh.
+
+882
+00:58:20,640 --> 00:58:23,600
+These are the third party vendors they often work with.
+
+883
+00:58:23,600 --> 00:58:25,600
+Mariah's cookies in.
+
+884
+00:58:25,600 --> 00:58:26,600
+Free stuff.
+
+885
+00:58:26,600 --> 00:58:27,600
+Finally a brick and mortar.
+
+886
+00:58:27,600 --> 00:58:28,600
+Yeah.
+
+887
+00:58:28,600 --> 00:58:29,600
+It carries.
+
+888
+00:58:29,600 --> 00:58:33,040
+What about a plant that'll be $70 please.
+
+889
+00:58:33,040 --> 00:58:35,240
+What if we just give Robert Earl a blank slate?
+
+890
+00:58:35,240 --> 00:58:36,240
+Oh, okay.
+
+891
+00:58:37,040 --> 00:58:38,040
+They give it all to him.
+
+892
+00:58:38,040 --> 00:58:39,040
+Yeah.
+
+893
+00:58:39,040 --> 00:58:40,040
+Yeah.
+
+894
+00:58:40,040 --> 00:58:41,040
+Then we're, then we're good.
+
+895
+00:58:41,040 --> 00:58:42,040
+You know, is all Earl restaurants.
+
+896
+00:58:42,040 --> 00:58:43,040
+Oh, the full lineup.
+
+897
+00:58:43,040 --> 00:58:44,800
+Breakfast club, bang.
+
+898
+00:58:44,800 --> 00:58:47,000
+Steve Harvey's family food.
+
+899
+00:58:47,000 --> 00:58:48,000
+Bang.
+
+900
+00:58:48,000 --> 00:58:49,000
+Oh yeah.
+
+901
+00:58:49,000 --> 00:58:50,000
+Get them all.
+
+902
+00:58:50,000 --> 00:58:51,000
+Get them all in there.
+
+903
+00:58:51,000 --> 00:58:52,000
+And then we'll, yeah.
+
+904
+00:58:52,000 --> 00:58:55,560
+Then each of us will figure out a way to buy a house.
+
+905
+00:58:55,560 --> 00:58:58,360
+We quit our quit entertainment and get another job.
+
+906
+00:58:58,360 --> 00:58:59,360
+This podcast.
+
+907
+00:58:59,360 --> 00:59:00,360
+The podcast.
+
+908
+00:59:00,360 --> 00:59:01,360
+And then.
+
+909
+00:59:01,360 --> 00:59:04,040
+Well, the Cotino cast, we're going to have to chronicle it.
+
+910
+00:59:04,040 --> 00:59:05,040
+Oh yeah.
+
+911
+00:59:05,040 --> 00:59:06,040
+Yeah.
+
+912
+00:59:06,840 --> 00:59:11,040
+We'll reunite when we're north of 55 for the Cotino.
+
+913
+00:59:11,040 --> 00:59:17,160
+Reunite for two things for a podcast and to jam out on long tall Sally.
+
+914
+00:59:17,160 --> 00:59:27,800
+All of our wives doing the thing you've ever seen.
+
+915
+00:59:27,800 --> 00:59:30,880
+Let's give them tambourine.
+
+916
+00:59:30,880 --> 00:59:31,880
+Let's give the girls tambourine.
+
+917
+00:59:32,200 --> 00:59:35,720
+For a second, I'm like, you meant like secret wife and regular wife.
+
+918
+00:59:35,720 --> 00:59:36,720
+Going back.
+
+919
+00:59:36,720 --> 00:59:40,440
+I wasn't going to introduce them, but we just need more.
+
+920
+00:59:40,440 --> 00:59:42,440
+We need more meat to those vocals.
+
+921
+00:59:42,440 --> 00:59:43,440
+So yeah.
+
+922
+00:59:43,440 --> 00:59:44,440
+All right.
+
+923
+00:59:44,440 --> 00:59:47,440
+So you guys have a lot in common.
+
+924
+00:59:47,440 --> 00:59:48,440
+Me.
+
+925
+00:59:48,440 --> 00:59:57,320
+Speaking of jamming out, I don't know if we're wrapping up, but I have a, I wrote a little
+
+926
+00:59:57,320 --> 00:59:58,920
+song to celebrate.
+
+927
+00:59:58,920 --> 00:59:59,920
+Oh wow.
+
+928
+00:59:59,920 --> 01:00:00,920
+The founding of Cotino.
+
+929
+01:00:01,160 --> 01:00:02,160
+All right.
+
+930
+01:00:02,160 --> 01:00:05,600
+I think this, I think this summons the spirit.
+
+931
+01:00:05,600 --> 01:00:08,600
+Okay.
+
+932
+01:00:08,600 --> 01:00:10,400
+Cotino in Rancho.
+
+933
+01:00:10,400 --> 01:00:15,400
+Ooh, a monthly art show, a condo by Pyros.
+
+934
+01:00:15,400 --> 01:00:17,400
+Come on Josh tomorrow.
+
+935
+01:00:17,400 --> 01:00:22,400
+Laguna Soclino, Disney's latest dreamo.
+
+936
+01:00:22,400 --> 01:00:23,400
+Cotino.
+
+937
+01:00:23,400 --> 01:00:24,400
+Yay.
+
+938
+01:00:24,400 --> 01:00:26,680
+See, I'm already jamming.
+
+939
+01:00:26,680 --> 01:00:27,680
+Wow.
+
+940
+01:00:27,680 --> 01:00:28,680
+That's great.
+
+941
+01:00:28,680 --> 01:00:33,520
+I've seen the way Aaron scowled at me after I sang that song to her.
+
+942
+01:00:33,520 --> 01:00:35,160
+She said bad to me.
+
+943
+01:00:35,160 --> 01:00:38,160
+Like she says to the cats.
+
+944
+01:00:38,160 --> 01:00:42,360
+No, I think it was good.
+
+945
+01:00:42,360 --> 01:00:43,360
+I think.
+
+946
+01:00:43,360 --> 01:00:44,360
+All right.
+
+947
+01:00:44,360 --> 01:00:45,360
+Thanks.
+
+948
+01:00:45,360 --> 01:00:46,360
+That's the validation I needed.
+
+949
+01:00:46,360 --> 01:00:49,360
+Mike Love will be playing there in his mid-90s.
+
+950
+01:00:49,360 --> 01:00:52,360
+110 years old.
+
+951
+01:00:52,360 --> 01:00:56,360
+He's so auto-tuned.
+
+952
+01:00:57,040 --> 01:01:01,040
+If you hear him today, if they release any clip of him.
+
+953
+01:01:01,040 --> 01:01:03,480
+It's just going to be, he'll just be lips.
+
+954
+01:01:03,480 --> 01:01:07,720
+He's a permanent lip-syncher who can kind of twiddle his fingers.
+
+955
+01:01:07,720 --> 01:01:12,160
+They have to turn all his many rings on his hands into foam so that he can hold them up
+
+956
+01:01:12,160 --> 01:01:14,680
+without his hands just dropping to the pavement.
+
+957
+01:01:14,680 --> 01:01:17,000
+Oh man, the hat's going to be huge at that point.
+
+958
+01:01:17,000 --> 01:01:20,280
+The baseball hat's got to be like a fully circular, it's going to have to cover his
+
+959
+01:01:20,280 --> 01:01:24,200
+whole body because the sun's going to be so strong in the desert at that point.
+
+960
+01:01:25,040 --> 01:01:29,560
+And he's going to want it to cover his face, his withering face.
+
+961
+01:01:29,560 --> 01:01:33,560
+Didn't I on one podcast say that he'll be hooked up to the Rise of Skywalker Emperor
+
+962
+01:01:33,560 --> 01:01:34,560
+machine?
+
+963
+01:01:34,560 --> 01:01:39,960
+That would be like kind of hauled around on like an arm, on a hydraulic arm.
+
+964
+01:01:39,960 --> 01:01:43,600
+Which is a lot like what the Queen Captain EO is on.
+
+965
+01:01:43,600 --> 01:01:44,600
+That is right.
+
+966
+01:01:44,600 --> 01:01:45,880
+So I will, yeah.
+
+967
+01:01:45,880 --> 01:01:52,600
+One, that's my secret wife hides in the basement as an attach to the Angelica Houston ring.
+
+968
+01:01:53,000 --> 01:01:59,400
+And the other, I also keep Mike Love on dialysis and swing him down when I want to hear a little
+
+969
+01:01:59,400 --> 01:02:08,240
+hit of, when some little braggart is you being, oh he's malfunctioning, he's smoking, gets
+
+970
+01:02:08,240 --> 01:02:09,240
+into back up.
+
+971
+01:02:09,240 --> 01:02:10,240
+Are we done?
+
+972
+01:02:10,240 --> 01:02:11,240
+I think we're done.
+
+973
+01:02:11,240 --> 01:02:18,360
+All right, well he survived podcast the ride.
+
+974
+01:02:18,360 --> 01:02:20,920
+Will we all, will Cotino survive?
+
+975
+01:02:20,920 --> 01:02:22,120
+Will this plan survive?
+
+976
+01:02:22,640 --> 01:02:26,200
+Will there be other story living by Disney locales?
+
+977
+01:02:26,200 --> 01:02:27,200
+That's what we don't know.
+
+978
+01:02:27,200 --> 01:02:34,920
+We've announced Cotino, but where else are we going to learn that Walt called home and
+
+979
+01:02:34,920 --> 01:02:40,680
+loved like, oh, it turns out that Walt actually really, he was very passionate about the manmade
+
+980
+01:02:40,680 --> 01:02:42,680
+islands outside of Dubai.
+
+981
+01:02:42,680 --> 01:02:43,680
+What?
+
+982
+01:02:43,680 --> 01:02:46,280
+I thought those were only built a couple of years ago.
+
+983
+01:02:46,280 --> 01:02:47,280
+No, no, no.
+
+984
+01:02:47,280 --> 01:02:50,580
+He, I think it inspired Bambi.
+
+985
+01:02:50,580 --> 01:02:52,660
+He went there and thought of Bambi there.
+
+986
+01:02:52,660 --> 01:02:59,100
+Maybe they'll figure out a way to tie in Walt to that second island that they just kind
+
+987
+01:02:59,100 --> 01:03:00,100
+of dropped.
+
+988
+01:03:00,100 --> 01:03:01,100
+Oh, Rhodey's Island.
+
+989
+01:03:01,100 --> 01:03:02,100
+And then he left.
+
+990
+01:03:02,100 --> 01:03:03,900
+Rhodey chose space over his island.
+
+991
+01:03:03,900 --> 01:03:04,900
+Yeah.
+
+992
+01:03:04,900 --> 01:03:06,460
+It was going so poorly.
+
+993
+01:03:06,460 --> 01:03:09,220
+He's like, I have to leave the earth.
+
+994
+01:03:09,220 --> 01:03:14,580
+It just soured him on the general idea of land and soil.
+
+995
+01:03:14,580 --> 01:03:15,580
+Yeah.
+
+996
+01:03:15,580 --> 01:03:20,140
+He turned bearish on land and soil.
+
+997
+01:03:20,380 --> 01:03:21,380
+Who wouldn't?
+
+998
+01:03:21,380 --> 01:03:28,620
+Well, we're so excited for every Cotino development and we will keep you posted on that.
+
+999
+01:03:28,620 --> 01:03:31,900
+Keep it tuned here to podcast throughout the second gate for three bonus episodes every
+
+1000
+01:03:31,900 --> 01:03:39,700
+month, including as we've learned soon, Walt's polo injury, Walt's turlet, lots to look forward
+
+1001
+01:03:39,700 --> 01:03:40,700
+to.
+
+1002
+01:03:40,700 --> 01:03:41,700
+Thanks for subscribing.
+
+1003
+01:03:41,700 --> 01:03:42,700
+Goodbye.
+

@@ -1,0 +1,6792 @@
+1
+00:00:00,000 --> 00:00:09,920
+Today, a podcast, The Ride, 65 million years in the making, featuring hadrosaurs, gerbils,
+
+2
+00:00:09,920 --> 00:00:18,000
+tarps, the mighty Akron, and a journey to Jurassic Park, The Ride with Matt Mazzani.
+
+3
+00:00:18,000 --> 00:00:45,680
+Welcome to Podcast The Ride.
+
+4
+00:00:45,680 --> 00:00:50,640
+Welcome to Podcast The Ride, the world's greatest, and as far as I'm concerned, only theme park
+
+5
+00:00:50,640 --> 00:00:51,640
+podcast.
+
+6
+00:00:51,640 --> 00:00:54,320
+I'm Jason Sheridan, joined as always by Mike Carlson.
+
+7
+00:00:54,320 --> 00:00:55,320
+Hello there.
+
+8
+00:00:55,320 --> 00:00:56,320
+And Scott Gardner.
+
+9
+00:00:56,320 --> 00:00:57,320
+Hi Jason.
+
+10
+00:00:57,320 --> 00:01:03,920
+And we have a guest today, writer, director, you may know him from Funny or Die, Gaya Thrones,
+
+11
+00:01:03,920 --> 00:01:05,920
+WWE, Matt Mazzani is here.
+
+12
+00:01:05,920 --> 00:01:07,400
+Hey guys, how's it going?
+
+13
+00:01:07,400 --> 00:01:08,400
+Good.
+
+14
+00:01:08,400 --> 00:01:09,400
+Yeah, how about you?
+
+15
+00:01:09,400 --> 00:01:11,600
+I'm jazz, I'm so excited to be here.
+
+16
+00:01:11,600 --> 00:01:13,400
+I love the podcast, it's really fun.
+
+17
+00:01:13,400 --> 00:01:18,840
+I'm not the biggest ride head in the world, but I think it's like, I am tickled by how
+
+18
+00:01:18,840 --> 00:01:23,080
+much you guys know and like, I didn't know there was this to know about rides, the things
+
+19
+00:01:23,080 --> 00:01:24,080
+you guys know.
+
+20
+00:01:24,080 --> 00:01:31,000
+That's the whole thing, is trying to legitimize theme park nerddom, have people talk about
+
+21
+00:01:31,000 --> 00:01:35,160
+credits and factoids the way you would about Beatles records or things that are way cooler
+
+22
+00:01:35,160 --> 00:01:36,960
+than this.
+
+23
+00:01:36,960 --> 00:01:39,680
+I have a serious question about ride fandom.
+
+24
+00:01:39,680 --> 00:01:40,680
+Sure.
+
+25
+00:01:40,680 --> 00:01:41,680
+Yes.
+
+26
+00:01:41,680 --> 00:01:45,720
+Are there things like in movies, there's like the a tour theory, is there like a tour theory
+
+27
+00:01:45,720 --> 00:01:51,960
+for rides, like these types of rides from certain imagineers are, I mean, obviously
+
+28
+00:01:51,960 --> 00:01:56,640
+like Walt Disney is a big figure and that's as far as I know, but is there any like inside?
+
+29
+00:01:56,640 --> 00:02:01,840
+Well there are big famous imagineers that have a lot of like credits that you would
+
+30
+00:02:01,840 --> 00:02:06,920
+know like we talk about the guy Tony Baxter a lot who like he's the main guy for star
+
+31
+00:02:06,920 --> 00:02:10,480
+tours, he's the main guy for the figment and figment ride in Epcot.
+
+32
+00:02:10,480 --> 00:02:13,200
+He's splash mountain, he's Indiana Jones.
+
+33
+00:02:13,200 --> 00:02:14,200
+Indiana Jones.
+
+34
+00:02:14,200 --> 00:02:18,560
+I mean, so you're talking about this is a heavyweight like this guy, you know, now obviously
+
+35
+00:02:18,560 --> 00:02:22,720
+he he didn't do this alone because he asked that there's tons of designers and animator,
+
+36
+00:02:22,720 --> 00:02:24,360
+but he's you know, the figurehead.
+
+37
+00:02:24,360 --> 00:02:29,120
+So I guess he's probably the closest to an a tour when you're talking about imagineers
+
+38
+00:02:29,120 --> 00:02:33,000
+because there's tons of imagineers that don't have the high profile he does.
+
+39
+00:02:33,000 --> 00:02:38,240
+So Joe roadie in the recent past has been pretty like prominent in the promotional materials
+
+40
+00:02:38,240 --> 00:02:44,620
+at least for the Avatar experience in Florida or Guardians of the Galaxy mission breakout.
+
+41
+00:02:44,620 --> 00:02:50,520
+So there's people who are like more more like upfront in talking about these rides and maybe
+
+42
+00:02:50,520 --> 00:02:55,920
+taking leave, but I'm sure all of them would not ascribe the tour theory because that you
+
+43
+00:02:55,920 --> 00:02:59,520
+a theme park ride made by one person would be a terrible ride.
+
+44
+00:02:59,520 --> 00:03:02,960
+Yeah, it is very much a thing made by committee.
+
+45
+00:03:02,960 --> 00:03:09,600
+Although Baxter and roadie are both guys who do have a lot of theories about parks.
+
+46
+00:03:09,600 --> 00:03:12,920
+You know, they will talk all the live long day about theme park.
+
+47
+00:03:12,920 --> 00:03:19,720
+How dare imagine doing that talking for hours at a time and to have the experience to back
+
+48
+00:03:19,720 --> 00:03:20,720
+it up.
+
+49
+00:03:20,720 --> 00:03:21,720
+Disgusting.
+
+50
+00:03:21,720 --> 00:03:23,520
+So many people though work in Imagineering.
+
+51
+00:03:23,520 --> 00:03:28,880
+I have to imagine that there are people that are bitter and be like, well, I gave Joe roadie
+
+52
+00:03:28,880 --> 00:03:33,280
+the idea for the Guardians of the Galaxy to break out of a power plant.
+
+53
+00:03:33,280 --> 00:03:34,800
+Yeah, like we that's my idea.
+
+54
+00:03:34,800 --> 00:03:39,860
+Like there has to be like some people that feel like these guys are sort of figureheads
+
+55
+00:03:39,860 --> 00:03:43,800
+and they get all the glory and like the first guy who did a log flume with like was it was
+
+56
+00:03:43,800 --> 00:03:45,280
+just all flat with no drops.
+
+57
+00:03:45,280 --> 00:03:49,160
+And they're like, we should just have a sudden drop instead of a slow slight decline.
+
+58
+00:03:49,160 --> 00:03:50,800
+And there was one guy who figured that out.
+
+59
+00:03:50,800 --> 00:03:52,920
+But he was his idea was stolen.
+
+60
+00:03:52,920 --> 00:03:53,920
+Oh, God.
+
+61
+00:03:53,920 --> 00:03:54,920
+Probably.
+
+62
+00:03:54,920 --> 00:03:59,640
+Oh, but you have to sort of subsume your ideas.
+
+63
+00:03:59,640 --> 00:04:00,640
+Is that a word?
+
+64
+00:04:00,640 --> 00:04:04,560
+You have to your ideas become part of the greater whole.
+
+65
+00:04:04,560 --> 00:04:13,120
+Now, but you at at WWE, you were credited on screen for each line and plot turn that
+
+66
+00:04:13,120 --> 00:04:14,760
+you came up with, correct?
+
+67
+00:04:14,760 --> 00:04:19,880
+Publicly, it was it was all the wrestlers and that they they are they are the guy.
+
+68
+00:04:19,880 --> 00:04:22,600
+Yeah, because oh, that's right.
+
+69
+00:04:22,600 --> 00:04:23,920
+Because wrestling is not written.
+
+70
+00:04:23,920 --> 00:04:25,120
+No, of course not.
+
+71
+00:04:25,120 --> 00:04:26,680
+You were a consultant and advice.
+
+72
+00:04:26,680 --> 00:04:28,400
+You were like you were a trainer to the rest.
+
+73
+00:04:28,400 --> 00:04:32,560
+Well, they have words on the screen every once in a while before commercial breaks,
+
+74
+00:04:32,560 --> 00:04:33,560
+things like up next.
+
+75
+00:04:33,560 --> 00:04:34,560
+I would say up next.
+
+76
+00:04:34,560 --> 00:04:36,760
+Should we have an ellipsis on the end or no?
+
+77
+00:04:36,760 --> 00:04:38,240
+Like that's the things I would do.
+
+78
+00:04:38,240 --> 00:04:44,360
+But no, I think much like the amusement park rides, you know, a Sasha Banks, a professional
+
+79
+00:04:44,360 --> 00:04:48,880
+wrestler, she is she's like the roller coaster that we have to make thrilling and exciting.
+
+80
+00:04:48,880 --> 00:04:54,920
+But we only want the fans to enjoy the experience of that, not the not the the WWE Imagineers.
+
+81
+00:04:54,920 --> 00:04:55,920
+Right.
+
+82
+00:04:55,920 --> 00:04:56,920
+Sure.
+
+83
+00:04:56,920 --> 00:05:02,600
+So you support the yeah, in the way that you support the more glamorous star, you see you
+
+84
+00:05:02,600 --> 00:05:05,720
+just you support the the ride itself.
+
+85
+00:05:05,720 --> 00:05:11,320
+It's about Big Thunder Mountain, not the people who laid all the tracks on Big Thunder Mountain.
+
+86
+00:05:11,320 --> 00:05:15,120
+But if we were to turn these microphones off, who knows what you'd say?
+
+87
+00:05:15,120 --> 00:05:16,120
+Yeah.
+
+88
+00:05:16,120 --> 00:05:19,080
+I'd have something to say about Big Thunder Mountain.
+
+89
+00:05:19,080 --> 00:05:21,320
+That's exactly what we don't want.
+
+90
+00:05:21,320 --> 00:05:25,920
+You don't get a credit like, you know, there's not credits at the end of the rides, but maybe
+
+91
+00:05:25,920 --> 00:05:33,980
+the storefront that sells hardtack and bacon is like McGinty's dry goods and the Imagineer
+
+92
+00:05:33,980 --> 00:05:34,980
+John McGinty.
+
+93
+00:05:34,980 --> 00:05:37,600
+That's like, oh, that's my little thing.
+
+94
+00:05:37,600 --> 00:05:38,600
+That's my little credit.
+
+95
+00:05:38,600 --> 00:05:41,120
+There is no I'm sure there's probably been a McGinty.
+
+96
+00:05:41,120 --> 00:05:43,240
+I thought for a second that that's a real person.
+
+97
+00:05:43,240 --> 00:05:44,240
+John McGinty.
+
+98
+00:05:44,240 --> 00:05:50,280
+No, but I did see an article recently of like five times Joe Rody has put himself in rides
+
+99
+00:05:50,280 --> 00:05:56,400
+or like where there's imagineers that like, oh, they clearly his that Alexander Graham
+
+100
+00:05:56,400 --> 00:05:59,040
+Bell looks a little like Joe Rody.
+
+101
+00:05:59,040 --> 00:06:03,520
+I see all the glory people find little sly ways to reference this reference themselves.
+
+102
+00:06:03,520 --> 00:06:09,480
+Now you just Matt, you just spent a bunch of time in Orlando for wrestling and you you
+
+103
+00:06:09,480 --> 00:06:13,160
+made it down to Disney World for at least at least a time or two.
+
+104
+00:06:13,160 --> 00:06:14,160
+Correct.
+
+105
+00:06:14,160 --> 00:06:16,440
+Well, the big thing is is is we're always very busy.
+
+106
+00:06:16,440 --> 00:06:19,640
+We're down in Orlando because we were working on NXT, which is WWE's Farm League.
+
+107
+00:06:19,640 --> 00:06:23,360
+So we go to Orlando once a month for TV tapings, always crazy busy.
+
+108
+00:06:23,360 --> 00:06:25,480
+But one day something happened.
+
+109
+00:06:25,480 --> 00:06:26,520
+The scheduling shifted.
+
+110
+00:06:26,520 --> 00:06:29,040
+We had to move the shoot for today.
+
+111
+00:06:29,040 --> 00:06:33,120
+So we had a free day and we went to go to the Animal Kingdom and I saw Avatar land,
+
+112
+00:06:33,120 --> 00:06:36,600
+which is a big deal for me because I'm a big Avatar head.
+
+113
+00:06:36,600 --> 00:06:37,600
+I love it.
+
+114
+00:06:37,600 --> 00:06:39,920
+I've always like like anybody else.
+
+115
+00:06:39,920 --> 00:06:45,120
+I saw it six times in the theaters, never on DVD, because for me it's all about going
+
+116
+00:06:45,120 --> 00:06:48,520
+to Pandora and that's what the theater experience was.
+
+117
+00:06:48,520 --> 00:06:52,920
+And so to actually like literally walk around Pandora and like touch the plants and be told
+
+118
+00:06:52,920 --> 00:06:56,320
+not to touch the plants and then do the whole experience.
+
+119
+00:06:56,320 --> 00:06:57,320
+It was great.
+
+120
+00:06:57,320 --> 00:07:01,220
+I Pandora is awesome and I'm very excited for like Star Wars land.
+
+121
+00:07:01,220 --> 00:07:06,280
+If that's like the proto Star Wars land, it's going to like Star Wars land to be awesome.
+
+122
+00:07:06,280 --> 00:07:09,560
+Well let me ask you because I've been to Pandora as well.
+
+123
+00:07:09,560 --> 00:07:13,480
+Did you ride on the back of the mighty Akron?
+
+124
+00:07:13,480 --> 00:07:14,480
+So here's the deal.
+
+125
+00:07:14,480 --> 00:07:19,520
+So I we went there with it with all the few of the other riders from WWE and we all went
+
+126
+00:07:19,520 --> 00:07:21,960
+as like a little group and we started doing this thing.
+
+127
+00:07:21,960 --> 00:07:26,600
+Me and this other guy Robert where we would go take our fast pass because we ran out of
+
+128
+00:07:26,600 --> 00:07:30,840
+fast pass for that ride and we would start hitting the fast pass button and when it turned
+
+129
+00:07:30,840 --> 00:07:33,440
+red we would just keep walking and not stop.
+
+130
+00:07:33,440 --> 00:07:36,560
+Then that became like a game that we would do where we just skip through fast pass.
+
+131
+00:07:36,560 --> 00:07:38,920
+Oh, we got a rule breaker here.
+
+132
+00:07:38,920 --> 00:07:41,600
+That's a real heel do.
+
+133
+00:07:41,600 --> 00:07:42,600
+That is not a face rule.
+
+134
+00:07:42,600 --> 00:07:43,600
+You're talking to three rule followers.
+
+135
+00:07:43,600 --> 00:07:47,560
+Isn't he sets rules in motion and we all listen to them.
+
+136
+00:07:47,560 --> 00:07:50,760
+We all like straightened up and we're like very uncomfortable.
+
+137
+00:07:50,760 --> 00:07:53,520
+I didn't know who we were with.
+
+138
+00:07:53,520 --> 00:07:57,080
+So but we were teaching a young guys like if you have confidence you can pull off anything.
+
+139
+00:07:57,080 --> 00:08:00,240
+Just watch this and my buddy would just go and he'd hit it to go red.
+
+140
+00:08:00,240 --> 00:08:02,600
+Excuse me sir and then like you just keep walking.
+
+141
+00:08:02,600 --> 00:08:04,880
+They're not going to like chase you down and stop you.
+
+142
+00:08:04,880 --> 00:08:08,500
+So we went to the the the dragon ride and I don't even know the name of the dragon which
+
+143
+00:08:08,500 --> 00:08:09,880
+I said I'm an avatar head.
+
+144
+00:08:09,880 --> 00:08:12,800
+But what you mean the mighty a chronic a the banshee.
+
+145
+00:08:12,800 --> 00:08:13,800
+Yes.
+
+146
+00:08:13,800 --> 00:08:14,800
+Yeah.
+
+147
+00:08:14,800 --> 00:08:19,320
+It is the one it's the area of pop culture where the fans don't know the names of the
+
+148
+00:08:19,320 --> 00:08:20,320
+things or the characters.
+
+149
+00:08:20,320 --> 00:08:21,320
+Yeah.
+
+150
+00:08:21,320 --> 00:08:24,360
+I don't think there's a more successful thing where you can't name like you know like Sam
+
+151
+00:08:24,360 --> 00:08:26,400
+Worthington's character in the movie.
+
+152
+00:08:26,400 --> 00:08:27,400
+Oh, Jake's.
+
+153
+00:08:27,400 --> 00:08:30,020
+So you got to wait within one one day.
+
+154
+00:08:30,020 --> 00:08:33,120
+Can you name or can you name three other characters in Avatar?
+
+155
+00:08:33,120 --> 00:08:34,720
+I can name the hallelujah mountains.
+
+156
+00:08:34,720 --> 00:08:38,040
+I consider the holy mountains a character.
+
+157
+00:08:38,040 --> 00:08:41,000
+It's like New York City is a separate character.
+
+158
+00:08:41,000 --> 00:08:42,000
+Holy Mountains.
+
+159
+00:08:42,000 --> 00:08:45,000
+There's the general guy.
+
+160
+00:08:45,000 --> 00:08:49,720
+The general guy evil name like crowd or is there something else where a general's name
+
+161
+00:08:49,720 --> 00:08:50,720
+crowd.
+
+162
+00:08:50,720 --> 00:08:51,720
+I don't think it is.
+
+163
+00:08:51,720 --> 00:08:52,720
+I have a time.
+
+164
+00:08:52,720 --> 00:08:53,720
+It is like a general thrasher.
+
+165
+00:08:53,720 --> 00:08:56,800
+It is that that something on the general the evil.
+
+166
+00:08:56,800 --> 00:09:01,920
+I got to say Jake Sully sounds like his name might as well be Johnny working class or like
+
+167
+00:09:01,920 --> 00:09:05,240
+Fred Regulamon.
+
+168
+00:09:05,240 --> 00:09:08,880
+The extended scenes are really great which I just watched those.
+
+169
+00:09:08,880 --> 00:09:12,680
+I didn't watch the rest of the movie but there's like a lot of Jake Sully on earth stuff where
+
+170
+00:09:12,680 --> 00:09:18,120
+he is he is everyday regular man you know wheeling around and getting in bar fights
+
+171
+00:09:18,120 --> 00:09:19,480
+and it's really good stuff.
+
+172
+00:09:19,480 --> 00:09:22,880
+Yeah we've all seen it right.
+
+173
+00:09:22,880 --> 00:09:24,640
+I've never seen that.
+
+174
+00:09:24,640 --> 00:09:27,960
+I've seen like a little bit of Avatar on a plane once.
+
+175
+00:09:27,960 --> 00:09:31,360
+I've never seen it all the way through and I missed it in theaters because I was.
+
+176
+00:09:31,360 --> 00:09:32,360
+Shut his mic off.
+
+177
+00:09:32,360 --> 00:09:33,360
+Someone shut Jason's mic off.
+
+178
+00:09:33,360 --> 00:09:34,360
+Alright.
+
+179
+00:09:34,360 --> 00:09:35,360
+That's massive to big avatars.
+
+180
+00:09:35,360 --> 00:09:36,360
+That is certainly not.
+
+181
+00:09:36,360 --> 00:09:43,920
+I mean though you are soaring through the sky like a mighty banshee that's that's a little
+
+182
+00:09:43,920 --> 00:09:45,720
+acceptable but.
+
+183
+00:09:45,720 --> 00:09:47,640
+So you did you have finished to that story.
+
+184
+00:09:47,640 --> 00:09:50,800
+So yeah so we were fast passing through.
+
+185
+00:09:50,800 --> 00:09:54,320
+Me and my buddy got through they did stop the other two people in our party so they
+
+186
+00:09:54,320 --> 00:09:56,000
+had to hang back.
+
+187
+00:09:56,000 --> 00:10:01,200
+And then we went up and we're just like crying laughing because we're just imagining them
+
+188
+00:10:01,200 --> 00:10:05,000
+waiting in a three hour line where we're just like piping through and then we go up we all
+
+189
+00:10:05,000 --> 00:10:08,400
+go all the way to the front and there's a second fast pass line.
+
+190
+00:10:08,400 --> 00:10:09,400
+Yes.
+
+191
+00:10:09,400 --> 00:10:12,480
+There's nobody there just the guys and we're like oh my god we're definitely going to get
+
+192
+00:10:12,480 --> 00:10:16,240
+caught because there's you know in the crowd you can kind of get by and we go there and
+
+193
+00:10:16,240 --> 00:10:19,560
+I don't know what happened we do not have the fast pass we hit the fast pass they both
+
+194
+00:10:19,560 --> 00:10:20,560
+turned green.
+
+195
+00:10:20,560 --> 00:10:21,560
+Really.
+
+196
+00:10:21,560 --> 00:10:25,280
+And we don't know why it did it or what but we got through and then we're laughing even
+
+197
+00:10:25,280 --> 00:10:27,000
+more because we got away with that.
+
+198
+00:10:27,000 --> 00:10:28,960
+A hallelujah mountain miracle.
+
+199
+00:10:28,960 --> 00:10:34,160
+Yeah let me ask you were you blessed by the Navi shaman of song on the river journey before
+
+200
+00:10:34,160 --> 00:10:36,480
+and perhaps you got a bit of that Navi luck.
+
+201
+00:10:36,480 --> 00:10:40,560
+A little bit because we did do that first we did fast pass our way through that fake
+
+202
+00:10:40,560 --> 00:10:46,080
+fast pass our way through that and that is a beautiful animatronic she moves it's really
+
+203
+00:10:46,080 --> 00:10:50,320
+crazy she bang she bang.
+
+204
+00:10:50,320 --> 00:10:54,960
+Scott's talked about like weird in joke theme park in jokes he has with his wife and this
+
+205
+00:10:54,960 --> 00:10:58,520
+is a one I have with my girlfriend where all of a sudden I'll just start singing the Navi
+
+206
+00:10:58,520 --> 00:11:00,440
+shaman of song song.
+
+207
+00:11:00,440 --> 00:11:08,680
+Hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey hey
+
+208
+00:11:08,680 --> 00:11:09,680
+hey.
+
+209
+00:11:09,680 --> 00:11:13,880
+Like it's just the laziest you know generic beautiful song.
+
+210
+00:11:13,880 --> 00:11:20,120
+You're a musician you should do a little like remix of it put it on YouTube to the EDM remix
+
+211
+00:11:20,120 --> 00:11:23,360
+of the Shaman of Song challenge accepted.
+
+212
+00:11:23,360 --> 00:11:28,480
+As we said before I am single so I just have these shaman of song song in my Tinder.
+
+213
+00:11:28,480 --> 00:11:34,400
+Bio that is just my Tinder bio is the Shaman of song song.
+
+214
+00:11:34,400 --> 00:11:35,880
+Wait you were you were saying though.
+
+215
+00:11:35,880 --> 00:11:41,680
+Oh the all the sad ending to that is I am too fat for the ride so they kicked me out.
+
+216
+00:11:41,680 --> 00:11:47,640
+No what it was it was strange because it wasn't like my my belly was it was like it was a
+
+217
+00:11:47,640 --> 00:11:53,160
+very straight my legs couldn't fit because I've got kind of big beefy squat legs and
+
+218
+00:11:53,160 --> 00:11:57,400
+they tried to like push but they had this little lock in and I told them I was turning
+
+219
+00:11:57,400 --> 00:12:02,720
+around and said you can fucking push you can use your legs and pull you will not hurt me
+
+220
+00:12:02,720 --> 00:12:07,680
+I will not sue you get me on this goddamn dragon or I swear and they were like I can't
+
+221
+00:12:07,680 --> 00:12:11,960
+I can't I can't do it I'm gonna hurt you and I was like I was so upset.
+
+222
+00:12:11,960 --> 00:12:16,480
+But then we got an extra fast pass so I did the river ride twice which was which was beautiful
+
+223
+00:12:16,480 --> 00:12:17,480
+and calming.
+
+224
+00:12:17,480 --> 00:12:18,480
+Not quite as good of a ride.
+
+225
+00:12:18,480 --> 00:12:25,040
+No it's a little that one was a little spare until the the Navi showed up it's like what
+
+226
+00:12:25,040 --> 00:12:28,880
+am I even doing here like the little spinny it's beautiful and it's nice and it's and
+
+227
+00:12:28,880 --> 00:12:32,960
+it's like on a hot day it's very air-conditioned but other than that it's you know.
+
+228
+00:12:32,960 --> 00:12:33,960
+There's one robot.
+
+229
+00:12:33,960 --> 00:12:37,760
+Yeah I do like anything that floats anything that floats I think is a good ride.
+
+230
+00:12:37,760 --> 00:12:42,480
+Sure this is insanity though I'm looking at your calves right now those like they're I
+
+231
+00:12:42,480 --> 00:12:47,680
+would describe them as muscular first of all I think these are in shape calves and you
+
+232
+00:12:47,680 --> 00:12:52,160
+can't fit those into the stirrups of the of the Avatar ride that's crazy.
+
+233
+00:12:52,160 --> 00:13:00,040
+I mean it's like this I it's a new ride they should have you know I've been to theme parks
+
+234
+00:13:00,040 --> 00:13:02,640
+and there's a lot of people of size there.
+
+235
+00:13:02,640 --> 00:13:06,400
+I thought they would have like you know like thinking ahead like well it's 2017 there's
+
+236
+00:13:06,400 --> 00:13:09,240
+a lot of big people who could who want to ride drag.
+
+237
+00:13:09,240 --> 00:13:15,520
+We are in central Florida perhaps we should allow that's not all entirely rail thin people
+
+238
+00:13:15,520 --> 00:13:18,320
+will be on this attraction.
+
+239
+00:13:18,320 --> 00:13:23,960
+Everybody wants to trade out their rascal for a dragon more than a large person like
+
+240
+00:13:23,960 --> 00:13:29,080
+that like we need the the dragon rides more than skinny people can ride on motorcycles
+
+241
+00:13:29,080 --> 00:13:30,080
+and look cool.
+
+242
+00:13:30,080 --> 00:13:36,440
+Their existing body is already a tall lift avatar.
+
+243
+00:13:36,440 --> 00:13:43,080
+That's something when that park when Pandora first opened they also got in a little not
+
+244
+00:13:43,080 --> 00:13:48,560
+trouble but there was a lot of complaints that the river ride neither ride was very
+
+245
+00:13:48,560 --> 00:13:49,560
+like.
+
+246
+00:13:49,560 --> 00:13:54,400
+A.D.A. complite like handicap accessible like there are options for them but there was really
+
+247
+00:13:54,400 --> 00:13:59,440
+only like one or two of like the fleet of boats that could fit like wheelchairs and
+
+248
+00:13:59,440 --> 00:14:04,280
+stuff which is insane to think about because the move the main character the movie is a
+
+249
+00:14:04,280 --> 00:14:06,280
+paraplegic right.
+
+250
+00:14:06,280 --> 00:14:11,240
+And they did it like but I guess as you're spending billions and millions of dollars
+
+251
+00:14:11,240 --> 00:14:15,600
+to open all this thing like there's always something that falls that where they go like
+
+252
+00:14:15,600 --> 00:14:18,320
+oh my god we forgot about like this.
+
+253
+00:14:18,320 --> 00:14:20,040
+Yeah yeah that's the thing too.
+
+254
+00:14:20,040 --> 00:14:24,080
+I feel like they could have the way that thing was designed it's like a little bike like
+
+255
+00:14:24,080 --> 00:14:25,080
+you don't have to be.
+
+256
+00:14:25,080 --> 00:14:29,880
+I mean it's like a you know it's like a but you straddle it straddle it and it's like
+
+257
+00:14:29,880 --> 00:14:33,080
+I get you have be locked in because you're moving around it's a safety thing but it's
+
+258
+00:14:33,080 --> 00:14:37,560
+just like it wouldn't have taken anything to move those back six inches and then just
+
+259
+00:14:37,560 --> 00:14:39,480
+have the moving attachments do better.
+
+260
+00:14:39,480 --> 00:14:44,040
+I bet if you went back now they probably figured like you probably got some timid cast members
+
+261
+00:14:44,040 --> 00:14:46,760
+who like didn't want to hurt you.
+
+262
+00:14:46,760 --> 00:14:51,260
+Yeah they were too scared to you're giving them license but they just saw their job flash
+
+263
+00:14:51,260 --> 00:14:52,320
+before their eyes.
+
+264
+00:14:52,320 --> 00:14:57,020
+Yeah they said that we had a the story will always go oh yeah we had a 300 pound man crying
+
+265
+00:14:57,020 --> 00:15:01,720
+outside the ride for two hours so we have to fix this at some point because they're
+
+266
+00:15:01,720 --> 00:15:03,840
+really really getting unpopular.
+
+267
+00:15:03,840 --> 00:15:10,520
+I will say this about Pandora though the absolute best park food I've ever had was it.
+
+268
+00:15:10,520 --> 00:15:11,520
+It is good I agree yeah.
+
+269
+00:15:11,520 --> 00:15:13,520
+The little bowls did you have one of the little bowls?
+
+270
+00:15:13,520 --> 00:15:16,560
+Little bowls with the little like I don't even know what they were there was like beads
+
+271
+00:15:16,560 --> 00:15:20,800
+of vinegar that were like there it looked like alien food it was really great.
+
+272
+00:15:20,800 --> 00:15:25,240
+Yeah they I don't want to know I want to just think it's alien food I just I would like
+
+273
+00:15:25,240 --> 00:15:26,240
+to imagine.
+
+274
+00:15:26,240 --> 00:15:31,240
+What if this became like fast food that is just a type of the way that there's been like
+
+275
+00:15:31,240 --> 00:15:38,600
+a you know big surge and poke around recently like if Pandora and food became a typical
+
+276
+00:15:38,600 --> 00:15:41,160
+street food and that place was the pioneer.
+
+277
+00:15:41,160 --> 00:15:42,160
+That'd be great.
+
+278
+00:15:42,160 --> 00:15:48,480
+I think they could probably reskin like Yoshinoya and just make that like Pandora food and I
+
+279
+00:15:48,480 --> 00:15:50,280
+think nobody would be sad.
+
+280
+00:15:50,280 --> 00:15:55,040
+Yoshipandora yeah yeah why not they like bowls.
+
+281
+00:15:55,040 --> 00:16:00,520
+Places need to do cool rebrandings I've noticed like Arby's is trying to like hip themselves
+
+282
+00:16:00,520 --> 00:16:03,160
+up and pretend they're like a cool local carvery.
+
+283
+00:16:03,160 --> 00:16:05,960
+Some made up take on what they are.
+
+284
+00:16:05,960 --> 00:16:08,360
+Go on I'm intrigued.
+
+285
+00:16:08,360 --> 00:16:13,760
+And we all know they're just a cool national carvery that's yeah but they are very cool.
+
+286
+00:16:13,760 --> 00:16:19,120
+Yeah they're pretty corporate that's the thing I mean yeah the meats are superb but yeah
+
+287
+00:16:19,120 --> 00:16:23,720
+I'm with you let's let's take over the yeah let's let's take over Yoshinoya.
+
+288
+00:16:23,720 --> 00:16:30,360
+They've been nondescript for too long and seemingly diarrhea inducing for too long.
+
+289
+00:16:30,360 --> 00:16:34,160
+And I would eat that diarrhea food if it was like if you go in there's like a Navi holding
+
+290
+00:16:34,160 --> 00:16:37,960
+the bowl and like the whole thing and they say I see you.
+
+291
+00:16:37,960 --> 00:16:38,960
+Yeah.
+
+292
+00:16:38,960 --> 00:16:40,760
+Which is their famous phrase that we all know.
+
+293
+00:16:40,760 --> 00:16:42,560
+They'll hear your order.
+
+294
+00:16:42,560 --> 00:16:49,160
+That'll be the thing when you leave they go I see you again soon.
+
+295
+00:16:49,160 --> 00:16:54,040
+Hey well you know it's a shame that there are some issues with the with the loading
+
+296
+00:16:54,040 --> 00:17:00,960
+of these boats and the people getting to experience this beloved intellectual property but one
+
+297
+00:17:00,960 --> 00:17:07,560
+ride that operates without issue day after day all over the world is the Jurassic Park
+
+298
+00:17:07,560 --> 00:17:13,440
+experience sometimes called the Jurassic Park River Adventure also known as Jurassic Park
+
+299
+00:17:13,440 --> 00:17:14,760
+the ride.
+
+300
+00:17:14,760 --> 00:17:21,020
+But why should we explain it when we can let one of America's greatest national treasures
+
+301
+00:17:21,020 --> 00:17:24,000
+tell the tale.
+
+302
+00:17:24,000 --> 00:17:28,960
+Hi I'm Ryan Seacrest and welcome to the new edge from the studios of CNET the computer
+
+303
+00:17:28,960 --> 00:17:33,760
+network when Universal Studios Hollywood designed a ride based on Steven Spielberg's Jurassic
+
+304
+00:17:33,760 --> 00:17:36,080
+Park they had a tough act to follow.
+
+305
+00:17:36,080 --> 00:17:39,360
+I mean after all the movie actually takes place in a theme park.
+
+306
+00:17:39,360 --> 00:17:44,360
+Well they overcame that with these robots that are so advanced even Spielberg was amazed.
+
+307
+00:17:44,360 --> 00:17:45,360
+Fuck you.
+
+308
+00:17:45,360 --> 00:17:47,760
+That's about as deep of a cut.
+
+309
+00:17:47,760 --> 00:17:53,080
+Look up that video if you care Ryan Seacrest on CNET the computer network.
+
+310
+00:17:53,080 --> 00:17:56,960
+He looks like a kind of like a Norwegian boy band guy.
+
+311
+00:17:56,960 --> 00:17:58,360
+He looks like one of the 18s.
+
+312
+00:17:58,360 --> 00:18:02,040
+If you're familiar with the 18s.
+
+313
+00:18:02,040 --> 00:18:07,920
+Seacrest has been at it for a long time and hey thanks for entertaining us.
+
+314
+00:18:07,920 --> 00:18:13,400
+Anyway that goes on to give you a great behind the scenes look at the extremely high tech
+
+315
+00:18:13,400 --> 00:18:19,920
+dinosaurs that even Spielberg couldn't believe and there you have it the Jurassic Park ride.
+
+316
+00:18:19,920 --> 00:18:20,920
+Let's get into it.
+
+317
+00:18:20,920 --> 00:18:26,120
+This is the first episode I think we're doing of like where the attraction is called blank
+
+318
+00:18:26,120 --> 00:18:28,680
+the ride like we stole the name from.
+
+319
+00:18:28,680 --> 00:18:29,680
+Yes true.
+
+320
+00:18:29,680 --> 00:18:33,920
+Yeah I thought of that I thought of that very thing when we were when my wife and I were
+
+321
+00:18:33,920 --> 00:18:39,120
+talking about the logo we we sort of looked at that and pulled from the how the is very
+
+322
+00:18:39,120 --> 00:18:41,360
+small and the ride is big.
+
+323
+00:18:41,360 --> 00:18:42,360
+So there you go.
+
+324
+00:18:42,360 --> 00:18:43,360
+Appreciate that.
+
+325
+00:18:43,360 --> 00:18:47,280
+If it was you're looking at our our logo right now maybe I'm my wife Aaron.
+
+326
+00:18:47,280 --> 00:18:54,200
+Yeah you know also there are not if you look at the history of rides based on movies very
+
+327
+00:18:54,200 --> 00:18:56,800
+few are actually called blank the ride.
+
+328
+00:18:56,800 --> 00:19:00,000
+Some of the most prominent rides like Jurassic Park the ride like Back to the Future the
+
+329
+00:19:00,000 --> 00:19:02,360
+ride but there are not too many of them.
+
+330
+00:19:02,360 --> 00:19:09,420
+No but they came real fast and furious like in a row like as we were children and it made
+
+331
+00:19:09,420 --> 00:19:11,080
+an impact on us enough.
+
+332
+00:19:11,080 --> 00:19:12,080
+Absolutely.
+
+333
+00:19:12,080 --> 00:19:16,620
+That I think when Scott you initially suggested the name podcast the ride we were immediately
+
+334
+00:19:16,620 --> 00:19:19,480
+like well that immediately makes sense to us.
+
+335
+00:19:19,480 --> 00:19:23,840
+It's as exciting as when you hear there is a raw Jurassic Park the ride.
+
+336
+00:19:23,840 --> 00:19:26,040
+Yeah that's a mind blowing statement.
+
+337
+00:19:26,040 --> 00:19:27,360
+How exciting is that.
+
+338
+00:19:27,360 --> 00:19:28,360
+Yeah.
+
+339
+00:19:28,360 --> 00:19:33,720
+More exciting than if we called this podcast galaxies edge.
+
+340
+00:19:33,720 --> 00:19:34,720
+That's a fine name.
+
+341
+00:19:34,720 --> 00:19:36,080
+What am I am I making for that.
+
+342
+00:19:36,080 --> 00:19:41,560
+Save it until you see Batu in person.
+
+343
+00:19:41,560 --> 00:19:46,960
+I also in looking at that history of the ride I don't think Disney any way I don't think
+
+344
+00:19:46,960 --> 00:19:49,720
+Disney's ever done blank the ride.
+
+345
+00:19:49,720 --> 00:19:51,080
+I think they always dress it up.
+
+346
+00:19:51,080 --> 00:19:55,120
+It's an adventure or an experience or they don't want it to be.
+
+347
+00:19:55,120 --> 00:19:56,560
+You're doing the thing.
+
+348
+00:19:56,560 --> 00:19:59,860
+Disney's always been big I think on making sure it's like you're not right.
+
+349
+00:19:59,860 --> 00:20:01,160
+This isn't just like fun.
+
+350
+00:20:01,160 --> 00:20:08,640
+You're entering a fully complex universe a fully immersive experience.
+
+351
+00:20:08,640 --> 00:20:13,200
+My favorite it's a variant on this but at some point we got to do the episode about
+
+352
+00:20:13,200 --> 00:20:16,680
+one of the best formatted titles twister ride it out.
+
+353
+00:20:16,680 --> 00:20:17,680
+Oh yeah.
+
+354
+00:20:17,680 --> 00:20:20,200
+A very insane title.
+
+355
+00:20:20,200 --> 00:20:23,820
+I'm racking my brain right now is is I call it in my head the mummy ride.
+
+356
+00:20:23,820 --> 00:20:24,820
+Is it the mummy ride.
+
+357
+00:20:24,820 --> 00:20:27,880
+It is revenge of the mummy the ride.
+
+358
+00:20:27,880 --> 00:20:28,880
+Oh wow.
+
+359
+00:20:28,880 --> 00:20:34,480
+Which is confusing because is that there was no the mummy the ride but it sounds like it's
+
+360
+00:20:34,480 --> 00:20:39,040
+a comeback of a previously existing ride called the mummy the ride.
+
+361
+00:20:39,040 --> 00:20:40,760
+Yeah I just call it the mummy ride.
+
+362
+00:20:40,760 --> 00:20:41,760
+Like that's I think quick.
+
+363
+00:20:41,760 --> 00:20:43,040
+I think that's pretty common.
+
+364
+00:20:43,040 --> 00:20:44,040
+Yeah.
+
+365
+00:20:44,040 --> 00:20:45,360
+That's what anyone calls any of these things.
+
+366
+00:20:45,360 --> 00:20:47,240
+Star Wars will be Star Wars land.
+
+367
+00:20:47,240 --> 00:20:48,640
+Avatar is Avatar land.
+
+368
+00:20:48,640 --> 00:20:51,720
+Nobody uses the preferred nomenclature.
+
+369
+00:20:51,720 --> 00:20:55,080
+Nobody calls I'm sure I've said on the podcast before but my favorite universal title water
+
+370
+00:20:55,080 --> 00:20:58,320
+world alive sea war spectacular.
+
+371
+00:20:58,320 --> 00:21:02,440
+No one on the planet besides people being paid to be at Universal Studios call it.
+
+372
+00:21:02,440 --> 00:21:05,040
+I think I maybe am I making this up with somebody.
+
+373
+00:21:05,040 --> 00:21:08,720
+I think somebody like scolded me once like no no no it's not the water world stunt show.
+
+374
+00:21:08,720 --> 00:21:09,720
+It's water world alive.
+
+375
+00:21:09,720 --> 00:21:10,720
+Steve C. Ward spectacular.
+
+376
+00:21:10,720 --> 00:21:13,440
+He had to be very explicit with that.
+
+377
+00:21:13,440 --> 00:21:18,280
+I did forget that in Hollywood Universal Hollywood this was called Jurassic Park the ride though
+
+378
+00:21:18,280 --> 00:21:23,840
+initially I think because I probably rode the Orlando one so much which is called the
+
+379
+00:21:23,840 --> 00:21:28,760
+Jurassic Park River Adventure because it is in a section of the park that is supposed
+
+380
+00:21:28,760 --> 00:21:30,500
+to be Jurassic Park.
+
+381
+00:21:30,500 --> 00:21:35,780
+So to do just drive the ride because that would sound weird would be redundant.
+
+382
+00:21:35,780 --> 00:21:40,640
+Look there's so much to talk about in the title alone but there's more than just a sign
+
+383
+00:21:40,640 --> 00:21:42,480
+that tells you the name of the ride.
+
+384
+00:21:42,480 --> 00:21:46,880
+There's an entire experience and Matt when we were talking about stuff you might want
+
+385
+00:21:46,880 --> 00:21:48,880
+to talk about you brought this up.
+
+386
+00:21:48,880 --> 00:21:53,560
+I thought it was a fun idea but do you know is there a particular affection you have for
+
+387
+00:21:53,560 --> 00:21:54,560
+this attraction.
+
+388
+00:21:54,560 --> 00:21:58,960
+Well I noticed when you guys talked about universal you guys always talk about the ride
+
+389
+00:21:58,960 --> 00:22:05,440
+the movies and to me Jurassic Park the ride is kind of like the pinnacle of what I want
+
+390
+00:22:05,440 --> 00:22:10,840
+out of a movie ride experience because I feel like it does a great job of giving you the
+
+391
+00:22:10,840 --> 00:22:14,720
+experience you get when you watch Jurassic Park because it has that moment like my favorite
+
+392
+00:22:14,720 --> 00:22:18,760
+part in this ride is like you go up the you know you go up the ramp and then you get dipped
+
+393
+00:22:18,760 --> 00:22:23,120
+down and then it's just like a slow with the music opens and then the gates open.
+
+394
+00:22:23,120 --> 00:22:27,800
+It's like welcome to Jurassic Park like you want that Laura Dern Sam Neill moment where
+
+395
+00:22:27,800 --> 00:22:31,480
+you turn their heads you see the Brontosaurus you have that and then you see little things
+
+396
+00:22:31,480 --> 00:22:33,840
+go wrong and then it goes really wrong.
+
+397
+00:22:33,840 --> 00:22:37,840
+So you have the whole adventure but it starts with just going to Jurassic Park which is
+
+398
+00:22:37,840 --> 00:22:42,480
+a place I've always wanted to go just like Pandora I like to be transported and I think
+
+399
+00:22:42,480 --> 00:22:47,760
+this does a great job of like transporting you to you know a world where dinosaurs walk
+
+400
+00:22:47,760 --> 00:22:50,920
+the earth with it's just all I've wanted since I was a child.
+
+401
+00:22:50,920 --> 00:22:54,900
+Until something goes wrong which is a trope of all the Jurassic Park movies and a lot
+
+402
+00:22:54,900 --> 00:22:59,600
+of theme park rides in general it's like they start off fine and then something goes wrong.
+
+403
+00:22:59,600 --> 00:23:05,600
+I guess it's especially universal ride the Jaws ride you know is a scenic tour of Amity
+
+404
+00:23:05,600 --> 00:23:11,400
+and then Jaws attacks attacks the boat and there's always there's often the mentioning
+
+405
+00:23:11,400 --> 00:23:16,680
+of problems that happened in the past but this time it will be different and then it
+
+406
+00:23:16,680 --> 00:23:17,760
+is not different.
+
+407
+00:23:17,760 --> 00:23:23,680
+This isn't a the Jurassic Park right there it's not like they don't know about the movie
+
+408
+00:23:23,680 --> 00:23:29,040
+right we're in the world of it's not like this is where Jurassic Park was filmed.
+
+409
+00:23:29,040 --> 00:23:32,040
+You're fully in it is an alternate universe Jurassic Park.
+
+410
+00:23:32,040 --> 00:23:34,040
+Where the park is operating.
+
+411
+00:23:34,040 --> 00:23:36,960
+Previews to at least a preview audience.
+
+412
+00:23:36,960 --> 00:23:40,320
+Right because like John Hammond does the intro video and he's talking about Jurassic Park
+
+413
+00:23:40,320 --> 00:23:45,040
+and how great it is and there's people walking in and out like I guess they in the universe
+
+414
+00:23:45,040 --> 00:23:49,600
+they could have said like these are fake like these are people just for the promo ride but
+
+415
+00:23:49,600 --> 00:23:51,080
+the park it seems like it's open.
+
+416
+00:23:51,080 --> 00:23:52,080
+The park.
+
+417
+00:23:52,080 --> 00:23:57,080
+I believe it is not I think they reference Costa Rica as being an experiment that didn't
+
+418
+00:23:57,080 --> 00:24:04,800
+work out and we are in the Hollywood Jurassic Park branch and you watch the Orlando video
+
+419
+00:24:04,800 --> 00:24:12,480
+I think he says Orlando so John Hammond is opening different branches like the San Diego
+
+420
+00:24:12,480 --> 00:24:19,920
+location he was trying to open until the T-Rex got loose and destroyed the 76 ball and the
+
+421
+00:24:19,920 --> 00:24:22,240
+entire gas lamp district.
+
+422
+00:24:22,240 --> 00:24:25,120
+Our most beloved San Diego landmarks.
+
+423
+00:24:25,120 --> 00:24:30,160
+I love how both all of these parks at the open have like a chronic problem with Jeeps
+
+424
+00:24:30,160 --> 00:24:34,360
+going over the side of cliffs because that that's the only like movie reference that
+
+425
+00:24:34,360 --> 00:24:38,480
+I can really really think of is that the Jeep goes over the cliff and almost hits you then
+
+426
+00:24:38,480 --> 00:24:40,260
+it stops.
+
+427
+00:24:40,260 --> 00:24:45,840
+So that's in the Hollywood Park in the Orlando Park and in the original Costa Rica Park.
+
+428
+00:24:45,840 --> 00:24:47,440
+It's always teetering Jeeps.
+
+429
+00:24:47,440 --> 00:24:52,200
+There's one Easter egg that's another direct reference to the movie and that's as you after
+
+430
+00:24:52,200 --> 00:24:56,880
+you go down the big drop and you come back to the loading area there is a small Barbasol
+
+431
+00:24:56,880 --> 00:25:02,920
+can yes that like the one Dennis Nedry was hiding DNA samples in.
+
+432
+00:25:02,920 --> 00:25:03,920
+I gotcha.
+
+433
+00:25:03,920 --> 00:25:06,480
+So in this world where it's two different parks like what are the odds that there's
+
+434
+00:25:06,480 --> 00:25:12,360
+a no why would there be another slimy programmer right who will overworked programmer I love
+
+435
+00:25:12,360 --> 00:25:15,400
+I do notice that there's one for the whole park.
+
+436
+00:25:15,400 --> 00:25:20,920
+Yeah you can tell why the stress got him and why he maybe wanted to exact some revenge.
+
+437
+00:25:20,920 --> 00:25:24,040
+Probably the money per hour not great also.
+
+438
+00:25:24,040 --> 00:25:26,560
+No yeah they're probably working them pretty hard.
+
+439
+00:25:26,560 --> 00:25:30,180
+Well what's interesting though is if what you're saying is that he's opened up satellite
+
+440
+00:25:30,180 --> 00:25:35,320
+locations then Jurassic World don't they don't even mention it so they've taken the ride
+
+441
+00:25:35,320 --> 00:25:40,320
+the ride is not in canon in the Jurassic World verse because they sit like they're talking
+
+442
+00:25:40,320 --> 00:25:44,360
+about sort of the original park but that original park never opened and they don't say well
+
+443
+00:25:44,360 --> 00:25:46,880
+what about the Hollywood location.
+
+444
+00:25:46,880 --> 00:25:52,760
+Hollywood and Orlando and Singapore and Osaka are all going fine.
+
+445
+00:25:52,760 --> 00:25:56,880
+I like the idea that he's also like this is just a much smaller park so it's like a Chili's
+
+446
+00:25:56,880 --> 00:26:03,380
+to go or an airport Chili's version of Jurassic Park it's very small like you can't do the
+
+447
+00:26:03,380 --> 00:26:07,880
+big massive expanse of the original so like that's a little bit and you throw a couple
+
+448
+00:26:07,880 --> 00:26:09,320
+dinosaurs and it's that's fine.
+
+449
+00:26:09,320 --> 00:26:15,680
+We're gonna do one boat ride we don't have the space to do the orbs but we'll save that
+
+450
+00:26:15,680 --> 00:26:17,080
+for Jurassic World.
+
+451
+00:26:17,080 --> 00:26:24,560
+And that's the budgetary reason why Dr. Alan Grant or Ian Malcolm or Sadler.
+
+452
+00:26:24,560 --> 00:26:25,560
+Sadler.
+
+453
+00:26:25,560 --> 00:26:29,960
+Kelly Sadler who also could not appear we just couldn't afford them.
+
+454
+00:26:29,960 --> 00:26:35,360
+Well they're busy they're paleontologists they can't stand around in the river adventure
+
+455
+00:26:35,360 --> 00:26:36,800
+all day they have work to do.
+
+456
+00:26:36,800 --> 00:26:41,840
+They have to run an entire campsite for fifty thousand dollars with ten employees I don't
+
+457
+00:26:41,840 --> 00:26:46,240
+know how that that worked out because you're the one that pays us fifty thousand dollars
+
+458
+00:26:46,240 --> 00:26:50,800
+it's like how you have a dozen people working for you what are you guys paying them.
+
+459
+00:26:50,800 --> 00:26:52,480
+Is that the amount named in the movie?
+
+460
+00:26:52,480 --> 00:26:55,960
+I think they name like how much money he has is like fifty thousand dollars.
+
+461
+00:26:55,960 --> 00:26:56,960
+Wow.
+
+462
+00:26:56,960 --> 00:26:57,960
+Wow.
+
+463
+00:26:57,960 --> 00:27:05,920
+The price of a really souped up pickup truck can can fund ten archaeologists or buy like
+
+464
+00:27:05,920 --> 00:27:10,240
+a pickup truck with very nice rims.
+
+465
+00:27:10,240 --> 00:27:15,680
+Do you think that people who had relatives who died in Jurassic Park were angry when
+
+466
+00:27:15,680 --> 00:27:22,960
+this Hollywood location brazenly opened with the family of the lawyer upset Genaro what
+
+467
+00:27:22,960 --> 00:27:23,960
+was the lawyer's name.
+
+468
+00:27:23,960 --> 00:27:24,960
+Oh yeah.
+
+469
+00:27:24,960 --> 00:27:25,960
+Jen to narrow.
+
+470
+00:27:25,960 --> 00:27:26,960
+Jenaro.
+
+471
+00:27:26,960 --> 00:27:30,800
+I wonder if there were protests outside the Universal Studios gates this is insensitive
+
+472
+00:27:30,800 --> 00:27:32,880
+to the victims of the Costa Rica.
+
+473
+00:27:32,880 --> 00:27:35,560
+Although maybe they I think it seems like they covered up right.
+
+474
+00:27:35,560 --> 00:27:36,560
+Yeah that's right.
+
+475
+00:27:36,560 --> 00:27:39,000
+Yeah they did not let the word get out of that Costa Rica.
+
+476
+00:27:39,000 --> 00:27:40,000
+Right.
+
+477
+00:27:40,000 --> 00:27:44,160
+That's why Jake Johnson in Jurassic World is so loves the first park it feels like he
+
+478
+00:27:44,160 --> 00:27:45,160
+doesn't know.
+
+479
+00:27:45,160 --> 00:27:46,880
+I don't know if he knows what happened right.
+
+480
+00:27:46,880 --> 00:27:49,560
+He doesn't say like that was the best part because all these people got east.
+
+481
+00:27:49,560 --> 00:27:50,560
+I don't know.
+
+482
+00:27:50,560 --> 00:27:54,120
+I don't think they know if they're working on the island.
+
+483
+00:27:54,120 --> 00:27:58,720
+But Jake Johnson in the movie he's got the shirt on and he's like the original park that
+
+484
+00:27:58,720 --> 00:28:02,760
+was the best park which never opened but then that people died in that original park.
+
+485
+00:28:02,760 --> 00:28:07,440
+That's like if someone wore an ironic shirt that said like Bush did 9-11 or something
+
+486
+00:28:07,440 --> 00:28:08,440
+right.
+
+487
+00:28:08,440 --> 00:28:10,040
+Have you seen a person wearing an ironic shirt.
+
+488
+00:28:10,040 --> 00:28:13,400
+No but I bet you I bet I could find one for sale on like even.
+
+489
+00:28:13,400 --> 00:28:15,640
+I haven't did Jurassic Park like type shirt.
+
+490
+00:28:15,640 --> 00:28:16,640
+Yeah.
+
+491
+00:28:16,640 --> 00:28:21,320
+Jurassic Park was an inside engine is an inside job.
+
+492
+00:28:21,320 --> 00:28:24,560
+I feel like that's the thing about Jurassic World I feel like that movie is like a reboot
+
+493
+00:28:24,560 --> 00:28:28,980
+of the idea where the movie Jurassic Park exists and then they figure out how to make
+
+494
+00:28:28,980 --> 00:28:32,720
+dinosaurs because everybody seems to love the movie Jurassic Park.
+
+495
+00:28:32,720 --> 00:28:34,120
+In Jurassic World.
+
+496
+00:28:34,120 --> 00:28:35,120
+That's true.
+
+497
+00:28:35,120 --> 00:28:40,040
+But by the time this episode comes out the Fallen Kingdom trailer will have dropped and
+
+498
+00:28:40,040 --> 00:28:45,680
+Dr. Ian Malcolm does exist in this world because Jeff Goldblum is back for the Jurassic World
+
+499
+00:28:45,680 --> 00:28:46,680
+sequel.
+
+500
+00:28:46,680 --> 00:28:47,840
+The timeline is all screwed up I think.
+
+501
+00:28:47,840 --> 00:28:48,840
+Yeah.
+
+502
+00:28:48,840 --> 00:28:50,820
+I think it's just we whatever.
+
+503
+00:28:50,820 --> 00:28:52,480
+We can't get upset about that.
+
+504
+00:28:52,480 --> 00:28:59,200
+If Jurassic World is a metaphor for the making of Jurassic World like let's try this bigger
+
+505
+00:28:59,200 --> 00:29:04,800
+one but why should or I'm sorry the making of that new dinosaur is like we need to do
+
+506
+00:29:04,800 --> 00:29:07,680
+something bigger and better because the audiences are getting bored.
+
+507
+00:29:07,680 --> 00:29:13,120
+Did Jurassic World then go make like a small independent dinosaur that people were not
+
+508
+00:29:13,120 --> 00:29:21,480
+fond of that blew Jurassic World's shot to do other franchises.
+
+509
+00:29:21,480 --> 00:29:26,720
+Did they try to make the Henry Soros.
+
+510
+00:29:26,720 --> 00:29:30,400
+This is this metaphor track for the rest of certain directors career.
+
+511
+00:29:30,400 --> 00:29:33,720
+That would be like a like a like you know they say dinosaurs have feathers now like
+
+512
+00:29:33,720 --> 00:29:35,720
+that's what they believe is that all dinosaurs are feathered.
+
+513
+00:29:35,720 --> 00:29:39,440
+They made like a feathered dinosaur in the public's like we don't want this real dinosaur
+
+514
+00:29:39,440 --> 00:29:41,980
+we want like a scary lizard dinosaur.
+
+515
+00:29:41,980 --> 00:29:45,120
+This is this is this but this is like the real dinosaurs they're actually four feet
+
+516
+00:29:45,120 --> 00:29:48,240
+tall and feathered and like nobody wants to like turn boring.
+
+517
+00:29:48,240 --> 00:29:49,240
+They had the Henry Soros.
+
+518
+00:29:49,240 --> 00:29:54,400
+He was three feet tall covered in feathers and like pooped out of its mouth instead of
+
+519
+00:29:54,400 --> 00:29:57,400
+its butt.
+
+520
+00:29:57,400 --> 00:30:00,960
+This is an abomination to God killed Henry Soros.
+
+521
+00:30:00,960 --> 00:30:03,800
+Wait is that a book of Henry.
+
+522
+00:30:03,800 --> 00:30:06,000
+That's kind of what I'm getting at.
+
+523
+00:30:06,000 --> 00:30:09,720
+This is as confused as the timelines in the Jurassic World franchise.
+
+524
+00:30:09,720 --> 00:30:15,360
+Is the book of Henry explore the metaphor of the Jurassic World universe.
+
+525
+00:30:15,360 --> 00:30:19,520
+I don't know I'm confused nobody poops out of their mouth in the in the movie but that's
+
+526
+00:30:19,520 --> 00:30:25,400
+how you feel when you've you've watched the movie you pooped out of your mouth.
+
+527
+00:30:25,400 --> 00:30:27,520
+Anyway I shouldn't keep disparaging this film.
+
+528
+00:30:27,520 --> 00:30:28,520
+What do I do?
+
+529
+00:30:28,520 --> 00:30:29,960
+Soon to be best picture winner.
+
+530
+00:30:29,960 --> 00:30:34,520
+I know so little about this movie but I've heard it dragged left and right.
+
+531
+00:30:34,520 --> 00:30:36,800
+So it's truly insane.
+
+532
+00:30:36,800 --> 00:30:41,880
+I saw it in a surprisingly packed theater at the Glendale Americana and I wanted to
+
+533
+00:30:41,880 --> 00:30:45,920
+stand up and say to the audience like what are we doing.
+
+534
+00:30:45,920 --> 00:30:47,040
+How are we all.
+
+535
+00:30:47,040 --> 00:30:49,720
+We all paid money to experience this.
+
+536
+00:30:49,720 --> 00:30:51,720
+Am I seeing the same movie you're seeing.
+
+537
+00:30:51,720 --> 00:30:53,160
+Gosh so insane.
+
+538
+00:30:53,160 --> 00:31:02,680
+It's a shame the characters from safety not guaranteed couldn't travel back in time.
+
+539
+00:31:02,680 --> 00:31:09,840
+Anyway Travarro not involved in the making of Jurassic Park the ride but Steven Spielberg
+
+540
+00:31:09,840 --> 00:31:17,720
+was and in fact he was they they were developing this ride in conjunction with the movie like
+
+541
+00:31:17,720 --> 00:31:21,440
+Spielberg was so sure that this book like loved the book.
+
+542
+00:31:21,440 --> 00:31:23,080
+I'm going to make a movie out of this.
+
+543
+00:31:23,080 --> 00:31:24,880
+I think the movie is going to be a blockbuster.
+
+544
+00:31:24,880 --> 00:31:29,240
+You should start thinking about a ride already which I think is a unique experience in theme
+
+545
+00:31:29,240 --> 00:31:31,280
+park development.
+
+546
+00:31:31,280 --> 00:31:33,000
+When did the ride get released.
+
+547
+00:31:33,000 --> 00:31:38,600
+When it was 1996 96 in Hollywood 99 in Orlando.
+
+548
+00:31:38,600 --> 00:31:42,960
+Two years later in 2001 in Japan and then 2010 in Singapore.
+
+549
+00:31:42,960 --> 00:31:46,360
+But that's a rapids ride not a shoot the shoot.
+
+550
+00:31:46,360 --> 00:31:52,240
+This is apparently known as a shoot the shoot style ride not a log flume ride which has
+
+551
+00:31:52,240 --> 00:31:55,000
+smaller ride vehicles and multiple drops.
+
+552
+00:31:55,000 --> 00:32:00,240
+I learned so there's not like a big white doesn't the climax in the same thing where
+
+553
+00:32:00,240 --> 00:32:05,200
+a big T-Rex appears and then there's a big drop at the or there is that but a smaller
+
+554
+00:32:05,200 --> 00:32:07,480
+drop because it's a rapid right.
+
+555
+00:32:07,480 --> 00:32:08,900
+Yeah there it does.
+
+556
+00:32:08,900 --> 00:32:13,120
+You do go into like an environmental safety building and there is like a small drop but
+
+557
+00:32:13,120 --> 00:32:18,160
+yeah like a much smaller one because rapids tend not to have like super big drops.
+
+558
+00:32:18,160 --> 00:32:19,160
+Gotcha.
+
+559
+00:32:19,160 --> 00:32:20,160
+Okay.
+
+560
+00:32:20,160 --> 00:32:27,080
+Yeah but the and the other thing like the I think the knee jerk in doing a Jurassic
+
+561
+00:32:27,080 --> 00:32:29,720
+Park ride is probably to do something with the Jeeps.
+
+562
+00:32:29,720 --> 00:32:35,280
+That's sort of the major vehicle obviously featured in the movie but I think a ride like
+
+563
+00:32:35,280 --> 00:32:39,240
+that would be very complicated and slow loading.
+
+564
+00:32:39,240 --> 00:32:44,640
+So they thought of doing a boat ride because I guess there is a boat sequence in the original
+
+565
+00:32:44,640 --> 00:32:45,640
+Jurassic Park novel.
+
+566
+00:32:45,640 --> 00:32:46,640
+Yeah.
+
+567
+00:32:46,640 --> 00:32:47,640
+Yeah.
+
+568
+00:32:47,640 --> 00:32:51,600
+There's a pterodactyl like it's not unlike the thing that gets crashed into in Jurassic
+
+569
+00:32:51,600 --> 00:32:52,680
+World.
+
+570
+00:32:52,680 --> 00:32:54,280
+There's a scene in the book or whatever.
+
+571
+00:32:54,280 --> 00:32:56,680
+What would you call is a scene is a book have a scene.
+
+572
+00:32:56,680 --> 00:32:57,680
+No.
+
+573
+00:32:57,680 --> 00:32:58,680
+A chapter.
+
+574
+00:32:58,680 --> 00:32:59,680
+A chapter an excerpt.
+
+575
+00:32:59,680 --> 00:33:00,680
+Yeah.
+
+576
+00:33:00,680 --> 00:33:01,680
+A book scene.
+
+577
+00:33:01,680 --> 00:33:02,680
+Yeah.
+
+578
+00:33:02,680 --> 00:33:07,240
+It's like a flume and that's where that crazy man crashes a helicopter in Jurassic World.
+
+579
+00:33:07,240 --> 00:33:08,240
+Yeah.
+
+580
+00:33:08,240 --> 00:33:11,560
+Is it the other way there is a sequence they were kind of they were like saving pterodactyls
+
+581
+00:33:11,560 --> 00:33:15,880
+from movie to movie like they sort of couldn't pull that off in the first Jurassic Park and
+
+582
+00:33:15,880 --> 00:33:20,760
+they were saving like a pterodactyl dome and probably couldn't pull although there's this
+
+583
+00:33:20,760 --> 00:33:22,560
+pterodactyls in Jurassic Park 3 correct.
+
+584
+00:33:22,560 --> 00:33:24,000
+Yeah I believe so.
+
+585
+00:33:24,000 --> 00:33:28,720
+But I think that dome sequence is kind of a nod to like that could have been in the first
+
+586
+00:33:28,720 --> 00:33:30,640
+Jurassic Park but they couldn't pull it off.
+
+587
+00:33:30,640 --> 00:33:31,640
+Right.
+
+588
+00:33:31,640 --> 00:33:32,640
+Right.
+
+589
+00:33:32,640 --> 00:33:38,200
+I haven't read the book but I my dad had read both of them and he was like yeah the movie's
+
+590
+00:33:38,200 --> 00:33:42,320
+very different the characters are all much more unpleasant in the book and like different
+
+591
+00:33:42,320 --> 00:33:43,320
+people die.
+
+592
+00:33:43,320 --> 00:33:44,320
+Yeah.
+
+593
+00:33:44,320 --> 00:33:48,320
+The lawyer is like lawyer is like a buff guy in the book and he's like a sniveling guy
+
+594
+00:33:48,320 --> 00:33:49,320
+in the movie.
+
+595
+00:33:49,320 --> 00:33:50,320
+Yeah.
+
+596
+00:33:50,320 --> 00:33:53,300
+Like they're sort of different and that's lawyers for sure.
+
+597
+00:33:53,300 --> 00:33:56,680
+And Hammond is like a real big son of a bitch in the book.
+
+598
+00:33:56,680 --> 00:34:00,000
+He's a kindly old grandpa but he's like a mean old man.
+
+599
+00:34:00,000 --> 00:34:01,800
+Doesn't he get eaten by the little guys.
+
+600
+00:34:01,800 --> 00:34:02,800
+Yes.
+
+601
+00:34:02,800 --> 00:34:03,800
+I think that's right.
+
+602
+00:34:03,800 --> 00:34:04,800
+Oh really.
+
+603
+00:34:04,800 --> 00:34:05,800
+Yeah.
+
+604
+00:34:05,800 --> 00:34:06,800
+So there's a whole yeah they changed a bunch of stuff around.
+
+605
+00:34:06,800 --> 00:34:10,160
+It was like a brutal death because I read that like when I was like in elementary school
+
+606
+00:34:10,160 --> 00:34:14,240
+because I loved the movie so much I read the book and then I remember like reading it it
+
+607
+00:34:14,240 --> 00:34:17,520
+was like the little guy bites his leg and then his leg goes numb and he's trying to
+
+608
+00:34:17,520 --> 00:34:22,520
+like run away and as he like it would basically what happened to the guy in Jurassic World
+
+609
+00:34:22,520 --> 00:34:27,480
+the bounty hunter he just like little bites to death by these little chicken sized dinosaurs.
+
+610
+00:34:27,480 --> 00:34:31,520
+Yeah they made it brutal like a brutal death for John Hammond because I think he's sort
+
+611
+00:34:31,520 --> 00:34:33,400
+of like a villain in the book.
+
+612
+00:34:33,400 --> 00:34:38,440
+He like the book cast him as a villain who's playing God and who is a monster kind of a
+
+613
+00:34:38,440 --> 00:34:39,760
+low key monster.
+
+614
+00:34:39,760 --> 00:34:40,760
+Huh.
+
+615
+00:34:40,760 --> 00:34:44,840
+But so that's a big decision in the movie to make him more kindly relatable.
+
+616
+00:34:44,840 --> 00:34:46,320
+Santa Claus in the movie.
+
+617
+00:34:46,320 --> 00:34:47,320
+Yeah yeah yeah.
+
+618
+00:34:47,320 --> 00:34:49,320
+The man who later played Santa Claus.
+
+619
+00:34:49,320 --> 00:34:54,680
+Yeah that's a good move right or lateral do we like that.
+
+620
+00:34:54,680 --> 00:34:56,000
+I don't know did you like it in the book.
+
+621
+00:34:56,000 --> 00:34:57,320
+Is it better in the book that he's.
+
+622
+00:34:57,320 --> 00:35:02,640
+I like I mean I get why he's not like that because it makes Jurassic Park a much like
+
+623
+00:35:02,640 --> 00:35:06,960
+they Malcolm I guess in the movie touches on like you know should you should we even
+
+624
+00:35:06,960 --> 00:35:08,800
+be doing this.
+
+625
+00:35:08,800 --> 00:35:13,240
+But it makes it a much more like oh yes it is wonderful isn't it as opposed to like this
+
+626
+00:35:13,240 --> 00:35:15,000
+evil old man.
+
+627
+00:35:15,000 --> 00:35:16,280
+It would be just a different movie.
+
+628
+00:35:16,280 --> 00:35:17,760
+I don't know that I like it.
+
+629
+00:35:17,760 --> 00:35:21,640
+Then you lose the flee circus monologue and you can't lose the flee circus.
+
+630
+00:35:21,640 --> 00:35:22,640
+Yeah.
+
+631
+00:35:22,640 --> 00:35:24,720
+It's it's it's just a sweet moment.
+
+632
+00:35:24,720 --> 00:35:25,720
+Sure.
+
+633
+00:35:25,720 --> 00:35:30,800
+It's kind of a sweet movie in general like in some trailers it's presented as like the
+
+634
+00:35:30,800 --> 00:35:32,640
+most terrifying thing you'll ever see.
+
+635
+00:35:32,640 --> 00:35:38,200
+But you actually what like there's that that score is so sweet and majestic and yeah.
+
+636
+00:35:38,200 --> 00:35:43,720
+There's probably a take on the on the dress work novel into a film that's like pure terror
+
+637
+00:35:43,720 --> 00:35:45,760
+in order from start to finish.
+
+638
+00:35:45,760 --> 00:35:46,760
+Right.
+
+639
+00:35:46,760 --> 00:35:51,120
+And other Crichton books are turned into movies are more just like harsh.
+
+640
+00:35:51,120 --> 00:35:52,120
+Right right.
+
+641
+00:35:52,120 --> 00:35:55,360
+So I mean I get why he did it and obviously it works.
+
+642
+00:35:55,360 --> 00:35:59,160
+So yeah now we get a ride for it where you get to hear that John Williams score as you
+
+643
+00:35:59,160 --> 00:36:01,120
+enter and I think that's the point.
+
+644
+00:36:01,120 --> 00:36:02,840
+That's the key that unlocks that.
+
+645
+00:36:02,840 --> 00:36:09,320
+That's what I think Jurassic World is missing is that moment of like holy shit there's dinosaurs
+
+646
+00:36:09,320 --> 00:36:11,440
+like this is great.
+
+647
+00:36:11,440 --> 00:36:13,400
+And that's because that's like the key that unlocks the movie.
+
+648
+00:36:13,400 --> 00:36:15,240
+That's the key that unlocks this ride.
+
+649
+00:36:15,240 --> 00:36:16,960
+Once you're on board with this is awesome.
+
+650
+00:36:16,960 --> 00:36:18,400
+There's dinosaurs here.
+
+651
+00:36:18,400 --> 00:36:23,280
+Then you can fall to the great terrors of being chased by raptors and tyrannosaurs.
+
+652
+00:36:23,280 --> 00:36:28,960
+But that's just not in Jurassic World where it's just like oh this is a park now.
+
+653
+00:36:28,960 --> 00:36:33,120
+Like let me ask you guys as as park heads what do you guys think of the depiction of the
+
+654
+00:36:33,120 --> 00:36:34,760
+Jurassic World future park.
+
+655
+00:36:34,760 --> 00:36:36,680
+Oh I have a lot of thoughts on this.
+
+656
+00:36:36,680 --> 00:36:37,880
+I've had it.
+
+657
+00:36:37,880 --> 00:36:44,240
+Yeah I I liked it and I but I wish there was more like I like that they took a monorail
+
+658
+00:36:44,240 --> 00:36:48,640
+to get to the park like they took a monorail to get to the main part of the park.
+
+659
+00:36:48,640 --> 00:36:55,360
+I like that the teenager was unhappy to be there and then they arrive at like a city
+
+660
+00:36:55,360 --> 00:36:58,440
+walk style shopping and dining area.
+
+661
+00:36:58,440 --> 00:36:59,440
+I was very excited.
+
+662
+00:36:59,440 --> 00:37:01,640
+There was a city walk in Jurassic World.
+
+663
+00:37:01,640 --> 00:37:06,480
+I think that's why I I actually am not a big hater of Jurassic World and I think that's
+
+664
+00:37:06,480 --> 00:37:09,720
+why I think I like that there's like an IMAX theater.
+
+665
+00:37:09,720 --> 00:37:14,840
+I'll forgive like bad characters and that bizarre harsh drowning of that woman because
+
+666
+00:37:14,840 --> 00:37:19,200
+there's I like that Jurassic World has an IMAX theater.
+
+667
+00:37:19,200 --> 00:37:20,600
+Yeah and a Margaritaville.
+
+668
+00:37:20,600 --> 00:37:22,640
+And a Margaritaville with Jimmy.
+
+669
+00:37:22,640 --> 00:37:26,520
+Jimmy Buffett in the movie.
+
+670
+00:37:26,520 --> 00:37:30,740
+A legit laugh and you get a laugh out of that I think watching the movie even before you
+
+671
+00:37:30,740 --> 00:37:32,120
+realize it's him.
+
+672
+00:37:32,120 --> 00:37:36,520
+Although did you Mike when you watched the movie did you know it was Buffett right away?
+
+673
+00:37:36,520 --> 00:37:39,200
+I think I read that it was him so I knew what I was looking for.
+
+674
+00:37:39,200 --> 00:37:40,200
+I see.
+
+675
+00:37:40,200 --> 00:37:42,760
+So I was on a website.
+
+676
+00:37:42,760 --> 00:37:48,720
+I'm on websites regularly that would tell me about a future Jimmy Buffett cameo in something.
+
+677
+00:37:48,720 --> 00:37:51,640
+Did the websites tell you what flavor the margaritas were?
+
+678
+00:37:51,640 --> 00:37:53,480
+I don't think so but I think they were classic.
+
+679
+00:37:53,480 --> 00:37:54,480
+I think they were classic.
+
+680
+00:37:54,480 --> 00:37:55,480
+Classic lime.
+
+681
+00:37:55,480 --> 00:37:56,480
+Yeah I think it's pretty easy to see.
+
+682
+00:37:56,480 --> 00:38:00,280
+So now I think you may have not enjoyed Jurassic World because you're just waiting for that
+
+683
+00:38:00,280 --> 00:38:01,560
+cameo the whole movie.
+
+684
+00:38:01,560 --> 00:38:02,560
+I was.
+
+685
+00:38:02,560 --> 00:38:04,760
+I was a little too.
+
+686
+00:38:04,760 --> 00:38:09,400
+I saw it in theaters like opening weekend and I just thought it was okay and then I
+
+687
+00:38:09,400 --> 00:38:17,560
+remember watching it like that Christmas with my family like with a fire or like just in
+
+688
+00:38:17,560 --> 00:38:21,160
+our pajama like it was like the most pleasant experience.
+
+689
+00:38:21,160 --> 00:38:26,760
+It was a very enjoyable experience to watch it in that environment because I think everyone
+
+690
+00:38:26,760 --> 00:38:31,800
+was in the mood for a big movie and everyone was you know relaxed after the hubbub from
+
+691
+00:38:31,800 --> 00:38:32,800
+the holidays.
+
+692
+00:38:32,800 --> 00:38:34,880
+So I'll see the next one.
+
+693
+00:38:34,880 --> 00:38:38,080
+So watch it in your jammie jams and you'll love it.
+
+694
+00:38:38,080 --> 00:38:42,480
+So what I like also I forgot I just remembered this on the Margaritaville website there is
+
+695
+00:38:42,480 --> 00:38:49,120
+a Isla Nublar Jimmy Buffett Margaritaville like kind of piece of marketing for the movie
+
+696
+00:38:49,120 --> 00:38:54,420
+but it makes it look like that's an actual location and it's a whole thing of like Jurassic
+
+697
+00:38:54,420 --> 00:38:57,440
+World eat at Jurassic World Jurassic World dining and then.
+
+698
+00:38:57,440 --> 00:39:02,120
+Oh they built out a very corporate website like would be just on margaritaville.com but
+
+699
+00:39:02,120 --> 00:39:04,360
+for Isla Nublar that's pretty cool.
+
+700
+00:39:04,360 --> 00:39:05,960
+Isn't it ELA?
+
+701
+00:39:05,960 --> 00:39:06,960
+No well they.
+
+702
+00:39:06,960 --> 00:39:10,360
+Same question about Isla Fisher or Isla Fisher.
+
+703
+00:39:10,360 --> 00:39:15,280
+Here's a video from the like B roll or whatever you call from the movie where Buffett is horsing
+
+704
+00:39:15,280 --> 00:39:20,000
+around with some ladies and nothing nothing too weird but like just kind of goofing.
+
+705
+00:39:20,000 --> 00:39:22,400
+Get a little dinosaur toy.
+
+706
+00:39:22,400 --> 00:39:23,400
+Yeah.
+
+707
+00:39:23,400 --> 00:39:29,320
+So this is like yeah there's like a face sprinkles cupcakes next to it within the oh Jimmy Buffett
+
+708
+00:39:29,320 --> 00:39:34,480
+bartending surprising some ladies with a little dinosaur puppet and he's got his hand up on
+
+709
+00:39:34,480 --> 00:39:38,880
+a fin making a fin like his song fins that you know.
+
+710
+00:39:38,880 --> 00:39:44,240
+So go to so Google Isla Nublar Jurassic World and you know it's a little Easter egg treat
+
+711
+00:39:44,240 --> 00:39:47,640
+a little a nice little like universe expansion.
+
+712
+00:39:47,640 --> 00:39:50,520
+Matt what's your feeling on Jurassic World.
+
+713
+00:39:50,520 --> 00:39:56,360
+I thought it just it was it was weird because every part that was good was when they played
+
+714
+00:39:56,360 --> 00:40:01,280
+the music or showed a logo from the first Jurassic Park and like that was the only part
+
+715
+00:40:01,280 --> 00:40:05,240
+like I was emotional to do so it just kind of like felt you know it's like a greatest
+
+716
+00:40:05,240 --> 00:40:10,920
+hits and I like if you compare it to the ride the ride gives you all the nostalgia you want
+
+717
+00:40:10,920 --> 00:40:16,160
+for the movie but you don't have to you know sit there for two hours to do it it's a nice
+
+718
+00:40:16,160 --> 00:40:22,080
+clean five minute ride and it gives you like the entire story in a five minute ride whereas
+
+719
+00:40:22,080 --> 00:40:28,200
+this thing is like just so many side plots and weird stuff and and.
+
+720
+00:40:28,200 --> 00:40:31,600
+My parents are getting a divorce.
+
+721
+00:40:31,600 --> 00:40:39,200
+Yeah yeah yeah why this divorce story in this movie that's like Judy Judy Greer just wasted
+
+722
+00:40:39,200 --> 00:40:40,200
+in that movie.
+
+723
+00:40:40,200 --> 00:40:45,520
+Yeah Lauren Lapkus do I wish very funny I wish had done more in the movie but she's
+
+724
+00:40:45,520 --> 00:40:49,480
+that part with her and Jake Johnson is in Mission Control is very funny where that was
+
+725
+00:40:49,480 --> 00:40:53,000
+very funny yeah yeah they got a big laugh in that yeah that's I think they're back for
+
+726
+00:40:53,000 --> 00:40:54,000
+the sequel.
+
+727
+00:40:54,000 --> 00:40:56,000
+I also do I like those characters.
+
+728
+00:40:56,000 --> 00:41:02,240
+I have a question about when you talk about like theme park references in the movie I
+
+729
+00:41:02,240 --> 00:41:07,560
+think I like that there's this when you when you go on this orb attraction that you watch
+
+730
+00:41:07,560 --> 00:41:12,440
+a safety video obviously I'm obsessed with the theme park safety videos and that you
+
+731
+00:41:12,440 --> 00:41:17,320
+watch one starring Jimmy Fallon which I just found a behind the scenes of the shows that
+
+732
+00:41:17,320 --> 00:41:23,120
+they shot it at Studio 8H where they do Saturday Night Live so they're like filming it's like
+
+733
+00:41:23,120 --> 00:41:30,560
+essentially an SNL sketch custom for the Jurassic World orb ride with with Jimmy Fallon.
+
+734
+00:41:30,560 --> 00:41:37,960
+But my question is like it's that that it's sort of hokey it's like you know Jimmy Fallon
+
+735
+00:41:37,960 --> 00:41:41,960
+getting sprayed by tar and then like something getting lit lit on fire it's like it was kind
+
+736
+00:41:41,960 --> 00:41:45,540
+of like little science gone awry sequence.
+
+737
+00:41:45,540 --> 00:41:50,480
+And my question was like was it a little lame on purpose because theme park ride videos
+
+738
+00:41:50,480 --> 00:41:55,480
+are always a little lame or were they committing hard to a where they try to make like a very
+
+739
+00:41:55,480 --> 00:41:57,840
+funny original Jimmy Fallon sketch.
+
+740
+00:41:57,840 --> 00:42:02,320
+Was it like self aware that like these things are always a little stupid.
+
+741
+00:42:02,320 --> 00:42:06,480
+I'll give them I'm going to am going to give them a little credit that they were self aware
+
+742
+00:42:06,480 --> 00:42:10,720
+that they were like laying it on thick because sometimes these videos are laid on pretty
+
+743
+00:42:10,720 --> 00:42:18,120
+thick and like theme park videos have to have they can't exactly be like dense verbal humor.
+
+744
+00:42:18,120 --> 00:42:21,360
+It's probably going to be people getting hurt because people of who speak all languages
+
+745
+00:42:21,360 --> 00:42:25,520
+are watching these videos and kids to 80 and yeah yeah yeah.
+
+746
+00:42:25,520 --> 00:42:29,560
+I thought those things were well done though and I liked that like of course if Jurassic
+
+747
+00:42:29,560 --> 00:42:35,160
+World existed Jimmy Fallon would do the video like he hosts the Universal Tour here in Hollywood.
+
+748
+00:42:35,160 --> 00:42:39,640
+Well and actually now that we're talking about it actually to give Jurassic World credit
+
+749
+00:42:39,640 --> 00:42:44,800
+the maybe one of the truest things about this movie is that the only thing that's fresh
+
+750
+00:42:44,800 --> 00:42:48,160
+is they have like a take on theme parks that they actually like say this is what we think
+
+751
+00:42:48,160 --> 00:42:50,240
+theme parks are now and will be in the future.
+
+752
+00:42:50,240 --> 00:42:54,200
+So that was like the only like original thought is like what if there's orbs and of course
+
+753
+00:42:54,200 --> 00:42:56,080
+there's going to be a Margaritaville in this.
+
+754
+00:42:56,080 --> 00:42:59,960
+Yeah like if there was a real Jurassic Park they did a good job of making it seem like
+
+755
+00:42:59,960 --> 00:43:03,120
+it would be modeled after the parks of today.
+
+756
+00:43:03,120 --> 00:43:04,120
+Right.
+
+757
+00:43:04,120 --> 00:43:05,120
+Did a good job of doing that.
+
+758
+00:43:05,120 --> 00:43:08,240
+And there was an arms race element of like we got to have a new attraction you know we
+
+759
+00:43:08,240 --> 00:43:13,400
+got to have a bigger dinosaur people are you know getting sick of these old ones the sponsors
+
+760
+00:43:13,400 --> 00:43:18,840
+or didn't they say like Verizon wants to sponsor a big dinosaur or something.
+
+761
+00:43:18,840 --> 00:43:22,840
+It may have been you know marketing or like you know corporate synergy or whatever like
+
+762
+00:43:22,840 --> 00:43:26,040
+the Fallon tie in and stuff but like that is a reality of theme park.
+
+763
+00:43:26,040 --> 00:43:29,140
+So I agree with you I did like that that was in there.
+
+764
+00:43:29,140 --> 00:43:35,280
+What would you guys say is is the analog between dinosaurs and rides in Disneyland is like
+
+765
+00:43:35,280 --> 00:43:40,560
+so it's like the Tyrannosaurus is that the space mountain of Jurassic Park.
+
+766
+00:43:40,560 --> 00:43:43,320
+You mean like the high ticket the biggest attraction.
+
+767
+00:43:43,320 --> 00:43:45,280
+Yeah like what was that question.
+
+768
+00:43:45,280 --> 00:43:46,280
+Oh interesting.
+
+769
+00:43:46,280 --> 00:43:52,360
+Well you got you know Jurassic World has the petting zoo with the triceratops and that's
+
+770
+00:43:52,360 --> 00:43:54,840
+more of a that's more of a kiddie ride.
+
+771
+00:43:54,840 --> 00:43:55,840
+That's like the teacups.
+
+772
+00:43:55,840 --> 00:43:58,840
+Or me that's like meeting Winnie the Pooh maybe.
+
+773
+00:43:58,840 --> 00:44:00,960
+Yeah that's Winnie meeting Pooh and his friends.
+
+774
+00:44:00,960 --> 00:44:02,440
+Thing for the little ones.
+
+775
+00:44:02,440 --> 00:44:03,440
+Yeah.
+
+776
+00:44:03,440 --> 00:44:04,440
+With that.
+
+777
+00:44:04,440 --> 00:44:11,120
+Well obviously that that giant crazy aquatic dinosaur eating the shark is the equivalent
+
+778
+00:44:11,120 --> 00:44:14,280
+to Universal's Waterworld Alive Sea War spectacular.
+
+779
+00:44:14,280 --> 00:44:15,280
+Sure.
+
+780
+00:44:15,280 --> 00:44:17,200
+Thank you for showing it its proper respect.
+
+781
+00:44:17,200 --> 00:44:18,200
+Absolutely.
+
+782
+00:44:18,200 --> 00:44:20,880
+I'm not watering that name down it's a beautiful name.
+
+783
+00:44:20,880 --> 00:44:23,360
+Oh my god by the way I got to make a quick side jump.
+
+784
+00:44:23,360 --> 00:44:26,240
+Do you know if it's true Mike because we're both wrestling guys.
+
+785
+00:44:26,240 --> 00:44:27,240
+Yeah.
+
+786
+00:44:27,240 --> 00:44:30,320
+That Chris Daniels is doing Waterworld now.
+
+787
+00:44:30,320 --> 00:44:31,320
+Wait what?
+
+788
+00:44:31,320 --> 00:44:32,320
+The stunt show?
+
+789
+00:44:32,320 --> 00:44:33,320
+I heard that he's playing the Deacon.
+
+790
+00:44:33,320 --> 00:44:34,320
+Is he really?
+
+791
+00:44:34,320 --> 00:44:37,760
+I've heard that I don't know if it's true but I've seen pictures of Chris Daniels as
+
+792
+00:44:37,760 --> 00:44:38,760
+the Deacon.
+
+793
+00:44:38,760 --> 00:44:39,760
+Oh my god.
+
+794
+00:44:39,760 --> 00:44:40,760
+Yeah.
+
+795
+00:44:40,760 --> 00:44:42,400
+Chris Daniels is our impending wrestler.
+
+796
+00:44:42,400 --> 00:44:44,840
+I mean works for Ring of Honor and other places but.
+
+797
+00:44:44,840 --> 00:44:45,840
+Been around forever.
+
+798
+00:44:45,840 --> 00:44:46,840
+Great wrestler.
+
+799
+00:44:46,840 --> 00:44:49,480
+You guys know that I know a Deacon right.
+
+800
+00:44:49,480 --> 00:44:50,960
+The Deacon is Dennis Hopper correct?
+
+801
+00:44:50,960 --> 00:44:51,960
+Yes.
+
+802
+00:44:51,960 --> 00:44:52,960
+Yes.
+
+803
+00:44:52,960 --> 00:44:53,960
+Yeah yeah yeah.
+
+804
+00:44:53,960 --> 00:44:54,960
+We got to talk about this at some point.
+
+805
+00:44:54,960 --> 00:44:57,120
+A guy worked to the cone a bunch Greg Dolph.
+
+806
+00:44:57,120 --> 00:45:00,560
+Great dude and he is a Deacon and has been since they opened.
+
+807
+00:45:00,560 --> 00:45:04,160
+So maybe he's welcomed this wrestler into the Deacon family.
+
+808
+00:45:04,160 --> 00:45:08,120
+Yeah I believe that's not a bad gig because I think they are in like the stunt man union
+
+809
+00:45:08,120 --> 00:45:09,560
+and so it's like consistent.
+
+810
+00:45:09,560 --> 00:45:11,040
+So there's benefits.
+
+811
+00:45:11,040 --> 00:45:13,120
+Like a little bit of consistent work and stuff.
+
+812
+00:45:13,120 --> 00:45:14,120
+Good for them.
+
+813
+00:45:14,120 --> 00:45:15,120
+They're covered.
+
+814
+00:45:15,120 --> 00:45:19,000
+I mean here from just a Google search there's a video that says Christopher Daniels as Deacon
+
+815
+00:45:19,000 --> 00:45:21,880
+in the Waterworld Stunt Show and this is from last year.
+
+816
+00:45:21,880 --> 00:45:23,840
+And Christopher Daniels is a.
+
+817
+00:45:23,840 --> 00:45:24,840
+Wrestler.
+
+818
+00:45:24,840 --> 00:45:25,840
+Independent wrestler.
+
+819
+00:45:25,840 --> 00:45:27,880
+Yeah he's been around for like 20 years on the independent.
+
+820
+00:45:27,880 --> 00:45:28,880
+Oh wow.
+
+821
+00:45:28,880 --> 00:45:30,560
+He never made it in the WWE but he's really really great.
+
+822
+00:45:30,560 --> 00:45:32,000
+There he is yeah he's a great wrestler.
+
+823
+00:45:32,000 --> 00:45:35,320
+Is he bald already or does he have to wear a bald cap to be bald already?
+
+824
+00:45:35,320 --> 00:45:36,320
+He's bald already.
+
+825
+00:45:36,320 --> 00:45:37,320
+Perfect.
+
+826
+00:45:37,320 --> 00:45:38,320
+That's probably why they thought of him.
+
+827
+00:45:38,320 --> 00:45:39,320
+Wow.
+
+828
+00:45:39,320 --> 00:45:43,480
+It's a good day for bald caps and prosthetics to be reapplied every day.
+
+829
+00:45:43,480 --> 00:45:45,280
+Especially in a water park ride.
+
+830
+00:45:45,280 --> 00:45:47,600
+Oh yeah yeah they'll be wear and tear on that.
+
+831
+00:45:47,600 --> 00:45:53,280
+Hey just like the wear and tear on these dinosaurs in the Jurassic Park ride.
+
+832
+00:45:53,280 --> 00:45:57,960
+It is pretty crazy when you think about you know whatever the whatever the skin is made
+
+833
+00:45:57,960 --> 00:46:05,960
+of on these dinosaur robots that it's this it's foam rubber that has to stay flexible
+
+834
+00:46:05,960 --> 00:46:08,100
+despite getting wet all day.
+
+835
+00:46:08,100 --> 00:46:11,920
+And when it's pretty insane that they turn the technology around from when they made
+
+836
+00:46:11,920 --> 00:46:16,200
+Jurassic Park where you what you watch this crazy behind the scenes footage footage of
+
+837
+00:46:16,200 --> 00:46:21,360
+people have seen it they were listening that you if you watch the T. Rex robot in the making
+
+838
+00:46:21,360 --> 00:46:25,600
+of Jurassic Park that when it would get wet because all the scenes involve rain it would
+
+839
+00:46:25,600 --> 00:46:30,880
+like shiver and shake like it was like it was like it was like the T. Rex got sick and
+
+840
+00:46:30,880 --> 00:46:36,400
+there's all this crazy footage of PAs just like padding down the T. Rex with towels.
+
+841
+00:46:36,400 --> 00:46:38,680
+They like they didn't think about how this was going to work.
+
+842
+00:46:38,680 --> 00:46:40,400
+So it's just like small hand towels.
+
+843
+00:46:40,400 --> 00:46:44,560
+Let's dry off that T. Rex and then three years later they have a ride where these dinosaurs
+
+844
+00:46:44,560 --> 00:46:46,560
+have to get wet all day every day.
+
+845
+00:46:46,560 --> 00:46:49,040
+It's what they do and they all they all look great.
+
+846
+00:46:49,040 --> 00:46:50,600
+They upkeep on that ride is fantastic.
+
+847
+00:46:50,600 --> 00:46:54,200
+Yeah I mean there's been times when you go in and there's just a big tarp over one of
+
+848
+00:46:54,200 --> 00:46:55,200
+these dinosaurs.
+
+849
+00:46:55,200 --> 00:46:56,200
+Really?
+
+850
+00:46:56,200 --> 00:47:02,160
+The majestic like majestic Jurassic Park theme and then like there's a big just big like
+
+851
+00:47:02,160 --> 00:47:07,400
+if as if they're fumigating a house sized tent over one of these long neck dinosaurs
+
+852
+00:47:07,400 --> 00:47:13,200
+and you're like oh wait that's that kind of kills the the sick.
+
+853
+00:47:13,200 --> 00:47:16,020
+That is what they yeah yeah they he's been quarantined.
+
+854
+00:47:16,020 --> 00:47:18,720
+So I know they did a refresh on it a couple years ago I think because they were having
+
+855
+00:47:18,720 --> 00:47:22,000
+some issues and I feel like dinosaurs felt like they were melting a little bit.
+
+856
+00:47:22,000 --> 00:47:25,420
+I feel like there's that that duck bill dinosaur that that that squirts water out of his nose
+
+857
+00:47:25,420 --> 00:47:30,000
+like when you take that turn you come around the out of the cave and I feel like he was
+
+858
+00:47:30,000 --> 00:47:32,680
+gone for a while but they would still play his like sound effects.
+
+859
+00:47:32,680 --> 00:47:33,680
+Oh yeah yeah.
+
+860
+00:47:33,680 --> 00:47:36,720
+I was just like it was just it was very because it was a it was a very empty because he's
+
+861
+00:47:36,720 --> 00:47:40,560
+a big feature so it's like a very empty turn without him there because you're just like
+
+862
+00:47:40,560 --> 00:47:42,240
+hearing him and not seeing him.
+
+863
+00:47:42,240 --> 00:47:45,360
+And he you're right but you're saying right before the turn happens right the dinosaur
+
+864
+00:47:45,360 --> 00:47:49,400
+Hedrasaur Cove before you go into Hedrasaur Cove.
+
+865
+00:47:49,400 --> 00:47:52,800
+My friends and I had a long running bit of like can't wait to ride Jurassic Park ride
+
+866
+00:47:52,800 --> 00:47:58,000
+go see all our buds the dinosaurs in Hedrasaur Cove and that's when it goes wrong that's
+
+867
+00:47:58,000 --> 00:47:59,540
+when you get knocked off track.
+
+868
+00:47:59,540 --> 00:48:05,320
+To continue Matt's metaphor what's Hedrasaur Cove in the Disney park or in or in theme
+
+869
+00:48:05,320 --> 00:48:08,540
+park where like a cool ride that's often broken.
+
+870
+00:48:08,540 --> 00:48:10,680
+The storybook canal boats.
+
+871
+00:48:10,680 --> 00:48:11,680
+Sure great.
+
+872
+00:48:11,680 --> 00:48:12,680
+The Hedrasaur Cove.
+
+873
+00:48:12,680 --> 00:48:13,680
+Incredibly inconvenient to operate.
+
+874
+00:48:13,680 --> 00:48:14,680
+There you go well a quick answer.
+
+875
+00:48:14,680 --> 00:48:15,680
+Yeah Jason got it.
+
+876
+00:48:15,680 --> 00:48:16,680
+Thank you.
+
+877
+00:48:16,680 --> 00:48:26,520
+I feel like the Jeep you mentioned earlier the Jeep that falls down and splashes in the
+
+878
+00:48:26,520 --> 00:48:31,240
+water is also an indicator of like wait have they done upkeep recently because that doesn't
+
+879
+00:48:31,240 --> 00:48:35,800
+have to work like that can just be hanging off and it reads like it makes sense.
+
+880
+00:48:35,800 --> 00:48:37,600
+It doesn't always crash.
+
+881
+00:48:37,600 --> 00:48:39,880
+Yeah it doesn't always crash down.
+
+882
+00:48:39,880 --> 00:48:43,960
+It's like the train which is was not functioning for a long time at Disneyland.
+
+883
+00:48:43,960 --> 00:48:44,960
+Oh yeah.
+
+884
+00:48:44,960 --> 00:48:45,960
+That's that metaphor.
+
+885
+00:48:45,960 --> 00:48:48,400
+We'll break it all down.
+
+886
+00:48:48,400 --> 00:48:50,520
+And well the other thing I got to ask you guys about this one what do you guys think
+
+887
+00:48:50,520 --> 00:48:53,840
+about the little the little Disney hats that float in the water.
+
+888
+00:48:53,840 --> 00:48:54,840
+That's a fun.
+
+889
+00:48:54,840 --> 00:48:59,200
+I always think that's really I was at some point think like how is that still here.
+
+890
+00:48:59,200 --> 00:49:02,120
+How is like Disney not had a problem with this.
+
+891
+00:49:02,120 --> 00:49:07,720
+I wonder if because I think if there's are they I wonder if their actual Disney license
+
+892
+00:49:07,720 --> 00:49:10,640
+or they're I mean they probably mocked him up unless they went to the park in his bottom
+
+893
+00:49:10,640 --> 00:49:12,040
+and threw him in the water.
+
+894
+00:49:12,040 --> 00:49:14,120
+They're ovals they're not perfectly right.
+
+895
+00:49:14,120 --> 00:49:16,200
+So they're technically off brand.
+
+896
+00:49:16,200 --> 00:49:18,760
+Yeah if they're like technically off brand they can do it.
+
+897
+00:49:18,760 --> 00:49:22,500
+Because I feel like Disney would get litigious if like there was a diner that made pancakes
+
+898
+00:49:22,500 --> 00:49:26,400
+that looked like like sure we were together like.
+
+899
+00:49:26,400 --> 00:49:30,680
+So the fact that they're not like attacking universal because it's still there.
+
+900
+00:49:30,680 --> 00:49:33,720
+I thought it'd be like I'd see it one time and then it'd be gone like somebody's having
+
+901
+00:49:33,720 --> 00:49:34,720
+a yeah.
+
+902
+00:49:34,720 --> 00:49:38,960
+But it's like a part of the ride that some Disney fans got drowned and killed by these
+
+903
+00:49:38,960 --> 00:49:39,960
+Raptors.
+
+904
+00:49:39,960 --> 00:49:40,960
+Yeah right.
+
+905
+00:49:40,960 --> 00:49:45,760
+Universal's always been a little more bribe all the little more cheeky with their sense
+
+906
+00:49:45,760 --> 00:49:48,080
+you little edgy little.
+
+907
+00:49:48,080 --> 00:49:53,600
+Isn't there a part in the Avatar ride where a banshee tears Woody Woodpecker apart.
+
+908
+00:49:53,600 --> 00:49:59,360
+Yeah the beloved character the beloved licensed character Woody Woodpecker.
+
+909
+00:49:59,360 --> 00:50:04,120
+You see stray Woodpecker beak hats lying around the Kingdom of Pandora.
+
+910
+00:50:04,120 --> 00:50:07,480
+Then like the mummy sees like a like there's like a little Indiana Jones silhouette the
+
+911
+00:50:07,480 --> 00:50:11,240
+mummy thumbs over the shoulder that makes a Jake jerk off motion at him.
+
+912
+00:50:11,240 --> 00:50:15,720
+He's like this guy like yeah there's a lot of like oh god.
+
+913
+00:50:15,720 --> 00:50:18,280
+The whole Simpson ride is goofing on Disney too.
+
+914
+00:50:18,280 --> 00:50:19,280
+That's true.
+
+915
+00:50:19,280 --> 00:50:24,560
+So I guess maybe it's just like all right it's there's a like a ceasefire on both parts.
+
+916
+00:50:24,560 --> 00:50:28,760
+Yeah well they also are the plucky underdogs in the LA theme park.
+
+917
+00:50:28,760 --> 00:50:34,400
+Well none's more plucky than Knott's Berry Farm but they're not as very plucky.
+
+918
+00:50:34,400 --> 00:50:36,720
+Yeah it's like an attribute.
+
+919
+00:50:36,720 --> 00:50:40,000
+It's the pluckleberry pie.
+
+920
+00:50:40,000 --> 00:50:46,960
+It's the plucky underdog that is owned by NBC Universal at Comcast NBC Universal and
+
+921
+00:50:46,960 --> 00:50:48,200
+what's the one from 30 Rocks?
+
+922
+00:50:48,200 --> 00:50:50,360
+Shine Heart wig company.
+
+923
+00:50:50,360 --> 00:50:55,200
+Hey well what else about this ride?
+
+924
+00:50:55,200 --> 00:50:57,240
+We mentioned Hadrosaur Cove.
+
+925
+00:50:57,240 --> 00:51:03,120
+Any other moments that I mean it's cool you get to you get spit out by a spitter.
+
+926
+00:51:03,120 --> 00:51:06,440
+What's just moments from this ride that we enjoy?
+
+927
+00:51:06,440 --> 00:51:08,840
+Well this is more an anecdote than anything else.
+
+928
+00:51:08,840 --> 00:51:13,440
+When the first ride opened in Hollywood like there were actors from the movie that like
+
+929
+00:51:13,440 --> 00:51:14,440
+Jeff Goldblum was there.
+
+930
+00:51:14,440 --> 00:51:20,840
+Steven Spielberg was there and the story goes apparently like they rode the ride and then
+
+931
+00:51:20,840 --> 00:51:27,600
+stopped it at the top of the drop to let Mr. Spielberg off and then the boat went down
+
+932
+00:51:27,600 --> 00:51:31,360
+which come on Steven children ride this thing suck it up do it once.
+
+933
+00:51:31,360 --> 00:51:34,040
+I don't think there's anything wrong with that.
+
+934
+00:51:34,040 --> 00:51:41,400
+And Scott doesn't like these drops either like Mr. Spielberg.
+
+935
+00:51:41,400 --> 00:51:46,880
+By not doing the drop I'm experiencing the ride the way Spielberg intended.
+
+936
+00:51:46,880 --> 00:51:48,880
+I'm subscribing to his auteur theory.
+
+937
+00:51:48,880 --> 00:51:52,480
+But that means you're just in limbo you're just in hell.
+
+938
+00:51:52,480 --> 00:51:56,440
+You don't escape the dinosaur you're just under the dinosaur in the falling pipes forever.
+
+939
+00:51:56,440 --> 00:52:01,360
+How do you make it out you just like you just sadly walk away scarred by the experience
+
+940
+00:52:01,360 --> 00:52:02,360
+forever.
+
+941
+00:52:02,360 --> 00:52:03,400
+You've been on this ride though.
+
+942
+00:52:03,400 --> 00:52:06,320
+I did do it once and that was plenty.
+
+943
+00:52:06,320 --> 00:52:10,440
+I was terrified still scarred.
+
+944
+00:52:10,440 --> 00:52:15,920
+The commonality between all the like when I had girlfriends who made me man up and go
+
+945
+00:52:15,920 --> 00:52:18,240
+on these rides I would do them.
+
+946
+00:52:18,240 --> 00:52:23,240
+But now that I have a wife who's nice who doesn't boss me around I don't have to go
+
+947
+00:52:23,240 --> 00:52:24,880
+on any ride I don't want to.
+
+948
+00:52:24,880 --> 00:52:27,600
+Aaron make Scott go on the Jurassic Park ride.
+
+949
+00:52:27,600 --> 00:52:29,880
+No I'm talking directly to you Aaron.
+
+950
+00:52:29,880 --> 00:52:30,880
+Out.
+
+951
+00:52:30,880 --> 00:52:35,440
+It's like Scott's parade Scott's platoon of mean girlfriends.
+
+952
+00:52:35,440 --> 00:52:39,040
+That he's also bragging about all these girlfriends.
+
+953
+00:52:39,040 --> 00:52:40,040
+Bloody dog.
+
+954
+00:52:40,040 --> 00:52:44,520
+I've gone around I've had three girlfriends in my life.
+
+955
+00:52:44,520 --> 00:52:47,920
+Dozens of times so you know I've had a few.
+
+956
+00:52:47,920 --> 00:52:51,280
+A different girlfriend for every time.
+
+957
+00:52:51,280 --> 00:52:55,880
+Yeah well I think I before my wife I had two girlfriends.
+
+958
+00:52:55,880 --> 00:53:01,080
+And I think I went on scary flume rides two times before.
+
+959
+00:53:01,080 --> 00:53:02,280
+Would you play it cool.
+
+960
+00:53:02,280 --> 00:53:05,400
+Like if they were like hey let's go on Splash Mountain or something would you kind of go
+
+961
+00:53:05,400 --> 00:53:09,640
+like oh yeah yeah cool whatever I don't that's fine yeah I love Splash Mountain or would
+
+962
+00:53:09,640 --> 00:53:11,440
+you have to kind of be tucked into it.
+
+963
+00:53:11,440 --> 00:53:17,160
+I'd be doing curls the entire time and like getting up on those on the you know the the
+
+964
+00:53:17,160 --> 00:53:22,280
+the poles that separate the line and just like doing doing pushes off of those.
+
+965
+00:53:22,280 --> 00:53:25,840
+But would you let them know that you didn't like it or would you just play it cool and
+
+966
+00:53:25,840 --> 00:53:27,600
+like inside you were terrified.
+
+967
+00:53:27,600 --> 00:53:31,680
+Oh yeah how how would I play that.
+
+968
+00:53:31,680 --> 00:53:38,160
+I don't think I tricked them I don't think I'm not sure my performing skills were particularly
+
+969
+00:53:38,160 --> 00:53:39,880
+sharp I think I'd.
+
+970
+00:53:39,880 --> 00:53:46,000
+I mean because I have you get legit terror in your eyes when you're doing these things.
+
+971
+00:53:46,000 --> 00:53:50,560
+I remember seeing Mortal Kombat when I was younger and I'm if you figure out how old
+
+972
+00:53:50,560 --> 00:53:56,120
+I was it was probably older like 13 or something but I was scared in the movie very scared
+
+973
+00:53:56,120 --> 00:54:00,240
+and like I tried to play it cool and I just kept asking questions to my friend the whole
+
+974
+00:54:00,240 --> 00:54:05,320
+movie and he was so mad and I thought I was playing it cool but it was very clear I wasn't.
+
+975
+00:54:05,320 --> 00:54:09,360
+Was it Goro because Goro is pretty scary he's a very whole thing I thought people were going
+
+976
+00:54:09,360 --> 00:54:13,180
+to die I had never seen an R rated movie in the theater before maybe never saw an R rated
+
+977
+00:54:13,180 --> 00:54:15,160
+movie zero rule follower.
+
+978
+00:54:15,160 --> 00:54:16,760
+I follow the rules.
+
+979
+00:54:16,760 --> 00:54:20,600
+I hope you didn't see any R rated movies before you were 18.
+
+980
+00:54:20,600 --> 00:54:22,000
+I snuck into Event Horizon.
+
+981
+00:54:22,000 --> 00:54:23,320
+Oh great time.
+
+982
+00:54:23,320 --> 00:54:26,040
+What's bad boy Mizani over here.
+
+983
+00:54:26,040 --> 00:54:32,920
+Don't respect fast pass laws or the MPAA and our two most powerful institutions in this
+
+984
+00:54:32,920 --> 00:54:33,920
+country.
+
+985
+00:54:33,920 --> 00:54:40,720
+Now I was very scared of the ring like I was 15 and like for two nights afterwards I had
+
+986
+00:54:40,720 --> 00:54:43,880
+trouble sleeping from the American version of the ring.
+
+987
+00:54:43,880 --> 00:54:45,240
+Sure with Naomi was scary.
+
+988
+00:54:45,240 --> 00:54:47,120
+Well that's at least a scary movie.
+
+989
+00:54:47,120 --> 00:54:48,880
+I guess so yeah.
+
+990
+00:54:48,880 --> 00:54:54,240
+Mine is Mortal Kombat it's like PG-13 and they can't really show much gore and like
+
+991
+00:54:54,240 --> 00:54:55,240
+whatever.
+
+992
+00:54:55,240 --> 00:54:57,760
+Goro is weird looking and I think there's something unsettling about him.
+
+993
+00:54:57,760 --> 00:54:58,760
+Oh yeah for sure.
+
+994
+00:54:58,760 --> 00:55:02,160
+Everything about the movie is a little unsettling they're on an island with like the people
+
+995
+00:55:02,160 --> 00:55:06,480
+that run the island have all masks on and it's very like it's very like proto eyes wide
+
+996
+00:55:06,480 --> 00:55:09,600
+shut but with fighting so it's like a weird adventure that they're on.
+
+997
+00:55:09,600 --> 00:55:12,200
+That's true but I don't think I was up there.
+
+998
+00:55:12,200 --> 00:55:13,200
+That's true I guess.
+
+999
+00:55:13,200 --> 00:55:15,320
+You're trying to give them the benefit of the doubt.
+
+1000
+00:55:15,320 --> 00:55:16,800
+You're trying to help me out here I appreciate it.
+
+1001
+00:55:16,800 --> 00:55:18,680
+I was scared of the yell.
+
+1002
+00:55:18,680 --> 00:55:21,120
+Mortal Kombat!
+
+1003
+00:55:21,120 --> 00:55:25,600
+I've never seen the films or played the games because I'm just if I'm just passing through
+
+1004
+00:55:25,600 --> 00:55:30,600
+an arcade and I hear that scary yell I gotta go hide in the bathroom for a while.
+
+1005
+00:55:30,600 --> 00:55:33,560
+Did a girlfriend ever make you try to make you play Mortal Kombat?
+
+1006
+00:55:33,560 --> 00:55:34,560
+Scott get over there.
+
+1007
+00:55:34,560 --> 00:55:35,560
+I can do this.
+
+1008
+00:55:35,560 --> 00:55:37,840
+You're Raiden I'm sub-zero Scott.
+
+1009
+00:55:37,840 --> 00:55:41,560
+No I know I know all kinds of attacks.
+
+1010
+00:55:41,560 --> 00:55:48,520
+On Jurassic Park I always think because like this is one of those where there's like two
+
+1011
+00:55:48,520 --> 00:55:51,240
+tracks and you go off the wrong track.
+
+1012
+00:55:51,240 --> 00:55:56,240
+It's like you're going the bad way and I've kind of always kind of tried to figure out
+
+1013
+00:55:56,240 --> 00:56:00,000
+what the good because they didn't build it but what is the good track because where does
+
+1014
+00:56:00,000 --> 00:56:01,560
+the T-Rex go?
+
+1015
+00:56:01,560 --> 00:56:05,040
+Like we see where there would be like the raptor cages but what would the end of the
+
+1016
+00:56:05,040 --> 00:56:07,440
+ride be if it was a normal ride?
+
+1017
+00:56:07,440 --> 00:56:10,720
+You have to see the T-Rex but it wouldn't be in the context that we see him now where
+
+1018
+00:56:10,720 --> 00:56:14,400
+he's just exploding out of a like a vent or something.
+
+1019
+00:56:14,400 --> 00:56:17,460
+He would we would have to like just see him and that would be the end of the ride right?
+
+1020
+00:56:17,460 --> 00:56:21,640
+They would have taken you so you go all the way up to the top of this building and then
+
+1021
+00:56:21,640 --> 00:56:26,840
+it would have like hit a view of Universal Studios and there would have been one sound
+
+1022
+00:56:26,840 --> 00:56:33,120
+stage that they took the roof off of and the T-Rex would have been just wandering around
+
+1023
+00:56:33,120 --> 00:56:36,040
+in the sounds contained in the sound stage like a cage.
+
+1024
+00:56:36,040 --> 00:56:37,040
+Eating a goat leg.
+
+1025
+00:56:37,040 --> 00:56:41,120
+So in the you would have seen it from hundreds and hundreds of feet away from up but you
+
+1026
+00:56:41,120 --> 00:56:42,800
+would have just had a view of a Tyrannosaurus.
+
+1027
+00:56:42,800 --> 00:56:46,640
+So you're saying it's also a drop ride in the origin in the narrative of the ride it's
+
+1028
+00:56:46,640 --> 00:56:49,080
+also a drop ride or is it not?
+
+1029
+00:56:49,080 --> 00:56:54,880
+They would have lowered you down very very slowly or let you up at the top the drop would
+
+1030
+00:56:54,880 --> 00:56:59,800
+have had like Spielberg intended they would have let you off at the top then the drop
+
+1031
+00:56:59,800 --> 00:57:04,600
+was just where they deliver the boats back to be reloaded again.
+
+1032
+00:57:04,600 --> 00:57:10,920
+Okay yeah that was just like a boat delivery system after you'd seen the contained T-Rex
+
+1033
+00:57:10,920 --> 00:57:16,500
+but unfortunately the track things go awry you have to take the plunge which was never
+
+1034
+00:57:16,500 --> 00:57:19,120
+intended for a human to go on.
+
+1035
+00:57:19,120 --> 00:57:23,080
+I'm glad that Spielberg got off the ride and just walked down and let everybody else do
+
+1036
+00:57:23,080 --> 00:57:26,280
+the drop because I could also imagine a world where they make a bunch of employees like
+
+1037
+00:57:26,280 --> 00:57:32,920
+hold ropes and let the boat go down very slowly at the drop just like very slowly going down.
+
+1038
+00:57:32,920 --> 00:57:34,760
+So they can get a picture perfect moment.
+
+1039
+00:57:34,760 --> 00:57:38,440
+And then they pause it's all like shaking holding these ropes and Spielberg's like
+
+1040
+00:57:38,440 --> 00:57:40,000
+ah like faking it.
+
+1041
+00:57:40,000 --> 00:57:44,400
+I guess Spielberg like escaping through a side door off camera is kind of what happens
+
+1042
+00:57:44,400 --> 00:57:50,360
+with Beatty Wong's character how he escapes the first movie to live to Jurassic World
+
+1043
+00:57:50,360 --> 00:57:53,040
+where he's evil now.
+
+1044
+00:57:53,040 --> 00:57:54,040
+Yeah.
+
+1045
+00:57:54,040 --> 00:57:55,040
+Yeah he's bad.
+
+1046
+00:57:55,040 --> 00:57:56,040
+He's bad.
+
+1047
+00:57:56,040 --> 00:57:57,040
+Drink the Kool-Aid.
+
+1048
+00:57:57,040 --> 00:58:00,960
+As opposed to the first movie where he's just kind of there.
+
+1049
+00:58:00,960 --> 00:58:01,960
+He exists.
+
+1050
+00:58:01,960 --> 00:58:02,960
+He's a scientist.
+
+1051
+00:58:02,960 --> 00:58:03,960
+He's a scientist.
+
+1052
+00:58:03,960 --> 00:58:08,720
+When he walked out in Jurassic World I felt like there was like a hold for a gasp and
+
+1053
+00:58:08,720 --> 00:58:09,720
+I did not gasp.
+
+1054
+00:58:09,720 --> 00:58:11,240
+I didn't remember who he was.
+
+1055
+00:58:11,240 --> 00:58:12,880
+It took me a second.
+
+1056
+00:58:12,880 --> 00:58:18,480
+I associate him more now with Law and Order because he was a CSI guy.
+
+1057
+00:58:18,480 --> 00:58:20,160
+Every episode of Law and Order you gasp.
+
+1058
+00:58:20,160 --> 00:58:21,160
+I gasp.
+
+1059
+00:58:21,160 --> 00:58:22,160
+BD.
+
+1060
+00:58:22,160 --> 00:58:26,480
+I gasp every time they go chung chung.
+
+1061
+00:58:26,480 --> 00:58:29,520
+They should change the name to Law and Order BDU.
+
+1062
+00:58:29,520 --> 00:58:32,120
+BD's unit.
+
+1063
+00:58:32,120 --> 00:58:41,600
+A thing I like about the ride is that it is because like Jurassic Park all the rides experiences
+
+1064
+00:58:41,600 --> 00:58:45,920
+are all very museum or zoo like.
+
+1065
+00:58:45,920 --> 00:58:50,720
+There's not really an exciting element which is a thing I kind of like about Jurassic World
+
+1066
+00:58:50,720 --> 00:58:54,640
+because I feel like they're thinking a little bit more sure we have dinosaurs but we also
+
+1067
+00:58:54,640 --> 00:58:57,320
+are going to give you like a thrill a little bit of a thrill.
+
+1068
+00:58:57,320 --> 00:59:00,360
+It's a bit there's sort of a it's like Epcot.
+
+1069
+00:59:00,360 --> 00:59:05,040
+There's two thrill attractions but also a lot of museums right slow moving.
+
+1070
+00:59:05,040 --> 00:59:07,240
+Yeah hydroponic plant displays.
+
+1071
+00:59:07,240 --> 00:59:12,460
+Yeah I feel like there there has been a lot of speculation about like you know Universal's
+
+1072
+00:59:12,460 --> 00:59:16,640
+got all this land in Orlando where they're probably going to build a third park and like
+
+1073
+00:59:16,640 --> 00:59:19,200
+Jurassic World was such a huge hit.
+
+1074
+00:59:19,200 --> 00:59:25,720
+They will make very likely build a Jurassic World section and that hey that orb sequence
+
+1075
+00:59:25,720 --> 00:59:27,960
+like that's tailor made to be built.
+
+1076
+00:59:27,960 --> 00:59:30,680
+I think we might be traction in real life.
+
+1077
+00:59:30,680 --> 00:59:34,120
+We might be riding in orbs before we know it in Orlando.
+
+1078
+00:59:34,120 --> 00:59:37,960
+Actually that would be a great plus it up for the Animal Kingdom Safari Rides.
+
+1079
+00:59:37,960 --> 00:59:38,960
+You're in that big truck.
+
+1080
+00:59:38,960 --> 00:59:44,040
+If you could go around in an orb and look at rhinocerai that would be that's like because
+
+1081
+00:59:44,040 --> 00:59:48,200
+I was thinking of where would I where would I want this orb in a natural park setting
+
+1082
+00:59:48,200 --> 00:59:51,560
+and that's the only place I could think is the Safari Animal Kingdom.
+
+1083
+00:59:51,560 --> 00:59:54,400
+Right because you can get closer then to the animals.
+
+1084
+00:59:54,400 --> 00:59:55,400
+Yes.
+
+1085
+00:59:55,400 --> 00:59:57,840
+The future of theme parks is orbs.
+
+1086
+00:59:57,840 --> 01:00:00,440
+Calling it now.
+
+1087
+01:00:00,440 --> 01:00:05,080
+Just take the BB8 technology and make that something you can sit in and that's the end
+
+1088
+01:00:05,080 --> 01:00:06,880
+that's how you make orbs.
+
+1089
+01:00:06,880 --> 01:00:08,800
+Call the BB8 people you'll figure it out.
+
+1090
+01:00:08,800 --> 01:00:12,640
+I could also see orbs being like a like a like a fast pass option so if you don't want
+
+1091
+01:00:12,640 --> 01:00:16,880
+like because I hate being in crowds it's one thing that a really packed amusement park
+
+1092
+01:00:16,880 --> 01:00:21,520
+makes me very like nervous people and I can like I if I if I bump into a kid the kid will
+
+1093
+01:00:21,520 --> 01:00:23,440
+die like that you know.
+
+1094
+01:00:23,440 --> 01:00:26,960
+So it's like so I was worried but if I got to be in an orb and like you know everybody
+
+1095
+01:00:26,960 --> 01:00:30,760
+has to stand aside from the orbs and you have your own personal orb space you go to the
+
+1096
+01:00:30,760 --> 01:00:34,000
+front of the line you hop out of the orb you go to the ride so I would do like a like a
+
+1097
+01:00:34,000 --> 01:00:35,440
+fast pass orb option.
+
+1098
+01:00:35,440 --> 01:00:38,840
+You would love just being an orb most of your life it sounds like.
+
+1099
+01:00:38,840 --> 01:00:39,840
+I could live like that.
+
+1100
+01:00:39,840 --> 01:00:41,840
+Jason apparently agrees.
+
+1101
+01:00:41,840 --> 01:00:47,800
+Just step out outside sometimes into a bathing orb and then back into a.
+
+1102
+01:00:47,800 --> 01:00:51,760
+Give me those orbs baby.
+
+1103
+01:00:51,760 --> 01:00:53,880
+Beam in the womb.
+
+1104
+01:00:53,880 --> 01:00:58,440
+I did not find the answer to this question but Michael Crichton has Westworld he has
+
+1105
+01:00:58,440 --> 01:01:00,000
+Jurassic Park.
+
+1106
+01:01:00,000 --> 01:01:04,880
+What is is was Crichton a theme park guy like or like or did he just sort of think about
+
+1107
+01:01:04,880 --> 01:01:09,800
+how horrible these because it seems like he has a negative feeling about theme parks because
+
+1108
+01:01:09,800 --> 01:01:12,200
+both of his properties are them going horribly wrong.
+
+1109
+01:01:12,200 --> 01:01:14,640
+I don't think he was a pleasant man.
+
+1110
+01:01:14,640 --> 01:01:19,760
+I feel like I feel like he's also like at the end of his life he got real into global
+
+1111
+01:01:19,760 --> 01:01:23,760
+warming and I forget whether it was a hoax or that he said it was a hoax.
+
+1112
+01:01:23,760 --> 01:01:25,680
+Yeah yeah he got really was very conservative.
+
+1113
+01:01:25,680 --> 01:01:26,680
+Like yeah yeah.
+
+1114
+01:01:26,680 --> 01:01:27,680
+Oh no.
+
+1115
+01:01:27,680 --> 01:01:31,720
+He weighed he with all his conspiracy theories about genetics.
+
+1116
+01:01:31,720 --> 01:01:34,480
+He doesn't think the real thing is happening.
+
+1117
+01:01:34,480 --> 01:01:36,160
+Yeah I guess he didn't toward the end of his life.
+
+1118
+01:01:36,160 --> 01:01:37,160
+Wow yeah.
+
+1119
+01:01:37,160 --> 01:01:41,040
+He was like an early like before Reddit came along and like if Reddit probably would have
+
+1120
+01:01:41,040 --> 01:01:45,080
+like sapped all his creative energy out like writing conspiracy theories for Reddit but
+
+1121
+01:01:45,080 --> 01:01:48,240
+instead he just like wrote these novels of his conspiracy theories then he just kind
+
+1122
+01:01:48,240 --> 01:01:49,240
+of went off the rails.
+
+1123
+01:01:49,240 --> 01:01:54,320
+He's on that Scott Adams smoking whatever Scott Adams is smoking.
+
+1124
+01:01:54,320 --> 01:01:58,680
+He's like lucky he died before this like time where we just like entertain all thoughts
+
+1125
+01:01:58,680 --> 01:02:00,760
+and all thoughts get an equal seat at the table.
+
+1126
+01:02:00,760 --> 01:02:03,320
+Now he wouldn't have made blockbuster novels.
+
+1127
+01:02:03,320 --> 01:02:05,600
+He would have just gotten a lot of Reddit gold.
+
+1128
+01:02:05,600 --> 01:02:10,640
+Yeah well he picked the right time to be.
+
+1129
+01:02:10,640 --> 01:02:11,640
+Yeah.
+
+1130
+01:02:11,640 --> 01:02:17,640
+The also he sort of predicted like immersive with Westworld predicted immersive theme park
+
+1131
+01:02:17,640 --> 01:02:23,600
+experiences like we're about to get with Star Wars Galaxy's Edge where you're like a character.
+
+1132
+01:02:23,600 --> 01:02:28,240
+You the guest are playing a consistent character and the other people in the park know who
+
+1133
+01:02:28,240 --> 01:02:31,600
+you are which apparently is how this thing is going to be.
+
+1134
+01:02:31,600 --> 01:02:34,440
+But Crichton was that's one thing he got right.
+
+1135
+01:02:34,440 --> 01:02:40,240
+He predicted Star Wars Galaxy's Edge but not global warming.
+
+1136
+01:02:40,240 --> 01:02:42,040
+We'll see which one gets here first.
+
+1137
+01:02:42,040 --> 01:02:43,040
+Yeah.
+
+1138
+01:02:43,040 --> 01:02:47,320
+A race neck and neck.
+
+1139
+01:02:47,320 --> 01:02:54,340
+The day that the floodwaters pour over the barely the opening in a week Star Wars Galaxy's
+
+1140
+01:02:54,340 --> 01:02:56,480
+Edge and we don't get to go on it.
+
+1141
+01:02:56,480 --> 01:02:58,360
+Oh no.
+
+1142
+01:02:58,360 --> 01:03:00,320
+Well get that get that thing open Disney.
+
+1143
+01:03:00,320 --> 01:03:05,800
+Crichton in heaven is just giving a 20 to Walt Disney just like no you're right.
+
+1144
+01:03:05,800 --> 01:03:12,280
+Hey you know what else the theme park nerds I bet I bet you've been storing up anger about
+
+1145
+01:03:12,280 --> 01:03:13,280
+this thing.
+
+1146
+01:03:13,280 --> 01:03:15,280
+You've probably talked to therapists about it or something.
+
+1147
+01:03:15,280 --> 01:03:18,860
+You remember I'm sure you had this feeling when you were a kid when you watched Jurassic
+
+1148
+01:03:18,860 --> 01:03:27,720
+Park and John Hammond very explicitly says when Disneyland opened in 1956 which all we
+
+1149
+01:03:27,720 --> 01:03:32,540
+all the most basic theme park facts that Disneyland opened in 1955.
+
+1150
+01:03:32,540 --> 01:03:35,780
+How bizarre is that that they leave that in the movie.
+
+1151
+01:03:35,780 --> 01:03:42,180
+He says yes so explicitly almost as if to mock me young theme park nerd Scott Gardner.
+
+1152
+01:03:42,180 --> 01:03:46,280
+I also have a very distinct memory of having a bunch of action figures for this movie well
+
+1153
+01:03:46,280 --> 01:03:51,160
+before I saw the movie and they all came with different kinds of guns.
+
+1154
+01:03:51,160 --> 01:03:53,580
+And then when I watched the movie I was like where are the guns.
+
+1155
+01:03:53,580 --> 01:03:57,200
+And the reality is you if you sell someone an action a child an action figure you got
+
+1156
+01:03:57,200 --> 01:03:59,460
+to give it a bunch of stuff to hold.
+
+1157
+01:03:59,460 --> 01:04:04,040
+But in all fairness yeah by the end of this movie every character should have a giant
+
+1158
+01:04:04,040 --> 01:04:05,120
+fucking gun.
+
+1159
+01:04:05,120 --> 01:04:09,360
+Like there's a reason there's multiple arcade games where you are.
+
+1160
+01:04:09,360 --> 01:04:12,720
+You're set in Jurassic World and you have a giant gun because like yeah they should
+
+1161
+01:04:12,720 --> 01:04:16,120
+have been blowing those dinosaurs away by the end.
+
+1162
+01:04:16,120 --> 01:04:17,740
+It didn't happen.
+
+1163
+01:04:17,740 --> 01:04:21,840
+One guy gets a gun and he gets eaten before it and then at the end I think like Laura
+
+1164
+01:04:21,840 --> 01:04:26,260
+Dern is like holding one in a weird way or like as they're running to a helicopter someone
+
+1165
+01:04:26,260 --> 01:04:31,680
+else has it and like throws it away at the end or like it's never acknowledged.
+
+1166
+01:04:31,680 --> 01:04:33,880
+Like why aren't there guns everywhere.
+
+1167
+01:04:33,880 --> 01:04:39,760
+The PG-13 nature of the movie the reason there's not a ton of dinosaur murders happening.
+
+1168
+01:04:39,760 --> 01:04:44,920
+Yeah but that was the early 90s like Sam Jackson is smoking at every other shot on the TV.
+
+1169
+01:04:44,920 --> 01:04:45,920
+Oh yeah true.
+
+1170
+01:04:45,920 --> 01:04:46,920
+Again different time.
+
+1171
+01:04:46,920 --> 01:04:49,880
+I like that if we were to interview both of you guys after the movie and you were young
+
+1172
+01:04:49,880 --> 01:04:56,880
+kids that your grievance Scott would be they got the Disneyland year off by one and Jason's
+
+1173
+01:04:56,880 --> 01:04:59,200
+like where were all the guns.
+
+1174
+01:04:59,200 --> 01:05:03,840
+But if I'd had a little eight year old girlfriend I would have been like I wanted more guns.
+
+1175
+01:05:03,840 --> 01:05:06,440
+I'm as tough as Jason.
+
+1176
+01:05:06,440 --> 01:05:13,280
+Eventually I got older and like oh guns are not purely the world of exclusive to the world
+
+1177
+01:05:13,280 --> 01:05:14,560
+of Hollywood entertainment.
+
+1178
+01:05:14,560 --> 01:05:17,680
+They are a nightmare plague that haunts America.
+
+1179
+01:05:17,680 --> 01:05:18,680
+Sure.
+
+1180
+01:05:18,680 --> 01:05:22,720
+Had Spielberg then learned his gun lesson because he famously for a special edition
+
+1181
+01:05:22,720 --> 01:05:26,840
+of ET took the guns out and replaced them with walkie talkie so maybe at this point
+
+1182
+01:05:26,840 --> 01:05:27,840
+he had learned.
+
+1183
+01:05:27,840 --> 01:05:33,600
+Well Tom Cruise there's a very important shot in Were the Worlds where Tom Cruise
+
+1184
+01:05:33,600 --> 01:05:37,520
+loads up a revolver when they're evacuated.
+
+1185
+01:05:37,520 --> 01:05:40,720
+So that was and then he pulls it on civilians.
+
+1186
+01:05:40,720 --> 01:05:44,400
+I think although I think after like a freaked out cop pulls I don't know.
+
+1187
+01:05:44,400 --> 01:05:46,400
+It's a weird thing that were the world's movies.
+
+1188
+01:05:46,400 --> 01:05:47,400
+Fucking weird.
+
+1189
+01:05:47,400 --> 01:05:51,960
+I'm just imagining the velociraptor scene with the guy like slowly pulling out his walkie
+
+1190
+01:05:51,960 --> 01:05:55,740
+talkie to talk to him instead of like the gun and then the Raptor pops out of the clever
+
+1191
+01:05:55,740 --> 01:05:56,740
+girl scene.
+
+1192
+01:05:56,740 --> 01:05:57,740
+Right.
+
+1193
+01:05:57,740 --> 01:05:58,740
+Yeah.
+
+1194
+01:05:58,740 --> 01:05:59,740
+Replace it on the Blu-ray with a walkie talkie.
+
+1195
+01:05:59,740 --> 01:06:05,280
+I'm going to go in there find the Raptor tell someone on my walkie talkie.
+
+1196
+01:06:05,280 --> 01:06:06,280
+Clever girl.
+
+1197
+01:06:06,280 --> 01:06:08,080
+It says it into the walkie talkie.
+
+1198
+01:06:08,080 --> 01:06:09,080
+Yeah.
+
+1199
+01:06:09,080 --> 01:06:10,080
+And then that's it.
+
+1200
+01:06:10,080 --> 01:06:14,320
+I would like to also praise this robot this dinosaur robot this T-Rex robot.
+
+1201
+01:06:14,320 --> 01:06:15,320
+It's awesome.
+
+1202
+01:06:15,320 --> 01:06:17,080
+It is still awesome.
+
+1203
+01:06:17,080 --> 01:06:21,760
+It's 20 years old but whenever I went on this last probably a year ago or something it's
+
+1204
+01:06:21,760 --> 01:06:27,040
+crazy like it's top we're talking about top animatronics like this this thing scares the
+
+1205
+01:06:27,040 --> 01:06:31,800
+shit if I'm in the front row I am scared like I'm almost as scared as that ball at Indiana
+
+1206
+01:06:31,800 --> 01:06:35,600
+Jones like it's just as invasive as that.
+
+1207
+01:06:35,600 --> 01:06:37,200
+Yeah absolutely.
+
+1208
+01:06:37,200 --> 01:06:42,440
+Ten thousand pounds is the fact I heard in a making of special.
+
+1209
+01:06:42,440 --> 01:06:44,400
+You also put on the making of specials.
+
+1210
+01:06:44,400 --> 01:06:48,240
+There's a couple good ones you can find on YouTube and you get to the fun of watching
+
+1211
+01:06:48,240 --> 01:06:53,000
+the T-Rex get airlifted into the building like dangling off of a helicopter and then
+
+1212
+01:06:53,000 --> 01:06:54,000
+installing it.
+
+1213
+01:06:54,000 --> 01:06:55,000
+Fully scanned.
+
+1214
+01:06:55,000 --> 01:06:56,000
+Yeah.
+
+1215
+01:06:56,000 --> 01:06:57,000
+Yeah.
+
+1216
+01:06:57,000 --> 01:07:02,520
+And then it's just like open air just drops down into the building because I imagine that
+
+1217
+01:07:02,520 --> 01:07:06,720
+thing's probably like it's up in the rafters so they had to lay it's like part of the structure
+
+1218
+01:07:06,720 --> 01:07:09,960
+like that robot that doesn't work in Expedition Everest.
+
+1219
+01:07:09,960 --> 01:07:10,960
+The Yeti yeah.
+
+1220
+01:07:10,960 --> 01:07:11,960
+Mm hmm.
+
+1221
+01:07:11,960 --> 01:07:12,960
+Mm hmm.
+
+1222
+01:07:12,960 --> 01:07:16,520
+Yeah the T-Rex well it's also just that and the Indiana Jones ride.
+
+1223
+01:07:16,520 --> 01:07:21,800
+I love this idea of like compounding the biggest fear with the biggest fear is really great
+
+1224
+01:07:21,800 --> 01:07:27,080
+because even if you weren't scared of the rock or the T-Rex the drop would be scary
+
+1225
+01:07:27,080 --> 01:07:30,360
+and you're not scared to drop but you're scared of the T-Rex like it's like it covers all
+
+1226
+01:07:30,360 --> 01:07:31,440
+your fear bases.
+
+1227
+01:07:31,440 --> 01:07:34,120
+It's so I love the finish this ride.
+
+1228
+01:07:34,120 --> 01:07:39,300
+Yeah it is sort of stealing that climax Indiana Jones in a little way and it's a combination
+
+1229
+01:07:39,300 --> 01:07:41,280
+of Splash Mountain and Indiana Jones.
+
+1230
+01:07:41,280 --> 01:07:46,080
+It's a very very impressive scary thing coming at you coupled with that drop moment.
+
+1231
+01:07:46,080 --> 01:07:52,200
+And then the drop makes you feel like physically the fear you feel from like makes you feel
+
+1232
+01:07:52,200 --> 01:07:53,200
+like you're dying.
+
+1233
+01:07:53,200 --> 01:07:57,520
+Isn't that what it's meant to represent?
+
+1234
+01:07:57,520 --> 01:08:03,360
+Some guests in 1996 had a particularly scary drop experience when right at that moment
+
+1235
+01:08:03,360 --> 01:08:09,600
+before the drop and when the T-Rex comes down they were doused in hydraulic fluid like that
+
+1236
+01:08:09,600 --> 01:08:13,640
+happened really soon after the opening of the ride.
+
+1237
+01:08:13,640 --> 01:08:17,160
+And yeah I don't think anybody like I'm not sure if anyone was permanently hurt but a
+
+1238
+01:08:17,160 --> 01:08:20,760
+lot of people went to the hospital and it was a big mess for like within the first couple
+
+1239
+01:08:20,760 --> 01:08:23,400
+months of the of the ride being open.
+
+1240
+01:08:23,400 --> 01:08:29,320
+I remember hearing the wrong version of that story though where the the spitter the dilapidator
+
+1241
+01:08:29,320 --> 01:08:34,520
+is like a spit hydraulic fluid at the guests and they which is not what happened.
+
+1242
+01:08:34,520 --> 01:08:40,500
+That would have been pretty crazy if what happened to Nedry happened in real life.
+
+1243
+01:08:40,500 --> 01:08:44,320
+But still imagine doing that drop and you're like you're blind and you might think that
+
+1244
+01:08:44,320 --> 01:08:45,320
+was like part of it.
+
+1245
+01:08:45,320 --> 01:08:48,040
+Like like is this how it's supposed to be?
+
+1246
+01:08:48,040 --> 01:08:51,040
+I'm covered in tar.
+
+1247
+01:08:51,040 --> 01:08:53,160
+Yeah yeah well they worked out those kinks.
+
+1248
+01:08:53,160 --> 01:08:54,160
+That doesn't happen anymore.
+
+1249
+01:08:54,160 --> 01:08:57,520
+And all those people will just blame their ex-girlfriends for years for making them go
+
+1250
+01:08:57,520 --> 01:09:00,520
+on that ride and they're blind and they think about that every time.
+
+1251
+01:09:00,520 --> 01:09:03,600
+I'm tough I can drink hydraulic fluid.
+
+1252
+01:09:03,600 --> 01:09:11,080
+Here on the on the lighter end of odd rumors the this you there's a thing you can watch
+
+1253
+01:09:11,080 --> 01:09:19,800
+on YouTube the the there was a live E special from 1996 of the opening of this ride.
+
+1254
+01:09:19,800 --> 01:09:21,400
+Did you guys run across this thing?
+
+1255
+01:09:21,400 --> 01:09:23,520
+Oh yeah I saw a little bit of it.
+
+1256
+01:09:23,520 --> 01:09:25,800
+E entertainment news covered this thing.
+
+1257
+01:09:25,800 --> 01:09:32,560
+The opening of the ride live you get to watch Spielberg and Jeff Goldblum light the torch
+
+1258
+01:09:32,560 --> 01:09:38,480
+to like start the fire on the Jurassic Park gate and all the biggest stars come out for
+
+1259
+01:09:38,480 --> 01:09:39,480
+the opening.
+
+1260
+01:09:39,480 --> 01:09:48,160
+Why David Hasselhoff and Noah Wiley and Marg Helgenberger Sam Elliott is there wearing a
+
+1261
+01:09:48,160 --> 01:09:52,880
+big black and white shirt with the picture of the Beatles on it.
+
+1262
+01:09:52,880 --> 01:09:55,480
+And it's tucked into his jeans.
+
+1263
+01:09:55,480 --> 01:09:56,480
+Amazing.
+
+1264
+01:09:56,480 --> 01:09:59,960
+Oh you gotta have the screen print tuck.
+
+1265
+01:09:59,960 --> 01:10:02,320
+Sam Elliott pioneered it in 1996.
+
+1266
+01:10:02,320 --> 01:10:08,840
+But it's a really fun special to watch and covered in like that bad like that sort of
+
+1267
+01:10:08,840 --> 01:10:14,400
+that bad pseudo techno that he would use a lot of the time that very just like didn't
+
+1268
+01:10:14,400 --> 01:10:20,040
+didn't do it very like RuPaul cover girl music.
+
+1269
+01:10:20,040 --> 01:10:25,440
+The aesthetics were incredible in the 90s but the special is hosted by downtown Julie
+
+1270
+01:10:25,440 --> 01:10:29,960
+Brown and a guy who I didn't recognize named Jerry Penacoli.
+
+1271
+01:10:29,960 --> 01:10:36,240
+And he's just kind of this like you just sort of this this kind of meathead guy in a bowling
+
+1272
+01:10:36,240 --> 01:10:38,600
+shirt and he's like fun and affable.
+
+1273
+01:10:38,600 --> 01:10:43,100
+And I was like there's something odd about this fella and I googled him and unfortunately
+
+1274
+01:10:43,100 --> 01:10:47,120
+one of the first things you find when you Google this guy is that he was one of the
+
+1275
+01:10:47,120 --> 01:10:54,080
+first prominent people to be referenced in relation to juggling.
+
+1276
+01:10:54,080 --> 01:11:04,000
+What? before Richard Gere was saddled with this odd rumor this man who went on to it
+
+1277
+01:11:04,000 --> 01:11:09,160
+didn't destroy his career he went on to host the Jurassic Park the Ride opening special.
+
+1278
+01:11:09,160 --> 01:11:14,000
+I guess we should for those listeners who don't know what juggling is we may as well
+
+1279
+01:11:14,000 --> 01:11:16,120
+explain Matt would you like to.
+
+1280
+01:11:16,120 --> 01:11:18,320
+We're all in our guests do it.
+
+1281
+01:11:18,320 --> 01:11:19,320
+Let's be polite.
+
+1282
+01:11:19,320 --> 01:11:20,320
+Yeah.
+
+1283
+01:11:20,320 --> 01:11:22,000
+We're all men of a certain age who have grew up with this rumor.
+
+1284
+01:11:22,000 --> 01:11:23,000
+Of course.
+
+1285
+01:11:23,000 --> 01:11:27,840
+It sounds like a callback to when we talked about Byron Allen's the ride for us.
+
+1286
+01:11:27,840 --> 01:11:29,880
+So now you got us.
+
+1287
+01:11:29,880 --> 01:11:31,880
+You were going to tell us what juggling was.
+
+1288
+01:11:31,880 --> 01:11:33,840
+You know I got a dribble home.
+
+1289
+01:11:33,840 --> 01:11:35,320
+I always buy him these different toys right.
+
+1290
+01:11:35,320 --> 01:11:38,160
+You know I got toys I'm going to buy them you know they love the they love the wheels
+
+1291
+01:11:38,160 --> 01:11:42,400
+they love the little little grass and you know what they love the most they love tubes
+
+1292
+01:11:42,400 --> 01:11:48,760
+and that had me thinking you know I ran out of tube to go to but I'm not going to finish.
+
+1293
+01:11:48,760 --> 01:11:53,200
+You transported us to the Byron Allen show I could see a fish tank behind you.
+
+1294
+01:11:53,200 --> 01:11:55,560
+That was good.
+
+1295
+01:11:55,560 --> 01:12:02,160
+Anyway so Jerry Penacoli I don't know if that's an untrue rumor I hope it didn't I hope he
+
+1296
+01:12:02,160 --> 01:12:09,740
+wasn't terribly thrown astray from his journalism goals by whatever bizarre thing right.
+
+1297
+01:12:09,740 --> 01:12:12,360
+Well for the dribble sake I hope those rumors are unfounded.
+
+1298
+01:12:12,360 --> 01:12:14,360
+That's a tough life.
+
+1299
+01:12:14,360 --> 01:12:17,360
+Yeah that dribble is with us today.
+
+1300
+01:12:17,360 --> 01:12:21,600
+We will eventually do a thing one on a whole episode on these opening ceremonies because
+
+1301
+01:12:21,600 --> 01:12:27,760
+they are just the clunkiest weirdest things full of celebrities and stiff jokes that don't
+
+1302
+01:12:27,760 --> 01:12:33,720
+land confusing realities pyro that doesn't really pop in the light of the day.
+
+1303
+01:12:33,720 --> 01:12:39,280
+The Guardian's one where it's like Vinicius del Toro clearly hit had some shots of that
+
+1304
+01:12:39,280 --> 01:12:44,600
+tequila he flucks before taking the stage.
+
+1305
+01:12:44,600 --> 01:12:45,960
+What else in Jurassic Park world.
+
+1306
+01:12:45,960 --> 01:12:51,280
+We haven't talked about Florida where which is this expanded Jurassic Park land but those
+
+1307
+01:12:51,280 --> 01:12:54,880
+other rides are sort of not anything to write home about.
+
+1308
+01:12:54,880 --> 01:12:58,160
+There's yeah there's that one where it's I've never been on it because I'm kind of scared
+
+1309
+01:12:58,160 --> 01:13:00,960
+of my legs dangling on a ride I think I mentioned this before.
+
+1310
+01:13:00,960 --> 01:13:04,360
+It's that like pterodactyl what do you call it coaster even but it's very slow.
+
+1311
+01:13:04,360 --> 01:13:06,680
+I think it's the pterodon flyers.
+
+1312
+01:13:06,680 --> 01:13:09,360
+Okay that works pterodon flyers.
+
+1313
+01:13:09,360 --> 01:13:10,360
+I always wanted to go on that.
+
+1314
+01:13:10,360 --> 01:13:12,200
+That sounds like a local hockey team.
+
+1315
+01:13:12,200 --> 01:13:14,160
+Yeah that's a good point.
+
+1316
+01:13:14,160 --> 01:13:19,280
+I always want to go on that when I was younger but it doesn't have a big capacity.
+
+1317
+01:13:19,280 --> 01:13:24,240
+When the park first opened it had like an hour two hour wait to do this kiddie like
+
+1318
+01:13:24,240 --> 01:13:29,400
+dangling ride and then as the years went on and got less popular they were just like you
+
+1319
+01:13:29,400 --> 01:13:32,680
+can only this is one of the few rides where they go like you can only ride this if you're
+
+1320
+01:13:32,680 --> 01:13:36,120
+a kid because I think it's got some height restrictions.
+
+1321
+01:13:36,120 --> 01:13:39,160
+Oh I think you can't be too tall for it.
+
+1322
+01:13:39,160 --> 01:13:43,080
+See I'm done with dangle rides after I had a Tatsu incident at Six Flags.
+
+1323
+01:13:43,080 --> 01:13:44,080
+Really?
+
+1324
+01:13:44,080 --> 01:13:45,080
+Yeah.
+
+1325
+01:13:45,080 --> 01:13:46,960
+Well do you guys know of Tatsu?
+
+1326
+01:13:46,960 --> 01:13:47,960
+I've ridden Tatsu.
+
+1327
+01:13:47,960 --> 01:13:52,200
+It's a fun coaster but it's basically you get strapped in and then the whole gimmick goes
+
+1328
+01:13:52,200 --> 01:13:56,360
+up so you're flying like Superman your belly's towards the ground and then you just like and
+
+1329
+01:13:56,360 --> 01:14:00,880
+then you fly around and it's really fun but and we always loved it and then one time I
+
+1330
+01:14:00,880 --> 01:14:05,240
+went up and I go and everybody's like all right snap in so I snap it down and it just
+
+1331
+01:14:05,240 --> 01:14:10,080
+like bangs off the clip doesn't clip it just bounces bounces and they're like all right
+
+1332
+01:14:10,080 --> 01:14:11,080
+here we go.
+
+1333
+01:14:11,080 --> 01:14:16,200
+And I go hey hey I stopped everybody and he goes like oh okay he walks over he hits the
+
+1334
+01:14:16,200 --> 01:14:19,840
+top twice and then it snaps in and he goes all right let's go and I was like that didn't
+
+1335
+01:14:19,840 --> 01:14:25,040
+like make me feel good and this is like the number one ride if you imagine like if it
+
+1336
+01:14:25,040 --> 01:14:26,880
+broke apart you would like there's one like.
+
+1337
+01:14:26,880 --> 01:14:28,480
+Face down you're going face down.
+
+1338
+01:14:28,480 --> 01:14:31,720
+You're going face down and there's like there's like a loop where you get like where you're
+
+1339
+01:14:31,720 --> 01:14:37,680
+like get slung to the outside so you could literally fly 400 feet from the thing.
+
+1340
+01:14:37,680 --> 01:14:42,560
+Just fall into a Santa Clarita housing development straight through a chimney right into a forest
+
+1341
+01:14:42,560 --> 01:14:45,560
+fire.
+
+1342
+01:14:45,560 --> 01:14:50,160
+And yes so I can't do tattoo anymore now because like I was like clinging like death grip on
+
+1343
+01:14:50,160 --> 01:14:52,360
+the thing like imagining it was going to open.
+
+1344
+01:14:52,360 --> 01:14:55,680
+Did you feel like it could have if you hadn't been doing that I mean I would be doing the
+
+1345
+01:14:55,680 --> 01:14:59,640
+same thing I mean he gave the the here we go without me even on the thing.
+
+1346
+01:14:59,640 --> 01:15:03,440
+But the worst that would have happened I would have like the because we've done that I would
+
+1347
+01:15:03,440 --> 01:15:07,000
+just fell on my face in the station which would have been that would have been pretty
+
+1348
+01:15:07,000 --> 01:15:12,560
+funny for your legs are locked in to you could have gotten dragged by the legs.
+
+1349
+01:15:12,560 --> 01:15:16,520
+I feel like that is why because of like shoulder harness failure like that a lot of them have
+
+1350
+01:15:16,520 --> 01:15:21,400
+a simple like seat belt sort of thing where like if the if the latch goes up at least
+
+1351
+01:15:21,400 --> 01:15:23,200
+the seat belt like catches it.
+
+1352
+01:15:23,200 --> 01:15:24,200
+Yeah there was like no catch.
+
+1353
+01:15:24,200 --> 01:15:25,200
+Oh yeah.
+
+1354
+01:15:25,200 --> 01:15:26,880
+Yeah but it is a fun ride.
+
+1355
+01:15:26,880 --> 01:15:29,080
+It's a very unique it's a very unique experience.
+
+1356
+01:15:29,080 --> 01:15:34,960
+I've never been on another coaster like or ride like that where you do you are feeling
+
+1357
+01:15:34,960 --> 01:15:35,960
+that sensation.
+
+1358
+01:15:35,960 --> 01:15:40,160
+Yeah the one the one moment in that where you go what would be like an upside down loop
+
+1359
+01:15:40,160 --> 01:15:44,320
+to loop but you're but you're facing forward so like when you get to the bottom of it you're
+
+1360
+01:15:44,320 --> 01:15:47,960
+like flying on your like your the G force are going down on your back.
+
+1361
+01:15:47,960 --> 01:15:51,280
+It's really it's a fun coaster but I can't do it anymore.
+
+1362
+01:15:51,280 --> 01:15:52,760
+I'll still do X2.
+
+1363
+01:15:52,760 --> 01:15:53,760
+Right.
+
+1364
+01:15:53,760 --> 01:15:57,680
+I'm really glad you didn't get flung out of the ride and you're here to here to tell the
+
+1365
+01:15:57,680 --> 01:15:58,680
+tale.
+
+1366
+01:15:58,680 --> 01:16:04,600
+Yeah I used to work with a guy who worked at like when he was a teenager worked at Magic
+
+1367
+01:16:04,600 --> 01:16:11,400
+Mountain and like very very casually told us a story to me that was insane which was
+
+1368
+01:16:11,400 --> 01:16:17,040
+like you know it's like oh yeah we were like 15 16 and some of us used to operate Colossus
+
+1369
+01:16:17,040 --> 01:16:19,680
+which is like a giant wooden coaster.
+
+1370
+01:16:19,680 --> 01:16:26,520
+I believe now it's a giant wooden steel combo coaster and he's like yeah we'd show off for
+
+1371
+01:16:26,520 --> 01:16:30,700
+the girls like yeah we'd see what we could get away with so we'd ride Colossus without
+
+1372
+01:16:30,700 --> 01:16:36,080
+the lap bars down and see who could hold on and I'd be like that's fucking crazy.
+
+1373
+01:16:36,080 --> 01:16:39,080
+Like it's like you you are out of your mind.
+
+1374
+01:16:39,080 --> 01:16:44,080
+That's one of those moments where he's like yeah we used to do this like that feels like
+
+1375
+01:16:44,080 --> 01:16:48,320
+you know in old movies where they're like and now we're we're gonna go up and race it's
+
+1376
+01:16:48,320 --> 01:16:51,080
+suicide curve.
+
+1377
+01:16:51,080 --> 01:16:54,920
+That's our theme park version of suicide Cove is now putting your belt on.
+
+1378
+01:16:54,920 --> 01:16:58,680
+There's videos of like Tower of Terror with people not with the belt on.
+
+1379
+01:16:58,680 --> 01:17:02,260
+And they're just kind of like like they're going off the seat like there's a little error.
+
+1380
+01:17:02,260 --> 01:17:04,200
+They're hitting air on the not hitting the ceiling.
+
+1381
+01:17:04,200 --> 01:17:05,200
+It's no no it's not.
+
+1382
+01:17:05,200 --> 01:17:07,520
+It wouldn't be that bad if they if you have your.
+
+1383
+01:17:07,520 --> 01:17:11,480
+Well that's the original commercials for Tower of Terror are people standing in an elevator
+
+1384
+01:17:11,480 --> 01:17:13,760
+and they're standing and it drops.
+
+1385
+01:17:13,760 --> 01:17:17,520
+And I was like God I guess you could die if you go on this ride.
+
+1386
+01:17:17,520 --> 01:17:21,440
+Like we talked about this before like we were so committed.
+
+1387
+01:17:21,440 --> 01:17:22,880
+We love these so much as kids.
+
+1388
+01:17:22,880 --> 01:17:27,960
+We bought the realities where it's like okay there is a chance we could die but it's really
+
+1389
+01:17:27,960 --> 01:17:29,440
+fun.
+
+1390
+01:17:29,440 --> 01:17:30,440
+I wasn't scared.
+
+1391
+01:17:30,440 --> 01:17:31,440
+I'd do any of this.
+
+1392
+01:17:31,440 --> 01:17:32,440
+I'd do any of them.
+
+1393
+01:17:32,440 --> 01:17:33,440
+Easy Scott.
+
+1394
+01:17:33,440 --> 01:17:34,720
+Easy cool guy Scott.
+
+1395
+01:17:34,720 --> 01:17:35,960
+I never buckle up.
+
+1396
+01:17:35,960 --> 01:17:36,960
+One of the.
+
+1397
+01:17:36,960 --> 01:17:40,520
+Save it for your platoon of ex-girlfriends.
+
+1398
+01:17:40,520 --> 01:17:43,760
+One of the other things they've been doing around the ride at Universal Hollywood at
+
+1399
+01:17:43,760 --> 01:17:47,240
+least probably in Florida too is that they have this crazy Raptor.
+
+1400
+01:17:47,240 --> 01:17:48,240
+Now have you seen this?
+
+1401
+01:17:48,240 --> 01:17:49,240
+They have like a little Raptor.
+
+1402
+01:17:49,240 --> 01:17:50,280
+I haven't actually.
+
+1403
+01:17:50,280 --> 01:17:53,940
+And it's kind of I think there's a there's a person in the suit but it's crazy looking.
+
+1404
+01:17:53,940 --> 01:17:58,600
+Like it really if you like squinted you'd be like there's a fucking Raptor and like
+
+1405
+01:17:58,600 --> 01:18:03,040
+everyone takes photos with them and they have a handler much like Chris Pratt.
+
+1406
+01:18:03,040 --> 01:18:05,720
+I'm trying to think of his character's name though.
+
+1407
+01:18:05,720 --> 01:18:07,120
+Chris Pratt in Jurassic World.
+
+1408
+01:18:07,120 --> 01:18:08,120
+Someone help me out here.
+
+1409
+01:18:08,120 --> 01:18:09,120
+He's always named.
+
+1410
+01:18:09,120 --> 01:18:10,120
+He's one of those like.
+
+1411
+01:18:10,120 --> 01:18:11,120
+Sergeant Jack Arms.
+
+1412
+01:18:11,120 --> 01:18:12,120
+It's Owen.
+
+1413
+01:18:12,120 --> 01:18:13,120
+His name is Owen.
+
+1414
+01:18:13,120 --> 01:18:14,120
+I know his first name but I don't know his name.
+
+1415
+01:18:14,120 --> 01:18:15,120
+Owen Declan or something.
+
+1416
+01:18:15,120 --> 01:18:16,120
+Owen.
+
+1417
+01:18:16,120 --> 01:18:17,120
+Owen Sully.
+
+1418
+01:18:17,120 --> 01:18:21,240
+Jack Coolman.
+
+1419
+01:18:21,240 --> 01:18:26,000
+But there's a trainer who does the like the hand and whatever and like trains a Raptor.
+
+1420
+01:18:26,000 --> 01:18:27,000
+But it's very good.
+
+1421
+01:18:27,000 --> 01:18:28,000
+It's very effective.
+
+1422
+01:18:28,000 --> 01:18:29,880
+If I was a little kid it would have scared the shit out of me.
+
+1423
+01:18:29,880 --> 01:18:32,840
+We're in the golden age of dinosaur puppets right now.
+
+1424
+01:18:32,840 --> 01:18:38,280
+It's amazing what they do and like that I would love some version of that in the Hollywood
+
+1425
+01:18:38,280 --> 01:18:41,000
+whatever the park or part of the ride or I don't know.
+
+1426
+01:18:41,000 --> 01:18:42,520
+The Raptor is in Hollywood.
+
+1427
+01:18:42,520 --> 01:18:43,520
+This one is in Hollywood.
+
+1428
+01:18:43,520 --> 01:18:44,520
+They have it in Hollywood now.
+
+1429
+01:18:44,520 --> 01:18:45,520
+Yeah.
+
+1430
+01:18:45,520 --> 01:18:46,520
+Yeah.
+
+1431
+01:18:46,520 --> 01:18:47,520
+Yeah.
+
+1432
+01:18:47,520 --> 01:18:48,520
+Oh I haven't been in a little bit.
+
+1433
+01:18:48,520 --> 01:18:49,520
+So yeah.
+
+1434
+01:18:49,520 --> 01:18:51,320
+There's a prime and Megatron.
+
+1435
+01:18:51,320 --> 01:18:53,640
+There's a Raptor over on the lower lot.
+
+1436
+01:18:53,640 --> 01:18:54,640
+Those are great suits too.
+
+1437
+01:18:54,640 --> 01:18:56,000
+Those are very good suits.
+
+1438
+01:18:56,000 --> 01:18:58,120
+Universal killing the suit game.
+
+1439
+01:18:58,120 --> 01:19:00,080
+I want to see some minions walking around.
+
+1440
+01:19:00,080 --> 01:19:01,080
+Minions sized.
+
+1441
+01:19:01,080 --> 01:19:02,080
+Oh minions sized.
+
+1442
+01:19:02,080 --> 01:19:03,400
+No yeah I want them correct.
+
+1443
+01:19:03,400 --> 01:19:06,040
+I want them like actually two feet tall.
+
+1444
+01:19:06,040 --> 01:19:07,520
+You want them grown in a lab.
+
+1445
+01:19:07,520 --> 01:19:09,840
+You want freaks of nature wandering the park.
+
+1446
+01:19:09,840 --> 01:19:11,200
+Yeah I want them to be alive.
+
+1447
+01:19:11,200 --> 01:19:13,760
+I don't want them to be a puppet or a robot or a trick.
+
+1448
+01:19:13,760 --> 01:19:16,480
+I want little minions running around my legs.
+
+1449
+01:19:16,480 --> 01:19:20,800
+How about two like you get a bunch of dogs on their hind legs and you put the suits on
+
+1450
+01:19:20,800 --> 01:19:21,800
+them that way.
+
+1451
+01:19:21,800 --> 01:19:24,240
+That's their only choice to walk.
+
+1452
+01:19:24,240 --> 01:19:27,000
+They have to find their own equilibrium on their hind legs.
+
+1453
+01:19:27,000 --> 01:19:30,880
+I can't believe you would not be impressed if there was minion sized robots in the park.
+
+1454
+01:19:30,880 --> 01:19:32,480
+You just said you'd be scoffing robots.
+
+1455
+01:19:32,480 --> 01:19:37,720
+I'd be impressed but I but wouldn't it be better to know that they're alive and have
+
+1456
+01:19:37,720 --> 01:19:44,960
+to be fed bananas by the pound and that they could like they could get sick.
+
+1457
+01:19:44,960 --> 01:19:47,600
+They could experience emotions they can love.
+
+1458
+01:19:47,600 --> 01:19:51,240
+I want universal to breed minions.
+
+1459
+01:19:51,240 --> 01:19:54,680
+We're talking about Jurassic Park and genetics.
+
+1460
+01:19:54,680 --> 01:19:56,520
+Let's make it happen.
+
+1461
+01:19:56,520 --> 01:19:57,840
+Play God universal.
+
+1462
+01:19:57,840 --> 01:20:02,480
+It's time the theme park games getting competitive and the only way for you to win is for you
+
+1463
+01:20:02,480 --> 01:20:04,360
+to breed real minions.
+
+1464
+01:20:04,360 --> 01:20:09,360
+I mean we're all speechless after that.
+
+1465
+01:20:09,360 --> 01:20:11,080
+We don't have we all agree with it.
+
+1466
+01:20:11,080 --> 01:20:13,500
+We all had our hands on our hearts while Scott was making it.
+
+1467
+01:20:13,500 --> 01:20:20,840
+I stood up on the chair and with my by fist facing God as I made this I felt like Dr.
+
+1468
+01:20:20,840 --> 01:20:21,840
+Frankenstein.
+
+1469
+01:20:21,840 --> 01:20:29,920
+I'm a minion I say he inspired by John Hammond's example universal and just remember though
+
+1470
+01:20:29,920 --> 01:20:37,160
+that life will find a way and the millions will either kill us or start you know having
+
+1471
+01:20:37,160 --> 01:20:38,160
+more minions.
+
+1472
+01:20:38,160 --> 01:20:42,480
+We'll have to just like this movie quarantine Universal Studios Hollywood because it has
+
+1473
+01:20:42,480 --> 01:20:47,560
+been overrun by minions and hope that nobody goes inside and finds the kingdom of the minions
+
+1474
+01:20:47,560 --> 01:20:50,840
+of concession works go back and like where are all the goddamn bananas.
+
+1475
+01:20:50,840 --> 01:20:55,480
+I don't know then they get attacked by minions.
+
+1476
+01:20:55,480 --> 01:20:57,120
+There could be a crossover movie.
+
+1477
+01:20:57,120 --> 01:21:01,200
+Yeah a terrifying minion attack film in real life.
+
+1478
+01:21:01,200 --> 01:21:02,200
+Yeah.
+
+1479
+01:21:02,200 --> 01:21:03,200
+Yeah.
+
+1480
+01:21:03,200 --> 01:21:04,200
+Hmm.
+
+1481
+01:21:04,200 --> 01:21:05,200
+I'd watch that.
+
+1482
+01:21:05,200 --> 01:21:06,200
+This is a universe.
+
+1483
+01:21:06,200 --> 01:21:07,440
+This is a multiverse that I can get behind.
+
+1484
+01:21:07,440 --> 01:21:11,880
+They'd probably just tack it onto the dark universe at this point.
+
+1485
+01:21:11,880 --> 01:21:18,280
+They'll still do the dark universe but it's Phantom of the Opera the mummy and minions
+
+1486
+01:21:18,280 --> 01:21:19,280
+who are now scared.
+
+1487
+01:21:19,280 --> 01:21:24,440
+They aren't scary and despicable me but in these they're like they're crazy rabid creatures.
+
+1488
+01:21:24,440 --> 01:21:25,440
+Yes.
+
+1489
+01:21:25,440 --> 01:21:26,440
+Why not.
+
+1490
+01:21:26,440 --> 01:21:31,000
+If we wait 10 years we could live long enough to see Disney Universal which will eventually
+
+1491
+01:21:31,000 --> 01:21:37,840
+become a super conglomerate merge and then see porgs versus minions no matter who wins
+
+1492
+01:21:37,840 --> 01:21:42,000
+we lose aliens versus predator rules you know.
+
+1493
+01:21:42,000 --> 01:21:46,480
+Oh they they like fight each other and like bite at each other with rabid fangs and then
+
+1494
+01:21:46,480 --> 01:21:51,440
+maybe do they all like sort of get up on top of each other and form mega creatures like
+
+1495
+01:21:51,440 --> 01:21:54,120
+form Ultron of.
+
+1496
+01:21:54,120 --> 01:22:00,040
+Absolutely and there's some forgettable human characters called like Riley and Ace and they're
+
+1497
+01:22:00,040 --> 01:22:08,080
+like X S.A.S. whatever your whatever you're just tossed on X S.A.S. X.C.I.A. to just give
+
+1498
+01:22:08,080 --> 01:22:10,720
+a character a shotgun like whatever you have to do.
+
+1499
+01:22:10,720 --> 01:22:14,160
+I was going to say give him guns blasts important way away.
+
+1500
+01:22:14,160 --> 01:22:15,160
+I want it.
+
+1501
+01:22:15,160 --> 01:22:19,560
+I was a kid space guns but like big heavy artillery machine guns and they're just like
+
+1502
+01:22:19,560 --> 01:22:21,360
+porgs minions.
+
+1503
+01:22:21,360 --> 01:22:25,120
+They're all dead meat to me.
+
+1504
+01:22:25,120 --> 01:22:33,840
+They've taken a bite out of a minion rib eaten off a porg beak beak.
+
+1505
+01:22:33,840 --> 01:22:34,840
+Is that what they have.
+
+1506
+01:22:34,840 --> 01:22:35,840
+Yeah they have beaks.
+
+1507
+01:22:35,840 --> 01:22:36,840
+OK.
+
+1508
+01:22:36,840 --> 01:22:37,840
+Yeah.
+
+1509
+01:22:37,840 --> 01:22:38,840
+And then just grew crying.
+
+1510
+01:22:38,840 --> 01:22:42,240
+I'm sure they're the group single group is old group looks like Howard Hughes.
+
+1511
+01:22:42,240 --> 01:22:43,240
+He's got long hair.
+
+1512
+01:22:43,240 --> 01:22:44,240
+He's on.
+
+1513
+01:22:44,240 --> 01:22:46,720
+He's on October 2 with Luke Skywalker.
+
+1514
+01:22:46,720 --> 01:22:47,720
+Yeah.
+
+1515
+01:22:47,720 --> 01:22:51,880
+Through and Luke just crying on October 2.
+
+1516
+01:22:51,880 --> 01:22:53,360
+What they have wrought on this.
+
+1517
+01:22:53,360 --> 01:22:54,360
+Yeah.
+
+1518
+01:22:54,360 --> 01:22:57,280
+Well we probably should just leave all this out because these are very good ideas that
+
+1519
+01:22:57,280 --> 01:22:58,280
+we don't want other people to.
+
+1520
+01:22:58,280 --> 01:22:59,280
+Yeah.
+
+1521
+01:22:59,280 --> 01:23:00,280
+Let's let's send them to ourselves.
+
+1522
+01:23:00,280 --> 01:23:01,280
+Yeah.
+
+1523
+01:23:01,280 --> 01:23:02,600
+Put it in a self-addressed sealed out.
+
+1524
+01:23:02,600 --> 01:23:06,320
+Well this podcast in the mail with our names on it.
+
+1525
+01:23:06,320 --> 01:23:08,720
+We should probably start wrapping it up here.
+
+1526
+01:23:08,720 --> 01:23:09,720
+Let's talk changes.
+
+1527
+01:23:09,720 --> 01:23:10,920
+Let's talk keep it as is.
+
+1528
+01:23:10,920 --> 01:23:15,000
+Plus it up or burn it to the ground for insurance money.
+
+1529
+01:23:15,000 --> 01:23:16,000
+Any thoughts anybody.
+
+1530
+01:23:16,000 --> 01:23:19,480
+I'm just going to start to say this one.
+
+1531
+01:23:19,480 --> 01:23:21,960
+I want to keep it as is.
+
+1532
+01:23:21,960 --> 01:23:22,960
+Keep everything working like it is.
+
+1533
+01:23:22,960 --> 01:23:26,600
+I like that there's a velociraptors in the park and that's maybe the only plus one.
+
+1534
+01:23:26,600 --> 01:23:31,640
+But here's my worry is that with Jurassic World they're going to add like a Jack Sparrow
+
+1535
+01:23:31,640 --> 01:23:34,520
+like Chris Pratt character animatronic in the thing.
+
+1536
+01:23:34,520 --> 01:23:37,480
+I don't want any of that because I what this is doing right now.
+
+1537
+01:23:37,480 --> 01:23:39,680
+It makes me feel like I'm living in Jurassic Park.
+
+1538
+01:23:39,680 --> 01:23:44,320
+I get to actually me as the guy goes to Hollywood and goes to the park and gets to experience
+
+1539
+01:23:44,320 --> 01:23:45,320
+it.
+
+1540
+01:23:45,320 --> 01:23:46,320
+Watch it go wrong.
+
+1541
+01:23:46,320 --> 01:23:50,520
+Right now it's in my mind it's like the perfect version of Ride the movie.
+
+1542
+01:23:50,520 --> 01:23:52,120
+So I say leave it as is.
+
+1543
+01:23:52,120 --> 01:23:53,120
+Okay.
+
+1544
+01:23:53,120 --> 01:23:54,120
+Amen.
+
+1545
+01:23:54,120 --> 01:23:56,640
+I think I have just one change.
+
+1546
+01:23:56,640 --> 01:24:00,080
+I think it can stay as is all the way up until the end.
+
+1547
+01:24:00,080 --> 01:24:07,400
+But then right before the drop occurs lovable Jurassic Park side character Mr. DNA appears
+
+1548
+01:24:07,400 --> 01:24:13,480
+and sort of sort of a hologram visage and says did you know that Steven Spielberg director
+
+1549
+01:24:13,480 --> 01:24:18,000
+of Jurassic Park requested to get off at this very point.
+
+1550
+01:24:18,000 --> 01:24:19,880
+And there's nothing wrong with that.
+
+1551
+01:24:19,880 --> 01:24:24,080
+There's no cowardice to be found in that Spielberg is no coward.
+
+1552
+01:24:24,080 --> 01:24:29,200
+He bravely portrayed the realities of the Holocaust in his film Schindler's List.
+
+1553
+01:24:29,200 --> 01:24:30,960
+You'd never call him a coward.
+
+1554
+01:24:30,960 --> 01:24:35,080
+I say if you get off here there's nothing wrong with that Scott.
+
+1555
+01:24:35,080 --> 01:24:37,080
+And then a little red carpet.
+
+1556
+01:24:37,080 --> 01:24:38,560
+He says Scott every time.
+
+1557
+01:24:38,560 --> 01:24:41,840
+Or do you give him a thing like the E.T. ride that says your name.
+
+1558
+01:24:41,840 --> 01:24:43,080
+Oh yeah yeah yeah.
+
+1559
+01:24:43,080 --> 01:24:44,440
+There's nothing wrong with that.
+
+1560
+01:24:44,440 --> 01:24:45,440
+Scort.
+
+1561
+01:24:45,440 --> 01:24:46,440
+Merde.
+
+1562
+01:24:46,440 --> 01:24:51,080
+And if your girlfriend doesn't think you're tough why you should find someone that likes
+
+1563
+01:24:51,080 --> 01:24:57,560
+you for you and not for your death defying somebody who likes you for your intellect
+
+1564
+01:24:57,560 --> 01:25:00,400
+not your brawn or lack thereof.
+
+1565
+01:25:00,400 --> 01:25:02,320
+You're fine the way you are.
+
+1566
+01:25:02,320 --> 01:25:04,280
+Now get off this ride.
+
+1567
+01:25:04,280 --> 01:25:07,200
+Leave these people to go down their death trap.
+
+1568
+01:25:07,200 --> 01:25:12,660
+In fact hydraulic fluid spilled at this very point in 1996.
+
+1569
+01:25:12,660 --> 01:25:15,360
+You have made the attraction three times as long.
+
+1570
+01:25:15,360 --> 01:25:20,400
+It's going to be a big backup but I think the audience is really going to appreciate
+
+1571
+01:25:20,400 --> 01:25:23,520
+the attention to this point.
+
+1572
+01:25:23,520 --> 01:25:28,080
+It's going to make a lot of kids feel better about themselves especially ones named Scott.
+
+1573
+01:25:28,080 --> 01:25:30,560
+So let's add just that everything else could stay as is.
+
+1574
+01:25:30,560 --> 01:25:33,640
+I'll see Mr. DNA in there in the future.
+
+1575
+01:25:33,640 --> 01:25:36,960
+I'll say yeah keep it as is.
+
+1576
+01:25:36,960 --> 01:25:40,980
+Keep those dinosaurs running you know they try to minimize the number of tarps keep that
+
+1577
+01:25:40,980 --> 01:25:43,440
+Jeep falling down running.
+
+1578
+01:25:43,440 --> 01:25:44,440
+And I say more tarps.
+
+1579
+01:25:44,440 --> 01:25:45,440
+What do you mean.
+
+1580
+01:25:45,440 --> 01:25:46,440
+He's got the tarps.
+
+1581
+01:25:46,440 --> 01:25:47,440
+All right.
+
+1582
+01:25:47,440 --> 01:25:48,440
+Great and discreet.
+
+1583
+01:25:48,440 --> 01:25:55,400
+And here a note specifically for the Hollywood location put some more foliage on that parking
+
+1584
+01:25:55,400 --> 01:25:56,400
+garage.
+
+1585
+01:25:56,400 --> 01:26:01,560
+There's long stretches of that Hollywood one where you can see I guess it's the employee
+
+1586
+01:26:01,560 --> 01:26:02,560
+parking garage.
+
+1587
+01:26:02,560 --> 01:26:03,560
+Frankenstein parking garage.
+
+1588
+01:26:03,560 --> 01:26:06,560
+Yeah all right.
+
+1589
+01:26:06,560 --> 01:26:10,400
+Yeah just get some more plants and get some more stuff in there.
+
+1590
+01:26:10,400 --> 01:26:15,960
+You know urban design is gravitating towards more built in greenery and foliage anyway.
+
+1591
+01:26:15,960 --> 01:26:23,240
+So yeah go wild with it to add some add some more universal is green or whatever that corporate
+
+1592
+01:26:23,240 --> 01:26:28,440
+initiative that I get a lot of mailings about because I live close to it.
+
+1593
+01:26:28,440 --> 01:26:29,800
+You're a universal good neighbor.
+
+1594
+01:26:29,800 --> 01:26:31,480
+I am a universal good neighbor.
+
+1595
+01:26:31,480 --> 01:26:33,320
+Get a free parking pass.
+
+1596
+01:26:33,320 --> 01:26:35,280
+So California constantly fighting drought.
+
+1597
+01:26:35,280 --> 01:26:40,360
+You want us to spend the money on all this water on the succulent and other cacti.
+
+1598
+01:26:40,360 --> 01:26:44,200
+Cacti or water efficient rock gardens.
+
+1599
+01:26:44,200 --> 01:26:46,680
+Put a bunch of stones along that parking garage.
+
+1600
+01:26:46,680 --> 01:26:53,200
+Put some rock gardens and children can throw the pebbles at riders.
+
+1601
+01:26:53,200 --> 01:26:57,040
+Anyway keep it keep it the same but with some minor keep up that upkeep folks.
+
+1602
+01:26:57,040 --> 01:26:58,040
+OK.
+
+1603
+01:26:58,040 --> 01:26:59,040
+All right.
+
+1604
+01:26:59,040 --> 01:27:00,040
+Here's mine.
+
+1605
+01:27:00,040 --> 01:27:01,040
+I want to plus up half of it.
+
+1606
+01:27:01,040 --> 01:27:02,040
+The first part I think is great.
+
+1607
+01:27:02,040 --> 01:27:04,360
+I think you get the splendor of Jurassic Park.
+
+1608
+01:27:04,360 --> 01:27:08,400
+You get to see the dinosaurs and you get that feeling that you see in the you feel in the
+
+1609
+01:27:08,400 --> 01:27:12,400
+first movie when they first go onto that giant field.
+
+1610
+01:27:12,400 --> 01:27:15,720
+The second half I think is missing a human element.
+
+1611
+01:27:15,720 --> 01:27:18,720
+I understand they're teasing the fact that tourists have been eaten and you don't want
+
+1612
+01:27:18,720 --> 01:27:22,200
+to see maybe a dead child hanging out in a bar.
+
+1613
+01:27:22,200 --> 01:27:23,360
+I get that.
+
+1614
+01:27:23,360 --> 01:27:25,120
+But I want workers.
+
+1615
+01:27:25,120 --> 01:27:29,720
+I want worker robots like if this were real disaster there would be people like rushing
+
+1616
+01:27:29,720 --> 01:27:32,600
+in to be like hey try to get out of here or don't do this.
+
+1617
+01:27:32,600 --> 01:27:37,280
+So I feel like when you're going up that hill let's get some robots and let's get them eaten
+
+1618
+01:27:37,280 --> 01:27:39,240
+by dinosaurs in front of us.
+
+1619
+01:27:39,240 --> 01:27:43,520
+I want to see a man get pulled up into the rafters.
+
+1620
+01:27:43,520 --> 01:27:46,320
+He'd be like hey everything's going to be all right kids.
+
+1621
+01:27:46,320 --> 01:27:47,320
+Don't worry about this.
+
+1622
+01:27:47,320 --> 01:27:51,600
+Ah like a robot dinosaur takes him up into the rafters.
+
+1623
+01:27:51,600 --> 01:27:55,200
+Like that stuff I think that's the only thing missing from the ride.
+
+1624
+01:27:55,200 --> 01:27:58,160
+This is a very by the way this is totally sincere on my part.
+
+1625
+01:27:58,160 --> 01:28:00,560
+I want to see like I want to see.
+
+1626
+01:28:00,560 --> 01:28:05,760
+If they added that that'd be I think it would be a great little addition and make the and
+
+1627
+01:28:05,760 --> 01:28:08,720
+make the thing even scarier because you're missing any other human beings.
+
+1628
+01:28:08,720 --> 01:28:12,720
+I understand they're trying to like they can't do something grisly but like you know what
+
+1629
+01:28:12,720 --> 01:28:13,720
+I'm going to tell you.
+
+1630
+01:28:13,720 --> 01:28:18,000
+There was a that was in the plans apparently.
+
+1631
+01:28:18,000 --> 01:28:23,400
+I was looking it up and there was a part where a real human actor came out and we would have
+
+1632
+01:28:23,400 --> 01:28:28,120
+had to do this all day and then like a like a raptor puppet or something probably something
+
+1633
+01:28:28,120 --> 01:28:31,120
+like that's in there now today was going to like yank him backwards.
+
+1634
+01:28:31,120 --> 01:28:32,120
+Wow.
+
+1635
+01:28:32,120 --> 01:28:37,000
+They tried to play it really real almost as if this is a Universal Studios employees saying
+
+1636
+01:28:37,000 --> 01:28:38,000
+something is wrong.
+
+1637
+01:28:38,000 --> 01:28:39,000
+We got to get you out of here.
+
+1638
+01:28:39,000 --> 01:28:40,000
+Oh like what a good idea.
+
+1639
+01:28:40,000 --> 01:28:41,240
+They do at the mummy in Florida.
+
+1640
+01:28:41,240 --> 01:28:43,040
+They try it where it's a fake loading.
+
+1641
+01:28:43,040 --> 01:28:46,440
+I think that was the precedent for what they ended up doing there.
+
+1642
+01:28:46,440 --> 01:28:49,240
+So it's also and it just didn't didn't commit to it.
+
+1643
+01:28:49,240 --> 01:28:50,240
+Makes sense.
+
+1644
+01:28:50,240 --> 01:28:55,800
+Longtime rumors that there would be like a Jeep a Jeep attraction next to this in Florida
+
+1645
+01:28:55,800 --> 01:29:00,020
+that they had the room they were going to build a Jeep attraction which Matt you mentioned
+
+1646
+01:29:00,020 --> 01:29:03,680
+earlier is like yeah that seems like something they would do and then I think they eventually
+
+1647
+01:29:03,680 --> 01:29:09,360
+use the space for Kong's Ray Kong Skull Island whatever it's one quick thing we're talking
+
+1648
+01:29:09,360 --> 01:29:13,720
+about in terms of kicking up the second half there is the one thing that the one weak part
+
+1649
+01:29:13,720 --> 01:29:18,080
+of the ride is the rapid opens down and the little rapper that just like slides out.
+
+1650
+01:29:18,080 --> 01:29:19,080
+It's very comical.
+
+1651
+01:29:19,080 --> 01:29:23,000
+I heard somebody told me today was talking about coming on here that that during Halloween
+
+1652
+01:29:23,000 --> 01:29:26,880
+Horror Nights it's a very fun ride because it's not meant for night riding so it's very
+
+1653
+01:29:26,880 --> 01:29:27,880
+dark.
+
+1654
+01:29:27,880 --> 01:29:29,640
+Yeah they turn off a lot of the interior lights.
+
+1655
+01:29:29,640 --> 01:29:35,840
+And also when the Raptors come out they play Welcome to the Jungle.
+
+1656
+01:29:35,840 --> 01:29:42,000
+So I despise the idea of Halloween Horror Nights but now I want to go just for that.
+
+1657
+01:29:42,000 --> 01:29:45,960
+I think that yeah that goes when they would play the Redhead Chili Peppers on Space Mountain
+
+1658
+01:29:45,960 --> 01:29:52,400
+I think once in a while playing a dumb inappropriate song on a ride is fun and a bizarre experience.
+
+1659
+01:29:52,400 --> 01:29:54,000
+So I am all for that.
+
+1660
+01:29:54,000 --> 01:29:57,160
+Yeah clashy but but interesting but fun.
+
+1661
+01:29:57,160 --> 01:30:00,920
+All right so we're I mean we're mainly this little fun pluses but otherwise this is a
+
+1662
+01:30:00,920 --> 01:30:04,360
+fantastic ride and Matt you are a fantastic guest.
+
+1663
+01:30:04,360 --> 01:30:05,560
+Thank you so much.
+
+1664
+01:30:05,560 --> 01:30:07,760
+You survived podcast the ride.
+
+1665
+01:30:07,760 --> 01:30:11,160
+Oh my phone is ruined.
+
+1666
+01:30:11,160 --> 01:30:13,160
+But it was worth it.
+
+1667
+01:30:13,160 --> 01:30:17,300
+Matt anything you'd like to plug or alert the audience to where they can they find you
+
+1668
+01:30:17,300 --> 01:30:21,120
+and your future works and endeavors.
+
+1669
+01:30:21,120 --> 01:30:25,880
+I'm doing all my stuff but I'll use this time say like if you think people in your government
+
+1670
+01:30:25,880 --> 01:30:28,640
+are jerks just call your reps they have phone numbers you can call them just call them and
+
+1671
+01:30:28,640 --> 01:30:30,680
+be you could be jerks to them you can ask them questions.
+
+1672
+01:30:30,680 --> 01:30:32,480
+That's your right as a citizen.
+
+1673
+01:30:32,480 --> 01:30:36,880
+Think Park fans traditionally are pretty right wing though so you're not going to find a
+
+1674
+01:30:36,880 --> 01:30:37,880
+plug in.
+
+1675
+01:30:37,880 --> 01:30:38,880
+I wouldn't go that far.
+
+1676
+01:30:38,880 --> 01:30:41,800
+I don't care what your politics are it does not matter to me as long as you're calling
+
+1677
+01:30:41,800 --> 01:30:44,560
+and telling people like they need to know that they're being watched.
+
+1678
+01:30:44,560 --> 01:30:46,760
+Yeah that's that that tax plan is going to screw everyone.
+
+1679
+01:30:46,760 --> 01:30:51,640
+Here's what I'll say bring back the guillotine.
+
+1680
+01:30:51,640 --> 01:30:57,000
+I have calculated how much money we all get if we if the top thousand rich people died
+
+1681
+01:30:57,000 --> 01:31:00,000
+in this country we all get about 80 thousand dollars so it's not bad.
+
+1682
+01:31:00,000 --> 01:31:01,360
+Hey how about that.
+
+1683
+01:31:01,360 --> 01:31:07,960
+So if if John Hammond had been killed by a pack of the little pygmies yeah that would
+
+1684
+01:31:07,960 --> 01:31:09,560
+have freed up a lot of dough for all of us.
+
+1685
+01:31:09,560 --> 01:31:13,160
+Yeah John Hammond would have been one of the ones up against the wall up against the wall
+
+1686
+01:31:13,160 --> 01:31:14,920
+when the revolution comes.
+
+1687
+01:31:14,920 --> 01:31:15,920
+Down with Kamen.
+
+1688
+01:31:15,920 --> 01:31:21,200
+Can you believe Trump appointed an Ingen representative to regulate Ingen.
+
+1689
+01:31:21,200 --> 01:31:26,200
+The dinosaur containment bureau.
+
+1690
+01:31:26,200 --> 01:31:35,360
+Trump, Ike, Marvel CEO Ike Perlmutter and John Hammond Ingen CEO on the board.
+
+1691
+01:31:35,360 --> 01:31:39,720
+Well hey thanks for listening everybody follow us at podcast the ride on Twitter follow us
+
+1692
+01:31:39,720 --> 01:31:44,480
+on Instagram we've been posting there a little bit at podcast the ride.
+
+1693
+01:31:44,480 --> 01:31:49,640
+Podcast the ride at gmail.com with your questions and comments we'd love to do a mailbag episode
+
+1694
+01:31:49,640 --> 01:31:52,560
+coming up because that's less work for us.
+
+1695
+01:31:52,560 --> 01:31:53,560
+It sure is.
+
+1696
+01:31:53,560 --> 01:31:56,160
+We'll take 20 minutes per question.
+
+1697
+01:31:56,160 --> 01:31:57,160
+Yeah.
+
+1698
+01:31:57,160 --> 01:32:01,711
+Alright well hey everybody thanks for listening and we'll see you next time bye bye.
+

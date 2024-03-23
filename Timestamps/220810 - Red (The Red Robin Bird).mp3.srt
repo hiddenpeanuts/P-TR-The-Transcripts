@@ -1,0 +1,8364 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:20,880 --> 00:00:24,880
+Welcome to Ride Robin, gourmet podcasts and spirits.
+
+3
+00:00:24,880 --> 00:00:26,880
+I'm still here.
+
+4
+00:00:26,880 --> 00:00:28,280
+Hey, it's Jason Sheridan.
+
+5
+00:00:28,280 --> 00:00:29,360
+Hi.
+
+6
+00:00:30,320 --> 00:00:31,320
+Hello.
+
+7
+00:00:31,320 --> 00:00:32,800
+That's pretty stupid.
+
+8
+00:00:33,800 --> 00:00:36,960
+Okay, look, today's episode is about,
+
+9
+00:00:37,920 --> 00:00:38,960
+is it about Red Robin?
+
+10
+00:00:38,960 --> 00:00:39,960
+Yes and no.
+
+11
+00:00:39,960 --> 00:00:42,640
+The restaurant, the chain restaurant Red Robin,
+
+12
+00:00:42,640 --> 00:00:43,880
+I mean, it's part of it.
+
+13
+00:00:43,880 --> 00:00:47,040
+That's the environment where we meet our protagonist.
+
+14
+00:00:47,040 --> 00:00:49,000
+And our protagonist is of course
+
+15
+00:00:49,000 --> 00:00:52,320
+Red Robin's beloved walk around character Red.
+
+16
+00:00:52,320 --> 00:00:53,820
+Red, you know it.
+
+17
+00:00:53,820 --> 00:00:54,840
+You've been to Red Robin.
+
+18
+00:00:54,840 --> 00:00:56,760
+You're a Red Robin probably every week,
+
+19
+00:00:56,760 --> 00:00:58,680
+as I'm sure all of us are.
+
+20
+00:00:58,760 --> 00:01:01,360
+Beloved American watering hole.
+
+21
+00:01:01,360 --> 00:01:03,360
+And one of the best parts about being there
+
+22
+00:01:03,360 --> 00:01:06,560
+is when our good pal Red walks in.
+
+23
+00:01:06,560 --> 00:01:11,000
+Red, the bird, with all of their qualities
+
+24
+00:01:11,000 --> 00:01:13,880
+and things that we know about Red.
+
+25
+00:01:13,880 --> 00:01:16,880
+When Red comes in, it's like, oh boy, we're in for it.
+
+26
+00:01:16,880 --> 00:01:18,040
+Yeah, Red's here.
+
+27
+00:01:18,040 --> 00:01:20,080
+We know, when Red's here the party's on.
+
+28
+00:01:20,080 --> 00:01:22,560
+And I just wanna make sure when we make the title
+
+29
+00:01:22,560 --> 00:01:25,280
+for this episode, we're gonna say Red from Red Robin,
+
+30
+00:01:25,280 --> 00:01:26,400
+because I don't want people thinking we're talking about
+
+31
+00:01:26,400 --> 00:01:28,520
+Red from Pirates of the Caribbean.
+
+32
+00:01:29,360 --> 00:01:30,200
+I don't want people thinking we're talking about
+
+33
+00:01:30,200 --> 00:01:32,040
+Sammy Hagar, the Red Rocker.
+
+34
+00:01:32,040 --> 00:01:35,720
+And there's a Red from that 70s show.
+
+35
+00:01:36,720 --> 00:01:39,560
+Oh, the guy from Robocop, yeah.
+
+36
+00:01:39,560 --> 00:01:41,680
+Kirkwood?
+
+37
+00:01:41,680 --> 00:01:42,600
+Smith?
+
+38
+00:01:42,600 --> 00:01:43,440
+Yeah.
+
+39
+00:01:43,440 --> 00:01:45,240
+I remember a Red characters.
+
+40
+00:01:45,240 --> 00:01:49,560
+Isn't it a pet name on Mad Men for?
+
+41
+00:01:49,560 --> 00:01:50,400
+Oh, maybe.
+
+42
+00:01:50,400 --> 00:01:52,440
+I was on a Mad Men, Jason Mad Men guy.
+
+43
+00:01:52,440 --> 00:01:56,360
+Yeah, I think occasionally, yeah, one of them.
+
+44
+00:01:56,360 --> 00:01:59,000
+Maybe John Slattery's character would call her that.
+
+45
+00:01:59,000 --> 00:02:01,800
+He would've liked Red Robin, I think.
+
+46
+00:02:01,800 --> 00:02:04,520
+There's, you know, mixology is a big,
+
+47
+00:02:04,520 --> 00:02:07,360
+but I think they call it Mad Mixology.
+
+48
+00:02:07,360 --> 00:02:08,840
+I don't have to explain the basics.
+
+49
+00:02:08,840 --> 00:02:09,840
+Red Robin does?
+
+50
+00:02:09,840 --> 00:02:10,680
+Yeah, yeah.
+
+51
+00:02:10,680 --> 00:02:11,520
+Oh, I didn't know that.
+
+52
+00:02:11,520 --> 00:02:16,520
+Yeah, their bar branding is that they have Mad Mixology,
+
+53
+00:02:16,520 --> 00:02:19,760
+and which I, for this episode, did a little trip
+
+54
+00:02:19,760 --> 00:02:23,160
+to a Red Robin yesterday, and saw a lot of drinks going by,
+
+55
+00:02:23,160 --> 00:02:25,280
+and saw a lot of colors going by.
+
+56
+00:02:25,280 --> 00:02:27,920
+They are all about the bright colors.
+
+57
+00:02:27,920 --> 00:02:32,760
+Blue Curacao is flowing at Red Robin in crazy,
+
+58
+00:02:32,760 --> 00:02:36,400
+bulbous glasses that are like the beakers
+
+59
+00:02:36,400 --> 00:02:38,840
+that a scientist would use.
+
+60
+00:02:38,840 --> 00:02:40,880
+So if you want a bourne, if you just
+
+61
+00:02:40,880 --> 00:02:45,120
+want to pour a little whiskey into a glass, sip it, sadly,
+
+62
+00:02:45,120 --> 00:02:46,320
+this isn't your place.
+
+63
+00:02:46,320 --> 00:02:50,000
+But if you want crazy mixology experimenting
+
+64
+00:02:50,000 --> 00:02:53,720
+in the shadow of a red bird, you got to go to Red Robin.
+
+65
+00:02:53,760 --> 00:02:54,480
+They've done stuff.
+
+66
+00:02:54,480 --> 00:02:56,760
+I mean, in the past, they had like, it wasn't a,
+
+67
+00:02:56,760 --> 00:02:59,120
+or maybe they had a drink too, but they had like a Wolverine
+
+68
+00:02:59,120 --> 00:03:03,480
+tie-in 10 years ago called the Berserker Burger here.
+
+69
+00:03:03,480 --> 00:03:04,240
+Oh, I remember this.
+
+70
+00:03:04,240 --> 00:03:05,840
+I saw that there was a Berserker.
+
+71
+00:03:05,840 --> 00:03:07,960
+I didn't know this was related to an IP.
+
+72
+00:03:07,960 --> 00:03:08,480
+It's reliable.
+
+73
+00:03:08,480 --> 00:03:09,960
+This is from 2013.
+
+74
+00:03:09,960 --> 00:03:10,440
+Whoa.
+
+75
+00:03:10,440 --> 00:03:12,560
+Is it being stabbed by Wolverine claws?
+
+76
+00:03:12,560 --> 00:03:16,280
+Yes, Wolverine has the hamburger on his claws,
+
+77
+00:03:16,280 --> 00:03:17,200
+and it's sticking up.
+
+78
+00:03:17,200 --> 00:03:19,920
+Does it get cut in multiple pieces instead of just half?
+
+79
+00:03:19,920 --> 00:03:22,160
+Not in the promotional image I'm looking at,
+
+80
+00:03:22,280 --> 00:03:24,000
+but perhaps somewhere else.
+
+81
+00:03:24,000 --> 00:03:27,000
+But yeah, they do fun stuff is really my point here.
+
+82
+00:03:27,000 --> 00:03:28,920
+And I will always remember the Wolverine.
+
+83
+00:03:28,920 --> 00:03:30,200
+Oh, here, look at this.
+
+84
+00:03:30,200 --> 00:03:32,760
+It says, claws on this deal.
+
+85
+00:03:32,760 --> 00:03:35,680
+Get $3 off at your movie tickets.
+
+86
+00:03:35,680 --> 00:03:36,720
+What's claws on this deal?
+
+87
+00:03:36,720 --> 00:03:40,080
+So Wolverine has three claws on each hand.
+
+88
+00:03:40,080 --> 00:03:41,400
+And he's got the movie ticket.
+
+89
+00:03:41,400 --> 00:03:43,840
+Yeah, but what is the, still, what is the phrase, claws
+
+90
+00:03:43,840 --> 00:03:44,480
+on this deal?
+
+91
+00:03:44,480 --> 00:03:45,960
+Well, you could say your claws.
+
+92
+00:03:45,960 --> 00:03:47,160
+Claws could also be hands.
+
+93
+00:03:47,160 --> 00:03:48,080
+Get your hands on this deal?
+
+94
+00:03:48,080 --> 00:03:49,880
+Get your hands on this deal and get $3 off.
+
+95
+00:03:49,880 --> 00:03:52,080
+Yeah, you'd say hands on this deal.
+
+96
+00:03:52,080 --> 00:03:54,320
+Instead, you say claws on this deal.
+
+97
+00:03:54,320 --> 00:03:57,400
+Well, because the claws are Wolverine and the movie ticket
+
+98
+00:03:57,400 --> 00:03:57,920
+deal.
+
+99
+00:03:57,920 --> 00:03:58,440
+No, I get it.
+
+100
+00:03:58,440 --> 00:03:59,480
+Look, I know he has claws.
+
+101
+00:03:59,480 --> 00:04:02,600
+I'm just still, it's not really like a common phrase
+
+102
+00:04:02,600 --> 00:04:04,680
+that it's turning on its head.
+
+103
+00:04:04,680 --> 00:04:06,960
+Well, get your hands on this deal is a common phrase,
+
+104
+00:04:06,960 --> 00:04:07,560
+I feel like.
+
+105
+00:04:07,560 --> 00:04:10,520
+Well, get your, I think it needs the qualifier of get your.
+
+106
+00:04:10,520 --> 00:04:12,760
+Is that in there?
+
+107
+00:04:12,760 --> 00:04:17,240
+It is saying, oh, in tiny letters, it says get your.
+
+108
+00:04:17,240 --> 00:04:18,840
+OK, that helps.
+
+109
+00:04:18,840 --> 00:04:19,760
+OK, get your.
+
+110
+00:04:19,760 --> 00:04:21,720
+It was hidden by another icon.
+
+111
+00:04:21,720 --> 00:04:22,680
+That's all I needed.
+
+112
+00:04:22,680 --> 00:04:23,200
+OK, OK.
+
+113
+00:04:23,200 --> 00:04:24,880
+Maybe make that typeface a little bigger.
+
+114
+00:04:24,880 --> 00:04:28,040
+Otherwise, I have no notes for this berserker burger tie
+
+115
+00:04:28,040 --> 00:04:29,320
+in from 2013.
+
+116
+00:04:29,320 --> 00:04:31,920
+Get $3 off your meal, including our limited time
+
+117
+00:04:31,920 --> 00:04:35,840
+berserker burger, when you flash your Wolverine ticket stub
+
+118
+00:04:35,840 --> 00:04:37,920
+July 29 through August 1.
+
+119
+00:04:37,920 --> 00:04:40,640
+Can I show it for a longer time than just a flash,
+
+120
+00:04:40,640 --> 00:04:42,880
+or can it, do I have to pretend I'm
+
+121
+00:04:42,880 --> 00:04:44,640
+like revealing that I have drugs and then
+
+122
+00:04:44,640 --> 00:04:45,280
+hiding it really quickly?
+
+123
+00:04:45,280 --> 00:04:46,080
+I think you should flash it.
+
+124
+00:04:46,080 --> 00:04:47,880
+You have a big, you wear a big trench coat
+
+125
+00:04:47,880 --> 00:04:50,080
+and you kind of flash it and you have it sucked inside.
+
+126
+00:04:50,080 --> 00:04:53,400
+Make sure you say, yeah, it's the magic word.
+
+127
+00:04:53,400 --> 00:04:55,960
+They do bring you three knives and make
+
+128
+00:04:55,960 --> 00:04:58,160
+you put them between your fingers.
+
+129
+00:04:58,160 --> 00:05:00,600
+And then you have to put the ticket stub through at least
+
+130
+00:05:00,600 --> 00:05:02,000
+one of the knives.
+
+131
+00:05:02,000 --> 00:05:04,480
+You know, yes, one of them fell.
+
+132
+00:05:04,480 --> 00:05:06,080
+It bounced on the table.
+
+133
+00:05:06,080 --> 00:05:09,400
+It took my kid's leg.
+
+134
+00:05:09,400 --> 00:05:13,160
+This has not been the dream movie meal night I imagined.
+
+135
+00:05:13,160 --> 00:05:16,120
+2013 is the worst year ever.
+
+136
+00:05:16,120 --> 00:05:17,480
+Can someone correct me if I'm wrong?
+
+137
+00:05:17,480 --> 00:05:19,280
+Because I've never been to a Red Robin.
+
+138
+00:05:19,280 --> 00:05:20,520
+Oh, what?
+
+139
+00:05:20,520 --> 00:05:22,240
+Well, I know that's surprising, right?
+
+140
+00:05:22,240 --> 00:05:23,400
+Oh, my god, we should have gone.
+
+141
+00:05:23,400 --> 00:05:25,680
+I didn't realize that you had never been.
+
+142
+00:05:25,680 --> 00:05:27,560
+There's those that are, these happen.
+
+143
+00:05:27,560 --> 00:05:30,160
+I think I've maybe never been in an Applebee's.
+
+144
+00:05:30,160 --> 00:05:31,000
+What?
+
+145
+00:05:31,000 --> 00:05:33,520
+Sometimes you just miss these places.
+
+146
+00:05:33,520 --> 00:05:35,640
+I've been to both of them in Chili's, right?
+
+147
+00:05:35,640 --> 00:05:36,800
+Yeah, I've been in Chili's.
+
+148
+00:05:36,800 --> 00:05:37,480
+Oh, of course.
+
+149
+00:05:37,480 --> 00:05:38,680
+I'm a lot on this earth.
+
+150
+00:05:38,680 --> 00:05:40,240
+I made a point of going to Chili's,
+
+151
+00:05:40,240 --> 00:05:42,800
+but you were saying, Jason.
+
+152
+00:05:42,800 --> 00:05:46,680
+One of their selling, one of their marketing bits
+
+153
+00:05:46,680 --> 00:05:49,280
+is like unlimited fries, right?
+
+154
+00:05:49,280 --> 00:05:50,720
+They'll keep bringing you fries.
+
+155
+00:05:50,720 --> 00:05:51,640
+Bottomless fries.
+
+156
+00:05:51,640 --> 00:05:52,680
+Bottomless fries.
+
+157
+00:05:52,680 --> 00:05:54,400
+Well, I like that.
+
+158
+00:05:54,400 --> 00:05:56,320
+Although I don't think I'd get,
+
+159
+00:05:56,320 --> 00:05:59,240
+I don't think I'd get through,
+
+160
+00:05:59,240 --> 00:06:02,000
+I can eat like five or six fries.
+
+161
+00:06:02,000 --> 00:06:04,240
+They're not one of my pig out go-tos.
+
+162
+00:06:04,240 --> 00:06:05,080
+Okay.
+
+163
+00:06:05,080 --> 00:06:07,160
+Wait, wait, five or six single fries?
+
+164
+00:06:07,160 --> 00:06:08,840
+Yeah, I'm not a big fry guy.
+
+165
+00:06:08,840 --> 00:06:09,680
+Wait, wait, wait, wait.
+
+166
+00:06:09,680 --> 00:06:10,520
+This is shocking, actually.
+
+167
+00:06:10,520 --> 00:06:12,720
+Wait, McDonald's only five or six fries?
+
+168
+00:06:12,720 --> 00:06:15,400
+I will eat like a small fry from McDonald's,
+
+169
+00:06:15,400 --> 00:06:17,240
+which is probably more like, what do you think?
+
+170
+00:06:17,240 --> 00:06:18,280
+12, 15?
+
+171
+00:06:18,280 --> 00:06:19,120
+20?
+
+172
+00:06:19,120 --> 00:06:22,080
+20 maybe, and then I'll feel bad afterwards.
+
+173
+00:06:22,080 --> 00:06:22,920
+Really?
+
+174
+00:06:22,920 --> 00:06:23,760
+Yeah.
+
+175
+00:06:23,760 --> 00:06:24,720
+How do I not know this?
+
+176
+00:06:24,720 --> 00:06:26,600
+I'm not a big fry guy.
+
+177
+00:06:26,600 --> 00:06:29,520
+Any kind, crinkle cut, waffle fries, sweet potato?
+
+178
+00:06:29,520 --> 00:06:30,960
+I think they're delicious.
+
+179
+00:06:30,960 --> 00:06:32,480
+I usually just feel bad.
+
+180
+00:06:32,480 --> 00:06:33,800
+I like a crinkle cut.
+
+181
+00:06:33,800 --> 00:06:35,600
+I love a seasoned curly fry.
+
+182
+00:06:35,600 --> 00:06:37,440
+That's probably my number one.
+
+183
+00:06:37,440 --> 00:06:38,280
+Waffle fries.
+
+184
+00:06:38,280 --> 00:06:40,000
+Hardee's has like a seasoned curly fry.
+
+185
+00:06:40,000 --> 00:06:40,840
+They do, yeah.
+
+186
+00:06:40,840 --> 00:06:41,680
+Or Arby's.
+
+187
+00:06:41,680 --> 00:06:42,520
+Arby's, yeah.
+
+188
+00:06:42,520 --> 00:06:43,360
+Yeah.
+
+189
+00:06:43,360 --> 00:06:44,440
+Maybe Hardee's too, I forget.
+
+190
+00:06:44,440 --> 00:06:48,680
+I think some of my trying to not be awful to myself
+
+191
+00:06:48,680 --> 00:06:51,000
+diet-wise most of the time is that I know
+
+192
+00:06:51,000 --> 00:06:53,720
+if I'm in a place with fries, I am gonna go nuts.
+
+193
+00:06:53,720 --> 00:06:56,360
+I am a fry guy, I would say,
+
+194
+00:06:56,360 --> 00:06:59,360
+and that's just a great weekend indulgence,
+
+195
+00:06:59,360 --> 00:07:01,960
+and I know it's not good, but if I try to be better
+
+196
+00:07:01,960 --> 00:07:04,320
+throughout the week, if I try to be a good person,
+
+197
+00:07:04,320 --> 00:07:06,680
+yeah, from Sunday to Friday.
+
+198
+00:07:06,680 --> 00:07:10,720
+Red Robin has a couple different kinds of fries.
+
+199
+00:07:10,720 --> 00:07:14,400
+I think so, because I saw some boring small ones
+
+200
+00:07:15,400 --> 00:07:16,480
+going by, and I got concerned,
+
+201
+00:07:16,480 --> 00:07:18,360
+so I made a point of saying steak fries.
+
+202
+00:07:18,360 --> 00:07:19,800
+Oh, I like steak fries.
+
+203
+00:07:19,800 --> 00:07:22,560
+Yes, I mean, bottomless steak fries is a pretty good situation.
+
+204
+00:07:22,560 --> 00:07:24,160
+Like, Fat Burger has steak fries.
+
+205
+00:07:24,160 --> 00:07:25,000
+Yeah.
+
+206
+00:07:25,000 --> 00:07:25,840
+I really like.
+
+207
+00:07:25,840 --> 00:07:26,680
+We can get the fat and skinny.
+
+208
+00:07:26,680 --> 00:07:27,520
+Yes.
+
+209
+00:07:27,520 --> 00:07:29,760
+And that signature fat burger soaking wet food.
+
+210
+00:07:30,720 --> 00:07:32,360
+The bag is wet.
+
+211
+00:07:32,360 --> 00:07:33,680
+The weight is long.
+
+212
+00:07:33,680 --> 00:07:34,920
+The weight is long.
+
+213
+00:07:34,920 --> 00:07:36,720
+The price is expensive.
+
+214
+00:07:36,720 --> 00:07:38,040
+It's like sweaty and all.
+
+215
+00:07:38,040 --> 00:07:39,960
+I find them to be like hot rooms.
+
+216
+00:07:39,960 --> 00:07:41,600
+That's my recollection of Fat Burger.
+
+217
+00:07:41,600 --> 00:07:43,800
+They're tiny rooms that are very warm.
+
+218
+00:07:44,400 --> 00:07:48,560
+They're like little shacks where the food is made.
+
+219
+00:07:48,560 --> 00:07:52,120
+The cost of a meal is like $19.
+
+220
+00:07:52,120 --> 00:07:53,160
+Yes, not cheap.
+
+221
+00:07:53,160 --> 00:07:54,200
+Yeah.
+
+222
+00:07:54,200 --> 00:07:57,680
+And then you have to wait 25 minutes to get it.
+
+223
+00:07:57,680 --> 00:08:00,560
+I still do it on occasion, but it's not,
+
+224
+00:08:00,560 --> 00:08:03,040
+if you're looking for something fast and cheaper.
+
+225
+00:08:03,040 --> 00:08:05,360
+Well, I retired on a high note with Fat Burger,
+
+226
+00:08:05,360 --> 00:08:09,160
+where I had a hookup to have free Fat Burger on the strip.
+
+227
+00:08:09,160 --> 00:08:12,760
+I got to walk in and they said, get whatever you want.
+
+228
+00:08:12,760 --> 00:08:14,920
+I forget what the hookup was,
+
+229
+00:08:14,920 --> 00:08:17,440
+but I had a big, which included a beer.
+
+230
+00:08:17,440 --> 00:08:19,840
+And I swear that's why I was,
+
+231
+00:08:19,840 --> 00:08:23,120
+because then the thing I did after was go see Jurassic World
+
+232
+00:08:23,120 --> 00:08:24,760
+at a strip movie theater.
+
+233
+00:08:24,760 --> 00:08:27,480
+And I think that's why I was kind of apologetic
+
+234
+00:08:27,480 --> 00:08:28,840
+to Jurassic World,
+
+235
+00:08:28,840 --> 00:08:30,560
+because I was in such a great mood
+
+236
+00:08:30,560 --> 00:08:32,080
+from that free Fat Burger.
+
+237
+00:08:32,080 --> 00:08:32,920
+Wow.
+
+238
+00:08:32,920 --> 00:08:35,800
+You talking Vegas strip or sunset strip, my man?
+
+239
+00:08:35,800 --> 00:08:36,640
+Oh, Vegas strip.
+
+240
+00:08:36,640 --> 00:08:37,480
+Oh, okay.
+
+241
+00:08:37,480 --> 00:08:38,320
+Yeah, yeah.
+
+242
+00:08:38,320 --> 00:08:39,140
+Oh yeah, to be not even,
+
+243
+00:08:39,900 --> 00:08:42,740
+the discomfort of not my own state.
+
+244
+00:08:42,740 --> 00:08:43,740
+Where can I go?
+
+245
+00:08:43,740 --> 00:08:45,500
+Where can I get nourishment?
+
+246
+00:08:45,500 --> 00:08:49,580
+Wait a minute, I have a ticket now for free Fat Burger.
+
+247
+00:08:49,580 --> 00:08:52,620
+Well, thank you for this sumptuous meal.
+
+248
+00:08:52,620 --> 00:08:53,860
+Harvest, yes.
+
+249
+00:08:53,860 --> 00:08:54,700
+Oh boy.
+
+250
+00:08:54,700 --> 00:08:56,660
+Could you imagine if someone gave that offer to Mike
+
+251
+00:08:56,660 --> 00:08:59,820
+about the Taco Bell Cantina in Vegas?
+
+252
+00:08:59,820 --> 00:09:00,900
+We never see him again.
+
+253
+00:09:00,900 --> 00:09:02,980
+We lost, there's no more food.
+
+254
+00:09:02,980 --> 00:09:04,540
+We were shutting down for a week.
+
+255
+00:09:04,540 --> 00:09:07,740
+Big colorful yard, first of all, with the slush in it.
+
+256
+00:09:07,740 --> 00:09:08,580
+Oh yeah.
+
+257
+00:09:08,660 --> 00:09:11,380
+And then, I could say my order maybe,
+
+258
+00:09:11,380 --> 00:09:16,380
+but cheesy gritty to crunch, Chalupa Supreme,
+
+259
+00:09:16,540 --> 00:09:18,660
+maybe Softshell Taco Supreme as well.
+
+260
+00:09:18,660 --> 00:09:21,220
+And then, I don't know, Cinnamon Twists.
+
+261
+00:09:21,220 --> 00:09:23,860
+And if you're getting a slush, what's the slush?
+
+262
+00:09:23,860 --> 00:09:26,620
+I don't know the slushes they have offhand.
+
+263
+00:09:26,620 --> 00:09:28,540
+They bought a blast slush.
+
+264
+00:09:28,540 --> 00:09:29,380
+Yeah.
+
+265
+00:09:29,380 --> 00:09:30,820
+And they'll pour like a shot of vodka in it.
+
+266
+00:09:30,820 --> 00:09:32,180
+I might just go like a cherry.
+
+267
+00:09:32,180 --> 00:09:33,020
+Yeah?
+
+268
+00:09:33,020 --> 00:09:33,840
+Some standard cherry.
+
+269
+00:09:33,840 --> 00:09:34,680
+Okay.
+
+270
+00:09:34,680 --> 00:09:35,520
+Get my mouth nice and red.
+
+271
+00:09:35,520 --> 00:09:37,060
+Can you spike it at that cantina though?
+
+272
+00:09:37,060 --> 00:09:37,900
+Yeah.
+
+273
+00:09:37,900 --> 00:09:39,060
+Oh yeah, yeah, yeah.
+
+274
+00:09:39,060 --> 00:09:42,180
+We went in the one in Times Square.
+
+275
+00:09:42,180 --> 00:09:43,020
+Well yeah, we talked about it.
+
+276
+00:09:43,020 --> 00:09:43,860
+Yeah, it was chaos.
+
+277
+00:09:43,860 --> 00:09:44,700
+Yeah, it was chaos.
+
+278
+00:09:44,700 --> 00:09:46,620
+Yeah, there was a lot going on in there.
+
+279
+00:09:46,620 --> 00:09:47,780
+Yeah.
+
+280
+00:09:47,780 --> 00:09:49,020
+So anyway.
+
+281
+00:09:49,020 --> 00:09:51,460
+Well then you'd love the mad mixology of Red Robin.
+
+282
+00:09:51,460 --> 00:09:52,980
+Look, well it's, all right, well then, okay,
+
+283
+00:09:52,980 --> 00:09:54,580
+Jason's never been.
+
+284
+00:09:54,580 --> 00:09:57,220
+The Bottomless Fry is not an attraction to you.
+
+285
+00:09:57,220 --> 00:09:59,740
+Mike, general thoughts about Red Robin?
+
+286
+00:09:59,740 --> 00:10:00,580
+About Red Robin?
+
+287
+00:10:00,580 --> 00:10:02,920
+I mean, I'm not a huge Red Robin guy,
+
+288
+00:10:02,920 --> 00:10:04,580
+but I like Red Robin.
+
+289
+00:10:04,580 --> 00:10:06,260
+And it's a place I feel like I would go,
+
+290
+00:10:06,260 --> 00:10:08,460
+or I have gone to, and I haven't been in a few years,
+
+291
+00:10:08,460 --> 00:10:11,820
+but every other year, probably before the pandemic,
+
+292
+00:10:11,820 --> 00:10:12,660
+one, maybe once a year.
+
+293
+00:10:12,660 --> 00:10:14,380
+It would still be every other year, interesting.
+
+294
+00:10:14,380 --> 00:10:15,220
+Not too many.
+
+295
+00:10:15,220 --> 00:10:16,340
+I haven't been in a long time.
+
+296
+00:10:16,340 --> 00:10:17,940
+And I, you know what, what's so funny,
+
+297
+00:10:17,940 --> 00:10:19,780
+I actually didn't even think about this until just,
+
+298
+00:10:19,780 --> 00:10:22,820
+just right before recording, and we didn't eat there,
+
+299
+00:10:22,820 --> 00:10:25,860
+but I have a photo with Red on my Instagram
+
+300
+00:10:25,860 --> 00:10:26,700
+from a couple of years ago.
+
+301
+00:10:26,700 --> 00:10:28,420
+Wow, wow.
+
+302
+00:10:28,420 --> 00:10:29,260
+Wow.
+
+303
+00:10:29,260 --> 00:10:31,380
+With the statue, because that's one of the ways that Red,
+
+304
+00:10:31,380 --> 00:10:33,860
+the beloved mascot and bird is represented,
+
+305
+00:10:33,860 --> 00:10:36,740
+is with kind of a pretty, pretty short guy.
+
+306
+00:10:36,740 --> 00:10:37,900
+It's like half your height.
+
+307
+00:10:37,900 --> 00:10:40,120
+And some, often those are elevated.
+
+308
+00:10:40,120 --> 00:10:42,020
+Sometimes those are up on some pedestal,
+
+309
+00:10:42,020 --> 00:10:43,900
+but there is just on the ground.
+
+310
+00:10:43,900 --> 00:10:47,420
+And how'd you feel hanging with Red?
+
+311
+00:10:47,420 --> 00:10:48,740
+Well, I liked hanging with Red.
+
+312
+00:10:48,740 --> 00:10:49,980
+We hadn't had Red Robin.
+
+313
+00:10:49,980 --> 00:10:52,460
+I think we just went to see Uncut Gems.
+
+314
+00:10:52,460 --> 00:10:53,420
+It was 2019.
+
+315
+00:10:53,420 --> 00:10:55,980
+There was still, so is that, what Red Robin is that?
+
+316
+00:10:55,980 --> 00:10:56,980
+Glendale?
+
+317
+00:10:56,980 --> 00:10:59,020
+Stratford Square Mall, Illinois, baby.
+
+318
+00:10:59,020 --> 00:11:00,940
+Oh, you're back at, oh, nice.
+
+319
+00:11:00,940 --> 00:11:01,780
+Oh, gotcha.
+
+320
+00:11:01,780 --> 00:11:03,580
+Stratford Square is where they had the waterfall.
+
+321
+00:11:04,300 --> 00:11:05,140
+Oh, yes, we're talking about that.
+
+322
+00:11:05,140 --> 00:11:06,140
+Yeah, that sounds great.
+
+323
+00:11:06,140 --> 00:11:07,540
+And a big part of the reason I took it
+
+324
+00:11:07,540 --> 00:11:09,180
+is I was wearing an Orange Cassidy t-shirt
+
+325
+00:11:09,180 --> 00:11:10,320
+and he's a professional wrestler
+
+326
+00:11:10,320 --> 00:11:11,660
+and he's like a very lazy one
+
+327
+00:11:11,660 --> 00:11:14,220
+and he kind of holds up like a lazy thumbs up.
+
+328
+00:11:14,220 --> 00:11:16,900
+So Red was holding up a thumbs up in this photo.
+
+329
+00:11:16,900 --> 00:11:17,740
+It's kind of lazy too.
+
+330
+00:11:17,740 --> 00:11:19,220
+So I decided that it made sense
+
+331
+00:11:19,220 --> 00:11:20,260
+with the shirt I had been wearing already.
+
+332
+00:11:20,260 --> 00:11:21,180
+Oh, that's great.
+
+333
+00:11:21,180 --> 00:11:24,740
+Well, let me say, it's a very mall-oriented restaurant.
+
+334
+00:11:24,740 --> 00:11:27,100
+Not always, there's certainly freestanding ones,
+
+335
+00:11:27,100 --> 00:11:28,880
+but I associate them with like,
+
+336
+00:11:28,880 --> 00:11:30,780
+it's in that indoor-outdoor slot.
+
+337
+00:11:30,780 --> 00:11:32,220
+It's on the border of the mall.
+
+338
+00:11:32,220 --> 00:11:33,060
+Yes.
+
+339
+00:11:33,820 --> 00:11:35,140
+We could walk up from the parking lot.
+
+340
+00:11:35,140 --> 00:11:38,340
+Maybe you're on the patio or you're on the indoor patio,
+
+341
+00:11:38,340 --> 00:11:40,820
+which is more in the mall hallway,
+
+342
+00:11:40,820 --> 00:11:42,820
+or you can be right in the center
+
+343
+00:11:42,820 --> 00:11:46,500
+where the action is in the bar.
+
+344
+00:11:46,500 --> 00:11:49,140
+I mean, I associate it with
+
+345
+00:11:49,140 --> 00:11:52,100
+that it was a restaurant for kids
+
+346
+00:11:52,100 --> 00:11:54,260
+with a little more going on.
+
+347
+00:11:54,260 --> 00:11:56,620
+There's a bit of a party and a fest.
+
+348
+00:11:56,620 --> 00:11:57,860
+I think it's probably a great place
+
+349
+00:11:57,860 --> 00:11:59,580
+to go with like the Boy Scout troop
+
+350
+00:11:59,580 --> 00:12:02,780
+or the baseball team after the game.
+
+351
+00:12:03,540 --> 00:12:05,140
+There's a little bit of,
+
+352
+00:12:05,140 --> 00:12:07,020
+it's not just sitting and eating quietly.
+
+353
+00:12:07,020 --> 00:12:08,860
+Maybe today it is, but it's-
+
+354
+00:12:08,860 --> 00:12:12,140
+I know what you mean, and I remember the vibe,
+
+355
+00:12:12,140 --> 00:12:15,700
+but I also remember going anywhere directly
+
+356
+00:12:15,700 --> 00:12:18,820
+after a baseball game and those terrible pants
+
+357
+00:12:18,820 --> 00:12:21,180
+and cleats that we had to wear.
+
+358
+00:12:21,180 --> 00:12:22,020
+And the stirrups.
+
+359
+00:12:22,020 --> 00:12:23,060
+You're uncomfortable.
+
+360
+00:12:23,060 --> 00:12:23,900
+You were in stirrups?
+
+361
+00:12:23,900 --> 00:12:25,500
+Yeah, there's like, isn't that the name of them?
+
+362
+00:12:25,500 --> 00:12:26,340
+They're the socks that kind of-
+
+363
+00:12:26,340 --> 00:12:27,460
+The long socks?
+
+364
+00:12:27,460 --> 00:12:29,880
+Yeah, but it was like it would go around your foot.
+
+365
+00:12:29,880 --> 00:12:31,140
+Like it wasn't- Right.
+
+366
+00:12:31,140 --> 00:12:32,700
+It would just kind of go under.
+
+367
+00:12:33,620 --> 00:12:35,460
+Yeah, I would like put those on
+
+368
+00:12:35,460 --> 00:12:38,700
+and then push them as low, like the tops.
+
+369
+00:12:38,700 --> 00:12:39,780
+You weren't wearing them correctly.
+
+370
+00:12:39,780 --> 00:12:41,460
+I don't like high socks.
+
+371
+00:12:41,460 --> 00:12:43,820
+Yeah, I do not care for them.
+
+372
+00:12:43,820 --> 00:12:46,220
+Uh-huh, so you weren't in the mood to eat after all this.
+
+373
+00:12:46,220 --> 00:12:48,260
+No, yeah, sitting in a cup
+
+374
+00:12:48,260 --> 00:12:52,060
+and an uncomfortable like pair of baseball pants.
+
+375
+00:12:52,060 --> 00:12:57,060
+Like, oh yeah, give me unlimited fries.
+
+376
+00:12:57,380 --> 00:13:00,220
+I am surprised this isn't up your alley.
+
+377
+00:13:00,220 --> 00:13:03,580
+Oh no, I will for sure take advantage
+
+378
+00:13:03,580 --> 00:13:04,700
+of the unlimited fries.
+
+379
+00:13:04,700 --> 00:13:06,860
+I just know like, well, that's the day.
+
+380
+00:13:06,860 --> 00:13:09,580
+Man, I feel like, I feel like shit.
+
+381
+00:13:09,580 --> 00:13:11,260
+I just want to get those days.
+
+382
+00:13:11,260 --> 00:13:12,260
+I went yesterday.
+
+383
+00:13:12,260 --> 00:13:14,540
+I feel pretty bad from Red Robin still,
+
+384
+00:13:14,540 --> 00:13:15,540
+it's stuck with me.
+
+385
+00:13:16,760 --> 00:13:18,340
+But you know what I mean?
+
+386
+00:13:18,340 --> 00:13:19,760
+Like it's certainly not,
+
+387
+00:13:19,760 --> 00:13:21,660
+this is why I think why I wanted to talk about it
+
+388
+00:13:21,660 --> 00:13:24,300
+is just to analyze the odd place that Red Robin
+
+389
+00:13:24,300 --> 00:13:26,500
+and its character Red occupy
+
+390
+00:13:26,500 --> 00:13:30,140
+where it is not full on mini theme park.
+
+391
+00:13:31,060 --> 00:13:34,180
+And it's like Chuck E. Cheese by any means.
+
+392
+00:13:34,180 --> 00:13:37,340
+So it's a weird, okay, restaurants from our childhoods
+
+393
+00:13:37,340 --> 00:13:40,100
+where you might see a guy walking around
+
+394
+00:13:40,100 --> 00:13:42,300
+or you might see a colorful friend.
+
+395
+00:13:42,300 --> 00:13:44,020
+Chuck E. Cheese, number one.
+
+396
+00:13:44,020 --> 00:13:47,580
+Maybe McDonald's, there were occasional scenarios
+
+397
+00:13:47,580 --> 00:13:48,780
+where a character's walking around
+
+398
+00:13:48,780 --> 00:13:50,500
+or they're represented via the Playland,
+
+399
+00:13:50,500 --> 00:13:51,580
+but pretty rare.
+
+400
+00:13:51,580 --> 00:13:53,220
+I guess Burger King in that sense too.
+
+401
+00:13:53,220 --> 00:13:55,540
+Maybe you just see like a cutout of the kid's club
+
+402
+00:13:55,540 --> 00:13:56,860
+or whatever it is.
+
+403
+00:13:57,020 --> 00:14:01,340
+Only Red Robin is the other one where,
+
+404
+00:14:01,340 --> 00:14:03,980
+and then a character's gonna walk around.
+
+405
+00:14:03,980 --> 00:14:06,500
+In terms of it's like something close to your house.
+
+406
+00:14:06,500 --> 00:14:08,460
+Yeah, I mean we had a place called Shoney's.
+
+407
+00:14:08,460 --> 00:14:10,020
+We've talked about this before.
+
+408
+00:14:10,020 --> 00:14:12,140
+That's a chain that there was one managed
+
+409
+00:14:12,140 --> 00:14:13,940
+by professional wrestler, Scott Steiner,
+
+410
+00:14:13,940 --> 00:14:15,820
+which is really funny, but that closed.
+
+411
+00:14:15,820 --> 00:14:17,740
+But Shoney had Shoney Bear.
+
+412
+00:14:17,740 --> 00:14:18,580
+Oh, right.
+
+413
+00:14:18,580 --> 00:14:19,980
+And it was a similar thing to this
+
+414
+00:14:19,980 --> 00:14:22,220
+where once in a while I think if we were at Shoney's,
+
+415
+00:14:22,220 --> 00:14:24,980
+which we didn't go too often because it was bad,
+
+416
+00:14:24,980 --> 00:14:26,020
+excuse me,
+
+417
+00:14:26,020 --> 00:14:27,580
+that Shoney Bear would walk around.
+
+418
+00:14:27,580 --> 00:14:30,380
+So you get a little taste of character.
+
+419
+00:14:30,380 --> 00:14:32,300
+Were you excited to see Shoney Bear?
+
+420
+00:14:32,300 --> 00:14:33,740
+Slightly, yeah.
+
+421
+00:14:33,740 --> 00:14:35,620
+Were you excited to see Red?
+
+422
+00:14:35,620 --> 00:14:37,100
+Do you have any memories of Red?
+
+423
+00:14:37,100 --> 00:14:39,260
+I don't believe I've ever seen Red in person.
+
+424
+00:14:39,260 --> 00:14:41,380
+You've never seen a Red walking around?
+
+425
+00:14:41,380 --> 00:14:42,220
+I don't think so.
+
+426
+00:14:42,220 --> 00:14:46,020
+I found an, okay, this is like three or four years old.
+
+427
+00:14:46,020 --> 00:14:49,660
+I found an offer up listing of someone selling a Red,
+
+428
+00:14:49,660 --> 00:14:50,500
+full Red.
+
+429
+00:14:50,500 --> 00:14:51,340
+Full Red costume.
+
+430
+00:14:51,340 --> 00:14:52,380
+Oh, there's a Red on the ground.
+
+431
+00:14:52,380 --> 00:14:53,500
+$80.
+
+432
+00:14:53,500 --> 00:14:54,340
+$80 for Red?
+
+433
+00:14:54,340 --> 00:14:55,260
+$80 for Red?
+
+434
+00:14:55,260 --> 00:14:56,780
+Can you buy it?
+
+435
+00:14:56,780 --> 00:14:58,620
+No, I think it's an old listing.
+
+436
+00:14:58,620 --> 00:14:59,460
+I think that's done.
+
+437
+00:14:59,460 --> 00:15:00,460
+We need to get that.
+
+438
+00:15:00,460 --> 00:15:01,620
+It's unclear.
+
+439
+00:15:01,620 --> 00:15:03,820
+It's not a well-designed website.
+
+440
+00:15:03,820 --> 00:15:05,380
+It's unclear if it actually sold
+
+441
+00:15:05,380 --> 00:15:07,620
+or this is just like a dead link or whatever.
+
+442
+00:15:07,620 --> 00:15:09,180
+That website is hard to map.
+
+443
+00:15:09,180 --> 00:15:10,140
+Yeah.
+
+444
+00:15:10,140 --> 00:15:11,620
+I've recently tried it.
+
+445
+00:15:13,060 --> 00:15:16,220
+It's great to buy nothing.
+
+446
+00:15:16,220 --> 00:15:20,540
+Those kinds of trade or offer up are very good.
+
+447
+00:15:20,540 --> 00:15:22,460
+Those are good that they're around, I think.
+
+448
+00:15:22,460 --> 00:15:23,300
+Right.
+
+449
+00:15:23,300 --> 00:15:24,980
+But yes, very hard to use.
+
+450
+00:15:25,980 --> 00:15:29,540
+I'd be curious if listeners can name more
+
+451
+00:15:29,540 --> 00:15:30,420
+that I'm forgetting about,
+
+452
+00:15:30,420 --> 00:15:33,900
+kind of like restaurant walk-arounds.
+
+453
+00:15:33,900 --> 00:15:38,900
+There's maybe the weird flesh-colored shrimp from Bubba Gump
+
+454
+00:15:39,420 --> 00:15:40,940
+whose name I always forget.
+
+455
+00:15:40,940 --> 00:15:42,780
+I cannot retain the name of Bubba Gump.
+
+456
+00:15:42,780 --> 00:15:43,620
+I always forget it too.
+
+457
+00:15:43,620 --> 00:15:44,460
+Let me look this up.
+
+458
+00:15:44,460 --> 00:15:46,900
+It's just not natural, whatever it is.
+
+459
+00:15:46,900 --> 00:15:48,540
+It's not Bubba Gump.
+
+460
+00:15:48,540 --> 00:15:50,580
+That's two character names.
+
+461
+00:15:50,580 --> 00:15:52,860
+Yeah, I'm trying to think of chain restaurants
+
+462
+00:15:52,860 --> 00:15:54,220
+because obviously with the theme park stuff,
+
+463
+00:15:54,260 --> 00:15:55,660
+Dr. Toothsome or whatever his name is,
+
+464
+00:15:55,660 --> 00:15:58,940
+Professor Toothsome, he's got a whole range of characters.
+
+465
+00:15:59,980 --> 00:16:01,900
+But it does, I'm trying to think of like Fridays,
+
+466
+00:16:01,900 --> 00:16:06,900
+Chili's, Applebee's, Olive Garden, Outback.
+
+467
+00:16:08,500 --> 00:16:09,340
+Yeah.
+
+468
+00:16:09,340 --> 00:16:10,180
+Those are all pretty part and parcel.
+
+469
+00:16:10,180 --> 00:16:11,020
+Fridays.
+
+470
+00:16:11,020 --> 00:16:13,420
+Kind of like, it's the weekend, kick back,
+
+471
+00:16:13,420 --> 00:16:14,940
+bring the family.
+
+472
+00:16:14,940 --> 00:16:17,780
+There's a bunch of stuff on the walls.
+
+473
+00:16:17,780 --> 00:16:22,020
+It's the only Red Robin I think has somebody walking around.
+
+474
+00:16:22,020 --> 00:16:23,820
+And I always just found it odd
+
+475
+00:16:24,660 --> 00:16:25,500
+that there's full on Chuck E. Cheese
+
+476
+00:16:25,500 --> 00:16:26,980
+where there might be a bunch of characters in a robot
+
+477
+00:16:26,980 --> 00:16:29,380
+and then there's this, then there's this.
+
+478
+00:16:29,380 --> 00:16:33,180
+Because I do remember Red walking around the restaurant
+
+479
+00:16:33,180 --> 00:16:34,300
+when I'm there.
+
+480
+00:16:34,300 --> 00:16:38,140
+And what I remember is getting very stressed out.
+
+481
+00:16:38,140 --> 00:16:40,980
+I don't want Red over here.
+
+482
+00:16:40,980 --> 00:16:42,420
+What is Red?
+
+483
+00:16:42,420 --> 00:16:46,020
+What is, this is mainly the question I wanted to ask.
+
+484
+00:16:46,020 --> 00:16:48,740
+You've now you've all seen pictures of Red the Bird,
+
+485
+00:16:48,740 --> 00:16:51,700
+maybe listeners had experiences where Red's hanging out,
+
+486
+00:16:51,700 --> 00:16:53,060
+he comes to your table.
+
+487
+00:16:53,060 --> 00:16:54,060
+What is he?
+
+488
+00:16:54,060 --> 00:16:56,100
+What are we supposed to take from,
+
+489
+00:16:56,100 --> 00:16:57,660
+all right, Red's here, now what?
+
+490
+00:16:57,660 --> 00:16:58,980
+Is he a Cardinal?
+
+491
+00:16:58,980 --> 00:17:00,580
+Well, he's a Robin.
+
+492
+00:17:00,580 --> 00:17:01,420
+He's a Robin?
+
+493
+00:17:01,420 --> 00:17:02,260
+Yes.
+
+494
+00:17:02,260 --> 00:17:03,100
+Oh, Red Robin, yeah.
+
+495
+00:17:03,100 --> 00:17:04,700
+All right, so we know that.
+
+496
+00:17:04,700 --> 00:17:06,060
+He's a Red Robin.
+
+497
+00:17:06,060 --> 00:17:06,900
+He's a Red Robin.
+
+498
+00:17:06,900 --> 00:17:07,860
+Do we know he or she?
+
+499
+00:17:07,860 --> 00:17:10,140
+Because the name could go either way.
+
+500
+00:17:10,140 --> 00:17:13,020
+I think usually played by a female, I would think.
+
+501
+00:17:13,020 --> 00:17:17,460
+Yeah, the costumes tend to run smaller, I saw.
+
+502
+00:17:17,460 --> 00:17:19,580
+Newer Red is kind of slimmer.
+
+503
+00:17:19,580 --> 00:17:21,300
+The one that you saw,
+
+504
+00:17:21,300 --> 00:17:23,180
+the one that you showed us in a puddle on the ground
+
+505
+00:17:23,180 --> 00:17:24,020
+was pretty slim.
+
+506
+00:17:24,020 --> 00:17:25,300
+So you're basically sort of,
+
+507
+00:17:25,300 --> 00:17:26,780
+you're saying like with Chuck E. Cheese
+
+508
+00:17:26,780 --> 00:17:28,860
+or any of these other, even McDonaldland characters,
+
+509
+00:17:28,860 --> 00:17:31,100
+like you have something going in.
+
+510
+00:17:31,100 --> 00:17:32,980
+You have a knowledge of the character beforehand.
+
+511
+00:17:32,980 --> 00:17:34,540
+You know sort of what to expect.
+
+512
+00:17:34,540 --> 00:17:36,660
+If the Hamburglar, first of all, this is a dream.
+
+513
+00:17:36,660 --> 00:17:40,100
+I never met the Hamburglar in person,
+
+514
+00:17:40,100 --> 00:17:42,260
+but if I did, I would know, I like this guy,
+
+515
+00:17:42,260 --> 00:17:44,540
+but I should be worried about him.
+
+516
+00:17:44,540 --> 00:17:46,420
+Yes, and he might get up to hijinks.
+
+517
+00:17:46,420 --> 00:17:48,340
+Exactly, you kind of know what to expect.
+
+518
+00:17:48,340 --> 00:17:49,780
+Even with Chuck E. Cheese, you know,
+
+519
+00:17:49,780 --> 00:17:52,820
+you kind of knew what to expect.
+
+520
+00:17:52,820 --> 00:17:53,660
+With Red Robin.
+
+521
+00:17:53,660 --> 00:17:56,060
+Even though we are characterization of him
+
+522
+00:17:56,060 --> 00:18:01,060
+is that he's kind of sly and lascivious or whatever.
+
+523
+00:18:02,220 --> 00:18:06,260
+But really he's just, he likes birthdays.
+
+524
+00:18:06,260 --> 00:18:07,460
+So he comes out in a tux,
+
+525
+00:18:07,460 --> 00:18:09,660
+and you know he's gonna be happy to see ya.
+
+526
+00:18:09,660 --> 00:18:11,020
+He's gonna be nice.
+
+527
+00:18:11,020 --> 00:18:14,780
+I guess Red is nice, but is he?
+
+528
+00:18:14,780 --> 00:18:15,940
+What is he?
+
+529
+00:18:15,940 --> 00:18:19,380
+Well, I mean, Red is, I think he probably,
+
+530
+00:18:19,380 --> 00:18:21,420
+it's a Mickey situation, we've talked about this before,
+
+531
+00:18:21,420 --> 00:18:23,700
+when Disney took away some of Mickey's personality
+
+532
+00:18:23,700 --> 00:18:25,100
+and his aggressiveness.
+
+533
+00:18:25,100 --> 00:18:28,220
+They wanna make a character that is,
+
+534
+00:18:28,220 --> 00:18:30,620
+you can basically imprint your own personality on them
+
+535
+00:18:30,620 --> 00:18:32,180
+because they don't have one.
+
+536
+00:18:32,180 --> 00:18:34,580
+So you can see what you wanna see in Red.
+
+537
+00:18:34,580 --> 00:18:38,060
+Red is sort of a mirror maybe to our inner selves.
+
+538
+00:18:38,060 --> 00:18:42,100
+So if you wanna see Red as like just sort of a nice person
+
+539
+00:18:42,100 --> 00:18:44,820
+who works, or a nice bird that works at the restaurant,
+
+540
+00:18:44,820 --> 00:18:46,340
+that's what you can see.
+
+541
+00:18:46,340 --> 00:18:50,540
+So it's really like, they're trying to keep Red neutral.
+
+542
+00:18:50,540 --> 00:18:53,100
+You know, number one, not to offend, I suppose.
+
+543
+00:18:53,100 --> 00:18:54,580
+You know, with like, you know,
+
+544
+00:18:54,580 --> 00:18:56,980
+Chucky's a lascivious, he's not lascivious.
+
+545
+00:18:56,980 --> 00:19:00,540
+He's not smoking a cigar or anything.
+
+546
+00:19:00,540 --> 00:19:03,260
+But then two, yeah, you also, like if you're a kid,
+
+547
+00:19:03,260 --> 00:19:06,180
+you can decide what Red's personality is.
+
+548
+00:19:06,180 --> 00:19:08,500
+Well, I got a couple thoughts about everything you're saying.
+
+549
+00:19:08,500 --> 00:19:09,340
+I know what you mean.
+
+550
+00:19:09,340 --> 00:19:10,580
+Maybe you're like, okay, if you're saying
+
+551
+00:19:10,580 --> 00:19:12,700
+that he's an aspirational, he's whatever you want.
+
+552
+00:19:12,700 --> 00:19:13,660
+He is aspirational.
+
+553
+00:19:13,660 --> 00:19:16,300
+I know you didn't say that, but I'm putting that on it.
+
+554
+00:19:17,260 --> 00:19:19,260
+What we know is that he walks around a restaurant,
+
+555
+00:19:19,260 --> 00:19:21,780
+everybody's like pointing at him, they're happy to see him.
+
+556
+00:19:21,780 --> 00:19:23,260
+Is that not what we want?
+
+557
+00:19:23,260 --> 00:19:25,420
+Maybe we don't wanna be huge celebrities,
+
+558
+00:19:25,420 --> 00:19:28,220
+but we wanna, it's like, you know, Scott entered the room,
+
+559
+00:19:28,220 --> 00:19:31,220
+everybody's like, hey, and Red has that.
+
+560
+00:19:31,220 --> 00:19:33,340
+Maybe though, I wasn't happy to see Red
+
+561
+00:19:33,340 --> 00:19:34,980
+because I didn't understand him.
+
+562
+00:19:34,980 --> 00:19:36,820
+What's it gonna be when he comes over here?
+
+563
+00:19:36,820 --> 00:19:38,220
+How would you, but here's a question.
+
+564
+00:19:38,220 --> 00:19:40,660
+Are you not, you're not happy to see him?
+
+565
+00:19:40,660 --> 00:19:42,140
+Because I'm trying to think of a scenario
+
+566
+00:19:42,140 --> 00:19:46,220
+where a person in a suit, in an animal suit,
+
+567
+00:19:47,060 --> 00:19:50,380
+the person in Clriz, the person in black and brown,
+
+568
+00:19:50,380 --> 00:19:53,940
+they turn red and they walk away waiting to be seen.
+
+569
+00:19:53,940 --> 00:19:56,260
+Let's say he's actually gay,
+
+570
+00:19:56,260 --> 00:19:59,700
+I don't really understand what your response would be.
+
+571
+00:20:00,300 --> 00:20:02,260
+Berkeley Bournemouth.
+
+572
+00:20:02,260 --> 00:20:03,380
+She would say no.
+
+573
+00:20:03,380 --> 00:20:04,420
+Charlotte McChesley, she would say to me,
+
+574
+00:20:04,420 --> 00:20:06,500
+no, she is gay.
+
+575
+00:20:06,500 --> 00:20:07,940
+We're kinda people like this,
+
+576
+00:20:07,940 --> 00:20:10,900
+into a different universe that are really beige
+
+577
+00:20:11,500 --> 00:20:14,300
+but women I know, daddy thinks are pretty white.
+
+578
+00:20:14,300 --> 00:20:16,220
+A restaurant, a water park,
+
+579
+00:20:18,220 --> 00:20:19,700
+I was gonna say toilet store,
+
+580
+00:20:19,700 --> 00:20:20,820
+that's not what I meant.
+
+581
+00:20:20,820 --> 00:20:23,820
+I meant like a appliance store.
+
+582
+00:20:23,820 --> 00:20:26,260
+And a big toilet is walking around.
+
+583
+00:20:26,260 --> 00:20:28,180
+I don't care if I'm at the toilet store.
+
+584
+00:20:28,180 --> 00:20:31,820
+If I'm somewhere and any suited character
+
+585
+00:20:31,820 --> 00:20:34,220
+emerges from any door,
+
+586
+00:20:34,220 --> 00:20:35,140
+they don't even have to work there.
+
+587
+00:20:35,140 --> 00:20:36,660
+If they come in the front door,
+
+588
+00:20:36,660 --> 00:20:38,780
+I mean, maybe if they're acting erratically,
+
+589
+00:20:38,780 --> 00:20:39,620
+I'll be a little scared.
+
+590
+00:20:39,620 --> 00:20:40,460
+But other than that,
+
+591
+00:20:40,460 --> 00:20:42,100
+if they're just like kind of waving their arms in general,
+
+592
+00:20:42,100 --> 00:20:43,620
+I'm going to be delighted.
+
+593
+00:20:43,660 --> 00:20:45,540
+It doesn't mean, it doesn't matter if it looks like shit.
+
+594
+00:20:45,540 --> 00:20:48,380
+It doesn't matter if the costume is old.
+
+595
+00:20:48,380 --> 00:20:50,980
+It doesn't matter what animal it is.
+
+596
+00:20:50,980 --> 00:20:53,460
+All suited characters are good.
+
+597
+00:20:53,460 --> 00:20:56,540
+Even the pervert Elmo in Times Square,
+
+598
+00:20:56,540 --> 00:20:57,740
+I'm just imagining,
+
+599
+00:20:57,740 --> 00:20:59,860
+like I'm just imagining hypothetical pervert
+
+600
+00:20:59,860 --> 00:21:00,820
+wearing an Elmo costume.
+
+601
+00:21:00,820 --> 00:21:02,380
+As long as he's not doing anything
+
+602
+00:21:02,380 --> 00:21:04,260
+and he just kind of looks gross and dirty,
+
+603
+00:21:04,260 --> 00:21:06,900
+he's still good as long as he's not committing any crimes.
+
+604
+00:21:06,900 --> 00:21:09,460
+You're happy just to see the suit itself is good.
+
+605
+00:21:09,460 --> 00:21:10,700
+The suit itself.
+
+606
+00:21:10,700 --> 00:21:13,340
+Yeah, let's take the person out of it just in case.
+
+607
+00:21:14,020 --> 00:21:16,260
+The suit and the idea that somebody would be walking around
+
+608
+00:21:16,260 --> 00:21:17,300
+in a suit is good.
+
+609
+00:21:17,300 --> 00:21:20,100
+Walking around in a suit is good no matter where it is.
+
+610
+00:21:20,100 --> 00:21:20,940
+Do you agree with me?
+
+611
+00:21:20,940 --> 00:21:23,380
+Yeah, I will stop what I'm doing and go like,
+
+612
+00:21:23,380 --> 00:21:24,500
+look, who's that?
+
+613
+00:21:24,500 --> 00:21:25,500
+What is that?
+
+614
+00:21:25,500 --> 00:21:28,500
+Especially if it's like, yeah, a small business
+
+615
+00:21:28,500 --> 00:21:32,820
+or like a one location place that invested some money
+
+616
+00:21:32,820 --> 00:21:36,260
+in getting a costume that a teenager's wearing.
+
+617
+00:21:36,260 --> 00:21:37,500
+Even better, yeah.
+
+618
+00:21:37,500 --> 00:21:39,540
+We have Charlie Chip at Fry's, of course.
+
+619
+00:21:39,540 --> 00:21:41,660
+That's a high level mascot.
+
+620
+00:21:41,700 --> 00:21:44,300
+So thrilled to hang out with Charlie Chip.
+
+621
+00:21:44,300 --> 00:21:46,420
+And I love that there's like kind of a weird,
+
+622
+00:21:46,420 --> 00:21:49,300
+that there would be the time taken
+
+623
+00:21:49,300 --> 00:21:53,460
+to put an IP into this original chain.
+
+624
+00:21:53,460 --> 00:21:54,700
+But I guess what I'm asking is like,
+
+625
+00:21:54,700 --> 00:21:55,700
+you're saying Red Robin,
+
+626
+00:21:55,700 --> 00:21:57,540
+like you don't know what Red's about.
+
+627
+00:21:57,540 --> 00:21:59,420
+Tell me, Charlie Chip is a microchip
+
+628
+00:21:59,420 --> 00:22:02,460
+who is a mascot for now defunct Fry's Electronics
+
+629
+00:22:02,460 --> 00:22:05,180
+and he's a smiling anthropomorphic microchip.
+
+630
+00:22:05,180 --> 00:22:08,700
+He's got arms and legs and a big red tongue.
+
+631
+00:22:08,700 --> 00:22:10,780
+Tell me what you know about Charlie Chip.
+
+632
+00:22:10,780 --> 00:22:12,660
+Well, he likes costumes.
+
+633
+00:22:12,660 --> 00:22:13,860
+He's in a different costume.
+
+634
+00:22:13,860 --> 00:22:14,700
+He likes?
+
+635
+00:22:14,700 --> 00:22:15,540
+Everywhere you see him.
+
+636
+00:22:15,540 --> 00:22:19,660
+So he is imbued with the spirit of the theme of the,
+
+637
+00:22:19,660 --> 00:22:22,660
+which might reflect the city of where they are.
+
+638
+00:22:22,660 --> 00:22:25,940
+So I think that Charlie Chip has a lot of regional pride
+
+639
+00:22:25,940 --> 00:22:27,300
+and he respects industry,
+
+640
+00:22:27,300 --> 00:22:30,020
+he's like the space industry or the entertainment industry
+
+641
+00:22:30,020 --> 00:22:31,140
+in different towns.
+
+642
+00:22:31,140 --> 00:22:32,060
+He's a cosplayer.
+
+643
+00:22:32,060 --> 00:22:33,540
+He likes to dress up.
+
+644
+00:22:33,540 --> 00:22:35,500
+Okay, so we know a little bit about him.
+
+645
+00:22:35,500 --> 00:22:36,740
+Yeah, there's something.
+
+646
+00:22:36,740 --> 00:22:37,580
+Yeah.
+
+647
+00:22:37,580 --> 00:22:38,420
+So there's something there.
+
+648
+00:22:38,420 --> 00:22:39,420
+Yeah.
+
+649
+00:22:39,420 --> 00:22:40,260
+I think it was more,
+
+650
+00:22:40,260 --> 00:22:41,500
+look, I agree with you now.
+
+651
+00:22:41,500 --> 00:22:44,260
+And look, I went to a Red Rob and I really wanted to see Red.
+
+652
+00:22:44,260 --> 00:22:46,380
+I was like, if I, the lottery would be
+
+653
+00:22:46,380 --> 00:22:49,140
+if I saw Red the Bird walking around today,
+
+654
+00:22:49,140 --> 00:22:52,140
+but it was a pretty like quiet 1130 lunch in Redondo Beach.
+
+655
+00:22:52,140 --> 00:22:54,260
+Oh yeah, Red in coming out.
+
+656
+00:22:54,260 --> 00:22:55,700
+So there's no, no, no, no.
+
+657
+00:22:55,700 --> 00:22:57,940
+But I think, but did you feel this way as a kid?
+
+658
+00:22:57,940 --> 00:23:00,940
+Because I was scared sometimes of mascots
+
+659
+00:23:00,940 --> 00:23:02,620
+even if I knew them.
+
+660
+00:23:02,620 --> 00:23:04,740
+You know, I know this character,
+
+661
+00:23:04,740 --> 00:23:08,620
+but what if they sit on me like the Pinocchio cat did?
+
+662
+00:23:08,620 --> 00:23:12,820
+Yeah, no, I was afraid of all the mascot character.
+
+663
+00:23:12,820 --> 00:23:13,660
+I was afraid.
+
+664
+00:23:13,660 --> 00:23:15,820
+I met the, look, I met the Ninja Turtles.
+
+665
+00:23:15,820 --> 00:23:20,820
+They signed my box of cookies when I was five, four or five.
+
+666
+00:23:20,900 --> 00:23:23,460
+And it was, I believe Donatello and Michelangelo.
+
+667
+00:23:23,460 --> 00:23:25,740
+And I'm trying to remember,
+
+668
+00:23:25,740 --> 00:23:28,860
+I think it was maybe a place called Cub Foods,
+
+669
+00:23:28,860 --> 00:23:31,380
+which is a grocery store that maybe is,
+
+670
+00:23:31,380 --> 00:23:32,220
+I don't think it's still around.
+
+671
+00:23:32,220 --> 00:23:33,980
+Ninja Turtles at Cub Foods today.
+
+672
+00:23:33,980 --> 00:23:34,820
+Yeah. Huge.
+
+673
+00:23:34,820 --> 00:23:35,940
+So we saw it.
+
+674
+00:23:35,940 --> 00:23:36,860
+It was, I think a weekend.
+
+675
+00:23:36,860 --> 00:23:38,340
+We went over there and I just remember
+
+676
+00:23:39,060 --> 00:23:41,500
+being in one of the aisles and peering out
+
+677
+00:23:41,500 --> 00:23:45,420
+and being like, oh my God, the Ninja Turtles are here.
+
+678
+00:23:45,420 --> 00:23:47,020
+They look a little fucked up today.
+
+679
+00:23:47,020 --> 00:23:48,460
+They look a little weird.
+
+680
+00:23:48,460 --> 00:23:50,260
+They look a little fluffy.
+
+681
+00:23:50,260 --> 00:23:51,100
+They're not talking.
+
+682
+00:23:51,100 --> 00:23:51,940
+You're different in person.
+
+683
+00:23:51,940 --> 00:23:53,620
+I've heard that about movie stars.
+
+684
+00:23:53,620 --> 00:23:54,740
+They're not talking.
+
+685
+00:23:54,740 --> 00:23:55,800
+They don't look like the movie.
+
+686
+00:23:55,800 --> 00:23:57,060
+They don't look like the cartoon.
+
+687
+00:23:57,060 --> 00:23:58,900
+But I guess this is what they look like.
+
+688
+00:23:58,900 --> 00:24:00,180
+Why else?
+
+689
+00:24:00,180 --> 00:24:02,700
+These aren't some imposters.
+
+690
+00:24:02,700 --> 00:24:04,140
+But I do remember being afraid.
+
+691
+00:24:04,140 --> 00:24:07,220
+Yeah, is Donatello gonna wail on me with his bowstaff?
+
+692
+00:24:07,220 --> 00:24:08,620
+I don't know.
+
+693
+00:24:08,620 --> 00:24:09,780
+I don't think he's gonna do that.
+
+694
+00:24:09,780 --> 00:24:10,620
+But there's always a chance
+
+695
+00:24:10,620 --> 00:24:11,620
+because they do have their,
+
+696
+00:24:11,620 --> 00:24:14,340
+I think they probably do not have their weapons on them.
+
+697
+00:24:14,340 --> 00:24:15,980
+But maybe.
+
+698
+00:24:15,980 --> 00:24:19,100
+The intimidation factor of meeting somebody famous.
+
+699
+00:24:19,100 --> 00:24:21,780
+Red is not famous, but Red's in the logo.
+
+700
+00:24:21,780 --> 00:24:24,340
+So you sense that Red is a big deal.
+
+701
+00:24:24,340 --> 00:24:25,180
+Yeah.
+
+702
+00:24:26,020 --> 00:24:27,900
+I remember, I think I've said this on the show before
+
+703
+00:24:27,900 --> 00:24:29,380
+that I was afraid of some of these characters,
+
+704
+00:24:29,380 --> 00:24:31,820
+but I was really excited to do a character breakfast.
+
+705
+00:24:31,820 --> 00:24:34,420
+But then I found a picture of me just full on
+
+706
+00:24:34,460 --> 00:24:37,140
+excitedly hugging Mickey or something.
+
+707
+00:24:37,140 --> 00:24:38,780
+And I think that's the thing with kids.
+
+708
+00:24:38,780 --> 00:24:40,100
+And that's what, at least for me,
+
+709
+00:24:40,100 --> 00:24:42,820
+was I was nervous, nervous, nervous, nervous, nervous.
+
+710
+00:24:42,820 --> 00:24:43,660
+I'm gonna hug you.
+
+711
+00:24:43,660 --> 00:24:44,480
+Oh, okay.
+
+712
+00:24:44,480 --> 00:24:45,320
+You go like.
+
+713
+00:24:45,320 --> 00:24:46,300
+Then in the moment you look.
+
+714
+00:24:46,300 --> 00:24:47,780
+Yeah, right before.
+
+715
+00:24:47,780 --> 00:24:49,340
+I don't think I hugged the Ninja Turtles,
+
+716
+00:24:49,340 --> 00:24:52,380
+but I definitely, you wanted to hug them.
+
+717
+00:24:52,380 --> 00:24:53,540
+Like I want to see Donatello,
+
+718
+00:24:53,540 --> 00:24:55,540
+but I can't.
+
+719
+00:24:55,540 --> 00:24:59,340
+I think, okay, when I saw Red coming.
+
+720
+00:24:59,340 --> 00:25:00,180
+And when was this?
+
+721
+00:25:00,180 --> 00:25:01,380
+When did you see Red coming?
+
+722
+00:25:02,500 --> 00:25:03,860
+Let's see.
+
+723
+00:25:03,860 --> 00:25:05,780
+When did I see Red coming?
+
+724
+00:25:06,740 --> 00:25:07,900
+Sounds like someone's name.
+
+725
+00:25:07,900 --> 00:25:10,660
+When would I have gone there?
+
+726
+00:25:10,660 --> 00:25:12,780
+I'm like in the eight or nine range
+
+727
+00:25:12,780 --> 00:25:14,140
+is what I'm imagining.
+
+728
+00:25:14,140 --> 00:25:14,980
+Okay.
+
+729
+00:25:14,980 --> 00:25:18,300
+Calabasas, it's called Lovies delicatessen now,
+
+730
+00:25:18,300 --> 00:25:20,460
+this freestanding Red Robin is no more.
+
+731
+00:25:20,460 --> 00:25:21,860
+Oh man.
+
+732
+00:25:21,860 --> 00:25:24,460
+Lovies seems fairly quality from what I could tell.
+
+733
+00:25:24,460 --> 00:25:28,660
+But like, so Red's coming table to table with a handler.
+
+734
+00:25:28,660 --> 00:25:30,660
+It's kind of like a wedding table to table,
+
+735
+00:25:30,660 --> 00:25:32,700
+which I think is kind of a stressful interaction.
+
+736
+00:25:32,700 --> 00:25:34,140
+You're trying to like get a moment,
+
+737
+00:25:34,140 --> 00:25:36,140
+even though there's a bunch of people with you.
+
+738
+00:25:36,140 --> 00:25:37,220
+But what do you even say?
+
+739
+00:25:37,220 --> 00:25:39,500
+Hey, well, you did it great.
+
+740
+00:25:39,500 --> 00:25:42,140
+Still awkward no matter what you're sitting there standing.
+
+741
+00:25:42,140 --> 00:25:43,100
+It's weird.
+
+742
+00:25:43,100 --> 00:25:44,260
+But here's the thing,
+
+743
+00:25:44,260 --> 00:25:47,940
+I think Red would come and sit at your table.
+
+744
+00:25:47,940 --> 00:25:49,260
+And that I think intimidated.
+
+745
+00:25:49,260 --> 00:25:50,460
+I was like, then what?
+
+746
+00:25:50,460 --> 00:25:51,300
+Then what's gonna happen?
+
+747
+00:25:51,300 --> 00:25:52,940
+Like it's Hooters?
+
+748
+00:25:52,940 --> 00:25:53,780
+Like, yeah.
+
+749
+00:25:53,780 --> 00:25:55,620
+The waitress would sit at your table at Hooters?
+
+750
+00:25:55,620 --> 00:25:57,780
+A lot of chain restaurants were doing that for a while.
+
+751
+00:25:57,780 --> 00:25:59,580
+Like I feel like Outback would do that.
+
+752
+00:25:59,580 --> 00:26:00,700
+They would pull up a chair.
+
+753
+00:26:00,700 --> 00:26:02,020
+Yeah, you're right, Outback would do that as well.
+
+754
+00:26:02,020 --> 00:26:04,340
+Maybe like in the cool teacher way.
+
+755
+00:26:04,340 --> 00:26:07,620
+Cause there, I feel like you encountered Red.
+
+756
+00:26:07,620 --> 00:26:09,980
+Red made enough of an impression that like,
+
+757
+00:26:09,980 --> 00:26:10,820
+there was an episode.
+
+758
+00:26:10,820 --> 00:26:12,420
+Enough to be here today doing this.
+
+759
+00:26:12,420 --> 00:26:14,100
+There was an episode recently where,
+
+760
+00:26:14,100 --> 00:26:15,740
+and we talk about it on the episode,
+
+761
+00:26:15,740 --> 00:26:18,540
+where you were very concerned for a couple days.
+
+762
+00:26:18,540 --> 00:26:20,300
+Like, is there, there, there?
+
+763
+00:26:20,300 --> 00:26:22,380
+Like, is there enough here?
+
+764
+00:26:22,380 --> 00:26:24,620
+But Red, you were very confident.
+
+765
+00:26:24,620 --> 00:26:27,300
+You never dropped, you never were like, it's like,
+
+766
+00:26:27,300 --> 00:26:28,340
+oh, I got it. That's a very good point.
+
+767
+00:26:28,340 --> 00:26:30,140
+Oh, no, no, no, no, not at all.
+
+768
+00:26:30,140 --> 00:26:31,540
+I still today was thinking,
+
+769
+00:26:31,540 --> 00:26:33,420
+because you know what a listener suggested this.
+
+770
+00:26:33,420 --> 00:26:35,460
+And I was thinking, do I name the listener?
+
+771
+00:26:35,460 --> 00:26:36,340
+I don't think I do,
+
+772
+00:26:36,340 --> 00:26:37,900
+because I don't want to put this on them.
+
+773
+00:26:37,900 --> 00:26:41,500
+If the Red episode happens and the Red episode is nothing,
+
+774
+00:26:41,500 --> 00:26:43,060
+I don't want that on this listener.
+
+775
+00:26:43,060 --> 00:26:45,620
+This is Scott's folly through and through,
+
+776
+00:26:45,620 --> 00:26:46,820
+if nobody cares about Red.
+
+777
+00:26:46,820 --> 00:26:47,660
+I think so.
+
+778
+00:26:47,660 --> 00:26:49,500
+We've gotten gold out of folly before.
+
+779
+00:26:49,500 --> 00:26:50,340
+That's why I'm gold.
+
+780
+00:26:50,340 --> 00:26:51,260
+A folly can be good.
+
+781
+00:26:51,260 --> 00:26:53,900
+A folly does not always end in despair.
+
+782
+00:26:53,900 --> 00:26:54,900
+I think this suggests though,
+
+783
+00:26:54,900 --> 00:26:58,260
+that you do on some, maybe next level,
+
+784
+00:26:58,260 --> 00:27:00,020
+have some appreciation. Primordial level.
+
+785
+00:27:00,180 --> 00:27:02,020
+Something that you're not even in touch with,
+
+786
+00:27:02,020 --> 00:27:04,500
+you are connected to Red because of your-
+
+787
+00:27:04,500 --> 00:27:05,460
+Oh, the fact that I said,
+
+788
+00:27:05,460 --> 00:27:07,260
+there was no question to me when I saw the tweet.
+
+789
+00:27:07,260 --> 00:27:08,500
+You saw it and you want to talk about Red?
+
+790
+00:27:08,500 --> 00:27:10,260
+I need to talk about Red.
+
+791
+00:27:10,260 --> 00:27:12,540
+We need to figure out exactly what it is,
+
+792
+00:27:12,540 --> 00:27:14,860
+if there's some sort of childhood thing linked to Red.
+
+793
+00:27:14,860 --> 00:27:18,620
+Did you like Cardinals or Robbins as a child?
+
+794
+00:27:18,620 --> 00:27:20,060
+Red character?
+
+795
+00:27:20,060 --> 00:27:21,940
+He never got to Birdwatch.
+
+796
+00:27:21,940 --> 00:27:23,100
+Elmo?
+
+797
+00:27:23,100 --> 00:27:24,620
+I mean, Elmo's a little after our time.
+
+798
+00:27:24,620 --> 00:27:25,460
+Yeah, a little bit.
+
+799
+00:27:25,460 --> 00:27:26,300
+As far as being so popular.
+
+800
+00:27:26,300 --> 00:27:27,900
+You're probably Elmo now.
+
+801
+00:27:27,900 --> 00:27:29,260
+I think, well, okay.
+
+802
+00:27:29,700 --> 00:27:30,820
+I think it's the confusion.
+
+803
+00:27:30,820 --> 00:27:33,420
+It's that I just didn't know what to do and maybe then,
+
+804
+00:27:33,420 --> 00:27:35,980
+I've blacked out on what the actual Red interaction was.
+
+805
+00:27:35,980 --> 00:27:38,460
+I don't know what happened when he got there.
+
+806
+00:27:38,460 --> 00:27:41,420
+But none of it, the awkwardness of Red
+
+807
+00:27:41,420 --> 00:27:43,820
+was never enough to make me not like Red Robin,
+
+808
+00:27:43,820 --> 00:27:45,740
+which up until recently, I was still saying,
+
+809
+00:27:45,740 --> 00:27:47,780
+oh, Red Robins are kind of good.
+
+810
+00:27:47,780 --> 00:27:51,340
+And then I said this, you know,
+
+811
+00:27:51,340 --> 00:27:54,220
+10 or so years ago to Erin, my wife,
+
+812
+00:27:54,220 --> 00:27:56,100
+and she said, Red Robin, Jesus.
+
+813
+00:27:56,100 --> 00:27:56,940
+And I said, what?
+
+814
+00:27:56,940 --> 00:27:57,900
+What do you have against Red Robin?
+
+815
+00:27:58,060 --> 00:28:01,300
+And she told a story that unlocks a lot.
+
+816
+00:28:01,300 --> 00:28:03,060
+And this is really what I really wanted to talk about.
+
+817
+00:28:03,060 --> 00:28:08,060
+So this is maybe what happens when Red is around.
+
+818
+00:28:08,460 --> 00:28:11,420
+So Red comes out.
+
+819
+00:28:11,420 --> 00:28:14,220
+She's there with her family,
+
+820
+00:28:14,220 --> 00:28:15,940
+with her mom who listens to the show.
+
+821
+00:28:15,940 --> 00:28:17,300
+Hi.
+
+822
+00:28:17,300 --> 00:28:19,780
+She, Erin's mom got a gift certificate
+
+823
+00:28:19,780 --> 00:28:22,260
+for helping out with the soccer program.
+
+824
+00:28:22,260 --> 00:28:25,100
+So they have a free meal waiting for them at Red Robin.
+
+825
+00:28:25,100 --> 00:28:28,380
+But I think that she's not necessarily excited
+
+826
+00:28:28,380 --> 00:28:29,900
+because she's like, I will do the free meal,
+
+827
+00:28:29,900 --> 00:28:32,220
+but I have a sense that I'm not really gonna like it here.
+
+828
+00:28:32,220 --> 00:28:34,140
+Is it kind of a kid's zoo restaurant?
+
+829
+00:28:34,140 --> 00:28:35,860
+Is the food maybe not very good?
+
+830
+00:28:35,860 --> 00:28:38,100
+So she's coming in with a little bit of prejudice
+
+831
+00:28:38,100 --> 00:28:40,540
+towards the Red Robin experience.
+
+832
+00:28:40,540 --> 00:28:42,460
+Then they get to their booth,
+
+833
+00:28:42,460 --> 00:28:45,380
+Red comes out and Red sits down with them.
+
+834
+00:28:45,380 --> 00:28:49,980
+So Red is just fully part of the table now.
+
+835
+00:28:49,980 --> 00:28:52,340
+Erin's mom, Erin and her sister
+
+836
+00:28:52,340 --> 00:28:55,900
+starts musing up hair of both kids,
+
+837
+00:28:55,900 --> 00:28:57,660
+which is that's a little invasive
+
+838
+00:28:57,660 --> 00:28:59,420
+and a little bit like, eh, okay.
+
+839
+00:28:59,420 --> 00:29:01,700
+Again, maybe you'd let Mickey do it.
+
+840
+00:29:01,700 --> 00:29:03,500
+But Red, I just met you.
+
+841
+00:29:03,500 --> 00:29:06,580
+I know you're in this red circle in front of the restaurant,
+
+842
+00:29:06,580 --> 00:29:09,460
+but why should I be okay with you musing my hair?
+
+843
+00:29:09,460 --> 00:29:10,940
+What if you're not good?
+
+844
+00:29:10,940 --> 00:29:14,660
+And then I think he proved that he is not good because,
+
+845
+00:29:14,660 --> 00:29:16,940
+so they're already like, okay, stop, stop with the hair.
+
+846
+00:29:16,940 --> 00:29:18,700
+And then he's like, hmm.
+
+847
+00:29:18,700 --> 00:29:23,700
+And then he puts his hand down into their bottomless fries.
+
+848
+00:29:23,780 --> 00:29:24,620
+Nope.
+
+849
+00:29:24,620 --> 00:29:25,460
+Nope.
+
+850
+00:29:26,780 --> 00:29:28,740
+And he rubs his hand around.
+
+851
+00:29:28,740 --> 00:29:29,580
+What?
+
+852
+00:29:29,580 --> 00:29:30,900
+And then starts pantomiming,
+
+853
+00:29:30,900 --> 00:29:33,460
+bruh bruh bruh, like you're saying, non-verbal.
+
+854
+00:29:33,460 --> 00:29:35,900
+You're not supposed to touch and then pantomime.
+
+855
+00:29:35,900 --> 00:29:39,060
+You're supposed to pantomime the whole time or touch
+
+856
+00:29:39,060 --> 00:29:42,540
+and then cram it in your weird character mouth.
+
+857
+00:29:42,540 --> 00:29:43,860
+Yeah, yeah, yeah, sure.
+
+858
+00:29:43,860 --> 00:29:45,780
+Well, and then immediately the handler's
+
+859
+00:29:45,780 --> 00:29:48,340
+gotta get new fries out there.
+
+860
+00:29:49,180 --> 00:29:53,060
+But instead he does that and then just gets up and leaves.
+
+861
+00:29:53,060 --> 00:29:55,740
+And I don't think anyone noticed that the hands were put in.
+
+862
+00:29:55,740 --> 00:29:57,780
+Aaron's mom is like looking at the hand now.
+
+863
+00:29:57,780 --> 00:29:59,620
+It is visibly dirty.
+
+864
+00:29:59,620 --> 00:30:02,820
+Just this crusty red felt hand.
+
+865
+00:30:02,820 --> 00:30:03,660
+Oh my God.
+
+866
+00:30:03,660 --> 00:30:05,940
+And I don't know that this is how it ended.
+
+867
+00:30:05,940 --> 00:30:07,940
+Aaron is not sure, but I think it is possible
+
+868
+00:30:07,940 --> 00:30:09,860
+that the response to this was just putting
+
+869
+00:30:09,860 --> 00:30:11,780
+all the gift certificates on the table,
+
+870
+00:30:11,780 --> 00:30:13,740
+getting up and leaving.
+
+871
+00:30:13,740 --> 00:30:15,420
+And that was the end of Red Robin.
+
+872
+00:30:15,420 --> 00:30:16,820
+Aaron certainly never went back.
+
+873
+00:30:16,820 --> 00:30:18,940
+Aaron's mom definitely did not go back.
+
+874
+00:30:18,940 --> 00:30:20,540
+That was the end of that.
+
+875
+00:30:20,540 --> 00:30:21,660
+That is for sure.
+
+876
+00:30:21,660 --> 00:30:24,260
+That is, okay, here we now know one thing about Red.
+
+877
+00:30:24,260 --> 00:30:25,940
+He is a health code violator.
+
+878
+00:30:25,940 --> 00:30:27,260
+Wow, Red.
+
+879
+00:30:28,580 --> 00:30:29,820
+That's weird.
+
+880
+00:30:29,820 --> 00:30:31,060
+Don't do that.
+
+881
+00:30:31,060 --> 00:30:33,860
+They need to eat these fries.
+
+882
+00:30:33,860 --> 00:30:36,220
+And what's the gunk on his hand from?
+
+883
+00:30:36,220 --> 00:30:40,060
+Is it oil from previous fry experiences?
+
+884
+00:30:40,060 --> 00:30:43,300
+Well, there's so many questions that need to be asked.
+
+885
+00:30:43,300 --> 00:30:45,980
+Like is that, yeah, was Red doing that all night?
+
+886
+00:30:45,980 --> 00:30:47,420
+Was he trying to get fired?
+
+887
+00:30:47,420 --> 00:30:48,260
+What was the?
+
+888
+00:30:48,260 --> 00:30:50,060
+That's not a bad thought.
+
+889
+00:30:50,060 --> 00:30:50,900
+Cause that is.
+
+890
+00:30:50,900 --> 00:30:53,460
+I mean, you would want, if you were Red,
+
+891
+00:30:53,460 --> 00:30:57,620
+I read a story even, I read a story about Red
+
+892
+00:30:57,620 --> 00:31:00,740
+about a guy who worked at a Denver location
+
+893
+00:31:00,740 --> 00:31:03,860
+who was made to be Red for something that they needed
+
+894
+00:31:03,860 --> 00:31:05,940
+and to go pass out onion ring coupons
+
+895
+00:31:05,940 --> 00:31:07,620
+outside of a movie theater.
+
+896
+00:31:07,620 --> 00:31:10,340
+And it was so humiliating and everybody was awful to him.
+
+897
+00:31:10,340 --> 00:31:14,060
+And like, I hope they're paying you well in there,
+
+898
+00:31:14,060 --> 00:31:15,300
+whoever that is in there.
+
+899
+00:31:15,300 --> 00:31:16,420
+And he's like, they aren't.
+
+900
+00:31:16,420 --> 00:31:18,220
+And it's just nothing but unpleasant.
+
+901
+00:31:18,220 --> 00:31:20,940
+And he just does like a half hour of it
+
+902
+00:31:20,940 --> 00:31:22,580
+and walks back and quits on the spot.
+
+903
+00:31:22,580 --> 00:31:23,420
+Wow.
+
+904
+00:31:23,420 --> 00:31:24,780
+Do not need to be doing this.
+
+905
+00:31:24,780 --> 00:31:27,820
+Maybe I'm not an adult, but I have dignity.
+
+906
+00:31:27,820 --> 00:31:30,060
+And the manager is like, I'm sick of you,
+
+907
+00:31:30,060 --> 00:31:31,860
+goddamn lazy kids.
+
+908
+00:31:31,860 --> 00:31:33,380
+Wow.
+
+909
+00:31:33,380 --> 00:31:34,780
+But he walks out.
+
+910
+00:31:34,780 --> 00:31:39,780
+So Red, being Red, turning Red has made people quit before.
+
+911
+00:31:42,260 --> 00:31:44,740
+So maybe, yeah, that could have been like,
+
+912
+00:31:44,740 --> 00:31:46,300
+what can I do today?
+
+913
+00:31:46,300 --> 00:31:47,540
+I'm gonna touch the children.
+
+914
+00:31:47,540 --> 00:31:50,300
+Because they might tell you day one, don't touch the kids.
+
+915
+00:31:50,300 --> 00:31:51,900
+Two, don't touch the food.
+
+916
+00:31:51,900 --> 00:31:54,420
+And maybe he's like, I'm doing the whole checklist today.
+
+917
+00:31:54,420 --> 00:31:55,980
+And then I'm out of here.
+
+918
+00:31:55,980 --> 00:31:56,900
+That, wow, yeah.
+
+919
+00:31:56,900 --> 00:32:00,700
+Cause like that's, so what year will they mess up hair?
+
+920
+00:32:00,700 --> 00:32:01,700
+What year are we talking about?
+
+921
+00:32:01,700 --> 00:32:02,540
+Cause I feel like you-
+
+922
+00:32:02,540 --> 00:32:03,460
+95, 96.
+
+923
+00:32:03,460 --> 00:32:05,180
+Mascots probably, I mean, mascots, look,
+
+924
+00:32:05,180 --> 00:32:06,540
+we know hugs are back.
+
+925
+00:32:06,540 --> 00:32:08,580
+Is hair muscing back?
+
+926
+00:32:08,580 --> 00:32:09,580
+Should it be?
+
+927
+00:32:09,580 --> 00:32:14,500
+I think there's like, I think it's expected at Disney.
+
+928
+00:32:14,500 --> 00:32:17,100
+If you're meeting like the bear
+
+929
+00:32:17,100 --> 00:32:19,860
+at like the local ice cream store,
+
+930
+00:32:19,860 --> 00:32:23,340
+if you're meeting like Rocky Road, the bear,
+
+931
+00:32:23,340 --> 00:32:26,940
+a bear that only exists at like three ice cream stores,
+
+932
+00:32:26,940 --> 00:32:29,340
+and there's one costume that floats between them.
+
+933
+00:32:29,340 --> 00:32:31,780
+I think you would wanna-
+
+934
+00:32:31,780 --> 00:32:32,620
+Hands off the children?
+
+935
+00:32:32,620 --> 00:32:33,460
+Hands off.
+
+936
+00:32:33,460 --> 00:32:34,820
+Like, I don't think, you know,
+
+937
+00:32:34,820 --> 00:32:36,300
+say what you will about those silly old
+
+938
+00:32:36,300 --> 00:32:38,100
+Chuck E. Cheese training videos.
+
+939
+00:32:38,100 --> 00:32:39,380
+They are pretty thorough.
+
+940
+00:32:39,380 --> 00:32:40,500
+Here's how to clean the costume.
+
+941
+00:32:40,500 --> 00:32:41,340
+Here's how to wear it.
+
+942
+00:32:41,340 --> 00:32:43,180
+Here's how to behave in the costume.
+
+943
+00:32:43,180 --> 00:32:44,740
+Like they were on top of stuff.
+
+944
+00:32:44,740 --> 00:32:46,620
+Chuck has touched my hair though, I think.
+
+945
+00:32:46,620 --> 00:32:50,660
+Yeah, Chuck, but I feel like Chuck and bigger theme parks,
+
+946
+00:32:50,660 --> 00:32:52,580
+there's an expectation that like,
+
+947
+00:32:52,580 --> 00:32:54,180
+oh, they're gonna be a little more friendly.
+
+948
+00:32:54,180 --> 00:32:56,380
+They're gonna be a little more like,
+
+949
+00:32:56,380 --> 00:33:00,180
+I don't know that like the dirty ice cream, icy mascot,
+
+950
+00:33:00,180 --> 00:33:01,820
+like at the local-
+
+951
+00:33:01,820 --> 00:33:03,260
+Oh, or a slush puppy.
+
+952
+00:33:03,260 --> 00:33:04,460
+Strawberry festival.
+
+953
+00:33:04,460 --> 00:33:06,220
+That's the name of the icy character?
+
+954
+00:33:06,220 --> 00:33:08,500
+He's the name of the slush puppy.
+
+955
+00:33:08,500 --> 00:33:10,180
+There's a different type of icy called slush puppy.
+
+956
+00:33:10,180 --> 00:33:12,020
+Oh, sorry, icy has a bear.
+
+957
+00:33:12,060 --> 00:33:14,620
+Icy has a bear, which I don't know the name of the icy bear.
+
+958
+00:33:14,620 --> 00:33:15,460
+Yeah, I only know the bear.
+
+959
+00:33:15,460 --> 00:33:16,820
+I just call him icy bear.
+
+960
+00:33:16,820 --> 00:33:17,820
+He's cool.
+
+961
+00:33:17,820 --> 00:33:19,900
+Is icy bear's name icy bear?
+
+962
+00:33:19,900 --> 00:33:21,180
+Let's see here.
+
+963
+00:33:21,180 --> 00:33:22,740
+I think it says it's small.
+
+964
+00:33:22,740 --> 00:33:24,060
+Like if you look at an icy cup,
+
+965
+00:33:24,060 --> 00:33:25,860
+it's just kind of a pro of nothing.
+
+966
+00:33:25,860 --> 00:33:27,260
+It's just like-
+
+967
+00:33:27,260 --> 00:33:29,740
+Oh, his name is John 360.
+
+968
+00:33:29,740 --> 00:33:30,860
+Interesting.
+
+969
+00:33:30,860 --> 00:33:33,020
+It looks like his name is icy bear, yes.
+
+970
+00:33:33,020 --> 00:33:36,460
+But slush puppy is a different type of icy,
+
+971
+00:33:36,460 --> 00:33:40,620
+which was my favorite of all the slushies as a child.
+
+972
+00:33:40,660 --> 00:33:44,460
+And now I feel like a slush puppy
+
+973
+00:33:44,460 --> 00:33:47,020
+is now being marketed more lately.
+
+974
+00:33:47,020 --> 00:33:47,860
+So I'm excited about that.
+
+975
+00:33:47,860 --> 00:33:49,020
+More slush puppy forward.
+
+976
+00:33:49,020 --> 00:33:50,700
+So yeah, you don't want,
+
+977
+00:33:50,700 --> 00:33:52,100
+I think you need familiarity.
+
+978
+00:33:52,100 --> 00:33:52,940
+It helps.
+
+979
+00:33:52,940 --> 00:33:53,780
+It doesn't forgive.
+
+980
+00:33:53,780 --> 00:33:54,860
+Oh, I like slush puppy.
+
+981
+00:33:54,860 --> 00:33:56,260
+Slush puppy's pretty old school.
+
+982
+00:33:56,260 --> 00:33:57,940
+I like that I want a shirt.
+
+983
+00:33:57,940 --> 00:33:59,740
+Yeah, they're the people that are making them.
+
+984
+00:33:59,740 --> 00:34:00,580
+You can get one.
+
+985
+00:34:00,580 --> 00:34:01,420
+I'll do it.
+
+986
+00:34:01,420 --> 00:34:02,260
+I'll get a slush puppy shirt.
+
+987
+00:34:02,260 --> 00:34:04,340
+I didn't grow up with slush puppy.
+
+988
+00:34:04,340 --> 00:34:08,100
+But isn't that like, don't touch the fries.
+
+989
+00:34:08,100 --> 00:34:10,500
+That'll color your impression of a whole franchise
+
+990
+00:34:11,380 --> 00:34:15,660
+if one rogue red decides to rub his dirty mitts
+
+991
+00:34:15,660 --> 00:34:17,300
+all over your fries.
+
+992
+00:34:17,300 --> 00:34:18,980
+Don't care if they're bottomless.
+
+993
+00:34:18,980 --> 00:34:20,860
+What if he rubbed all of them?
+
+994
+00:34:20,860 --> 00:34:22,460
+I don't know what he's doing back there.
+
+995
+00:34:22,460 --> 00:34:24,540
+He might have rubbed the raw potatoes.
+
+996
+00:34:24,540 --> 00:34:27,980
+He might have rubbed each one as it came out of the sack.
+
+997
+00:34:29,780 --> 00:34:32,260
+I would have been traumatized by that.
+
+998
+00:34:32,260 --> 00:34:34,780
+That would have been so traumatic because we were so,
+
+999
+00:34:34,780 --> 00:34:39,020
+like my mom was so like obsessed
+
+1000
+00:34:39,020 --> 00:34:41,140
+with people touching things with like bare,
+
+1001
+00:34:41,140 --> 00:34:42,900
+their bare human hands.
+
+1002
+00:34:42,900 --> 00:34:46,540
+If she saw somebody like handle like a fast food
+
+1003
+00:34:46,540 --> 00:34:48,380
+with a bare hands, we would get the food,
+
+1004
+00:34:48,380 --> 00:34:50,780
+we'd pay for it and then she would throw it away.
+
+1005
+00:34:50,780 --> 00:34:51,620
+Like.
+
+1006
+00:34:51,620 --> 00:34:52,740
+She would still get it though.
+
+1007
+00:34:52,740 --> 00:34:53,580
+Yeah, yeah.
+
+1008
+00:34:53,580 --> 00:34:54,420
+Uh-huh.
+
+1009
+00:34:54,420 --> 00:34:56,820
+So like there were times when she would like see somebody
+
+1010
+00:34:56,820 --> 00:34:59,700
+like she, when she felt like somebody wasn't being hygienic
+
+1011
+00:34:59,700 --> 00:35:01,820
+or something behind a counter and she would like,
+
+1012
+00:35:01,820 --> 00:35:03,100
+she'd be like, all right, we're not eating this.
+
+1013
+00:35:03,100 --> 00:35:04,460
+And she would throw the food away.
+
+1014
+00:35:04,460 --> 00:35:09,060
+This is ironically different than your edginess
+
+1015
+00:35:09,060 --> 00:35:11,100
+about wasting food or anybody knowing
+
+1016
+00:35:11,100 --> 00:35:12,500
+you didn't finish your plate.
+
+1017
+00:35:12,500 --> 00:35:13,340
+Well, yeah.
+
+1018
+00:35:13,340 --> 00:35:15,140
+I mean, maybe if I had seen them like,
+
+1019
+00:35:15,140 --> 00:35:18,100
+like rubbing the food with their bare hands,
+
+1020
+00:35:18,100 --> 00:35:21,060
+like excessively, I suppose, maybe.
+
+1021
+00:35:21,060 --> 00:35:21,900
+But yes.
+
+1022
+00:35:21,900 --> 00:35:24,700
+If there was a character, the mini monster at CityWalk
+
+1023
+00:35:24,700 --> 00:35:27,820
+who dipped his full hand into your boba shake.
+
+1024
+00:35:27,820 --> 00:35:28,820
+Yeah, yeah.
+
+1025
+00:35:28,820 --> 00:35:31,260
+That, yes, that would have been, yeah, too much.
+
+1026
+00:35:31,260 --> 00:35:32,220
+I mean, I'll still do it.
+
+1027
+00:35:32,220 --> 00:35:33,980
+There was over here though,
+
+1028
+00:35:34,420 --> 00:35:37,140
+the one and the only times I tried Wiener Schnitzel,
+
+1029
+00:35:37,140 --> 00:35:38,620
+somebody was really sweating
+
+1030
+00:35:38,620 --> 00:35:39,980
+when they were giving me the food.
+
+1031
+00:35:39,980 --> 00:35:41,460
+And I was like, no, thank you.
+
+1032
+00:35:41,460 --> 00:35:43,180
+And I paid for it and I threw it away.
+
+1033
+00:35:43,180 --> 00:35:45,460
+You guys said before, my,
+
+1034
+00:35:45,460 --> 00:35:46,540
+maybe I said this a long time ago,
+
+1035
+00:35:46,540 --> 00:35:48,940
+but my parents found a piece of broken glass.
+
+1036
+00:35:48,940 --> 00:35:49,780
+Oh.
+
+1037
+00:35:49,780 --> 00:35:51,380
+It might've been that Wiener Schnitzel,
+
+1038
+00:35:51,380 --> 00:35:52,220
+the Burmese Wiener Schnitzel.
+
+1039
+00:35:52,220 --> 00:35:53,860
+The one across from the Tonight Show?
+
+1040
+00:35:53,860 --> 00:35:54,820
+I think possibly.
+
+1041
+00:35:54,820 --> 00:35:55,660
+Yeah.
+
+1042
+00:35:55,660 --> 00:35:58,420
+Which I think I still have never been to Wiener Schnitzel.
+
+1043
+00:35:58,420 --> 00:36:01,620
+That again, it is, you only get one chance at any of these.
+
+1044
+00:36:01,620 --> 00:36:02,900
+Broken glass is bad.
+
+1045
+00:36:02,900 --> 00:36:05,220
+Red touching the food, the fries is bad.
+
+1046
+00:36:05,220 --> 00:36:06,820
+A chunk of metal.
+
+1047
+00:36:06,820 --> 00:36:08,180
+I've heard of that one.
+
+1048
+00:36:08,180 --> 00:36:10,020
+And a Wiener Schnitzel or something.
+
+1049
+00:36:10,020 --> 00:36:11,460
+No, like McDonald's or something.
+
+1050
+00:36:11,460 --> 00:36:12,300
+Oh yeah, sure.
+
+1051
+00:36:12,300 --> 00:36:14,460
+Rat cooked in the hot dog.
+
+1052
+00:36:14,460 --> 00:36:18,780
+I saw a full cockroach in a Cheesecake Factory salad
+
+1053
+00:36:18,780 --> 00:36:20,060
+when I was a kid. Wow.
+
+1054
+00:36:20,060 --> 00:36:21,820
+My friend next to me,
+
+1055
+00:36:21,820 --> 00:36:25,580
+but like revealed with like perfectly big leaves
+
+1056
+00:36:25,580 --> 00:36:27,140
+kind of were pulled out of the way.
+
+1057
+00:36:27,140 --> 00:36:31,580
+And then just like upside down, dead, giant cockroach.
+
+1058
+00:36:32,540 --> 00:36:33,940
+I love the Cheesecake Factory now.
+
+1059
+00:36:33,940 --> 00:36:35,980
+Thank God you recovered because again,
+
+1060
+00:36:35,980 --> 00:36:38,700
+these are things as a kid that can traumatize you.
+
+1061
+00:36:38,700 --> 00:36:41,220
+Like I've talked about, I threw up
+
+1062
+00:36:41,220 --> 00:36:43,580
+and the last thing I ate was a corn dog when I was a kid.
+
+1063
+00:36:43,580 --> 00:36:46,780
+I have not had a corn dog to this day because of that.
+
+1064
+00:36:46,780 --> 00:36:47,780
+Wow.
+
+1065
+00:36:47,780 --> 00:36:50,420
+So like if a Shoney bear came out
+
+1066
+00:36:50,420 --> 00:36:53,100
+and grabbed the corn dog rubbed on his butthole or something,
+
+1067
+00:36:53,100 --> 00:36:56,900
+I would feel like never eating corn dog again.
+
+1068
+00:36:56,900 --> 00:36:59,700
+Not eating Shoney bear's butthole corn dog.
+
+1069
+00:37:00,100 --> 00:37:02,980
+One of the worst like food illnesses I ever got
+
+1070
+00:37:02,980 --> 00:37:07,380
+was from a big, thick, buttery slice of pizza
+
+1071
+00:37:07,380 --> 00:37:10,940
+from the Getty Center from a school field trip.
+
+1072
+00:37:10,940 --> 00:37:14,260
+And it was the new Getty Center with the tram
+
+1073
+00:37:14,260 --> 00:37:15,420
+when it was brand new.
+
+1074
+00:37:15,420 --> 00:37:17,260
+Why would that have gotten me so sick?
+
+1075
+00:37:17,260 --> 00:37:18,100
+I don't know.
+
+1076
+00:37:18,100 --> 00:37:20,180
+So that's why I didn't see that movie
+
+1077
+00:37:20,180 --> 00:37:22,380
+that Kevin Spacey got removed from.
+
+1078
+00:37:22,380 --> 00:37:25,380
+It wasn't protest over Spacey getting removed.
+
+1079
+00:37:25,380 --> 00:37:26,220
+You could have hit it though.
+
+1080
+00:37:26,220 --> 00:37:27,580
+It's not why I didn't see it.
+
+1081
+00:37:27,580 --> 00:37:29,020
+And I'm sick of people saying it.
+
+1082
+00:37:29,020 --> 00:37:30,980
+It's because of the butter pizza.
+
+1083
+00:37:30,980 --> 00:37:31,860
+The butter pizza, yeah.
+
+1084
+00:37:31,860 --> 00:37:33,860
+So yeah, I get that.
+
+1085
+00:37:33,860 --> 00:37:35,220
+And I get that Red,
+
+1086
+00:37:35,220 --> 00:37:39,220
+who doesn't have a ton of presence on commercials,
+
+1087
+00:37:39,220 --> 00:37:41,060
+literally it's up to the performer
+
+1088
+00:37:41,060 --> 00:37:43,860
+who's being paid minimum wage in a Red Robin
+
+1089
+00:37:43,860 --> 00:37:46,300
+to shape your opinion of the mascot.
+
+1090
+00:37:46,300 --> 00:37:47,140
+Yeah.
+
+1091
+00:37:47,140 --> 00:37:50,260
+You tell me, show me what you are with your actions,
+
+1092
+00:37:50,260 --> 00:37:51,940
+but not with your dialogue.
+
+1093
+00:37:51,940 --> 00:37:53,620
+You don't talk.
+
+1094
+00:37:53,620 --> 00:37:56,260
+So yeah, next time you're at the Red Robin,
+
+1095
+00:37:56,260 --> 00:37:57,980
+like the Glenda at the Galleria or something,
+
+1096
+00:37:57,980 --> 00:37:58,820
+I mean, you could ask.
+
+1097
+00:37:59,660 --> 00:38:00,500
+That one's gone by the way.
+
+1098
+00:38:00,500 --> 00:38:01,340
+What?
+
+1099
+00:38:01,340 --> 00:38:02,500
+There's no Glendale.
+
+1100
+00:38:02,500 --> 00:38:03,340
+No.
+
+1101
+00:38:03,340 --> 00:38:04,180
+How long has that been gone?
+
+1102
+00:38:04,180 --> 00:38:05,380
+I think a long time now.
+
+1103
+00:38:05,380 --> 00:38:06,420
+Five years?
+
+1104
+00:38:06,420 --> 00:38:09,580
+That's the one I had that I probably eaten at the most.
+
+1105
+00:38:09,580 --> 00:38:10,420
+Yeah.
+
+1106
+00:38:10,420 --> 00:38:11,260
+Yeah.
+
+1107
+00:38:11,260 --> 00:38:12,340
+And that was a very like comforting, again,
+
+1108
+00:38:12,340 --> 00:38:14,020
+your side mall location.
+
+1109
+00:38:14,020 --> 00:38:15,780
+I don't know what it is about the,
+
+1110
+00:38:15,780 --> 00:38:17,620
+it's like beckoning you inside.
+
+1111
+00:38:17,620 --> 00:38:18,460
+Right.
+
+1112
+00:38:18,460 --> 00:38:19,780
+It's not gonna be as claustrophobic
+
+1113
+00:38:19,780 --> 00:38:22,940
+as the fully in the center of the mall locations.
+
+1114
+00:38:22,940 --> 00:38:24,820
+It's breezy on the outside.
+
+1115
+00:38:24,820 --> 00:38:25,660
+Yeah.
+
+1116
+00:38:25,660 --> 00:38:28,140
+Mike, you ate there once and shortly after,
+
+1117
+00:38:28,140 --> 00:38:30,220
+like I saw you and you talked about it.
+
+1118
+00:38:30,220 --> 00:38:32,180
+And for whatever reason,
+
+1119
+00:38:32,180 --> 00:38:35,180
+your praise at the time seemed so enthusiastic.
+
+1120
+00:38:35,180 --> 00:38:37,020
+For a couple years,
+
+1121
+00:38:37,020 --> 00:38:42,020
+I thought like Red Robin was one of your go-to chain spots.
+
+1122
+00:38:42,460 --> 00:38:44,660
+And then I brought it up years later and you're like,
+
+1123
+00:38:44,660 --> 00:38:46,940
+yeah, I don't really, yeah, that's fine.
+
+1124
+00:38:46,940 --> 00:38:48,100
+I don't really go to Red Robin.
+
+1125
+00:38:48,100 --> 00:38:49,340
+I was like, oh, okay.
+
+1126
+00:38:49,340 --> 00:38:50,900
+Maybe it was like Scott's situation
+
+1127
+00:38:50,900 --> 00:38:53,180
+where he had the fat burger and he was like,
+
+1128
+00:38:53,180 --> 00:38:55,580
+I had like a particularly good drink or something.
+
+1129
+00:38:55,580 --> 00:38:57,740
+I was like, this is the greatest place I've ever been.
+
+1130
+00:38:58,340 --> 00:39:00,300
+Yeah, Sprite and Rainbow Sherbet.
+
+1131
+00:39:00,300 --> 00:39:03,300
+And you're like, ah, huzzah.
+
+1132
+00:39:03,300 --> 00:39:04,500
+Least alcohol.
+
+1133
+00:39:04,500 --> 00:39:08,500
+A lot of my usual haunts don't know how to make a Carlson.
+
+1134
+00:39:10,020 --> 00:39:11,580
+There's this thing,
+
+1135
+00:39:11,580 --> 00:39:13,500
+something they put in the drinks usually
+
+1136
+00:39:13,500 --> 00:39:15,060
+that I just do not care for.
+
+1137
+00:39:15,060 --> 00:39:15,900
+It's a special little, yeah.
+
+1138
+00:39:15,900 --> 00:39:16,940
+Is it for net?
+
+1139
+00:39:20,340 --> 00:39:23,300
+I mean, so that's why I couldn't go to the Glendale one.
+
+1140
+00:39:23,300 --> 00:39:25,900
+I had to go a little far away to go to one.
+
+1141
+00:39:25,900 --> 00:39:26,740
+I'm so sorry.
+
+1142
+00:39:26,740 --> 00:39:30,060
+Before I talk about my Red Robin experience yesterday,
+
+1143
+00:39:30,060 --> 00:39:31,180
+I'm gonna say another story
+
+1144
+00:39:31,180 --> 00:39:33,020
+because I was trying to piece together,
+
+1145
+00:39:33,020 --> 00:39:34,540
+as you were saying, is there something else,
+
+1146
+00:39:34,540 --> 00:39:37,260
+I know Aaron's story, but that didn't happen to me.
+
+1147
+00:39:37,260 --> 00:39:39,260
+Is there anything from my childhood
+
+1148
+00:39:39,260 --> 00:39:42,580
+that made me need to think about Red for a while?
+
+1149
+00:39:42,580 --> 00:39:46,500
+So I was on my way out the door to drive to Redondo Beach
+
+1150
+00:39:46,500 --> 00:39:51,220
+to go to a Red Robin with a friend of the show, Buzz Buzz.
+
+1151
+00:39:51,220 --> 00:39:54,900
+And my mom came over to babysit
+
+1152
+00:39:54,940 --> 00:39:57,180
+so that I could do this important mission.
+
+1153
+00:39:58,980 --> 00:40:00,020
+Sorry to cut you off.
+
+1154
+00:40:00,940 --> 00:40:03,820
+When you're doing theme park podcast bullshit,
+
+1155
+00:40:03,820 --> 00:40:04,900
+do you always present it, right?
+
+1156
+00:40:04,900 --> 00:40:06,460
+Or do you be like, I got something for work?
+
+1157
+00:40:06,460 --> 00:40:08,260
+Do you say for work or when you?
+
+1158
+00:40:09,380 --> 00:40:12,860
+She's pretty, I don't feel the need to dress it up.
+
+1159
+00:40:12,860 --> 00:40:15,940
+Sometimes I present it as if to be laughed at,
+
+1160
+00:40:15,940 --> 00:40:18,420
+but she gets, she actually is always,
+
+1161
+00:40:18,420 --> 00:40:19,620
+my mom was a big theme park.
+
+1162
+00:40:19,620 --> 00:40:21,740
+She raised me in this to love all the,
+
+1163
+00:40:21,740 --> 00:40:24,140
+yeah, she's like theme park things, I get it.
+
+1164
+00:40:24,140 --> 00:40:25,740
+She offers so much babysitting
+
+1165
+00:40:25,740 --> 00:40:27,900
+if we want to do a big Disney day.
+
+1166
+00:40:27,900 --> 00:40:29,340
+So full credit to her.
+
+1167
+00:40:29,340 --> 00:40:31,340
+That's if she ever hears that, that'll make her happy,
+
+1168
+00:40:31,340 --> 00:40:32,980
+but she won't be happy about this other thing
+
+1169
+00:40:32,980 --> 00:40:35,660
+I'm gonna say, which is that.
+
+1170
+00:40:35,660 --> 00:40:37,180
+So I'm on my way out the door.
+
+1171
+00:40:37,180 --> 00:40:39,100
+I'm like, well, I see I'm, yeah,
+
+1172
+00:40:39,100 --> 00:40:41,300
+we're doing an episode about Red Robin.
+
+1173
+00:40:41,300 --> 00:40:43,220
+Not really Red Robin, the character of a,
+
+1174
+00:40:43,220 --> 00:40:44,740
+so I have to go, why do you have to go so far?
+
+1175
+00:40:44,740 --> 00:40:45,580
+I don't know, just M,
+
+1176
+00:40:45,580 --> 00:40:47,700
+it's the one that seems the oldest, okay.
+
+1177
+00:40:47,700 --> 00:40:48,740
+She kind of grasps it.
+
+1178
+00:40:48,740 --> 00:40:50,140
+And then she says, okay, well,
+
+1179
+00:40:50,140 --> 00:40:51,500
+if you're talking about Red Robin,
+
+1180
+00:40:51,500 --> 00:40:54,660
+don't tell the story about grandma getting drunk.
+
+1181
+00:40:54,660 --> 00:40:56,300
+What, wow.
+
+1182
+00:40:56,300 --> 00:41:01,020
+And I said, oh no, I would never, what's the story?
+
+1183
+00:41:01,020 --> 00:41:04,940
+And then, and I have to kind of pull it out of her
+
+1184
+00:41:04,940 --> 00:41:07,180
+and she's all like, oh, I just don't know.
+
+1185
+00:41:07,180 --> 00:41:11,020
+And then, but then after kind of some protest,
+
+1186
+00:41:11,020 --> 00:41:14,420
+the story just ended up being that my grandma
+
+1187
+00:41:14,420 --> 00:41:18,820
+had one martini and it made her like a little loose,
+
+1188
+00:41:18,820 --> 00:41:21,060
+loose enough to talk a lot to the man at the table
+
+1189
+00:41:21,060 --> 00:41:24,340
+next to us who turned out to be Mickey Rooney's son.
+
+1190
+00:41:25,220 --> 00:41:27,780
+And then I kept like, so then when she fall down the stairs,
+
+1191
+00:41:27,780 --> 00:41:30,180
+it now, so she was just gone.
+
+1192
+00:41:30,180 --> 00:41:32,780
+In a bad way, she say something bad, something mean.
+
+1193
+00:41:32,780 --> 00:41:35,820
+No, she, no, they got along great.
+
+1194
+00:41:35,820 --> 00:41:39,180
+Well, what's the, she got drunk and then I had a couple
+
+1195
+00:41:39,180 --> 00:41:41,260
+of things to pull out of this, which is first of all,
+
+1196
+00:41:41,260 --> 00:41:43,580
+she had a martini at Red Robin.
+
+1197
+00:41:43,580 --> 00:41:46,340
+Yeah, I got to try a Red Robin martini.
+
+1198
+00:41:46,340 --> 00:41:47,780
+I'm a little curious, certainly.
+
+1199
+00:41:47,780 --> 00:41:50,620
+And my mom said, oh, they have a great bar.
+
+1200
+00:41:50,620 --> 00:41:52,340
+Oh, the bar is great.
+
+1201
+00:41:52,340 --> 00:41:55,380
+So you're here for Mad Mixology.
+
+1202
+00:41:55,380 --> 00:41:57,300
+Surfing to James Bond where he orders a martini
+
+1203
+00:41:57,300 --> 00:41:58,140
+at a Red Robin.
+
+1204
+00:41:58,140 --> 00:41:59,540
+Then you zoom out.
+
+1205
+00:41:59,540 --> 00:42:01,740
+You don't know, it cuts wide.
+
+1206
+00:42:01,740 --> 00:42:05,340
+You see the server with the bright red vest and red.
+
+1207
+00:42:05,340 --> 00:42:07,620
+Red comes out to attack him and he shoots red.
+
+1208
+00:42:09,620 --> 00:42:11,980
+And then disguises himself as red to get out of there.
+
+1209
+00:42:11,980 --> 00:42:13,340
+Oh, I love, why not?
+
+1210
+00:42:13,340 --> 00:42:14,420
+James Bond's been everywhere.
+
+1211
+00:42:14,420 --> 00:42:16,660
+Why not put him in Redondo Beach?
+
+1212
+00:42:16,660 --> 00:42:19,020
+I'll have the bottomless fries.
+
+1213
+00:42:19,020 --> 00:42:20,820
+It's kind of rebound, by the way.
+
+1214
+00:42:20,820 --> 00:42:22,340
+Hang on, Red, you can't leave.
+
+1215
+00:42:22,340 --> 00:42:26,460
+You got 10 more kids birthday tables to touch fries in.
+
+1216
+00:42:26,460 --> 00:42:28,140
+No, no, no, no, no, no, no.
+
+1217
+00:42:28,140 --> 00:42:30,140
+Anyway, wait, you do have another point, Jason?
+
+1218
+00:42:30,140 --> 00:42:32,500
+No, I, well, I did, I did, yeah.
+
+1219
+00:42:32,500 --> 00:42:35,780
+So your dad had a liquid lunch and dive.
+
+1220
+00:42:35,780 --> 00:42:36,620
+Yeah.
+
+1221
+00:42:36,620 --> 00:42:41,620
+Grandma's having, you know, a gin martini at Red Robin.
+
+1222
+00:42:42,820 --> 00:42:45,500
+I don't know, things falling into place.
+
+1223
+00:42:45,500 --> 00:42:46,340
+Yeah, yeah.
+
+1224
+00:42:47,180 --> 00:42:48,300
+I feel like it was already in the blood.
+
+1225
+00:42:48,300 --> 00:42:50,020
+My dad told me a story.
+
+1226
+00:42:51,860 --> 00:42:54,580
+I'll save it for, there's a different episode
+
+1227
+00:42:54,580 --> 00:42:56,380
+that we have not recorded yet.
+
+1228
+00:42:56,380 --> 00:42:59,940
+I don't know if it'll be out, but I got a really good scoop.
+
+1229
+00:42:59,940 --> 00:43:01,020
+Dad drinking story?
+
+1230
+00:43:01,020 --> 00:43:02,780
+No, no, not drinking, just of like,
+
+1231
+00:43:02,780 --> 00:43:05,220
+oh, that's where the theme park madness comes from.
+
+1232
+00:43:05,220 --> 00:43:06,060
+Gotcha.
+
+1233
+00:43:06,060 --> 00:43:06,900
+Aha.
+
+1234
+00:43:06,900 --> 00:43:07,740
+Yeah, yeah, yeah.
+
+1235
+00:43:07,740 --> 00:43:09,820
+No, all that, and my dad had a boat called Drunky
+
+1236
+00:43:09,820 --> 00:43:11,740
+with two E's, it's all there.
+
+1237
+00:43:11,740 --> 00:43:13,980
+The visors come from my dad.
+
+1238
+00:43:13,980 --> 00:43:15,260
+The DNA is very clear.
+
+1239
+00:43:15,260 --> 00:43:18,100
+But anyways, wait, what else about this?
+
+1240
+00:43:18,100 --> 00:43:19,740
+Oh yeah, Mickey then.
+
+1241
+00:43:19,740 --> 00:43:20,580
+Mickey Rooney's son.
+
+1242
+00:43:20,580 --> 00:43:22,900
+Mickey Rooney's son is really something to unpack.
+
+1243
+00:43:22,900 --> 00:43:23,740
+Yeah.
+
+1244
+00:43:23,740 --> 00:43:24,580
+And how did they know that?
+
+1245
+00:43:24,580 --> 00:43:25,980
+How did he, was he lying?
+
+1246
+00:43:25,980 --> 00:43:26,820
+I don't know.
+
+1247
+00:43:26,820 --> 00:43:28,660
+I was trying to figure out which son it might've been,
+
+1248
+00:43:28,660 --> 00:43:31,660
+but it's tough because he had eight wives and nine children.
+
+1249
+00:43:31,660 --> 00:43:32,500
+Wow.
+
+1250
+00:43:32,500 --> 00:43:33,660
+I don't know where to begin.
+
+1251
+00:43:33,660 --> 00:43:34,580
+I guess that makes sense.
+
+1252
+00:43:34,580 --> 00:43:36,300
+Tried to figure it out.
+
+1253
+00:43:36,300 --> 00:43:38,700
+It might've been Tim Rooney.
+
+1254
+00:43:38,700 --> 00:43:42,500
+Tim Rooney, then I was looking at an article about him
+
+1255
+00:43:42,620 --> 00:43:45,580
+and his passing away, and it said that he was,
+
+1256
+00:43:45,580 --> 00:43:48,860
+Tim Rooney was chosen to be one of the original 1955
+
+1257
+00:43:48,860 --> 00:43:50,780
+Mouseketeers for the Mickey Mouse Club,
+
+1258
+00:43:50,780 --> 00:43:53,140
+but never appeared on the show because he was fired
+
+1259
+00:43:53,140 --> 00:43:56,020
+for getting into mischief at the Disney Paint Shop.
+
+1260
+00:43:56,020 --> 00:43:56,860
+What?
+
+1261
+00:43:56,860 --> 00:43:57,700
+Wow.
+
+1262
+00:43:57,700 --> 00:43:58,540
+It's real.
+
+1263
+00:43:58,540 --> 00:44:01,340
+It has to be really bad, and they cleaned that up.
+
+1264
+00:44:01,340 --> 00:44:03,220
+Yeah, maybe.
+
+1265
+00:44:03,220 --> 00:44:04,060
+I don't know what it is.
+
+1266
+00:44:04,060 --> 00:44:04,900
+I don't have an idea.
+
+1267
+00:44:04,900 --> 00:44:06,020
+Because again, wouldn't Walt love a bunch of kids
+
+1268
+00:44:06,020 --> 00:44:10,060
+getting into, he loves the tales of Tom Sawyer and Huck Finn,
+
+1269
+00:44:10,100 --> 00:44:11,980
+wouldn't he love, he'd love some kids
+
+1270
+00:44:11,980 --> 00:44:13,420
+getting into some paint business.
+
+1271
+00:44:13,420 --> 00:44:15,700
+He was like drowning raccoons in paint or something,
+
+1272
+00:44:15,700 --> 00:44:17,660
+like something weird and sinister, not just like,
+
+1273
+00:44:17,660 --> 00:44:21,740
+oh, I got some of the blue paint on my face, whoopsies.
+
+1274
+00:44:21,740 --> 00:44:23,820
+They were like, Cubby, one of the other kids,
+
+1275
+00:44:23,820 --> 00:44:26,460
+he's like, you're gonna steal my lines and I know it.
+
+1276
+00:44:26,460 --> 00:44:28,340
+I'm shoving your face in this blue paint.
+
+1277
+00:44:28,340 --> 00:44:29,780
+It's like, you're gonna be blue forever,
+
+1278
+00:44:29,780 --> 00:44:32,940
+so they'll think you're sick, and I get all your lines.
+
+1279
+00:44:32,940 --> 00:44:35,420
+It's the Moe Little Rascals joke on the Simpsons.
+
+1280
+00:44:35,420 --> 00:44:36,460
+Yeah.
+
+1281
+00:44:36,460 --> 00:44:38,260
+You killed the original Alpha Alpha.
+
+1282
+00:44:38,260 --> 00:44:42,100
+He smothered the original Cubby.
+
+1283
+00:44:42,100 --> 00:44:44,700
+Yeah, it's something dark, whatever it is.
+
+1284
+00:44:44,700 --> 00:44:49,220
+So Mickey Rooney's, yeah, hey, don't get drunk at Red Robin
+
+1285
+00:44:49,220 --> 00:44:52,580
+unless you wanna get friendly with Mickey Rooney's son.
+
+1286
+00:44:53,900 --> 00:44:56,460
+So this is the story my mom didn't want told,
+
+1287
+00:44:56,460 --> 00:44:58,620
+and then she said, well, you know, hey,
+
+1288
+00:44:58,620 --> 00:45:00,220
+be careful if you talk about it,
+
+1289
+00:45:00,220 --> 00:45:02,420
+because she'll haunt ya.
+
+1290
+00:45:04,180 --> 00:45:05,100
+I'm looking around here.
+
+1291
+00:45:05,100 --> 00:45:07,780
+Yeah, you guys first, I'm really sorry.
+
+1292
+00:45:08,220 --> 00:45:09,580
+Boy, if something comes to light,
+
+1293
+00:45:09,580 --> 00:45:13,020
+or if Garfield the dog suddenly gets very animated,
+
+1294
+00:45:13,020 --> 00:45:15,700
+he's yawning, that's not so bad.
+
+1295
+00:45:15,700 --> 00:45:18,500
+I don't think you're my grandma right now.
+
+1296
+00:45:18,500 --> 00:45:19,340
+Hold on.
+
+1297
+00:45:19,340 --> 00:45:21,620
+Listeners, too, I'm sorry if I'm passing the,
+
+1298
+00:45:21,620 --> 00:45:24,180
+you're all, it could happen to any of us now.
+
+1299
+00:45:24,180 --> 00:45:25,020
+My grandma's gonna haunt you.
+
+1300
+00:45:25,020 --> 00:45:27,780
+Sorry, everyone, you're getting the drag me to hell curse.
+
+1301
+00:45:27,780 --> 00:45:28,900
+Sorry.
+
+1302
+00:45:28,900 --> 00:45:30,260
+Is this a common thing where she'll be like,
+
+1303
+00:45:30,260 --> 00:45:31,100
+oh, we can't talk about that,
+
+1304
+00:45:31,100 --> 00:45:33,460
+and you're like, there's literally no dark substance
+
+1305
+00:45:33,460 --> 00:45:34,660
+to this story.
+
+1306
+00:45:34,660 --> 00:45:35,620
+What are you talking about?
+
+1307
+00:45:35,620 --> 00:45:37,420
+It's very charming.
+
+1308
+00:45:38,060 --> 00:45:39,460
+I don't understand one bit.
+
+1309
+00:45:39,460 --> 00:45:41,580
+There's not a single part of it that's.
+
+1310
+00:45:41,580 --> 00:45:42,420
+No.
+
+1311
+00:45:42,420 --> 00:45:43,260
+Not like.
+
+1312
+00:45:43,260 --> 00:45:44,100
+Unless she was hiding it from you.
+
+1313
+00:45:44,100 --> 00:45:45,860
+I told this to Erin, and she's like,
+
+1314
+00:45:45,860 --> 00:45:49,740
+that's what she, my drunk grandma story is that
+
+1315
+00:45:49,740 --> 00:45:53,260
+she had three margaritas and was staying with us
+
+1316
+00:45:53,260 --> 00:45:55,220
+in my sister's room, and then she,
+
+1317
+00:45:55,220 --> 00:45:58,060
+when she was, we had to carry her into the house,
+
+1318
+00:45:58,060 --> 00:46:01,060
+and then she fell into a very loose nightstand
+
+1319
+00:46:01,060 --> 00:46:04,860
+that was covered in Erin's sister's snow globe collection.
+
+1320
+00:46:04,860 --> 00:46:05,700
+Oh no.
+
+1321
+00:46:05,700 --> 00:46:08,100
+The snow globes shattered,
+
+1322
+00:46:08,100 --> 00:46:11,740
+gross snow globe water and glitter everywhere.
+
+1323
+00:46:11,740 --> 00:46:12,580
+That's like.
+
+1324
+00:46:12,580 --> 00:46:13,580
+Grandma just asleep in it.
+
+1325
+00:46:13,580 --> 00:46:16,020
+That's the story of Everest,
+
+1326
+00:46:16,020 --> 00:46:18,660
+the Mr. Show sketch in real life.
+
+1327
+00:46:21,660 --> 00:46:23,340
+It happened nine times.
+
+1328
+00:46:23,340 --> 00:46:24,180
+Grandma.
+
+1329
+00:46:24,180 --> 00:46:26,220
+We put the snow globes back on.
+
+1330
+00:46:26,220 --> 00:46:29,540
+Grandma taking like a Matt Cardona death match bump
+
+1331
+00:46:29,540 --> 00:46:30,980
+into the glass.
+
+1332
+00:46:30,980 --> 00:46:31,820
+Jeez.
+
+1333
+00:46:33,620 --> 00:46:34,740
+That is a.
+
+1334
+00:46:34,740 --> 00:46:36,860
+If we're gonna do sketch comparisons, by the way,
+
+1335
+00:46:36,860 --> 00:46:38,660
+this is what, this is the, that occurred to me.
+
+1336
+00:46:38,660 --> 00:46:41,460
+After the, I'm gonna mess up your hair
+
+1337
+00:46:41,460 --> 00:46:44,820
+and put my hands in the fries, and he's bright red.
+
+1338
+00:46:44,820 --> 00:46:47,780
+I realized that red is the,
+
+1339
+00:46:47,780 --> 00:46:50,220
+I think you should leave character chunky.
+
+1340
+00:46:50,220 --> 00:46:51,060
+It's chunky.
+
+1341
+00:46:51,060 --> 00:46:51,900
+It's chunky.
+
+1342
+00:46:51,900 --> 00:46:52,740
+Very well, it's chunky.
+
+1343
+00:46:52,740 --> 00:46:55,180
+No, don't touch the fries.
+
+1344
+00:46:55,180 --> 00:46:57,500
+You would all summer, figure out what you do.
+
+1345
+00:46:57,500 --> 00:47:00,260
+You need to figure out what red does.
+
+1346
+00:47:02,500 --> 00:47:03,700
+That's what I'm saying.
+
+1347
+00:47:03,700 --> 00:47:04,540
+Yeah.
+
+1348
+00:47:05,380 --> 00:47:06,220
+What is this?
+
+1349
+00:47:06,220 --> 00:47:07,540
+And then there's no, and guess what?
+
+1350
+00:47:07,540 --> 00:47:10,020
+I'm gonna make it worse here because then I'm like,
+
+1351
+00:47:10,020 --> 00:47:11,180
+is there any information,
+
+1352
+00:47:11,180 --> 00:47:13,620
+did they ever try to do a red animated show?
+
+1353
+00:47:13,620 --> 00:47:15,700
+Is there like a kid's menu out there
+
+1354
+00:47:15,700 --> 00:47:17,340
+where he goes on a maze adventure
+
+1355
+00:47:17,340 --> 00:47:19,060
+and that can tell me what red is?
+
+1356
+00:47:19,060 --> 00:47:20,500
+And the answer is no.
+
+1357
+00:47:20,500 --> 00:47:24,380
+What there is is a photo of original red
+
+1358
+00:47:24,380 --> 00:47:26,500
+when there was just one location in Seattle.
+
+1359
+00:47:26,500 --> 00:47:27,780
+It was just a bar.
+
+1360
+00:47:27,780 --> 00:47:29,660
+And here's what that teaches you about red
+
+1361
+00:47:29,660 --> 00:47:33,660
+is that he was super high.
+
+1362
+00:47:33,660 --> 00:47:34,660
+Look at this guy.
+
+1363
+00:47:34,660 --> 00:47:35,500
+Whoa.
+
+1364
+00:47:35,500 --> 00:47:37,580
+Original red from 79.
+
+1365
+00:47:37,580 --> 00:47:41,020
+He is in a long weird baseball cap.
+
+1366
+00:47:41,020 --> 00:47:43,700
+He's wearing big scary boots,
+
+1367
+00:47:43,700 --> 00:47:46,660
+but more importantly, his eyes are red.
+
+1368
+00:47:46,660 --> 00:47:48,500
+That's why he's red robin.
+
+1369
+00:47:48,500 --> 00:47:49,340
+Wow.
+
+1370
+00:47:49,340 --> 00:47:50,260
+His eyes are beet red.
+
+1371
+00:47:50,260 --> 00:47:51,820
+They drew the veins in there.
+
+1372
+00:47:51,820 --> 00:47:56,060
+He's bloodshot and he is holding a big fat joint.
+
+1373
+00:47:56,060 --> 00:47:59,700
+It's a Mickey situation yet again,
+
+1374
+00:47:59,700 --> 00:48:02,380
+where the character's personality and weirdness
+
+1375
+00:48:02,380 --> 00:48:03,900
+and edge was taken away.
+
+1376
+00:48:03,900 --> 00:48:07,580
+It's been softened to get him to every mall.
+
+1377
+00:48:07,580 --> 00:48:08,900
+It just has to be nothing.
+
+1378
+00:48:08,900 --> 00:48:11,540
+They can't know that he is so high.
+
+1379
+00:48:11,540 --> 00:48:13,060
+The point of red robin.
+
+1380
+00:48:13,060 --> 00:48:14,100
+Wow.
+
+1381
+00:48:14,100 --> 00:48:18,300
+This is less red robin yum and more red robin.
+
+1382
+00:48:22,300 --> 00:48:26,180
+So was the, so what year 79?
+
+1383
+00:48:26,180 --> 00:48:27,180
+You think so?
+
+1384
+00:48:27,180 --> 00:48:32,180
+So was the like, that's like early drug stuff, obviously.
+
+1385
+00:48:32,660 --> 00:48:34,500
+Like before it was fully in, like,
+
+1386
+00:48:34,500 --> 00:48:35,620
+I mean, it was in popular culture,
+
+1387
+00:48:35,620 --> 00:48:36,740
+but it was not in mainstream.
+
+1388
+00:48:36,740 --> 00:48:38,940
+Yeah, the sixties had happened, Michael.
+
+1389
+00:48:38,940 --> 00:48:40,140
+Yeah, I think we're pretty past.
+
+1390
+00:48:40,140 --> 00:48:41,220
+Yeah, I think we're kind of.
+
+1391
+00:48:41,220 --> 00:48:43,340
+We're way past a reaper madness.
+
+1392
+00:48:43,340 --> 00:48:44,180
+You're right, you're right.
+
+1393
+00:48:44,180 --> 00:48:46,500
+In the fast lane of Coke and Ludes.
+
+1394
+00:48:47,820 --> 00:48:48,660
+I'm just trying to think of it.
+
+1395
+00:48:48,660 --> 00:48:51,620
+He's trying to represent weed culture
+
+1396
+00:48:51,620 --> 00:48:55,060
+in the face of the upcoming Coke onslaught.
+
+1397
+00:48:55,060 --> 00:48:56,940
+I'm trying to think of cartoon high characters.
+
+1398
+00:48:56,940 --> 00:48:58,860
+Like was Fritz the cat high?
+
+1399
+00:48:58,860 --> 00:49:00,060
+Or was he on cocaine?
+
+1400
+00:49:00,740 --> 00:49:03,380
+I'm sure Fritz got up to some trouble.
+
+1401
+00:49:03,380 --> 00:49:05,740
+I'm sure there was a lot of the kind of.
+
+1402
+00:49:05,740 --> 00:49:09,100
+But like who's the first high cartoon character?
+
+1403
+00:49:09,100 --> 00:49:11,340
+I mean, if you're counting like the hate Ashbury,
+
+1404
+00:49:11,340 --> 00:49:13,740
+like Robert Crumb, like the comics
+
+1405
+00:49:13,740 --> 00:49:15,140
+that would show in head shops.
+
+1406
+00:49:15,140 --> 00:49:17,380
+Yeah, obviously they were all high.
+
+1407
+00:49:17,380 --> 00:49:19,500
+The Scooby Doo gang, man.
+
+1408
+00:49:19,500 --> 00:49:20,620
+Yeah, that's true.
+
+1409
+00:49:20,620 --> 00:49:23,580
+The HR puff and stuff and team.
+
+1410
+00:49:23,580 --> 00:49:24,420
+That's true, that's the 70s.
+
+1411
+00:49:24,420 --> 00:49:26,740
+At least the people making it were high.
+
+1412
+00:49:26,740 --> 00:49:27,780
+Like sixties, yeah.
+
+1413
+00:49:28,060 --> 00:49:30,540
+So I guess Shaggy is high.
+
+1414
+00:49:30,540 --> 00:49:35,060
+It is a little unusual to see like a regular bar
+
+1415
+00:49:35,060 --> 00:49:38,900
+have like a high cartoon Robin mascot.
+
+1416
+00:49:38,900 --> 00:49:42,540
+Or at least if he didn't have the joint,
+
+1417
+00:49:42,540 --> 00:49:44,860
+you could go like, oh, he pulled in all night.
+
+1418
+00:49:44,860 --> 00:49:48,620
+Or he's like been partying for like the day or something.
+
+1419
+00:49:48,620 --> 00:49:49,460
+You know what I'm saying?
+
+1420
+00:49:49,460 --> 00:49:52,140
+Don't do, I like this old red.
+
+1421
+00:49:52,140 --> 00:49:54,020
+Again, we have something to work off of.
+
+1422
+00:49:54,020 --> 00:49:56,460
+He is stoned off his ass.
+
+1423
+00:49:56,500 --> 00:49:58,940
+I think it's almost weird that they covered it up.
+
+1424
+00:49:58,940 --> 00:50:01,100
+I think I do, I will say though,
+
+1425
+00:50:01,100 --> 00:50:04,740
+I'm not saying that he's a scumbag because he's high,
+
+1426
+00:50:04,740 --> 00:50:08,060
+but that he is like very, I mean, he is out of it.
+
+1427
+00:50:08,060 --> 00:50:10,620
+The vibes are not great.
+
+1428
+00:50:10,620 --> 00:50:12,740
+He looks like he's gonna hustle you.
+
+1429
+00:50:13,980 --> 00:50:15,860
+He looks like Chuck, like he's got a vibe
+
+1430
+00:50:15,860 --> 00:50:17,420
+of like Chuck E. The early Chuck E. Cheese to me.
+
+1431
+00:50:17,420 --> 00:50:19,420
+I think so, yeah.
+
+1432
+00:50:19,420 --> 00:50:21,260
+I also found that other picture
+
+1433
+00:50:21,260 --> 00:50:23,140
+that I could see in the preview image.
+
+1434
+00:50:23,140 --> 00:50:24,780
+Oh yeah, well I was again art.
+
+1435
+00:50:24,780 --> 00:50:28,820
+Yeah, here's a deviant art of a more realistic kind of,
+
+1436
+00:50:30,180 --> 00:50:32,700
+more Zubli-Zoo style.
+
+1437
+00:50:32,700 --> 00:50:34,820
+He's kind of cut, like he's kind of jacked, right?
+
+1438
+00:50:34,820 --> 00:50:38,860
+Yeah, they managed to give him abs underneath the feathers
+
+1439
+00:50:38,860 --> 00:50:40,780
+and they made his vest sexier.
+
+1440
+00:50:40,780 --> 00:50:44,500
+His blue vest is not especially sexy on its own.
+
+1441
+00:50:44,500 --> 00:50:46,980
+This one is more Red Robin Yum.
+
+1442
+00:50:46,980 --> 00:50:50,500
+This is, yeah, somebody wants to see Red's seat.
+
+1443
+00:50:50,500 --> 00:50:52,900
+There is a photo here that I found
+
+1444
+00:50:53,140 --> 00:50:56,180
+where like just kind of perking that seat up.
+
+1445
+00:50:56,180 --> 00:50:58,020
+He is perking that seat up, yeah, for sure.
+
+1446
+00:50:58,020 --> 00:50:59,580
+Still holding the burger in one hand,
+
+1447
+00:50:59,580 --> 00:51:02,820
+but kind of like swiveling the hip with the other.
+
+1448
+00:51:02,820 --> 00:51:07,620
+And it's from behind, it's like you're standing behind him.
+
+1449
+00:51:07,620 --> 00:51:08,460
+But he knows you're there,
+
+1450
+00:51:08,460 --> 00:51:09,300
+because he's looking at you. But he knows you're there.
+
+1451
+00:51:09,300 --> 00:51:11,020
+Giving you a little side eye.
+
+1452
+00:51:11,020 --> 00:51:12,140
+You want some of this?
+
+1453
+00:51:12,140 --> 00:51:13,900
+And I don't mean the burger. That's a little thirst.
+
+1454
+00:51:13,900 --> 00:51:16,180
+Yeah, he's got a thirst trap going in that picture.
+
+1455
+00:51:16,180 --> 00:51:18,620
+But that's a new thing I hadn't considered.
+
+1456
+00:51:18,620 --> 00:51:22,060
+Like cartoon character drawn,
+
+1457
+00:51:22,060 --> 00:51:23,420
+you are standing behind,
+
+1458
+00:51:23,420 --> 00:51:26,580
+like your view of Bugs Bunny from behind.
+
+1459
+00:51:26,580 --> 00:51:27,780
+Is just nothing.
+
+1460
+00:51:27,780 --> 00:51:31,420
+Like that does seem like, oh no, if I go looking for this,
+
+1461
+00:51:31,420 --> 00:51:33,500
+I'm gonna find a lot of it, aren't I?
+
+1462
+00:51:33,500 --> 00:51:35,380
+Yeah, probably, yeah.
+
+1463
+00:51:35,380 --> 00:51:39,260
+I'm not sure if I want a butt crack or no butt crack.
+
+1464
+00:51:39,260 --> 00:51:41,580
+I'm a little creeped out by the no butt crack.
+
+1465
+00:51:41,580 --> 00:51:44,460
+You want Red Robin to have a butt crack?
+
+1466
+00:51:44,460 --> 00:51:46,700
+No, you don't want that.
+
+1467
+00:51:46,700 --> 00:51:47,540
+I guess I don't.
+
+1468
+00:51:47,540 --> 00:51:49,540
+No, that's crazy.
+
+1469
+00:51:50,460 --> 00:51:52,180
+Other than like Ren and Stimpy,
+
+1470
+00:51:52,180 --> 00:51:53,820
+where it's like that's the point is for them
+
+1471
+00:51:53,820 --> 00:51:56,620
+to have like realistic butt cracks.
+
+1472
+00:51:56,620 --> 00:51:58,940
+You don't want like most of these characters to have that.
+
+1473
+00:51:58,940 --> 00:52:02,860
+Okay, I don't wanna see this high bird's butt crack.
+
+1474
+00:52:02,860 --> 00:52:05,700
+That's what the high one is implying.
+
+1475
+00:52:05,700 --> 00:52:06,700
+Yeah.
+
+1476
+00:52:06,700 --> 00:52:08,580
+Hey, come with me, I'll give you a show.
+
+1477
+00:52:08,580 --> 00:52:10,020
+He's kind of squatting.
+
+1478
+00:52:10,020 --> 00:52:11,780
+We don't just have food here.
+
+1479
+00:52:11,780 --> 00:52:15,540
+Here at Red Robin, the wedding ring comes off
+
+1480
+00:52:15,540 --> 00:52:16,580
+at the front door.
+
+1481
+00:52:16,580 --> 00:52:19,860
+Show your ID, then take your rings off, folks.
+
+1482
+00:52:21,860 --> 00:52:24,660
+Look, on the signs we have to say, want a beer,
+
+1483
+00:52:24,660 --> 00:52:28,140
+but what we're really saying is, wanna fuck a bird?
+
+1484
+00:52:32,740 --> 00:52:33,620
+He's a...
+
+1485
+00:52:33,620 --> 00:52:35,100
+I'll touch your fries.
+
+1486
+00:52:35,100 --> 00:52:35,940
+Then you can touch whatever you want.
+
+1487
+00:52:35,940 --> 00:52:37,300
+You wanna touch your fries?
+
+1488
+00:52:39,020 --> 00:52:40,500
+I looked up original Red Robin,
+
+1489
+00:52:40,500 --> 00:52:41,660
+and there's a different kind of,
+
+1490
+00:52:41,660 --> 00:52:43,140
+there's a picture of him here.
+
+1491
+00:52:43,140 --> 00:52:44,380
+Did you see this one?
+
+1492
+00:52:44,420 --> 00:52:47,140
+Yeah, he's, well, yeah, this is a mode where he,
+
+1493
+00:52:47,140 --> 00:52:49,900
+they still gave him pretty huge pupil,
+
+1494
+00:52:49,900 --> 00:52:50,740
+like the eyes are still upsetting.
+
+1495
+00:52:50,740 --> 00:52:52,580
+Yeah, oh my gosh, they're so dilated.
+
+1496
+00:52:52,580 --> 00:52:54,180
+It's like he just went to the eye doctor.
+
+1497
+00:52:54,180 --> 00:52:55,420
+Yeah, yes.
+
+1498
+00:52:55,420 --> 00:52:57,180
+That's a black and white photo I should have picked.
+
+1499
+00:52:57,180 --> 00:52:58,100
+No, I got a color one.
+
+1500
+00:52:58,100 --> 00:52:58,940
+Yeah, look at this guy.
+
+1501
+00:52:58,940 --> 00:53:01,940
+Look at his, and look at his creepy smile.
+
+1502
+00:53:01,940 --> 00:53:04,940
+Do you know what I'm thinking about?
+
+1503
+00:53:04,940 --> 00:53:06,300
+Scary eyes.
+
+1504
+00:53:06,300 --> 00:53:09,020
+It was, for whatever reason,
+
+1505
+00:53:09,020 --> 00:53:11,140
+when people started making mascots,
+
+1506
+00:53:11,140 --> 00:53:14,340
+I do think there was like an initial feeling
+
+1507
+00:53:15,340 --> 00:53:17,500
+that we need to make them kind of like creeps,
+
+1508
+00:53:17,500 --> 00:53:22,100
+because it's a familiar-ish arc in corporate mascots
+
+1509
+00:53:22,100 --> 00:53:26,740
+to have people be weird or creepy or annoying,
+
+1510
+00:53:26,740 --> 00:53:30,340
+and then slowly over time, corporations have rolled in
+
+1511
+00:53:30,340 --> 00:53:33,060
+and made them all exactly the same sort of bland,
+
+1512
+00:53:33,060 --> 00:53:34,340
+hello, nice to meet you.
+
+1513
+00:53:34,340 --> 00:53:36,060
+I don't have any personality.
+
+1514
+00:53:36,060 --> 00:53:37,340
+Unsettling hats.
+
+1515
+00:53:37,340 --> 00:53:41,900
+We wanna have unsettling hats and big eyes and scary grins,
+
+1516
+00:53:41,900 --> 00:53:44,580
+but then we're gonna slim them way down.
+
+1517
+00:53:44,580 --> 00:53:46,140
+Let's make them unhealthily skinny.
+
+1518
+00:53:46,140 --> 00:53:48,020
+Make them hot as shit.
+
+1519
+00:53:48,020 --> 00:53:48,860
+Yeah.
+
+1520
+00:53:48,860 --> 00:53:51,660
+Or our unrealistic beauty standards that we like.
+
+1521
+00:53:51,660 --> 00:53:52,660
+No attitude.
+
+1522
+00:53:52,660 --> 00:53:55,500
+It is feel like the people who created all the characters,
+
+1523
+00:53:55,500 --> 00:53:57,460
+their initial impression of somebody
+
+1524
+00:53:57,460 --> 00:53:59,060
+who would be in charge of a corporation
+
+1525
+00:53:59,060 --> 00:54:01,220
+or in charge of a place would be a creep.
+
+1526
+00:54:02,460 --> 00:54:03,900
+Like that was their experience,
+
+1527
+00:54:03,900 --> 00:54:07,420
+so that was sort of a default of making all these people
+
+1528
+00:54:07,420 --> 00:54:09,500
+weird or unusual.
+
+1529
+00:54:09,500 --> 00:54:10,340
+Oh, you're saying,
+
+1530
+00:54:10,340 --> 00:54:15,340
+is that held over from the guy who runs the nightclub?
+
+1531
+00:54:15,540 --> 00:54:17,940
+Is a little bit of a creep.
+
+1532
+00:54:17,940 --> 00:54:19,660
+Yes, I'm working out this theory in real time,
+
+1533
+00:54:19,660 --> 00:54:23,180
+but yeah, real time, not Bill Maher, real time,
+
+1534
+00:54:23,180 --> 00:54:24,740
+but yes, that's what I'm saying.
+
+1535
+00:54:24,740 --> 00:54:27,420
+I feel like the people, graphic designers
+
+1536
+00:54:27,420 --> 00:54:29,420
+or whoever's coming up with all these characters,
+
+1537
+00:54:29,420 --> 00:54:34,420
+there was just a default to make the people in charge creeps
+
+1538
+00:54:34,500 --> 00:54:36,860
+or weird or something was odd with them,
+
+1539
+00:54:36,860 --> 00:54:39,060
+and then corporations rolled in
+
+1540
+00:54:39,060 --> 00:54:43,500
+and they've across the board wiped any of this personality
+
+1541
+00:54:43,500 --> 00:54:45,260
+away from all these characters.
+
+1542
+00:54:45,260 --> 00:54:49,140
+Yeah, except for like the local sports bar.
+
+1543
+00:54:49,140 --> 00:54:49,980
+Well, that's a different story.
+
+1544
+00:54:49,980 --> 00:54:51,420
+Who's mascot is like a dog
+
+1545
+00:54:51,420 --> 00:54:54,260
+and he's got his arms around like two human women.
+
+1546
+00:54:54,260 --> 00:54:56,700
+Like I don't care for,
+
+1547
+00:54:56,700 --> 00:55:00,580
+like I don't like Joe Camel, like with human people.
+
+1548
+00:55:00,580 --> 00:55:02,660
+Oh, we forgot we were doing a Joe Camel episode.
+
+1549
+00:55:02,660 --> 00:55:03,500
+Yeah, Joe Camel.
+
+1550
+00:55:03,500 --> 00:55:04,340
+We got it.
+
+1551
+00:55:04,340 --> 00:55:05,940
+Remember we talked about doing Joe Camel?
+
+1552
+00:55:05,940 --> 00:55:06,780
+We gotta do it, yeah.
+
+1553
+00:55:06,780 --> 00:55:07,980
+The universe of Joe Camel.
+
+1554
+00:55:07,980 --> 00:55:08,820
+We gotta do it.
+
+1555
+00:55:09,380 --> 00:55:11,460
+My friend Joe Carnegie has been showing me
+
+1556
+00:55:11,460 --> 00:55:14,540
+a lot of Joe Camel art that rules.
+
+1557
+00:55:14,540 --> 00:55:15,380
+Oh yeah, we gotta do Joe Camel.
+
+1558
+00:55:15,380 --> 00:55:19,420
+They had some air brushy, like perfect LA dusk.
+
+1559
+00:55:19,420 --> 00:55:20,620
+Yeah, yeah, yeah.
+
+1560
+00:55:20,620 --> 00:55:21,740
+Yeah, Joe Camel's a little cool.
+
+1561
+00:55:21,740 --> 00:55:22,580
+Coming soon, coming soon.
+
+1562
+00:55:22,580 --> 00:55:23,420
+Coming soon.
+
+1563
+00:55:23,420 --> 00:55:24,940
+And you know, it's a fitting,
+
+1564
+00:55:24,940 --> 00:55:28,180
+it's a we've come a long way baby sort of situation
+
+1565
+00:55:28,180 --> 00:55:30,820
+where like the government's like no more jewels
+
+1566
+00:55:30,820 --> 00:55:34,340
+compared to like get your, Joe Camel bucks.
+
+1567
+00:55:34,340 --> 00:55:35,180
+Like.
+
+1568
+00:55:35,180 --> 00:55:38,220
+Hang out with the hottest ladies if you smoke Camelites.
+
+1569
+00:55:38,220 --> 00:55:39,540
+You wanna be like me, right?
+
+1570
+00:55:39,540 --> 00:55:41,220
+You wanna be like me.
+
+1571
+00:55:41,220 --> 00:55:44,020
+The last place where that exists is like Dick's Last Resort,
+
+1572
+00:55:44,020 --> 00:55:46,460
+which is a dwindling franchise already.
+
+1573
+00:55:46,460 --> 00:55:48,940
+Dick is just a mean man.
+
+1574
+00:55:48,940 --> 00:55:49,780
+Worst shitty.
+
+1575
+00:55:49,780 --> 00:55:52,540
+He's like a sloppy man frothing at the mouth.
+
+1576
+00:55:52,540 --> 00:55:53,900
+Yeah, yeah.
+
+1577
+00:55:53,900 --> 00:55:58,300
+And I don't like, we've eaten at Dick's ironically before.
+
+1578
+00:55:58,300 --> 00:56:00,180
+I don't like Dick.
+
+1579
+00:56:00,180 --> 00:56:03,220
+He's mean, he's homophobic.
+
+1580
+00:56:03,220 --> 00:56:04,500
+I don't like Dick.
+
+1581
+00:56:04,500 --> 00:56:08,020
+I was watching like some Vegas vlogger
+
+1582
+00:56:08,860 --> 00:56:10,220
+and they were like, hey, we're staying at the Excalibur.
+
+1583
+00:56:10,220 --> 00:56:12,500
+Like here's how many rooms it has.
+
+1584
+00:56:12,500 --> 00:56:13,340
+We're gonna have lunch.
+
+1585
+00:56:13,340 --> 00:56:14,780
+We're heading to Dick's Last Resort.
+
+1586
+00:56:14,780 --> 00:56:15,620
+And I'm like, oh no.
+
+1587
+00:56:15,620 --> 00:56:17,860
+Jeez Louise.
+
+1588
+00:56:17,860 --> 00:56:20,300
+There's so many places in Vegas to eat.
+
+1589
+00:56:20,300 --> 00:56:21,140
+Yeah.
+
+1590
+00:56:21,140 --> 00:56:23,620
+Can I talk a little about my, you know,
+
+1591
+00:56:23,620 --> 00:56:25,460
+this is about the character and not the place,
+
+1592
+00:56:25,460 --> 00:56:27,660
+but I have to say a little bit about the trip that I took.
+
+1593
+00:56:27,660 --> 00:56:29,060
+Oh yeah, go ahead.
+
+1594
+00:56:29,060 --> 00:56:30,180
+Friend of the show, Buzz Buzz.
+
+1595
+00:56:30,180 --> 00:56:33,420
+We met down at the Redondo Beach Mall,
+
+1596
+00:56:33,420 --> 00:56:37,540
+the South Bay Galleria, which I determined,
+
+1597
+00:56:37,540 --> 00:56:40,540
+I think correctly via looking at some Yelps and some photos,
+
+1598
+00:56:40,540 --> 00:56:43,900
+I wanted to find the one that was the most stuck in time.
+
+1599
+00:56:43,900 --> 00:56:45,100
+Cause as with all these things,
+
+1600
+00:56:45,100 --> 00:56:47,740
+there's kind of a blandening of all of this.
+
+1601
+00:56:47,740 --> 00:56:50,940
+I didn't want to go to like sort of a boring,
+
+1602
+00:56:50,940 --> 00:56:53,180
+fake sports bar, gastropub, red raw.
+
+1603
+00:56:53,180 --> 00:56:55,140
+I wanted a little bit of that old spirit.
+
+1604
+00:56:55,140 --> 00:56:56,340
+And I think I picked correctly
+
+1605
+00:56:56,340 --> 00:57:00,180
+cause it had the big neon sign up above the kitchen.
+
+1606
+00:57:00,180 --> 00:57:03,220
+And it's all like, there are,
+
+1607
+00:57:03,220 --> 00:57:05,460
+the style of the place is inexplicable.
+
+1608
+00:57:05,460 --> 00:57:08,380
+There's an American flag made of baseballs,
+
+1609
+00:57:09,260 --> 00:57:10,860
+colored red, white and blue.
+
+1610
+00:57:10,860 --> 00:57:12,620
+I mean, that couldn't be more on the nose.
+
+1611
+00:57:12,620 --> 00:57:16,020
+It's all that kind of stuff where it's like, yeah, it's like,
+
+1612
+00:57:16,020 --> 00:57:18,540
+you know, last hundred years of America,
+
+1613
+00:57:18,540 --> 00:57:21,820
+but kind of like swirled around like a bunch of food
+
+1614
+00:57:21,820 --> 00:57:23,420
+and drinks in your stomach.
+
+1615
+00:57:23,420 --> 00:57:26,380
+Who knows how it's going to look when it comes out.
+
+1616
+00:57:26,380 --> 00:57:27,580
+You barf it out.
+
+1617
+00:57:27,580 --> 00:57:31,100
+It's America's barf is the style of Red Robin,
+
+1618
+00:57:31,100 --> 00:57:34,740
+which also includes like this American Gothic,
+
+1619
+00:57:34,780 --> 00:57:38,580
+the painting, but they speared a hamburger on the pitchfork
+
+1620
+00:57:38,580 --> 00:57:40,380
+or there's Whistler's mother,
+
+1621
+00:57:40,380 --> 00:57:42,460
+but the framed photo of on her wall
+
+1622
+00:57:42,460 --> 00:57:45,340
+is just the Red Robin logo.
+
+1623
+00:57:45,340 --> 00:57:48,460
+Inex, what is this all meant to convey?
+
+1624
+00:57:48,460 --> 00:57:51,140
+The Mona Lisa, but with a mustache.
+
+1625
+00:57:52,460 --> 00:57:54,060
+And then the Beatles.
+
+1626
+00:57:54,060 --> 00:57:54,900
+That's it.
+
+1627
+00:57:54,900 --> 00:57:56,700
+Cause you don't, cause some things are sacred.
+
+1628
+00:57:56,700 --> 00:57:58,260
+And the great took from my money,
+
+1629
+00:57:58,260 --> 00:58:00,260
+the greatest band that ever did it.
+
+1630
+00:58:00,260 --> 00:58:02,900
+No, and they already had mustaches in that photo.
+
+1631
+00:58:02,900 --> 00:58:04,300
+It's just a nice photo of the Beatles.
+
+1632
+00:58:04,300 --> 00:58:06,180
+No, not you put one of them upside down.
+
+1633
+00:58:06,180 --> 00:58:07,340
+Don't show that disrespect.
+
+1634
+00:58:07,340 --> 00:58:10,140
+John Lennon had a dream for this world.
+
+1635
+00:58:10,140 --> 00:58:11,460
+We let him down.
+
+1636
+00:58:11,460 --> 00:58:13,900
+You know, I think that's one of the things
+
+1637
+00:58:13,900 --> 00:58:16,260
+that always confused me about Robin.
+
+1638
+00:58:17,260 --> 00:58:19,500
+Sorry, I think about the dream.
+
+1639
+00:58:19,500 --> 00:58:20,500
+We miss you John.
+
+1640
+00:58:22,700 --> 00:58:27,620
+Is that it has the, what it's very, is it bright inside?
+
+1641
+00:58:27,620 --> 00:58:30,860
+Yeah, it's like bright, white and chrome
+
+1642
+00:58:30,860 --> 00:58:33,140
+in the way that a Ruby's diner is.
+
+1643
+00:58:33,140 --> 00:58:35,260
+Yeah, extreme, very Ruby's.
+
+1644
+00:58:35,260 --> 00:58:38,340
+The way I believe I heard this is that like,
+
+1645
+00:58:38,340 --> 00:58:42,100
+oh yeah, one of the things that got popular early on
+
+1646
+00:58:42,100 --> 00:58:46,260
+with diners was to have a lot of white and a lot of chrome
+
+1647
+00:58:46,260 --> 00:58:47,700
+so that it was like, look,
+
+1648
+00:58:47,700 --> 00:58:50,980
+we're not hiding any suspicious food.
+
+1649
+00:58:50,980 --> 00:58:52,300
+Like it's clean.
+
+1650
+00:58:52,300 --> 00:58:53,420
+This place is fucking clean.
+
+1651
+00:58:53,420 --> 00:58:55,060
+We're not going to poison you.
+
+1652
+00:58:55,060 --> 00:58:55,900
+There was a lot more poison.
+
+1653
+00:58:55,900 --> 00:58:58,540
+Look in the kitchen, look, right under that neon sign.
+
+1654
+00:58:58,540 --> 00:59:00,340
+This isn't a Listeria factory.
+
+1655
+00:59:00,340 --> 00:59:02,700
+You know, I'm talking about like Upton Sinclair
+
+1656
+00:59:02,700 --> 00:59:04,580
+jungle era of food.
+
+1657
+00:59:04,580 --> 00:59:05,420
+Oh, I see.
+
+1658
+00:59:05,420 --> 00:59:06,260
+Oh, interesting.
+
+1659
+00:59:06,260 --> 00:59:11,140
+So that design kept going with diners,
+
+1660
+00:59:11,140 --> 00:59:13,620
+even after it became easier and more common
+
+1661
+00:59:13,620 --> 00:59:16,060
+to like clean surfaces.
+
+1662
+00:59:17,260 --> 00:59:20,620
+So Red Robin has that.
+
+1663
+00:59:20,620 --> 00:59:25,420
+They also have the flair of a TGI Fridays or a Bennigan's.
+
+1664
+00:59:25,420 --> 00:59:26,260
+Yeah.
+
+1665
+00:59:26,260 --> 00:59:27,620
+The silly kitschy things.
+
+1666
+00:59:27,620 --> 00:59:28,700
+The kooky bullshit.
+
+1667
+00:59:28,700 --> 00:59:31,380
+And it feels like too much is going on.
+
+1668
+00:59:31,380 --> 00:59:34,540
+It feels like two disparate styles combining.
+
+1669
+00:59:34,540 --> 00:59:35,380
+Yeah.
+
+1670
+00:59:35,380 --> 00:59:36,380
+And it just seems confusing to me.
+
+1671
+00:59:36,380 --> 00:59:39,220
+And all this, and then a big bird lives here.
+
+1672
+00:59:39,220 --> 00:59:43,780
+It lives, or is like, what is, is he the manager?
+
+1673
+00:59:43,780 --> 00:59:45,180
+Is he a regional manager?
+
+1674
+00:59:45,180 --> 00:59:47,220
+So he's not there all the time.
+
+1675
+00:59:47,220 --> 00:59:49,900
+They've also taken this element away as well,
+
+1676
+00:59:49,900 --> 00:59:50,940
+which like Chuck E. Cheese,
+
+1677
+00:59:50,940 --> 00:59:52,860
+like they've taken the element of the mascot
+
+1678
+00:59:52,860 --> 00:59:55,700
+being the manager away, I feel.
+
+1679
+00:59:55,700 --> 00:59:56,540
+Yeah.
+
+1680
+00:59:56,540 --> 00:59:57,380
+So it's no longer the case.
+
+1681
+00:59:57,380 --> 00:59:58,300
+Story, clarity.
+
+1682
+00:59:58,300 --> 00:59:59,140
+Right.
+
+1683
+00:59:59,140 --> 01:00:00,220
+Chuck E. Cheese is like a rock star
+
+1684
+01:00:00,220 --> 01:00:03,340
+that hangs out at this place that is named after him.
+
+1685
+01:00:03,340 --> 01:00:04,740
+But he's not the owner.
+
+1686
+01:00:04,740 --> 01:00:06,300
+He doesn't pay the bills,
+
+1687
+01:00:06,300 --> 01:00:08,100
+but the old Chuck paid the bills.
+
+1688
+01:00:08,100 --> 01:00:08,940
+Yeah.
+
+1689
+01:00:08,940 --> 01:00:10,380
+And sometimes would stiff people on money.
+
+1690
+01:00:10,380 --> 01:00:11,220
+I see.
+
+1691
+01:00:11,220 --> 01:00:13,540
+And I think Red Robin probably also a similar situation.
+
+1692
+01:00:13,540 --> 01:00:14,900
+He used to run the books.
+
+1693
+01:00:14,900 --> 01:00:17,180
+Yeah, he used to do a balance sheet.
+
+1694
+01:00:17,180 --> 01:00:18,500
+Yeah, he would do the balance sheet.
+
+1695
+01:00:18,500 --> 01:00:20,020
+They made no sense.
+
+1696
+01:00:20,020 --> 01:00:23,100
+Cause that Seattle location, he doesn't know what,
+
+1697
+01:00:23,100 --> 01:00:24,700
+these aren't even numbers.
+
+1698
+01:00:24,700 --> 01:00:28,860
+These are just squiggles and drawings of naked boobs.
+
+1699
+01:00:28,860 --> 01:00:30,540
+And then he would be inappropriate
+
+1700
+01:00:30,540 --> 01:00:31,980
+with the wait staff and stuff.
+
+1701
+01:00:31,980 --> 01:00:32,820
+And now-
+
+1702
+01:00:32,820 --> 01:00:33,820
+We're $17 short.
+
+1703
+01:00:33,820 --> 01:00:36,460
+No one's going home until we figure this out.
+
+1704
+01:00:37,700 --> 01:00:38,820
+Locking the door.
+
+1705
+01:00:39,980 --> 01:00:42,180
+You're over pouring the drinks.
+
+1706
+01:00:43,820 --> 01:00:44,940
+It's Marty on that table.
+
+1707
+01:00:44,940 --> 01:00:45,780
+That was just-
+
+1708
+01:00:45,780 --> 01:00:46,620
+Yeah, yeah, yeah.
+
+1709
+01:00:48,060 --> 01:00:49,420
+But now he's just like a greeter.
+
+1710
+01:00:49,420 --> 01:00:51,540
+He's a Walmart greeter kind of a situation.
+
+1711
+01:00:51,540 --> 01:00:52,700
+He's the Pope.
+
+1712
+01:00:52,700 --> 01:00:54,300
+He's just brought around a wave.
+
+1713
+01:00:54,820 --> 01:00:55,980
+We don't know what he is anymore.
+
+1714
+01:00:55,980 --> 01:00:57,820
+We've lost sight of what Red Robin is.
+
+1715
+01:00:57,820 --> 01:00:58,660
+We've lost sight of it.
+
+1716
+01:00:58,660 --> 01:00:59,860
+And I think we really need to bring back
+
+1717
+01:00:59,860 --> 01:01:02,700
+that the mascot is in the back
+
+1718
+01:01:02,700 --> 01:01:04,900
+working out the schedules for the staff.
+
+1719
+01:01:04,900 --> 01:01:08,300
+In the little room, the stressful tiny rooms,
+
+1720
+01:01:08,300 --> 01:01:10,660
+and restaurants that people have to do all that stuff.
+
+1721
+01:01:10,660 --> 01:01:13,260
+That's the narrative I want for all the mascots.
+
+1722
+01:01:13,260 --> 01:01:14,100
+Yeah.
+
+1723
+01:01:14,100 --> 01:01:15,260
+As you have this with the party,
+
+1724
+01:01:15,260 --> 01:01:17,580
+you want to know that it's the characters working.
+
+1725
+01:01:17,580 --> 01:01:18,420
+Yeah.
+
+1726
+01:01:18,420 --> 01:01:19,820
+John, look at this.
+
+1727
+01:01:19,820 --> 01:01:20,660
+Look at the iPad.
+
+1728
+01:01:20,660 --> 01:01:23,900
+Like the Red is touching the fries.
+
+1729
+01:01:24,860 --> 01:01:25,700
+He's touching the fries.
+
+1730
+01:01:25,700 --> 01:01:26,540
+He's touching the fries.
+
+1731
+01:01:26,540 --> 01:01:27,380
+That's not sanitary.
+
+1732
+01:01:27,380 --> 01:01:28,540
+Turn it down.
+
+1733
+01:01:28,540 --> 01:01:29,780
+That's a big Robin,
+
+1734
+01:01:29,780 --> 01:01:32,380
+and he's rubbing his wings on the fries.
+
+1735
+01:01:32,380 --> 01:01:33,900
+These are children.
+
+1736
+01:01:33,900 --> 01:01:35,660
+She's got gift certificates.
+
+1737
+01:01:35,660 --> 01:01:38,660
+We're turning away a gift certificate hammer.
+
+1738
+01:01:40,380 --> 01:01:42,180
+These are worthless now.
+
+1739
+01:01:42,180 --> 01:01:44,380
+Crumple, throw it in their face.
+
+1740
+01:01:44,380 --> 01:01:45,380
+They're messing up.
+
+1741
+01:01:45,380 --> 01:01:48,580
+Hey, stop messing up.
+
+1742
+01:01:48,580 --> 01:01:49,780
+Yeah.
+
+1743
+01:01:49,780 --> 01:01:50,980
+Are you ready to see your new bar?
+
+1744
+01:01:50,980 --> 01:01:52,140
+Are you ready to see your new bar?
+
+1745
+01:01:52,180 --> 01:01:53,900
+It's called Smashes.
+
+1746
+01:01:53,900 --> 01:01:58,900
+We took, we kept the baseball American flag
+
+1747
+01:01:58,900 --> 01:02:00,260
+because when you hit in a home run,
+
+1748
+01:02:00,260 --> 01:02:01,860
+you're hitting a smash,
+
+1749
+01:02:01,860 --> 01:02:04,740
+but we're pushing smash burgers.
+
+1750
+01:02:04,740 --> 01:02:06,940
+They're thinner, so it's less cost.
+
+1751
+01:02:06,940 --> 01:02:09,020
+Your margins go way down,
+
+1752
+01:02:09,020 --> 01:02:10,860
+but they're very popular right now.
+
+1753
+01:02:10,860 --> 01:02:11,700
+You put the pineapple on,
+
+1754
+01:02:11,700 --> 01:02:12,620
+you just get a little glaze on that.
+
+1755
+01:02:12,620 --> 01:02:13,660
+It's not complicated, okay?
+
+1756
+01:02:13,660 --> 01:02:14,500
+It's an aioli.
+
+1757
+01:02:14,500 --> 01:02:15,340
+I want to see you make five of them.
+
+1758
+01:02:15,340 --> 01:02:18,140
+It's a little bit of aioli.
+
+1759
+01:02:18,140 --> 01:02:20,660
+Your home menu can be made in a convection oven
+
+1760
+01:02:20,660 --> 01:02:22,500
+or a sous vide machine now.
+
+1761
+01:02:22,500 --> 01:02:23,820
+John, thank you so much.
+
+1762
+01:02:23,820 --> 01:02:24,860
+Thank you.
+
+1763
+01:02:24,860 --> 01:02:28,420
+Also, you've burdened us with an actual complicated menu
+
+1764
+01:02:28,420 --> 01:02:29,380
+that we can't handle
+
+1765
+01:02:29,380 --> 01:02:30,820
+and that if you look at the Yelp reviews,
+
+1766
+01:02:30,820 --> 01:02:32,980
+most of these bars go under six months later because-
+
+1767
+01:02:32,980 --> 01:02:36,380
+The smoke gun broke while this crew was still there.
+
+1768
+01:02:36,380 --> 01:02:38,180
+You've given us complicated cocktails
+
+1769
+01:02:38,180 --> 01:02:40,340
+that are actually like, our bartenders can't do them
+
+1770
+01:02:40,340 --> 01:02:41,620
+and they're actually not making some money
+
+1771
+01:02:41,620 --> 01:02:42,460
+because we're not selling enough
+
+1772
+01:02:42,460 --> 01:02:43,620
+because people want well drinks.
+
+1773
+01:02:43,620 --> 01:02:45,500
+John, what have you done to us?
+
+1774
+01:02:45,500 --> 01:02:46,340
+Yeah, I got to say,
+
+1775
+01:02:46,340 --> 01:02:48,580
+I'm feeling pretty good about the future.
+
+1776
+01:02:48,580 --> 01:02:51,300
+I think we're gonna be smashing for a lot of years to come.
+
+1777
+01:02:51,300 --> 01:02:54,300
+Title card, four days later, the character was back,
+
+1778
+01:02:54,300 --> 01:02:57,460
+putting his hand between the bun and the burger,
+
+1779
+01:02:57,460 --> 01:02:58,940
+pulling cheese off of it,
+
+1780
+01:02:58,940 --> 01:03:02,020
+putting the hand cheese back into the burger.
+
+1781
+01:03:02,020 --> 01:03:06,140
+No one has ordered John's patented Orange Sunrise
+
+1782
+01:03:06,140 --> 01:03:07,980
+$25 cocktail.
+
+1783
+01:03:07,980 --> 01:03:12,900
+They just want a Sprite and gin together, no ice.
+
+1784
+01:03:12,900 --> 01:03:16,460
+Promotional consideration by InBev and Esri.
+
+1785
+01:03:16,460 --> 01:03:19,580
+John ordered them 20,000 cuties for the stock room.
+
+1786
+01:03:19,580 --> 01:03:21,460
+The cuties have remained unused.
+
+1787
+01:03:22,580 --> 01:03:24,980
+They're rotting in the store room.
+
+1788
+01:03:24,980 --> 01:03:27,580
+There are mushrooms growing on each cutie.
+
+1789
+01:03:27,580 --> 01:03:29,380
+John has ruined yet another bar.
+
+1790
+01:03:29,380 --> 01:03:31,820
+We're back to check in on another success story
+
+1791
+01:03:31,820 --> 01:03:36,460
+and we found fungus growing in the quote cutie room.
+
+1792
+01:03:36,460 --> 01:03:39,860
+The still cuties from the first time we were here.
+
+1793
+01:03:39,860 --> 01:03:42,900
+John has only spread fungus across this country
+
+1794
+01:03:42,900 --> 01:03:44,580
+with his revamp ideas.
+
+1795
+01:03:44,580 --> 01:03:46,180
+John has taken an IQ test.
+
+1796
+01:03:47,020 --> 01:03:49,420
+It is shockingly low.
+
+1797
+01:03:50,420 --> 01:03:51,580
+So what did you get?
+
+1798
+01:03:55,380 --> 01:04:00,380
+I got their lowest calorie burger that I could find,
+
+1799
+01:04:01,220 --> 01:04:03,780
+which then I looked up later in the day on the website,
+
+1800
+01:04:03,780 --> 01:04:05,020
+eat this, not that.
+
+1801
+01:04:05,020 --> 01:04:06,100
+I got the this.
+
+1802
+01:04:06,100 --> 01:04:07,860
+I got what to eat.
+
+1803
+01:04:07,860 --> 01:04:10,860
+It was the Tavern Burger, which is smaller.
+
+1804
+01:04:10,860 --> 01:04:13,300
+And I didn't want it to be smothered in sauce
+
+1805
+01:04:13,300 --> 01:04:14,620
+that might make me feel bad.
+
+1806
+01:04:14,620 --> 01:04:18,660
+So I said, could I get Red's secret tavern sauce
+
+1807
+01:04:18,660 --> 01:04:19,820
+on the side?
+
+1808
+01:04:19,820 --> 01:04:23,260
+And the server said, great, Thousand Island on the side.
+
+1809
+01:04:24,260 --> 01:04:27,460
+Thank you, let the secret out of the bag.
+
+1810
+01:04:27,460 --> 01:04:30,700
+And I actually, I did like it and I liked bottomless fries.
+
+1811
+01:04:30,700 --> 01:04:34,220
+The best thing on the menu, verified by eat this, not that,
+
+1812
+01:04:34,220 --> 01:04:35,980
+it still made me feel like shit.
+
+1813
+01:04:35,980 --> 01:04:39,300
+I got tired immediately as soon as I ate it.
+
+1814
+01:04:39,300 --> 01:04:42,140
+And then Erin sat me down for a talk and she said,
+
+1815
+01:04:42,140 --> 01:04:43,340
+let's do some math here.
+
+1816
+01:04:43,340 --> 01:04:46,580
+You did the hot dog day and you felt very bad.
+
+1817
+01:04:46,580 --> 01:04:49,300
+Then you went to a Dodger game and had two Dodger dogs
+
+1818
+01:04:49,300 --> 01:04:51,020
+in cascading quality.
+
+1819
+01:04:51,020 --> 01:04:53,180
+You didn't get the premium the second time
+
+1820
+01:04:53,180 --> 01:04:54,700
+and you felt really bad.
+
+1821
+01:04:54,700 --> 01:04:57,660
+Then you did the, then you went to Red Robin for,
+
+1822
+01:04:57,660 --> 01:05:01,140
+I think you need to stop eating low quality beef,
+
+1823
+01:05:01,140 --> 01:05:03,340
+even if it is for content.
+
+1824
+01:05:03,340 --> 01:05:04,660
+It does not.
+
+1825
+01:05:04,660 --> 01:05:06,260
+So I'm gonna have to wrap it up.
+
+1826
+01:05:06,260 --> 01:05:09,100
+I mean, maybe I gotta make some go at Scrabble before.
+
+1827
+01:05:09,100 --> 01:05:10,900
+Oh yeah, before the party's over.
+
+1828
+01:05:10,900 --> 01:05:11,740
+I'm gonna blow out.
+
+1829
+01:05:11,740 --> 01:05:14,580
+No more bad beef bachelor party.
+
+1830
+01:05:14,580 --> 01:05:19,140
+But after that, Erin had a little mini intervention.
+
+1831
+01:05:19,140 --> 01:05:20,500
+Wow, interesting.
+
+1832
+01:05:20,500 --> 01:05:22,220
+Well, now it makes me feel bad every time.
+
+1833
+01:05:22,220 --> 01:05:23,060
+I just gotta stop.
+
+1834
+01:05:23,060 --> 01:05:25,500
+You have to force you to eat like us one day too.
+
+1835
+01:05:25,500 --> 01:05:26,780
+We'll do that and then I'm done.
+
+1836
+01:05:26,780 --> 01:05:28,340
+That's the bad beef bachelor party.
+
+1837
+01:05:28,340 --> 01:05:29,540
+Yeah, there's, and then there's a.
+
+1838
+01:05:29,540 --> 01:05:30,700
+Then I'm settling down.
+
+1839
+01:05:30,700 --> 01:05:32,020
+A little better beef.
+
+1840
+01:05:32,020 --> 01:05:34,500
+Yeah, better, hashtag better beef.
+
+1841
+01:05:35,460 --> 01:05:40,460
+There's a little, Biz told me about a double cheeseburger
+
+1842
+01:05:40,460 --> 01:05:42,620
+but put the Big Mac sauce on it.
+
+1843
+01:05:42,620 --> 01:05:44,060
+That's a hack.
+
+1844
+01:05:44,060 --> 01:05:44,900
+I can't do it.
+
+1845
+01:05:44,900 --> 01:05:46,620
+I've heard that for years.
+
+1846
+01:05:46,620 --> 01:05:47,460
+It's good.
+
+1847
+01:05:47,460 --> 01:05:49,580
+And it's not, but you have to order it at the window
+
+1848
+01:05:49,580 --> 01:05:52,900
+and then it has to be one where they'll do that.
+
+1849
+01:05:52,900 --> 01:05:54,740
+Yeah, you have to strong arm them into doing it.
+
+1850
+01:05:54,740 --> 01:05:56,620
+It's not like the in and out secret menu.
+
+1851
+01:05:56,620 --> 01:05:57,900
+Oh okay, okay, you gotta beg.
+
+1852
+01:05:57,900 --> 01:05:59,900
+I don't think it's so hard to do.
+
+1853
+01:05:59,900 --> 01:06:03,300
+But the double cheeseburger beef at least tastes better
+
+1854
+01:06:03,300 --> 01:06:05,500
+than I think Big Mac Patty.
+
+1855
+01:06:05,500 --> 01:06:08,620
+If I'm gonna retire from bad beef,
+
+1856
+01:06:08,660 --> 01:06:11,620
+then it cuts a lot of things on the menu off for me
+
+1857
+01:06:11,620 --> 01:06:13,620
+because what I learned for the first time
+
+1858
+01:06:13,620 --> 01:06:16,860
+is that Red Robin has partnered with Donato's Pizza.
+
+1859
+01:06:16,860 --> 01:06:18,460
+So now there's whatever that is.
+
+1860
+01:06:18,460 --> 01:06:19,860
+That's in Ohio I think.
+
+1861
+01:06:19,860 --> 01:06:21,020
+It was on undercover boss.
+
+1862
+01:06:21,020 --> 01:06:23,540
+That was the only reason we'd heard of it before.
+
+1863
+01:06:23,540 --> 01:06:25,420
+And there's several things.
+
+1864
+01:06:25,420 --> 01:06:28,100
+One thing I saw on the menu was a photo of a pizza
+
+1865
+01:06:28,100 --> 01:06:33,060
+that was very flat and that had full coverage of pepperoni.
+
+1866
+01:06:33,060 --> 01:06:35,420
+There was not one spot on it without pepperoni.
+
+1867
+01:06:35,420 --> 01:06:36,540
+There's not a rim.
+
+1868
+01:06:36,580 --> 01:06:38,980
+And that is a thing they do apparently.
+
+1869
+01:06:38,980 --> 01:06:42,740
+It is a pepperoni pizza that has 100 pepperoni slices.
+
+1870
+01:06:42,740 --> 01:06:43,580
+Wow.
+
+1871
+01:06:43,580 --> 01:06:45,020
+Not one millimeter.
+
+1872
+01:06:45,020 --> 01:06:46,860
+Ain't nothing wrong with that.
+
+1873
+01:06:46,860 --> 01:06:48,540
+Ain't nothing wrong with that.
+
+1874
+01:06:48,540 --> 01:06:51,140
+Jason lead on to pepperonis in one sitting.
+
+1875
+01:06:51,140 --> 01:06:54,500
+And they also have some kind of Mexican themed pizza
+
+1876
+01:06:54,500 --> 01:06:58,540
+with something on top that they call mariachi beef.
+
+1877
+01:06:58,540 --> 01:06:59,940
+Well there might be something wrong with that.
+
+1878
+01:06:59,940 --> 01:07:04,700
+There very likely is something wrong with mariachi beef.
+
+1879
+01:07:04,700 --> 01:07:07,900
+Just the other thing to say is that this Riddraven meal
+
+1880
+01:07:07,900 --> 01:07:10,940
+came after a general tour of the South Bay Galleria
+
+1881
+01:07:10,940 --> 01:07:12,860
+where there's two important things to note.
+
+1882
+01:07:12,860 --> 01:07:15,660
+One, a big glass atrium in the center
+
+1883
+01:07:15,660 --> 01:07:18,780
+that is soaked at the top in bird poop.
+
+1884
+01:07:18,780 --> 01:07:21,980
+There is so much caked on bird poop in this mall.
+
+1885
+01:07:21,980 --> 01:07:24,580
+You know, you like look way up.
+
+1886
+01:07:24,580 --> 01:07:26,700
+You have a view everywhere in the mall of this atrium.
+
+1887
+01:07:26,700 --> 01:07:28,180
+And there's birds sitting on top of it.
+
+1888
+01:07:28,180 --> 01:07:30,780
+So you can like watch the birds mid poop.
+
+1889
+01:07:30,780 --> 01:07:34,380
+If you ever wanted to do a glass, not a glass bottom boat,
+
+1890
+01:07:34,380 --> 01:07:39,100
+but a glass top observation box of bird shitting.
+
+1891
+01:07:39,100 --> 01:07:41,340
+You can go to the South Bay Galleria.
+
+1892
+01:07:41,340 --> 01:07:45,140
+They also, in this mall, there's a department store.
+
+1893
+01:07:45,140 --> 01:07:47,180
+I think the space was in Nordstrom's.
+
+1894
+01:07:47,180 --> 01:07:49,980
+Clearly the big space meant for one of the big tenants.
+
+1895
+01:07:49,980 --> 01:07:52,020
+And the Nordstrom's is gone.
+
+1896
+01:07:52,020 --> 01:07:55,060
+So now you walk up to it and just in giant letters,
+
+1897
+01:07:55,060 --> 01:07:57,460
+what it says is dinosaurs.
+
+1898
+01:07:57,460 --> 01:08:00,100
+And it's just big rooms full of dinosaurs.
+
+1899
+01:08:00,100 --> 01:08:01,580
+Of statues of dinosaurs?
+
+1900
+01:08:01,580 --> 01:08:03,380
+Yeah, some of them move a little.
+
+1901
+01:08:03,380 --> 01:08:05,100
+Some of them are simple animatronics.
+
+1902
+01:08:05,100 --> 01:08:06,980
+Like Jurassic Quest?
+
+1903
+01:08:06,980 --> 01:08:09,740
+Yeah, it's like Jurassic Quest, but jammed inside.
+
+1904
+01:08:09,740 --> 01:08:12,940
+And there's this one part where the ceiling goes up really high.
+
+1905
+01:08:12,940 --> 01:08:16,140
+And there's like a big window that's very tall.
+
+1906
+01:08:16,140 --> 01:08:18,300
+And they jam the brontosaurus in there.
+
+1907
+01:08:18,300 --> 01:08:21,500
+Because the rest of the Nordstrom ceiling is not tall.
+
+1908
+01:08:21,500 --> 01:08:23,120
+So there's one place they could put him.
+
+1909
+01:08:23,120 --> 01:08:24,820
+So it looks like he's in a trap.
+
+1910
+01:08:24,820 --> 01:08:29,180
+Like he got stuck in there like when a hummingbird got
+
+1911
+01:08:29,180 --> 01:08:31,580
+stuck in our apartment alcove once.
+
+1912
+01:08:32,060 --> 01:08:34,020
+This brontosaurus is stuck in the mall.
+
+1913
+01:08:34,020 --> 01:08:34,980
+Wow, I want to see this.
+
+1914
+01:08:34,980 --> 01:08:35,780
+We have no way to get him out of here.
+
+1915
+01:08:35,780 --> 01:08:37,940
+We've got to take the roof off, airlift him.
+
+1916
+01:08:37,940 --> 01:08:39,180
+It's the only way.
+
+1917
+01:08:39,180 --> 01:08:41,540
+So if you want to go to the department store called
+
+1918
+01:08:41,540 --> 01:08:43,940
+Dinosaur's, go to the South Bay Galleria.
+
+1919
+01:08:43,940 --> 01:08:45,460
+I do want to see that.
+
+1920
+01:08:45,460 --> 01:08:46,060
+That sounds good.
+
+1921
+01:08:46,060 --> 01:08:47,100
+I recommend the trip.
+
+1922
+01:08:47,100 --> 01:08:48,940
+If you're around there or if you're not,
+
+1923
+01:08:48,940 --> 01:08:51,140
+take a trip to the South Bay Galleria.
+
+1924
+01:08:51,140 --> 01:08:53,940
+At the time, there was a shady circus in the parking lot.
+
+1925
+01:08:53,940 --> 01:08:54,700
+Wow.
+
+1926
+01:08:54,700 --> 01:08:56,820
+There's a bunch of just exposed pipes.
+
+1927
+01:08:56,820 --> 01:09:00,100
+And you could just see installation falling out
+
+1928
+01:09:00,100 --> 01:09:01,340
+next to the AMC.
+
+1929
+01:09:01,340 --> 01:09:04,100
+I'm imagining Gene Wilder singing Pure Imagination
+
+1930
+01:09:04,100 --> 01:09:05,900
+hearing all this stuff.
+
+1931
+01:09:05,900 --> 01:09:09,100
+This is a thing at malls across the country,
+
+1932
+01:09:09,100 --> 01:09:12,820
+like simple Instagram opportunities
+
+1933
+01:09:12,820 --> 01:09:16,100
+or like experiential stuff like a bunch of statues
+
+1934
+01:09:16,100 --> 01:09:16,940
+of dinosaurs.
+
+1935
+01:09:16,940 --> 01:09:19,540
+What you're describing does sound like a miniature golf
+
+1936
+01:09:19,540 --> 01:09:21,220
+course without the putting greens though.
+
+1937
+01:09:21,220 --> 01:09:24,500
+Oh no, one of the things, one floor is a mini golf course.
+
+1938
+01:09:24,500 --> 01:09:25,140
+They thought of that.
+
+1939
+01:09:25,140 --> 01:09:27,340
+And then the other one's just like a bunch of blow up,
+
+1940
+01:09:27,340 --> 01:09:30,620
+just inflatables, like bounce houses essentially.
+
+1941
+01:09:30,700 --> 01:09:33,540
+But all under the general title of dinosaurs.
+
+1942
+01:09:33,540 --> 01:09:37,340
+I remember, it's posted this a few months back
+
+1943
+01:09:37,340 --> 01:09:39,220
+and I forget the exact context, but I
+
+1944
+01:09:39,220 --> 01:09:43,380
+think it was a presentation by an experienced theme design
+
+1945
+01:09:43,380 --> 01:09:43,860
+company.
+
+1946
+01:09:43,860 --> 01:09:47,140
+And they're like, OK, imagine these malls
+
+1947
+01:09:47,140 --> 01:09:49,500
+that are mostly empty.
+
+1948
+01:09:49,500 --> 01:09:55,180
+What if we put in them a food court, a period food court,
+
+1949
+01:09:55,180 --> 01:10:00,340
+a working video arcade, a candy store, a video game store,
+
+1950
+01:10:00,740 --> 01:10:02,980
+I'm like, you are describing a functioning mall.
+
+1951
+01:10:02,980 --> 01:10:05,100
+You were describing what malls were.
+
+1952
+01:10:05,100 --> 01:10:10,860
+You want to turn this dead mall into the experience
+
+1953
+01:10:10,860 --> 01:10:14,020
+of going to a functioning mall, but not go all the way
+
+1954
+01:10:14,020 --> 01:10:15,900
+of making a functioning mall.
+
+1955
+01:10:15,900 --> 01:10:18,220
+I mean, that's very funny.
+
+1956
+01:10:18,220 --> 01:10:19,140
+I'm all for it.
+
+1957
+01:10:19,140 --> 01:10:20,140
+Yeah, I'm for it.
+
+1958
+01:10:20,140 --> 01:10:22,100
+Please, we want this.
+
+1959
+01:10:22,100 --> 01:10:24,380
+What else is there to do?
+
+1960
+01:10:24,380 --> 01:10:25,140
+It's hot now.
+
+1961
+01:10:25,140 --> 01:10:27,420
+It's too hot to be outside often.
+
+1962
+01:10:27,420 --> 01:10:29,740
+Let me go into the mall.
+
+1963
+01:10:29,740 --> 01:10:31,580
+I go to the mall with my son and we just
+
+1964
+01:10:31,580 --> 01:10:33,260
+ride the escalator up and down.
+
+1965
+01:10:33,260 --> 01:10:33,900
+It's a blast.
+
+1966
+01:10:33,900 --> 01:10:34,420
+It's fun.
+
+1967
+01:10:34,420 --> 01:10:36,380
+It's a great time.
+
+1968
+01:10:36,380 --> 01:10:39,500
+Maybe one day we'll run into Mickey Rooney's grandson
+
+1969
+01:10:39,500 --> 01:10:40,740
+or something.
+
+1970
+01:10:40,740 --> 01:10:42,980
+If you're lucky, you know what I really wanted to say real quick?
+
+1971
+01:10:42,980 --> 01:10:45,700
+The bird atrium, it sounds like if Red Robin, who
+
+1972
+01:10:45,700 --> 01:10:48,620
+was a guy wearing the red suit, wanted to leave,
+
+1973
+01:10:48,620 --> 01:10:52,620
+he could take a shit on the top of the atrium in the suit.
+
+1974
+01:10:52,620 --> 01:10:55,140
+And that would be grounds for firing immediately.
+
+1975
+01:10:55,140 --> 01:10:55,660
+Yeah.
+
+1976
+01:10:55,660 --> 01:10:57,620
+He looked up there.
+
+1977
+01:10:57,620 --> 01:10:59,380
+You saw his butt crack.
+
+1978
+01:10:59,380 --> 01:11:01,220
+The butt crack that I desired.
+
+1979
+01:11:01,220 --> 01:11:04,220
+And it's probably a human one because it's sticking out.
+
+1980
+01:11:04,220 --> 01:11:05,700
+So it's a little weird.
+
+1981
+01:11:05,700 --> 01:11:07,100
+Well, I'm all for it.
+
+1982
+01:11:07,100 --> 01:11:09,860
+If this episode was about what is red, who is red,
+
+1983
+01:11:09,860 --> 01:11:12,700
+a question people were dying to be asked,
+
+1984
+01:11:12,700 --> 01:11:14,460
+why not embrace it all the way?
+
+1985
+01:11:14,460 --> 01:11:17,060
+He's a guy who touches your hair when you don't ask.
+
+1986
+01:11:17,060 --> 01:11:20,020
+He touches your food and he takes a shit
+
+1987
+01:11:20,020 --> 01:11:21,140
+on the roof of your mall.
+
+1988
+01:11:21,140 --> 01:11:22,340
+That's right.
+
+1989
+01:11:22,340 --> 01:11:24,900
+Because we already have Chuck E. Cheese, who's kind of nefarious
+
+1990
+01:11:24,900 --> 01:11:26,220
+and a little bit of a jerk.
+
+1991
+01:11:26,220 --> 01:11:29,820
+Just make this guy, he's just all the way bad news.
+
+1992
+01:11:29,820 --> 01:11:30,820
+He's crazy.
+
+1993
+01:11:30,820 --> 01:11:34,100
+Turn him back into the, him with the glassy eyes
+
+1994
+01:11:34,100 --> 01:11:35,900
+and the joints should be, that should be the least
+
+1995
+01:11:35,900 --> 01:11:36,980
+of this guy's problems.
+
+1996
+01:11:36,980 --> 01:11:40,500
+The lightest of the drugs he's, this guy should be so fucked
+
+1997
+01:11:40,500 --> 01:11:42,900
+up on every pill and upper and downer.
+
+1998
+01:11:42,900 --> 01:11:44,420
+He doesn't make sense anymore.
+
+1999
+01:11:44,420 --> 01:11:46,540
+Yum, motherfuckers, yum.
+
+2000
+01:11:49,820 --> 01:11:50,420
+Do it.
+
+2001
+01:11:50,420 --> 01:11:55,500
+This is how you get your, make Red like an insane,
+
+2002
+01:11:55,500 --> 01:11:59,420
+not a person, an insane bird who's on death's door.
+
+2003
+01:11:59,420 --> 01:11:59,940
+Yes.
+
+2004
+01:11:59,940 --> 01:12:01,860
+The way he's living.
+
+2005
+01:12:01,860 --> 01:12:04,100
+We're watching somebody in the last insane week
+
+2006
+01:12:04,100 --> 01:12:04,780
+of their life.
+
+2007
+01:12:04,780 --> 01:12:08,380
+Dennis Hopper's character from Blue Velvet, make Red that.
+
+2008
+01:12:08,380 --> 01:12:10,580
+Like fuck Heineken, Paps Blue Ribbon.
+
+2009
+01:12:10,580 --> 01:12:11,820
+With an oxygen tank.
+
+2010
+01:12:11,820 --> 01:12:13,180
+Yeah.
+
+2011
+01:12:13,180 --> 01:12:15,100
+Yeah.
+
+2012
+01:12:15,100 --> 01:12:20,020
+Tank of sucking oxygen with one tube and one blue curacao
+
+2013
+01:12:20,020 --> 01:12:21,660
+with another.
+
+2014
+01:12:21,660 --> 01:12:22,780
+All right, bitches.
+
+2015
+01:12:22,780 --> 01:12:24,780
+Red.
+
+2016
+01:12:24,780 --> 01:12:26,220
+My restaurants are going away.
+
+2017
+01:12:26,220 --> 01:12:27,500
+That's the Red we want.
+
+2018
+01:12:27,500 --> 01:12:31,100
+Get on that, Red Robin, and then I'll come back.
+
+2019
+01:12:31,100 --> 01:12:33,020
+Then they'll be back wherever.
+
+2020
+01:12:33,020 --> 01:12:36,180
+I don't have to drive to Redondo Beach anymore, but I will.
+
+2021
+01:12:36,180 --> 01:12:36,740
+But yeah.
+
+2022
+01:12:36,740 --> 01:12:39,580
+I want to give this, and now I want to hug this insane Red.
+
+2023
+01:12:39,580 --> 01:12:40,780
+I'm going to have to see dinosaurs.
+
+2024
+01:12:40,780 --> 01:12:43,580
+And see, yeah, well, we should all just go to dinosaurs.
+
+2025
+01:12:43,580 --> 01:12:47,820
+But for now, you survived podcast The Ride, The Second
+
+2026
+01:12:47,820 --> 01:12:50,660
+Gate, truly unhinged episode.
+
+2027
+01:12:50,660 --> 01:12:52,420
+I didn't even say really quick, one more thing
+
+2028
+01:12:52,420 --> 01:12:55,860
+about Red, I found a video from the local news
+
+2029
+01:12:55,860 --> 01:13:00,700
+where a soldier returns home and surprises his mother, who
+
+2030
+01:13:00,700 --> 01:13:02,740
+hasn't seen him in a year, who thinks
+
+2031
+01:13:02,740 --> 01:13:04,540
+he's still stationed overseas.
+
+2032
+01:13:04,540 --> 01:13:06,460
+Red comes up and starts again.
+
+2033
+01:13:06,460 --> 01:13:08,100
+He fell right into the character.
+
+2034
+01:13:08,100 --> 01:13:09,540
+He started touching her face.
+
+2035
+01:13:09,540 --> 01:13:10,860
+What?
+
+2036
+01:13:10,860 --> 01:13:11,540
+What's this?
+
+2037
+01:13:11,540 --> 01:13:16,140
+And then he took the head off, and it's her military son.
+
+2038
+01:13:16,140 --> 01:13:17,700
+All right, well, that's nice, I guess.
+
+2039
+01:13:17,700 --> 01:13:18,820
+It's nice, but weird.
+
+2040
+01:13:18,820 --> 01:13:21,540
+Like, how could I surprise my mom
+
+2041
+01:13:21,540 --> 01:13:24,220
+in the most heartwarming way by being her favorite character
+
+2042
+01:13:24,220 --> 01:13:26,460
+Red, the best restaurant Red Robin?
+
+2043
+01:13:26,460 --> 01:13:27,740
+I'm coming home.
+
+2044
+01:13:27,740 --> 01:13:28,420
+I'm coming.
+
+2045
+01:13:31,300 --> 01:13:32,580
+Hey, thanks for subscribing.
+
+2046
+01:13:32,580 --> 01:13:35,340
+If you want to dig even deeper, join us on our new Patreon
+
+2047
+01:13:35,340 --> 01:13:37,740
+tier club three, where you get one more bonus episode every
+
+2048
+01:13:37,740 --> 01:13:39,940
+month and our regular episodes ad free.
+
+2049
+01:13:39,940 --> 01:13:41,780
+You get to suggest the episodes.
+
+2050
+01:13:41,780 --> 01:13:44,140
+At this point, I'm like, I just want to like,
+
+2051
+01:13:44,140 --> 01:13:48,180
+even just a pure, is there an episode all about blue curacao?
+
+2052
+01:13:48,180 --> 01:13:49,860
+Yeah, just 100%.
+
+2053
+01:13:49,860 --> 01:13:50,660
+Oh, sure.
+
+2054
+01:13:50,660 --> 01:13:52,020
+Let's figure out the history of it.
+
+2055
+01:13:52,020 --> 01:13:53,860
+I love a blotcher of it.
+
+2056
+01:13:53,860 --> 01:13:56,140
+Is there alcohol in blue curacao?
+
+2057
+01:13:56,140 --> 01:13:57,820
+I've never been 100% certain on that.
+
+2058
+01:13:57,820 --> 01:13:58,580
+I don't know.
+
+2059
+01:13:58,580 --> 01:13:59,500
+Is it just the flavor?
+
+2060
+01:13:59,500 --> 01:14:02,780
+I wasn't sure if it was like tonic water and club soda
+
+2061
+01:14:02,780 --> 01:14:05,220
+or if it's a liqueur.
+
+2062
+01:14:05,220 --> 01:14:07,980
+I've never seen anyone just order blue curacao,
+
+2063
+01:14:07,980 --> 01:14:10,460
+but it's in everything that wants to be blue.
+
+2064
+01:14:10,460 --> 01:14:12,180
+Whether or not it has alcohol, imagine
+
+2065
+01:14:12,180 --> 01:14:14,660
+drinking only the blue.
+
+2066
+01:14:14,660 --> 01:14:15,660
+Dear God.
+
+2067
+01:14:15,660 --> 01:14:17,900
+I'll do it on the show live.
+
+2068
+01:14:17,900 --> 01:14:19,380
+That's a drink that they had.
+
+2069
+01:14:19,380 --> 01:14:20,500
+I forgot to say this.
+
+2070
+01:14:20,500 --> 01:14:22,060
+Tito's Blue Chill.
+
+2071
+01:14:22,060 --> 01:14:25,660
+Tito's vodka, blue curacao, club soda, sweet and sour,
+
+2072
+01:14:25,660 --> 01:14:28,700
+and pineapple juice topped with whipped cream.
+
+2073
+01:14:28,700 --> 01:14:30,100
+That's insane.
+
+2074
+01:14:30,100 --> 01:14:31,900
+And it's only $5.
+
+2075
+01:14:31,900 --> 01:14:35,060
+That doesn't seem right.
+
+2076
+01:14:35,060 --> 01:14:36,900
+You want to see low prices.
+
+2077
+01:14:36,900 --> 01:14:39,140
+You'd think that was nice, but that just
+
+2078
+01:14:39,140 --> 01:14:41,340
+makes me think there's no liquor in it
+
+2079
+01:14:41,340 --> 01:14:43,500
+and that it'll make me so sick.
+
+2080
+01:14:43,500 --> 01:14:46,100
+They can't charge that much because it'll be outside of me
+
+2081
+01:14:46,100 --> 01:14:47,900
+again within six minutes.
+
+2082
+01:14:47,900 --> 01:14:48,420
+Yeah.
+
+2083
+01:14:48,420 --> 01:14:49,500
+A beer is like a $5.
+
+2084
+01:14:49,500 --> 01:14:50,980
+Sometimes you get lucky at a place
+
+2085
+01:14:50,980 --> 01:14:52,620
+with it for a beer for $5.
+
+2086
+01:14:52,620 --> 01:14:53,140
+Yeah.
+
+2087
+01:14:53,140 --> 01:14:54,340
+I do not trust that.
+
+2088
+01:14:54,340 --> 01:14:56,340
+You'd like to see a deal, but no thank you.
+
+2089
+01:14:56,340 --> 01:14:57,980
+I guess I'll order it next time.
+
+2090
+01:14:57,980 --> 01:15:01,180
+I'll get a martini and hope that a Mickey Rooney
+
+2091
+01:15:01,180 --> 01:15:04,060
+relative is in sight.
+

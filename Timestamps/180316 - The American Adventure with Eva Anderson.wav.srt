@@ -1,0 +1,6736 @@
+1
+00:00:00,000 --> 00:00:16,000
+Warning! Today's episode may include Kafka-esque theatrical kidnappings, robots who paint in blood, and cannonballs that don't pay no mind. Eva Anderson helps us spread our golden wings and fly to the American adventure on today's Podcast The Ride.
+
+2
+00:00:30,000 --> 00:00:45,000
+Hello and welcome to Podcast The Ride, the podcast hosted by three men who would rather enter the basketball court inside the Matterhorn than Christ's kingdom of heaven.
+
+3
+00:00:45,000 --> 00:00:51,000
+It's a long walk. I'm Scott Gairdner and I'm joined by Mike Carlson.
+
+4
+00:00:51,000 --> 00:00:58,000
+I have thought about how cool it would be to play basketball in there, and I don't. I'm a bad athlete, I'm bad at basketball, but...
+
+5
+00:00:58,000 --> 00:01:09,000
+I bet everyone who has played in that is terrible. I bet it's a land for non-athletes. Except for those Matterhorn mountain climbers. They're athletic.
+
+6
+00:01:09,000 --> 00:01:12,000
+Yes, they're very athletic. So yeah, anyway.
+
+7
+00:01:12,000 --> 00:01:15,000
+You know, if we don't acknowledge the other host, then does he get to talk?
+
+8
+00:01:15,000 --> 00:01:18,000
+Oh, good point. We could cut him out, we could ice him out.
+
+9
+00:01:18,000 --> 00:01:23,000
+Does he really have the power? No, he will. Hey, we gotta get him in on this. It's Jason Sheridan.
+
+10
+00:01:23,000 --> 00:01:27,000
+Hi, this is my greatest fear, when everyone just turns on me.
+
+11
+00:01:27,000 --> 00:01:31,000
+I knew it was coming, I've prepared for it, I've spent a lot of time thinking about it.
+
+12
+00:01:31,000 --> 00:01:37,000
+You have your own, like, theme park podcast logo made up for when you split off because we've iced you out?
+
+13
+00:01:37,000 --> 00:01:39,000
+Oh, yeah.
+
+14
+00:01:39,000 --> 00:01:43,000
+Yeah, when you go to just Jason's theme time. Jason's theme park.
+
+15
+00:01:43,000 --> 00:01:46,000
+Jason's theme time. So I guess it's just me now.
+
+16
+00:01:46,000 --> 00:01:52,000
+Yeah, that's my intro every episode. It's very off-putting and people hate it.
+
+17
+00:01:52,000 --> 00:01:56,000
+Also the name of your album, your first musical album. It's just me now.
+
+18
+00:01:56,000 --> 00:01:58,000
+It's just me now.
+
+19
+00:01:58,000 --> 00:02:00,000
+Just you glum in a sweater.
+
+20
+00:02:00,000 --> 00:02:09,000
+Yeah, the cover is, yeah. Well, the back cover is me in a sweater, the front cover is me in a tuxedo, but the bowtie's undone.
+
+21
+00:02:09,000 --> 00:02:13,000
+Cigarette. I'm sort of like a Seth MacFarlane type.
+
+22
+00:02:13,000 --> 00:02:18,000
+But at the end of the night, the show didn't go well, everyone walked out.
+
+23
+00:02:18,000 --> 00:02:27,000
+Yeah. All right, and there is a fourth joining us. We're very happy to have her. A great writer and performer from Comedy Bang Bang and You're the Worst. It's Eva Anderson.
+
+24
+00:02:27,000 --> 00:02:28,000
+Hey, guys.
+
+25
+00:02:28,000 --> 00:02:29,000
+Hey.
+
+26
+00:02:29,000 --> 00:02:31,000
+Thank you so much for being here. We're so excited to have you.
+
+27
+00:02:31,000 --> 00:02:33,000
+I'm so excited to be here.
+
+28
+00:02:33,000 --> 00:02:48,000
+Oh, man. There's so much to talk about. I feel like I've heard rumors of your theme park lore and backstory, and you seem in general like just a big fan of insane experiences out in the world.
+
+29
+00:02:48,000 --> 00:02:49,000
+Yeah.
+
+30
+00:02:49,000 --> 00:02:51,000
+As are we, so yeah.
+
+31
+00:02:51,000 --> 00:03:05,000
+But you're braver about them than we are. You'll do some interesting stuff, scary stuff, immersive stuff where it seems like you're getting abducted or there's a prowler at the door.
+
+32
+00:03:05,000 --> 00:03:18,000
+I had a, like two years ago, I bought a subscription service where this immersive theater company did a play in my life, and they came to my house at six in the morning and arrested me in a Kafka-esque fashion.
+
+33
+00:03:18,000 --> 00:03:20,000
+Wow. Oh, my God.
+
+34
+00:03:20,000 --> 00:03:25,000
+They were all young people who lived in Orange County.
+
+35
+00:03:25,000 --> 00:03:30,000
+So aware of the not characters you were dealing with.
+
+36
+00:03:30,000 --> 00:03:31,000
+Yeah.
+
+37
+00:03:31,000 --> 00:03:33,000
+They brought you into a van and took you somewhere?
+
+38
+00:03:33,000 --> 00:03:40,000
+No, they showed up at my house, and they were like, you were under arrest for crimes. And it was fucking incredible.
+
+39
+00:03:40,000 --> 00:03:46,000
+And then they sent me to my room to change into my finest to meet the inspector.
+
+40
+00:03:46,000 --> 00:03:51,000
+And I did. And while I was in my room, they hid things all over my house that I had to find later.
+
+41
+00:03:51,000 --> 00:03:56,000
+I feel like one of your roommates told me, like, yeah, every now and then a strange box will show up.
+
+42
+00:03:56,000 --> 00:03:57,000
+Oh, Lisa.
+
+43
+00:03:57,000 --> 00:04:01,000
+Yeah, Lisa will just be like, yeah, there'll be a strange box every now and then, and we just assume it's an Eva thing.
+
+44
+00:04:01,000 --> 00:04:02,000
+Yeah.
+
+45
+00:04:02,000 --> 00:04:05,000
+You also prepare to meet the inspector. Fuck no.
+
+46
+00:04:05,000 --> 00:04:09,000
+No, no, I have to go to work.
+
+47
+00:04:09,000 --> 00:04:15,000
+I know. So I did that for a while. And then that theater company moved to San Francisco without ever finishing my story.
+
+48
+00:04:15,000 --> 00:04:18,000
+Oh, no, they might be back, though.
+
+49
+00:04:18,000 --> 00:04:21,000
+This might be the it's a long con kind of thing.
+
+50
+00:04:21,000 --> 00:04:22,000
+Yeah. What is it?
+
+51
+00:04:22,000 --> 00:04:24,000
+It is too long.
+
+52
+00:04:24,000 --> 00:04:27,000
+You don't think this is the prestige is not coming, right?
+
+53
+00:04:27,000 --> 00:04:28,000
+That's the end of a magic.
+
+54
+00:04:28,000 --> 00:04:37,000
+What if they had figured out what if we revealed to you that we were part of this and that this is the finishing part of the group from La Mirada.
+
+55
+00:04:37,000 --> 00:04:38,000
+Yeah, we're from La Mirada.
+
+56
+00:04:38,000 --> 00:04:41,000
+And we started this podcast as a way to con you into getting here.
+
+57
+00:04:41,000 --> 00:04:44,000
+And now we're revealing the finale.
+
+58
+00:04:44,000 --> 00:04:49,000
+Oh, my God. Immersive actress Dolores Quintana walks out in the hallway.
+
+59
+00:04:49,000 --> 00:04:50,000
+Hi.
+
+60
+00:04:50,000 --> 00:04:53,000
+Dolores, not yet. We just mentioned you. Get back.
+
+61
+00:04:53,000 --> 00:04:55,000
+Dolores is an old friend of Jason's.
+
+62
+00:04:55,000 --> 00:04:56,000
+Oh, my God.
+
+63
+00:04:56,000 --> 00:05:00,000
+What if you guys pretended to be interested in theme parks week after week?
+
+64
+00:05:00,000 --> 00:05:03,000
+Hoping that I would listen to the podcast.
+
+65
+00:05:03,000 --> 00:05:04,000
+To lure me in.
+
+66
+00:05:04,000 --> 00:05:06,000
+All right. Step one. She's in.
+
+67
+00:05:06,000 --> 00:05:09,000
+Very predictable. We learned everything.
+
+68
+00:05:09,000 --> 00:05:10,000
+Oh, man.
+
+69
+00:05:10,000 --> 00:05:16,000
+OK. Yeah. So all right. So you've there. Yeah. You've been involved in immersive theater world.
+
+70
+00:05:16,000 --> 00:05:29,000
+You also you grew up getting to experience some like the kinds of Disney experiences that will still today make us insanely jealous.
+
+71
+00:05:29,000 --> 00:05:35,000
+I feel like I mean, you know, prepared to hear some some very genuine gasps, I suppose.
+
+72
+00:05:35,000 --> 00:05:36,000
+Yes.
+
+73
+00:05:36,000 --> 00:05:41,000
+I'm not trying to I'm aware of my privilege. I want to say that up top.
+
+74
+00:05:41,000 --> 00:05:48,000
+Right. Like I know that this is not normal and that it's by talking about it, it might be like annoying.
+
+75
+00:05:48,000 --> 00:05:51,000
+I don't know. You're you. Well, if you're if you're appreciative.
+
+76
+00:05:51,000 --> 00:05:53,000
+Oh, yes. Highly.
+
+77
+00:05:53,000 --> 00:05:59,000
+Yeah. It's all in the attitude. If you're saying like, yeah, of course, I got to do these cool things, then then people will be mad.
+
+78
+00:05:59,000 --> 00:06:10,000
+But if you're saying I'm so humbled by the experience to have done, you know, like whatever you're about to say, you know, I think people would be like generally happy for you that you got to do it.
+
+79
+00:06:10,000 --> 00:06:14,000
+Oh, I don't need people to be happy. Oh, OK. Never mind. I don't want to be mad.
+
+80
+00:06:14,000 --> 00:06:15,000
+Oh, yeah. I don't want to be. Got it. Got it.
+
+81
+00:06:15,000 --> 00:06:18,000
+It would be insane that that is someone that is what made someone bad.
+
+82
+00:06:18,000 --> 00:06:25,000
+Aren't you happy for me? I demand that you're happy for listeners.
+
+83
+00:06:25,000 --> 00:06:28,000
+Please be happy for you.
+
+84
+00:06:28,000 --> 00:06:37,000
+Well, yeah, I'm look, I'm not sure how to get into it. I just I know like you guys like it's it's all like a hushed secret.
+
+85
+00:06:37,000 --> 00:06:43,000
+Like I heard that Eva went to the. Yeah, we I guess you would mention to me and Scott, like some of the things you got to do.
+
+86
+00:06:43,000 --> 00:06:46,000
+Well, I guess we should first say you have a family connection.
+
+87
+00:06:46,000 --> 00:06:54,000
+Yeah. So my dad is Harry Anderson, who was on Night Court and Cheers, and he worked for Disney through the in the 80s and 90s.
+
+88
+00:06:54,000 --> 00:07:02,000
+OK, on and off. He was the absent minded professor in the new version of it on TV in 88.
+
+89
+00:07:02,000 --> 00:07:06,000
+And then there was like a sequel, I think probably in 89 or 90, which you reminded me of.
+
+90
+00:07:06,000 --> 00:07:10,000
+And he is like he has like a like a computer assistant. Yeah, there's a trailer.
+
+91
+00:07:10,000 --> 00:07:17,000
+If you Google it, it's fucking great. He has like a computer friend named Albert who talks.
+
+92
+00:07:17,000 --> 00:07:23,000
+He's on like the screen of a tiny, tiny Apple computer, like a grayscale, a grayscale animated like Albert Einstein character.
+
+93
+00:07:23,000 --> 00:07:26,000
+Who's like, yes, you should call it flubber.
+
+94
+00:07:26,000 --> 00:07:30,000
+It's just very available. Just Google away.
+
+95
+00:07:30,000 --> 00:07:35,000
+I like that he the computer, the professor doesn't get to figure out that it's flubber.
+
+96
+00:07:35,000 --> 00:07:40,000
+A computer has to word analyze and figure it out for.
+
+97
+00:07:40,000 --> 00:07:48,000
+Oh, I see flubber. He got the idea from a computer saying the idea.
+
+98
+00:07:48,000 --> 00:07:52,000
+Right. OK, OK. And what like what else in Disney World?
+
+99
+00:07:52,000 --> 00:07:57,000
+I feel like I do remember him from like from a lot of like specials.
+
+100
+00:07:57,000 --> 00:08:01,000
+He hosted a lot of or like appeared in a lot of specials, I think.
+
+101
+00:08:01,000 --> 00:08:06,000
+Sure. OK. Which I should say, I don't think I've talked to you about this,
+
+102
+00:08:06,000 --> 00:08:14,000
+that the specific special that he hosted, the Disneyland story is my very favorite one that ever I am.
+
+103
+00:08:14,000 --> 00:08:20,000
+I am an aficionado of like at this point, dozens and dozens of Disney specials of various kinds.
+
+104
+00:08:20,000 --> 00:08:24,000
+And this was the one that I taped off the TV, wore it out.
+
+105
+00:08:24,000 --> 00:08:30,000
+Like I remember every commercial brand. I remember the specific like Sizzlers commercials.
+
+106
+00:08:30,000 --> 00:08:32,000
+I don't know at all what it's about.
+
+107
+00:08:32,000 --> 00:08:34,000
+Don't know. I was hoping this would be the case.
+
+108
+00:08:34,000 --> 00:08:39,000
+It's very complicated. Mike and I have also watched it, but I watched it.
+
+109
+00:08:39,000 --> 00:08:41,000
+We're not nearly as deep as Scott is on this.
+
+110
+00:08:41,000 --> 00:08:44,000
+I specifically love the last 10 minutes.
+
+111
+00:08:44,000 --> 00:08:48,000
+But Scott, I'll let you build to that. The last minutes are very specific.
+
+112
+00:08:48,000 --> 00:08:53,000
+Here I have it in front of me and I can flip through. I'm very excited to get to explain this to you for the first time.
+
+113
+00:08:53,000 --> 00:09:01,000
+I'm very excited to see it. We open on the Disneyland railroad station and your father.
+
+114
+00:09:01,000 --> 00:09:03,000
+Oh, he's in a fedora and trench coat.
+
+115
+00:09:03,000 --> 00:09:06,000
+I feel like he had kind of like an old timey air and a lot of things.
+
+116
+00:09:06,000 --> 00:09:09,000
+Yeah, that was his look. Sure, sure.
+
+117
+00:09:09,000 --> 00:09:17,000
+So he is in the back of a train and it's like a special car and a special train that is going to like not just do the regular route.
+
+118
+00:09:17,000 --> 00:09:22,000
+But instead take you through the history of Disneyland and through time.
+
+119
+00:09:22,000 --> 00:09:27,000
+The thing I don't want to put on Mike here so I can just keep talking is that this is all set to the Back to the Future music.
+
+120
+00:09:27,000 --> 00:09:30,000
+Not Disney property. Not Disney property.
+
+121
+00:09:30,000 --> 00:09:36,000
+And I was so messed up and I love this thing so much that in my mind it was always it.
+
+122
+00:09:36,000 --> 00:09:40,000
+Oh, like when I saw Back to the Future, I was like, oh, it's the Disneyland story music.
+
+123
+00:09:40,000 --> 00:09:44,000
+This is in something else. That's how backwards. I love this special so much.
+
+124
+00:09:44,000 --> 00:09:48,000
+I love that. And then I'm very excited you get to see this for the first time.
+
+125
+00:09:48,000 --> 00:09:58,000
+Here's your dad traveling through time through the history of Disneyland and like the time train at the end of Back to the Future 3 sparkles.
+
+126
+00:09:58,000 --> 00:10:01,000
+Old analog sparkles. Yeah, like lighting up the room.
+
+127
+00:10:01,000 --> 00:10:03,000
+Maybe some glow purple. Yeah, yeah, yeah.
+
+128
+00:10:03,000 --> 00:10:05,000
+Like neon. Oh, it's like he's going to die.
+
+129
+00:10:05,000 --> 00:10:09,000
+Like still lightning bolts. It's like aha Take on Me level technology.
+
+130
+00:10:09,000 --> 00:10:11,000
+He passed a calendar that said February.
+
+131
+00:10:11,000 --> 00:10:15,000
+A tunnel that took him through the space with the Star Tours warp.
+
+132
+00:10:15,000 --> 00:10:19,000
+And now he is in awe of the history of Disneyland.
+
+133
+00:10:19,000 --> 00:10:22,000
+There's Maleficent. He just passed Walt.
+
+134
+00:10:22,000 --> 00:10:25,000
+There's a lot of just mouthing wow. He's just pointing.
+
+135
+00:10:25,000 --> 00:10:27,000
+Yeah, yeah. He's doing good.
+
+136
+00:10:27,000 --> 00:10:31,000
+This is it's so much fun. Just look this up on YouTube. Enjoy it on your own time.
+
+137
+00:10:31,000 --> 00:10:33,000
+Oh yeah, I will. And show your father's work.
+
+138
+00:10:33,000 --> 00:10:39,000
+Now the thing for me that where this special really takes gets me is the last like 10 minutes.
+
+139
+00:10:39,000 --> 00:10:42,000
+He's like here's what's coming soon to Disneyland.
+
+140
+00:10:42,000 --> 00:10:46,000
+And it is all these attractions and most of them never happened.
+
+141
+00:10:46,000 --> 00:10:49,000
+What are they? Dick Tracy's Crime Stoppers.
+
+142
+00:10:49,000 --> 00:10:51,000
+Oh, you guys have mentioned that. The shooting game?
+
+143
+00:10:51,000 --> 00:10:54,000
+The shooting game. Yeah, where you would shoot criminals in a police car.
+
+144
+00:10:54,000 --> 00:10:58,000
+Oh man. We were such a Dick Tracy family that would have been so dope.
+
+145
+00:10:58,000 --> 00:11:02,000
+Oh man. I think it would really stand out today the way that.
+
+146
+00:11:02,000 --> 00:11:05,000
+Well, another thing that they talked about was like more.
+
+147
+00:11:05,000 --> 00:11:08,000
+You ended up with Toontown and you ended up with the Roger Rabbit cartoon spin ride.
+
+148
+00:11:08,000 --> 00:11:12,000
+But I think there would have been a ton more. Like an entire Roger Rabbit world.
+
+149
+00:11:12,000 --> 00:11:16,000
+Oh wow. And Roger Rabbit and Dick Tracy were both very odd because they didn't like.
+
+150
+00:11:16,000 --> 00:11:20,000
+They didn't maintain. Like their standing in Disney culture.
+
+151
+00:11:20,000 --> 00:11:24,000
+No. So it dropped off right after this special basically.
+
+152
+00:11:24,000 --> 00:11:27,000
+But it's so crazy because Roger Rabbit I would argue is like one of the best.
+
+153
+00:11:27,000 --> 00:11:29,000
+Yeah. Yeah. Yeah.
+
+154
+00:11:29,000 --> 00:11:35,000
+It was a huge hit. It's like E.T. where there was no. Because there are no further films.
+
+155
+00:11:35,000 --> 00:11:37,000
+Well there's kind of less of a way to keep it alive.
+
+156
+00:11:37,000 --> 00:11:41,000
+The Roger Rabbit last little because they had like they would did a short with the baby.
+
+157
+00:11:41,000 --> 00:11:45,000
+Yeah. So like their baby Herman. And then the ride is Disneyland.
+
+158
+00:11:45,000 --> 00:11:48,000
+Oh yeah. You're like a baby Herman's carriage. Yes.
+
+159
+00:11:48,000 --> 00:11:52,000
+That gets out of control. So Roger floated along for a while.
+
+160
+00:11:52,000 --> 00:11:58,000
+There's been rumors. There was a rumor for a long time that they were going to remake an old Hope and Crosby movie with Mickey and Roger.
+
+161
+00:11:58,000 --> 00:12:02,000
+Which is a great idea. That didn't happen.
+
+162
+00:12:02,000 --> 00:12:09,000
+I think there was there was going to be like a great movie ride out here or more Hollywood themed stuff that never got built.
+
+163
+00:12:09,000 --> 00:12:22,000
+Well alien encounter out here. It's just like one by one he takes you into the future and goes up to the year 2000 and lists many many things none of which I think not a single one in the list.
+
+164
+00:12:22,000 --> 00:12:32,000
+And you wonder Disney does a lot of that like kind of preannouncing plans even in specials which I wonder if that's partially to generate interest in it and like gauge fan interest in.
+
+165
+00:12:32,000 --> 00:12:37,000
+Well now it's only like if the money is ready. Now it's only like if something is going to happen.
+
+166
+00:12:37,000 --> 00:12:43,000
+But they also suppose the rumors are that they gauge interest now on podcasts. They leak information to podcasters.
+
+167
+00:12:43,000 --> 00:12:51,000
+I won't say who but they'll leak information out and then they'll get a like a test from the audience to see if people online are mad or not.
+
+168
+00:12:51,000 --> 00:12:54,000
+And then they proceed with or they pull the plans back.
+
+169
+00:12:54,000 --> 00:13:03,000
+Such as it was recently announced that the Disney Hollywood Studios was maybe going to be called Disney Cinemagine Park which is a bizarre horrible name.
+
+170
+00:13:03,000 --> 00:13:04,000
+I don't like that at all.
+
+171
+00:13:04,000 --> 00:13:13,000
+But it was but they said no it's not happening but there was a whole rumor leak about it and then all of a sudden people must have been like irate like we all just were.
+
+172
+00:13:13,000 --> 00:13:16,000
+That's how we are show up being irate. Oh no that's bad.
+
+173
+00:13:16,000 --> 00:13:20,000
+And then they said no we're going to we're going to keep the name Hollywood Studios.
+
+174
+00:13:20,000 --> 00:13:26,000
+So let's keep being vocal about everything to see if it affects. I'm going to show you one more part of this special.
+
+175
+00:13:26,000 --> 00:13:36,000
+So he is talking about we're in the haunted mansion era of Disneyland history and the Imagineers are gauging whether it will be a funny ride or a scary ride.
+
+176
+00:13:36,000 --> 00:13:37,000
+And then there's this.
+
+177
+00:13:37,000 --> 00:13:45,000
+In the end the mansion becomes more light than fright. Kind of a happy haunting ground for the whole family.
+
+178
+00:13:45,000 --> 00:13:51,000
+Good. Now I can go there with my five year old. Otherwise she'd have to go alone.
+
+179
+00:13:51,000 --> 00:13:55,000
+Oh, I was five.
+
+180
+00:13:55,000 --> 00:14:00,000
+Okay. I wasn't sure if there was a sibling if there's a little brother.
+
+181
+00:14:00,000 --> 00:14:02,000
+Oh, okay. Yeah, but that's it. Oh, that's so cool.
+
+182
+00:14:02,000 --> 00:14:09,000
+There you go. You're joking this. But this thing that I watched religiously when I was like five months ago.
+
+183
+00:14:09,000 --> 00:14:10,000
+So sweet. Yeah.
+
+184
+00:14:10,000 --> 00:14:15,000
+I love that. So yeah. Big fan of that. It's very exciting to show you that.
+
+185
+00:14:15,000 --> 00:14:19,000
+I can't wait to watch it later and see all the things that he talks about that never happened.
+
+186
+00:14:19,000 --> 00:14:26,000
+Yeah. Yeah. That part is really fun. In general it's like a really it's a fun little like jaunt through Disneyland history that kind of spells it out for a kid.
+
+187
+00:14:26,000 --> 00:14:35,000
+But that sets you up to then go on every website known to man and discover every specific date everything opened and who designed it all.
+
+188
+00:14:35,000 --> 00:14:38,000
+And this started me on the road to ruin.
+
+189
+00:14:38,000 --> 00:14:45,000
+It seems like it had a decent budget. Like some of these specials we have watched or talked about like have been pretty slapdash.
+
+190
+00:14:45,000 --> 00:14:47,000
+And this one is the opposite.
+
+191
+00:14:47,000 --> 00:14:50,000
+If they in fact paid for the Back to the Future.
+
+192
+00:14:50,000 --> 00:14:52,000
+Yeah. Yeah. Yeah.
+
+193
+00:14:52,000 --> 00:14:56,000
+Unless it's sound alike enough and we just are filling in the blank.
+
+194
+00:14:56,000 --> 00:14:59,000
+Just assuming. Yeah. Yeah. Yeah. Yeah. No. No. It's literally.
+
+195
+00:14:59,000 --> 00:15:00,000
+Yeah. Yeah. Okay.
+
+196
+00:15:00,000 --> 00:15:02,000
+Yeah. Sort of odd culture clash.
+
+197
+00:15:02,000 --> 00:15:08,000
+So your first visit to Disneyland was it just as a normal civilian or was it a.
+
+198
+00:15:08,000 --> 00:15:09,000
+Yeah. Okay.
+
+199
+00:15:09,000 --> 00:15:15,000
+And also my I think my first visit to well maybe now this is five year old because my mom told me the first time.
+
+200
+00:15:15,000 --> 00:15:18,000
+So we I grew up in L.A. I went there when I was little.
+
+201
+00:15:18,000 --> 00:15:22,000
+We went I just rode Dumbo or whatever.
+
+202
+00:15:22,000 --> 00:15:24,000
+Sure.
+
+203
+00:15:24,000 --> 00:15:29,000
+There was like a family lore which I don't know if it's true.
+
+204
+00:15:29,000 --> 00:15:34,000
+And my because I love my dad but he can be a bit of a fabulous.
+
+205
+00:15:34,000 --> 00:15:37,000
+I think I know that word. You know fabulous. Okay.
+
+206
+00:15:37,000 --> 00:15:40,000
+Sure. Flights of fancy. I see. Yes.
+
+207
+00:15:40,000 --> 00:15:50,000
+He claims that in high school he worked at Disneyland and he was in the goofy suit and he got fired for being on acid on Tom Sawyer's Island in the suit hiding behind a tree.
+
+208
+00:15:50,000 --> 00:15:55,000
+And so scandalous information. I know. You listen to the show you know what that does to us.
+
+209
+00:15:55,000 --> 00:15:57,000
+But also that might not be true. Okay.
+
+210
+00:15:57,000 --> 00:16:03,000
+So a fun story he likes to tell. Right. Because he was and also he was underage for like the job or maybe he wasn't.
+
+211
+00:16:03,000 --> 00:16:07,000
+I think he was underage for he lied about his age.
+
+212
+00:16:07,000 --> 00:16:11,000
+So yeah because my dad grew up here he went to North Hollywood High nearby.
+
+213
+00:16:11,000 --> 00:16:15,000
+Okay. Yeah. And then he lived in Orange County and worked at all the parks.
+
+214
+00:16:15,000 --> 00:16:19,000
+He worked at Japanese Deer Garden. Have you guys learned about that.
+
+215
+00:16:19,000 --> 00:16:21,000
+Is it a Buena Park thing. Yeah.
+
+216
+00:16:21,000 --> 00:16:25,000
+It was like an animal park that briefly existed by Knott's Berry Farm I guess.
+
+217
+00:16:25,000 --> 00:16:32,000
+Is it. I've seen photos of some weird attraction where there's like people in mascot costumes of Japanese people.
+
+218
+00:16:32,000 --> 00:16:35,000
+Yes. And that is horrible. That's it. That's the Japanese Deer Garden.
+
+219
+00:16:35,000 --> 00:16:37,000
+Okay. Deer Garden?
+
+220
+00:16:37,000 --> 00:16:40,000
+Yeah. It had been miniature I guess miniature Japanese deer.
+
+221
+00:16:40,000 --> 00:16:44,000
+I one time found because he worked there too and there's another story about that.
+
+222
+00:16:44,000 --> 00:16:46,000
+He got bit by a Black Widow spider.
+
+223
+00:16:46,000 --> 00:16:48,000
+Oh God.
+
+224
+00:16:48,000 --> 00:16:51,000
+Maybe it was his friend. I don't know.
+
+225
+00:16:51,000 --> 00:16:59,000
+But anyway I was in Chinatown once and I found a like memorial plate from this this attract this park.
+
+226
+00:16:59,000 --> 00:17:01,000
+So it did exist. Okay.
+
+227
+00:17:01,000 --> 00:17:14,000
+And it's I don't think it was very short-lived. I think I researched a little bit and it was like a yeah it had a bear that would do tricks and I had like yeah it was just like a Japanese themed animal park.
+
+228
+00:17:14,000 --> 00:17:16,000
+Wow. Weird. Yeah. Sixties.
+
+229
+00:17:16,000 --> 00:17:21,000
+And I worked at a lot of oddities. For sure. Like the wax museum that's kind of been nothing for a long time.
+
+230
+00:17:21,000 --> 00:17:27,000
+Is there nothing in there? I drove past it because I you guys know I because I tweeted at you that I did what you said Scott.
+
+231
+00:17:27,000 --> 00:17:28,000
+Oh yeah.
+
+232
+00:17:28,000 --> 00:17:37,000
+And I was driving up from Orange County from San Diego where I was buying actually a piece of art by a Disney watercolor.
+
+233
+00:17:37,000 --> 00:17:41,000
+Okay. Yeah. I based on your on the podcast.
+
+234
+00:17:41,000 --> 00:17:42,000
+Oh man.
+
+235
+00:17:42,000 --> 00:17:45,000
+I'd been researching because of the Van Leeuwen. Is that the Van Leeuwen?
+
+236
+00:17:45,000 --> 00:17:46,000
+Van Een Gallery.
+
+237
+00:17:46,000 --> 00:17:47,000
+Van Een Gallery.
+
+238
+00:17:47,000 --> 00:17:55,000
+I was researching as I was buying a gift for my boyfriend I was researching different fine art by like Disney by watercolor California watercolorist.
+
+239
+00:17:55,000 --> 00:17:56,000
+Okay.
+
+240
+00:17:56,000 --> 00:18:06,000
+And it turns out that I didn't know this history but in the 40s and 50s Walt bought basically bought his own watercolor school.
+
+241
+00:18:06,000 --> 00:18:13,000
+So because he wanted to like have a bunch of watercolorists at the go for all of the collectives paint all the backgrounds and be animators.
+
+242
+00:18:13,000 --> 00:18:18,000
+And like have people ready to go like as and especially as these like moving people to the parks or whatever else.
+
+243
+00:18:18,000 --> 00:18:19,000
+Yeah.
+
+244
+00:18:19,000 --> 00:18:22,000
+Like have like people ready to fill the town halls I guess.
+
+245
+00:18:22,000 --> 00:18:25,000
+So he invested a ton of money in this watercolor school.
+
+246
+00:18:25,000 --> 00:18:32,000
+So if you were like a watercolor artist from anywhere in the country you end up in California going to the school which then merged and became CalArts.
+
+247
+00:18:32,000 --> 00:18:33,000
+CalArts right.
+
+248
+00:18:33,000 --> 00:18:34,000
+Which still feeds the system.
+
+249
+00:18:34,000 --> 00:18:35,000
+Oh.
+
+250
+00:18:35,000 --> 00:18:36,000
+Yeah.
+
+251
+00:18:36,000 --> 00:18:37,000
+Wow.
+
+252
+00:18:37,000 --> 00:18:38,000
+So anyway I bought.
+
+253
+00:18:38,000 --> 00:18:41,000
+Wait so it was there or like like was it literally that campus in Valencia or whatever or.
+
+254
+00:18:41,000 --> 00:18:44,000
+I don't know where the original I think might have been Pasadena.
+
+255
+00:18:44,000 --> 00:18:45,000
+Weird.
+
+256
+00:18:45,000 --> 00:18:46,000
+But yeah.
+
+257
+00:18:46,000 --> 00:18:58,000
+So I bought a painting by a guy named Art Riley who did a bunch of like seascapes but he also painted backgrounds for Bambi and a bunch of other like yeah the original movies.
+
+258
+00:18:58,000 --> 00:18:59,000
+So cool.
+
+259
+00:18:59,000 --> 00:19:00,000
+Those people are no joke.
+
+260
+00:19:00,000 --> 00:19:02,000
+Those original artists are so great.
+
+261
+00:19:02,000 --> 00:19:09,000
+It's cool and it's a if you Google the guy Art Riley it's a seascape but it looks like a Disney background.
+
+262
+00:19:09,000 --> 00:19:10,000
+It's really cool.
+
+263
+00:19:10,000 --> 00:19:11,000
+Oh cool.
+
+264
+00:19:11,000 --> 00:19:12,000
+Oh amazing.
+
+265
+00:19:12,000 --> 00:19:22,000
+So I was driving up from there and I was like there's traffic and I was by Knott's Berry Farm and I was like I could just according to the podcast not go in but just hang out near and see what's around.
+
+266
+00:19:22,000 --> 00:19:23,000
+For free.
+
+267
+00:19:23,000 --> 00:19:24,000
+Parking free.
+
+268
+00:19:24,000 --> 00:19:29,000
+I mean you got to buy the food and the drinks and everything but how did it go?
+
+269
+00:19:29,000 --> 00:19:31,000
+How was your how was your time?
+
+270
+00:19:31,000 --> 00:19:32,000
+It was fun.
+
+271
+00:19:32,000 --> 00:19:33,000
+I walked around I went in all the little shops.
+
+272
+00:19:33,000 --> 00:19:36,000
+I had some soup which was not good.
+
+273
+00:19:36,000 --> 00:19:39,000
+And a and a boysenberry beer.
+
+274
+00:19:39,000 --> 00:19:40,000
+Oh yeah.
+
+275
+00:19:40,000 --> 00:19:42,000
+Which you were iffy on.
+
+276
+00:19:42,000 --> 00:19:48,000
+A little sweet but also it's nice that the chicken restaurants expanded enough that there's like other you didn't have to wait at all.
+
+277
+00:19:48,000 --> 00:19:49,000
+I just went in.
+
+278
+00:19:49,000 --> 00:19:53,000
+Yeah there's a ton of rooms and yeah if you go at an odd time I think that's a that's a legit bar.
+
+279
+00:19:53,000 --> 00:19:55,000
+I think it's very nice in there.
+
+280
+00:19:55,000 --> 00:20:00,000
+I don't think I think they didn't they they retained the like old timey charm I feel.
+
+281
+00:20:00,000 --> 00:20:02,000
+I still haven't been to the new renovated.
+
+282
+00:20:02,000 --> 00:20:03,000
+OK.
+
+283
+00:20:03,000 --> 00:20:04,000
+Yeah.
+
+284
+00:20:04,000 --> 00:20:11,000
+I don't know it was like it kind of looked like it was maybe not a good time a good type of chintzy was maybe like a little retirement home.
+
+285
+00:20:11,000 --> 00:20:13,000
+Yeah I made you feel old.
+
+286
+00:20:13,000 --> 00:20:20,000
+But that was how the old like the old Mrs. Knotts chicken restaurant was like had not been renovated in like 60 years.
+
+287
+00:20:20,000 --> 00:20:21,000
+Yeah.
+
+288
+00:20:21,000 --> 00:20:23,000
+So that's always that's part of the charm is that it was kind of a dump.
+
+289
+00:20:23,000 --> 00:20:36,000
+Yeah but the one time I ate there there was like a really really old angry woman at the table next to me just like senile and bitter there with her family and didn't seem to be having fun.
+
+290
+00:20:36,000 --> 00:20:41,000
+And I was like well no wonder you're in like the nursing home dining room.
+
+291
+00:20:41,000 --> 00:20:42,000
+Oh yes.
+
+292
+00:20:42,000 --> 00:20:43,000
+That's exactly how it fit.
+
+293
+00:20:43,000 --> 00:20:51,000
+Yeah yeah yeah and sort of like spare and like old surfaces that you never see that are very 60s and when I went well you were there for that that brunch right?
+
+294
+00:20:51,000 --> 00:20:55,000
+Yes we went to a breakfast brunch or yeah breakfast like buffet.
+
+295
+00:20:55,000 --> 00:20:56,000
+Andrew Grissom.
+
+296
+00:20:56,000 --> 00:20:59,000
+And there was the biggest piece of meat I had ever seen.
+
+297
+00:20:59,000 --> 00:21:01,000
+What was it was a ham or something.
+
+298
+00:21:01,000 --> 00:21:02,000
+Yeah.
+
+299
+00:21:02,000 --> 00:21:13,000
+It was just a ham and it would look like it was I'm trying to think of it like a suitcase size of it was just like rotating there and it just I don't think I don't think any of us ate any of it.
+
+300
+00:21:13,000 --> 00:21:14,000
+It was just it was filet.
+
+301
+00:21:14,000 --> 00:21:17,000
+It was a dead Snoopy.
+
+302
+00:21:17,000 --> 00:21:19,000
+I mean it was bigger than Snoopy.
+
+303
+00:21:19,000 --> 00:21:22,000
+I think it was like Charlie Brown's mom or something.
+
+304
+00:21:22,000 --> 00:21:24,000
+It was bigger than it was crazy.
+
+305
+00:21:24,000 --> 00:21:25,000
+So yeah.
+
+306
+00:21:25,000 --> 00:21:26,000
+And you were scouting the hotel.
+
+307
+00:21:26,000 --> 00:21:28,000
+I didn't walk in.
+
+308
+00:21:28,000 --> 00:21:29,000
+I just looked it's so gross.
+
+309
+00:21:29,000 --> 00:21:31,000
+It was like so dirty and gross from the outside.
+
+310
+00:21:31,000 --> 00:21:38,000
+Yeah yeah and there's like kind of an odd like there's like a there's a wedding area with a gazebo but then it's just it's not like a little manicured garden.
+
+311
+00:21:38,000 --> 00:21:40,000
+It's just sort of pavement.
+
+312
+00:21:40,000 --> 00:21:41,000
+Oh no.
+
+313
+00:21:41,000 --> 00:21:45,000
+Yeah amber amber waves the restaurant.
+
+314
+00:21:45,000 --> 00:21:46,000
+I can see the sign for amber waves.
+
+315
+00:21:46,000 --> 00:21:48,000
+Oh you know I have no complaints about amber waves.
+
+316
+00:21:48,000 --> 00:21:50,000
+I had a good I had a good drink in the amber waves.
+
+317
+00:21:50,000 --> 00:21:52,000
+We had a good drink up amber waves.
+
+318
+00:21:52,000 --> 00:21:53,000
+The Friday.
+
+319
+00:21:53,000 --> 00:21:55,000
+Did you go to the Friday the TGI Friday.
+
+320
+00:21:55,000 --> 00:21:56,000
+I marveled at it.
+
+321
+00:21:56,000 --> 00:21:57,000
+Yeah yeah.
+
+322
+00:21:57,000 --> 00:21:58,000
+That's all you need to do.
+
+323
+00:21:58,000 --> 00:22:10,000
+Behind the candy store like indoors where the bathrooms are there's like a weird mill installation that Walter not put there with like a plaque being like yes the mill wheel.
+
+324
+00:22:10,000 --> 00:22:11,000
+Yes it's weird.
+
+325
+00:22:11,000 --> 00:22:12,000
+It's a little room right.
+
+326
+00:22:12,000 --> 00:22:17,000
+Yeah yeah it's a room with like weird foliage leading to the bathrooms and then this is it's hot right.
+
+327
+00:22:17,000 --> 00:22:18,000
+It's like humid.
+
+328
+00:22:18,000 --> 00:22:19,000
+It's very humid in there.
+
+329
+00:22:19,000 --> 00:22:21,000
+Yeah it feels like you're probably to keep the plants nice.
+
+330
+00:22:21,000 --> 00:22:26,000
+It feels like you're in like at the county fair like one of the horticultural pavilions.
+
+331
+00:22:26,000 --> 00:22:27,000
+Yeah yeah yeah.
+
+332
+00:22:27,000 --> 00:22:32,000
+When I was on sheds at the fair location that stays there for like even when the fair is closed.
+
+333
+00:22:32,000 --> 00:22:33,000
+The.
+
+334
+00:22:33,000 --> 00:22:34,000
+Yeah.
+
+335
+00:22:34,000 --> 00:22:41,000
+And also George Washington's fireplace George Washington's mantle is there.
+
+336
+00:22:41,000 --> 00:22:43,000
+Look it's I.
+
+337
+00:22:43,000 --> 00:22:46,000
+You know I'll end up talking about it on many an episode.
+
+338
+00:22:46,000 --> 00:22:47,000
+Going out and going to park.
+
+339
+00:22:47,000 --> 00:22:51,000
+If we're talking about something being dumpy and chintzy that doesn't mean don't go there.
+
+340
+00:22:51,000 --> 00:22:52,000
+Yeah yeah.
+
+341
+00:22:52,000 --> 00:22:53,000
+I was I had a great time.
+
+342
+00:22:53,000 --> 00:22:55,000
+That means get in your car right now and go.
+
+343
+00:22:55,000 --> 00:23:00,000
+But we should clarify this is not one of the the amazing privilege experiences Eva got.
+
+344
+00:23:00,000 --> 00:23:01,000
+Oh yes.
+
+345
+00:23:01,000 --> 00:23:03,000
+A common Southern California thing.
+
+346
+00:23:03,000 --> 00:23:05,000
+You do all the time.
+
+347
+00:23:05,000 --> 00:23:14,000
+If you if traffic is just so insanely bad as it often is sometimes you just hunker down at a bar or restaurant for a little while until it clears up.
+
+348
+00:23:14,000 --> 00:23:15,000
+Yeah.
+
+349
+00:23:15,000 --> 00:23:17,000
+You don't have to be not very far.
+
+350
+00:23:17,000 --> 00:23:18,000
+Yeah.
+
+351
+00:23:18,000 --> 00:23:22,000
+You don't have to be a captain of industry to go see George Washington's mantle.
+
+352
+00:23:22,000 --> 00:23:25,000
+It's an experience waiting for all of you.
+
+353
+00:23:25,000 --> 00:23:33,000
+One more thing I noticed while I was there right now they're doing a peanuts sort of peanuts experience at Knott's Berry Farm where you can meet all the characters from peanuts.
+
+354
+00:23:33,000 --> 00:23:38,000
+And they aren't always doing they're always there but I think there's like a celebration you're talking about like peanuts.
+
+355
+00:23:38,000 --> 00:23:39,000
+Yeah.
+
+356
+00:23:39,000 --> 00:23:41,000
+Special themed snacks around the park.
+
+357
+00:23:41,000 --> 00:23:49,000
+And there's like a peanuts land in one area where you can meet and get pictures with Charlie Brown and and Linus and Snoopy and Lucy.
+
+358
+00:23:49,000 --> 00:23:58,000
+But they if you go on the website you can find this pig pen is just in Old West Town in the livery barn.
+
+359
+00:23:58,000 --> 00:24:00,000
+Separate from his friends.
+
+360
+00:24:00,000 --> 00:24:10,000
+Yeah he's in the fucking livery barn and they just say in the livery barn and he's just like standing there covered by like dirt and there's like clouds of dust around him like that are drawn.
+
+361
+00:24:10,000 --> 00:24:15,000
+And you can get a picture with him but you have to know that he's in this other area and there's no I don't know how you would know that.
+
+362
+00:24:15,000 --> 00:24:16,000
+That's odd.
+
+363
+00:24:16,000 --> 00:24:17,000
+Yeah.
+
+364
+00:24:17,000 --> 00:24:19,000
+You aren't reading the park literature.
+
+365
+00:24:19,000 --> 00:24:20,000
+Yeah.
+
+366
+00:24:20,000 --> 00:24:23,000
+In this barn we eat pig pen in a simulated filth.
+
+367
+00:24:23,000 --> 00:24:25,000
+He eats from a trough.
+
+368
+00:24:25,000 --> 00:24:29,000
+It's like where the freak show freaks have to stay on the road.
+
+369
+00:24:29,000 --> 00:24:36,000
+Also not a thing like not a cliche about children that they're so filthy they never are clean.
+
+370
+00:24:36,000 --> 00:24:45,000
+Like he's like the weirdest of all the I read I was googling I was reading the Wikipedia pig pen and I guess Charles Charles Schultz was embarrassed that he created pig pen because wow.
+
+371
+00:24:45,000 --> 00:24:50,000
+Ultimately he was like his least favorite character because he only had one game character game right.
+
+372
+00:24:50,000 --> 00:24:51,000
+It made no sense.
+
+373
+00:24:51,000 --> 00:24:54,000
+Oh oh yeah because what is his personality outside.
+
+374
+00:24:54,000 --> 00:24:58,000
+And it was like he was so popular and he was like I wish I hadn't made this.
+
+375
+00:24:58,000 --> 00:25:06,000
+He was a dirty boy. Like this cursed dirty boy what hath I wrought.
+
+376
+00:25:06,000 --> 00:25:10,000
+Everywhere I looked there's kids with flies around them going around them in perfect circles.
+
+377
+00:25:10,000 --> 00:25:14,000
+Yeah leaving lines visible lines behind them.
+
+378
+00:25:14,000 --> 00:25:18,000
+I mean the subtext I don't think I'm making this or this isn't my original thought but he was a poor kid.
+
+379
+00:25:18,000 --> 00:25:19,000
+Right.
+
+380
+00:25:19,000 --> 00:25:25,000
+Like that's maybe the subject but eventually it became a thing where he would bathe and then the dust would appear immediately.
+
+381
+00:25:25,000 --> 00:25:27,000
+Was the genetic condition that he was dirty.
+
+382
+00:25:27,000 --> 00:25:31,000
+Yeah just more like some curse like a gypsy curse.
+
+383
+00:25:31,000 --> 00:25:32,000
+Yeah.
+
+384
+00:25:32,000 --> 00:25:33,000
+Wow I didn't realize magic.
+
+385
+00:25:33,000 --> 00:25:40,000
+So like Tim Allen Santa Claus when he would shave the beard it would come right back so like he would wipe the wash the dirt away.
+
+386
+00:25:40,000 --> 00:25:41,000
+It's really grim.
+
+387
+00:25:41,000 --> 00:25:46,000
+At one point he like keeps part of his body clean long enough to like woo a girl in one comic.
+
+388
+00:25:46,000 --> 00:25:48,000
+This is all in the Wicca sheet.
+
+389
+00:25:48,000 --> 00:25:54,000
+A struggle we can all relate to right.
+
+390
+00:25:54,000 --> 00:25:57,000
+Anyway he's in the livery barn you can meet him.
+
+391
+00:25:57,000 --> 00:26:03,000
+Check him out he's almost always there he's not part of the celebration that's just his cage.
+
+392
+00:26:03,000 --> 00:26:04,000
+Jesus Christ.
+
+393
+00:26:04,000 --> 00:26:10,000
+If he hasn't lost his spirit if he hasn't just like huddled in the corner maybe he'll come say hi.
+
+394
+00:26:10,000 --> 00:26:12,000
+He's docile.
+
+395
+00:26:12,000 --> 00:26:17,000
+Okay but so alright well we got onto it and someday we'll talk about the American Adventure.
+
+396
+00:26:17,000 --> 00:26:20,000
+We'll get in there for you know the last 10 minutes or so.
+
+397
+00:26:20,000 --> 00:26:21,000
+Yes.
+
+398
+00:26:21,000 --> 00:26:25,000
+Okay so you're the rest of your Disneyland upbringing.
+
+399
+00:26:25,000 --> 00:26:40,000
+Okay so so my dad was working for Disney so the craziest thing was that in I believe it was 89 or 90 we flew to Disney World and were there for the opening of MGM Studios.
+
+400
+00:26:40,000 --> 00:26:49,000
+Because my dad did the I think he was the because his character was a judge he like marshaled the opening and he his handprints are in front of the Grawman's.
+
+401
+00:26:49,000 --> 00:26:51,000
+Oh wow.
+
+402
+00:26:51,000 --> 00:26:56,000
+Yeah so that was insane we flew in like a weird plane with like Kevin Costner.
+
+403
+00:26:56,000 --> 00:26:57,000
+Oh wow.
+
+404
+00:26:57,000 --> 00:27:11,000
+And we're there for that and then after that we went four more times over the years to Orlando and we had like the crazy we had guides.
+
+405
+00:27:11,000 --> 00:27:12,000
+Okay.
+
+406
+00:27:12,000 --> 00:27:17,000
+So we had a vacation but we had like the guides that let you in the back and we never waited in line.
+
+407
+00:27:17,000 --> 00:27:18,000
+Oh man.
+
+408
+00:27:18,000 --> 00:27:30,000
+And so the things that were crazy that happened during that time was one is that in the lounge celebrity lounge waiting to go on Honey I Shrunk the audience.
+
+409
+00:27:30,000 --> 00:27:34,000
+We met Roger Ebert with Chaz and the kids.
+
+410
+00:27:34,000 --> 00:27:40,000
+He gave us all of the Oscar predictions that he had for the next week when Forrest Gump was up.
+
+411
+00:27:40,000 --> 00:27:43,000
+He did not think Tom Hanks would win.
+
+412
+00:27:43,000 --> 00:27:44,000
+Wow.
+
+413
+00:27:44,000 --> 00:27:49,000
+Peter Fonda would win for Uli's gold.
+
+414
+00:27:49,000 --> 00:27:53,000
+But then after the movie was over he turned to us and gave it gave it a thumbs up.
+
+415
+00:27:53,000 --> 00:27:54,000
+Wow.
+
+416
+00:27:54,000 --> 00:27:57,000
+For a he gave Honey I Shrunk the audience a thumbs up.
+
+417
+00:27:57,000 --> 00:27:58,000
+Yeah.
+
+418
+00:27:58,000 --> 00:28:03,000
+Was he there to do were their cameras capturing that was he there to do that only.
+
+419
+00:28:03,000 --> 00:28:06,000
+I think he was on a vacation and like he we both got put in the same lounge.
+
+420
+00:28:06,000 --> 00:28:11,000
+The thing about Disney World it's like if have you guys ever done a guide at Disneyland.
+
+421
+00:28:11,000 --> 00:28:18,000
+Have you ever been in that position because it's like at Disneyland they were never built for to have special guests.
+
+422
+00:28:18,000 --> 00:28:23,000
+So you just walk in the exit in front of everyone if you want if you're not good.
+
+423
+00:28:23,000 --> 00:28:26,000
+Florida like actively built for VIP.
+
+424
+00:28:26,000 --> 00:28:27,000
+Yeah.
+
+425
+00:28:27,000 --> 00:28:33,000
+It's like special entrances special rooms that you hang out in and then like entrances where no one sees you get on the ride.
+
+426
+00:28:33,000 --> 00:28:36,000
+So it's like this crazy like system.
+
+427
+00:28:36,000 --> 00:28:50,000
+Oh I've heard I worked for this Disney owned company and like the CEO of it got to like was when it got on the Haunted Mansion and there's like a room of the Haunted Mansion and not just a waiting room but like a room with a painting gag that's only for VIP.
+
+428
+00:28:50,000 --> 00:28:51,000
+Wow really.
+
+429
+00:28:51,000 --> 00:28:53,000
+There's a separate start to the ride.
+
+430
+00:28:53,000 --> 00:28:56,000
+I don't remember but I'm sure I saw that.
+
+431
+00:28:56,000 --> 00:28:57,000
+That's crazy.
+
+432
+00:28:57,000 --> 00:29:03,000
+We've talked about on the show that those are the corporate there's corporate lounges at Epcot for these different companies.
+
+433
+00:29:03,000 --> 00:29:07,000
+So I don't know if you got to go did you get to go in the corporate lounge or there different lounges.
+
+434
+00:29:07,000 --> 00:29:12,000
+Well for a new one like Honey I Shrunk the Audience I think this was just like for VIPs.
+
+435
+00:29:12,000 --> 00:29:13,000
+Right.
+
+436
+00:29:13,000 --> 00:29:14,000
+But I bet I bet I went in the Exxon lounge.
+
+437
+00:29:14,000 --> 00:29:18,000
+Yes that's what I'm asking if you got to go and hang with the Exxon employees.
+
+438
+00:29:18,000 --> 00:29:19,000
+I definitely did.
+
+439
+00:29:19,000 --> 00:29:22,000
+I definitely went on the Exxon ride and I definitely did a walk out when it broke.
+
+440
+00:29:22,000 --> 00:29:23,000
+Oh yeah.
+
+441
+00:29:23,000 --> 00:29:24,000
+Is that what it's called?
+
+442
+00:29:24,000 --> 00:29:25,000
+Oh really?
+
+443
+00:29:25,000 --> 00:29:27,000
+Yeah I walked through the dinosaurs once which was great.
+
+444
+00:29:27,000 --> 00:29:29,000
+Wow that's great.
+
+445
+00:29:29,000 --> 00:29:32,000
+And then okay here's a couple other crazy things that happened.
+
+446
+00:29:32,000 --> 00:29:35,000
+Road Tower of Terror with Alan Menken.
+
+447
+00:29:35,000 --> 00:29:36,000
+Wow.
+
+448
+00:29:36,000 --> 00:29:42,000
+On the way out Alan Menken turns to us and says pretty good needs a song though.
+
+449
+00:29:42,000 --> 00:29:43,000
+Oh wow.
+
+450
+00:29:43,000 --> 00:29:51,000
+And Menken forecasting what would happen to the when the Guardians of the Galaxy ride would take over and they just added songs to it.
+
+451
+00:29:51,000 --> 00:29:53,000
+So really he was 20 years ahead.
+
+452
+00:29:53,000 --> 00:29:57,000
+But I think he was also being funny about how Twilight Zone has this very good song.
+
+453
+00:29:57,000 --> 00:29:58,000
+I see.
+
+454
+00:29:58,000 --> 00:29:59,000
+Oh yeah.
+
+455
+00:29:59,000 --> 00:30:02,000
+And he was he was he was being like.
+
+456
+00:30:02,000 --> 00:30:04,000
+Oh he was downplaying the yes the famous ride.
+
+457
+00:30:04,000 --> 00:30:05,000
+Yeah he was like I'm cool.
+
+458
+00:30:05,000 --> 00:30:13,000
+And then the third crazy thing I did was I got to take a tour of the animation studios and see an automatic of Beauty and the Beast before it came out.
+
+459
+00:30:13,000 --> 00:30:14,000
+It was crazy.
+
+460
+00:30:14,000 --> 00:30:15,000
+Wow.
+
+461
+00:30:15,000 --> 00:30:20,000
+So those are all very privileged experiences I had and I want you all to be happy for me.
+
+462
+00:30:20,000 --> 00:30:22,000
+I swear I am.
+
+463
+00:30:22,000 --> 00:30:23,000
+I swear.
+
+464
+00:30:23,000 --> 00:30:26,000
+The the like the entire film Beauty and the Beast.
+
+465
+00:30:26,000 --> 00:30:28,000
+No it was just a scene.
+
+466
+00:30:28,000 --> 00:30:36,000
+It was the scene where where he the where he gets hurt after he gets hurt going into the woods to help her and then like he yells at her.
+
+467
+00:30:36,000 --> 00:30:46,000
+And and it was like Robbie Benson and what's what Pedro Jara's voice is and just like drawings like and we just got to watch him in like a little screening room.
+
+468
+00:30:46,000 --> 00:30:52,000
+Do you remember being confusing to watch because I feel like I've seen like Disney animatics or so like pencil scratch.
+
+469
+00:30:52,000 --> 00:31:01,000
+But it was like interesting I mean and we also got to see like the very early CGI of the because I think the the chandelier was a very early computer animated effects.
+
+470
+00:31:01,000 --> 00:31:02,000
+Oh right.
+
+471
+00:31:02,000 --> 00:31:03,000
+So we got to see that too.
+
+472
+00:31:03,000 --> 00:31:04,000
+Wow.
+
+473
+00:31:04,000 --> 00:31:17,000
+And I got to walk around just kind of see like editors animators cubicles where they would have like funny little like inside jokes that they attacked on the outside but it was like they were such great artists that they all looked really amazing.
+
+474
+00:31:17,000 --> 00:31:19,000
+So that was a great experience.
+
+475
+00:31:19,000 --> 00:31:23,000
+Did any characters leap off the page and wink at you?
+
+476
+00:31:23,000 --> 00:31:26,000
+It was like them drawing each other like unflatteringly.
+
+477
+00:31:26,000 --> 00:31:27,000
+Oh wow.
+
+478
+00:31:27,000 --> 00:31:29,000
+It was like that was what it was mostly.
+
+479
+00:31:29,000 --> 00:31:34,000
+It was like oh someone had sketched like Rob and stuck it on his cubicle and he was like oh man.
+
+480
+00:31:34,000 --> 00:31:38,000
+And but you know it was still like hand drawn I don't know how much hand drawn animation still happens there now.
+
+481
+00:31:38,000 --> 00:31:41,000
+I think there is no animation studio now.
+
+482
+00:31:41,000 --> 00:31:56,000
+They were still doing it up until I think like a lot of Mulan happened there's a movie like look we're plenty researched but there's I want to say Mulan or something is was done entirely at MGM Studios.
+
+483
+00:31:56,000 --> 00:31:57,000
+I think that's right.
+
+484
+00:31:57,000 --> 00:31:58,000
+Yeah.
+
+485
+00:31:58,000 --> 00:32:00,000
+But there's nothing there anymore really.
+
+486
+00:32:00,000 --> 00:32:02,000
+They closed that whole studio there in Florida.
+
+487
+00:32:02,000 --> 00:32:08,000
+Isn't it weird that Orlando had to pretend to have a film industry for the sake of pumping up these parts?
+
+488
+00:32:08,000 --> 00:32:12,000
+Yes it is funny because Eisner wanted people not to go to Universal Studios.
+
+489
+00:32:12,000 --> 00:32:15,000
+So that's why there was a back lot at Hollywood Studios.
+
+490
+00:32:15,000 --> 00:32:16,000
+It's so weird.
+
+491
+00:32:16,000 --> 00:32:20,000
+But why did they ever film anything at Universal either?
+
+492
+00:32:20,000 --> 00:32:24,000
+Like why just declare out for no reason Orlando is Hollywood East?
+
+493
+00:32:24,000 --> 00:32:31,000
+Well I think they thought that people would be like okay if it's themed like a studio we'd better see some movies being shot here.
+
+494
+00:32:31,000 --> 00:32:32,000
+Like no one cares.
+
+495
+00:32:32,000 --> 00:32:33,000
+When people don't give a shit.
+
+496
+00:32:33,000 --> 00:32:34,000
+I just want to go on rides right?
+
+497
+00:32:34,000 --> 00:32:35,000
+Yeah I just want to go on rides.
+
+498
+00:32:35,000 --> 00:32:49,000
+Like that was I was watching some video on YouTube and it pointed out that like yeah the back lot at Disney MGM Studios was next to an attraction called Catastrophe Canyon that was constantly exploding every 12 minutes.
+
+499
+00:32:49,000 --> 00:32:55,000
+So not a great shooting environment in terms of like pristine audio quality.
+
+500
+00:32:55,000 --> 00:32:56,000
+Yeah.
+
+501
+00:32:56,000 --> 00:33:00,000
+I have a couple very specific memories of places I haven't researched but I know they were there.
+
+502
+00:33:00,000 --> 00:33:01,000
+Uh huh.
+
+503
+00:33:01,000 --> 00:33:06,000
+There was a restaurant where you would eat in a person's living room.
+
+504
+00:33:06,000 --> 00:33:08,000
+Do you guys know what this is?
+
+505
+00:33:08,000 --> 00:33:09,000
+Oh yeah the 50s primetime cafe.
+
+506
+00:33:09,000 --> 00:33:11,000
+Yeah and there would be a mean.
+
+507
+00:33:11,000 --> 00:33:15,000
+This all leads up to like the reason I pay people to like come to my house and yell at me.
+
+508
+00:33:15,000 --> 00:33:20,000
+Because my favorite thing about that was there was an actress who was mom and she would yell at everyone.
+
+509
+00:33:20,000 --> 00:33:22,000
+And you are the cousins.
+
+510
+00:33:22,000 --> 00:33:23,000
+Like you are not the children.
+
+511
+00:33:23,000 --> 00:33:24,000
+You're the cousin.
+
+512
+00:33:24,000 --> 00:33:25,000
+Did you guys ever go to this?
+
+513
+00:33:25,000 --> 00:33:26,000
+Yes I did when I was little.
+
+514
+00:33:26,000 --> 00:33:27,000
+Is it still around?
+
+515
+00:33:27,000 --> 00:33:28,000
+Oh yeah.
+
+516
+00:33:28,000 --> 00:33:29,000
+Yeah it is.
+
+517
+00:33:29,000 --> 00:33:30,000
+Is it the same deal?
+
+518
+00:33:30,000 --> 00:33:31,000
+Yeah it is.
+
+519
+00:33:31,000 --> 00:33:32,000
+Same deal.
+
+520
+00:33:32,000 --> 00:33:33,000
+We didn't go last time.
+
+521
+00:33:33,000 --> 00:33:35,000
+You walk in the bar is themed after dad's study.
+
+522
+00:33:35,000 --> 00:33:39,000
+So you can just sit and have a drink in dad's study in the bar.
+
+523
+00:33:39,000 --> 00:33:40,000
+That's so cool.
+
+524
+00:33:40,000 --> 00:33:41,000
+No one is mean to you there.
+
+525
+00:33:41,000 --> 00:33:42,000
+It's because it's dad's study.
+
+526
+00:33:42,000 --> 00:33:43,000
+His dad is drunk.
+
+527
+00:33:43,000 --> 00:33:47,000
+But then when you sit down like you know they come out.
+
+528
+00:33:47,000 --> 00:33:49,000
+Mom comes out and gets you.
+
+529
+00:33:49,000 --> 00:33:51,000
+And you eat like meatloaf and shit.
+
+530
+00:33:51,000 --> 00:33:53,000
+And you eat meatloaf and fried chicken and mashed potatoes.
+
+531
+00:33:53,000 --> 00:33:54,000
+It's not an awful thing.
+
+532
+00:33:54,000 --> 00:33:55,000
+I never went.
+
+533
+00:33:55,000 --> 00:33:56,000
+I didn't want to do this.
+
+534
+00:33:56,000 --> 00:33:57,000
+Some people love it.
+
+535
+00:33:57,000 --> 00:33:58,000
+Like that's their go to.
+
+536
+00:33:58,000 --> 00:33:59,000
+They're like well we got to eat there.
+
+537
+00:33:59,000 --> 00:34:03,000
+I mean all I wanted I realized now was for like a character to talk to me.
+
+538
+00:34:03,000 --> 00:34:07,000
+That's why like I really dug that Knott's Berry Farm thing where you would talk to the
+
+539
+00:34:07,000 --> 00:34:10,000
+fucking prisoner in the in the jam.
+
+540
+00:34:10,000 --> 00:34:14,000
+I would run there and I'd spend like 45 minutes there when I was a kid.
+
+541
+00:34:14,000 --> 00:34:18,000
+Because I just wanted a fictional person to acknowledge me.
+
+542
+00:34:18,000 --> 00:34:19,000
+Yeah.
+
+543
+00:34:19,000 --> 00:34:20,000
+This is so weird.
+
+544
+00:34:20,000 --> 00:34:24,000
+Were you like disappointed by movies always because they don't talk back to you?
+
+545
+00:34:24,000 --> 00:34:25,000
+I guess so.
+
+546
+00:34:25,000 --> 00:34:26,000
+I don't know.
+
+547
+00:34:26,000 --> 00:34:29,000
+I just wanted to be part of the narrative in some way.
+
+548
+00:34:29,000 --> 00:34:31,000
+I want to be part of the story.
+
+549
+00:34:31,000 --> 00:34:39,000
+And another thing I remember was that one time we went to a dinner show in Orlando called
+
+550
+00:34:39,000 --> 00:34:40,000
+The Hoop De Doo Review.
+
+551
+00:34:40,000 --> 00:34:41,000
+Oh yeah.
+
+552
+00:34:41,000 --> 00:34:42,000
+Did you guys ever do that?
+
+553
+00:34:42,000 --> 00:34:43,000
+I did not.
+
+554
+00:34:43,000 --> 00:34:44,000
+I think I've been.
+
+555
+00:34:44,000 --> 00:34:47,000
+I'm pretty sure I've been but I was young and I don't really remember any of it.
+
+556
+00:34:47,000 --> 00:34:52,000
+They would sing this song called I remember going hoop dee doo hoop dee doo and they danced
+
+557
+00:34:52,000 --> 00:34:53,000
+around.
+
+558
+00:34:53,000 --> 00:34:54,000
+And then you ate chicken.
+
+559
+00:34:54,000 --> 00:34:59,600
+It was a whole theme show where the characters also had like a relationship with each other.
+
+560
+00:34:59,600 --> 00:35:04,560
+That is in the record books as like one of the longest continuous running theatrical
+
+561
+00:35:04,560 --> 00:35:05,560
+presentations.
+
+562
+00:35:05,560 --> 00:35:06,560
+It's amazing.
+
+563
+00:35:06,560 --> 00:35:10,440
+Because it's been going since I think whenever they open the campground which it was in the
+
+564
+00:35:10,440 --> 00:35:11,440
+70s.
+
+565
+00:35:11,440 --> 00:35:12,440
+Oh wow.
+
+566
+00:35:12,440 --> 00:35:13,440
+Yeah.
+
+567
+00:35:13,440 --> 00:35:18,000
+There's a theater and restaurant at the Disney campground where all that happens.
+
+568
+00:35:18,000 --> 00:35:19,000
+That's cool.
+
+569
+00:35:19,000 --> 00:35:21,800
+Did you actually camp there?
+
+570
+00:35:21,800 --> 00:35:22,800
+You can.
+
+571
+00:35:22,800 --> 00:35:27,280
+Yeah you can RV camp or there's cabins and stuff.
+
+572
+00:35:27,280 --> 00:35:30,160
+This is the kind of thing that these specials would show you.
+
+573
+00:35:30,160 --> 00:35:35,160
+They would like write in a scene where the Mouseketeers are camping or they're like they
+
+574
+00:35:35,160 --> 00:35:36,160
+have to.
+
+575
+00:35:36,160 --> 00:35:38,880
+They're all these like TGIF sitcoms that had to go to Disney World.
+
+576
+00:35:38,880 --> 00:35:45,760
+They had to like it's all scenes like made to feature you know features of the of the
+
+577
+00:35:45,760 --> 00:35:46,760
+resort.
+
+578
+00:35:46,760 --> 00:35:47,760
+Right.
+
+579
+00:35:47,760 --> 00:35:52,240
+Sort of tortured narratives that take you like to camping and space and this New England
+
+580
+00:35:52,240 --> 00:35:53,240
+place and.
+
+581
+00:35:53,240 --> 00:35:54,240
+That's awesome.
+
+582
+00:35:54,240 --> 00:35:55,240
+Yeah.
+
+583
+00:35:55,240 --> 00:35:56,880
+Why did I.
+
+584
+00:35:56,880 --> 00:36:00,800
+The thing with these specials like I don't know why they're like just pure ads.
+
+585
+00:36:00,800 --> 00:36:02,960
+They're hours long ads.
+
+586
+00:36:02,960 --> 00:36:05,760
+Pure propaganda that I loved more than movies.
+
+587
+00:36:05,760 --> 00:36:09,240
+It was all the possible places you could go to.
+
+588
+00:36:09,240 --> 00:36:10,240
+Yeah.
+
+589
+00:36:10,240 --> 00:36:11,240
+Or maybe similarly.
+
+590
+00:36:11,240 --> 00:36:12,240
+Yeah.
+
+591
+00:36:12,240 --> 00:36:13,240
+It's like shopping for an experience.
+
+592
+00:36:13,240 --> 00:36:14,240
+Yes.
+
+593
+00:36:14,240 --> 00:36:15,240
+Yeah that's true.
+
+594
+00:36:15,240 --> 00:36:17,480
+If you watch enough of these specials you know if you do get to go there what you'll
+
+595
+00:36:17,480 --> 00:36:19,720
+prioritize and what you won't need to see.
+
+596
+00:36:19,720 --> 00:36:20,720
+Yeah.
+
+597
+00:36:20,720 --> 00:36:21,720
+Sure.
+
+598
+00:36:21,720 --> 00:36:22,720
+It's not a fight.
+
+599
+00:36:22,720 --> 00:36:23,720
+It's not a place I want to go.
+
+600
+00:36:23,720 --> 00:36:24,720
+Yeah.
+
+601
+00:36:24,720 --> 00:36:25,720
+But they had a good time.
+
+602
+00:36:25,720 --> 00:36:31,040
+There's a period I'm sure they made so many of them there's even besides the Disney produced
+
+603
+00:36:31,040 --> 00:36:35,400
+ones the travel channel for had a period of time where they had so many behind the scenes
+
+604
+00:36:35,400 --> 00:36:41,080
+at Disney World stuff and very slick travel channel travel channel Food Network kind of
+
+605
+00:36:41,080 --> 00:36:46,420
+like in and out in 40 minutes like very highly stylized and produced this.
+
+606
+00:36:46,420 --> 00:36:53,120
+The sickest thing I think that's in this vein is that on on the TVs in the hotels they just
+
+607
+00:36:53,120 --> 00:36:58,400
+play a continuous loop of what we're talking about specials that show the park the information
+
+608
+00:36:58,400 --> 00:36:59,680
+and we all have.
+
+609
+00:36:59,680 --> 00:37:00,680
+Yeah.
+
+610
+00:37:00,680 --> 00:37:04,760
+And we all have I think everybody has collectively the same like fascination of going back to
+
+611
+00:37:04,760 --> 00:37:09,200
+the hotel after being out for 12 14 hours in the parks and just watching these channels.
+
+612
+00:37:09,200 --> 00:37:13,080
+This is a specific memory I have I was going to bring this up is that my parents are at
+
+613
+00:37:13,080 --> 00:37:19,120
+pleasure island and I'm with my little brother in a hotel room watching the commercial for
+
+614
+00:37:19,120 --> 00:37:22,680
+pleasure island loop on like a 15 minute loop.
+
+615
+00:37:22,680 --> 00:37:23,680
+Yes.
+
+616
+00:37:23,680 --> 00:37:27,000
+Because we just like we think there's this one guy who's a country line dancer who looks
+
+617
+00:37:27,000 --> 00:37:32,020
+so stupid that we kept waiting for him to come back through and see him again and then
+
+618
+00:37:32,020 --> 00:37:33,020
+laugh at him.
+
+619
+00:37:33,020 --> 00:37:34,520
+So we could find this guy.
+
+620
+00:37:34,520 --> 00:37:35,520
+Oh yeah.
+
+621
+00:37:35,520 --> 00:37:36,520
+Oh yeah.
+
+622
+00:37:36,520 --> 00:37:37,520
+Pretty limited materials.
+
+623
+00:37:37,520 --> 00:37:39,520
+I'd say it's 92.
+
+624
+00:37:39,520 --> 00:37:40,520
+OK yeah.
+
+625
+00:37:40,520 --> 00:37:41,520
+We'll try to find it.
+
+626
+00:37:41,520 --> 00:37:42,520
+We'll find this guy.
+
+627
+00:37:42,520 --> 00:37:43,520
+Is this him.
+
+628
+00:37:43,520 --> 00:37:48,080
+I definitely I definitely he has he's just one guy and he's like his leg is going in
+
+629
+00:37:48,080 --> 00:37:52,080
+all different directions and he's like squatting and we thought he was so funny.
+
+630
+00:37:52,080 --> 00:37:57,560
+We found multiple I mean there's tons of theme park stuff on YouTube but the in room information
+
+631
+00:37:57,560 --> 00:37:58,960
+loops are on YouTube.
+
+632
+00:37:58,960 --> 00:37:59,960
+That's awesome.
+
+633
+00:37:59,960 --> 00:38:04,680
+I like actively avoid it going down that rabbit hole because that's that'll just be days gone.
+
+634
+00:38:04,680 --> 00:38:08,360
+Like that was like my brother and I that was like our thing was like yeah locating the
+
+635
+00:38:08,360 --> 00:38:10,920
+worst the funniest part of every one of those.
+
+636
+00:38:10,920 --> 00:38:15,640
+We're still like I remember we had to live at the desert in for like a week in Vegas
+
+637
+00:38:15,640 --> 00:38:22,740
+before it closed because no me was performing and there was a video where Suzanne Summers
+
+638
+00:38:22,740 --> 00:38:27,280
+learned gambling through the spirit of gambling taught it to her and there's a part where
+
+639
+00:38:27,280 --> 00:38:33,160
+she sang a little song about desert in and how it's fun and we would wait for that part
+
+640
+00:38:33,160 --> 00:38:34,360
+because we thought it was so funny.
+
+641
+00:38:34,360 --> 00:38:35,440
+Oh my God.
+
+642
+00:38:35,440 --> 00:38:40,880
+That is the most of my I like I was looking into this for talking about the American adventure.
+
+643
+00:38:40,880 --> 00:38:45,320
+There is a there was a thing at Independence Hall where like in Philadelphia where like
+
+644
+00:38:45,320 --> 00:38:51,400
+spirits come back and revisit the areas or there I went to I went on a factory tour in
+
+645
+00:38:51,400 --> 00:38:56,680
+Texas of an ice cream factory where like the founder of the company's ghost came back to
+
+646
+00:38:56,680 --> 00:39:03,360
+see the spirit of gambling and that's something could be more up my alley than you should
+
+647
+00:39:03,360 --> 00:39:07,720
+try to find it's like from the desert and I think went away like six months later.
+
+648
+00:39:07,720 --> 00:39:13,200
+So but it was still it was like one of the oldest like people saw to wear like like formal
+
+649
+00:39:13,200 --> 00:39:17,360
+wear in the casino like cocktail attire which is not anywhere anymore.
+
+650
+00:39:17,360 --> 00:39:21,200
+Vegas is very heavy at this point.
+
+651
+00:39:21,200 --> 00:39:23,640
+There were no rascals.
+
+652
+00:39:23,640 --> 00:39:27,840
+Reminding me I may I may have talked about this on the podcast coming back from like
+
+653
+00:39:27,840 --> 00:39:33,780
+visiting my family at Christmas just this past Christmas I had got stuck in Vegas overnight
+
+654
+00:39:33,780 --> 00:39:38,320
+because like the plane missed its connection and so they put us up in like a no name hotel
+
+655
+00:39:38,320 --> 00:39:42,760
+off of the strip and it was fine but I was just like so tired I just came into the room
+
+656
+00:39:42,760 --> 00:39:47,960
+and I turned on the TV and before I could even look at what the channels like try and
+
+657
+00:39:47,960 --> 00:39:52,280
+find a channel to watch the Vegas information channel was on and I'm like well don't need
+
+658
+00:39:52,280 --> 00:39:57,640
+to change the channel and I just like watch that until I fell asleep and it's stuff where
+
+659
+00:39:57,640 --> 00:40:03,640
+it's like we're here with the head of the Vegas Margaritaville Las Vegas and I'm just
+
+660
+00:40:03,640 --> 00:40:04,640
+like looking at this guy.
+
+661
+00:40:04,640 --> 00:40:05,640
+I'm listening.
+
+662
+00:40:05,640 --> 00:40:09,960
+And yeah Mike's listening and he's like if you come here my picks gotta be either the
+
+663
+00:40:09,960 --> 00:40:14,280
+Cheeseburger Paradise or the Volcano Nachos and I'm just alone in this hotel room going
+
+664
+00:40:14,280 --> 00:40:18,480
+like yeah no shit you get the Cheeseburger Paradise or the Volcano Nachos you fucking
+
+665
+00:40:18,480 --> 00:40:21,600
+idiot don't act like it's like a hidden thing they're the first things on the menu.
+
+666
+00:40:21,600 --> 00:40:24,120
+Tell us something we don't know.
+
+667
+00:40:24,120 --> 00:40:29,040
+We were Erin and my wife and I were in Vegas in a couple weeks ago in January and we had
+
+668
+00:40:29,040 --> 00:40:34,960
+been there in July as well and we like we were in this we were disappointed that the
+
+669
+00:40:34,960 --> 00:40:40,960
+MGM that the M Resorts video had not been turned over yet because we were there within
+
+670
+00:40:40,960 --> 00:40:41,960
+a six month window.
+
+671
+00:40:41,960 --> 00:40:42,960
+Like is it a new video?
+
+672
+00:40:42,960 --> 00:40:43,960
+Ah damn it.
+
+673
+00:40:43,960 --> 00:40:47,200
+It's the fuck it's the Mandalay Bay Dolphins again we've seen it.
+
+674
+00:40:47,200 --> 00:40:49,640
+Did you see Criss Angel?
+
+675
+00:40:49,640 --> 00:40:50,640
+Yes yes I did.
+
+676
+00:40:50,640 --> 00:40:51,640
+Okay good.
+
+677
+00:40:51,640 --> 00:40:52,640
+You know that's closing.
+
+678
+00:40:52,640 --> 00:40:53,640
+Is it?
+
+679
+00:40:53,640 --> 00:40:54,640
+Oh okay.
+
+680
+00:40:54,640 --> 00:40:55,640
+We gotta get out there.
+
+681
+00:40:55,640 --> 00:40:57,640
+It's the best worst show on the planet.
+
+682
+00:40:57,640 --> 00:41:04,360
+Yeah I did Criss Angel I saw the the laser rave the the the glowing hula hoop celebration
+
+683
+00:41:04,360 --> 00:41:05,360
+of life.
+
+684
+00:41:05,360 --> 00:41:08,600
+After he uses magic to cure pediatric cancer.
+
+685
+00:41:08,600 --> 00:41:09,600
+Yeah.
+
+686
+00:41:09,600 --> 00:41:10,600
+Whoa.
+
+687
+00:41:10,600 --> 00:41:11,600
+Oh it's nuts.
+
+688
+00:41:11,600 --> 00:41:12,600
+Whoa.
+
+689
+00:41:12,600 --> 00:41:14,720
+It's something get out there if you're listening.
+
+690
+00:41:14,720 --> 00:41:18,000
+You know I have not been disappointed by either.
+
+691
+00:41:18,000 --> 00:41:22,960
+I did I did Criss Angel and I we talked about it on another one I did David Copperfield.
+
+692
+00:41:22,960 --> 00:41:24,240
+Do you know about the David Copperfield?
+
+693
+00:41:24,240 --> 00:41:26,320
+I've been hearing about it from Jason Woliner a lot.
+
+694
+00:41:26,320 --> 00:41:27,920
+Yeah he's gone like four or five times.
+
+695
+00:41:27,920 --> 00:41:32,520
+He saw it we're having him on the show soon he saw it twice in one night he saw the seven
+
+696
+00:41:32,520 --> 00:41:33,880
+and the nine thirty.
+
+697
+00:41:33,880 --> 00:41:34,880
+He's he's for real.
+
+698
+00:41:34,880 --> 00:41:35,880
+And he's not wrong.
+
+699
+00:41:35,880 --> 00:41:38,520
+He's more for real about this shit than anyone I've ever met.
+
+700
+00:41:38,520 --> 00:41:39,520
+Man how?
+
+701
+00:41:39,520 --> 00:41:40,520
+Well he's coming up.
+
+702
+00:41:40,520 --> 00:41:44,880
+If he tells me I gotta see something he told me see Criss Angel the next morning I got
+
+703
+00:41:44,880 --> 00:41:48,120
+in my car and drove to Vegas by myself and saw it.
+
+704
+00:41:48,120 --> 00:41:49,120
+You literally just went?
+
+705
+00:41:49,120 --> 00:41:54,160
+Yeah the next we were at the Magic Castle and he like explained the whole thing to me
+
+706
+00:41:54,160 --> 00:41:56,880
+without spoiling and he's like you need to see it immediately.
+
+707
+00:41:56,880 --> 00:42:01,720
+That's the thing I know why this isn't like nothing for the listener to say see the David
+
+708
+00:42:01,720 --> 00:42:06,440
+Copperfield show but I can't like you can't spoil it I can't spoil it but like.
+
+709
+00:42:06,440 --> 00:42:08,760
+I heard about the last act he told me.
+
+710
+00:42:08,760 --> 00:42:15,240
+Oh okay I can't oh it's just this turn like I'd be so sad if I knew but is he doing it
+
+711
+00:42:15,240 --> 00:42:16,400
+or is he done?
+
+712
+00:42:16,400 --> 00:42:17,400
+Is he been ousted?
+
+713
+00:42:17,400 --> 00:42:18,400
+Copperfield?
+
+714
+00:42:18,400 --> 00:42:20,520
+There's an article about him.
+
+715
+00:42:20,520 --> 00:42:21,920
+You gotta get there now.
+
+716
+00:42:21,920 --> 00:42:26,120
+Yeah if you're listening to this if you're anywhere near Las Vegas just go I can't oh
+
+717
+00:42:26,120 --> 00:42:29,920
+this last half hour of this Copperfield show you you have to do it you really really have
+
+718
+00:42:29,920 --> 00:42:30,920
+to do it.
+
+719
+00:42:30,920 --> 00:42:51,560
+I wish I could say more but it'd be so sad if he'd been
+
+720
+00:42:51,560 --> 00:42:53,520
+like too drunk to know what was going on.
+
+721
+00:42:53,520 --> 00:42:56,560
+And then he floats her in the air and makes her vanish.
+
+722
+00:42:56,560 --> 00:42:58,000
+This must have been what happened.
+
+723
+00:42:58,000 --> 00:42:59,640
+So she just dies.
+
+724
+00:42:59,640 --> 00:43:01,680
+Well yeah so he cured it by killing a kid?
+
+725
+00:43:01,680 --> 00:43:03,240
+Yeah just made her go away.
+
+726
+00:43:03,240 --> 00:43:07,320
+He put all of the cancer into one kid made that kid go away and other kids were free.
+
+727
+00:43:07,320 --> 00:43:09,240
+Well that kid sacrificed for the greater good.
+
+728
+00:43:09,240 --> 00:43:10,240
+Yeah yeah.
+
+729
+00:43:10,240 --> 00:43:14,600
+There's also a lot of stuff about like where like a saucy lady comes out and she's got
+
+730
+00:43:14,600 --> 00:43:22,480
+blue paint smeared all over her mouth because she she blew one of the blue men group.
+
+731
+00:43:22,480 --> 00:43:23,480
+No.
+
+732
+00:43:23,480 --> 00:43:26,480
+That is a recurring bit.
+
+733
+00:43:26,480 --> 00:43:27,480
+Yeah yeah sex with the blue men.
+
+734
+00:43:27,480 --> 00:43:28,480
+Oh wait this is in Criss Angel?
+
+735
+00:43:28,480 --> 00:43:29,480
+This is in Criss Angel.
+
+736
+00:43:29,480 --> 00:43:30,480
+Yeah that's the body.
+
+737
+00:43:30,480 --> 00:43:32,560
+That wasn't part of the show when I saw it that's a new gag.
+
+738
+00:43:32,560 --> 00:43:35,120
+Oh okay wow well the magicians they keep it up.
+
+739
+00:43:35,120 --> 00:43:36,120
+They change the show.
+
+740
+00:43:36,120 --> 00:43:37,120
+They gotta keep reinventing themselves.
+
+741
+00:43:37,120 --> 00:43:38,120
+That's pretty body.
+
+742
+00:43:38,120 --> 00:43:39,120
+There's so much.
+
+743
+00:43:39,120 --> 00:43:41,040
+Someday we'll get to the topic maybe we won't maybe this will be the first one where we
+
+744
+00:43:41,040 --> 00:43:43,160
+don't cover the ride and I'm fine with that.
+
+745
+00:43:43,160 --> 00:43:45,080
+I want to talk about it because I watch the YouTube video.
+
+746
+00:43:45,080 --> 00:43:46,080
+I do as well.
+
+747
+00:43:46,080 --> 00:43:51,000
+Wait here before we is it I feel like I saw a video also where you're dead like inaugurated
+
+748
+00:43:51,000 --> 00:43:52,000
+Toontown.
+
+749
+00:43:52,000 --> 00:43:54,000
+Yes I was there for that.
+
+750
+00:43:54,000 --> 00:43:57,520
+Yes he inaugurated Toontown.
+
+751
+00:43:57,520 --> 00:44:04,120
+They had jello jiggler shaped like the genie that were blue.
+
+752
+00:44:04,120 --> 00:44:09,300
+For just everyone that was in the VIP area or did everyone who was there get the jello
+
+753
+00:44:09,300 --> 00:44:10,300
+jigglers?
+
+754
+00:44:10,300 --> 00:44:11,300
+I don't know.
+
+755
+00:44:11,300 --> 00:44:13,320
+They were just out like they were just out.
+
+756
+00:44:13,320 --> 00:44:16,160
+Was it on a table somewhere?
+
+757
+00:44:16,160 --> 00:44:20,040
+And then I jumped I was jumping in the bounce house even though I was like a little bit
+
+758
+00:44:20,040 --> 00:44:23,300
+too old for it and I looked out the window and Mam Bialik was watching me and just sort
+
+759
+00:44:23,300 --> 00:44:26,000
+of like not interested.
+
+760
+00:44:26,000 --> 00:44:27,000
+She was like oh.
+
+761
+00:44:27,000 --> 00:44:28,000
+Like a showy grown up.
+
+762
+00:44:28,000 --> 00:44:29,840
+Like I'm not into kids stuff.
+
+763
+00:44:29,840 --> 00:44:32,640
+No she was just sort of like you shouldn't I don't know I just felt like she was judging
+
+764
+00:44:32,640 --> 00:44:33,640
+me.
+
+765
+00:44:33,640 --> 00:44:37,200
+The thing she's the most known for is bouncing around and that blossom opening.
+
+766
+00:44:37,200 --> 00:44:39,400
+So maybe she was jealous maybe I was taking out the bounce house.
+
+767
+00:44:39,400 --> 00:44:41,480
+Is there still a bounce house at Toontown?
+
+768
+00:44:41,480 --> 00:44:43,320
+This is the whole thing.
+
+769
+00:44:43,320 --> 00:44:45,440
+All the fun of Toontown is gone.
+
+770
+00:44:45,440 --> 00:44:47,120
+The bounce house is not a bounce house.
+
+771
+00:44:47,120 --> 00:44:52,060
+The ball pit the Chippendale ball pit is not a not a ball pit and they took the slide out
+
+772
+00:44:52,060 --> 00:44:53,060
+of Chippendale.
+
+773
+00:44:53,060 --> 00:44:57,840
+So and there was like a little park where it was all inflatable bushes.
+
+774
+00:44:57,840 --> 00:44:59,400
+It was all liability I think.
+
+775
+00:44:59,400 --> 00:45:01,520
+Like lawyers came in.
+
+776
+00:45:01,520 --> 00:45:04,120
+You could break your neck pretty easy in a bounce house I think.
+
+777
+00:45:04,120 --> 00:45:05,120
+Yeah yeah yeah.
+
+778
+00:45:05,120 --> 00:45:12,600
+Disney didn't want to well bounce houses are such kind of like weird low rent kind of like
+
+779
+00:45:12,600 --> 00:45:15,800
+it's like bounce house rental seems to be a lawless land.
+
+780
+00:45:15,800 --> 00:45:16,800
+Yeah.
+
+781
+00:45:16,800 --> 00:45:18,960
+So like yeah Disney probably didn't want to know.
+
+782
+00:45:18,960 --> 00:45:21,660
+Yeah kids colliding heads colliding.
+
+783
+00:45:21,660 --> 00:45:27,160
+So when you were at Toontown so did did your feelings on being at these events change as
+
+784
+00:45:27,160 --> 00:45:28,240
+you got older?
+
+785
+00:45:28,240 --> 00:45:32,060
+Like did you kind of the scope of actually what was happening and that you were the envy
+
+786
+00:45:32,060 --> 00:45:34,120
+of every child across the land?
+
+787
+00:45:34,120 --> 00:45:37,840
+Was that a thing I never talked about with anyone.
+
+788
+00:45:37,840 --> 00:45:38,840
+Right.
+
+789
+00:45:38,840 --> 00:45:41,600
+But I just it was really weird because it was like a pocket of time where we went.
+
+790
+00:45:41,600 --> 00:45:45,080
+It happened every summer and I never went back.
+
+791
+00:45:45,080 --> 00:45:49,800
+Like just as soon as like my dad wasn't working with Disney anymore we just never went.
+
+792
+00:45:49,800 --> 00:45:53,640
+Right I never went to Disneyland again until I was like an adult.
+
+793
+00:45:53,640 --> 00:45:58,000
+And then I only went to Disney World one more time which was like in 2009.
+
+794
+00:45:58,000 --> 00:46:00,400
+The last time I'd been there I was like 12.
+
+795
+00:46:00,400 --> 00:46:05,280
+So I did get to see like the animal kingdom for the first time which was fucking great.
+
+796
+00:46:05,280 --> 00:46:09,120
+And I got to see all the ruined rides that I loved like Figment was destroyed.
+
+797
+00:46:09,120 --> 00:46:10,120
+Oh yeah.
+
+798
+00:46:10,120 --> 00:46:13,200
+And I got to see the three cabularos and the Mexico ride and all the things I was like
+
+799
+00:46:13,200 --> 00:46:15,200
+what did you do?
+
+800
+00:46:15,200 --> 00:46:19,600
+Yeah but you still got Maelstrom you got regular Maelstrom.
+
+801
+00:46:19,600 --> 00:46:21,880
+Yeah I did like Maelstrom a lot.
+
+802
+00:46:21,880 --> 00:46:26,600
+And also when I was there in 2009 it was a weird window where like the I don't know if
+
+803
+00:46:26,600 --> 00:46:30,520
+this is still true but like a five day pass or a six day pass was only a little bit more
+
+804
+00:46:30,520 --> 00:46:32,800
+than like a one day pass.
+
+805
+00:46:32,800 --> 00:46:37,080
+They still do sort of that like where it's like if you just add days on it's like $20
+
+806
+00:46:37,080 --> 00:46:38,080
+more.
+
+807
+00:46:38,080 --> 00:46:39,080
+Yeah.
+
+808
+00:46:39,080 --> 00:46:42,680
+But there was just like it was just really easy to get on rides because people were at
+
+809
+00:46:42,680 --> 00:46:47,120
+the parks but just like sitting on benches and then you couldn't get any food anywhere
+
+810
+00:46:47,120 --> 00:46:49,440
+because all the restaurants have been booked up for months.
+
+811
+00:46:49,440 --> 00:46:50,440
+Oh gotcha.
+
+812
+00:46:50,440 --> 00:46:56,480
+So it was interesting I was like oh this is like this is a this is a failure.
+
+813
+00:46:56,480 --> 00:47:03,160
+Weird legwork that you have to do in Florida to like to eat decent food besides like counter
+
+814
+00:47:03,160 --> 00:47:09,120
+service stuff like yeah the reservations if a place is very popular it will like fill
+
+815
+00:47:09,120 --> 00:47:10,920
+up months in advance.
+
+816
+00:47:10,920 --> 00:47:16,280
+When I was in Epcot the only place I could eat was Morocco because people were scared.
+
+817
+00:47:16,280 --> 00:47:17,280
+Yeah.
+
+818
+00:47:17,280 --> 00:47:22,160
+Oh yeah like people like my dad are like yeah they serve a boiled rat tail.
+
+819
+00:47:22,160 --> 00:47:23,160
+Terrorism.
+
+820
+00:47:23,160 --> 00:47:26,680
+It's weird but it's so beautiful it's like it's beautiful.
+
+821
+00:47:26,680 --> 00:47:27,680
+Great restaurant.
+
+822
+00:47:27,680 --> 00:47:28,680
+Yeah.
+
+823
+00:47:28,680 --> 00:47:29,680
+And with great stuff.
+
+824
+00:47:29,680 --> 00:47:30,680
+Yeah.
+
+825
+00:47:30,680 --> 00:47:33,320
+Yeah I finally did yeah I think one last time I was there I did Morocco.
+
+826
+00:47:33,320 --> 00:47:35,160
+Yeah that's a legit restaurant.
+
+827
+00:47:35,160 --> 00:47:37,960
+Well there we're whining or we finally wound our way.
+
+828
+00:47:37,960 --> 00:47:39,440
+We did get to the World Showcase.
+
+829
+00:47:39,440 --> 00:47:44,000
+Yeah and the thing that had not changed it barely changed when I went back to Epcot was
+
+830
+00:47:44,000 --> 00:47:45,640
+American.
+
+831
+00:47:45,640 --> 00:47:46,640
+The American.
+
+832
+00:47:46,640 --> 00:47:47,640
+American.
+
+833
+00:47:47,640 --> 00:47:48,640
+The American adventure.
+
+834
+00:47:48,640 --> 00:47:49,640
+Adventure.
+
+835
+00:47:49,640 --> 00:47:51,760
+I will say like Benjamin Franklin.
+
+836
+00:47:51,760 --> 00:47:57,240
+Yeah well and it's this is a this is an opening day Epcot attraction that has not really changed
+
+837
+00:47:57,240 --> 00:48:01,720
+there's been little enhancements and actually just this week as we record this they have
+
+838
+00:48:01,720 --> 00:48:08,280
+done some some enhancement there's a I think they changed the projector I think they added.
+
+839
+00:48:08,280 --> 00:48:09,280
+Yes a new projector.
+
+840
+00:48:09,280 --> 00:48:10,280
+Pretty good.
+
+841
+00:48:10,280 --> 00:48:12,960
+To the Golden Dreams montage at the end.
+
+842
+00:48:12,960 --> 00:48:16,120
+A new recording of the song Golden Dreams.
+
+843
+00:48:16,120 --> 00:48:21,000
+People have been waiting for us to address these updates and here we are in the moment.
+
+844
+00:48:21,000 --> 00:48:22,720
+Epcot spread your golden wings.
+
+845
+00:48:22,720 --> 00:48:25,040
+Spread your golden wings.
+
+846
+00:48:25,040 --> 00:48:32,640
+A song opening day they had two people sing in person like a duo sing together very weird
+
+847
+00:48:32,640 --> 00:48:33,640
+to hear that.
+
+848
+00:48:33,640 --> 00:48:36,400
+Oh Alan in 82 Epcot opening.
+
+849
+00:48:36,400 --> 00:48:37,880
+Wow wow.
+
+850
+00:48:37,880 --> 00:48:45,360
+Okay so well the primer on this it's all the way at the back of Epcot Center the furthest
+
+851
+00:48:45,360 --> 00:48:51,560
+point from the entry it is World Showcase is the area with all of the pavilions representing
+
+852
+00:48:51,560 --> 00:48:57,800
+nations of the world and at the center of it is this colonial American house and you
+
+853
+00:48:57,800 --> 00:49:06,480
+watch a 25 minute show that is combines film and audio animatronics into a into an American
+
+854
+00:49:06,480 --> 00:49:08,200
+spectacular event.
+
+855
+00:49:08,200 --> 00:49:12,400
+Yes and it's very much like it looks like what you would go to it looks like someplace
+
+856
+00:49:12,400 --> 00:49:16,440
+you would go if it was not in Disney like where you would have been on a field trip.
+
+857
+00:49:16,440 --> 00:49:21,600
+Oh yeah that's like it's a colonial type house the only difference is you can get an alcoholic
+
+858
+00:49:21,600 --> 00:49:26,200
+dream sickle drink in front which I did about four months ago.
+
+859
+00:49:26,200 --> 00:49:28,240
+That is a very American statement.
+
+860
+00:49:28,240 --> 00:49:34,040
+Yes so I drank that in front of the colonial waiting for the show to begin because you
+
+861
+00:49:34,040 --> 00:49:36,800
+cannot bring it inside because they're worried you'll ruin the old.
+
+862
+00:49:36,800 --> 00:49:40,340
+Throw it you'll whip it at Chief Joseph.
+
+863
+00:49:40,340 --> 00:49:43,740
+You had your time keep your mouth shut.
+
+864
+00:49:43,740 --> 00:49:48,320
+So real quick I want to talk about the American adventure that was not built.
+
+865
+00:49:48,320 --> 00:49:49,320
+Oh yeah yeah.
+
+866
+00:49:49,320 --> 00:49:52,040
+I just found this out yesterday.
+
+867
+00:49:52,040 --> 00:49:58,180
+Learning researching this there is initially a plan that the American adventure was going
+
+868
+00:49:58,180 --> 00:50:02,560
+to be like the bridge attraction between future world and World Showcase.
+
+869
+00:50:02,560 --> 00:50:07,580
+It was going to be a circular building on stilts so you would have to you would have
+
+870
+00:50:07,580 --> 00:50:12,600
+to literally walk under America to get to the rest of the world.
+
+871
+00:50:12,600 --> 00:50:14,560
+This this was not built.
+
+872
+00:50:14,560 --> 00:50:21,280
+Another thing that got taken away there of course the hosts of this attraction Ben Franklin
+
+873
+00:50:21,280 --> 00:50:22,580
+and Mark Twain.
+
+874
+00:50:22,580 --> 00:50:26,480
+There was originally a third host Will Rogers.
+
+875
+00:50:26,480 --> 00:50:31,920
+Oh cowboy comedian who does show up in the ride was going to join them.
+
+876
+00:50:31,920 --> 00:50:32,920
+Oh man.
+
+877
+00:50:32,920 --> 00:50:33,920
+Oh man.
+
+878
+00:50:33,920 --> 00:50:34,920
+That would have been so annoying.
+
+879
+00:50:34,920 --> 00:50:41,200
+The same caliber of American I feel like as Ben Franklin or Mark Twain.
+
+880
+00:50:41,200 --> 00:50:43,520
+Would he spin the lariat the whole time?
+
+881
+00:50:43,520 --> 00:50:46,280
+I have to imagine he would have had that.
+
+882
+00:50:46,280 --> 00:50:47,280
+He'd have to.
+
+883
+00:50:47,280 --> 00:50:48,840
+I mean that would be that's part of it right?
+
+884
+00:50:48,840 --> 00:50:50,960
+He can't do more than more tricks than that.
+
+885
+00:50:50,960 --> 00:50:51,960
+Yeah yeah right.
+
+886
+00:50:51,960 --> 00:50:52,960
+Keep it going.
+
+887
+00:50:52,960 --> 00:50:53,960
+Yeah.
+
+888
+00:50:53,960 --> 00:50:54,960
+Because it's not a rope.
+
+889
+00:50:54,960 --> 00:50:55,960
+He's not a man.
+
+890
+00:50:55,960 --> 00:50:56,960
+Oh yeah yeah.
+
+891
+00:50:56,960 --> 00:50:57,960
+Because he can't.
+
+892
+00:50:57,960 --> 00:50:58,960
+He's not a man.
+
+893
+00:50:58,960 --> 00:50:59,960
+Yes yeah yeah he can't do real rope tricks.
+
+894
+00:50:59,960 --> 00:51:00,960
+He's limited.
+
+895
+00:51:00,960 --> 00:51:06,640
+Yeah and also doesn't Mark Twain fill the if Mark Twain and Benjamin Franklin are a
+
+896
+00:51:06,640 --> 00:51:10,480
+straight man funny man isn't Mark Twain already the funny man?
+
+897
+00:51:10,480 --> 00:51:13,160
+I know he'd have to be like straight manning Will Rogers.
+
+898
+00:51:13,160 --> 00:51:14,160
+Yeah yeah.
+
+899
+00:51:14,160 --> 00:51:15,160
+Yeah you'd have to keep it.
+
+900
+00:51:15,160 --> 00:51:16,160
+I'm glad they didn't go there.
+
+901
+00:51:16,160 --> 00:51:17,440
+Yeah that was a good idea.
+
+902
+00:51:17,440 --> 00:51:21,800
+I would if we're using comedy lingo I would call them peas in a pod honestly.
+
+903
+00:51:21,800 --> 00:51:23,960
+Because I feel like they're both riffing a lot.
+
+904
+00:51:23,960 --> 00:51:25,880
+But Ben Franklin was funny too.
+
+905
+00:51:25,880 --> 00:51:30,680
+Yeah that's what the show like the opening thing of them in the show is them like zing
+
+906
+00:51:30,680 --> 00:51:36,640
+and they're they're kind of trading bar logans back and forth.
+
+907
+00:51:36,640 --> 00:51:37,640
+Slow zings.
+
+908
+00:51:37,640 --> 00:51:39,760
+American slow moving zings.
+
+909
+00:51:39,760 --> 00:51:43,320
+Slow is kind of the operative word with this thing in general.
+
+910
+00:51:43,320 --> 00:51:46,000
+Of all of all that we talked about a couple topics but we ended up on this.
+
+911
+00:51:46,000 --> 00:51:50,520
+Do you have any specific reasons or recollections about the American adventure?
+
+912
+00:51:50,520 --> 00:51:52,800
+It was my favorite thing.
+
+913
+00:51:52,800 --> 00:51:55,280
+Yeah I like I loved going to it.
+
+914
+00:51:55,280 --> 00:51:59,720
+I loved animatronics and I still do and I don't think they've gotten that much better
+
+915
+00:51:59,720 --> 00:52:02,400
+which is weird like have they really?
+
+916
+00:52:02,400 --> 00:52:08,120
+A couple I mean the rocket raccoon animatronic famously at California venture is very good.
+
+917
+00:52:08,120 --> 00:52:09,600
+I have not seen it yet.
+
+918
+00:52:09,600 --> 00:52:16,260
+And then the Olaf on the repurposed maelstrom also moves and like is pretty impressive.
+
+919
+00:52:16,260 --> 00:52:17,700
+But then Trump's fucking weird.
+
+920
+00:52:17,700 --> 00:52:19,800
+But Trump's robot is not great.
+
+921
+00:52:19,800 --> 00:52:20,800
+It's crazy.
+
+922
+00:52:20,800 --> 00:52:26,120
+I thought the Yeti on the Everest ride at American Animal Kingdom was really.
+
+923
+00:52:26,120 --> 00:52:27,120
+Well that's busted.
+
+924
+00:52:27,120 --> 00:52:28,120
+Yeah.
+
+925
+00:52:28,120 --> 00:52:29,120
+It's busted?
+
+926
+00:52:29,120 --> 00:52:30,120
+It's broken on Everest.
+
+927
+00:52:30,120 --> 00:52:31,120
+Yeah.
+
+928
+00:52:31,120 --> 00:52:32,120
+Yeah it's broken.
+
+929
+00:52:32,120 --> 00:52:33,120
+It hasn't worked in many years.
+
+930
+00:52:33,120 --> 00:52:34,600
+It's a whole controversy now.
+
+931
+00:52:34,600 --> 00:52:35,600
+It worked when I went.
+
+932
+00:52:35,600 --> 00:52:37,000
+It was it swiped down at you.
+
+933
+00:52:37,000 --> 00:52:38,000
+It was crazy.
+
+934
+00:52:38,000 --> 00:52:39,000
+I'm happy for you I swear.
+
+935
+00:52:39,000 --> 00:52:41,000
+That's a rare thing.
+
+936
+00:52:41,000 --> 00:52:42,400
+That's crazy.
+
+937
+00:52:42,400 --> 00:52:47,480
+So yeah I just think it's I mean actually I didn't I watched the YouTube video of it
+
+938
+00:52:47,480 --> 00:52:52,480
+last night and I didn't realize like it starts with well first of all I just liked it.
+
+939
+00:52:52,480 --> 00:52:54,440
+I liked all the history.
+
+940
+00:52:54,440 --> 00:53:03,040
+I made me feel like very smart to go to it and like it.
+
+941
+00:53:03,040 --> 00:53:08,000
+And and but I didn't realize till I watched it that like it starts with this very weird
+
+942
+00:53:08,000 --> 00:53:13,440
+scene between Twain and Ben Franklin and then there's like seven minutes of just like songs
+
+943
+00:53:13,440 --> 00:53:16,280
+and no animatronics pushing into paintings.
+
+944
+00:53:16,280 --> 00:53:20,380
+It's just pushing into paintings and telling you about like a bunch of like the pilgrims
+
+945
+00:53:20,380 --> 00:53:21,920
+getting cold and stuff.
+
+946
+00:53:21,920 --> 00:53:26,200
+And then they die.
+
+947
+00:53:26,200 --> 00:53:31,040
+There is a very unique logic to some of the ride where it's like anything in American
+
+948
+00:53:31,040 --> 00:53:36,920
+history before the invention of the photograph is paintings and drawings.
+
+949
+00:53:36,920 --> 00:53:42,960
+And then during once you get to the point you've been like there's the Civil War sequence
+
+950
+00:53:42,960 --> 00:53:45,480
+the two brothers sequence which we'll get to.
+
+951
+00:53:45,480 --> 00:53:47,640
+That's all photographs.
+
+952
+00:53:47,640 --> 00:53:52,560
+And eventually you get to silent films and then more film stuff starts to show.
+
+953
+00:53:52,560 --> 00:53:56,560
+Right but they do do animatronics of like those two guys talking mad shit on Washington.
+
+954
+00:53:56,560 --> 00:53:57,560
+Yes.
+
+955
+00:53:57,560 --> 00:54:00,940
+Which I think is the best one because the horse the way the horse moves is really sort
+
+956
+00:54:00,940 --> 00:54:07,920
+of like he's silently sitting on that mountain and they're like ah if we don't starve cursed
+
+957
+00:54:07,920 --> 00:54:11,320
+Washington we've got dysentery.
+
+958
+00:54:11,320 --> 00:54:12,480
+They're just like yelling.
+
+959
+00:54:12,480 --> 00:54:14,920
+Congress sits in their warm houses.
+
+960
+00:54:14,920 --> 00:54:18,560
+Oh man so good.
+
+961
+00:54:18,560 --> 00:54:26,120
+The about my where I'm coming from with this attraction.
+
+962
+00:54:26,120 --> 00:54:32,680
+So when I was a kid I was a big I was really into history as well as a kid.
+
+963
+00:54:32,680 --> 00:54:38,000
+I was really into the presidents specifically for some reason I really revered presidents
+
+964
+00:54:38,000 --> 00:54:43,520
+and there was a story my mom told me where I just like I don't know if I just vaguely
+
+965
+00:54:43,520 --> 00:54:50,280
+heard someone criticizing the president President George Bush senior of just some vague criticism
+
+966
+00:54:50,280 --> 00:54:53,640
+and I came home upset maybe crying upset.
+
+967
+00:54:53,640 --> 00:54:54,640
+Wow.
+
+968
+00:54:54,640 --> 00:54:57,520
+The idea that somebody would be critical of our president.
+
+969
+00:54:57,520 --> 00:55:01,260
+Were your parents like conservative or where'd you get this from?
+
+970
+00:55:01,260 --> 00:55:04,080
+They were not they are today.
+
+971
+00:55:04,080 --> 00:55:08,520
+They're all Trump heads and this would be the one my mom would listen to if she listens
+
+972
+00:55:08,520 --> 00:55:10,760
+to us so hey mom do your thing.
+
+973
+00:55:10,760 --> 00:55:16,200
+But the no but they weren't really I think I just my mom.
+
+974
+00:55:16,200 --> 00:55:17,480
+You respected the office.
+
+975
+00:55:17,480 --> 00:55:18,720
+I think yeah yeah yeah.
+
+976
+00:55:18,720 --> 00:55:20,280
+Respect the office.
+
+977
+00:55:20,280 --> 00:55:25,720
+Yeah I really did and I remember there was a poll of like when he ran against Clinton
+
+978
+00:55:25,720 --> 00:55:28,240
+there was a poll of like who the classroom wants to be.
+
+979
+00:55:28,240 --> 00:55:29,240
+Yes right right.
+
+980
+00:55:29,240 --> 00:55:34,440
+Clinton won in the class and I was upset about that I was like we have to support our president
+
+981
+00:55:34,440 --> 00:55:38,280
+like the idea that the president could be challenged upset me for some reason.
+
+982
+00:55:38,280 --> 00:55:41,640
+Oh man were you think your parents were like oh Scott's such a nerd.
+
+983
+00:55:41,640 --> 00:55:43,720
+Oh yeah well here's how it broke down.
+
+984
+00:55:43,720 --> 00:55:48,600
+My mom with all this was like I raised the perfect child.
+
+985
+00:55:48,600 --> 00:55:54,200
+I rate like exactly the kid I imagined I would have and here he is and he's perfect and wonderful.
+
+986
+00:55:54,200 --> 00:55:58,080
+My dad was kind of like hey we got to fix Scott.
+
+987
+00:55:58,080 --> 00:56:04,160
+We got to nudge him over because I was also like a around the point where she also mission
+
+988
+00:56:04,160 --> 00:56:05,880
+accomplished on history.
+
+989
+00:56:05,880 --> 00:56:09,760
+And she got me really into Broadway and I remember when I by the time I was really deep
+
+990
+00:56:09,760 --> 00:56:11,480
+into a thing called Forbidden Broadway.
+
+991
+00:56:11,480 --> 00:56:12,480
+Oh God yes yes.
+
+992
+00:56:12,480 --> 00:56:13,480
+Forbidden Broadway.
+
+993
+00:56:13,480 --> 00:56:18,520
+It's been a whole thing because you know how they are showing Spamilton and in their signs
+
+994
+00:56:18,520 --> 00:56:22,960
+for Spamilton that's a Forbidden Broadway Hamilton.
+
+995
+00:56:22,960 --> 00:56:26,520
+And my boyfriend was going to take yeah so explain Forbidden Broadway.
+
+996
+00:56:26,520 --> 00:56:30,040
+Forbidden Broadway is like a parody of Broadway shows.
+
+997
+00:56:30,040 --> 00:56:31,040
+Yeah it's like a review.
+
+998
+00:56:31,040 --> 00:56:36,360
+A review that ran for a long time where that would be like the greatest hits of whatever's
+
+999
+00:56:36,360 --> 00:56:42,320
+the big shows at the moment whether it's Evita or Phantom of the Opera, Cats or whatever.
+
+1000
+00:56:42,320 --> 00:56:49,720
+And yeah just sort of a you know like a capital steps sort of like a parody a satire.
+
+1001
+00:56:49,720 --> 00:56:56,280
+But that's like making fun of like specific issues people have with like the leading man's
+
+1002
+00:56:56,280 --> 00:56:57,280
+over acting.
+
+1003
+00:56:57,280 --> 00:57:04,520
+Like it'll be like it's like very inside baseball of people even who like work on Broadway.
+
+1004
+00:57:04,520 --> 00:57:09,860
+They had a song I remembered that was making fun of it was a song from Guys and Dolls making
+
+1005
+00:57:09,860 --> 00:57:14,720
+fun of Marlon Brando's mumbly singing voice in the Guys and Dolls movie.
+
+1006
+00:57:14,720 --> 00:57:15,720
+Oh that's the level.
+
+1007
+00:57:15,720 --> 00:57:19,800
+Oh so that was like you were doing like I was like I was in Forbidden Broadway volume
+
+1008
+00:57:19,800 --> 00:57:25,520
+two which is making fun of how like how hammy George Hearn was in the La Cage a Fall musical.
+
+1009
+00:57:25,520 --> 00:57:32,480
+So it was just like oh like Bernadette Peters in the revival of Anything Goes.
+
+1010
+00:57:32,480 --> 00:57:37,040
+There was a song about to the tune of Anything Goes I don't remember the statement of it.
+
+1011
+00:57:37,040 --> 00:57:38,040
+Patti LuPone.
+
+1012
+00:57:38,040 --> 00:57:40,040
+Oh wow.
+
+1013
+00:57:40,040 --> 00:57:46,600
+Oh I can't believe we both know the Patti LuPone parody.
+
+1014
+00:57:46,600 --> 00:57:48,280
+What was the stance on Patti LuPone?
+
+1015
+00:57:48,280 --> 00:57:52,800
+Do we have any idea was she you know was she was it a tribute do they like Patti LuPone?
+
+1016
+00:57:52,800 --> 00:57:57,760
+In olden days the show was shocking cause Merman would keep them rocking but now they
+
+1017
+00:57:57,760 --> 00:57:59,760
+phone Patti LuPone.
+
+1018
+00:57:59,760 --> 00:58:00,760
+Wow.
+
+1019
+00:58:00,760 --> 00:58:06,360
+Okay I must have had that so wait was Patti LuPone in the 70s or 80s or something?
+
+1020
+00:58:06,360 --> 00:58:08,320
+Mike is completely curled back against the couch.
+
+1021
+00:58:08,320 --> 00:58:10,920
+I don't know what to make of this.
+
+1022
+00:58:10,920 --> 00:58:15,320
+My wife currently is listening to this and cringing on both of our behalf she's like
+
+1023
+00:58:15,320 --> 00:58:17,920
+gnarled up hearing all of this.
+
+1024
+00:58:17,920 --> 00:58:22,560
+My boyfriend couldn't take his daughter had already seen Hamilton with her mom and he
+
+1025
+00:58:22,560 --> 00:58:27,680
+was like should I take her to Spamilton and I had a sneaking suspicion so I found Spamilton
+
+1026
+00:58:27,680 --> 00:58:34,800
+on Spotify and it's like raps about the theater that did Hamilton.
+
+1027
+00:58:34,800 --> 00:58:35,800
+Oh my god.
+
+1028
+00:58:35,800 --> 00:58:36,800
+And like.
+
+1029
+00:58:36,800 --> 00:58:38,360
+Jokes about the theater itself.
+
+1030
+00:58:38,360 --> 00:58:42,760
+About the production of Hamilton on Broadway like I can't imagine an LA audience even understanding
+
+1031
+00:58:42,760 --> 00:58:44,600
+what any of it is about.
+
+1032
+00:58:44,600 --> 00:58:47,400
+The Niedenheimers or whatever it's called.
+
+1033
+00:58:47,400 --> 00:58:49,400
+It's just about like or like you know.
+
+1034
+00:58:49,400 --> 00:58:51,240
+Like yo they need better bathroom flow.
+
+1035
+00:58:51,240 --> 00:58:56,400
+It's just about like and it's like all about Lin-Manuel Miranda and like his perception
+
+1036
+00:58:56,400 --> 00:58:59,360
+of himself in the community of Broadway.
+
+1037
+00:58:59,360 --> 00:59:04,480
+It was like so crazy and I was like you I was like I wish I hadn't played this for you.
+
+1038
+00:59:04,480 --> 00:59:05,960
+I wish you'd just gone to.
+
+1039
+00:59:05,960 --> 00:59:06,960
+Is it a full length?
+
+1040
+00:59:06,960 --> 00:59:08,960
+Yeah it's a full show.
+
+1041
+00:59:08,960 --> 00:59:14,000
+It's a full show and it's all just parodies of Broadway.
+
+1042
+00:59:14,000 --> 00:59:15,400
+It's just the business of Broadway.
+
+1043
+00:59:15,400 --> 00:59:16,400
+Yeah.
+
+1044
+00:59:16,400 --> 00:59:18,880
+Did it just keep going or did it stop at a certain point?
+
+1045
+00:59:18,880 --> 00:59:20,400
+Is there still a spin in Broadway?
+
+1046
+00:59:20,400 --> 00:59:21,400
+This is Spamilton.
+
+1047
+00:59:21,400 --> 00:59:22,400
+Oh now it's Spamilton.
+
+1048
+00:59:22,400 --> 00:59:23,400
+Yeah but I was like.
+
+1049
+00:59:23,400 --> 00:59:26,840
+They probably had a field day with Sutton Foster and Wicked.
+
+1050
+00:59:26,840 --> 00:59:29,080
+Oh yeah I mean look it up.
+
+1051
+00:59:29,080 --> 00:59:30,080
+When I.
+
+1052
+00:59:30,080 --> 00:59:31,080
+What are you a channel with?
+
+1053
+00:59:31,080 --> 00:59:33,440
+When I was in college they did Forbidden Hollywood.
+
+1054
+00:59:33,440 --> 00:59:35,440
+Yeah I knew Forbidden Hollywood.
+
+1055
+00:59:35,440 --> 00:59:37,960
+That's what the Guys and Dolls thing was from.
+
+1056
+00:59:37,960 --> 00:59:40,600
+They did they had a song that was like it was like.
+
+1057
+00:59:40,600 --> 00:59:44,080
+It was like about like Disney taking over the world.
+
+1058
+00:59:44,080 --> 00:59:49,200
+There was one that was like Cameron Diaz and like two other people and they were just like
+
+1059
+00:59:49,200 --> 00:59:54,080
+it was like it was a parody of You Oughta Be In Pictures but it was like you've we shouldn't
+
+1060
+00:59:54,080 --> 00:59:55,080
+be in pictures.
+
+1061
+00:59:55,080 --> 00:59:57,440
+Oh yeah it was Juliette Lewis.
+
+1062
+00:59:57,440 --> 01:00:00,920
+They were making fun of Juliette Lewis being like a flat bath.
+
+1063
+01:00:00,920 --> 01:00:02,920
+Valley girl kind of actress.
+
+1064
+01:00:02,920 --> 01:00:04,000
+Uh okay.
+
+1065
+01:00:04,000 --> 01:00:05,000
+This is wild.
+
+1066
+01:00:05,000 --> 01:00:06,000
+Before we keep delving into these terrible.
+
+1067
+01:00:06,000 --> 01:00:07,000
+Okay you're into Broadway.
+
+1068
+01:00:07,000 --> 01:00:08,000
+You're into Broadway.
+
+1069
+01:00:08,000 --> 01:00:12,080
+The point is Forbidden Broadway was the point of no return from my dad where he took my.
+
+1070
+01:00:12,080 --> 01:00:16,160
+I always suspected that this event happened and I confirmed it several years ago.
+
+1071
+01:00:16,160 --> 01:00:22,000
+I said did was there a point where you took my mom aside and said no more of this shit
+
+1072
+01:00:22,000 --> 01:00:23,000
+and it did happen.
+
+1073
+01:00:23,000 --> 01:00:24,000
+Wow.
+
+1074
+01:00:24,000 --> 01:00:29,000
+He was like I have to get my son back in shape which I think started with you know kind of
+
+1075
+01:00:29,000 --> 01:00:34,240
+like but you know it wasn't like giving me a beer but it was like buying me Mad Magazine.
+
+1076
+01:00:34,240 --> 01:00:36,160
+He did course corrects because.
+
+1077
+01:00:36,160 --> 01:00:39,480
+He was trying to get you because you couldn't talk to anyone about any of this stuff.
+
+1078
+01:00:39,480 --> 01:00:41,960
+Oh yeah imagine me in like an elementary school.
+
+1079
+01:00:41,960 --> 01:00:47,800
+I have a really specific elementary school memory of meeting somebody who also liked
+
+1080
+01:00:47,800 --> 01:00:53,360
+the Simpsons and like oh my God a fellow Simpsons fan well you must love when they make fun
+
+1081
+01:00:53,360 --> 01:00:54,720
+of the mediocre presidents.
+
+1082
+01:00:54,720 --> 01:00:59,680
+There's a song about how William Henry Harrison died in 30 days and this kid stares at me
+
+1083
+01:00:59,680 --> 01:01:02,400
+is like Homer's funny.
+
+1084
+01:01:02,400 --> 01:01:03,840
+Like that was the level.
+
+1085
+01:01:03,840 --> 01:01:06,840
+That was as close as I could come to relating to another kid.
+
+1086
+01:01:06,840 --> 01:01:14,040
+So yeah I'll always be thankful to my dad for steering me not that is this correct where
+
+1087
+01:01:14,040 --> 01:01:15,040
+I'm at now I don't know.
+
+1088
+01:01:15,040 --> 01:01:18,560
+He just tried to create a baseline of like sanity.
+
+1089
+01:01:18,560 --> 01:01:21,120
+He's like it's look it's gonna be bad no matter what.
+
+1090
+01:01:21,120 --> 01:01:25,440
+Let's just kind of get it into it like vaguely the playing field of regular humanity.
+
+1091
+01:01:25,440 --> 01:01:31,920
+This is a full nother podcast but I wonder if the three of us were more influenced by
+
+1092
+01:01:31,920 --> 01:01:37,860
+what our moms liked because I have a similar thing where like I was like way into the monkeys
+
+1093
+01:01:37,860 --> 01:01:43,240
+and I was way into like 60s pop and it's like because my mom forced me to hear and obviously
+
+1094
+01:01:43,240 --> 01:01:49,120
+like I like all that stuff now and it's really good but I do wonder if maybe that is a common
+
+1095
+01:01:49,120 --> 01:01:54,960
+ality maybe it's this podcast mama's boys that might be what I'm getting at Jason theme
+
+1096
+01:01:54,960 --> 01:01:55,960
+park spin off.
+
+1097
+01:01:55,960 --> 01:02:00,160
+I both my parents like theme parks and mystery novels and that's all I like.
+
+1098
+01:02:00,160 --> 01:02:02,440
+All right oh they're a match made in heaven.
+
+1099
+01:02:02,440 --> 01:02:07,480
+Yeah well no they got the worst enough for years ago.
+
+1100
+01:02:07,480 --> 01:02:10,120
+For a while they were.
+
+1101
+01:02:10,120 --> 01:02:16,000
+Yeah I don't know my parents were very encouraging of my pursuits probably because like I was
+
+1102
+01:02:16,000 --> 01:02:17,560
+very nervous child.
+
+1103
+01:02:17,560 --> 01:02:23,320
+So I think anytime they're like oh good a thing where he goes off with other kids.
+
+1104
+01:02:23,320 --> 01:02:27,460
+That said your your Simpsons story does remind me of when I would talk to other kids about
+
+1105
+01:02:27,460 --> 01:02:31,640
+theme park like like like oh you went to Disney World somehow about alien encounters you know
+
+1106
+01:02:31,640 --> 01:02:33,040
+like this thing what about the pre-show.
+
+1107
+01:02:33,040 --> 01:02:38,000
+Yeah kids would be like yeah it was good I was scared or it was just I was like I got
+
+1108
+01:02:38,000 --> 01:02:39,240
+I got saved.
+
+1109
+01:02:39,240 --> 01:02:43,820
+Did you save your maps like you know that in the Magic Kingdom in Florida the ship is
+
+1110
+01:02:43,820 --> 01:02:46,800
+called the Joe Fowler not the Mark Twain imagineer.
+
+1111
+01:02:46,800 --> 01:02:52,880
+And in 20 years time I'll be piloting it as I turn 30.
+
+1112
+01:02:52,880 --> 01:02:53,880
+It's a miracle.
+
+1113
+01:02:53,880 --> 01:02:55,480
+Look there's a lot of miracles.
+
+1114
+01:02:55,480 --> 01:03:00,080
+It's a miracle that we anyone will talk to any of us it's a miracle we met each other.
+
+1115
+01:03:00,080 --> 01:03:03,080
+Like imagine back then the hopelessness of like.
+
+1116
+01:03:03,080 --> 01:03:04,080
+There's no Reddit.
+
+1117
+01:03:04,080 --> 01:03:08,360
+Oh yeah yeah yeah exactly yeah well that's why I was big on theme park internet when
+
+1118
+01:03:08,360 --> 01:03:13,160
+it opened up like in middle school I'm on all of these like deep message boards and
+
+1119
+01:03:13,160 --> 01:03:15,200
+everything that replaced friends.
+
+1120
+01:03:15,200 --> 01:03:19,640
+I mean we would get Disney Adventure at the house like we had a subscription to that we
+
+1121
+01:03:19,640 --> 01:03:23,920
+had a subscription to Disney Magazine the Vacation Club had its own magazine so it
+
+1122
+01:03:23,920 --> 01:03:25,800
+was all yeah it was everywhere.
+
+1123
+01:03:25,800 --> 01:03:28,960
+He's setting you on a course.
+
+1124
+01:03:28,960 --> 01:03:32,000
+So you were really into presidents and Broadway.
+
+1125
+01:03:32,000 --> 01:03:34,800
+So that's that's okay where was all that heading.
+
+1126
+01:03:34,800 --> 01:03:36,580
+I think there's a story coming up about when you went to Orlando.
+
+1127
+01:03:36,580 --> 01:03:41,600
+So yeah with all this I'm this kid I'm this this deep this forbidden Broadway kid and
+
+1128
+01:03:41,600 --> 01:03:45,560
+then knowing that there is I remember on the plane reading the Burn Bombs Guide Disney
+
+1129
+01:03:45,560 --> 01:03:50,280
+World and it's a show where 35 audio animatronics come to life and Benjamin Franklin and Mark
+
+1130
+01:03:50,280 --> 01:03:55,280
+Benjamin Franklin climbs up stairs I'm so thrilled for this and like all the whole day
+
+1131
+01:03:55,280 --> 01:03:59,880
+is a build up to it and we took the boats across the lagoon and there it is it's getting
+
+1132
+01:03:59,880 --> 01:04:04,320
+getting bigger and bigger in view and then getting off the boats to the sign that the
+
+1133
+01:04:04,320 --> 01:04:11,320
+American adventure is being refurbished and it was the the deepest despair that I have
+
+1134
+01:04:11,320 --> 01:04:16,240
+I'm sure if there was video of it it is like a temper tantrum to end all temper tantrums
+
+1135
+01:04:16,240 --> 01:04:21,760
+like worse than a level of crying it is worse than any like breakup I've had just like the
+
+1136
+01:04:21,760 --> 01:04:25,920
+deepest deepest and my I talked to my mom about this last night and she was like I really
+
+1137
+01:04:25,920 --> 01:04:30,280
+I didn't know what to do it was a challenge as a parent in that moment to figure out how
+
+1138
+01:04:30,280 --> 01:04:35,320
+to calm you down I believe that she ended up saying well look the rotunda is open you
+
+1139
+01:04:35,320 --> 01:04:41,240
+can still see the Voices of Liberty acapella group and I think that did give me the the
+
+1140
+01:04:41,240 --> 01:04:44,220
+boost of colonial energy.
+
+1141
+01:04:44,220 --> 01:04:45,400
+How old were you again?
+
+1142
+01:04:45,400 --> 01:04:47,200
+I would say like seven.
+
+1143
+01:04:47,200 --> 01:04:48,200
+Wow.
+
+1144
+01:04:48,200 --> 01:04:49,200
+Yeah.
+
+1145
+01:04:49,200 --> 01:04:53,080
+But in all of that like kids look forward to going to Disney World like that it's that
+
+1146
+01:04:53,080 --> 01:04:56,840
+it's roller coasters or it's meet Mickey Mouse I want to see Benjamin Franklin climb those
+
+1147
+01:04:56,840 --> 01:04:59,560
+stairs and I don't get to and I weep.
+
+1148
+01:04:59,560 --> 01:05:00,560
+That's crazy.
+
+1149
+01:05:00,560 --> 01:05:03,360
+Oh man it's great though.
+
+1150
+01:05:03,360 --> 01:05:07,480
+Yeah it's great I mean I will admit I was not nerdy for this when I was that age though
+
+1151
+01:05:07,480 --> 01:05:10,480
+I was much more I think yeah I like this stuff.
+
+1152
+01:05:10,480 --> 01:05:12,560
+I always kind of knew it was insane.
+
+1153
+01:05:12,560 --> 01:05:13,560
+Yeah but I was.
+
+1154
+01:05:13,560 --> 01:05:17,440
+I just I like thought it was very like educational.
+
+1155
+01:05:17,440 --> 01:05:19,000
+Uh huh.
+
+1156
+01:05:19,000 --> 01:05:24,800
+There's that other perspective as you said with Chief Joseph it's not a it's not a totally.
+
+1157
+01:05:24,800 --> 01:05:26,600
+Frederick Douglass.
+
+1158
+01:05:26,600 --> 01:05:31,720
+It's one of the rare Disney things that doesn't just go be like America was great wasn't it?
+
+1159
+01:05:31,720 --> 01:05:33,720
+And it's like anti Song of the South.
+
+1160
+01:05:33,720 --> 01:05:36,160
+It shows some complications.
+
+1161
+01:05:36,160 --> 01:05:40,460
+It shows some I mean look it could do a better job let's be honest it's not like it's some
+
+1162
+01:05:40,460 --> 01:05:45,160
+amazingly nuanced thing it's yeah but still like you're like I because I we saw it a couple
+
+1163
+01:05:45,160 --> 01:05:48,360
+months ago and I was like oh yeah OK.
+
+1164
+01:05:48,360 --> 01:05:52,280
+They're acknowledging that maybe America hasn't been the best country in the world for it
+
+1165
+01:05:52,280 --> 01:05:57,800
+was like a six year break like in 2006 my family went and we didn't go back down to
+
+1166
+01:05:57,800 --> 01:06:02,840
+like 2012 and I remember like we were at Epcot one day and everyone had been there for a
+
+1167
+01:06:02,840 --> 01:06:06,420
+while and was kind of tired and I was like oh you know what we haven't done the American
+
+1168
+01:06:06,420 --> 01:06:11,960
+adventure and like half of the behalf of us were like I don't need to and then me and
+
+1169
+01:06:11,960 --> 01:06:16,440
+my dad were like oh we'll go watch it and I went and watched it and I was like I forgot
+
+1170
+01:06:16,440 --> 01:06:22,040
+this I forgot all of it and then like later we all met up for dinner and I'm like do you
+
+1171
+01:06:22,040 --> 01:06:27,460
+the American event and I was explaining it and and we were leaving the next day so the
+
+1172
+01:06:27,460 --> 01:06:32,520
+everyone else was just like oh my God why didn't you why didn't anyone remember that
+
+1173
+01:06:32,520 --> 01:06:37,560
+so then we went back like two years later everyone made sure to watch it this time like
+
+1174
+01:06:37,560 --> 01:06:42,320
+it is yeah it's something it's nuts yeah let me say then the other side of that for me
+
+1175
+01:06:42,320 --> 01:06:48,160
+because as much as I loved it as a kid today I like made a real point when I went to Disney
+
+1176
+01:06:48,160 --> 01:06:51,500
+World the first time with Aaron my wife made a real point of like oh we got to see this
+
+1177
+01:06:51,500 --> 01:06:58,440
+it's this you know the 35 animatronics and she is like from minute three like oh like
+
+1178
+01:06:58,440 --> 01:07:02,080
+she and like and in the last couple days when I've been talking about it and putting on
+
+1179
+01:07:02,080 --> 01:07:07,760
+videos of it and everything same thing just like come on God and I like she landed on
+
+1180
+01:07:07,760 --> 01:07:11,120
+that we landed on that part you were talking about where it's just pushes in on paintings
+
+1181
+01:07:11,120 --> 01:07:16,080
+for a while and I was justifying it like well you know this is pre Ken Burns so push in
+
+1182
+01:07:16,080 --> 01:07:22,480
+on a painting not oh God she's been so frustrated hearing about and end quote Aaron this morning
+
+1183
+01:07:22,480 --> 01:07:29,600
+I will I will only listen to this episode because of the guest oh yeah thanks for the
+
+1184
+01:07:29,600 --> 01:07:34,480
+shack glad you're hope you're still with us or we're divorced now because of all that
+
+1185
+01:07:34,480 --> 01:07:38,600
+forbidden Broadway material but anyway so I would like to present the point of view
+
+1186
+01:07:38,600 --> 01:07:44,080
+and I don't I'm not trying to just make up for my dorky past I think I am with her and
+
+1187
+01:07:44,080 --> 01:07:49,120
+that like this thing is pretty ponderous well it's a little rough oh it's just people talking
+
+1188
+01:07:49,120 --> 01:07:54,360
+about stuff yes certainly it is the average theme park person or theme park goer I should
+
+1189
+01:07:54,360 --> 01:08:00,240
+say is bored by it and I think it starts in the lobby so when we were there a couple months
+
+1190
+01:08:00,240 --> 01:08:05,000
+ago the big lobby has like paintings and there's exhibits and interesting stuff and and and
+
+1191
+01:08:05,000 --> 01:08:10,880
+talking about American history almost everyone in there could care less there is one man
+
+1192
+01:08:10,880 --> 01:08:17,760
+though and I don't know if he's there all the time that works there that cares so much
+
+1193
+01:08:17,760 --> 01:08:24,320
+about American history and everything that is in there and he tries his very best to
+
+1194
+01:08:24,320 --> 01:08:29,760
+shout over just like people talking like people in the lobby just talk and he's trying to
+
+1195
+01:08:29,760 --> 01:08:36,440
+tell them about things and no one's paying any attention to him and he and on the even
+
+1196
+01:08:36,440 --> 01:08:41,000
+on the way out he comes around to the exit and there's flags and different things show
+
+1197
+01:08:41,000 --> 01:08:46,860
+I just various pieces artifacts and he is shouting over all these people that could
+
+1198
+01:08:46,860 --> 01:08:52,800
+be could care less about what the significance of each of these things are and it's crazy
+
+1199
+01:08:52,800 --> 01:08:57,480
+to watch because he cares he works there who knows what his politics are does he like Trump
+
+1200
+01:08:57,480 --> 01:09:01,400
+he might but I don't know but he cares so much about his job and working there and he
+
+1201
+01:09:01,400 --> 01:09:07,880
+probably takes very like pride in what he does and tourists ignore him day in day out
+
+1202
+01:09:07,880 --> 01:09:12,920
+and that is probably what happens on this ride all people go what is this thing oh when
+
+1203
+01:09:12,920 --> 01:09:17,360
+they sit there and they go what the oh god a video okay well I'll sit down for 25 minutes
+
+1204
+01:09:17,360 --> 01:09:24,840
+theme park theme park docent is what he is yes that's not a job usually yeah because
+
+1205
+01:09:24,840 --> 01:09:30,080
+everything it's you're all you're essentially ultimately talking about fake history it's
+
+1206
+01:09:30,080 --> 01:09:34,560
+weird to be super versed right because like what is he pointing out what's in the are
+
+1207
+01:09:34,560 --> 01:09:40,360
+there historic like flag yes there are flags and stuff artifacts yes but he like all the
+
+1208
+01:09:40,360 --> 01:09:45,320
+types of flags that America yeah there's a lot of yeah state flags and past versions
+
+1209
+01:09:45,320 --> 01:09:50,840
+of the American flag and but yeah he knows like it seems like he knows everything and
+
+1210
+01:09:50,840 --> 01:09:58,320
+no one gives a shit no one cares keep it up man it's a sisyphenian sisyphenian sisyphenian
+
+1211
+01:09:58,320 --> 01:10:04,040
+yeah and hey we're with you but I'm going similar to the hall of presidents where it's
+
+1212
+01:10:04,040 --> 01:10:09,000
+like it's a good place for dad to take a nap in a dark air-conditioned place yes worst
+
+1213
+01:10:09,000 --> 01:10:13,600
+case yeah nothing's gonna like shit maybe maybe when the muskets get fired he'll wake
+
+1214
+01:10:13,600 --> 01:10:18,640
+up but if not he can probably just nap through it and it'll be okay and because he just had
+
+1215
+01:10:18,640 --> 01:10:25,200
+that dream sickle alcoholic drink yeah so he's nice and loose I remember a few years
+
+1216
+01:10:25,200 --> 01:10:31,240
+ago starting what I will admittedly call a very annoying bit based on this ride where
+
+1217
+01:10:31,240 --> 01:10:36,680
+it's just like in the middle of conversation or lulls of conversation just started saying
+
+1218
+01:10:36,680 --> 01:10:42,320
+well I guess we should explain first the two brothers sequence oh yeah I knew this song
+
+1219
+01:10:42,320 --> 01:10:49,120
+in my heart when I heard it again yeah so this is it's it's the video portion of it
+
+1220
+01:10:49,120 --> 01:10:54,720
+is in great moments with mr. Lincoln in Disneyland oh it is but not the animatronics animatronic
+
+1221
+01:10:54,720 --> 01:11:03,020
+is great so what I guess we're at the Civil War yeah so there's a Civil War sequence start
+
+1222
+01:11:03,020 --> 01:11:07,680
+of photography so here's when photos start showing up in the ride a family is sitting
+
+1223
+01:11:07,680 --> 01:11:14,880
+for a photograph and that one brother is anti slavery and one is very much pro slavery yeah
+
+1224
+01:11:14,880 --> 01:11:19,880
+and and they're like stop fighting you're gonna ruin mom's birthday and she's like nothing
+
+1225
+01:11:19,880 --> 01:11:26,320
+could ruin my birthday yeah I've got both my sons here yeah foreshadowing what's going
+
+1226
+01:11:26,320 --> 01:11:33,280
+to happen 45 seconds later yeah also I'd like to point out the part where like you know
+
+1227
+01:11:33,280 --> 01:11:38,220
+they're trying to be civil but then like one of them snips of the other you would say that
+
+1228
+01:11:38,220 --> 01:11:46,400
+Johnny Reb yeah when I was trying to like get back on the side of this ride you're this
+
+1229
+01:11:46,400 --> 01:11:51,440
+attraction you end up with things like that I'm like I don't know this is a struggle I
+
+1230
+01:11:51,440 --> 01:11:56,920
+wonder a lot watching it if we would accept these words from humans yeah are we just impressed
+
+1231
+01:11:56,920 --> 01:12:03,360
+because they're robots we're allowing them to not be good at acting yes every every segment
+
+1232
+01:12:03,360 --> 01:12:09,420
+in this is the ham-fisted version of this story and this is like it's all these still
+
+1233
+01:12:09,420 --> 01:12:13,800
+photographs from the Civil War the one brothers for the north the ones for the south and you
+
+1234
+01:12:13,800 --> 01:12:17,440
+see him in the photo at the beginning of the montage and then at the end one of them is
+
+1235
+01:12:17,440 --> 01:12:25,320
+dead and there is a song about like two brothers go to war so that was the thing I would just
+
+1236
+01:12:25,320 --> 01:12:30,560
+do to annoy my family is in the middle of conversation yeah you're terrible person for
+
+1237
+01:12:30,560 --> 01:12:37,040
+doing that you did sing that exactly like they sing it in this it's a really really
+
+1238
+01:12:37,040 --> 01:12:45,820
+yeah in great moments with mr. Lincoln it is the low point of the whole show isn't it
+
+1239
+01:12:45,820 --> 01:12:52,720
+weird that you're watching it in Disneyland and it's a photo of robots you were only in
+
+1240
+01:12:52,720 --> 01:12:58,000
+Disney World that's yeah bizarre little they're not based on an actual photo I think it's
+
+1241
+01:12:58,000 --> 01:13:03,520
+a real I think it must be real actors but the actors look exactly like the robots right
+
+1242
+01:13:03,520 --> 01:13:09,280
+there's a lot of strange levels there mr. Brady to oh I wrote down there a cannonball
+
+1243
+01:13:09,280 --> 01:13:23,280
+don't pay no mind gentle or if you're kind it's just so serious sorry Aaron and before
+
+1244
+01:13:23,280 --> 01:13:28,880
+this I guess this is also very uh Fred like Frederick Douglass on that raft oh yeah and
+
+1245
+01:13:28,880 --> 01:13:33,760
+he's talking about how much he thinks Uncle Tom's Cabin is gonna turn it all around yes
+
+1246
+01:13:33,760 --> 01:13:38,000
+he did not write yeah he just he likes it and then it goes right to those brothers and
+
+1247
+01:13:38,000 --> 01:13:42,400
+one of them is like Douglas is the kind of guy that got us into this yeah that's the
+
+1248
+01:13:42,400 --> 01:13:47,360
+first line of that to like transits was like whoa buddy also my association with Frederick
+
+1249
+01:13:47,360 --> 01:13:54,120
+Douglass is as an orator or an author not a guy cruising a raft through the bayou yeah
+
+1250
+01:13:54,120 --> 01:13:58,960
+that is very strange it is impressive they got this raft to move sideways because that's
+
+1251
+01:13:58,960 --> 01:14:04,040
+that's a thing I learned about this ride everything is underneath like the stage is only like
+
+1252
+01:14:04,040 --> 01:14:09,600
+eight feet deep and everything else rises up or slides in from the side yeah this is
+
+1253
+01:14:09,600 --> 01:14:13,400
+a question I had about how it's all put together like where are all those robots because there's
+
+1254
+01:14:13,400 --> 01:14:17,740
+a ton of giant yeah sets not just the robots but they're also here's Theodore Roosevelt
+
+1255
+01:14:17,740 --> 01:14:25,160
+on a big cliff but the World's Fair is really crazy there oh yeah oh yeah this is what the
+
+1256
+01:14:25,160 --> 01:14:31,800
+the schematics look like and the blue is like all of the set pieces rise up from the ground
+
+1257
+01:14:31,800 --> 01:14:37,800
+under your seats in the theater this giant platform like as needed there's eight steps
+
+1258
+01:14:37,800 --> 01:14:42,360
+of this big platform and it scoots up and then the first performers come up the first
+
+1259
+01:14:42,360 --> 01:14:46,760
+Mark Twain Benjamin Franklin keeps moving some of the robots are on the side of the
+
+1260
+01:14:46,760 --> 01:14:50,960
+stage and they always stay where they are and just rise into position but this is like
+
+1261
+01:14:50,960 --> 01:14:55,000
+yeah the the mechanics and the rigs and the hydraulics on this thing are insane do you
+
+1262
+01:14:55,000 --> 01:14:59,400
+think that they as they were building this ever entertained the idea that this would
+
+1263
+01:14:59,400 --> 01:15:05,720
+replace acting maybe they were where they were probably worried ethically like is this
+
+1264
+01:15:05,720 --> 01:15:10,600
+yeah are we in the in the way that like you know we're putting Fred Astaire in the vacuum
+
+1265
+01:15:10,600 --> 01:15:14,440
+commercial or whatever like is this where are we opening Pandora's box will this be
+
+1266
+01:15:14,440 --> 01:15:19,680
+the end of entertainment as we know it or it was like a precursor to replacing like
+
+1267
+01:15:19,680 --> 01:15:24,740
+Ford Motor Company employees with robots so it was just like this is the early version
+
+1268
+01:15:24,740 --> 01:15:30,120
+of automation replacing humans well because everything's been mechanized for a long time
+
+1269
+01:15:30,120 --> 01:15:33,280
+but maybe people miss that human touch and the idea that there's a lot of people in a
+
+1270
+01:15:33,280 --> 01:15:40,160
+factory so they're gonna have Will Rogers duplicates making the car lots many whoa that
+
+1271
+01:15:40,160 --> 01:15:44,800
+would be great spirit of America like robots working at McDonald's but it's like well it's
+
+1272
+01:15:44,800 --> 01:15:51,080
+like Ray Kroc yeah all Ray Kroc said McDonald or like Ronald or grimace or something yeah
+
+1273
+01:15:51,080 --> 01:15:56,800
+I mean that's Donald's employees but I think this is better you're out animatronics everywhere
+
+1274
+01:15:56,800 --> 01:16:03,160
+yeah I would that's such a good idea that they should do I'm into it yeah like can we
+
+1275
+01:16:03,160 --> 01:16:08,080
+you want to talk about specific animatronics or sequences that we can we talk about the
+
+1276
+01:16:08,080 --> 01:16:18,120
+song yes yeah yeah please which which dreams golden dreams oh yeah um America there's several
+
+1277
+01:16:18,120 --> 01:16:26,960
+types of wings mentioned wings of time wings of change and also golden wings except a lot
+
+1278
+01:16:26,960 --> 01:16:33,140
+of different wings in play in the song what are your feelings on the song I just I came
+
+1279
+01:16:33,140 --> 01:16:36,680
+in the time between I let like when I saw it as a child and saw it as an adult they
+
+1280
+01:16:36,680 --> 01:16:41,840
+had added 9-11 yeah that's where a lot of the changes have come well the animatronics
+
+1281
+01:16:41,840 --> 01:16:48,560
+got changed out in 93 still look pretty good more more lifelike and and then the song has
+
+1282
+01:16:48,560 --> 01:16:52,520
+been shortened and lengthened over the years and the montage that goes along with the song
+
+1283
+01:16:52,520 --> 01:16:56,280
+is changed who's the most recent animatronic like okay so this show takes you all through
+
+1284
+01:16:56,280 --> 01:17:00,920
+American history that two brothers thing is the midpoint civil war and then who maybe
+
+1285
+01:17:00,920 --> 01:17:07,640
+it's I want to say like Theodore Roosevelt FDR and Will Rogers oh yeah and then past
+
+1286
+01:17:07,640 --> 01:17:13,120
+that point it's all movies and they have got will every decade or so update the film at
+
+1287
+01:17:13,120 --> 01:17:20,080
+the end set to the soaring song golden dreams with like new inspiring Americans the last
+
+1288
+01:17:20,080 --> 01:17:26,400
+one is the ladies fixing the ship oh like oh yeah Rosie the Riveter on Christmas Day
+
+1289
+01:17:26,400 --> 01:17:31,640
+and it goes straight from that to America spread your golden wings and to 9-11 yeah
+
+1290
+01:17:31,640 --> 01:17:36,960
+yeah the 40s are it and then you're 9-11 the golden dream starts with us winning World
+
+1291
+01:17:36,960 --> 01:17:47,280
+War II and the rest is movie like 19 or 45 and Warren's 45 11 to present yeah 70 years
+
+1292
+01:17:47,280 --> 01:17:52,320
+and they just added three new people to the do you guys have that yeah there's more they
+
+1293
+01:17:52,320 --> 01:17:56,280
+the press release only listed three but we watched it and there are more the big ones
+
+1294
+01:17:56,280 --> 01:18:02,520
+that were mentioned were John Williams Neil deGrasse Tyson is in there yeah but if you
+
+1295
+01:18:02,520 --> 01:18:07,080
+watch the whole thing where they have the list they took out Tiger Woods and Lance Armstrong
+
+1296
+01:18:07,080 --> 01:18:12,080
+their legacies have been a little tarnished since last updated I believe Louie they took
+
+1297
+01:18:12,080 --> 01:18:19,600
+out Louie oh yeah Louie's gone Kevin Spacey is gone leaving Aziz for now the 13 reasons
+
+1298
+01:18:19,600 --> 01:18:30,060
+why author is gone Neil LeBute is also no longer in it well why was James Toback ever
+
+1299
+01:18:30,060 --> 01:18:37,920
+in yeah no pay his way in this his robot is still on the ride though yeah yeah the
+
+1300
+01:18:37,920 --> 01:18:45,560
+James Toback author tries to pitch you on a new movie passenger seat of his car he presses
+
+1301
+01:18:45,560 --> 01:18:52,600
+up against you in his giant pants on the way to dinner with Barry Levinson did he really
+
+1302
+01:18:52,600 --> 01:18:59,320
+make Bugsy mr. Franklin there's an Alec Baldwin animatronic outside defending him I also like
+
+1303
+01:18:59,320 --> 01:19:05,600
+so it ends though after golden dreams it ends with the they're in the the Statue of Liberty's
+
+1304
+01:19:05,600 --> 01:19:13,160
+torch mm-hmm it's the two of them Franklin Twain in the torch and they present the idea
+
+1305
+01:19:13,160 --> 01:19:19,600
+that maybe the biggest problem with America is that it's had too much success yeah this
+
+1306
+01:19:19,600 --> 01:19:25,280
+leisure and free time no Empire has ever gotten past this it's weird like I think we'll be
+
+1307
+01:19:25,280 --> 01:19:33,240
+just fine can you tell this was opened in 1980 yeah tell this was a Reagan era attraction
+
+1308
+01:19:33,240 --> 01:19:38,480
+this is 20 years past the futurists who were like in the future everything will be automated
+
+1309
+01:19:38,480 --> 01:19:42,960
+so we're gonna have to come up with great new leisure activities because no one's gonna
+
+1310
+01:19:42,960 --> 01:19:49,840
+have to work and then by 82 it's already like can't have too much leisure must work for
+
+1311
+01:19:49,840 --> 01:19:57,160
+these good companies imagine a box where comedians can type funny jokes that they think of and
+
+1312
+01:19:57,160 --> 01:20:03,320
+observations and they'll be able to do that and not beg senators put to not kill them
+
+1313
+01:20:03,320 --> 01:20:11,760
+and save immigrants from being it's gonna stay real fun yeah well there is a very oddly
+
+1314
+01:20:11,760 --> 01:20:17,120
+prescient exchange of dialogue which is well mr. Twain what do you think of our America
+
+1315
+01:20:17,120 --> 01:20:27,200
+now Twain are well our founding fathers never dreamed of an America like this fairly they
+
+1316
+01:20:27,200 --> 01:20:32,560
+also I want to point out the line here's boy this this one this one gets the loudest Aaron
+
+1317
+01:20:32,560 --> 01:20:38,960
+ugh of all I may have invented these bifocals I'm wearing but I can assure you they are
+
+1318
+01:20:38,960 --> 01:20:46,800
+not I cried because I didn't get to see this as a child I couldn't watch the bifocals
+
+1319
+01:20:46,800 --> 01:20:52,000
+wisecrack they were both masters of quips I could not get to it fast enough like I loved
+
+1320
+01:20:52,000 --> 01:20:57,080
+it so much and it's the farthest point it was the farthest all the way across all the
+
+1321
+01:20:57,080 --> 01:21:01,040
+many acres unless you enter from that other secret or take the boat yeah that's right
+
+1322
+01:21:01,040 --> 01:21:07,600
+my favorite attractions were always American adventure adventure experience adventure yeah
+
+1323
+01:21:07,600 --> 01:21:15,200
+um figment yeah and pirates so I think I just liked animatronics yeah everyone and those
+
+1324
+01:21:15,200 --> 01:21:22,680
+all have many many animatronics with personality yes yeah yeah the the pirates faces are so
+
+1325
+01:21:22,680 --> 01:21:26,960
+I think we've talked about that before the pirates faces like suggest character more
+
+1326
+01:21:26,960 --> 01:21:32,640
+character than most human faces because they're slightly cartoonish and there's also like
+
+1327
+01:21:32,640 --> 01:21:39,680
+look I think animatronics really excel when it's like weird grouchy men which obviously
+
+1328
+01:21:39,680 --> 01:21:46,320
+which I you know a dream finder is he's a busy he's a beard Oh like character actor
+
+1329
+01:21:46,320 --> 01:21:52,440
+men like that's what robots the best robots are like I see with him typically yes some
+
+1330
+01:21:52,440 --> 01:21:58,280
+crusty oddball guy and this face isn't gonna move that much he's not he doesn't feel like
+
+1331
+01:21:58,280 --> 01:22:03,920
+exerting the effort no now I say that where in my mind I think like the blockiness of
+
+1332
+01:22:03,920 --> 01:22:09,260
+a robot lends itself to but oh you know weird grizzled male animatronics but like now I'm
+
+1333
+01:22:09,260 --> 01:22:14,160
+thinking about women do we think like like women like female animatronics are in my mind
+
+1334
+01:22:14,160 --> 01:22:20,200
+they're like not as good what am I arguing here exactly like I maybe like a lot of old
+
+1335
+01:22:20,200 --> 01:22:27,800
+men built these attractions and they knew how to make better we've got woman chasing
+
+1336
+01:22:27,800 --> 01:22:32,200
+a pirate trying to kiss him yeah well they're pretty she's pretty good in this she's pretty
+
+1337
+01:22:32,200 --> 01:22:36,420
+good other women fixing the ship are pretty good yeah yeah yeah flips up her hood which
+
+1338
+01:22:36,420 --> 01:22:42,640
+is pretty yeah that looks cool mask oh right right yeah yeah sure are there any like uh
+
+1339
+01:22:42,640 --> 01:22:48,120
+are female animatronics attractive ever or is this the artful or make them weird yeah
+
+1340
+01:22:48,120 --> 01:22:52,760
+you're right the red is attractive just a rabbit is there one of those oh yeah and the
+
+1341
+01:22:52,760 --> 01:22:58,080
+red the rabbit right right I she must be concerned about it making everyone too horny so yeah
+
+1342
+01:22:58,080 --> 01:23:04,120
+I think you're right I think you're right you get like a aerial animatronic in the mermaid
+
+1343
+01:23:04,120 --> 01:23:08,440
+ride oh sure yeah once they got rid of that spinning hair which is kind of weird like
+
+1344
+01:23:08,440 --> 01:23:13,000
+when it opened the hair was the hair was a whole controversy yeah yeah they fixed it
+
+1345
+01:23:13,000 --> 01:23:17,940
+up is it now is it um Jennifer Tilly always in the globe in the crystal ball no they never
+
+1346
+01:23:17,940 --> 01:23:22,240
+did that there's talk of them doing that because I think she's very sexy the woman inside the
+
+1347
+01:23:22,240 --> 01:23:26,160
+crystal ball oh Madame Leota yeah but she's not a she's an she's a hologram yeah yeah
+
+1348
+01:23:26,160 --> 01:23:29,840
+well Scott wants just don't find the hottest animatronic he's just trying to figure out
+
+1349
+01:23:29,840 --> 01:23:35,360
+what uh that's an episode we'll build to yeah who's the hottest animatronic we'll run out
+
+1350
+01:23:35,360 --> 01:23:40,880
+of topics and we'll have to get to like that like a magan episode an issue of maxim another
+
+1351
+01:23:40,880 --> 01:23:49,000
+podcast ride for men a line from the torch uh that I I do think is solid the golden age
+
+1352
+01:23:49,000 --> 01:23:55,580
+was never the present age uh oh yeah helpful to remember because I I feel like we've heard
+
+1353
+01:23:55,580 --> 01:24:01,360
+or seen people exclaiming the golden age of podcasting or the golden age of comedy right
+
+1354
+01:24:01,360 --> 01:24:05,940
+in the middle of it and where it's not real the best way we're in it right now declare
+
+1355
+01:24:05,940 --> 01:24:11,940
+things the golden age when you have zero perspective on the current moment yeah declaring things
+
+1356
+01:24:11,940 --> 01:24:15,800
+to be the golden age and that they will last forever but this episode will be declared
+
+1357
+01:24:15,800 --> 01:24:19,840
+the golden this oh yeah this is as yeah yeah this is the golden age of podcast the ride
+
+1358
+01:24:19,840 --> 01:24:26,920
+yeah it's only a slow decline from here this is it spread your golden wings everybody um
+
+1359
+01:24:26,920 --> 01:24:33,560
+I hate the oh well also well a couple other things to mention the uh the bizarre uh handshake
+
+1360
+01:24:33,560 --> 01:24:39,900
+yes that's uh that is the climax that is the grand finale that's the ball on indiana jones
+
+1361
+01:24:39,900 --> 01:24:45,920
+that's the dinosaur on the jurassic park ride that's the big finish it's two robots shaking
+
+1362
+01:24:45,920 --> 01:24:52,720
+hands that's it sort of do you think they touch uh no I mean they don't they can't it's
+
+1363
+01:24:52,720 --> 01:24:57,520
+it's an allude I think it what an illusion it is it's just two hands going like this
+
+1364
+01:24:57,520 --> 01:25:03,520
+uh you know it was better in the video I wonder if they've plussed it up recently or it looked
+
+1365
+01:25:03,520 --> 01:25:07,880
+good in the video yeah you know it wasn't too bad we made fun of it at the time but
+
+1366
+01:25:07,880 --> 01:25:12,840
+uh it's also with this then the song kind of refrains and then they like whisper to
+
+1367
+01:25:12,840 --> 01:25:16,520
+each other oh yeah that was so weird it seems like they're still having a conversation yeah
+
+1368
+01:25:16,520 --> 01:25:21,240
+that we can't hear it's like when news anchors keep talking well the credits are not real
+
+1369
+01:25:21,240 --> 01:25:26,400
+yeah what are they talking about but that's like those little touches like the trump robot
+
+1370
+01:25:26,400 --> 01:25:30,640
+rubbing his creepy fingers together that's like yeah like they're adding those human
+
+1371
+01:25:30,640 --> 01:25:36,480
+things and then like looking mad at himself for doing it yeah yeah what is that yeah that's
+
+1372
+01:25:36,480 --> 01:25:41,400
+how you take it do you want to go back in the torch and get the john björn and teddy
+
+1373
+01:25:41,400 --> 01:25:46,440
+roosevelt day out of atronic's and we'll just see what happens you know drink some scotch
+
+1374
+01:25:46,440 --> 01:25:52,280
+smoke some stogies some stogies you know we have this place all night yeah I was like
+
+1375
+01:25:52,280 --> 01:25:58,480
+watching that just so that's such a weird choice to have them just keep having a conversation
+
+1376
+01:25:58,480 --> 01:26:04,420
+yeah we know they are not humans uh-huh but they have them sort of be like like did they
+
+1377
+01:26:04,420 --> 01:26:09,500
+write fake walla like did someone write like what they would be saying and then or they
+
+1378
+01:26:09,500 --> 01:26:15,440
+just mouth open mouth close is their logic probably if they imagine the imagineers are
+
+1379
+01:26:15,440 --> 01:26:20,120
+very nerdy weird guys so it they probably do have something they're saying so we could
+
+1380
+01:26:20,120 --> 01:26:27,000
+find out their mouths and like damn it darn you it's like yeah pg-13 or they're like complaining
+
+1381
+01:26:27,000 --> 01:26:31,720
+about the house like uh the house wasn't very full tonight or like did you hear no one clapped
+
+1382
+01:26:31,720 --> 01:26:39,560
+no one clapped at golden dreams they did the check drop too early or go yeah good show
+
+1383
+01:26:39,560 --> 01:26:47,200
+old boy yeah another good another one we do 12 24 a day see you on the next round sir
+
+1384
+01:26:47,200 --> 01:26:51,840
+i also think the way the the gas station the men sitting on the gas station which is a
+
+1385
+01:26:51,840 --> 01:26:57,240
+long sequence because it's it's the stock market crashes the the one guy sings brother
+
+1386
+01:26:57,240 --> 01:27:05,200
+can you spare the spare a dime and then pearl harbor and will rogers yeah so like they're
+
+1387
+01:27:05,200 --> 01:27:10,280
+they're listening to a lot they spent a lot of years listening on the radio the old radio
+
+1388
+01:27:10,280 --> 01:27:15,040
+together yeah yeah it's funny that it ties together you think you're done with the gas
+
+1389
+01:27:15,040 --> 01:27:19,560
+station and then will rogers finishes and we go back will rogers's stuff is like it's
+
+1390
+01:27:19,560 --> 01:27:24,080
+it's all folksy like he's complaining about how they're cutting the money up for the navy
+
+1391
+01:27:24,080 --> 01:27:29,300
+it's very specific grievance he has it seems like we don't know how to fight a war till
+
+1392
+01:27:29,300 --> 01:27:35,160
+we get into one yeah yes what was what do we know about will rogers exactly was he the
+
+1393
+01:27:35,160 --> 01:27:40,400
+uh see the john stewart of his time it seems like people act like yeah like he was a real
+
+1394
+01:27:40,400 --> 01:27:45,880
+like he would he was a topical commentator and he would uh yeah he would be amusing and
+
+1395
+01:27:45,880 --> 01:27:51,520
+while he did it uh i think it's homespun wisdom somebody's got to bring back the lasso trevor
+
+1396
+01:27:51,520 --> 01:27:57,200
+noah yeah you want a way to stand out in the crowded political rant game get a lasso out
+
+1397
+01:27:57,200 --> 01:28:02,600
+yeah last week tonight starts back up tomorrow what if todahler is just last we can never
+
+1398
+01:28:02,600 --> 01:28:10,760
+acknowledge well the doc of bill is controversial as ever he was a member of this club in in
+
+1399
+01:28:10,760 --> 01:28:14,440
+la called the breakfast club which would meet on wednesday mornings and eat breakfast together
+
+1400
+01:28:14,440 --> 01:28:19,720
+and it was like a social club that was supposed to be i guess be um in opposition to like
+
+1401
+01:28:19,720 --> 01:28:25,880
+masons okay um it was very very popular it's it's it still exists and you can go to it
+
+1402
+01:28:25,880 --> 01:28:30,560
+and i i went recently and you eat breakfast it's a bunch of like senior citizens you have
+
+1403
+01:28:30,560 --> 01:28:36,940
+to sing old-timey songs with them and do a secret handshake where it's like eggs and
+
+1404
+01:28:36,940 --> 01:28:42,760
+bacon and you flip your hands over and then someone delivers like a lecture um you guys
+
+1405
+01:28:42,760 --> 01:28:46,440
+everyone should go to them and we can it's open to the public yeah it costs like 10 or
+
+1406
+01:28:46,440 --> 01:28:50,880
+$10 wow is it at the notch chicken dinner restaurant no it's it's it's in los filas
+
+1407
+01:28:50,880 --> 01:28:54,420
+kind of uh and there's like a it's called the friendship auditorium which is specifically
+
+1408
+01:28:54,420 --> 01:28:58,720
+built for this thing oh yeah and it's kind of over by the like when river we're riverside
+
+1409
+01:28:58,720 --> 01:29:04,360
+and los filas cross and there's that fountain whoa wow yeah google the breakfast la breakfast
+
+1410
+01:29:04,360 --> 01:29:11,480
+club is it like libertarians no it's it's just it's just weird so weird it's so weird
+
+1411
+01:29:11,480 --> 01:29:15,760
+the history of it is so weird they have like this these old placemats with like all the
+
+1412
+01:29:15,760 --> 01:29:20,400
+codes i think they were just like really going hard on the masons but all the things are
+
+1413
+01:29:20,400 --> 01:29:25,080
+still there and it's just so weird it's so confusing and weird um and you have to like
+
+1414
+01:29:25,080 --> 01:29:30,040
+you have to sing like the green beret's song and all this stuff i could do that yeah you
+
+1415
+01:29:30,040 --> 01:29:34,180
+guys would love it yeah yeah that's jason and we're talking about being becoming elks
+
+1416
+01:29:34,180 --> 01:29:38,000
+a while ago oh yeah joining because there's an elk like an elk's lodge or something like
+
+1417
+01:29:38,000 --> 01:29:42,560
+i would like to be part of a social club or like with old men yeah you can meet some old
+
+1418
+01:29:42,560 --> 01:29:49,760
+men yeah here's some stories learn about the flat earth bore them bore them with our theme
+
+1419
+01:29:49,760 --> 01:30:00,680
+park knowledge okay these two nerds you gotta institute an age limit i'm gonna fake a very
+
+1420
+01:30:00,680 --> 01:30:09,520
+mild heart attack he's still talking about epcot he keeps asking me about walter not
+
+1421
+01:30:09,520 --> 01:30:14,880
+i never met the guy i wanted to mention a girlfriend but he seems like a real fucking
+
+1422
+01:30:14,880 --> 01:30:26,600
+virgin he's lying i'm gonna give him a mad magazine maybe straighten his whistle out
+
+1423
+01:30:26,600 --> 01:30:33,200
+i love children's cartoons like mickey mouse i don't understand didn't get it from day
+
+1424
+01:30:33,200 --> 01:30:42,800
+one um what have we missed uh uh you know the uh i don't want to move out of the attraction
+
+1425
+01:30:42,800 --> 01:30:49,200
+entirely but don't forget as all uh epcot countries are it's an entire pavilion with
+
+1426
+01:30:49,200 --> 01:30:54,240
+all kinds of restaurants and fun to enjoy why in the american gardens theater you can
+
+1427
+01:30:54,240 --> 01:30:59,560
+witness seasonal entertainment one time they had lord of the dance without michael flatley
+
+1428
+01:30:59,560 --> 01:31:04,640
+uh it's a different just a generic lord of the dance there was a show called barrage
+
+1429
+01:31:04,640 --> 01:31:09,640
+which was a dance and fiddle show so there's always something good happening sure yeah
+
+1430
+01:31:09,640 --> 01:31:14,600
+they perform the nativity there too right yes the candlelight processional which uh
+
+1431
+01:31:14,600 --> 01:31:21,040
+is a yeah like a recitation of the nativity that happens here at disneyland in the at
+
+1432
+01:31:21,040 --> 01:31:26,160
+the railroad station but in epcot it's at the american adventure uh they get i i was
+
+1433
+01:31:26,160 --> 01:31:29,680
+thinking that they were it was usually like stars who were a little uh over the hill or
+
+1434
+01:31:29,680 --> 01:31:35,040
+a little more c-list but russell will do this thing you'll watch kurt russell read the read
+
+1435
+01:31:35,040 --> 01:31:41,200
+the story of christ's birth um not bad i read did it one year really yeah wow wow they have
+
+1436
+01:31:41,200 --> 01:31:44,720
+a neglected group of people like some people that have been associated with disney and
+
+1437
+01:31:44,720 --> 01:31:49,320
+then just like oh no i guess chris hemsworth did it out here i was shocked by that chris
+
+1438
+01:31:49,320 --> 01:31:53,680
+hemsworth yeah doing the nativity it's like kind of a thing i think cool thing but like
+
+1439
+01:31:53,680 --> 01:31:57,160
+neil patrick harris i mean obviously he's gonna do it he's uh yeah he can't say he's
+
+1440
+01:31:57,160 --> 01:32:02,360
+a nerd for this shit i can't say no to that yeah i think he's gonna say no to it no trust
+
+1441
+01:32:02,360 --> 01:32:07,040
+is this a thing we can campaign for oh yeah maybe podcast the ride for nativity he can't
+
+1442
+01:32:07,040 --> 01:32:13,720
+am i remember there's a restaurant right there's like a counter service i got that written
+
+1443
+01:32:13,720 --> 01:32:19,440
+down so it's uh yeah there's no sit down but uh we got uh oh where is it oh we got the
+
+1444
+01:32:19,440 --> 01:32:24,360
+liberty in get yourself a hot dog there i feel like for a while they were trying foods
+
+1445
+01:32:24,360 --> 01:32:29,280
+from around the country so like you could get a maryland crab cake or a philly cheesesteak
+
+1446
+01:32:29,280 --> 01:32:38,320
+i see uh i don't know dirty water with that yeah oh god that's horrible oh uh in the ride
+
+1447
+01:32:38,320 --> 01:32:45,240
+itself let's not forget those uh i wrote down those dumbass statues oh yeah statues that
+
+1448
+01:32:45,240 --> 01:32:50,960
+light up where it's like a seaman a seafaring man who represents adventure and a doctor
+
+1449
+01:32:50,960 --> 01:32:55,760
+who represents compassion big aaron hug on the statues when it like like a curtain rises
+
+1450
+01:32:55,760 --> 01:33:00,280
+and the big reveal is there's been a bunch of statues over here i love yeah i love how
+
+1451
+01:33:00,280 --> 01:33:04,320
+much aaron hates this ride she really does she doesn't seem like she hates a lot of stuff
+
+1452
+01:33:04,320 --> 01:33:09,940
+but like her oh if she does yeah she she has there's no uh poker face on her when she loves
+
+1453
+01:33:09,940 --> 01:33:14,220
+something she loves what she hates it she despises it like i had to like my mom i had
+
+1454
+01:33:14,220 --> 01:33:18,900
+to like turn the day around after that how can i which i think probably it's easy in
+
+1455
+01:33:18,900 --> 01:33:22,840
+world showcase just go on that maelstrom again oh yeah just go just maelstrom for a couple
+
+1456
+01:33:22,840 --> 01:33:27,380
+hours and you're set there the attraction that made her the angriest it's a tie between
+
+1457
+01:33:27,380 --> 01:33:33,120
+american adventure and the armageddon experience in disney studios paris which was disney studios
+
+1458
+01:33:33,120 --> 01:33:37,440
+paris is just well at some point there will be the episode where i just rail against it
+
+1459
+01:33:37,440 --> 01:33:42,680
+it's uh yeah i thought they didn't think it's i think it's terrible and uh like the laziest
+
+1460
+01:33:42,680 --> 01:33:48,080
+park and we were just like run down by the place in general and then this armageddon
+
+1461
+01:33:48,080 --> 01:33:51,920
+show we came all the way to paris and here we are yeah that's that's what you're feeling
+
+1462
+01:33:51,920 --> 01:33:56,400
+at all times you're half an hour away from this this amazing city and we're here we're
+
+1463
+01:33:56,400 --> 01:34:01,120
+with a with this a planet hollywood and an earl of sandwich the place that we can just
+
+1464
+01:34:01,120 --> 01:34:07,220
+go yes avoid here that's our best restaurant option so uh armageddon uh yeah we'll get
+
+1465
+01:34:07,220 --> 01:34:12,000
+to that one um there's a gift shop next to the american adventure and you can buy all
+
+1466
+01:34:12,000 --> 01:34:16,620
+sorts of things you know any little american flags but here i have a picture from when
+
+1467
+01:34:16,620 --> 01:34:27,120
+we were there you can purchase a nice photo of our current president john old john trump
+
+1468
+01:34:27,120 --> 01:34:31,400
+it's two photos they have a couple i think they have older like they have clinton and
+
+1469
+01:34:31,400 --> 01:34:35,400
+stuff too but it's like it's a very cheap looking thing it looks like a black piece
+
+1470
+01:34:35,400 --> 01:34:39,740
+of construction paper where like a white border and then there's two photos one of him in
+
+1471
+01:34:39,740 --> 01:34:44,680
+front of the white house looking very dour like he usually does and then smiling to the
+
+1472
+01:34:44,680 --> 01:34:49,160
+point where he looks like he was photoshopped smiling it doesn't look like his real smile
+
+1473
+01:34:49,160 --> 01:34:54,360
+because he is uh he can't smile smiles are rare yeah that's like the school photos yes
+
+1474
+01:34:54,360 --> 01:34:59,720
+where it's me looking head on and then one of me turned very slightly in another direction
+
+1475
+01:34:59,720 --> 01:35:04,040
+scott if your dad had never intervened can you see a world where you would have bought
+
+1476
+01:35:04,040 --> 01:35:09,700
+that uh yeah i'm thinking about i'm thinking about like yeah there's possibly me
+
+1477
+01:35:09,700 --> 01:35:15,280
+at 32 i'm like no mike i hope that you're not planning on saying something about our
+
+1478
+01:35:15,280 --> 01:35:22,320
+president uh nothing but respect for my president yeah yeah yeah um except my dad's a big trump
+
+1479
+01:35:22,320 --> 01:35:27,040
+guy too so yeah yeah uh i i could have been right there with him uh do we add him to this
+
+1480
+01:35:27,040 --> 01:35:31,280
+too do we jam him into the american adventure just jump right from i think he deserves to
+
+1481
+01:35:31,280 --> 01:35:36,580
+be rosie the riveter just tried to trump and then that's it we missed the 60s donald trump
+
+1482
+01:35:36,580 --> 01:35:43,400
+coming down the escalator oh that's good yeah no jfk nothing okay well well you know an
+
+1483
+01:35:43,400 --> 01:35:49,720
+easy no martin lutheran no papers no cap links an easy place to drop him in right next to
+
+1484
+01:35:49,720 --> 01:35:55,120
+frederick douglas saying what a great guy he was that's continuing to do great work
+
+1485
+01:35:55,120 --> 01:36:00,160
+i have a better he okay it's mark twain it's ben franklin and trump hosting the thing oh
+
+1486
+01:36:00,160 --> 01:36:05,320
+great the three of them and then they can all comment and quip or or he's statler and
+
+1487
+01:36:05,320 --> 01:36:10,880
+waldorf up in the balcony uh railing and doing his screaming that he doesn't know these people
+
+1488
+01:36:10,880 --> 01:36:15,760
+he's never heard of them it's statler it's like it's one of it's statler and trump it's
+
+1489
+01:36:15,760 --> 01:36:24,160
+one of the muppets and trump every now and then trump animatronic like yells out like
+
+1490
+01:36:24,160 --> 01:36:29,640
+anna whit or wanted to be the british ambassador or it's like because he's not featured in
+
+1491
+01:36:29,640 --> 01:36:36,600
+the ride lincoln and trump in the balcony oh yeah sure theater and lincoln is well and
+
+1492
+01:36:36,600 --> 01:36:40,320
+trump knows what's about to happen because he's in on it or he just doesn't he's never
+
+1493
+01:36:40,320 --> 01:36:45,320
+learned that history oh that's true too he freaks out like the thing that's happened
+
+1494
+01:36:45,320 --> 01:36:51,040
+this is horrible but uh right away will expand the link in animatronics like this is the
+
+1495
+01:36:51,040 --> 01:36:56,280
+first time i've been in the balcony in a while but then will john and then like wilkes booth
+
+1496
+01:36:56,280 --> 01:36:59,880
+does it and trump is like wilkes booth is still a pretty good guy and i wish him well
+
+1497
+01:36:59,880 --> 01:37:04,000
+i think that he was a fantastic actor and i hope he acts again careful on that jump
+
+1498
+01:37:04,000 --> 01:37:09,080
+it's a long way down you're gonna hurt your leg again there's great people on both sides
+
+1499
+01:37:09,080 --> 01:37:13,960
+of this assassination hey both brothers i like both brothers why are you both brothers
+
+1500
+01:37:13,960 --> 01:37:20,440
+are great edwin come on come on here edwin um well well i mean maybe this takes us into
+
+1501
+01:37:20,440 --> 01:37:25,520
+into plus ups uh uh yeah changes anything we would do well yeah what are we are so you
+
+1502
+01:37:25,520 --> 01:37:31,520
+know the scale uh do we keep completely the same do we plus it up or do we burn it down
+
+1503
+01:37:31,520 --> 01:37:37,240
+for insurance money and build something else so who wants to well i think full assessment
+
+1504
+01:37:37,240 --> 01:37:42,800
+levity in the attraction i like this idea of wisecracks from the side i think i think
+
+1505
+01:37:42,800 --> 01:37:47,880
+yeah i think it is i respect so much about this attraction the technical achievement
+
+1506
+01:37:47,880 --> 01:37:53,600
+that it is in the great animatronics but why does it have to be so just self-important
+
+1507
+01:37:53,600 --> 01:37:59,240
+and heavy and ponderous and uh although i think i object to that those wisecracks are
+
+1508
+01:37:59,240 --> 01:38:02,000
+not going to be good no they're not going to be good i think this thing has to be more
+
+1509
+01:38:02,000 --> 01:38:06,840
+serious honestly i think that that should be more dour and more humorless i think they
+
+1510
+01:38:06,840 --> 01:38:12,680
+should take out the joke about how carnegie hall yeah yeah that's like the closest thing
+
+1511
+01:38:12,680 --> 01:38:17,640
+what does twain say then after that like libraries that's the ticket or he says when they're
+
+1512
+01:38:17,640 --> 01:38:23,520
+like who's this edison he's like oh that young fellow who invented the phonograph yeah yeah
+
+1513
+01:38:23,520 --> 01:38:28,640
+yeah yeah alexander grand bell's like clowning on edison right like yeah where he's like
+
+1514
+01:38:28,640 --> 01:38:34,160
+my telephone very billy zane and titanic sort of not knowing what will happen in comedy
+
+1515
+01:38:34,160 --> 01:38:39,480
+oh yes well he's a guy who thinks he's in his own golden age yeah i i actually thought
+
+1516
+01:38:39,480 --> 01:38:43,560
+i forgot that was the philadelphia exposition the centennial i thought it was the columbian
+
+1517
+01:38:43,560 --> 01:38:50,440
+exposition and to tie it back to a long ago episode uh columbian exposition setting of
+
+1518
+01:38:50,440 --> 01:38:56,760
+the devil in the white city twain went to that one uh saw the white city on the train
+
+1519
+01:38:56,760 --> 01:39:01,720
+ride in then got violently ill and never left his hotel room until he got on the train out
+
+1520
+01:39:01,720 --> 01:39:10,440
+so never saw the columbian exposition never got lured to hh homes's murder house um uh
+
+1521
+01:39:10,440 --> 01:39:15,640
+maybe for another podcast i went to the shanghai exposition years ago whoa i went to like a
+
+1522
+01:39:15,640 --> 01:39:20,880
+legit world expo that's wild things oh my god yeah it wasn't dubai it was the craziest
+
+1523
+01:39:20,880 --> 01:39:25,160
+thing i've ever seen what is that we should go to that do you buy one 2020 dubai you guys
+
+1524
+01:39:25,160 --> 01:39:30,360
+can save up yeah yeah we can go to blindsgate world they have things you walk through they're
+
+1525
+01:39:30,360 --> 01:39:35,480
+like walk through dark rides whoa it's so great we got what'd you see where any technology
+
+1526
+01:39:35,480 --> 01:39:41,500
+coming down the pike it was like 12-foot robot baby in one room um i went through a pavilion
+
+1527
+01:39:41,500 --> 01:39:46,100
+called the pavilion of urbanian which was i don't know what it meant but china had built
+
+1528
+01:39:46,100 --> 01:39:49,880
+it to teach its own citizens about like urban development wow it was like a dark ride it
+
+1529
+01:39:49,880 --> 01:39:54,800
+looked like it's a small world but you walk through it wow whoa this was not a bnol this
+
+1530
+01:39:54,800 --> 01:40:01,180
+was not like a no it's the expo the expo still exists and it moves it's usually every two
+
+1531
+01:40:01,180 --> 01:40:06,000
+years but it's in a different country every two years last year it was in kazakhstan wow
+
+1532
+01:40:06,000 --> 01:40:10,800
+yeah yeah yeah track track the expo guys we really should well we should it's as we know
+
+1533
+01:40:10,800 --> 01:40:16,160
+it's a part of theme park history yes 64 worlds fair disney built all this stuff yeah uh and
+
+1534
+01:40:16,160 --> 01:40:21,880
+epcot is a permanent world's fair it's still it's still very theme parky yeah yeah well
+
+1535
+01:40:21,880 --> 01:40:25,800
+that's good to hear okay they didn't just it's not just kind of a dry conference it's
+
+1536
+01:40:25,800 --> 01:40:31,840
+weird it's about exciting people you know huh jeez cool that's awesome um well yeah
+
+1537
+01:40:31,840 --> 01:40:36,440
+well i don't know what what do we do you think you can keep it i think well i'm ponderous
+
+1538
+01:40:36,440 --> 01:40:41,000
+more pondering i think more ponderous i think that it should be i i felt so bad for the
+
+1539
+01:40:41,000 --> 01:40:44,740
+guy who was saying that human being trying to tell everyone i think it should be more
+
+1540
+01:40:44,740 --> 01:40:49,020
+like a school like you get kicked out if you talk in there i think that it should be you
+
+1541
+01:40:49,020 --> 01:40:53,520
+really have to listen you have to this is a lesson in american history and that you
+
+1542
+01:40:53,520 --> 01:40:59,940
+should respect uh the history and the man and i think there should be no funny business
+
+1543
+01:40:59,940 --> 01:41:06,240
+when you when you walk into those doors jason thoughts uh i think you know i i watching
+
+1544
+01:41:06,240 --> 01:41:13,320
+this again and i i watched um uh the martin's vids on it uh we talked about this before
+
+1545
+01:41:13,320 --> 01:41:18,760
+it's the it makes these like documentary uh montages with like a lot of the concept art
+
+1546
+01:41:18,760 --> 01:41:25,000
+and then usually a ride through uh the one i watched of this uh included every version
+
+1547
+01:41:25,000 --> 01:41:31,960
+of the golden dreams ending uh which was a lot to watch back to back but uh watching
+
+1548
+01:41:31,960 --> 01:41:39,760
+it a couple times through regardless i do think it's strange it jumps from uh you know
+
+1549
+01:41:39,760 --> 01:41:43,640
+from the rosie the riveter to like we win the war and there's a video and then you're
+
+1550
+01:41:43,640 --> 01:41:49,760
+out uh after the torch so i would like just one or two more animatronic scenes in between
+
+1551
+01:41:49,760 --> 01:41:57,360
+the torch and the war like maybe someone walking on the moon uh maybe i don't know what else
+
+1552
+01:41:57,360 --> 01:42:04,000
+mlk uh-huh yeah maybe mlk like yeah that is strange they didn't have okay in there oh
+
+1553
+01:42:04,000 --> 01:42:10,040
+oh woodstock yeah disney-ified nixon nixon resigning well nixon getting on the helicopter
+
+1554
+01:42:10,040 --> 01:42:14,240
+because nixon climbing up the helicopter stairs i want more i just want more stairs in every
+
+1555
+01:42:14,240 --> 01:42:19,840
+single one of these oh yeah it's got to be history's greatest moments on stairs uh nixon
+
+1556
+01:42:19,840 --> 01:42:24,640
+what i now i had a different idea because nixon gave the i am not a crook speech in
+
+1557
+01:42:24,640 --> 01:42:29,720
+the contemporary hotel in orlando and disney world so i think you put that just put that
+
+1558
+01:42:29,720 --> 01:42:33,280
+scene there where it happened you just go into that hotel and you can watch that speech
+
+1559
+01:42:33,280 --> 01:42:39,880
+i think yeah moments with mr nixon yes he's hidden like pig pen yeah yes away from the
+
+1560
+01:42:39,880 --> 01:42:45,280
+rest of the basement of the contemporary hotel there's a picture of nixon and kissinger walking
+
+1561
+01:42:45,280 --> 01:42:50,980
+through epcot like with spaceship earth in the background oh yeah well and uh reagan
+
+1562
+01:42:50,980 --> 01:42:55,200
+and bush this video both of them giving speeches out in front of that american adventure oh
+
+1563
+01:42:55,200 --> 01:42:59,680
+yeah there's a really crazy performance of a song called thousand points of light in
+
+1564
+01:42:59,680 --> 01:43:07,160
+one of these old specials sung by every president's automatic favorite singer lee greenwood uh
+
+1565
+01:43:07,160 --> 01:43:11,320
+trump strangely silent on the subject of lee greenwood until this year but i believe trump
+
+1566
+01:43:11,320 --> 01:43:18,800
+always loved lee greenwood his entire life always a fan uh but the uh yeah yeah maybe
+
+1567
+01:43:18,800 --> 01:43:24,640
+let's acknowledge disney world's part in history yes uh yeah bush is famous let's get robots
+
+1568
+01:43:24,640 --> 01:43:36,600
+of lee greenwood nixon uh and dream finder what dream finder hello figment is that his
+
+1569
+01:43:36,600 --> 01:43:41,560
+child or just a child i can't i don't know like a child for a photo op they just handed
+
+1570
+01:43:41,560 --> 01:43:48,920
+him a child you gotta put that online yeah i gotta wow that's incredible uh um yeah well
+
+1571
+01:43:48,920 --> 01:43:54,200
+i agree some more yeah watch i really like hokey steve jobs scene because that's the
+
+1572
+01:43:54,200 --> 01:44:01,320
+thing like new history loves to do steve jobs in the uh in the garage inventing the computer
+
+1573
+01:44:01,320 --> 01:44:06,200
+the disney of fire yes and he's still he probably still talks in that franklin kind of way it's
+
+1574
+01:44:06,200 --> 01:44:11,960
+called a personal computer i believe everyone will have one of these in their pockets instead
+
+1575
+01:44:11,960 --> 01:44:17,760
+of listening to will rogers he's listening to like sam kennison or who would it be bill
+
+1576
+01:44:17,760 --> 01:44:24,000
+hicks bill hicks yeah yeah yeah and then it goes to a bill hicks animatronic oh yeah we
+
+1577
+01:44:24,000 --> 01:44:32,280
+need some bill hicks in this giving the real stuff i got it from here chief joseph uh look
+
+1578
+01:44:32,280 --> 01:44:38,360
+this entire show has been bullshit okay uh yeah hey maybe that's that's not a bad thing you can
+
+1579
+01:44:38,360 --> 01:44:44,840
+get some uh get a bill marr in there oh yeah howard zinn uh uh the pooh is that the guy the
+
+1580
+01:44:44,840 --> 01:44:51,240
+people's history of the uh uh yeah let's get some dissenting voices yeah yeah another perspective
+
+1581
+01:44:51,240 --> 01:44:58,040
+yeah yeah fractured takes on history yeah um i don't know what else what do you have any thoughts
+
+1582
+01:44:58,040 --> 01:45:04,520
+about uh what do you the future of the american adventure burn it to the ground nobody's really
+
+1583
+01:45:04,520 --> 01:45:09,880
+said that yeah oh yeah just burn it to the ground we don't need it anymore hey sure yeah oh you do
+
+1584
+01:45:09,880 --> 01:45:13,560
+something now the american adventure is over yeah it's over acknowledge that we don't deserve it
+
+1585
+01:45:13,560 --> 01:45:18,040
+anymore it's like it's too optimistic burn it to the fucking ground and make kids watch it burn
+
+1586
+01:45:18,920 --> 01:45:22,920
+they're not gonna care it should be like an eternal flame it's just the thing is always
+
+1587
+01:45:22,920 --> 01:45:29,320
+that the building's always on fire all right film the animatronics faces melting as they scream
+
+1588
+01:45:31,400 --> 01:45:38,360
+this is what i get for being optimist right is an american pastime even those who overcame it
+
+1589
+01:45:38,360 --> 01:45:48,360
+so proud of their humility the flaming lasso lights uh it's on fire first and reaches his
+
+1590
+01:45:48,360 --> 01:45:53,480
+hands yeah this is the best version of the show is them all yeah but don't you got a jailbreak
+
+1591
+01:45:53,480 --> 01:45:58,200
+like the good guy you gotta get chief joseph out of there you gotta like let him run away laughing
+
+1592
+01:45:58,200 --> 01:46:04,040
+frederick douglas chief joseph and the the black guys in the garage all get out yeah they all get
+
+1593
+01:46:04,040 --> 01:46:13,480
+to piss oil onto the hydraulic fluid katie sand is that who it is the uh susan b anthony she gets
+
+1594
+01:46:13,480 --> 01:46:19,480
+out too and everyone else just burns all the white men burn yeah she has a zip she has a graph place
+
+1595
+01:46:19,480 --> 01:46:29,000
+she just goes up and she like mary boppins zoom out all the minorities and women escape and the
+
+1596
+01:46:29,000 --> 01:46:34,360
+white men burn but when where do where do they go do they go to other rides yeah they gotta get to
+
+1597
+01:46:34,360 --> 01:46:37,880
+other right they all just get their own boat on the melstrom they're in the mexico ride
+
+1598
+01:46:37,880 --> 01:46:44,840
+just confusing it just them and coke just waving at the end it's cocoa there now not yet there
+
+1599
+01:46:44,840 --> 01:46:49,400
+there's rumors depending on it doesn't look like it's gonna happen though oh really did it not do
+
+1600
+01:46:49,400 --> 01:46:54,920
+coco not do as well as they hoped it would do put it to justify putting in two robots yes right
+
+1601
+01:46:54,920 --> 01:47:01,400
+they don't live in an apartment with some swedish they go to the they live in the uh the house in
+
+1602
+01:47:01,400 --> 01:47:08,840
+hollywood studios moms and dads they get waited on hand by a mom yeah but they but they're they
+
+1603
+01:47:08,840 --> 01:47:13,560
+like talk back a little like hey i'll eat how i want to eat i'll put my elbows where i want to
+
+1604
+01:47:13,560 --> 01:47:17,960
+i earned it i had to live in the american adventure yeah they teach mom a little something
+
+1605
+01:47:17,960 --> 01:47:24,200
+about tolerance yeah and maybe they get her out of the house and like like working again and
+
+1606
+01:47:24,200 --> 01:47:30,520
+pursuing her dreams that she is stifled to start meatloaf all day let's liberate those moms that
+
+1607
+01:47:30,520 --> 01:47:36,040
+is interesting that there was no like summer of love that the baby boomers who built this managed
+
+1608
+01:47:36,040 --> 01:47:41,480
+to restrain themselves from having a summer of love sequence in it oh yeah we're too close that's
+
+1609
+01:47:41,480 --> 01:47:47,400
+probably yeah civil rights anything yeah they didn't want to put controversial stuff in there
+
+1610
+01:47:47,400 --> 01:47:53,320
+jason you know they didn't want to rile the average audience you know what i think if you're
+
+1611
+01:47:53,320 --> 01:47:58,040
+okay well we'll still burn it down but before we do let's just add one section for the last year
+
+1612
+01:47:58,040 --> 01:48:03,640
+which is get uh franklin and twain off of the torch and let's put hendrix on their whale and
+
+1613
+01:48:03,640 --> 01:48:09,800
+the star-spangled banner oh yeah up on the shelf next to the flame next to his friend charles manson
+
+1614
+01:48:14,760 --> 01:48:18,600
+i guess he hadn't been caught yet by the time they started blue skying this ride
+
+1615
+01:48:19,320 --> 01:48:23,240
+all horrified like all right let's not work any overtime it's still a
+
+1616
+01:48:23,240 --> 01:48:27,800
+we might die benjamin franklin the first animatronic to climb upstairs charles
+
+1617
+01:48:27,800 --> 01:48:34,920
+manson the first animatronic to paint in blood on a wall hell ter it goes right from
+
+1618
+01:48:34,920 --> 01:48:42,520
+like uh like from uh rose of the river due to the la bianca murder the final you watch the final stabs
+
+1619
+01:48:42,520 --> 01:48:48,200
+and then like all right it's done well let's now we just wait for that race war to happen
+
+1620
+01:48:48,200 --> 01:48:57,880
+any minute now these are jokes but these this is the american adventure that is true it has all the
+
+1621
+01:48:57,880 --> 01:49:04,040
+parts yeah that's all part of this there's no like yeah there's no uh uh warren bd hitting on
+
+1622
+01:49:04,040 --> 01:49:12,760
+mia ferro at the ground derby yeah patty hearst yeah patty hearst woody allen exiting a lobby with
+
+1623
+01:49:12,760 --> 01:49:27,720
+suny the boat the robert wagner boat scene this is the american adventure this is what it is
+
+1624
+01:49:27,720 --> 01:49:34,600
+the low speed oj simpson chase yes this brought us together as a nation an cubicle jockey from
+
+1625
+01:49:34,600 --> 01:49:40,520
+enron just going what do you mean my pension is worthless now the sex flame the trump and clinton
+
+1626
+01:49:40,520 --> 01:49:47,960
+were both on yeah jeffrey ephes sex plane yeah and the sex island although i guess that's up
+
+1627
+01:49:47,960 --> 01:49:51,400
+that's the sky is international sky so maybe that's not american adventure
+
+1628
+01:49:52,680 --> 01:49:57,240
+spreading their golden wings it was those guys that's true what's her name though florida the
+
+1629
+01:49:57,240 --> 01:50:03,400
+four catherine harris catherine aris holding up a hanging chad yeah for this update we built the
+
+1630
+01:50:03,400 --> 01:50:10,520
+we built the biggest hanging chad that's ever been constructed michael jackson dangles blanket out of
+
+1631
+01:50:10,520 --> 01:50:17,160
+a window oh that would be the new shaking hands moment on the ride that would be the true climax
+
+1632
+01:50:17,880 --> 01:50:25,800
+the cast and crew of a master of disguise learning about 9 11. did that happen yeah they were on the
+
+1633
+01:50:25,800 --> 01:50:31,640
+set their imdb page yeah there's a moment of silence they were filming the turtle club scene
+
+1634
+01:50:31,640 --> 01:50:39,640
+it was literally the turtle scene i think so we came up on a doe voice podcast oh really okay so
+
+1635
+01:50:39,640 --> 01:50:47,720
+uh so dana carvey in turtle costume in sadness about 9 11 descending into the suit uh and then
+
+1636
+01:50:47,720 --> 01:50:54,760
+descending back into the floor uh yeah yeah hey i like this uh so we do all those and then we burn
+
+1637
+01:50:54,760 --> 01:51:00,840
+it to the ground yeah last year just like guns blazing they give us the keys let's just give us
+
+1638
+01:51:00,840 --> 01:51:06,680
+just give us the keys and endless animatronic money uh uh do we keep go i think is it just
+
+1639
+01:51:06,680 --> 01:51:12,840
+regular golden dreams or do you do anything yeah they make it even longer every year it gets
+
+1640
+01:51:12,840 --> 01:51:17,400
+aggressively longer and any animatronics we couldn't add go into the golden dreams like montage
+
+1641
+01:51:17,400 --> 01:51:25,080
+yeah and lee greenwood uh does a verse now they had a lee greenwood verse up to it and uh and uh
+
+1642
+01:51:25,080 --> 01:51:34,440
+uh what what's the uh three doors down they're in the air yeah uh they rip a solo um uh they're
+
+1643
+01:51:34,440 --> 01:51:39,880
+in a house band they're just there always it's the re-a they aren't real three doors down oh also
+
+1644
+01:51:39,880 --> 01:51:44,680
+of course in the montage we didn't even mention of course waltz in the film montage yeah and waltz
+
+1645
+01:51:44,680 --> 01:51:49,320
+is also in the lobby of the hall of presidents now like there's a little corner to like here
+
+1646
+01:51:49,320 --> 01:51:53,880
+and there's some waltz stuff and it's like yeah you got a waltz and he wasn't a president but uh
+
+1647
+01:51:53,880 --> 01:51:58,280
+yeah let's put him in the lobby basically yeah he was a president they also have elon musk who
+
+1648
+01:51:58,920 --> 01:52:05,320
+certainly has done all of his work in america but was did not live in america until 18 or so
+
+1649
+01:52:05,880 --> 01:52:10,680
+so i don't know look i'm not a my i i this that's not the argument to make that somebody's not
+
+1650
+01:52:10,680 --> 01:52:15,560
+american for but like i don't know is that weird i think it's a little premature to put elon musk
+
+1651
+01:52:15,560 --> 01:52:23,800
+yeah yeah villain they might have to burn this place yeah there you go he starts the fire with
+
+1652
+01:52:23,800 --> 01:52:30,200
+the we build an elon musk animatronic just peter theil light the fire together if being weird and
+
+1653
+01:52:30,200 --> 01:52:34,680
+shitty disqualifies you from being in a disney park then there's plenty of people that need to
+
+1654
+01:52:34,680 --> 01:52:38,680
+get kicked out so i'm not gonna i'm gonna say elon musk belongs there already no matter what
+
+1655
+01:52:38,680 --> 01:52:45,960
+he's about to do because walt disney's there uh well we no don't say that about waltz we will joke
+
+1656
+01:52:45,960 --> 01:52:52,520
+about anything except for waltz you're a man a perfect yeah he was great no you're upsetting
+
+1657
+01:52:52,520 --> 01:52:58,920
+nine-year-old scott big time so let's hear let's end this before we uh take a dark turn uh eve
+
+1658
+01:52:58,920 --> 01:53:04,200
+anderson you've survived podcast the ride oh i'm so delighted blast thanks for having me yeah
+
+1659
+01:53:04,200 --> 01:53:09,720
+thank you thanks for burning america to the ground with us is there anything you'd uh uh anything
+
+1660
+01:53:09,720 --> 01:53:15,640
+you'd like to plug uh any uh you do it you'd like or do you do fd up stand up that we can
+
+1661
+01:53:15,640 --> 01:53:23,320
+i wish i don't i don't have anything to plug right now huh all right yeah yeah
+
+1662
+01:53:23,320 --> 01:53:29,080
+do you want me to follow you on twitter oh yeah i'm on twitter uh at eva e-v-a-f-a-y all right
+
+1663
+01:53:29,080 --> 01:53:34,840
+yeah yeah cool check her out there uh check us out at podcast the ride on twitter and all the
+
+1664
+01:53:34,840 --> 01:53:40,280
+other things but we don't do as much on the other things twitter is where it's at yeah maybe someday
+
+1665
+01:53:40,280 --> 01:53:45,160
+soon we'll embark on our greatest adventure three men in their 30s trying to figure out what people
+
+1666
+01:53:45,160 --> 01:53:50,680
+like on instagram trying to figure out what young people use instagram for that's what we're going
+
+1667
+01:53:50,680 --> 01:53:55,560
+to spread our golden wings and the new podcast momma's boys what's that oh yeah momma's boys
+
+1668
+01:53:55,560 --> 01:54:01,640
+oh yeah maybe it's jason it's not real not theme park based yeah uh yeah we learned about the the
+
+1669
+01:54:01,640 --> 01:54:10,280
+works of janes patterson and agatha christie and of course forbidden broadway uh that's well there's
+
+1670
+01:54:10,280 --> 01:54:17,000
+another forbidden podcast the ride the parody that we do of our own podcast it'll be real cheeky
+
+1671
+01:54:17,000 --> 01:54:22,680
+you can help us write the book eva glad you're in on this already great wonderful uh all right hey
+
+1672
+01:54:22,680 --> 01:54:41,480
+uh thanks for listening spread your golden wings and fly fly fly
+
+1673
+01:54:41,480 --> 01:54:55,160
+america spread your golden wings sail on freedom's wind across the sky
+
+1674
+01:54:55,160 --> 01:55:11,880
+great bird with your golden dreams flying high flying high
+
+1675
+01:55:25,160 --> 01:55:35,880
+spirit
+
+1676
+01:55:41,000 --> 01:55:49,880
+you must keep dreaming now dreaming the promise now
+
+1677
+01:55:49,880 --> 01:56:03,240
+is america keep on flying now keep your spirit free facing new frontiers
+
+1678
+01:56:04,920 --> 01:56:14,360
+and so my fellow americans ask not what your country can do for you ask what you can do for
+
+1679
+01:56:14,360 --> 01:56:24,840
+your country my fellow citizens of the world ask not what america will do for you but what together
+
+1680
+01:56:24,840 --> 01:56:33,800
+we can do for the freedom of man i have a dream this afternoon that the brotherhood of man
+
+1681
+01:56:33,800 --> 01:56:41,560
+will become a reality in this day with this thing putting things down two and a half picking up some
+
+1682
+01:56:41,560 --> 01:56:48,920
+bets four forward four forward drifting to the right a little contact light okay engine stop
+
+1683
+01:56:48,920 --> 01:57:13,480
+we copy you down eagle the eagle has landed
+
+1684
+01:57:19,560 --> 01:57:33,480
+eled
+

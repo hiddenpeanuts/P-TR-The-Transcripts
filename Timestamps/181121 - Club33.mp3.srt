@@ -1,0 +1,4724 @@
+1
+00:00:03,300 --> 00:00:05,720
+Five, four, three, two, one.
+
+2
+00:00:21,528 --> 00:00:26,908
+podcast arrived, the second gate, the fancy upper class rich person edition
+
+3
+00:00:26,908 --> 00:00:31,188
+right behind that sweet paywall. My name is Mike Carlson as always joining me
+
+4
+00:00:31,188 --> 00:00:37,868
+Jason Sheridan. Hi Scott Gardner. Hey yeah if you if you're listening to this then I
+
+5
+00:00:37,868 --> 00:00:45,508
+assume that you have paid your $25,000 episode admittance fee and that in order
+
+6
+00:00:45,508 --> 00:00:51,508
+to continue listening to it you will pay your $10,000 yearly episode renewal fee.
+
+7
+00:00:51,748 --> 00:00:55,648
+And if you haven't paid those things and there has clearly been a lapse in the
+
+8
+00:00:55,648 --> 00:01:01,508
+patreon system if you only paid a some $5 monthly then there's a big we're
+
+9
+00:01:01,508 --> 00:01:07,248
+missing out on a lot of funds. Someone had mentioned because about the patreon that
+
+10
+00:01:07,248 --> 00:01:13,728
+we should have like a club 33 like there should be some insane like $5,000
+
+11
+00:01:13,728 --> 00:01:18,168
+membership for some other specific like I don't know what it would be like being
+
+12
+00:01:18,168 --> 00:01:21,708
+sitting here watching us do this live that doesn't sound pleasant. I thought
+
+13
+00:01:21,708 --> 00:01:27,088
+the joke was that it was $33. I saw a different one I saw that too I saw a
+
+14
+00:01:27,088 --> 00:01:30,608
+different one though. Oh I saw another one person mentioned like an actual
+
+15
+00:01:30,608 --> 00:01:36,568
+tier I think. If we can think of a decent enough tier to yeah 33 is like cap it
+
+16
+00:01:36,568 --> 00:01:41,268
+because it's supposedly club 33 is like 500 members is that right? That's a
+
+17
+00:01:41,268 --> 00:01:45,048
+number I kept seeing pop up but there's it's not clear. There's a lot of like
+
+18
+00:01:45,048 --> 00:01:48,608
+numbers that aren't clear about club 33. I think it gets dicey once you incorporate
+
+19
+00:01:48,608 --> 00:01:52,508
+corporate membership. Right because some of the memberships. Yeah companies they
+
+20
+00:01:52,508 --> 00:01:56,288
+could be counting it as one they could be counting yeah. I think I think $33 a
+
+21
+00:01:56,288 --> 00:02:03,608
+month maybe gets you exclusive China sets each month delivered to your home
+
+22
+00:02:03,608 --> 00:02:09,308
+with the podcast the ride logo. Super fan so we have to find a China manufacturer
+
+23
+00:02:09,308 --> 00:02:13,788
+once we do. Okay that's good. We got a great perk. You get a new plate every
+
+24
+00:02:14,048 --> 00:02:17,988
+month and the longer you subscribe the more you end up with a full 30-piece set.
+
+25
+00:02:18,748 --> 00:02:22,248
+Yeah that's a good look that's a great idea if we can find a cheap China
+
+26
+00:02:22,248 --> 00:02:27,928
+manufacturer. Don't tell them it's cheap no it's the finest quality real
+
+27
+00:02:27,928 --> 00:02:31,768
+gold leaf slated into the plates. Well we'll work on that is what we're saying
+
+28
+00:02:31,768 --> 00:02:35,428
+but thank you by the way this is the first one recording patreon where we've
+
+29
+00:02:35,428 --> 00:02:43,768
+seen the people actually are interested in the patreon. Yeah. And they like to thank you
+
+30
+00:02:43,768 --> 00:02:49,788
+It's super encouraging and it makes us very excited to do more stuff. Yeah we're having fun
+
+31
+00:02:49,788 --> 00:02:53,728
+patreon ideas all the time and I especially love that right away people
+
+32
+00:02:53,728 --> 00:02:58,008
+were commenting you got to do this you need to do one and so again this is this
+
+33
+00:02:58,008 --> 00:03:03,628
+is for y'all tell us what you want us to do and what we're very happy to get the
+
+34
+00:03:03,628 --> 00:03:09,548
+prompts and you know the more obscure the better over here you know. Yes.
+
+35
+00:03:09,788 --> 00:03:14,528
+We're unfettered by people who you know we don't have to go back and explain what all the
+
+36
+00:03:14,528 --> 00:03:19,848
+stuff is we can just dive straight into yeah I don't want to ruin any surprises
+
+37
+00:03:19,848 --> 00:03:26,248
+I guess but we were talking about a well who is the character the in the in the
+
+38
+00:03:26,248 --> 00:03:31,408
+factory that you go oh yeah so so yeah we don't want to we will tease a little
+
+39
+00:03:31,408 --> 00:03:35,188
+bit of an episode that will be coming in the next couple months probably but
+
+40
+00:03:35,188 --> 00:03:39,128
+there's a character if you know it his name and he's a character I think he's a
+
+41
+00:03:39,128 --> 00:03:44,908
+real man as well but his name is Papa Steve and even just leave it at that
+
+42
+00:03:44,908 --> 00:03:50,088
+like will you write us and tell us if you know what Papa Steve is I didn't but
+
+43
+00:03:50,088 --> 00:03:53,988
+you guys have a long history with Papa Steve yeah I have multiple I'll just say
+
+44
+00:03:53,988 --> 00:03:58,548
+this I have multiple photos of Jason through the years I think at least two I
+
+45
+00:03:58,548 --> 00:04:04,088
+got to go back to the archives of Jason and a picture of Papa Steve and well
+
+46
+00:04:04,088 --> 00:04:07,508
+yeah let's just leave it at that I mean you guys are theme park nerds and
+
+47
+00:04:07,508 --> 00:04:12,468
+weirdos so you figure out who Papa Steve is fan favorite maybe that's what
+
+48
+00:04:12,468 --> 00:04:16,728
+deep-cut fan favorite yeah and that's what paid the patreon's all about yeah
+
+49
+00:04:16,728 --> 00:04:20,448
+I think maybe maybe what if it's that someone has to either email us or
+
+50
+00:04:20,448 --> 00:04:25,908
+comment on the patreon or tweet it as who Papa Steve is and that will unlock
+
+51
+00:04:25,908 --> 00:04:29,848
+the episode oh yeah then we'll have to do it like pretty quickly but somebody
+
+52
+00:04:29,848 --> 00:04:34,868
+has to name it yeah yeah yeah that's good I like that but otherwise maybe we
+
+53
+00:04:34,868 --> 00:04:37,728
+should just do it get it in the can but maybe it never comes out unless people
+
+54
+00:04:37,728 --> 00:04:42,468
+solve the mystery of Papa Steve sure I bet it doesn't take much well I don't
+
+55
+00:04:42,468 --> 00:04:45,628
+know it's a this is a good little theme for the audience to play I do think Papa
+
+56
+00:04:45,628 --> 00:04:50,588
+Steve is on the higher end of obscure Disney character although that's a too
+
+57
+00:04:50,588 --> 00:04:55,248
+much of a hint actually okay I said Disney but I think he's I think we'll
+
+58
+00:04:55,248 --> 00:04:58,848
+see we'll see I will I will will be surprised yeah
+
+59
+00:05:00,108 --> 00:05:06,648
+a licensed character there is not a park star of Papa Steve there's no vinyl
+
+60
+00:05:06,648 --> 00:05:11,588
+nation of Papa Steve as far as I know no t-shirts available yet no merch we
+
+61
+00:05:11,588 --> 00:05:16,908
+popularized Papa Steve with our audience and we and we profit off of his likeness
+
+62
+00:05:16,908 --> 00:05:21,848
+yeah the Papa Steve merch will roll we'll get a lawsuit from his estate
+
+63
+00:05:21,848 --> 00:05:28,828
+there's a state if you're dead yes okay sorry I don't know cuz I frankly well
+
+64
+00:05:28,828 --> 00:05:32,248
+I'll save it I'll save it for the episode but uh yeah when we sell Papa
+
+65
+00:05:32,248 --> 00:05:38,588
+Steve t-shirts and then the bootleg knockoff puff puff sativa shirts which
+
+66
+00:05:38,588 --> 00:05:43,748
+is just the Papa Steve shirt and he's got a little joy this map so everything
+
+67
+00:05:43,748 --> 00:05:50,248
+we talk about we're going to sell pot themed version like Bart Simpson kicking
+
+68
+00:05:50,248 --> 00:05:56,128
+Saddam's ass not sure if and I would have you Google Papa Steve the first
+
+69
+00:05:56,128 --> 00:06:00,408
+thing that comes up is Papa Steve's no junk raw protein bars and it's a guy
+
+70
+00:06:00,408 --> 00:06:05,068
+named Steve Dybald this is not Papa Steve we're talking about that's a good
+
+71
+00:06:05,068 --> 00:06:08,848
+hint that's a good narrow down right I'm really excited I'm glad we gave the
+
+72
+00:06:08,848 --> 00:06:13,748
+audience a little mission here and I'm excited to see if it's fruitful and also
+
+73
+00:06:13,748 --> 00:06:19,508
+Papa Steve 100% sure on Steve right oh yeah it's in the photo okay as long as
+
+74
+00:06:19,508 --> 00:06:25,888
+it's in the photo there's for some reason I got in my head Papa Mark but I
+
+75
+00:06:25,888 --> 00:06:32,188
+it's just a pizza place in Pennsylvania my family goes to sometimes no I mean I
+
+76
+00:06:32,188 --> 00:06:35,888
+I'm gonna look right at the photo here I sent it yesterday there's a picture of
+
+77
+00:06:35,888 --> 00:06:42,648
+you looking longingly at this photo and it says Papa Steve at the bottom okay
+
+78
+00:06:42,648 --> 00:06:49,088
+very good so confirmed Papa Steve but please send us when you discover Papa
+
+79
+00:06:49,088 --> 00:06:55,148
+Steve is and that will unlock the episode yep I'll give it hints Papa Steve is
+
+80
+00:06:55,468 --> 00:07:01,128
+from an active attraction it is not a dead attraction oh so you can find okay
+
+81
+00:07:01,128 --> 00:07:05,328
+yeah that's good oh that'd be the best way to unlock it send us a photo of you
+
+82
+00:07:05,328 --> 00:07:10,268
+and Papa Steve yes yeah huh interesting okay this is this is great well I think
+
+83
+00:07:10,268 --> 00:07:12,508
+you're gonna start I also think somebody's gonna get this immediately
+
+84
+00:07:12,508 --> 00:07:18,528
+yeah I think that's entirely likely yeah yeah also we have not when we say unlock
+
+85
+00:07:18,528 --> 00:07:22,688
+we don't mean in the patreon sense we have not recorded that episode yet just
+
+86
+00:07:22,768 --> 00:07:28,108
+general scheme of it'll force our hand there's a lot of terms yeah on that
+
+87
+00:07:28,108 --> 00:07:32,788
+website that we're still learning so look at this we're still to work we're
+
+88
+00:07:32,788 --> 00:07:37,468
+sending in on on the exclusive scavenger hunts this is a per this is a premium
+
+89
+00:07:37,468 --> 00:07:42,648
+experience already and which which is fitting with today's topic which is the
+
+90
+00:07:42,648 --> 00:07:50,228
+ultimate Disney Disneyland premium experience that we got to experience for
+
+91
+00:07:50,448 --> 00:07:57,608
+ourselves will this be a braggy episode potentially and I apologize to the
+
+92
+00:07:57,608 --> 00:08:02,188
+audience if it verges on that however you've been listening to us presumably
+
+93
+00:08:02,188 --> 00:08:06,728
+for a little while I hope that you're that you're happy for us that we got to
+
+94
+00:08:06,728 --> 00:08:12,808
+enter the promised land of of Club 33 so how do we and we'll talk a little bit
+
+95
+00:08:12,808 --> 00:08:16,768
+about you know Club 33 in general in the history of it and everything but let's
+
+96
+00:08:16,768 --> 00:08:22,628
+I guess explain our experience I think we alluded to it in an episode but we got
+
+97
+00:08:22,628 --> 00:08:29,108
+to go thanks to our our new friends as of the who made who made our live show
+
+98
+00:08:29,108 --> 00:08:35,248
+possible Richard and Nicholas Kraft who ran the that's from Disneyland gallery
+
+99
+00:08:35,248 --> 00:08:39,928
+where we did our live show which hopefully you checked out and also we
+
+100
+00:08:39,928 --> 00:08:46,748
+were at we were it was very fun to be joined by Paul Scheer who also did a
+
+101
+00:08:46,748 --> 00:08:52,728
+and to say thanks Richard brought us into Club 33 and specifically into the
+
+102
+00:08:52,728 --> 00:09:01,088
+into the lounge where which is a newer area of the club called Le Salon Nouveau
+
+103
+00:09:01,088 --> 00:09:10,048
+Le Salon Nouveau so we had a we had a super fun lunch that went on and on and
+
+104
+00:09:10,048 --> 00:09:15,408
+on that dragged out we were there for so long it was such a delight and don't
+
+105
+00:09:15,408 --> 00:09:20,688
+I was gonna say dragged on seems like it might be like a bummer but no yeah wrong
+
+106
+00:09:20,688 --> 00:09:26,068
+drag good in a dragging in a good way yeah like leisurely a leisurely drag
+
+107
+00:09:26,068 --> 00:09:34,208
+drag from what I understand about Europe absolutely yeah yeah yeah so hey this was
+
+108
+00:09:34,208 --> 00:09:39,508
+this was a blast how do we handle this do we talk about the the place in
+
+109
+00:09:39,508 --> 00:09:44,868
+general and we talk about our experience or yeah I guess I mean it was very cool
+
+110
+00:09:45,148 --> 00:09:49,748
+in general we went to that we Jason I went down with Paul a little early we
+
+111
+00:09:49,748 --> 00:09:53,428
+rode the Ferris wheel which is the first time I ever rode the Ferris wheel
+
+112
+00:09:53,428 --> 00:10:00,788
+around yes and that'll be an episode pal around definitely a patreon episode and
+
+113
+00:10:00,788 --> 00:10:04,968
+yeah and then so say is pal around separate from yes wheel for sure
+
+114
+00:10:04,968 --> 00:10:08,368
+separate from fun wheel yeah that's two different episodes no way we could
+
+115
+00:10:08,368 --> 00:10:12,708
+possibly contain fun wheel and pal around yeah the mythology is all different
+
+116
+00:10:13,008 --> 00:10:18,228
+from pal around to fun wheel yeah I well on the other rounds I don't well I don't
+
+117
+00:10:18,228 --> 00:10:23,388
+want to give away to my but I had a perfectly lovely ride on it and once we
+
+118
+00:10:23,388 --> 00:10:28,908
+got off you were like I was I had a comfortable I had a little mild panic
+
+119
+00:10:28,908 --> 00:10:32,488
+attack as the first who was going up and it probably didn't help we were loaded
+
+120
+00:10:32,488 --> 00:10:38,688
+in with a another party I didn't realize I thought like oh Ferris wheel we were
+
+121
+00:10:38,688 --> 00:10:42,328
+we will get our own car oh yeah well they got to pack them in because the
+
+122
+00:10:42,328 --> 00:10:46,408
+thing is such a bad loading that helped because they took a nice picture of us
+
+123
+00:10:46,408 --> 00:10:51,488
+yeah that was nice I where is that photo send that to me I haven't seen it Scott
+
+124
+00:10:51,488 --> 00:10:55,388
+hasn't seen anyway but so we went on a couple rides and then we met up with
+
+125
+00:10:55,388 --> 00:11:02,328
+Scott and it was a very crowded it was Columbus when it was Columbus yeah and
+
+126
+00:11:02,328 --> 00:11:10,248
+that was nightmarish around there like getting me getting into the park and
+
+127
+00:11:12,408 --> 00:11:16,908
+to like inside New Orleans Square which is where Club 33 is and I made a joke
+
+128
+00:11:16,908 --> 00:11:21,948
+loudly that we have ten minutes hopefully I don't think we're gonna make
+
+129
+00:11:21,948 --> 00:11:25,428
+it which is crazy if you know how close that is to each other but the crowd was
+
+130
+00:11:25,428 --> 00:11:28,828
+so bad and the crowds like the lines were being rerouted through pirates that
+
+131
+00:11:28,828 --> 00:11:35,168
+like we almost didn't make it it was just an insanely crowded day away yeah it
+
+132
+00:11:35,168 --> 00:11:42,848
+was so awful yeah which just really let us I think savor in writing in this
+
+133
+00:11:42,848 --> 00:11:49,628
+private calm location on an incredibly stressful day yeah that's I was gonna say this is why I
+
+134
+00:11:49,628 --> 00:11:53,008
+bring that up is because the park was so crowded and I remember I think I said it
+
+135
+00:11:53,008 --> 00:11:56,888
+to you or something my understanding always was that this place was sort of
+
+136
+00:11:56,888 --> 00:12:04,448
+packed every day that there was full of people dining and eating and the
+
+137
+00:12:04,448 --> 00:12:09,408
+Club 33 is you know the waiting list goes on for decades right and you know
+
+138
+00:12:09,408 --> 00:12:13,908
+you know maybe if you're lucky your child will get to go in after you're
+
+139
+00:12:13,908 --> 00:12:20,588
+dead or like it's so like the terms are so stacked but then but and yet we're in
+
+140
+00:12:20,588 --> 00:12:27,088
+there and had place to ourselves yeah basically it was wild so yes we made it
+
+141
+00:12:27,088 --> 00:12:32,828
+there just right on time and Club 33 used to be closer to where the Blue Bayou
+
+142
+00:12:33,248 --> 00:12:35,288
+was which is the Pirates restaurant.
+
+143
+00:12:36,328 --> 00:12:40,948
+Yeah the restaurant that's in the launch point essentially of Pirates.
+
+144
+00:12:40,948 --> 00:12:44,908
+Scott you've been there before you had been to that version of the entrance.
+
+145
+00:12:45,248 --> 00:12:50,468
+I had yes so that's yeah Mike and Jason had not not been to Club 33 I got to go
+
+146
+00:12:50,468 --> 00:12:55,548
+thanks to my friend David we had a blast there good like you know five years ago
+
+147
+00:12:56,968 --> 00:13:04,608
+and yes we had been we'd been into that entrance which had a like private little
+
+148
+00:13:04,608 --> 00:13:12,888
+elevator yes French lift yes okay and it was like a which we in looking up the
+
+149
+00:13:12,888 --> 00:13:17,908
+history of this was something that Walt found somewhere and tried to buy it
+
+150
+00:13:17,908 --> 00:13:22,408
+from the building and they said that's impossible to remove it nor are we
+
+151
+00:13:22,408 --> 00:13:25,048
+interested in removing our elevator no matter the cost.
+
+152
+00:13:25,048 --> 00:13:26,628
+We also need the elevator.
+
+153
+00:13:27,028 --> 00:13:35,468
+Yeah yeah it's extremely functional so so he just so he like took photos and had
+
+154
+00:13:35,468 --> 00:13:41,208
+imagineers just build one to his specifications and it's yeah that's like
+
+155
+00:13:41,208 --> 00:13:45,628
+that's that was that was an incredible little experience to have going up that
+
+156
+00:13:45,628 --> 00:13:50,808
+thing and really takes you into the past but that is no longer there that is one
+
+157
+00:13:50,808 --> 00:13:55,148
+of the changes and this is a whole you know I think Club 33 was a certain
+
+158
+00:13:55,148 --> 00:14:00,048
+certain way in a certain amount of space until like 2014 2015 and then it's been
+
+159
+00:14:00,048 --> 00:14:04,688
+pretty drastically not drastically but expanded an amount of yeah mostly
+
+160
+00:14:04,688 --> 00:14:09,188
+expansion mostly a good thing mostly allows more space and more more room
+
+161
+00:14:09,188 --> 00:14:11,248
+more empty space where no one is yeah.
+
+162
+00:14:11,248 --> 00:14:15,368
+But also controversial because they they took over the
+
+163
+00:14:15,748 --> 00:14:23,048
+which is this is like very peaceful manicured courtyard like New Orleans kind
+
+164
+00:14:23,048 --> 00:14:27,668
+of courtyard that for many years anyone could just go back there and take
+
+165
+00:14:27,668 --> 00:14:34,148
+pictures there's tons of photos online of people's engagement photos or
+
+166
+00:14:34,148 --> 00:14:38,868
+proposal like in the Court of Angels and I used to love going back there and
+
+167
+00:14:38,868 --> 00:14:42,868
+getting pictures and showing it to people because it is an interesting like
+
+168
+00:14:42,888 --> 00:14:48,168
+this doesn't exist anywhere else like this is only in Disneyland it it's not
+
+169
+00:14:48,168 --> 00:14:53,008
+an attraction it's not a show it's not a restaurant it's just a cute little you
+
+170
+00:14:53,008 --> 00:14:58,248
+know bit of place making and now it's gone and only for the rich yeah it's
+
+171
+00:14:58,248 --> 00:15:03,568
+over and X sing yeah people are shocked that Disney has made moves for money
+
+172
+00:15:03,568 --> 00:15:08,968
+making purposes right it does like it does it does make sense though to have
+
+173
+00:15:08,968 --> 00:15:13,108
+a better more out of the way area to load this place though I mean
+
+174
+00:15:13,108 --> 00:15:16,448
+unfortunately I it is a bummer that it's gone you can't just walk into it
+
+175
+00:15:16,448 --> 00:15:18,808
+because it was nice it was one of those spots where it was like a little
+
+176
+00:15:18,808 --> 00:15:24,028
+peaceful it was very yeah it was like a couple and it's still peaceful like that
+
+177
+00:15:24,028 --> 00:15:28,608
+well sure and there's little there's a locked or infused water for you to wait
+
+178
+00:15:28,608 --> 00:15:32,988
+before you are back in oh my god the infused water was so good yeah it was a
+
+179
+00:15:33,488 --> 00:15:37,528
+wasn't iced tea but it was like infused with like
+
+180
+00:15:37,528 --> 00:15:41,948
+the time I lavender I believe yeah yeah did I say when we were drinking the
+
+181
+00:15:41,948 --> 00:15:44,848
+water that like the employees were looking at us like we were two hobos
+
+182
+00:15:44,848 --> 00:15:48,408
+that had wandered into like a rich person's restaurant I mean it did feel
+
+183
+00:15:48,408 --> 00:15:54,288
+that way and the sheer number of napkins that I got out of that place oh yeah my
+
+184
+00:15:54,288 --> 00:16:02,968
+got crumpled over there they're sitting on the sound bar we all do this
+
+185
+00:16:02,968 --> 00:16:13,208
+I think so yeah not cloth napkins by the way paper like nice paper like the
+
+186
+00:16:13,208 --> 00:16:17,348
+bathroom paper towels essentially well do you worth taking home do you wipe
+
+187
+00:16:17,348 --> 00:16:21,208
+like your hands on a special occasion with them they've all been free there
+
+188
+00:16:21,208 --> 00:16:28,148
+there in 12 frames napkins and 12 identical frames if you got liquid gold
+
+189
+00:16:28,148 --> 00:16:31,808
+on your hands and needed to clean that off maybe that's that's when you break
+
+190
+00:16:31,808 --> 00:16:37,548
+open the frames and start using the fancy yes yeah so you're staying with if
+
+191
+00:16:37,548 --> 00:16:42,368
+you have caviar all over your fingers right I'll say this then they were very
+
+192
+00:16:42,368 --> 00:16:46,848
+this makes it sound lawless but there were very few rules at Club 33 the only
+
+193
+00:16:46,848 --> 00:16:53,288
+thing they told us you can take photos anywhere you can walk into but not the
+
+194
+00:16:53,288 --> 00:16:59,108
+bathroom yeah doc take photos in the bathroom so that normal rule of society
+
+195
+00:16:59,388 --> 00:17:05,348
+right club 33 but I would have taken a photo in the bathroom very a very nice
+
+196
+00:17:05,348 --> 00:17:10,308
+ornate bathroom with Chuck Berry wouldn't like it there no photos that's
+
+197
+00:17:10,308 --> 00:17:15,208
+his favorite pastime it's a good point what in the bathroom we're talking
+
+198
+00:17:15,208 --> 00:17:20,508
+bathroom already I was shocked that they have little vials of mouthwash yeah I
+
+199
+00:17:20,508 --> 00:17:27,028
+got oh you took some I did not take Richard and I both mouthwash together at
+
+200
+00:17:27,028 --> 00:17:31,928
+the sink and then that was I was like I thought about it but I was like I'm not
+
+201
+00:17:31,928 --> 00:17:34,848
+gonna take a handful of there were glass too or were they plastic they were
+
+202
+00:17:34,848 --> 00:17:38,508
+plastic they were plastic okay if Richard had taught you how to shave that
+
+203
+00:17:38,508 --> 00:17:43,088
+would have been the experience he's dabbing your cheeks he wanted to see if
+
+204
+00:17:43,088 --> 00:17:48,228
+I was good at flossing he wanted to see yeah that would have been better it was
+
+205
+00:17:48,228 --> 00:17:52,988
+in there the Florida ceiling doors on the stalls as well right yes and pull
+
+206
+00:17:52,988 --> 00:17:56,768
+chain toilets like oh I cuz I didn't go into one of them I have the pull chain
+
+207
+00:17:56,928 --> 00:18:02,268
+had the where the the water tank is like closer to the ceiling and stuff oh
+
+208
+00:18:02,268 --> 00:18:07,228
+wow like I should go in the stall how did you not go in the toilet well I go I
+
+209
+00:18:07,228 --> 00:18:11,288
+went to the urinal and I didn't think you didn't need to use right I didn't
+
+210
+00:18:11,288 --> 00:18:14,908
+need but of course I should have explored all the every inch of it I went
+
+211
+00:18:14,908 --> 00:18:20,968
+a few times because not to be gross but hard liquor just goes right through me as
+
+212
+00:18:20,968 --> 00:18:26,308
+I've gotten older what do you really yeah quickly that's weird it's weird it
+
+213
+00:18:26,308 --> 00:18:32,448
+is weird you just hard liquor but not water yes really is there have you
+
+214
+00:18:32,448 --> 00:18:37,388
+googled this is this a real phenomenon like you okay no no yeah I mean as long
+
+215
+00:18:37,388 --> 00:18:42,228
+as that songs there's a bathroom close by which again the laws of society I
+
+216
+00:18:42,228 --> 00:18:47,028
+want you to leave places that serve hard liquor have a bathroom close by new
+
+217
+00:18:47,028 --> 00:18:55,288
+episode title Jason shits at club oh no other other other side okay oh yeah no
+
+218
+00:18:55,288 --> 00:18:58,648
+that would be more oh yeah that's what yeah I thought hard liquor makes you
+
+219
+00:18:58,648 --> 00:19:04,828
+makes you shit oh no I just have to you're an oh okay okay yeah oh yeah no
+
+220
+00:19:04,828 --> 00:19:08,828
+that would be very bad that would probably mean I had some sort of
+
+221
+00:19:08,828 --> 00:19:12,228
+allergic yeah all right some sort of that's what I was picturing the way that
+
+222
+00:19:12,228 --> 00:19:17,208
+coffee like could so yeah coffee yeah yeah yeah okay I thought just like a you
+
+223
+00:19:17,208 --> 00:19:27,728
+know yeah like some sips of rum yeah I really don't drink that much except on
+
+224
+00:19:27,728 --> 00:19:32,148
+your birthday it's all right and then you let it then you let her risk yeah
+
+225
+00:19:32,148 --> 00:19:42,988
+let's all wag our fingers the wound is healed thankfully okay so entrance area
+
+226
+00:19:43,208 --> 00:19:47,708
+that one yeah I guess we're trading out a cool thing for a less cool or for
+
+227
+00:19:47,708 --> 00:19:51,628
+another cool thing the elevator is not there but you get to walk in this this
+
+228
+00:19:51,628 --> 00:19:55,508
+Court of Angels area that's now annexed and that that is cool like boy yeah
+
+229
+00:19:55,508 --> 00:20:01,548
+wonderful entrance beautiful staircase and the elevator they turned into a
+
+230
+00:20:01,548 --> 00:20:06,708
+booth so you can sit in the elevator and eat your meal that that's in the lounge
+
+231
+00:20:06,708 --> 00:20:10,328
+I don't think it registered with me that that's oh I didn't realize that they
+
+232
+00:20:10,328 --> 00:20:15,268
+moved the little like the tiny little pull chain door the elevator into you
+
+233
+00:20:15,268 --> 00:20:19,548
+can like sit in there and it's right next to a little table really yeah but
+
+234
+00:20:19,548 --> 00:20:25,128
+like one person can barely squeeze in it'd be a very odd place to sit and eat
+
+235
+00:20:25,128 --> 00:20:30,368
+that's for sure there was also a table in the back of the lounge with one table
+
+236
+00:20:30,368 --> 00:20:36,548
+one tiny table almost like an old-time school desk yeah and one chair looking
+
+237
+00:20:36,548 --> 00:20:42,268
+out on the bay windows looking directly at the train station hmm and if I was
+
+238
+00:20:42,268 --> 00:20:47,188
+popping by myself that is where I would request to sit yeah it's this little
+
+239
+00:20:47,188 --> 00:20:54,468
+private nook it's yeah it's pretty neat but then there's a lot of like cool
+
+240
+00:20:54,468 --> 00:20:58,848
+stuff all around like every table is neat I think there's said there's some
+
+241
+00:20:58,848 --> 00:21:03,848
+table that was a prop from the happiest millionaire this 60s Disney movie
+
+242
+00:21:04,428 --> 00:21:09,728
+period piece the host station oh is that it I think and then there was an old
+
+243
+00:21:09,728 --> 00:21:14,648
+there used to be a phone booth in the original okay I think not there anymore
+
+244
+00:21:14,648 --> 00:21:18,548
+I or in another room I didn't think to look for it but that came up reading
+
+245
+00:21:18,548 --> 00:21:24,048
+about the original Club 33 huh huh and beautiful beautiful paintings and all of
+
+246
+00:21:24,048 --> 00:21:32,968
+the yell so where is also what they call Richard craft absolutely that I mean you
+
+247
+00:21:33,588 --> 00:21:38,468
+like in his element I'll say that what are like you know what a blast hanging
+
+248
+00:21:38,468 --> 00:21:42,268
+out with them and like I don't you know I'm not gonna go telling stories that
+
+249
+00:21:42,268 --> 00:21:45,968
+he told us but this is like you may have heard in the episode he's like he
+
+250
+00:21:45,968 --> 00:21:50,588
+represents here's his Danny Elfman he represents Jerry Goldsmith he represents
+
+251
+00:21:50,588 --> 00:21:56,908
+Marc Shaman the writer of Hairspray and all that I didn't also and John Bryan
+
+252
+00:21:56,908 --> 00:22:02,508
+who but Mike I love him we just saw last night and in concert not been a friendly
+
+253
+00:22:02,508 --> 00:22:08,168
+way we paid to see him right and and also I don't know if it's him or if it's
+
+254
+00:22:08,168 --> 00:22:14,368
+the company but but air apparently really the craft management Wow yeah
+
+255
+00:22:14,368 --> 00:22:18,068
+like air yeah there's one of them their film scores are wonderful it's also he
+
+256
+00:22:18,068 --> 00:22:22,808
+represents like all the coolest like like Pat like past and present a wide
+
+257
+00:22:22,808 --> 00:22:28,868
+wide range of cool composers and he had like amazing stories from all that and
+
+258
+00:22:28,868 --> 00:22:37,168
+yeah super super cool to hang out and hear all of it and what else well we
+
+259
+00:22:37,168 --> 00:22:41,448
+went so like let's like let's step by step a little more so we go to go into
+
+260
+00:22:41,448 --> 00:22:46,148
+the back of like New Orleans Square toward like if you're headed if you were
+
+261
+00:22:46,148 --> 00:22:48,988
+headed to the Blue Bayou and we're Club 33 used to be you just keep going back
+
+262
+00:22:48,988 --> 00:22:53,008
+to the Court of Angels so then there's all it sort of indicates I forget how it
+
+263
+00:22:53,008 --> 00:22:57,768
+indicates outside that it's 33 it's not as big like it used to be that we
+
+264
+00:22:58,468 --> 00:23:03,648
+couldn't figure out how to do it like Hill people we were just knocking on this
+
+265
+00:23:03,648 --> 00:23:08,648
+right so we know this is the real door yeah so we eventually figured out that
+
+266
+00:23:08,648 --> 00:23:13,808
+that was the real door yeah and then I think Nicholas like a like scan a card
+
+267
+00:23:13,808 --> 00:23:17,528
+or something yeah I think that there is supposedly there's so much rumor about
+
+268
+00:23:17,528 --> 00:23:20,028
+exactly what it is but I think yeah you're right there's a card scanning and
+
+269
+00:23:20,028 --> 00:23:24,828
+then you go and you're in a tiny little room with like two or three employees or
+
+270
+00:23:25,108 --> 00:23:28,908
+something yeah and they have like two or three employees with a desk and a
+
+271
+00:23:28,908 --> 00:23:34,148
+beautiful crystal display case of all the Club 33 exclusive merch yeah merch
+
+272
+00:23:34,148 --> 00:23:37,928
+and collectibles and stuff which really caught me off guard I totally didn't
+
+273
+00:23:37,928 --> 00:23:41,528
+realize there was Club 33 exclusive merch which is embarrassing I didn't
+
+274
+00:23:41,528 --> 00:23:46,968
+remember no yeah which of course I went wild for and I'll say what I got later
+
+275
+00:23:46,968 --> 00:23:50,908
+so yeah it's just like a normal restaurant thing where they're like
+
+276
+00:23:50,908 --> 00:23:54,808
+looking up your name and then they basically send you into the Court of
+
+277
+00:23:54,808 --> 00:23:59,188
+that amazing water what was the flavor of the water do you remember it was it or
+
+278
+00:23:59,188 --> 00:24:03,468
+was just fruit and I said lavender oh you said it okay it was like yeah cuz I
+
+279
+00:24:03,468 --> 00:24:07,068
+had never had water that good I don't think I think it was the best water I
+
+280
+00:24:07,068 --> 00:24:11,808
+ever had it was really nice and I Jason I can only zoom lavender water treats
+
+281
+00:24:11,808 --> 00:24:17,248
+your body just fine yes do you think though you you weren't peeing because you
+
+282
+00:24:17,248 --> 00:24:21,248
+ate straight had so much lavender water earlier and then you had like a cocktail
+
+283
+00:24:22,008 --> 00:24:27,548
+I mean yes cumulative it probably out I had I saw you with your mouth on the
+
+284
+00:24:27,548 --> 00:24:32,968
+spigot just pouring the lavender water in yeah and you could see the water
+
+285
+00:24:32,968 --> 00:24:37,868
+going through like bumps in my body right yeah yeah yeah walking water bed
+
+286
+00:24:37,868 --> 00:24:43,488
+yeah and then we had I rolled you up the stairs yeah I mean I think I was
+
+287
+00:24:43,488 --> 00:24:50,928
+drinking a lot of water to begin with that's healthy yeah yeah so then we you
+
+288
+00:24:51,068 --> 00:24:54,628
+kind of down there and then did they call I'm trying to remember my memories
+
+289
+00:24:54,628 --> 00:24:58,328
+already he's kind of overwhelmed and there was a lot yeah it's it was like a
+
+290
+00:24:58,328 --> 00:25:02,548
+dream a little bit of a dream yeah and then you would just walk upstairs and
+
+291
+00:25:02,548 --> 00:25:06,808
+the bathroom is up sort of on the like Terrace type thing or in like the walkway
+
+292
+00:25:06,808 --> 00:25:12,508
+up there and then you go through big doors and you're in Club 33 and there's
+
+293
+00:25:12,508 --> 00:25:18,348
+tile display yes we have a photo of that yeah yeah and then they kind of like
+
+294
+00:25:18,348 --> 00:25:22,208
+make you wait a second and then they take you to the table yeah there's a
+
+295
+00:25:22,208 --> 00:25:27,548
+hostess I mean every door open for everyone greeting you very nice asking
+
+296
+00:25:27,548 --> 00:25:31,828
+if you need anything yes well that's what I've read is that there it's I mean
+
+297
+00:25:31,828 --> 00:25:37,608
+like the does this Disney standard of service that you find everywhere and
+
+298
+00:25:37,608 --> 00:25:41,948
+certainly in the restaurants and the hotels especially the hospitality is
+
+299
+00:25:41,948 --> 00:25:47,408
+always great but I think the Club 33 people are like hyper trained yes yeah
+
+300
+00:25:48,548 --> 00:25:54,188
+like many months of super hospitality training and yes and it showed and like
+
+301
+00:25:54,188 --> 00:25:58,668
+boy did they were they helpful with food and drink recommendations right and
+
+302
+00:25:58,668 --> 00:26:03,588
+they put like their most knowledgeable people I think on it too I mean the
+
+303
+00:26:03,588 --> 00:26:06,328
+person we there are waitress had been working there for many many years so
+
+304
+00:26:06,328 --> 00:26:10,228
+knew a lot of stuff but I think like they probably have to pass like extra
+
+305
+00:26:10,228 --> 00:26:15,008
+tests in like Disneyland history and I bet like I bet like they have to know
+
+306
+00:26:15,008 --> 00:26:19,588
+more they have to be like there yeah I mean she's just telling us about the
+
+307
+00:26:19,588 --> 00:26:23,608
+lounge she's like oh of course this lounge is new in the last few years this
+
+308
+00:26:23,608 --> 00:26:29,268
+whole physical space you are in used to just be storage for like the stores
+
+309
+00:26:29,268 --> 00:26:34,968
+right below or like other New Orleans Square area merchandise and stuff and
+
+310
+00:26:34,968 --> 00:26:39,428
+then they had to reconfigure all of that because the pictures is pre
+
+311
+00:26:39,928 --> 00:26:45,848
+refurbishment the bar was so tiny like the lounge bar area was so tiny and
+
+312
+00:26:45,848 --> 00:26:50,208
+like just had a few maybe a couch and a few chairs it was almost just like a
+
+313
+00:26:50,208 --> 00:26:57,388
+hallway mm-hmm yeah whereas now this is this giant ornate bar it's just
+
+314
+00:26:57,388 --> 00:27:00,308
+wonderful well should we hear should we talk about it's okay so we're we're
+
+315
+00:27:00,308 --> 00:27:07,048
+entering you go through this hallway that's very very dim that is on either
+
+316
+00:27:07,048 --> 00:27:15,168
+side of you is case after case of fancy wine bottles you know so my eyes were
+
+317
+00:27:15,168 --> 00:27:20,988
+bouncing out sure like the mask and my pupils turned into wine bottle shape we
+
+318
+00:27:20,988 --> 00:27:24,708
+all turned into cartoons at certain points it depends our star particular
+
+319
+00:27:24,708 --> 00:27:28,588
+things active and then when I went up to the merch I saw the merch thing the
+
+320
+00:27:28,588 --> 00:27:33,348
+cabinet with the glass I my tongue like shot out and my tongue was giant and
+
+321
+00:27:33,428 --> 00:27:39,468
+like licking the glass in front of the exclusive club 33 merge and when they
+
+322
+00:27:39,468 --> 00:27:44,708
+accidentally put the check in front of Jason Richard he turned into a devil
+
+323
+00:27:44,708 --> 00:27:50,428
+like the incredible five feet up in the air and my legs looking like legs and
+
+324
+00:27:50,428 --> 00:27:57,168
+we're just spinning tires like yeah the check came and then we just turn there
+
+325
+00:27:57,168 --> 00:28:06,988
+a puff of dust Jason's perfect shape yes he sped out of there to steal more
+
+326
+00:28:06,988 --> 00:28:14,028
+paper towels so you yeah you go through this it's this amazing hallway like mood
+
+327
+00:28:14,028 --> 00:28:17,408
+and they're just like perfect I couldn't pretend to know the type of wood but
+
+328
+00:28:17,408 --> 00:28:23,968
+right is very like old-school mahogany crazy wine cellar and then further down
+
+329
+00:28:23,968 --> 00:28:29,148
+this hallway on either side of you are a couple of booths yeah very small and
+
+330
+00:28:29,148 --> 00:28:33,548
+exclusive yes that are all in each one is themed to a different ride I believe
+
+331
+00:28:33,548 --> 00:28:38,308
+there's a Pirates one a Haunted Mansion one a Tom's Island one that's like is
+
+332
+00:28:38,308 --> 00:28:42,628
+if it's like Tom and Huck on on the island like watching the Mark Twain go
+
+333
+00:28:42,628 --> 00:28:46,208
+by and then is it a bit was it a big Thunder I don't remember the fourth I am
+
+334
+00:28:46,208 --> 00:28:53,948
+looking through my photos I have a picture of the pirate ship and I have a
+
+335
+00:28:53,948 --> 00:28:58,748
+yeah I don't know I truly like felt so weird and overwhelmed in there I don't
+
+336
+00:28:58,748 --> 00:29:02,068
+know why I didn't photos yeah I felt uncomfortable doing that I think I was
+
+337
+00:29:02,068 --> 00:29:06,408
+trying to play it cool as well yeah yeah I think I don't want them to be like oh
+
+338
+00:29:06,408 --> 00:29:10,728
+look at those rubes look at those like they were more than encouraging oh yeah
+
+339
+00:29:10,728 --> 00:29:14,628
+they didn't photos ask question that's we get it mm-hmm right that's my that's
+
+340
+00:29:14,628 --> 00:29:19,948
+my problem not theirs because yeah I think I didn't take these pictures till
+
+341
+00:29:19,948 --> 00:29:23,928
+later like we were walking in I was like oh cool cool yeah cool oh great oh
+
+342
+00:29:23,928 --> 00:29:26,908
+whatever well you don't want to do it right away but once we felt like at home
+
+343
+00:29:26,908 --> 00:29:31,248
+once we sure there for three and a half hours whatever it was but anyway yeah
+
+344
+00:29:31,248 --> 00:29:35,408
+there's like there's there's little bits of Disney magic throughout this
+
+345
+00:29:35,408 --> 00:29:38,848
+restaurant is really what makes it so cool and these paintings have little
+
+346
+00:29:38,848 --> 00:29:42,608
+effects you know the Mark Twain puffs smoke or that I don't know what they'll
+
+347
+00:29:42,608 --> 00:29:47,748
+do but it's very it's like the ship's a little boo oh okay okay it's it's very
+
+348
+00:29:47,748 --> 00:29:52,548
+similar to the effect that the effects they have it like Trader Sam's yeah yeah
+
+349
+00:29:52,548 --> 00:29:56,368
+we're like a volcano shoot like shoots up once in a while when you order the
+
+350
+00:29:56,368 --> 00:29:59,508
+right drink which to eat at one of those booths would have been great but we had
+
+351
+00:29:59,508 --> 00:30:02,768
+a bigger with a bigger party and we were somewhere kind of just like dead
+
+352
+00:30:02,768 --> 00:30:08,028
+standing up dead center of the of the lab Le Salon Nouveau we sure we were
+
+353
+00:30:08,028 --> 00:30:12,008
+there so long though we could have each for an hour just gone in our own booth
+
+354
+00:30:12,008 --> 00:30:16,788
+alone yeah yeah because there was enough seat out like yeah pretty quickly the
+
+355
+00:30:16,788 --> 00:30:22,428
+most we had the place to ourselves and we're able to the bar had effects going
+
+356
+00:30:22,428 --> 00:30:29,568
+to similar to Club 30 oh yeah our effects were very cool yeah so yeah in
+
+357
+00:30:29,568 --> 00:30:35,688
+the the bar has kind I mean it's just like it's it's you know it's it's very
+
+358
+00:30:35,688 --> 00:30:43,828
+like Maleficent essentially it's like sort of like apothecary weird like yeah
+
+359
+00:30:43,828 --> 00:30:49,048
+study with vials and stuff and then with a big like crystal ball orb thing in the
+
+360
+00:30:49,048 --> 00:30:54,828
+center and every once in a while the crystal ball lights up with a swirl of
+
+361
+00:30:54,828 --> 00:31:02,648
+magic and the swirl spreads down the bar to like a little trumpet on either side
+
+362
+00:31:02,648 --> 00:31:08,748
+and then a ghost appears and starts playing the trumpet back and forth
+
+363
+00:31:08,748 --> 00:31:14,308
+trumpet goes yeah oh cool that's my highlight a mate like a bar with little
+
+364
+00:31:14,308 --> 00:31:20,668
+and to be you know that it's it's that it's well done Disney magic it's not
+
+365
+00:31:20,668 --> 00:31:26,808
+some like half-assed theme bar thing it like yeah it was so like detailed and
+
+366
+00:31:26,808 --> 00:31:30,268
+subtle and it's yeah it's I have a picture of it when the effect is not
+
+367
+00:31:30,268 --> 00:31:33,948
+going and it just looks like I don't know if that's a trumpet or like I
+
+368
+00:31:33,948 --> 00:31:37,108
+guess a tie yeah it's just a tiny trumpet or like a flugelhorn maybe is
+
+369
+00:31:37,108 --> 00:31:39,968
+what it's called but it's just like sitting there are you laughing at
+
+370
+00:31:40,428 --> 00:31:46,908
+it is a funny name it's just it does like it's one of those effects where
+
+371
+00:31:46,908 --> 00:31:51,388
+it's not clear that an effect is coming or is going to happen it's just looks
+
+372
+00:31:51,388 --> 00:31:55,628
+like a trumpet or whatever is sitting hanging there yeah and then when the
+
+373
+00:31:55,628 --> 00:31:59,668
+effect happens a ghost is playing it and it's crazy and you're really not sure how
+
+374
+00:31:59,668 --> 00:32:03,988
+it's done it's wild yeah like there's a couple effects like a Tokyo Disney like
+
+375
+00:32:03,988 --> 00:32:09,148
+they're like that where you're like staring at it and going what I'm not
+
+376
+00:32:09,148 --> 00:32:14,208
+sure like so cool yeah very very cool thing like that but only the members
+
+377
+00:32:14,208 --> 00:32:18,928
+get to see or the roofs that they let join them right only Goldman Sachs
+
+378
+00:32:18,928 --> 00:32:24,788
+employees get to see that ghost playing a flugelhorn yeah and it should it
+
+379
+00:32:24,788 --> 00:32:29,768
+should be noted that the lounge they were saying it's like oh it's harder to
+
+380
+00:32:29,768 --> 00:32:33,408
+get a reservation at the lounge because for one thing you have to be with a
+
+381
+00:32:33,408 --> 00:32:38,488
+member right like a member can make you reservations for the dining room
+
+382
+00:32:38,488 --> 00:32:44,288
+although I saw one thing online did you guys come across this that like say
+
+383
+00:32:44,288 --> 00:32:49,448
+someone made reservations for you or I think even for members this holds if you
+
+384
+00:32:49,448 --> 00:32:55,188
+are going to eat in the dining room there was a food minimum oh yeah possibly
+
+385
+00:32:55,188 --> 00:33:01,348
+equivalent to a one-day admission ticket sure per person it's pricey yeah per
+
+386
+00:33:01,348 --> 00:33:07,708
+person or the full full meal I think per person mm-hmm yeah because they're and I
+
+387
+00:33:07,708 --> 00:33:12,888
+think this is the appeal of the lounge is that if you've gone there for dinner
+
+388
+00:33:12,888 --> 00:33:17,688
+you know for for the many decades this has been open it's been like a you know
+
+389
+00:33:17,688 --> 00:33:22,688
+fancy four course meal that you have to do and and probably liquor on top of
+
+390
+00:33:22,688 --> 00:33:27,948
+that and to make the minimum and which is great and it was it was wonderful
+
+391
+00:33:27,948 --> 00:33:32,568
+when I got to do it but you end up spending a lot and the but in the lounge
+
+392
+00:33:32,568 --> 00:33:37,548
+it's more casual you could do piecemeal stuff you can get you can get a burger
+
+393
+00:33:37,548 --> 00:33:41,968
+although even the burgers are like we're crazy fancy burgers and it's still like
+
+394
+00:33:41,968 --> 00:33:48,068
+elevated and great food but you can it's it's certainly more casual than I think
+
+395
+00:33:48,068 --> 00:33:51,548
+that the dining experience have been although would they we were offered
+
+396
+00:33:51,548 --> 00:33:56,248
+four course menu they're like here is the four course menu right a la carte
+
+397
+00:33:56,248 --> 00:34:00,628
+menu if you see something on the four course menu you can order it a la carte
+
+398
+00:34:00,628 --> 00:34:06,048
+it was lunchtime yeah we were there it's unclear yeah so so the thing I kept
+
+399
+00:34:06,048 --> 00:34:12,368
+finding is it's unclear exactly what the system is for like because there are
+
+400
+00:34:12,368 --> 00:34:18,268
+tiers now to club 33 membership as well okay for different lounges and it's or
+
+401
+00:34:18,268 --> 00:34:21,908
+it's unclear now exactly what level because I think there's only the top
+
+402
+00:34:21,908 --> 00:34:25,308
+tier gets you into the lounge in general I could I can be completely wrong about
+
+403
+00:34:25,308 --> 00:34:31,028
+this somebody easily can correct me I'm sure but it seems like access to which
+
+404
+00:34:31,028 --> 00:34:35,388
+we did go to later do we even talk about Club 1901 we probably have to right yeah
+
+405
+00:34:35,388 --> 00:34:39,548
+yeah sure but there's a club in California Adventure that is a lot
+
+406
+00:34:39,548 --> 00:34:44,348
+smaller and I think that is like supposedly you have to be top tier access
+
+407
+00:34:44,348 --> 00:34:49,528
+in Club 33 to do that and I think also lounge access as something like I think
+
+408
+00:34:49,528 --> 00:34:54,288
+there might be like a base level Club 33 that you can just go to the dinner and
+
+409
+00:34:54,288 --> 00:34:58,308
+lunch in the regular dining room it's unclear though is what I'm saying there's
+
+410
+00:34:58,308 --> 00:35:02,068
+a lot of missfully there's a lot of misinformation online there's like old
+
+411
+00:35:02,408 --> 00:35:06,888
+I think stuff a lot of stuff has changed the membership fees they list are all
+
+412
+00:35:06,888 --> 00:35:11,028
+over the map we should have called oh and I tried to figure out that number is
+
+413
+00:35:11,028 --> 00:35:16,828
+not public oh right we would have had to acquire it some oh there's an official
+
+414
+00:35:16,828 --> 00:35:21,368
+website for Club 33 but it says nothing you can't you write sign in as a member
+
+415
+00:35:21,368 --> 00:35:28,868
+right there's no FAQ where it tells you how much it costs like some Hollywood
+
+416
+00:35:28,868 --> 00:35:32,148
+agencies or production companies that essentially just they have a website
+
+417
+00:35:32,148 --> 00:35:36,788
+because they have to but it is just essentially a business card yeah yeah
+
+418
+00:35:36,788 --> 00:35:43,028
+pro website right yesterday Scott we were talking about this and we'll we'll
+
+419
+00:35:43,028 --> 00:35:46,788
+probably do this at wrap-up but now that I'm thinking about it remind like we
+
+420
+00:35:46,788 --> 00:35:51,248
+were saying like what our dream version of Club 33 would be like what we would
+
+421
+00:35:51,248 --> 00:35:57,768
+pay for and I've just I'm just now realizing I know the perfect thing so
+
+422
+00:35:57,768 --> 00:35:59,068
+let's remember to do this
+
+423
+00:35:59,068 --> 00:36:00,668
+we'll hold on to that at the end
+
+424
+00:36:00,668 --> 00:36:03,468
+where are we saying that?
+
+425
+00:36:04,248 --> 00:36:05,248
+misinformation about
+
+426
+00:36:05,248 --> 00:36:09,848
+you know what I keep finding is that when I tell people we got to do this I say oh we went to the
+
+427
+00:36:09,848 --> 00:36:14,328
+California Adventure one too they don't know 1901 I think people know yes and so
+
+428
+00:36:14,328 --> 00:36:18,568
+if you're so next time you're if you're at Disneyland you're waiting in line for
+
+429
+00:36:18,568 --> 00:36:24,268
+the Carthay Circle restaurant off to the right there is a sign says 1901 it's
+
+430
+00:36:24,268 --> 00:36:28,848
+sort of hidden and you have to put your card up and then the 1901 lights up oh it
+
+431
+00:36:28,848 --> 00:36:33,208
+lights up yeah fast pass but oh that's so it's like you know what is hiding in
+
+432
+00:36:33,208 --> 00:36:36,348
+plain sight too because if you stand under the marquee of Carthay Circle
+
+433
+00:36:36,348 --> 00:36:40,728
+straight ahead is the lobby for the restaurant slightly to the right is
+
+434
+00:36:40,728 --> 00:36:46,308
+direct entry into the bar I think and then next to that is the 1901 door yeah
+
+435
+00:36:46,308 --> 00:36:49,868
+and I didn't I I've heard of somebody told a couple years ago it was like
+
+436
+00:36:49,868 --> 00:36:52,748
+there's one in Carthay and I was like what are you talking about and then it
+
+437
+00:36:52,748 --> 00:36:57,108
+was confirmed that it exists I still did not know where the door was and we've
+
+438
+00:36:57,108 --> 00:37:02,828
+waited in line for Carthay a million times it's right next to the door yeah
+
+439
+00:37:02,828 --> 00:37:06,588
+we've we've been in there before I just was like all these two doors that don't
+
+440
+00:37:06,588 --> 00:37:12,468
+go anywhere but they go to 1901 it's like the it's like the Buzz Lightyear
+
+441
+00:37:12,468 --> 00:37:17,388
+astro blaster target in the hallway it seems to be the same technology where
+
+442
+00:37:17,388 --> 00:37:21,048
+it's like dark and then you shoot it and it kind of lights up in a little like
+
+443
+00:37:21,168 --> 00:37:25,808
+D way that's what it looked like to me when you like they put his card to the
+
+444
+00:37:25,808 --> 00:37:29,988
+1901 sign and it lit up as 1901 anyway to that and there should be a secret
+
+445
+00:37:29,988 --> 00:37:34,988
+target that you can hit in Buzz Lightyear that gets you lifetime oh yeah sure
+
+446
+00:37:34,988 --> 00:37:39,748
+Club 33 I feel would be a lot more incentivized to I don't know why they
+
+447
+00:37:39,748 --> 00:37:44,428
+need people to be incentivized but right I knew about the 1901 lounge but I
+
+448
+00:37:44,428 --> 00:37:49,028
+thought it was upstairs like cuz there's that patio that's what I thought too yes
+
+449
+00:37:49,168 --> 00:37:53,288
+I'm like wait how can I sit on that patio so I guess it's just outdoor seating
+
+450
+00:37:53,288 --> 00:37:58,748
+you know you can set up there for regular and Karthik yeah I've sat on
+
+451
+00:37:58,748 --> 00:38:02,948
+that patio before a car thing but I I thought it was upstairs somewhere they're
+
+452
+00:38:02,948 --> 00:38:07,208
+just like a magical upstairs place that I didn't think like I didn't know or it
+
+453
+00:38:07,208 --> 00:38:11,008
+was like I didn't think it was in like the tower and the tower whatever you
+
+454
+00:38:11,008 --> 00:38:14,448
+would call it's not a cloud that's a little private bar all the way up in the
+
+455
+00:38:14,448 --> 00:38:18,748
+That would be great. Yeah yeah yeah. That would be fantastic. Well here let's go back.
+
+456
+00:38:18,748 --> 00:38:27,148
+Let's stick with Club 33. Okay well you want to talk food and such? Yeah because I also when you
+
+457
+00:38:27,148 --> 00:38:30,748
+talk about remodels and stuff that have happened there apparently was a room
+
+458
+00:38:30,748 --> 00:38:34,548
+called the trophy room that is not there anymore which I guess I recall now when
+
+459
+00:38:34,548 --> 00:38:44,428
+I was there five years ago I do have a picture there and it's a very like it's
+
+460
+00:38:44,428 --> 00:38:48,888
+product of its time so it's definitely what fancy people thought was like a
+
+461
+00:38:48,888 --> 00:38:55,388
+novel back in the 60s yeah yeah it is filled with I think Walt's original idea
+
+462
+00:38:55,388 --> 00:39:00,368
+was to have it filled with animatronic animals oh that didn't really happen but
+
+463
+00:39:00,368 --> 00:39:06,788
+we'll talk about the fanciest Chuck E. Cheese in the world yeah there are a lot
+
+464
+00:39:06,788 --> 00:39:12,548
+of mounted and stuff like game wild game animals yeah were there and then a lot
+
+465
+00:39:12,548 --> 00:39:18,688
+of photos and memorabilia including signed a signed fest part rifle signed by
+
+466
+00:39:18,688 --> 00:39:23,328
+fest Parker Davy Crockett and then a bottle of fest Parker wine signed by fest
+
+467
+00:39:23,328 --> 00:39:30,068
+Parker oh sweet I love the fest Parker wine that's cool yeah but so so my my
+
+468
+00:39:30,068 --> 00:39:36,208
+my cocktail it was a was called the trophy room cocktail as a tribute to the
+
+469
+00:39:36,208 --> 00:39:42,528
+what used to be there and apparently I was looking for something that like I
+
+470
+00:39:42,688 --> 00:39:48,228
+bartender at Le Salon Nouveau it was in the section Le Salon Nouveau originals
+
+471
+00:39:48,228 --> 00:39:54,268
+bourbon cognac maraschino, Cynar, whatever that is and bitters one of the best
+
+472
+00:39:54,268 --> 00:40:00,068
+drinks I've ever had insane so one of and like and high high content like
+
+473
+00:40:00,068 --> 00:40:04,528
+really good like the the thinnest drink there's like very little liquid in
+
+474
+00:40:04,528 --> 00:40:09,988
+there but man potent I was sailing it was great one of the best cocktails I've ever had
+
+475
+00:40:10,128 --> 00:40:15,668
+high marks for that I took picture because the drink menus were were
+
+476
+00:40:15,668 --> 00:40:20,088
+dressed up like you know old books yeah and then I was like oh that's a fun
+
+477
+00:40:20,088 --> 00:40:24,668
+container and then inside I'm like this is almost a novella length like there
+
+478
+00:40:24,668 --> 00:40:30,428
+were so many pages of drinks of like yeah the classic cocktails that are are
+
+479
+00:40:30,428 --> 00:40:36,288
+hard to find like you can they had a Vesper which is the drink James Bond
+
+480
+00:40:36,708 --> 00:40:43,268
+woulders in Casino Royale named after Vesper and it oh I I wanted to order it
+
+481
+00:40:43,268 --> 00:40:49,048
+and then I'm like no I will be under the tape because it's only vodka gin and
+
+482
+00:40:49,048 --> 00:40:52,748
+lilette which is I looked up or I asked someone and they're like oh it's a
+
+483
+00:40:52,748 --> 00:40:58,048
+fortified wine you would have been in the bathroom constantly for sure yeah as
+
+484
+00:40:58,048 --> 00:41:02,728
+it stands I forget the name I took pictures of the drink menus I did not
+
+485
+00:41:02,728 --> 00:41:07,968
+take a picture of the page the drink I ordered there's a picture I was like I
+
+486
+00:41:07,968 --> 00:41:14,408
+found a picture online it was called like a ship of the sea or something it
+
+487
+00:41:14,408 --> 00:41:19,368
+was called something was nautical both yeah you both laughed when I ordered it
+
+488
+00:41:19,368 --> 00:41:24,568
+oh really it's mostly it was rye and cherry bitters and something else
+
+489
+00:41:24,568 --> 00:41:31,088
+served up I think I just now I might I just have a base of enjoying listening
+
+490
+00:41:31,088 --> 00:41:35,288
+to you order in the wake of when we went to this City Walk Hotel or the
+
+491
+00:41:35,288 --> 00:41:42,568
+Universal Hotel and hearing you proudly say an apple strudel please it was done
+
+492
+00:41:42,568 --> 00:41:47,208
+with such gusto I feel like any probably just some boring drink item I would
+
+493
+00:41:47,208 --> 00:41:52,168
+enjoy hearing you order at this point yeah well look I know if I'm ordering
+
+494
+00:41:52,168 --> 00:42:01,068
+something a little sale with like a silly Dave or something I think you
+
+495
+00:42:01,108 --> 00:42:06,588
+are barely alcohol content you're gonna get at Club 33 can you make a
+
+496
+00:42:06,588 --> 00:42:12,068
+transformer I ordered their version of the transformer I think right well I
+
+497
+00:42:12,068 --> 00:42:15,968
+honestly I don't have like great photos of it I ordered the hurricane though I
+
+498
+00:42:15,968 --> 00:42:21,748
+think yeah you order the classic hurricane the paddle the original the
+
+499
+00:42:21,748 --> 00:42:26,908
+hurricane invented at Pat O'Brien's in New Orleans the drink and this was like
+
+500
+00:42:26,908 --> 00:42:32,388
+I didn't know the history version the original made with fresh fruit juices
+
+501
+00:42:32,388 --> 00:42:36,268
+and stuff nowadays I think people think oh a hurricane that's like syrup and
+
+502
+00:42:36,268 --> 00:42:40,168
+tea serve yeah I'm gonna get fucked up that looked very good although they
+
+503
+00:42:40,168 --> 00:42:43,608
+brought you a different drink yes I got double drinks you got double drinks and
+
+504
+00:42:43,608 --> 00:42:46,948
+they're like oh sorry we must have some wires got crossed just keep that one
+
+505
+00:42:46,948 --> 00:42:50,468
+we'll get your hurts you would do was the other one I'm trying to remember it
+
+506
+00:42:50,468 --> 00:42:54,008
+was kind of like a why it almost tastes like kind of a wine spritzer or something
+
+507
+00:42:54,008 --> 00:42:58,628
+it was very good it was like kind of like a subtly wine type of taste but I
+
+508
+00:42:58,628 --> 00:43:04,648
+don't remember the name of it did anyone just to refresh my memory did anybody
+
+509
+00:43:04,648 --> 00:43:14,248
+get the Louie the 13th rare cask cognac for $1,500 per one ounce serving I
+
+510
+00:43:14,248 --> 00:43:20,008
+stared at the cognac like locked cabinet uh-huh because those prices were truly
+
+511
+00:43:20,668 --> 00:43:27,608
+fascinating to like I didn't if I were sheer got eight of those right yeah and
+
+512
+00:43:27,608 --> 00:43:33,308
+had to be we had to call him a cab to get him home sure sure in a torius mess
+
+513
+00:43:33,308 --> 00:43:38,848
+yeah yeah yeah yeah and loves to spend money like loves him like loves a
+
+514
+00:43:38,848 --> 00:43:43,168
+$10,000 drink yeah he's like yeah this is this is nothing to me and then he
+
+515
+00:43:43,168 --> 00:43:48,988
+shoved all of us in the face I he's a monster usually has like a coke bottle
+
+516
+00:43:48,988 --> 00:43:55,628
+that he dumps the soda out of and pours crown into and he's like this is my fast
+
+517
+00:43:55,628 --> 00:44:03,848
+pass he kept saying this is my fast pass of course this is silly but we I get we
+
+518
+00:44:03,848 --> 00:44:08,108
+could probably say because he was Steve's you know joking around to everyone
+
+519
+00:44:08,108 --> 00:44:18,748
+with it that like he we stayed pretty late at the park and he's like I have to
+
+520
+00:44:19,528 --> 00:44:25,088
+she was working yeah she was shooting great of course well the fact that I had
+
+521
+00:44:25,088 --> 00:44:29,588
+forgotten that that she is in the cast of grace and Frankie as Jane Fonda's
+
+522
+00:44:29,588 --> 00:44:35,328
+daughter yeah which is a very fun so yeah impressive body of work June was oh
+
+523
+00:44:35,328 --> 00:44:48,728
+my god June was with Jane Fonda and sure was with Jason and Mike and Scott the
+
+524
+00:44:48,748 --> 00:44:54,348
+so all right so we're all we're all wasted on cognac we also ordered when
+
+525
+00:44:54,348 --> 00:45:01,748
+they asked if we wanted second like you and I both ordered beers like club 33
+
+526
+00:45:01,748 --> 00:45:06,608
+exclusive beer like I had a porter mm-hmm that they they explained they're
+
+527
+00:45:06,608 --> 00:45:11,948
+like oh this was made just for us it was aged in bourbon barrels that at one
+
+528
+00:45:11,948 --> 00:45:17,788
+point were used to make bourbon just for us oh cool and yeah sir they're like
+
+529
+00:45:17,788 --> 00:45:22,988
+it's a very small portion because it is potent and it was good it was like a very
+
+530
+00:45:22,988 --> 00:45:28,768
+I don't order dark beers a lot but I was very interesting like to have yeah this
+
+531
+00:45:28,768 --> 00:45:32,268
+beer there was another beer there was like a blonde ale made just for them
+
+532
+00:45:32,268 --> 00:45:36,488
+they're like we're out of that and oh I would have really enjoyed that I got
+
+533
+00:45:36,488 --> 00:45:42,028
+something that was well first but first I got a like giant goblet of wine that
+
+534
+00:45:42,028 --> 00:45:48,328
+was a Kurt Russell wine yeah so I'm drinking a Goldie that was that was a
+
+535
+00:45:48,328 --> 00:45:52,828
+blast and then I threw a beer on top of it and like walking up and we'd already
+
+536
+00:45:52,828 --> 00:45:58,908
+the meal had closed out and walking up to the bar and like paying for paying
+
+537
+00:45:58,908 --> 00:46:05,788
+for a big nice beer at the club 33 bar felt super cool and then we that post
+
+538
+00:46:05,788 --> 00:46:11,608
+our meal like we went outside to the veranda and said and like stood out
+
+539
+00:46:11,608 --> 00:46:15,228
+there I forget if you guys had drinks or not but I didn't we didn't you know but
+
+540
+00:46:15,228 --> 00:46:21,268
+then I like sipping a beer on a porch Disneyland incredible I do not take this
+
+541
+00:46:21,268 --> 00:46:26,988
+for granted that was super cool I felt just so like relaxed and posted the
+
+542
+00:46:26,988 --> 00:46:31,668
+picture yeah yeah yeah yeah yeah there's a little hint of where we were pretty
+
+543
+00:46:31,668 --> 00:46:39,608
+quickly caught on yeah yeah yeah it was there was so crowded too it truly felt
+
+544
+00:46:39,608 --> 00:46:45,448
+like you were we were king like kings ha ha ha we are here and quite like nice
+
+545
+00:46:45,448 --> 00:46:49,268
+air-conditioned we have a room to ourselves and I'll look at all of you
+
+546
+00:46:49,268 --> 00:46:54,488
+it's 85 degrees out and you can't move anywhere I am drinking a beverage that
+
+547
+00:46:54,488 --> 00:47:01,028
+you couldn't have in this park right tried until I until you've journeyed to
+
+548
+00:47:03,408 --> 00:47:10,508
+2019 until the evil Lucasfilm Empire yes sullies the park forever with the
+
+549
+00:47:10,508 --> 00:47:15,548
+novelty blue cocktail until Dexter Jekster serves you an alcoholic milkshake
+
+550
+00:47:15,548 --> 00:47:22,108
+at his diner well well we finally like as a return to form in tribute to the
+
+551
+00:47:22,108 --> 00:47:26,608
+old tobaccoist will will you be able to get deaths or death sticks were you
+
+552
+00:47:26,608 --> 00:47:29,448
+about to call him cancer sticks I was gonna call the cancer stuff fucked it up
+
+553
+00:47:29,448 --> 00:47:34,348
+I knew it was death yeah death sticks is the name for cigarettes and the prequels
+
+554
+00:47:34,348 --> 00:47:39,368
+oh that's really I have cigarettes and they call them death sticks Kenobi like
+
+555
+00:47:39,368 --> 00:47:45,728
+you know takes a trip to flavor country and one shot at Dexter Jeksters huh I
+
+556
+00:47:45,728 --> 00:47:49,888
+would just I would love that if they had a there's no way they're selling that
+
+557
+00:47:49,888 --> 00:47:57,348
+sticks at Galaxy's Edge vapes back in Galaxy's Edge there's no way I think
+
+558
+00:47:57,348 --> 00:48:04,668
+it's a good idea love Jules is the thing I've learned that's another cool
+
+559
+00:48:04,668 --> 00:48:11,468
+youngster thing you got me I don't know about jewel yeah by the federal
+
+560
+00:48:11,468 --> 00:48:17,188
+government or the New York State oh my god very cool movie past jewel all the
+
+561
+00:48:17,188 --> 00:48:22,628
+great companies currently under all the best all the best companies were founded
+
+562
+00:48:23,268 --> 00:48:29,608
+after 2012 all the coolest least corrupt most progressive CEOs hey I'm still
+
+563
+00:48:29,608 --> 00:48:34,208
+holding on to my Theranos that stock what's there I know there knows was the
+
+564
+00:48:34,208 --> 00:48:39,988
+blood testing startup that turned out to be a massive scam oh my god yeah and
+
+565
+00:48:39,988 --> 00:48:51,108
+this is very odd woman Elizabeth is Elizabeth Holmes I think like trying to
+
+566
+00:48:51,128 --> 00:48:56,708
+jobs and like it took a few years but there is a book out about it called bad
+
+567
+00:48:56,708 --> 00:49:02,888
+blood that they has been exited cheese cool and it's it's like a page turning
+
+568
+00:49:02,888 --> 00:49:09,128
+read like I've only read parts of the but it's like wow what a con like music
+
+569
+00:49:09,128 --> 00:49:13,668
+music man level con there's pictures of like Joe Biden touring this place of
+
+570
+00:49:13,668 --> 00:49:17,628
+like this is gonna revolutionize blood testing and they're gonna partner with
+
+571
+00:49:17,828 --> 00:49:23,968
+and it all just turned out wow I've never heard about any of this oh I can't
+
+572
+00:49:23,968 --> 00:49:28,908
+I can't wait for wait what's the name of the company Theranos there in us there
+
+573
+00:49:28,908 --> 00:49:33,028
+so this do we think Theranos has a corporate membership to club 33 or
+
+574
+00:49:33,028 --> 00:49:37,108
+juice oh yeah for sure crazy juice one where you could you could just squeeze
+
+575
+00:49:37,108 --> 00:49:43,868
+the packages yourself if not use the $400 $500 pressing machine it's a
+
+576
+00:49:44,308 --> 00:49:48,688
+you're paying for like a little prick the bag yeah you're paying for a
+
+577
+00:49:48,688 --> 00:49:56,208
+glorified sewing needle insane so it's really what you know in this situation
+
+578
+00:49:56,208 --> 00:50:03,028
+we are we are living like like CEOs essentially because like I don't think I
+
+579
+00:50:03,028 --> 00:50:05,768
+and looking into the history a little I didn't realize that a lot of the
+
+580
+00:50:05,768 --> 00:50:10,848
+memberships and the initial impetus for starting this place was it was to
+
+581
+00:50:11,128 --> 00:50:15,728
+entertain clients and sponsors right of Disneyland and that's a lot of the
+
+582
+00:50:15,728 --> 00:50:20,328
+memberships are like interchangeable like that company can send somebody to
+
+583
+00:50:20,328 --> 00:50:25,548
+I don't know what the companies are necessarily it's not public oh yeah I
+
+584
+00:50:25,548 --> 00:50:30,228
+guess I guess it wouldn't be but that's part but part of the the rumor about the
+
+585
+00:50:30,228 --> 00:50:37,208
+name is that 30 33 potentially was the number of sponsors at the time oh right
+
+586
+00:50:38,188 --> 00:50:43,468
+also but also 33 well people have said it's somewhere it's like mouse ears
+
+587
+00:50:43,468 --> 00:50:50,008
+turned on its side I think it's the address of the club is 33 Royal Street
+
+588
+00:50:50,008 --> 00:50:56,968
+yes but in terms of New Orleans Square storyline and might also be the address
+
+589
+00:50:56,968 --> 00:51:02,228
+on the liquor license yo and that's part of it's probably the literal need for a
+
+590
+00:51:02,228 --> 00:51:07,668
+an address was speed needed a separate address from Disneyland yeah but there's
+
+591
+00:51:07,668 --> 00:51:12,768
+also do you guys catch the crazy rumor but what club 33 refers to I don't know
+
+592
+00:51:12,768 --> 00:51:17,608
+like though that's how the Satanists greet each other it's you're not you're
+
+593
+00:51:17,608 --> 00:51:28,668
+not far off people think that Disney himself was a a 33rd degree Freemason oh
+
+594
+00:51:28,668 --> 00:51:33,708
+that's a level of Freemasonry that you can climb to and it's a it's a nod to
+
+595
+00:51:33,708 --> 00:51:38,568
+that and people have tried to pick apart like designs on the floor like this
+
+596
+00:51:38,568 --> 00:51:42,528
+spiral or whatever clearly is a reference to the to the Freemasons
+
+597
+00:51:42,528 --> 00:51:46,928
+that's like so I know like Denver Airport shit that's Denver Airport thing
+
+598
+00:51:46,928 --> 00:51:52,228
+oh the Denver Airport people like it is it's apparently a very odd architectural
+
+599
+00:51:53,128 --> 00:51:58,788
+creation and there's a lot of weird art and and people if I talked about this on
+
+600
+00:51:58,788 --> 00:52:02,488
+the show I feel like I've talked about this before but there's like art that
+
+601
+00:52:02,488 --> 00:52:06,568
+people are like no this is this is to summon the demon mullock and this is
+
+602
+00:52:06,568 --> 00:52:12,048
+like there's illuminati messages or Satanist messages which I think the
+
+603
+00:52:12,048 --> 00:52:16,708
+airport is now being refurbished and the Denver Airport is like having fun with
+
+604
+00:52:16,708 --> 00:52:21,208
+the urban legends and stuff like you know they should have find out what
+
+605
+00:52:21,208 --> 00:52:26,928
+secrets will be revealed yeah they're playing with it because it's now it's
+
+606
+00:52:26,928 --> 00:52:31,968
+just so old and such a thing it's a the mode it's a haunted Auntie Anne's yeah
+
+607
+00:52:31,968 --> 00:52:37,408
+it may also be a people mover that might be one of the few existing I believe
+
+608
+00:52:37,408 --> 00:52:41,908
+Houston had a Houston Airport has a people like a Disney a wed way people
+
+609
+00:52:41,908 --> 00:52:44,768
+yes I don't know about other words there's other other places have like
+
+610
+00:52:44,768 --> 00:52:50,108
+similar implements right I think theirs is an official Disney made anyway
+
+611
+00:52:50,308 --> 00:52:56,148
+I don't know that is bizarre that that's a 33 does have Freemason right
+
+612
+00:52:56,148 --> 00:53:01,768
+significance should I join the Freemasons sure how easy is it Evans I
+
+613
+00:53:01,768 --> 00:53:05,248
+don't know how much does that cost we talked about joining the Elks Lodge
+
+614
+00:53:05,248 --> 00:53:10,768
+yeah we should join the Elks Lodge like a like rotor rotary yeah and just hear
+
+615
+00:53:10,768 --> 00:53:16,448
+old men tell stories well I think that's what you go do this and oh shrimp boils
+
+616
+00:53:16,508 --> 00:53:22,768
+shrimp oils and like this I didn't realize that was part of it yeah there's
+
+617
+00:53:22,768 --> 00:53:27,188
+all kinds of cool clubs we could join in fact I was gonna propose to you guys
+
+618
+00:53:27,188 --> 00:53:35,688
+should should we like maybe the prep the perfect use of the patreon funds is to
+
+619
+00:53:35,688 --> 00:53:40,808
+just start a corporate membership for the three of the podcast the ride
+
+620
+00:53:41,968 --> 00:53:47,508
+corporate membership club 33 just all it all goes right to that I don't know you
+
+621
+00:53:47,508 --> 00:53:51,688
+know I know it's a great write-off we can entertain podcasts the important
+
+622
+00:53:51,688 --> 00:53:59,208
+podcast the right clients and guests you know like our girlfriends and wives I
+
+623
+00:53:59,208 --> 00:54:02,448
+think it's a good could be crucial to keeping up the relationships I don't
+
+624
+00:54:02,448 --> 00:54:06,128
+look I like what you're saying I think that it makes a lot of sense I think
+
+625
+00:54:06,168 --> 00:54:12,308
+maybe we start with Florida because it's cheaper I think initiation fee wise
+
+626
+00:54:12,308 --> 00:54:16,388
+all right okay I think there's one in each park and there's one in each park
+
+627
+00:54:16,388 --> 00:54:21,888
+new pretty new and the last very new yeah I think maybe they all are not even
+
+628
+00:54:21,888 --> 00:54:26,248
+open yet but I think it's they announced pricing for them so that's official and
+
+629
+00:54:26,248 --> 00:54:30,268
+I think they're like 25,000 to get in and then like 10,000 upkeep because I
+
+630
+00:54:30,268 --> 00:54:33,288
+think Disneyland if we want to do the good stuff it's a hundred grand now to
+
+631
+00:54:33,288 --> 00:54:38,988
+get in so maybe we start with Florida just because it's cheaper mm-hmm and then we
+
+632
+00:54:38,988 --> 00:54:44,488
+can entertain clients and it makes a lot of sense to have a membership to an
+
+633
+00:54:44,488 --> 00:54:49,548
+insanely expensive private club in your state across the country I think that's
+
+634
+00:54:49,548 --> 00:54:54,528
+right if we can get like some real Chappo Trap house fuck you patriot money
+
+635
+00:54:54,528 --> 00:54:59,588
+I think that's fair that if we start making that level of money sure yeah we
+
+636
+00:54:59,588 --> 00:55:03,288
+can do something dumb that it actually that it actually might behoove us that
+
+637
+00:55:03,288 --> 00:55:07,288
+it might be all right off if we make if you want to look up Chappo I forget how
+
+638
+00:55:07,288 --> 00:55:10,788
+much money they're making if we can make that amount of money we will send Jason
+
+639
+00:55:10,788 --> 00:55:17,188
+to Florida permanently and he will be a permanent on-the-ground cub reporter for
+
+640
+00:55:17,188 --> 00:55:22,428
+Florida so we can be bi-coastally represented he's looking to the sky and
+
+641
+00:55:22,428 --> 00:55:26,488
+he doesn't he's not upset about it well cuz I feel like last I saw they were
+
+642
+00:55:26,928 --> 00:55:35,008
+like a hundred thousand yes so now so now what we're asking people to do it's
+
+643
+00:55:35,008 --> 00:55:38,928
+not like okay help us out a little and then we can give you some fun bonus
+
+644
+00:55:38,928 --> 00:55:44,008
+episode we're relocating one of the hosts and I like to you know what I think
+
+645
+00:55:44,008 --> 00:55:48,888
+the issue would be if we were always Skyping with Jason they'd be it'd feel a
+
+646
+00:55:48,888 --> 00:55:53,108
+little impersonal and you wouldn't feel the dynamic presence of Jason in the room
+
+647
+00:55:53,108 --> 00:55:59,468
+T1 line it's a paper like t3 or or yeah well that could be a help in what I'm
+
+648
+00:55:59,468 --> 00:56:04,328
+proposing which is what maybe one better which is that way and an animatronic
+
+649
+00:56:04,328 --> 00:56:09,748
+Jason that he is operating like an avatar remotely yeah up to all of the
+
+650
+00:56:09,748 --> 00:56:14,148
+wires and the sensors like the guy programming the carousel of progress guy
+
+651
+00:56:14,148 --> 00:56:21,028
+so you what we need now we room and board for you in Florida and like phone
+
+652
+00:56:21,268 --> 00:56:24,488
+robot mechanism so that there can be a robot Jason here at all yeah here's what
+
+653
+00:56:24,488 --> 00:56:30,128
+we need we need three months of the El Chapo trap house patreon first month
+
+654
+00:56:30,128 --> 00:56:34,068
+hundred grand we can get you a house in Orlando for a hundred grand I was kind
+
+655
+00:56:34,068 --> 00:56:39,468
+of hoping for like whatever the highest suite at the boardwalk hotel you want
+
+656
+00:56:39,468 --> 00:56:50,288
+to live like telly at the boardwalk telly is probably healthier sloppy telly
+
+657
+00:56:50,288 --> 00:56:53,948
+tissue boxes on my feet as shoes that's gonna be a lot more expensive
+
+658
+00:56:53,948 --> 00:56:56,968
+unfortunately so maybe you're probably right so we're gonna have to up well
+
+659
+00:56:56,968 --> 00:57:01,868
+clearly all right latitude Margaritaville latitude Margaret that's
+
+660
+00:57:01,868 --> 00:57:05,428
+what I think we can do that I think that's two months worth of El Chapo
+
+661
+00:57:05,428 --> 00:57:09,148
+trap house we were looking at no no I screwed up yeah I can't screw it up
+
+662
+00:57:09,148 --> 00:57:17,648
+what's the highest level of patron and I think okay it's 33 grand a month which
+
+663
+00:57:17,648 --> 00:57:22,108
+gives you the satisfaction of knowing that your favorite host Jason has put up
+
+664
+00:57:22,108 --> 00:57:26,408
+in the nicest room and board possible we can get your family down there too like
+
+665
+00:57:26,408 --> 00:57:33,648
+telly yeah sure what would it be if we didn't move your parents also yeah I
+
+666
+00:57:33,648 --> 00:57:37,168
+think that's a great idea and then yeah paintings you need better but you need
+
+667
+00:57:37,168 --> 00:57:42,908
+to redecorate the suite also yeah oh 100% yeah this is a single visit to Club 33
+
+668
+00:57:42,908 --> 00:57:47,628
+has I'll put it on my so it's gone to my head I'm dreaming lavish tree yeah
+
+669
+00:57:47,628 --> 00:57:51,688
+I can't go back to coach because I've been in first class we're looted we're
+
+670
+00:57:51,688 --> 00:58:01,168
+mad mad now yeah I know we lost our minds yeah these new microphone stands
+
+671
+00:58:01,168 --> 00:58:05,028
+have really changed at Club 33 in these new microphone stands they've freed us
+
+672
+00:58:05,028 --> 00:58:09,368
+yes yeah expense number one microphone stands so you don't hear our wires
+
+673
+00:58:09,368 --> 00:58:15,568
+rustling around to relocation of a host in a robot in his place reasonable just
+
+674
+00:58:15,568 --> 00:58:19,168
+know that the page the patreon donations are going to real things that
+
+675
+00:58:19,168 --> 00:58:25,948
+we really yeah well so the food the food yeah so we order I had a cheeseburger I
+
+676
+00:58:25,948 --> 00:58:31,208
+had the cheeseburger so good it might be one of the best if you really cheeseburger I
+
+677
+00:58:31,208 --> 00:58:35,068
+it was yeah at least top two or three I don't even have the other examples of
+
+678
+00:58:35,068 --> 00:58:39,508
+what though are in the top three but I was like whoa this is legit awesome hmm
+
+679
+00:58:39,508 --> 00:58:43,408
+yeah and the fries were good very good but not like at the level of the
+
+680
+00:58:43,768 --> 00:58:50,268
+okay the cheeseburger had like bacon jam and it was a fancy cheeseburger
+
+681
+00:58:50,268 --> 00:58:54,348
+cheese they told us like just so you know the patty is made with the
+
+682
+00:58:54,348 --> 00:58:59,408
+trimmings of our sir Lloyd's and fillet so it is essentially a real right yes
+
+683
+00:58:59,408 --> 00:59:06,728
+exactly oh my god and that's like a rugel on it yeah and yeah like some what
+
+684
+00:59:06,728 --> 00:59:12,348
+was the cheese did you say that I had never it was it was similar to a brie
+
+685
+00:59:12,348 --> 00:59:16,148
+or like a goat cheese or something Andrews or post it I have a picture of
+
+686
+00:59:16,148 --> 00:59:22,088
+this yeah picture it was cheese squeezed out of the Big Thunder Mountain go they
+
+687
+00:59:22,088 --> 00:59:26,448
+had actually it produces cheese only for club 33 members and they were very
+
+688
+00:59:26,448 --> 00:59:31,368
+using robot I asked like oh do you because I was like oh the steak frites
+
+689
+00:59:31,368 --> 00:59:35,168
+are the burger and they're like the steak frites are steak frites but the
+
+690
+00:59:35,168 --> 00:59:41,908
+burger is very special yeah she pushed the burger and I choose right to do it
+
+691
+00:59:43,588 --> 00:59:50,768
+Andre cheese sauce Bernays tomato it's kind of like a tomato relish or
+
+692
+00:59:50,768 --> 00:59:57,888
+something and it cost $33 which I thought was very cute very cute yes very
+
+693
+00:59:57,888 --> 01:00:03,228
+charming I had a fancy fish thing that was great I don't remember a lot of
+
+694
+01:00:03,228 --> 01:00:07,528
+details about it but I love you know Carthay Circle makes really good fish
+
+695
+01:00:07,528 --> 01:00:11,508
+any whatever their catch of the day is always great oh yeah you had the catch
+
+696
+01:00:11,508 --> 01:00:15,708
+of the day and I remember it was served in lobster bisque cheese yes and they
+
+697
+01:00:15,708 --> 01:00:20,568
+caught it I would have like I think was lobster sausage yes or people like did
+
+698
+01:00:20,568 --> 01:00:25,048
+we are we do we sound horrible yeah it is a disgusting episode yeah and then we
+
+699
+01:00:25,048 --> 01:00:30,448
+then it was the most perfect sauce I'd ever have usually when I go to the park
+
+700
+01:00:30,448 --> 01:00:35,088
+like I stop at a grocery store to buy a bottle of water at a cliff bar ahead of
+
+701
+01:00:35,088 --> 01:00:39,448
+time so I don't have to yeah and I've like money there and I figured out all
+
+702
+01:00:39,448 --> 01:00:42,828
+the locations of the free water so that I don't have to buy a sunny
+
+703
+01:00:42,828 --> 01:00:49,688
+constantly yeah this is how it usually works this was a treat and we really
+
+704
+01:00:49,688 --> 01:00:56,208
+appreciate it and it was great we're not becoming monsters here's the test of
+
+705
+01:00:56,208 --> 01:01:00,108
+how when you will here's when we will become monsters is when you catch wind
+
+706
+01:01:00,108 --> 01:01:04,928
+that we go a lot and we don't talk about it that is when we truly will become
+
+707
+01:01:04,928 --> 01:01:08,628
+monsters because you will not hear about it we will keep our monster
+
+708
+01:01:08,648 --> 01:01:12,088
+monsters in his private right now we're just humble nice guys that are very
+
+709
+01:01:12,088 --> 01:01:15,208
+excited to go to a fancy place that we've dreamed about going yeah when
+
+710
+01:01:15,208 --> 01:01:18,188
+people on the social media are like hey I was in the park and I walked up to
+
+711
+01:01:18,188 --> 01:01:21,488
+what I thought was one of them and I said hey are you from podcast a ride and
+
+712
+01:01:21,488 --> 01:01:27,688
+and they wrote they replied no wouldn't make eye contact and walk away they
+
+713
+01:01:27,688 --> 01:01:33,808
+wish I used to be now I'm better they somebody walked under us while we were
+
+714
+01:01:33,808 --> 01:01:38,608
+on the balcony of Club 33 and they said podcast the ride guys save us and the
+
+715
+01:01:38,608 --> 01:01:46,568
+podcast the ride guys turned and said no hard rain hard rain hard rain fell on
+
+716
+01:01:46,568 --> 01:01:51,428
+New Orleans our rain of four dollar to Saudi water a school fall we know that
+
+717
+01:01:51,428 --> 01:01:56,468
+Club 33 is equipped with ropes you could pull us up to the balcony no drown
+
+718
+01:01:56,468 --> 01:02:08,588
+we're up here there's a reason we're up here I cheeseburger was great yeah so
+
+719
+01:02:08,588 --> 01:02:13,368
+so good I had so much catch of the day here's another weird Jason moment
+
+720
+01:02:13,368 --> 01:02:18,408
+because they said like oh it either comes like on a bed of a lobster bisque
+
+721
+01:02:18,408 --> 01:02:23,808
+or a bed of oyster stew and you heard it out you got excited to go to sleep I did
+
+722
+01:02:23,808 --> 01:02:29,428
+well I know what but I kind of cut in and I was like can I ask is it a
+
+723
+01:02:29,428 --> 01:02:34,868
+traditional oyster stew because traditional oyster stew is is you can
+
+724
+01:02:34,868 --> 01:02:39,628
+it in some set places in South Jersey it's mostly cream and some light spices
+
+725
+01:02:39,628 --> 01:02:45,188
+and fresh oysters it's pretty simple it's not the most robust flavor that's
+
+726
+01:02:45,188 --> 01:02:51,608
+a very acquired taste mm-hmm and it's very creamy and I they're like yes it's
+
+727
+01:02:51,608 --> 01:02:55,028
+prepared the traditional way and I was like yeah maybe get the bisque you did
+
+728
+01:02:55,028 --> 01:03:01,368
+help me out you gave me good tips and and the bend the wages was super helpful
+
+729
+01:03:01,368 --> 01:03:06,248
+and like recommended pretty like talked me through so much stuff it was it was
+
+730
+01:03:06,248 --> 01:03:10,208
+oh it was wonderful it was a wonderful like perfectly catered experience while
+
+731
+01:03:10,208 --> 01:03:17,028
+we listened to wonderful stories from our from our friends and guests and yeah
+
+732
+01:03:17,028 --> 01:03:22,928
+it was great time so also what another thing that happened is that Jason
+
+733
+01:03:22,928 --> 01:03:30,608
+celebrates his birthday like kind of for a month straight so like he had a
+
+734
+01:03:30,608 --> 01:03:35,408
+four days after my birthday but you are a birthday guy who loves to stretch it out
+
+735
+01:03:35,408 --> 01:03:39,348
+sign up for all these email programs that restaurants and stores have right
+
+736
+01:03:39,348 --> 01:03:43,828
+they've gotten pretty good they've gotten good this year I was very happy
+
+737
+01:03:43,828 --> 01:03:47,428
+because a lot of them were like this is good for the entirety of your birthday
+
+738
+01:03:47,428 --> 01:03:51,968
+but so I've not bought a lot of groceries no I know cuz you you are I
+
+739
+01:03:51,968 --> 01:03:59,928
+mean look I'm a guy who likes checking I'm a guy who likes deals I like to
+
+740
+01:04:01,088 --> 01:04:04,668
+promotions like just locked down I've never seen someone do it so much you'd
+
+741
+01:04:04,668 --> 01:04:09,408
+be like I have 12 free birthday lunches coming from various restaurants like you
+
+742
+01:04:09,408 --> 01:04:14,548
+have got it down I had a free pastry for breakfast for Panera on the drive down
+
+743
+01:04:14,548 --> 01:04:17,868
+yeah right I remember that and then you oh yeah because you were like hey do
+
+744
+01:04:17,868 --> 01:04:20,568
+you want this thing and you first you acted like you had just bought it for me
+
+745
+01:04:20,568 --> 01:04:26,388
+but then you know I asked if you wanted something and you say just get me what you get and I got a
+
+746
+01:04:27,008 --> 01:04:31,988
+you revealed it to me later as if like well I just in full disclosure I got it
+
+747
+01:04:31,988 --> 01:04:35,528
+for free you did say like you did I thought that was funny because like the
+
+748
+01:04:35,528 --> 01:04:39,848
+doughnuts they're just like no I just take it right which is another time when
+
+749
+01:04:39,848 --> 01:04:43,288
+you came over with doughnuts and you and the employee told you just take it we're
+
+750
+01:04:43,288 --> 01:04:46,668
+closing soon and I said it's like six o'clock they're not closing soon and
+
+751
+01:04:46,668 --> 01:04:49,648
+you're like I don't know right what do you mean all right that's that's I'm not
+
+752
+01:04:49,648 --> 01:04:50,828
+insulting you that's just what happened
+
+753
+01:04:50,828 --> 01:04:56,208
+yeah I know anyway sitting back and watching this is something the first no
+
+754
+01:04:56,208 --> 01:05:01,068
+no no scolds okay so this is so dessert related context for this all I was just
+
+755
+01:05:01,068 --> 01:05:03,528
+doing was goofing on you for celebrating your birthday for weeks I
+
+756
+01:05:03,528 --> 01:05:07,848
+wasn't goofing on you for getting those three donuts okay so you asked for the
+
+757
+01:05:07,848 --> 01:05:12,028
+button up for these look I got a free butter cake to go from California Pizza
+
+758
+01:05:12,028 --> 01:05:15,088
+Kitchen one day I was coming home from something I'm like oh I got a free
+
+759
+01:05:15,088 --> 01:05:18,868
+dessert and the fine print says you could do it for takeout so I sure walked
+
+760
+01:05:18,868 --> 01:05:23,788
+in and walked out with a piece of cake to eat it I believe I think that you have
+
+761
+01:05:23,788 --> 01:05:29,228
+some I think you have different drivers licenses every state in the country and
+
+762
+01:05:29,228 --> 01:05:33,728
+you do it do you do a birthday tour you it's a different birthday every three
+
+763
+01:05:33,728 --> 01:05:39,168
+weeks that is a great scam because you've worked out a string of CPKs and
+
+764
+01:05:39,168 --> 01:05:46,528
+Jersey mics yeah he's thinking about it also you should have bought went before
+
+765
+01:05:46,808 --> 01:05:50,928
+the upstar crow stopped selling those life fake licenses you should have just
+
+766
+01:05:50,928 --> 01:05:59,828
+bought those oh yeah it was right it's yeah it's apartments this I believe
+
+767
+01:05:59,828 --> 01:06:04,188
+there's you were born on John Lennon's death day it's a free egg roll you're
+
+768
+01:06:04,188 --> 01:06:09,188
+John Lennon you're oh you are John here you you want your free birthday scoop
+
+769
+01:06:09,188 --> 01:06:16,508
+but it says under restrictions diabetes I don't know if the good conscience I
+
+770
+01:06:17,068 --> 01:06:21,568
+there is a novelty drivers license the word that said Halle Berry's as it
+
+771
+01:06:21,568 --> 01:06:24,508
+mentioned that she has diabetes which is a fact that I didn't know and really
+
+772
+01:06:24,508 --> 01:06:28,688
+yeah I didn't know back to the city walk so basically so it does it can they
+
+773
+01:06:28,688 --> 01:06:32,748
+brought us dessert menu yeah well hold on going back a little bit one of my
+
+774
+01:06:32,748 --> 01:06:37,388
+favorite things is to go with you in the week surrounding your birthday because
+
+775
+01:06:37,388 --> 01:06:40,968
+you insist on the birthday button which is something I've never gotten it's like
+
+776
+01:06:40,968 --> 01:06:44,508
+too much attention for me for whatever reason but you get it and it's great
+
+777
+01:06:44,688 --> 01:06:47,988
+because everyone wishes you happy birthday yeah and sometimes you get
+
+778
+01:06:47,988 --> 01:06:50,888
+little and sometimes you get little treats which I guess honestly makes you
+
+779
+01:06:50,888 --> 01:06:54,528
+smarter than me because I should have to just do that every year one of my
+
+780
+01:06:54,528 --> 01:06:57,628
+favorite times we were walking down by the Grizzly challenge trail and a man
+
+781
+01:06:57,628 --> 01:07:01,808
+was playing like nice soft acoustic guitar and he's like happy birthday Jason
+
+782
+01:07:01,808 --> 01:07:06,128
+like I was like fantastic this is wonderful so we walked in and you got
+
+783
+01:07:06,128 --> 01:07:09,268
+asked for the birthday button and they say happy birthday so because you were
+
+784
+01:07:09,268 --> 01:07:15,268
+wearing that in club 33 they brought you a special dessert and you because no one
+
+785
+01:07:15,268 --> 01:07:19,428
+ordered dessert we got dessert menus and I'm like oh Valhura chocolate
+
+786
+01:07:19,428 --> 01:07:26,328
+absolutely chocolate mousse tart 100% but everyone else was like nah I don't
+
+787
+01:07:26,328 --> 01:07:33,708
+think they have a dessert and like your heart saint we heard it yeah and I
+
+788
+01:07:33,708 --> 01:07:39,248
+guess I could have pushed but I was also a little groggy from that burger was
+
+789
+01:07:39,828 --> 01:07:44,188
+really a lot yeah it was a lot the drinks for a lot so well the thing you
+
+790
+01:07:44,188 --> 01:07:48,488
+take me better for my body if I hadn't had full-size dessert I think the thing
+
+791
+01:07:48,488 --> 01:07:52,788
+is you take your cues from people who have taken you somewhere that's probably
+
+792
+01:07:52,788 --> 01:07:57,388
+if everyone had had a dirt road yeah so that's the only reason I would have
+
+793
+01:07:57,388 --> 01:08:01,068
+indulged with you that's all I'm just making an excuse yeah but they brought
+
+794
+01:08:01,068 --> 01:08:05,868
+me a very charming little dish of strawberry ice cream and a little Mickey
+
+795
+01:08:05,908 --> 01:08:11,408
+house butter cookie and it was delight it was actually worked out great was the
+
+796
+01:08:11,408 --> 01:08:16,348
+perfect amount of like sweet to have great yeah I know seeing you with a
+
+797
+01:08:16,348 --> 01:08:21,688
+little Mickey cookie on a plate on a oh yeah plate that was that was I have a
+
+798
+01:08:21,688 --> 01:08:26,908
+video of singing happy birthday to you oh that's nice so we can post that yeah
+
+799
+01:08:26,908 --> 01:08:32,588
+and they went you know this is the cookie you can get in the park it's just
+
+800
+01:08:32,588 --> 01:08:38,288
+a little bigger yeah that's what they hell yeah sure yeah right to your head
+
+801
+01:08:38,288 --> 01:08:43,888
+so that was fun again yeah usually I'm there like I'm walking in at the park
+
+802
+01:08:43,888 --> 01:08:47,968
+going like okay yeah this is my birthday child get the birthday button and then
+
+803
+01:08:47,968 --> 01:08:52,148
+maybe that'll get I can save some money on that this is that's the normal the
+
+804
+01:08:52,148 --> 01:08:56,528
+normal hustle to like you save money the day it actually is something we haven't
+
+805
+01:08:56,528 --> 01:09:01,688
+talked about off air or anything what is your I don't get let's all just try to
+
+806
+01:09:01,688 --> 01:09:06,688
+eliminate because we're talking a lot but like what is the birthday path you
+
+807
+01:09:06,688 --> 01:09:09,608
+take like what is the what are the places you have to hit when you have that
+
+808
+01:09:09,608 --> 01:09:14,208
+birthday button to try it yeah Disney I don't know I we're joking about but I
+
+809
+01:09:14,208 --> 01:09:19,068
+feel like I forget about it pretty quickly uh-huh there's not a specific
+
+810
+01:09:19,068 --> 01:09:22,048
+place you go oh you're like they're gonna give me a little this I didn't
+
+811
+01:09:22,048 --> 01:09:26,528
+have this on but when my family was last visiting we were eating at Napa Rose and
+
+812
+01:09:29,068 --> 01:09:35,028
+both it was like the week of it was right around both my dad's birthday and
+
+813
+01:09:35,028 --> 01:09:39,988
+and the person I was dating at the time's birthday and so I like snuck away
+
+814
+01:09:39,988 --> 01:09:45,628
+to the to our waiters to grab our waiter and like hey we have two birthdays and
+
+815
+01:09:45,628 --> 01:09:50,968
+and he's like oh okay I'll take care of it and so like after the meal they came
+
+816
+01:09:50,968 --> 01:09:55,028
+oh he's like I hear there's some we're celebrating some instances so what would
+
+817
+01:09:55,028 --> 01:10:00,488
+like for your your birthday desserts so he it wasn't like oh here's the little
+
+818
+01:10:00,488 --> 01:10:04,528
+birthday cupcake we have he brought the full dessert menu and whatever you two
+
+819
+01:10:04,528 --> 01:10:08,228
+oh wow he did once and then he looked at my brother and I were also there he's
+
+820
+01:10:08,228 --> 01:10:15,128
+like yeah you guys can order birthday dessert you can get this so like you
+
+821
+01:10:15,128 --> 01:10:20,768
+know that's like a few $40 $50 free thing at Napa Rose I will say this if
+
+822
+01:10:20,768 --> 01:10:25,608
+you haven't been to Napa Rose the level of service there is is very is pretty
+
+823
+01:10:25,608 --> 01:10:29,328
+close to Club 30 like they really take care of you there too I had a guy who
+
+824
+01:10:29,328 --> 01:10:33,668
+you know once I read an article that was of somebody who was I think
+
+825
+01:10:33,668 --> 01:10:37,428
+disappointed by the Club 33 experience or not maybe no it just like didn't
+
+826
+01:10:37,428 --> 01:10:42,368
+think it was like the greatest thing they'd ever they'd ever done even at a
+
+827
+01:10:42,368 --> 01:10:47,768
+Disney park particularly in terms of food quality and they argued that
+
+828
+01:10:47,768 --> 01:10:53,648
+Carthay and Napa Rose are both superior just pure food wise which is interesting
+
+829
+01:10:53,648 --> 01:11:00,388
+because Andrew Sutton the executive chef of Napa Rose was poached or shifted
+
+830
+01:11:00,388 --> 01:11:05,108
+over to be the newer executive chef of Club 33 oh interesting I didn't know
+
+831
+01:11:05,108 --> 01:11:09,248
+that huh this was an older article too so maybe that maybe the quality has
+
+832
+01:11:09,248 --> 01:11:17,348
+improved because of him so that makes sense but that's that's something I
+
+833
+01:11:17,348 --> 01:11:21,928
+don't feel like they will be lucky enough to get to go to Club 33 I had a
+
+834
+01:11:21,928 --> 01:11:26,988
+great time it was wonderful I don't this was not like some like earth
+
+835
+01:11:26,988 --> 01:11:31,508
+shatteringly incredible experience and you know that nor was the the food
+
+836
+01:11:31,508 --> 01:11:35,268
+exactly that's just the one thing I would say is like you know if you're
+
+837
+01:11:35,268 --> 01:11:40,088
+looking for top-tier nice Disney experiences Carthay and Napa Rose are
+
+838
+01:11:40,088 --> 01:11:45,608
+great and like super comparable mm-hmm to this I say just to like if you're
+
+839
+01:11:45,608 --> 01:11:50,888
+feeling like oh whoa is me I will never get to enter the Xanadu of Club 33
+
+840
+01:11:50,888 --> 01:11:56,768
+there's great those those places are like you know yeah right it right in
+
+841
+01:11:56,768 --> 01:12:00,588
+line yeah I mean your steakhouse 55 at the Disneyland Hotel supposed to be
+
+842
+01:12:00,588 --> 01:12:03,708
+pretty nice to I've never done I would like to do yeah I had a cheeseburger at
+
+843
+01:12:03,708 --> 01:12:08,228
+the bar once and it was very good I can't remember it was yeah I like that
+
+844
+01:12:08,228 --> 01:12:15,588
+bar it's a great chill option if Trader Sam's is just oh yeah going back to the
+
+845
+01:12:15,588 --> 01:12:20,968
+bottom of Trader Sam's is just out of oh yeah I mean like always yeah all the
+
+846
+01:12:20,968 --> 01:12:27,468
+time yeah well I don't know where what haven't we done we do well we mean we
+
+847
+01:12:27,468 --> 01:12:33,328
+Intermeal enjoyed enjoyed a truly relaxing beer on the verandah Club 33
+
+848
+01:12:33,328 --> 01:12:37,168
+where I forget if I said this on the podcast but I told it to you guys and
+
+849
+01:12:37,168 --> 01:12:45,568
+then the crafts how that in the previous time that I was a Club 33 that I had my
+
+850
+01:12:45,588 --> 01:12:51,648
+we got there before our before David Melissa who let us in and and we like
+
+851
+01:12:51,648 --> 01:12:58,308
+watched phantasmac finish out on that porch and I was like I had the ring I've
+
+852
+01:12:58,308 --> 01:13:02,508
+been like looking for the opportunity to pop the question to Aaron almost did it
+
+853
+01:13:02,508 --> 01:13:06,188
+there I was gripping it like is that this is pretty cool we're in this like
+
+854
+01:13:06,188 --> 01:13:11,168
+exclusive zone maybe maybe I do it and then I was like yeah but then we're like
+
+855
+01:13:11,348 --> 01:13:17,268
+the dinner will be so distracted by that like it'll be hey thanks for letting
+
+856
+01:13:17,268 --> 01:13:20,768
+us into this nice place anyway we just got engaged and that's more important
+
+857
+01:13:20,768 --> 01:13:23,508
+than I didn't want to end up in that scenario yeah
+
+858
+01:13:23,508 --> 01:13:27,768
+Disney Parks blog is here they wanted to write a nice little post about the
+
+859
+01:13:27,768 --> 01:13:36,448
+engagement yeah yeah Kayla cameras are on us now I don't but I don't but I was
+
+860
+01:13:36,448 --> 01:13:41,688
+very sad I that's another I've now I've between having a beer up there with y'all
+
+861
+01:13:41,688 --> 01:13:46,148
+and gripping my my wedding ring and thinking about popping the question five
+
+862
+01:13:46,148 --> 01:13:51,548
+years prior nice memories on that up on that porch and there's many memories that
+
+863
+01:13:51,548 --> 01:13:56,848
+come in Florida when we're constantly at Club 33 in all four parks when we shift
+
+864
+01:13:56,848 --> 01:14:02,948
+our operations on the coast yeah we could do a little Club 1901 well I mean I
+
+865
+01:14:03,408 --> 01:14:08,668
+think to to wrap up officially Club 33 oh it's a Disney attraction without the
+
+866
+01:14:08,668 --> 01:14:13,068
+gift shop yeah so so we walk out into the lobby and there's a big glass case
+
+867
+01:14:13,068 --> 01:14:16,948
+and I think I said I was like oh my god I didn't realize there'd be merch yeah
+
+868
+01:14:16,948 --> 01:14:20,308
+yeah there was some exclusive shag prints I think there was a print there
+
+869
+01:14:20,308 --> 01:14:25,728
+was a paint a shag piece in the lounge yeah made for the lounge mm-hmm and
+
+870
+01:14:25,728 --> 01:14:29,548
+there's a lot of like what they're like wine glasses with 33 the logo on it and
+
+871
+01:14:29,848 --> 01:14:40,668
+like polo shirts and a lot of golf stuff. That was the one thing. It's really saying like you know we know you're a rich guy you buy some of this golf crap.
+
+872
+01:14:40,928 --> 01:14:45,148
+That was what I found like I like a baseball cap that's like a little
+
+873
+01:14:45,148 --> 01:14:51,128
+distressed or a little you know a little beat up and it was very like the one
+
+874
+01:14:51,128 --> 01:14:56,348
+baseball cap they had was like had a lot of those like ventilation hole like it
+
+875
+01:14:56,848 --> 01:15:01,328
+was very like glossy and it's like yeah this is for golf people yes right for
+
+876
+01:15:01,328 --> 01:15:08,208
+the rich yeah so I immediately my eyes fixed I was like where the character I'm
+
+877
+01:15:08,208 --> 01:15:11,988
+looking for like anytime I'm there's merch I'm looking for the character and
+
+878
+01:15:11,988 --> 01:15:15,688
+he's sitting up here now on the mantle and I'm still not sure if we're gonna
+
+879
+01:15:15,688 --> 01:15:18,248
+take take him out of the box we could probably will take him out of the box
+
+880
+01:15:18,248 --> 01:15:22,608
+because he needs to have like a stand like he was in the box yeah that's a
+
+881
+01:15:22,608 --> 01:15:25,748
+nice box it's a nice box but also like if you go up it kind of looks cheap to
+
+882
+01:15:25,748 --> 01:15:29,508
+me if you really look at the box well it's got a vintage aesthetic too I think
+
+883
+01:15:29,508 --> 01:15:34,148
+that yeah I'm torn about it so so anyway they have like a very old looking
+
+884
+01:15:34,148 --> 01:15:37,828
+distressed Donald Duck not that distressed but he's like his color
+
+885
+01:15:37,828 --> 01:15:43,228
+palette looks like it's a classic Donald stuffed plush and I was like oh I'm gonna
+
+886
+01:15:43,228 --> 01:15:47,588
+guy was like probably making a noise on his little foot and on his little foot
+
+887
+01:15:47,588 --> 01:15:52,368
+is a 33 the logo is on his little foot and this poking it's I'll post a picture
+
+888
+01:15:52,368 --> 01:15:57,568
+of it online 33 owns him like Andy owns would exactly yes so this is the Donald
+
+889
+01:15:57,568 --> 01:16:03,108
+for the rich this is rich persons Donald from the 50s I was like having I was
+
+890
+01:16:03,108 --> 01:16:07,208
+like I don't need glass with stuff and and I turned around and I was like oh
+
+891
+01:16:07,208 --> 01:16:13,248
+there's a second display case and I'm like there's a keychain and I I love
+
+892
+01:16:13,248 --> 01:16:20,728
+like good quality part keychain like that is usually my little you know I buy
+
+893
+01:16:21,228 --> 01:16:26,448
+t-shirts I have a Disney World hat but I don't buy a ton of stuff at the park
+
+894
+01:16:26,448 --> 01:16:30,868
+I'm pretty picky about what I buy at the park but I like to have a little fun
+
+895
+01:16:30,868 --> 01:16:37,188
+theme park keychain especially just if you're like doing errands or stuff for
+
+896
+01:16:37,188 --> 01:16:40,868
+your like like going through the day it's like oh there's a little bit of
+
+897
+01:16:40,868 --> 01:16:45,608
+parks to cheer you up if you're in a bad mood or something mm-hmm so I've had a
+
+898
+01:16:45,608 --> 01:16:49,588
+Ministry of Magic keychain which I like Harry Potter I like Harry Potter fine
+
+899
+01:16:50,668 --> 01:16:57,248
+but mostly I bought it because I'm like I like the park specific like that this
+
+900
+01:16:57,248 --> 01:17:01,888
+was like hmm a lot of the Universal Harry Potter stuff is very good quality
+
+901
+01:17:01,888 --> 01:17:06,388
+very detailed and that's kind of why I bought it and now right walk it out for
+
+902
+01:17:06,388 --> 01:17:11,848
+a little while for this Club 33 keychain nice little blue in the logo I'll take a
+
+903
+01:17:11,848 --> 01:17:17,168
+picture of it me I haven't swapped it out yet it's still in the nice little bag
+
+904
+01:17:17,168 --> 01:17:18,648
+Oh really you haven't done it?
+
+905
+01:17:18,668 --> 01:17:23,428
+No, they gave me this cute this very charming Club 33 bag
+
+906
+01:17:23,428 --> 01:17:27,228
+hmm right that's Scott you almost weren't you like looking at the wine
+
+907
+01:17:27,228 --> 01:17:31,908
+glasses you were thinking about it yeah then maybe I didn't have done it
+
+908
+01:17:31,908 --> 01:17:35,828
+there did there needed to be more characters I think in the merch it's a
+
+909
+01:17:35,828 --> 01:17:40,708
+lot of like clothes and like let's wear the action figures right like oh you're
+
+910
+01:17:40,708 --> 01:17:46,888
+Club 33 specific action figures I want to see formerly poor characters hmm like
+
+911
+01:17:46,888 --> 01:17:53,328
+the Cinderella mice oh yeah that'd be great fancy and snooty yeah like holding
+
+912
+01:17:53,328 --> 01:17:59,508
+Club 33 scepters yeah there should be like a toy where like Belle goes through
+
+913
+01:17:59,508 --> 01:18:03,528
+the doors of Club 33 and comes out with the dress on the big yellow dress
+
+914
+01:18:03,528 --> 01:18:08,868
+the characters in Disney who become rich there should be some sort of diorama
+
+915
+01:18:08,868 --> 01:18:13,408
+that that happens I know a lot of the design inspiration you know they talk
+
+916
+01:18:13,408 --> 01:18:17,208
+when they were redoing it they talked about taking cues from Princess and the
+
+917
+01:18:17,208 --> 01:18:24,908
+Frog a lot oh cuz that's in New Orleans and you could also because there's a lot
+
+918
+01:18:24,908 --> 01:18:29,648
+there was a jazz festival coming off in the club oh so you could have a toys of
+
+919
+01:18:29,648 --> 01:18:35,368
+the aristocats in tuxedos oh but they're fancier yeah they're not street riff
+
+920
+01:18:35,368 --> 01:18:39,048
+riff yeah they got a great gig that's fine they're like set for the year from
+
+921
+01:18:39,108 --> 01:18:44,768
+this corporate gig there and they're playing way it's not like fun 40s scat
+
+922
+01:18:44,768 --> 01:18:51,088
+jazz it's like very syrupy corporate you know acoustic guitar right yeah it's
+
+923
+01:18:51,088 --> 01:18:57,288
+yeah they're playing bony James type jazz adult contemporary you talk about
+
+924
+01:18:57,288 --> 01:19:00,208
+the design of the place I want to hit the before before we move on I want to
+
+925
+01:19:00,208 --> 01:19:04,688
+hit the the the two people primarily responsible for how it looks around
+
+926
+01:19:04,688 --> 01:19:08,928
+there and I think other areas of New Orleans Square because if you walk around
+
+927
+01:19:08,928 --> 01:19:12,948
+the rest of New Orleans Square it's the same level of ornate and detailed and
+
+928
+01:19:12,948 --> 01:19:18,108
+feels very authentically New Orleans and the it was based on the club is based on
+
+929
+01:19:18,108 --> 01:19:24,348
+sketches commissioned from by Walt from Dorothea Redmond Dorothea Redmond was
+
+930
+01:19:24,348 --> 01:19:29,188
+is considered the first female production designer in Hollywood history
+
+931
+01:19:29,188 --> 01:19:34,628
+worked on Gone with the Wind worked worked extensively with Hitchcock was
+
+932
+01:19:34,628 --> 01:19:38,468
+the production designer of rear window and Rebecca Wow I didn't know that yeah
+
+933
+01:19:38,468 --> 01:19:45,088
+so she did sketches that like set the tone for like what you know Hitchcock
+
+934
+01:19:45,088 --> 01:19:49,148
+showed to his DP and whatever on those on those films I think she did six seven
+
+935
+01:19:49,148 --> 01:19:56,748
+films with the Hitchcock all told she designed the private room above Pirates
+
+936
+01:19:56,748 --> 01:20:02,408
+of the Caribbean that Walt was going to move into which all right that never
+
+937
+01:20:02,408 --> 01:20:06,648
+happened but they did turn it into the Disney Gallery did you guys ever get to
+
+938
+01:20:06,648 --> 01:20:11,108
+the Disney I love that Disney Gallery yeah yeah that was really really nice a
+
+939
+01:20:11,108 --> 01:20:15,688
+Tony Baxter installation in the late 80s at Disneyland and now it is now it's
+
+940
+01:20:15,688 --> 01:20:20,688
+enclosed again and it is the Disneyland Dream Suite the private now it's not
+
+941
+01:20:20,688 --> 01:20:26,348
+the dream it's a private dining room now private above Pirates yeah yeah that you
+
+942
+01:20:26,348 --> 01:20:33,088
+can get for like 15 grand something crazy yeah like if you pooled 15 people
+
+943
+01:20:33,608 --> 01:20:41,188
+together and they each had a few hundred dollars for a meal like it is it is the
+
+944
+01:20:41,188 --> 01:20:46,168
+next it is it might be one level up from Club 33 because it's such an ordeal
+
+945
+01:20:46,168 --> 01:20:50,228
+that's insanity yes I'm incredibly please you can stay anymore I don't
+
+946
+01:20:50,228 --> 01:20:54,808
+believe so oh interesting okay very right yeah she's amazing her body of
+
+947
+01:20:54,808 --> 01:20:59,008
+work she also apparently helped design the space needle in Seattle well they
+
+948
+01:20:59,008 --> 01:21:05,728
+lived till 98 what a badass amazing body and then the actual the actual
+
+949
+01:21:05,728 --> 01:21:11,488
+interior was designed by the set designer Emile Curie who did production
+
+950
+01:21:11,488 --> 01:21:16,548
+design for 20,000 Leagues Mary Poppins it's a wonderful life and Hitchcock's
+
+951
+01:21:16,548 --> 01:21:21,108
+rope man so the level of I think that that really adds to the the authenticity
+
+952
+01:21:21,108 --> 01:21:27,288
+it's not like some fake fancy experience right like the you're like the the best
+
+953
+01:21:27,908 --> 01:21:33,108
+Hitchcock people were creating this environment so so cool and I you know I
+
+954
+01:21:33,108 --> 01:21:35,108
+honestly didn't realize till we were there and I asked the waitress about
+
+955
+01:21:35,108 --> 01:21:40,268
+this that that Walt's I didn't realize he did not set foot in the place it was
+
+956
+01:21:40,268 --> 01:21:44,608
+a year or 67 yeah year after he died so this thing designed his specifications
+
+957
+01:21:44,608 --> 01:21:52,148
+like a perfect place for him and he never got to go but we did so yeah that is
+
+958
+01:21:53,288 --> 01:21:59,348
+she mentioned and we think we looked at on the way out he used to be in the
+
+959
+01:21:59,348 --> 01:22:07,988
+trophy room there was a turkey vulture oh and the there was a room set aside
+
+960
+01:22:07,988 --> 01:22:12,728
+for an actor to be in with a microphone and there were microphones scattered
+
+961
+01:22:12,728 --> 01:22:18,108
+through out the trophy room with the idea being the vulture would converse
+
+962
+01:22:18,108 --> 01:22:23,328
+with the guests now that never came to pass and the additional animatronics
+
+963
+01:22:23,328 --> 01:22:28,668
+never came to pass but when they redid it they mounted this turkey vulture in
+
+964
+01:22:28,668 --> 01:22:35,268
+the lobby of Club 33 and now he does like wake up and talk every now and yeah
+
+965
+01:22:35,268 --> 01:22:39,948
+we did get to see him talk and what did he say do you remember it was really
+
+966
+01:22:39,948 --> 01:22:45,268
+brief yeah he say hello or like good afternoon right and then we like rant
+
+967
+01:22:45,268 --> 01:22:48,588
+we were like oh hey and then like we stayed for like a minute and we're like
+
+968
+01:22:48,588 --> 01:22:54,188
+oh that's it huh nothing more happened but that like I'm three drinks in of
+
+969
+01:22:54,188 --> 01:22:58,288
+like three of the finest drinks I've ever had like great beer great line great
+
+970
+01:22:58,288 --> 01:23:02,428
+cocktail and then I'm talking to a vulture it this was a perfect little
+
+971
+01:23:02,428 --> 01:23:09,548
+zone of time just wonderful but I will say I will duck Alfred the vulture points
+
+972
+01:23:09,948 --> 01:23:15,388
+in that I do he is not well here my personal animatronic of the month this
+
+973
+01:23:15,388 --> 01:23:20,708
+was not my animatronic highlight it but that instead would have to be as we
+
+974
+01:23:20,708 --> 01:23:25,328
+talked about before we went on the knots log ride and the bear turned to us and
+
+975
+01:23:25,328 --> 01:23:30,908
+said trick-or-treat sure that was cooler I have to say then then the vulture sure
+
+976
+01:23:30,908 --> 01:23:39,528
+so you know this premium robot experiences a lot of other places but
+
+977
+01:23:39,528 --> 01:23:45,148
+to use the new mobile ordering system yeah I ran over to his side of the table
+
+978
+01:23:45,148 --> 01:23:48,768
+and I was showing him how to order a dole whip that's true yeah I was
+
+979
+01:23:48,768 --> 01:23:53,708
+watching Mike in heaven like showing teaching yeah one how to check I was
+
+980
+01:23:53,708 --> 01:23:57,308
+trying yeah I was trying to teach Scott that when we were there later and he was
+
+981
+01:23:57,308 --> 01:24:00,868
+like I said I don't care I'm getting in the regular line and I was like I don't
+
+982
+01:24:00,868 --> 01:24:05,508
+know and then to prove a point I mobile ordered I mean it wasn't really to prove
+
+983
+01:24:05,508 --> 01:24:08,788
+a point I was just trying to use this system because I like using it and then
+
+984
+01:24:08,788 --> 01:24:12,448
+we got like our food at the same time but I got to sit down the whole time
+
+985
+01:24:12,448 --> 01:24:16,648
+instead of standing in line you got to turn to me and give a little look like
+
+986
+01:24:16,648 --> 01:24:23,788
+hmm see self-satisfied yep no blurring so I don't know self figure it out but
+
+987
+01:24:23,788 --> 01:24:27,528
+at the mo we're like on the way over like we're almost there like next to the
+
+988
+01:24:27,528 --> 01:24:32,848
+thing but it's fun as we'll and it's fun to mobile order but we get over to
+
+989
+01:24:32,848 --> 01:24:36,688
+California venture head and scan the secret thing to get into 1901 I had
+
+990
+01:24:36,688 --> 01:24:41,808
+also got into that thanks to my friend David and the like I was I was so
+
+991
+01:24:41,808 --> 01:24:44,748
+excited we get to go in there again because if you've been in the car they
+
+992
+01:24:44,748 --> 01:24:52,088
+circle bar imagine getting a zone like that but to yourself and I by that point
+
+993
+01:24:52,088 --> 01:24:58,028
+I do stop dry like I must begin to sober up for him in trouble but I was so glad
+
+994
+01:24:58,028 --> 01:25:02,948
+that you Mike ordered a drink that came with an orb ice cube well it's yes like
+
+995
+01:25:02,948 --> 01:25:05,988
+so they have the same drink menu as the car they launch which we've been to
+
+996
+01:25:05,988 --> 01:25:10,488
+oh what not hungry like exclusive yeah right they had a couple of things but
+
+997
+01:25:10,488 --> 01:25:14,008
+like I don't know if any of us ordered because we were also just like well yeah
+
+998
+01:25:14,008 --> 01:25:17,188
+so what so I was asking because my favorite drink at the car they lounge is
+
+999
+01:25:17,188 --> 01:25:22,188
+a car they Manhattan which has a beautiful circular orb of ice and I
+
+1000
+01:25:22,188 --> 01:25:25,428
+don't know what did Richard say like they have the ice they'll show you how
+
+1001
+01:25:25,428 --> 01:25:28,888
+to like they'll make the ice for you uh-huh which we had not experienced at
+
+1002
+01:25:28,888 --> 01:25:33,168
+the lounge so I was asking away I was like do you make the ice at the bar or
+
+1003
+01:25:33,168 --> 01:25:36,548
+could you make he goes we can do it over here if you want I go well we got to do
+
+1004
+01:25:36,548 --> 01:25:43,628
+it so he brought the ice or making machine over to us and we got to see a
+
+1005
+01:25:43,628 --> 01:25:50,108
+circular perfect sphere of ice be made in front of us that they take a big cube
+
+1006
+01:25:50,108 --> 01:25:55,848
+right and using this gravity press machine it becomes a perfect sphere like
+
+1007
+01:25:55,848 --> 01:26:02,008
+like technology that's probably hasn't changed since the 30s yeah and it just
+
+1008
+01:26:03,028 --> 01:26:09,048
+slowly crushes it into an orb crazy bartending like the or I love this so
+
+1009
+01:26:09,048 --> 01:26:14,168
+much I would watch that I wish I would I'd pay an extra ten dollars at that
+
+1010
+01:26:14,168 --> 01:26:18,848
+lounge oh yeah the orb show that was that's how they made the orb that Trump
+
+1011
+01:26:18,848 --> 01:26:25,448
+at the Saudi Arabia leaders that was that insane anti-terrorism center they
+
+1012
+01:26:25,448 --> 01:26:30,428
+all realize the orb that was an ice orb too it was it was a cube first and then
+
+1013
+01:26:30,428 --> 01:26:35,108
+they said but only he who is pure of hearts can turn it into an orb and Trump
+
+1014
+01:26:35,108 --> 01:26:39,568
+of course the purest of heart and it became the most beautiful orb you've
+
+1015
+01:26:39,568 --> 01:26:47,568
+ever seen he's been doing great lately really killing it 1901 I mean 1901
+
+1016
+01:26:47,568 --> 01:26:51,468
+probably again we'll have to do a full episode on it but you know do we not
+
+1017
+01:26:51,468 --> 01:26:55,008
+everything has to be a full episode hey we got a patreon we got a fill of a
+
+1018
+01:26:55,008 --> 01:26:59,548
+patreon here is a cool what do you what sports cool lounge this cool photos like
+
+1019
+01:26:59,948 --> 01:27:03,648
+the effects that drinks great snacks I'm done well the effects that weren't
+
+1020
+01:27:03,648 --> 01:27:08,368
+working which there was that thing that looks there's tooth I think two of them
+
+1021
+01:27:08,368 --> 01:27:12,968
+oh we saw the one we saw the one they said look at this it's the worst
+
+1022
+01:27:12,968 --> 01:27:18,128
+animation you've ever seen oh it's it was a picture I think of Walt who were
+
+1023
+01:27:18,128 --> 01:27:22,248
+one of the other artists yeah sort of then the arm started to move and draw a
+
+1024
+01:27:22,248 --> 01:27:26,748
+character but it moved it like that wasn't jab.com yeah that wasn't great but
+
+1025
+01:27:26,748 --> 01:27:30,488
+there were two effects not working which they have wallpaper that look just looks
+
+1026
+01:27:30,488 --> 01:27:34,428
+like wallpaper but then once in a while there's like in a silhouette of Walt's
+
+1027
+01:27:34,428 --> 01:27:38,608
+that appears in like the wallpaper because 1901 lounge is named after the
+
+1028
+01:27:38,608 --> 01:27:42,668
+year he was born right so it's very it's a very cool effect supposedly that's
+
+1029
+01:27:42,668 --> 01:27:47,508
+what everyone says but it was not working the whole thing is very like
+
+1030
+01:27:47,508 --> 01:27:50,228
+there's a bar in there there's a lot of comfortable couches it feels very much
+
+1031
+01:27:50,228 --> 01:27:56,328
+like someone's was the word rumpus room is that the term like oh it hasn't been
+
+1032
+01:27:56,328 --> 01:28:00,188
+for many decades right but sure sure but you that is maybe what I would be
+
+1033
+01:28:00,188 --> 01:28:05,308
+referring to is that what a rumpus room was or no I thought it had a lot a lot of
+
+1034
+01:28:05,308 --> 01:28:11,808
+the study or a day bar but then a little bit of the sort of craftsman accents
+
+1035
+01:28:11,808 --> 01:28:17,588
+what room in the house would this be do you know he like a den or something
+
+1036
+01:28:17,588 --> 01:28:23,808
+room dad's room that's all my dad's dead yeah the dead or a rumpus room is you
+
+1037
+01:28:24,128 --> 01:28:28,248
+know I was gonna say rumpus room is appropriate because it's John that
+
+1038
+01:28:28,248 --> 01:28:35,188
+character that was created 70 years ago yeah and he makes a joke about it
+
+1039
+01:28:35,188 --> 01:28:43,608
+yeah John aka Jason so it's great I mean that was yeah that was wonderful it was
+
+1040
+01:28:43,608 --> 01:28:48,008
+a hell of a time great great stories from these folks this was this was just
+
+1041
+01:28:48,008 --> 01:28:54,228
+blast yeah yeah really really cool to have experienced it but we were we were
+
+1042
+01:28:54,228 --> 01:28:59,908
+talking about this last night that while it is a while it is a wonderful
+
+1043
+01:28:59,908 --> 01:29:04,268
+experience we had a wonderful time and wonderful meal it is I would not say
+
+1044
+01:29:04,268 --> 01:29:10,948
+that it is some mind-bending Lee incredible level of Disneyland access
+
+1045
+01:29:10,948 --> 01:29:15,088
+it's not as if like it's all very cool but there's no like thing that you get
+
+1046
+01:29:15,088 --> 01:29:18,588
+to do or thing that you get to I mean having a drink out on the porch is
+
+1047
+01:29:18,588 --> 01:29:22,668
+great but like I'm just I think I think what we were talking about is is there
+
+1048
+01:29:22,668 --> 01:29:27,908
+if you're gonna pay that amount of money thousands of dollars every year to be
+
+1049
+01:29:27,908 --> 01:29:33,628
+part of this club what is the the exclusive only for you experience that
+
+1050
+01:29:33,628 --> 01:29:38,068
+that the club 33 membership could provide yeah that would really
+
+1051
+01:29:38,068 --> 01:29:43,428
+deeply be worth all that money right and I think last night my first thought was
+
+1052
+01:29:43,428 --> 01:29:49,248
+if club 33 was in like the top of Space Mountain or something like if you if
+
+1053
+01:29:49,248 --> 01:29:53,108
+there was a bar the top of space money you look out over Disneyland there was
+
+1054
+01:29:53,108 --> 01:29:58,788
+like like something like that yeah like and everything was very very hyper
+
+1055
+01:29:58,788 --> 01:30:05,128
+stylized Space Mountain motif inside and like yeah if you could just generally
+
+1056
+01:30:05,128 --> 01:30:08,648
+like in the dark they don't really change anything but there's just like
+
+1057
+01:30:08,648 --> 01:30:13,408
+there's hallways and stuff there's like it's like a secluded little like bar
+
+1058
+01:30:13,788 --> 01:30:18,288
+zone that leads you I like I like what you're saying about at the top if there
+
+1059
+01:30:18,288 --> 01:30:22,728
+was some vista within Space Mountain right and then probably where you like
+
+1060
+01:30:22,728 --> 01:30:28,428
+really have your meal and hang is where the ships take off like where currently
+
+1061
+01:30:28,428 --> 01:30:32,688
+the employees are checking on the the Rockets but get them out of there move
+
+1062
+01:30:32,688 --> 01:30:36,908
+them somewhere I want to have a like a purple drink in there yeah that I mean
+
+1063
+01:30:36,908 --> 01:30:41,668
+like a blue bayou Space Mountain but exclusive club 33 yeah I almost think
+
+1064
+01:30:41,668 --> 01:30:46,508
+three people at a time I know that sure small so yeah let's not we're not filling
+
+1065
+01:30:46,508 --> 01:30:54,268
+that up yeah I want my exclusive rocket vista I almost feel like blue bayou if
+
+1066
+01:30:54,268 --> 01:30:59,308
+it was exclusive would be cooler mm-hmm than like if you could drink and blue
+
+1067
+01:30:59,308 --> 01:31:02,988
+bayou mm-hmm that was your exclusive club that kind of is a more highly
+
+1068
+01:31:02,988 --> 01:31:08,768
+themed experience but I like that it is open to everyone well of course I'm not
+
+1069
+01:31:08,768 --> 01:31:11,948
+saying shut blue bayou none I'm just saying it's a more themed experience
+
+1070
+01:31:11,948 --> 01:31:15,848
+that is true that is more yeah no I'm not saying the rich should only be able
+
+1071
+01:31:15,848 --> 01:31:22,328
+to access blue bayou we're starting to siphon off we're separating the cars
+
+1072
+01:31:22,328 --> 01:31:28,048
+every if there was a if there was a much fancier radiator Springs I want it like
+
+1073
+01:31:28,048 --> 01:31:34,508
+a butt like a book like a private I want a Maserati that's alive who like you know
+
+1074
+01:31:34,508 --> 01:31:41,228
+at the other cars and who all who wins every single time sure he'd like I don't
+
+1075
+01:31:41,228 --> 01:31:44,608
+know what kind of crowd on if Maserati's electric or whatever but it should be
+
+1076
+01:31:44,608 --> 01:31:49,808
+like super gas spewing right the people you should win against the other car
+
+1077
+01:31:49,808 --> 01:31:55,068
+guaranteed and a bunch of such should blow in their faces sure salt entry
+
+1078
+01:31:55,068 --> 01:32:01,508
+that's great yeah we got a I've got a add-on I've got a club 33 at oh go ahead
+
+1079
+01:32:02,068 --> 01:32:08,648
+yes you are you are given a key card and you to for the two for use at the
+
+1080
+01:32:08,648 --> 01:32:12,628
+Grand Californian and you check in at the front desk and they're like all right
+
+1081
+01:32:12,628 --> 01:32:18,088
+your nap suite is available and you're gonna because I mean that was a heavy
+
+1082
+01:32:18,088 --> 01:32:23,488
+heavy so it's like all right we will come and get you at the end of four
+
+1083
+01:32:23,488 --> 01:32:29,348
+hours so you have an hour to settle down get comfortable and then a ideal I
+
+1084
+01:32:29,548 --> 01:32:32,408
+suppose just under three hour nap because then you need to collect
+
+1085
+01:32:32,408 --> 01:32:37,308
+yourself so maybe you you use that hour 30 minutes before 30 minutes after to
+
+1086
+01:32:37,308 --> 01:32:42,648
+compose yourself you get a nice so now you're saying that then you come back to
+
+1087
+01:32:42,648 --> 01:32:46,888
+life and maybe they bring you that nice water at the end and then you're like we
+
+1088
+01:32:46,888 --> 01:32:52,208
+hope you enjoyed your stay so for 50 grand entrance and then like 10 to 25
+
+1089
+01:32:52,208 --> 01:32:57,328
+thousand a year you would if you could take a three hour nap at this a three
+
+1090
+01:32:57,328 --> 01:33:03,428
+hour nap in a really not and I feel like hourly hotels are you presented
+
+1091
+01:33:03,428 --> 01:33:11,028
+usually for seedy affairs frowns upon okay that's not a bad idea to add my so
+
+1092
+01:33:11,028 --> 01:33:14,628
+what the mind the thought I had during the show which I realized is is
+
+1093
+01:33:14,628 --> 01:33:20,888
+basically that the all the touches of of imagineering and theming are awesome in
+
+1094
+01:33:20,888 --> 01:33:24,668
+club 33 but it doesn't feel overwhelming which is sort of the feeling you want
+
+1095
+01:33:24,668 --> 01:33:28,888
+like a blue bayou it's like you're in it you're in the bayou whereas like oh
+
+1096
+01:33:28,888 --> 01:33:33,108
+those are awesome effects here and there but even like being in Trader Sam's to
+
+1097
+01:33:33,108 --> 01:33:37,628
+me feels like a little bit more of an immersive themed experience maybe not a
+
+1098
+01:33:37,628 --> 01:33:45,168
+little bit maybe a lot more so if it was like adventurers club 33 mmm and it was
+
+1099
+01:33:45,168 --> 01:33:53,428
+like as themed as that mm-hmm I think you'd obviously I'd have to be doing a
+
+1100
+01:33:53,788 --> 01:33:57,488
+cool with actors and like the effect which they never did but like you could
+
+1101
+01:33:57,488 --> 01:34:02,628
+talk to a ghost while you eat at the bar like if it was like that hardcore level
+
+1102
+01:34:02,628 --> 01:34:07,708
+theming I think at that point you're like me and I mean that's hundred
+
+1103
+01:34:07,708 --> 01:34:12,908
+thousand dollars but yeah I mean if you could hundred thousand dollars if I was
+
+1104
+01:34:12,908 --> 01:34:16,808
+a multi-millionaire I guess we're talking yeah there's no way if I like
+
+1105
+01:34:16,808 --> 01:34:22,148
+make a hundred grand that's something you order and the puppet general presents
+
+1106
+01:34:22,148 --> 01:34:25,568
+it to you the adventures club that drink that he would have which was just
+
+1107
+01:34:25,568 --> 01:34:30,288
+a bottle of Beefeaters but with like seven straws taped together so we could
+
+1108
+01:34:30,288 --> 01:34:35,688
+reach up to him that's fun so like something like that again if I was a
+
+1109
+01:34:35,688 --> 01:34:40,448
+multi multi-millionaire I would say I do want to go to that club a lot like
+
+1110
+01:34:40,448 --> 01:34:44,088
+cuz that would seem like it would be really worth it to keep going back I
+
+1111
+01:34:44,088 --> 01:34:47,088
+mean I get also that it would be this whole thing would have been more
+
+1112
+01:34:47,088 --> 01:34:51,548
+enticing back when you couldn't get liquor anywhere mm-hmm but now you can
+
+1113
+01:34:51,548 --> 01:34:56,468
+drink every so I've said many times you can walk 500 feet and get a drink so
+
+1114
+01:34:56,468 --> 01:35:01,868
+it's not a big deal and in highly themed great places yeah so yes you know like
+
+1115
+01:35:01,868 --> 01:35:06,728
+the point of like even if I had some money I still think like you probably
+
+1116
+01:35:06,728 --> 01:35:10,528
+would it doesn't make sense to pay for this unless it would they've turned it
+
+1117
+01:35:10,528 --> 01:35:21,528
+into something insane like crazy well that's mine mine would be I mean it's
+
+1118
+01:35:21,768 --> 01:35:26,588
+Kick em out oh yeah right I'm hanging in there now and that is a perfect
+
+1119
+01:35:26,588 --> 01:35:32,088
+vantage point for the big monitors and I want to be able to put whatever I want
+
+1120
+01:35:32,088 --> 01:35:36,508
+on that TV there's a game on I'm watching the game oh you love watching
+
+1121
+01:35:36,508 --> 01:35:43,528
+the game you know me yeah get the game on the big game I want for using the
+
+1122
+01:35:43,528 --> 01:35:49,568
+copyright free would term that we're allowed to use we can't even say the
+
+1123
+01:35:49,948 --> 01:35:58,008
+initials of the football organization you all know the big game yeah so I
+
+1124
+01:35:58,008 --> 01:36:03,328
+that's how Doritos frames it yeah but I want to be able to like imagine this you
+
+1125
+01:36:03,328 --> 01:36:08,068
+can like that maybe I don't want to cut it off from the the regular or you know
+
+1126
+01:36:08,068 --> 01:36:12,488
+a space crew it starts or closes at five o'clock every day it's a that's a
+
+1127
+01:36:12,488 --> 01:36:18,368
+private dining room I sit up there see 3PO and R2D2 talk to me they ask how was
+
+1128
+01:36:18,368 --> 01:36:23,408
+your meal sir well they should be the waitstaff R2 brings the stuff on his
+
+1129
+01:36:23,408 --> 01:36:27,588
+tray like he does a job as Palace yeah see 3PO is though it does you take your
+
+1130
+01:36:27,588 --> 01:36:33,528
+order and Rex is just like sloppy telly he's just it's his little comes out in a
+
+1131
+01:36:33,528 --> 01:36:38,668
+bathrobe and he chats with you and he you know he's got thoughts on the game
+
+1132
+01:36:38,668 --> 01:36:43,228
+cuz he's got money right he's got credits riding on it oh yeah yeah yeah
+
+1133
+01:36:43,228 --> 01:36:46,728
+and I want to hear how everything's going with him and Roxanne I think
+
+1134
+01:36:46,728 --> 01:36:50,828
+they're married and they're doing great and he is one of the top DJs in all of
+
+1135
+01:36:50,828 --> 01:36:55,668
+space he's he's in I want to hear all the wonderful details of Rex's wonderful
+
+1136
+01:36:55,668 --> 01:37:01,148
+life oh yeah he's making Steve Aoki like Vegas money now that's fuck you money
+
+1137
+01:37:01,148 --> 01:37:10,648
+yeah he's smashing his head into synthetic cakes so all right that's my if
+
+1138
+01:37:10,648 --> 01:37:16,468
+I could be I would pave to turn the Star Wars TV onto anything I want and to be
+
+1139
+01:37:16,468 --> 01:37:21,108
+best friends with Rex and now I'm paying 100 grand now all right well
+
+1140
+01:37:21,108 --> 01:37:25,488
+hundred grand for you to live in Star Tours hundred grand for me to have an
+
+1141
+01:37:25,488 --> 01:37:29,068
+adventures club or a space mountain hundred grand for Jason to nap in a
+
+1142
+01:37:29,068 --> 01:37:36,748
+theme park done everyone's on sort of game here I do have I only have one I
+
+1143
+01:37:36,748 --> 01:37:45,088
+should get a new one the figured out years ago where Disney supplies sources
+
+1144
+01:37:45,088 --> 01:37:49,668
+the pillows for the hotels for the night so it tells everybody for really like
+
+1145
+01:37:49,668 --> 01:37:55,548
+50 bucks bucks on Amazon save that for the Disney pillow patreon episode you're
+
+1146
+01:37:55,548 --> 01:37:59,568
+gonna lead the way on that one down is a pain in the ass to care care for though
+
+1147
+01:37:59,568 --> 01:38:02,788
+you can machine wash it but then you really have to dry it because it's a
+
+1148
+01:38:02,788 --> 01:38:06,448
+little wet hey save it for the episode save it for the pillow and we don't want
+
+1149
+01:38:06,448 --> 01:38:12,268
+to give that away here also I think the top tier are another perk of the 33,000
+
+1150
+01:38:12,828 --> 01:38:18,908
+the the the super patreon tier is to is to be able to watch Jason nap oh yeah a
+
+1151
+01:38:18,908 --> 01:38:30,248
+live cam of you nap all right you can access dot com slash you can make more
+
+1152
+01:38:30,248 --> 01:38:35,268
+like twitch you could like how you could sleep in pajamas that are branded so
+
+1153
+01:38:35,268 --> 01:38:42,248
+you're like you're sponsored getting money from Hewlett Packard you're
+
+1154
+01:38:42,788 --> 01:38:49,188
+like what is which is policy on like people sleeping Street or like ASMR
+
+1155
+01:38:49,188 --> 01:38:54,608
+stuff good question like ooh no we know there's some weirdness attached to it or
+
+1156
+01:38:54,608 --> 01:38:59,568
+they're like as long you don't do anything openly dirty you can do it hmm
+
+1157
+01:38:59,568 --> 01:39:02,648
+now I gotta look into well look into it you're the hip young one who knows what
+
+1158
+01:39:02,648 --> 01:39:09,108
+the hip apps and programs do and I yeah I know about jewels and corrupt Silicon
+
+1159
+01:39:09,808 --> 01:39:14,148
+Valley disgraced Silicon Valley blood testing companies and we're not we're
+
+1160
+01:39:14,148 --> 01:39:18,248
+not advertising blue chew yet on the main show oh you don't know about that
+
+1161
+01:39:18,248 --> 01:39:25,888
+Jesus anyway penis thing oh like yeah you know we're doing ads for a penis
+
+1162
+01:39:25,888 --> 01:39:29,728
+thing not yet no but a lot of podcasts these days are doing those oh really
+
+1163
+01:39:29,728 --> 01:39:34,948
+yeah why are we getting that penis money the blue chew penis money let's happily
+
+1164
+01:39:34,948 --> 01:39:38,928
+we'll ask forever dog although maybe we can negotiate that for just the patreon
+
+1165
+01:39:39,008 --> 01:39:43,328
+episodes Jason can cut a deal with the blue chew people on the side for just
+
+1166
+01:39:43,328 --> 01:39:47,488
+the patreon line of discussion at one of our business meet one of our
+
+1167
+01:39:47,488 --> 01:39:52,988
+organizational meeting I want to find out what like the ball enlarging pills
+
+1168
+01:39:52,988 --> 01:39:58,708
+we can get to sponsor the fun alright we got a show sponsored you by WWE's
+
+1169
+01:39:58,708 --> 01:40:03,588
+crown jewel oh boy that will have happened by the time people yeah that's
+
+1170
+01:40:03,588 --> 01:40:08,408
+true or not I know it'll happen but it will yeah all right we gotta go Jason to
+
+1171
+01:40:08,848 --> 01:40:13,008
+Saudi Arabia yep if we get enough money in the patreon you know what I'll put
+
+1172
+01:40:13,008 --> 01:40:19,108
+you in a box of mail you to Abu Dhabi that's the second time that's all right
+
+1173
+01:40:19,108 --> 01:40:22,388
+well we're here we're looping so we should wrap it up you survived podcast
+
+1174
+01:40:22,388 --> 01:40:26,808
+the ride the second gate hey thank you so much hope you're enjoying everything
+
+1175
+01:40:26,808 --> 01:40:30,608
+so far a lot more fun coming our way coming you're coming your way email us
+
+1176
+01:40:30,608 --> 01:40:38,388
+a podcast the right a gmail for more more stuff you want to hear or if you
+
+1177
+01:40:39,128 --> 01:40:48,508
+feel free to do that just the subject line fancy Dave's gold and they all the
+
+1178
+01:40:48,508 --> 01:40:53,988
+regular stuff thank you so much for your support it's been yeah it's very so
+
+1179
+01:40:53,988 --> 01:40:59,388
+encouraging and knowing that the audience is back debated and into it and
+
+1180
+01:40:59,388 --> 01:41:05,288
+in supportive we feel wonderful that so yeah thanks so much thank you all right
+
+1181
+01:41:05,288 --> 01:41:06,308
+we'll see you next time
+

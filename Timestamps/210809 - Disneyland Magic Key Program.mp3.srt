@@ -1,0 +1,9536 @@
+1
+00:00:00,000 --> 00:00:05,000
+Five, four, three, two, one.
+
+2
+00:00:21,200 --> 00:00:23,340
+Welcome to podcast the Rye the Second Gate
+
+3
+00:00:23,340 --> 00:00:25,820
+where today class is in session.
+
+4
+00:00:25,820 --> 00:00:28,720
+Please all rise for our national anthem.
+
+5
+00:00:28,720 --> 00:00:31,480
+We pledge allegiance to all of the podcasts
+
+6
+00:00:31,480 --> 00:00:34,460
+the Rye characters, the bad boys of Boston,
+
+7
+00:00:34,460 --> 00:00:37,900
+and of course Josh Demaro, the hunkiest Disney executive
+
+8
+00:00:37,900 --> 00:00:39,140
+in the history of the company
+
+9
+00:00:39,140 --> 00:00:41,280
+and of hunky men in general.
+
+10
+00:00:41,280 --> 00:00:43,960
+My name is Professor Mike Carlson.
+
+11
+00:00:43,960 --> 00:00:47,440
+Joining me as always Professor Jason Sheridan.
+
+12
+00:00:47,440 --> 00:00:49,200
+That's right, Michael is tenured
+
+13
+00:00:49,200 --> 00:00:53,280
+and I'm his associate or adjunct.
+
+14
+00:00:53,280 --> 00:00:54,880
+Yes, exactly.
+
+15
+00:00:54,880 --> 00:00:57,960
+But you kind of are like more like a penny
+
+16
+00:00:57,960 --> 00:01:01,680
+on Inspector Gadget where you know more than I do
+
+17
+00:01:01,680 --> 00:01:04,400
+even though I'm sort of the guy in charge.
+
+18
+00:01:04,400 --> 00:01:08,200
+I suppose that's right but you have more gadgets and such.
+
+19
+00:01:08,200 --> 00:01:09,920
+I do have more gadgets.
+
+20
+00:01:09,920 --> 00:01:13,640
+But here let's bring in our star pupil Scott Gardner here.
+
+21
+00:01:13,640 --> 00:01:17,000
+Well sorry, I'm hung up on the bad boys of Boston.
+
+22
+00:01:17,000 --> 00:01:18,400
+Are you Aerosmith you mean?
+
+23
+00:01:18,400 --> 00:01:19,720
+Oh I'm talking about Aerosmith, yeah.
+
+24
+00:01:19,720 --> 00:01:22,120
+I was pledging allegiance to Aerosmith, yeah.
+
+25
+00:01:22,120 --> 00:01:26,040
+So Aerosmith is enough of a tenant of the podcast for you
+
+26
+00:01:26,040 --> 00:01:28,800
+that to just put it in, not say their name
+
+27
+00:01:28,800 --> 00:01:31,640
+despite the fact we've never used that phrase.
+
+28
+00:01:31,640 --> 00:01:34,720
+Like that's clear, that's fine, people know.
+
+29
+00:01:34,720 --> 00:01:37,720
+I think I used that phrase on the last episode with Mookie.
+
+30
+00:01:37,720 --> 00:01:39,480
+I think I said the bad boys of Boston,
+
+31
+00:01:39,480 --> 00:01:42,080
+or I could be wrong, I used it once I'm pretty sure.
+
+32
+00:01:43,120 --> 00:01:45,560
+I guess it being recent might help.
+
+33
+00:01:45,560 --> 00:01:48,820
+But I still take issue with bad boys of Boston
+
+34
+00:01:48,820 --> 00:01:50,840
+being like well of course,
+
+35
+00:01:51,680 --> 00:01:53,200
+if when you listen to podcasts,
+
+36
+00:01:53,200 --> 00:01:54,560
+one of the main things you're gonna hear about
+
+37
+00:01:54,560 --> 00:01:56,560
+is the bad boys of Boston.
+
+38
+00:01:56,560 --> 00:01:58,720
+Well if you hear about the bad boys of Boston
+
+39
+00:01:58,720 --> 00:02:00,440
+from the bad boys of Burbank.
+
+40
+00:02:03,720 --> 00:02:04,920
+I can't argue with that.
+
+41
+00:02:04,920 --> 00:02:06,960
+I also texted Jason like two minutes ago and said,
+
+42
+00:02:06,960 --> 00:02:09,360
+who should we pledge allegiance to when we start class?
+
+43
+00:02:09,360 --> 00:02:10,200
+And he was like, I don't know,
+
+44
+00:02:10,200 --> 00:02:11,640
+the Boulevard of Broken Dreams?
+
+45
+00:02:11,640 --> 00:02:14,280
+And I was like, yeah I don't know, I'll say something.
+
+46
+00:02:14,280 --> 00:02:17,640
+Well you were mixing up national anthems and pledges
+
+47
+00:02:17,640 --> 00:02:19,840
+I realize in this moment.
+
+48
+00:02:19,840 --> 00:02:21,320
+You know what, we should honestly,
+
+49
+00:02:21,320 --> 00:02:22,280
+this looks kinda like this,
+
+50
+00:02:22,280 --> 00:02:23,460
+we should honestly just pledge
+
+51
+00:02:23,460 --> 00:02:25,840
+that we should be true to our school.
+
+52
+00:02:25,840 --> 00:02:27,840
+That is really what we should be saying.
+
+53
+00:02:29,080 --> 00:02:31,960
+As his heroes, the bad boys of.
+
+54
+00:02:31,960 --> 00:02:34,520
+Every girl or guy, yeah.
+
+55
+00:02:35,440 --> 00:02:38,160
+But not allegiance to loud braggarts.
+
+56
+00:02:38,160 --> 00:02:39,000
+Exactly.
+
+57
+00:02:39,000 --> 00:02:40,360
+We don't like loud braggarts.
+
+58
+00:02:42,560 --> 00:02:44,380
+This might be genuinely true
+
+59
+00:02:44,380 --> 00:02:46,920
+that that is my least favorite Beach Boys song.
+
+60
+00:02:46,920 --> 00:02:48,960
+That's maybe like an indefensible one.
+
+61
+00:02:49,120 --> 00:02:50,880
+And I like the crap.
+
+62
+00:02:50,880 --> 00:02:54,960
+I like their 1985 self-titled album
+
+63
+00:02:54,960 --> 00:02:56,960
+from the producer of Culture Club
+
+64
+00:02:56,960 --> 00:02:58,960
+where they started using drum machines.
+
+65
+00:03:00,040 --> 00:03:02,480
+Really, you don't like to be true to your school.
+
+66
+00:03:02,480 --> 00:03:04,440
+Be true to your school is a tough one to defend.
+
+67
+00:03:04,440 --> 00:03:07,360
+As I've said, my wife does not like the Beach Boys
+
+68
+00:03:07,360 --> 00:03:08,360
+and she'll bring that one up.
+
+69
+00:03:08,360 --> 00:03:10,200
+Like what about be true to your school?
+
+70
+00:03:10,200 --> 00:03:11,560
+And I'm like, yeah, I can't help.
+
+71
+00:03:11,560 --> 00:03:14,120
+I look, there's no defense there, I got no defense.
+
+72
+00:03:14,120 --> 00:03:17,560
+It's funny, it's like a funny novelty Beach Boys song.
+
+73
+00:03:17,560 --> 00:03:18,400
+I think that's the key.
+
+74
+00:03:19,080 --> 00:03:21,080
+Imagine if that had been done by something
+
+75
+00:03:21,080 --> 00:03:24,880
+by like the Summer Singers
+
+76
+00:03:24,880 --> 00:03:27,400
+and you never heard of the group again.
+
+77
+00:03:27,400 --> 00:03:28,320
+That would make sense.
+
+78
+00:03:28,320 --> 00:03:32,280
+Like that could be like a Monster Mash anomaly
+
+79
+00:03:34,080 --> 00:03:37,560
+from some crap band with no more hits.
+
+80
+00:03:37,560 --> 00:03:38,400
+Interesting.
+
+81
+00:03:38,400 --> 00:03:40,400
+I know what you're saying, but it's funny
+
+82
+00:03:40,400 --> 00:03:43,120
+because yeah, there is a lot of garbage in the catalog.
+
+83
+00:03:43,120 --> 00:03:45,080
+And I think that song is not offensive.
+
+84
+00:03:45,080 --> 00:03:46,680
+It's just maybe kind of, yeah,
+
+85
+00:03:46,680 --> 00:03:48,280
+it does feel a little more like a novelty song.
+
+86
+00:03:49,120 --> 00:03:51,400
+It's not as good as the good 60s music,
+
+87
+00:03:51,400 --> 00:03:54,840
+but it's not as funny bad as what they did
+
+88
+00:03:54,840 --> 00:03:57,080
+as they got older and crazier.
+
+89
+00:03:57,080 --> 00:03:58,440
+Right.
+
+90
+00:03:58,440 --> 00:03:59,600
+That's interesting.
+
+91
+00:03:59,600 --> 00:04:01,760
+Yeah, I need it to go either way.
+
+92
+00:04:01,760 --> 00:04:03,720
+I need one type of meat on that bone.
+
+93
+00:04:03,720 --> 00:04:05,000
+That's stuff you need to talk about
+
+94
+00:04:05,000 --> 00:04:07,400
+on your upcoming Beach Boys podcast.
+
+95
+00:04:07,400 --> 00:04:09,520
+Cause that's an interesting take I hadn't thought about.
+
+96
+00:04:09,520 --> 00:04:11,720
+I'm working the serious angle
+
+97
+00:04:11,720 --> 00:04:16,720
+cause I do think this has to be traditional radio
+
+98
+00:04:17,480 --> 00:04:18,920
+or else nobody's listening.
+
+99
+00:04:19,760 --> 00:04:20,600
+Yes, I agree.
+
+100
+00:04:20,600 --> 00:04:22,720
+Yes, that's probably right, but I don't know.
+
+101
+00:04:22,720 --> 00:04:25,760
+I think people would follow you from here.
+
+102
+00:04:25,760 --> 00:04:26,920
+I think there are some,
+
+103
+00:04:26,920 --> 00:04:28,440
+some people don't necessarily want to hear
+
+104
+00:04:28,440 --> 00:04:29,600
+about all this old music crap,
+
+105
+00:04:29,600 --> 00:04:31,400
+but I think we have some people that like that.
+
+106
+00:04:31,400 --> 00:04:34,240
+You're saying people would get in the T-bird
+
+107
+00:04:35,680 --> 00:04:38,240
+follow me for some fun, fun, fun.
+
+108
+00:04:39,280 --> 00:04:41,720
+Before the keys are taken away.
+
+109
+00:04:41,720 --> 00:04:45,760
+Yeah, hurry up before those keys get taken away.
+
+110
+00:04:46,160 --> 00:04:47,000
+Is that daddy?
+
+111
+00:04:47,000 --> 00:04:48,000
+Is that the line?
+
+112
+00:04:48,000 --> 00:04:50,160
+Daddy takes the T-bird away?
+
+113
+00:04:50,160 --> 00:04:51,000
+Yeah.
+
+114
+00:04:51,000 --> 00:04:51,840
+That'd be it.
+
+115
+00:04:51,840 --> 00:04:55,120
+Okay, so Josh, before Josh Demaro takes the T-bird away
+
+116
+00:04:55,120 --> 00:04:57,360
+is kind of how I think about it.
+
+117
+00:04:57,360 --> 00:04:59,200
+Cause he is daddy.
+
+118
+00:04:59,200 --> 00:05:01,200
+We all think of him as daddy, yes.
+
+119
+00:05:02,240 --> 00:05:05,920
+But you know, let's get actually to the topic, right?
+
+120
+00:05:05,920 --> 00:05:07,320
+Let's get in the mix.
+
+121
+00:05:07,320 --> 00:05:11,600
+Well, yeah, I guess I'm not rushing to.
+
+122
+00:05:11,600 --> 00:05:14,520
+If listeners can imagine this is not,
+
+123
+00:05:15,920 --> 00:05:19,520
+uh, I know that it'll be fun to do it,
+
+124
+00:05:19,520 --> 00:05:21,880
+but it is in some regards,
+
+125
+00:05:21,880 --> 00:05:24,880
+my worst nightmare of an episode.
+
+126
+00:05:24,880 --> 00:05:27,800
+This is because we're going over the ins and outs
+
+127
+00:05:27,800 --> 00:05:30,440
+of the magic key program,
+
+128
+00:05:30,440 --> 00:05:33,040
+which is the new annual past situation.
+
+129
+00:05:33,040 --> 00:05:35,160
+And I've already tweeted some stuff about this
+
+130
+00:05:35,160 --> 00:05:37,880
+and how it makes me insane genuinely.
+
+131
+00:05:37,880 --> 00:05:41,400
+And thus we, but people did say they would love to hear
+
+132
+00:05:41,400 --> 00:05:45,040
+an episode where this is explained to me.
+
+133
+00:05:46,000 --> 00:05:46,840
+You called your shot.
+
+134
+00:05:46,840 --> 00:05:48,320
+By my more knowledgeable co-hosts.
+
+135
+00:05:48,320 --> 00:05:49,360
+And I, yeah, yeah, yeah.
+
+136
+00:05:49,360 --> 00:05:50,200
+And that's correct.
+
+137
+00:05:50,200 --> 00:05:51,040
+That makes sense.
+
+138
+00:05:51,040 --> 00:05:51,920
+But I did, when you guys checked,
+
+139
+00:05:51,920 --> 00:05:54,920
+I did text a moan back to you.
+
+140
+00:05:54,920 --> 00:05:55,760
+That's right.
+
+141
+00:05:55,760 --> 00:05:57,200
+Not a good moan, an annoyed moan.
+
+142
+00:05:57,200 --> 00:05:58,200
+That's right.
+
+143
+00:05:58,200 --> 00:06:01,080
+And I did say, I don't have to do any prep, right?
+
+144
+00:06:01,080 --> 00:06:01,920
+That's right.
+
+145
+00:06:01,920 --> 00:06:04,440
+And we agreed and we agreed that,
+
+146
+00:06:04,440 --> 00:06:07,760
+loosely agreed that the end of this episode will be,
+
+147
+00:06:07,760 --> 00:06:09,600
+there will be a quiz.
+
+148
+00:06:09,600 --> 00:06:12,440
+Oh, I guess, oh God, I kind of remembered that.
+
+149
+00:06:12,440 --> 00:06:13,280
+There is a 20.
+
+150
+00:06:13,280 --> 00:06:15,040
+I knew you would take it literally.
+
+151
+00:06:15,040 --> 00:06:18,400
+Jason and I have put together a 20 question quiz for you
+
+152
+00:06:18,400 --> 00:06:19,520
+at the end. 20?
+
+153
+00:06:19,520 --> 00:06:20,720
+What do you mean?
+
+154
+00:06:20,720 --> 00:06:22,800
+Nice even number, you know?
+
+155
+00:06:22,800 --> 00:06:24,480
+And the listeners at home. That can't be true.
+
+156
+00:06:24,480 --> 00:06:25,320
+It is very true.
+
+157
+00:06:25,320 --> 00:06:26,960
+We have all the questions written.
+
+158
+00:06:26,960 --> 00:06:30,280
+I just went through them and ordered them in the right way.
+
+159
+00:06:30,280 --> 00:06:31,680
+And yes, the listener.
+
+160
+00:06:31,680 --> 00:06:34,000
+That is more than has ever been in any sort of
+
+161
+00:06:34,000 --> 00:06:37,560
+questionnaire segment on any podcast.
+
+162
+00:06:37,560 --> 00:06:39,200
+Some of them are pretty quick.
+
+163
+00:06:39,200 --> 00:06:42,640
+There's some that like, you know, some are multi-part.
+
+164
+00:06:42,640 --> 00:06:43,480
+Yeah, a lot of true false.
+
+165
+00:06:43,480 --> 00:06:44,560
+A lot of true false.
+
+166
+00:06:44,560 --> 00:06:45,400
+So it'll be quick.
+
+167
+00:06:45,400 --> 00:06:46,800
+If you know it, you don't, don't worry.
+
+168
+00:06:46,800 --> 00:06:48,600
+We'll count, we whatever.
+
+169
+00:06:48,600 --> 00:06:50,200
+And then there is one essay question,
+
+170
+00:06:50,200 --> 00:06:53,520
+a verbal essay at the end that you'll have to answer.
+
+171
+00:06:53,520 --> 00:06:54,400
+And this is gonna be fun
+
+172
+00:06:54,400 --> 00:06:56,120
+because the listeners will get to do it at home.
+
+173
+00:06:56,120 --> 00:06:58,080
+They will get to get, you will need, by the way, Scott,
+
+174
+00:06:58,080 --> 00:06:59,280
+you will need a pen and paper
+
+175
+00:06:59,280 --> 00:07:01,480
+because there is some math on the test.
+
+176
+00:07:01,480 --> 00:07:02,320
+Oh, gee.
+
+177
+00:07:02,320 --> 00:07:03,160
+Probably good.
+
+178
+00:07:03,160 --> 00:07:04,240
+And you may need to work on it.
+
+179
+00:07:04,240 --> 00:07:05,080
+Yeah.
+
+180
+00:07:05,080 --> 00:07:05,920
+I do have those.
+
+181
+00:07:05,920 --> 00:07:06,800
+We really should have, yeah,
+
+182
+00:07:06,800 --> 00:07:08,560
+I should have told you before we started recording.
+
+183
+00:07:08,560 --> 00:07:09,680
+Oh dear God.
+
+184
+00:07:09,680 --> 00:07:10,920
+That is coming at the end.
+
+185
+00:07:10,960 --> 00:07:11,960
+And forgive me,
+
+186
+00:07:11,960 --> 00:07:13,680
+because we may not go over all the things
+
+187
+00:07:13,680 --> 00:07:15,120
+that are on the quiz.
+
+188
+00:07:15,120 --> 00:07:15,960
+So it might not be.
+
+189
+00:07:15,960 --> 00:07:17,800
+Yeah, so wait, how am I supposed to,
+
+190
+00:07:17,800 --> 00:07:19,960
+I might do some educated guesses.
+
+191
+00:07:19,960 --> 00:07:21,160
+No, no, we're gonna go over a lot of it,
+
+192
+00:07:21,160 --> 00:07:22,920
+but there might be one or two things we missed.
+
+193
+00:07:22,920 --> 00:07:24,680
+So I apologize if that happens.
+
+194
+00:07:24,680 --> 00:07:26,760
+It's like the SATs, you know,
+
+195
+00:07:26,760 --> 00:07:28,920
+they're not necessarily testing you on knowledge.
+
+196
+00:07:28,920 --> 00:07:32,120
+They're testing you on, you know, ability to like,
+
+197
+00:07:32,120 --> 00:07:34,160
+eliminate like, well, I know it's not that,
+
+198
+00:07:34,160 --> 00:07:36,240
+I know it's not that, so I narrow it down
+
+199
+00:07:36,240 --> 00:07:37,360
+and then take my best guess.
+
+200
+00:07:37,360 --> 00:07:39,000
+We need to know like how good you are
+
+201
+00:07:39,000 --> 00:07:41,400
+in sort of knowing Disney in general.
+
+202
+00:07:41,400 --> 00:07:43,480
+That's really more what we're testing versus actually
+
+203
+00:07:43,480 --> 00:07:46,120
+knowing the fine print of the Magic Key.
+
+204
+00:07:46,120 --> 00:07:48,800
+Why do you need to know anything about me?
+
+205
+00:07:48,800 --> 00:07:51,720
+You know, that's just what the college board says.
+
+206
+00:07:51,720 --> 00:07:54,400
+It's good to have testing once in a while for each other.
+
+207
+00:07:54,400 --> 00:07:56,200
+I mean, I think we should be testing each other
+
+208
+00:07:56,200 --> 00:07:57,720
+periodically over the, you know,
+
+209
+00:07:57,720 --> 00:07:59,880
+every couple months running drills.
+
+210
+00:07:59,880 --> 00:08:02,640
+Running drills to know that we're still sort of, yeah,
+
+211
+00:08:02,640 --> 00:08:04,880
+knowledgeable on top of all of this stuff.
+
+212
+00:08:04,880 --> 00:08:06,720
+Yeah, so.
+
+213
+00:08:06,720 --> 00:08:08,360
+That is at the end of the episode.
+
+214
+00:08:08,360 --> 00:08:11,560
+The thing is, I think this is required because like,
+
+215
+00:08:11,560 --> 00:08:15,920
+look, people have, no, because I'm people's like,
+
+216
+00:08:15,920 --> 00:08:17,720
+friend who likes theme parks,
+
+217
+00:08:17,720 --> 00:08:20,160
+I have been turned to in a couple of texts
+
+218
+00:08:20,160 --> 00:08:22,480
+for explanations about this stuff.
+
+219
+00:08:22,480 --> 00:08:25,360
+And really for the first time in a long time,
+
+220
+00:08:25,360 --> 00:08:28,000
+I have had to say, I don't fucking know.
+
+221
+00:08:28,000 --> 00:08:30,880
+This thing is so confusing to me.
+
+222
+00:08:30,880 --> 00:08:33,000
+And so when you say like,
+
+223
+00:08:33,000 --> 00:08:35,120
+how many reservations can you hold?
+
+224
+00:08:35,120 --> 00:08:36,400
+And when does that run out?
+
+225
+00:08:36,400 --> 00:08:38,720
+And when do you get to put a new one in?
+
+226
+00:08:38,720 --> 00:08:40,040
+I don't know.
+
+227
+00:08:40,040 --> 00:08:42,000
+Maybe I just haven't put in the time.
+
+228
+00:08:42,000 --> 00:08:45,120
+Maybe it's all too annoying to put in the time.
+
+229
+00:08:45,120 --> 00:08:47,320
+But I would like to think that there are some listeners
+
+230
+00:08:47,320 --> 00:08:49,040
+out there who are Scott's.
+
+231
+00:08:49,040 --> 00:08:51,800
+I know this is true because on Twitter,
+
+232
+00:08:51,800 --> 00:08:53,040
+there were people who said,
+
+233
+00:08:53,040 --> 00:08:53,960
+I think people were even like,
+
+234
+00:08:53,960 --> 00:08:55,480
+I don't know if I want to side with Scott.
+
+235
+00:08:55,480 --> 00:08:57,760
+I'd prefer not to, but I have to admit,
+
+236
+00:08:57,760 --> 00:08:59,480
+I'm baffled by all of this.
+
+237
+00:08:59,480 --> 00:09:03,080
+So I think I am a stand in for, you know,
+
+238
+00:09:03,080 --> 00:09:06,800
+if not half the audience, then maybe, you know, 4%.
+
+239
+00:09:06,800 --> 00:09:07,640
+Yeah.
+
+240
+00:09:07,640 --> 00:09:11,640
+And just to be clear in case listeners, you know,
+
+241
+00:09:11,640 --> 00:09:13,400
+kind of are lost,
+
+242
+00:09:13,400 --> 00:09:16,840
+the Magic Key program is Disneyland's replacement
+
+243
+00:09:16,840 --> 00:09:19,120
+for the old annual pass holder program,
+
+244
+00:09:19,120 --> 00:09:24,120
+which they use the pandemic excuse to totally wipe out
+
+245
+00:09:24,200 --> 00:09:29,040
+and just start from zero with a new annual pass holder program,
+
+246
+00:09:29,040 --> 00:09:31,000
+which is called Magic Key.
+
+247
+00:09:31,000 --> 00:09:35,320
+A reference back, a reference to the coupon
+
+248
+00:09:35,320 --> 00:09:37,720
+that used to come in A through E ticket books,
+
+249
+00:09:37,720 --> 00:09:42,400
+the Magic Key coupon could be turned in for any attraction.
+
+250
+00:09:42,400 --> 00:09:44,560
+It's a reference to what?
+
+251
+00:09:44,560 --> 00:09:47,520
+Who, this is, no one knows this reference.
+
+252
+00:09:47,520 --> 00:09:48,960
+You're learning already.
+
+253
+00:09:48,960 --> 00:09:50,480
+Does anyone know that already?
+
+254
+00:09:50,480 --> 00:09:53,080
+I had a feeling it was something like that
+
+255
+00:09:53,080 --> 00:09:57,120
+because I think Key to the World used to be something
+
+256
+00:09:57,120 --> 00:09:58,440
+they would use in Florida.
+
+257
+00:09:58,480 --> 00:10:03,480
+So I thought it was something like that here.
+
+258
+00:10:03,640 --> 00:10:05,880
+You can see that you've seen this picture before.
+
+259
+00:10:05,880 --> 00:10:07,400
+You've seen this image before.
+
+260
+00:10:07,400 --> 00:10:08,360
+I don't think I have.
+
+261
+00:10:08,360 --> 00:10:11,480
+You're showing something that is the style of the E tickets,
+
+262
+00:10:11,480 --> 00:10:14,000
+the old tickets that you used to use on rides
+
+263
+00:10:14,000 --> 00:10:16,600
+when you paid per ride at Disney.
+
+264
+00:10:16,600 --> 00:10:18,040
+And I recognize that pattern,
+
+265
+00:10:18,040 --> 00:10:20,920
+but no, I've never seen this big pink key
+
+266
+00:10:20,920 --> 00:10:23,720
+and it says Magic Key coupon.
+
+267
+00:10:23,720 --> 00:10:25,000
+Magic Key coupon.
+
+268
+00:10:25,000 --> 00:10:27,560
+I did not know this reference.
+
+269
+00:10:27,560 --> 00:10:29,080
+I'm not gonna pretend I'm some genius.
+
+270
+00:10:29,080 --> 00:10:31,920
+This is a fresh new old reference to me.
+
+271
+00:10:31,920 --> 00:10:33,480
+Pull that back up, Jason, real quick.
+
+272
+00:10:33,480 --> 00:10:35,320
+Sure, yeah.
+
+273
+00:10:35,320 --> 00:10:38,080
+This is a screenshot of a website
+
+274
+00:10:38,080 --> 00:10:42,160
+that you pulled that explains what this is.
+
+275
+00:10:42,160 --> 00:10:45,840
+Yeah, I pulled this screenshot from the Disney tourist blog.
+
+276
+00:10:45,840 --> 00:10:47,720
+Disney tourist blog and theme park insider
+
+277
+00:10:47,720 --> 00:10:51,920
+have pretty good explainers about how this program works.
+
+278
+00:10:51,920 --> 00:10:56,040
+Well, here's what I'm noticing is on a fun note,
+
+279
+00:10:56,040 --> 00:10:58,800
+the name Magic Key is a nice nod to the past
+
+280
+00:10:58,800 --> 00:11:01,120
+with the E on a fun note.
+
+281
+00:11:01,120 --> 00:11:04,280
+I found one error in the beginning of this paragraph.
+
+282
+00:11:04,280 --> 00:11:05,120
+This is not a fun note.
+
+283
+00:11:05,120 --> 00:11:06,480
+That's commentary from the blog
+
+284
+00:11:06,480 --> 00:11:08,640
+and they know their audience.
+
+285
+00:11:08,640 --> 00:11:11,880
+There's a reason they're the first result
+
+286
+00:11:11,880 --> 00:11:12,880
+on a lot of searches.
+
+287
+00:11:12,880 --> 00:11:15,840
+I'll say, Jason, sorry, I cut you off.
+
+288
+00:11:15,840 --> 00:11:16,680
+Oh, go ahead.
+
+289
+00:11:16,680 --> 00:11:17,800
+I was just gonna say, yeah,
+
+290
+00:11:17,800 --> 00:11:22,720
+I will, like a Magic Key coupon is fun to me
+
+291
+00:11:22,720 --> 00:11:24,840
+because it's like kind of an anything goes,
+
+292
+00:11:24,840 --> 00:11:26,560
+an anything pass, which sometimes you get,
+
+293
+00:11:26,560 --> 00:11:28,440
+if you go to guest services and complain
+
+294
+00:11:28,440 --> 00:11:29,400
+or you have something special,
+
+295
+00:11:29,400 --> 00:11:30,960
+you get an anything pass essentially.
+
+296
+00:11:30,960 --> 00:11:31,920
+And that is fun.
+
+297
+00:11:31,920 --> 00:11:33,240
+I completely agree.
+
+298
+00:11:33,240 --> 00:11:36,720
+Using it for the name of the annual passes in general
+
+299
+00:11:36,720 --> 00:11:38,520
+feels a little less fun to me
+
+300
+00:11:38,520 --> 00:11:41,120
+because there's a lot of restrictions on annual passes.
+
+301
+00:11:41,120 --> 00:11:45,400
+It's not some sort of Magic Key to get into Disneyland.
+
+302
+00:11:45,400 --> 00:11:48,760
+It's like a key that like only works on certain days
+
+303
+00:11:48,760 --> 00:11:51,960
+and in certain parks before certain times,
+
+304
+00:11:51,960 --> 00:11:53,520
+as long as you have reservations.
+
+305
+00:11:53,520 --> 00:11:57,400
+It is not some sort of access everything kind of thing
+
+306
+00:11:57,400 --> 00:11:59,040
+like this pass is.
+
+307
+00:11:59,040 --> 00:12:01,160
+In fact, I would say it's the opposite.
+
+308
+00:12:01,160 --> 00:12:04,600
+I would say it's the ticket offering that most says
+
+309
+00:12:04,600 --> 00:12:09,200
+we have contempt for our customers they ever offered
+
+310
+00:12:09,200 --> 00:12:12,000
+because it's so actively confusing.
+
+311
+00:12:12,000 --> 00:12:16,760
+I mean, the big takeaways are that they've applied
+
+312
+00:12:16,760 --> 00:12:19,160
+the old flex pass, which I used to have,
+
+313
+00:12:19,160 --> 00:12:22,400
+which gave you like a mix of days you could go
+
+314
+00:12:22,400 --> 00:12:25,760
+if you made a reservation and days that were good to go,
+
+315
+00:12:25,760 --> 00:12:27,200
+you could just show up.
+
+316
+00:12:27,200 --> 00:12:29,280
+No pass has good to go anymore.
+
+317
+00:12:29,280 --> 00:12:32,800
+And Magic Keys, no single day ticket,
+
+318
+00:12:32,800 --> 00:12:34,760
+no multi-day ticket has good to go.
+
+319
+00:12:34,760 --> 00:12:36,400
+Everyone has to make reservations.
+
+320
+00:12:36,400 --> 00:12:37,640
+Yeah, it's a reservation based system.
+
+321
+00:12:37,640 --> 00:12:41,240
+Now I will say this, I was sounding the alarm
+
+322
+00:12:41,240 --> 00:12:44,360
+on being very fearful that the pass program was changing
+
+323
+00:12:44,360 --> 00:12:46,800
+because of a thing Bob Chapek said earlier in the year.
+
+324
+00:12:46,800 --> 00:12:49,840
+He called it a rewards program.
+
+325
+00:12:49,840 --> 00:12:51,160
+Oh, that's scary sounding.
+
+326
+00:12:51,200 --> 00:12:52,880
+It was a scary sounding thing.
+
+327
+00:12:52,880 --> 00:12:54,920
+I don't know if they decided against that
+
+328
+00:12:54,920 --> 00:12:57,920
+because a rewards program is different than a program
+
+329
+00:12:57,920 --> 00:12:59,200
+where you can go to the theme park.
+
+330
+00:12:59,200 --> 00:13:00,440
+Like it's different than annual pass.
+
+331
+00:13:00,440 --> 00:13:01,640
+I don't know if he misspoke.
+
+332
+00:13:01,640 --> 00:13:03,280
+I don't know if they had an idea in their head
+
+333
+00:13:03,280 --> 00:13:05,040
+that they were gonna do a rewards program.
+
+334
+00:13:05,040 --> 00:13:08,880
+But I will say this is actually much closer
+
+335
+00:13:08,880 --> 00:13:11,400
+to the old program than I was expecting.
+
+336
+00:13:11,400 --> 00:13:14,040
+I was expecting literally like buy five days,
+
+337
+00:13:14,040 --> 00:13:15,080
+get one half off.
+
+338
+00:13:15,080 --> 00:13:17,240
+That's like kind of what I thought was gonna happen
+
+339
+00:13:17,240 --> 00:13:19,760
+other than unless you paid like 10 grand or something.
+
+340
+00:13:19,760 --> 00:13:22,200
+So I am relieved that even though this is
+
+341
+00:13:22,200 --> 00:13:23,680
+a little more complicated,
+
+342
+00:13:23,680 --> 00:13:26,440
+it is closer to what we had before.
+
+343
+00:13:26,440 --> 00:13:30,000
+Rewards program does seem like the Wendy's app.
+
+344
+00:13:30,000 --> 00:13:32,560
+If you buy a few spicy chicken sandwiches,
+
+345
+00:13:32,560 --> 00:13:34,360
+yeah, we'll toss you another sandwich every now and then.
+
+346
+00:13:34,360 --> 00:13:36,280
+Yes, the Dunkin' Donuts reward,
+
+347
+00:13:36,280 --> 00:13:39,280
+which of course they are still making me pay
+
+348
+00:13:39,280 --> 00:13:40,800
+$10 at a time to use.
+
+349
+00:13:40,800 --> 00:13:43,040
+They will not let me use just a transaction.
+
+350
+00:13:43,040 --> 00:13:44,840
+Ah, yes, it's been years
+
+351
+00:13:44,840 --> 00:13:46,520
+and you're still concerned about this.
+
+352
+00:13:46,520 --> 00:13:47,360
+They're still doing it.
+
+353
+00:13:47,360 --> 00:13:50,840
+But I go enough and I do enjoy the rewards program there.
+
+354
+00:13:50,840 --> 00:13:55,000
+It gives me a free drink after so many purchases.
+
+355
+00:13:55,000 --> 00:13:56,600
+How many are all you guys in?
+
+356
+00:13:56,600 --> 00:13:58,680
+How many rewards programs do you serve?
+
+357
+00:13:58,680 --> 00:13:59,520
+Oh my God, too many to count.
+
+358
+00:13:59,520 --> 00:14:02,640
+I've lost track, especially during the pandemic.
+
+359
+00:14:03,600 --> 00:14:05,840
+When companies like double their emails,
+
+360
+00:14:05,840 --> 00:14:07,640
+like I keep having to clear out.
+
+361
+00:14:07,640 --> 00:14:09,400
+My Gmail keeps getting full.
+
+362
+00:14:09,400 --> 00:14:10,960
+I keep having to delete stuff.
+
+363
+00:14:10,960 --> 00:14:12,240
+They all added it too.
+
+364
+00:14:12,240 --> 00:14:14,080
+Taco Bell added it in the last year.
+
+365
+00:14:14,080 --> 00:14:17,000
+McDonald's just added it in the last couple months.
+
+366
+00:14:17,200 --> 00:14:19,560
+Everyone now has a full rewards program
+
+367
+00:14:19,560 --> 00:14:21,600
+where you can redeem stuff.
+
+368
+00:14:21,600 --> 00:14:22,440
+Wendy's has it.
+
+369
+00:14:22,440 --> 00:14:24,080
+Wendy's had it longer, I think.
+
+370
+00:14:24,080 --> 00:14:25,480
+Wendy's has had it for a little while.
+
+371
+00:14:25,480 --> 00:14:28,800
+Wendy's and Burger King, probably the best right now
+
+372
+00:14:28,800 --> 00:14:31,920
+in terms of giving you garbage, giving you free garbage.
+
+373
+00:14:31,920 --> 00:14:33,200
+Yeah, for sure.
+
+374
+00:14:33,200 --> 00:14:34,480
+So no, there's too many to count
+
+375
+00:14:34,480 --> 00:14:36,760
+as far as rewards programs.
+
+376
+00:14:36,760 --> 00:14:39,280
+But this is not a rewards program, as far as I can see,
+
+377
+00:14:39,280 --> 00:14:42,200
+unless that's in the fine print and Jason found it.
+
+378
+00:14:42,200 --> 00:14:45,240
+No, not really a rewards program.
+
+379
+00:14:45,240 --> 00:14:48,760
+Some of the levels, kind of a lateral move,
+
+380
+00:14:48,760 --> 00:14:52,360
+some kind of scaled back in prices.
+
+381
+00:14:52,360 --> 00:14:57,360
+A lot of these are like the Enchant key is almost one to one
+
+382
+00:14:57,880 --> 00:14:59,360
+for the old FlexPass key.
+
+383
+00:14:59,360 --> 00:15:02,960
+The Imagine key almost one to one for the SoCal Select.
+
+384
+00:15:02,960 --> 00:15:05,120
+You've just lost some perks.
+
+385
+00:15:05,120 --> 00:15:07,040
+You've lost the ability to just show up
+
+386
+00:15:07,040 --> 00:15:08,240
+whenever you feel like it.
+
+387
+00:15:08,240 --> 00:15:12,640
+So yeah, I think that's what Disney lunatics like us,
+
+388
+00:15:12,680 --> 00:15:16,680
+the one thing we are a little bit upset about is like,
+
+389
+00:15:16,680 --> 00:15:18,240
+it was really nice to be like,
+
+390
+00:15:18,240 --> 00:15:20,800
+hey, you wanna go down tonight for dinner or something?
+
+391
+00:15:20,800 --> 00:15:23,080
+And then come back, that seems to be gone,
+
+392
+00:15:23,080 --> 00:15:25,000
+unless you can make a reservation same day,
+
+393
+00:15:25,000 --> 00:15:26,120
+and maybe if it's not busy.
+
+394
+00:15:26,120 --> 00:15:28,360
+We have yet to see how that will work.
+
+395
+00:15:28,360 --> 00:15:30,400
+But that's maybe the only thing.
+
+396
+00:15:30,400 --> 00:15:33,920
+I understand that that is better for COVID,
+
+397
+00:15:33,920 --> 00:15:37,320
+and it is better for tracking the amount of employees
+
+398
+00:15:37,320 --> 00:15:38,640
+to bring on in a day.
+
+399
+00:15:38,640 --> 00:15:40,240
+We're expecting it to be this busy,
+
+400
+00:15:40,240 --> 00:15:44,160
+so we need this amount of people, functionally better.
+
+401
+00:15:44,160 --> 00:15:47,120
+Yes, as an audience member, it's the greatest thing
+
+402
+00:15:47,120 --> 00:15:49,880
+to wake up, not know you're gonna be at Disneyland,
+
+403
+00:15:49,880 --> 00:15:52,920
+and then be suddenly in the thick of it,
+
+404
+00:15:52,920 --> 00:15:55,360
+having a great time at Disneyland.
+
+405
+00:15:55,360 --> 00:15:58,520
+I saw a tweet or two that were a little judgy
+
+406
+00:15:58,520 --> 00:16:01,040
+about people losing this ability.
+
+407
+00:16:03,560 --> 00:16:06,320
+Does it really take that much to plan in advance?
+
+408
+00:16:06,320 --> 00:16:08,600
+And like, no, it doesn't.
+
+409
+00:16:08,600 --> 00:16:11,680
+However, what I described, starting a day,
+
+410
+00:16:11,680 --> 00:16:13,400
+not knowing Disneyland's in the day,
+
+411
+00:16:13,400 --> 00:16:16,000
+and then it ends up in the day, is the greatest thing.
+
+412
+00:16:16,000 --> 00:16:18,880
+It's the ticket to some of the greatest days.
+
+413
+00:16:18,880 --> 00:16:20,040
+Yeah. Yeah.
+
+414
+00:16:20,040 --> 00:16:21,760
+It's a bummer, and I do hope it comes back,
+
+415
+00:16:21,760 --> 00:16:26,360
+especially post, however many fucking variants are left.
+
+416
+00:16:26,360 --> 00:16:27,320
+There's many left.
+
+417
+00:16:27,320 --> 00:16:28,440
+I think it's dead, though.
+
+418
+00:16:28,440 --> 00:16:30,920
+I think going in is dead, unfortunately,
+
+419
+00:16:30,920 --> 00:16:31,760
+at whatever you want.
+
+420
+00:16:31,760 --> 00:16:32,600
+Yeah.
+
+421
+00:16:32,600 --> 00:16:34,480
+Forever? Why would it have to be forever?
+
+422
+00:16:34,480 --> 00:16:35,440
+I think it's forever.
+
+423
+00:16:35,440 --> 00:16:37,120
+I think they like this managing,
+
+424
+00:16:37,120 --> 00:16:39,480
+because they can manage the park much better now,
+
+425
+00:16:39,480 --> 00:16:41,040
+as far as crowds.
+
+426
+00:16:41,040 --> 00:16:44,560
+I think, unless it's really low traffic days,
+
+427
+00:16:44,560 --> 00:16:46,720
+maybe eventually they'll let it happen.
+
+428
+00:16:46,720 --> 00:16:49,240
+But I think they really like knowing
+
+429
+00:16:49,240 --> 00:16:52,120
+how many people are coming on average,
+
+430
+00:16:52,120 --> 00:16:53,520
+to know how to staff,
+
+431
+00:16:53,520 --> 00:16:55,960
+to know how to move people around in the parks.
+
+432
+00:16:55,960 --> 00:16:58,400
+I just have a feeling that it's never coming back,
+
+433
+00:16:58,400 --> 00:16:59,680
+but I hope I am wrong.
+
+434
+00:16:59,680 --> 00:17:01,800
+Yeah, they had already kind of been doing this a lot
+
+435
+00:17:01,800 --> 00:17:02,840
+in Florida.
+
+436
+00:17:02,840 --> 00:17:05,160
+And that, I mean, Florida, they need it less,
+
+437
+00:17:05,160 --> 00:17:07,560
+because they have so many parks and hotels and stuff
+
+438
+00:17:07,560 --> 00:17:09,200
+to just eat up crowds.
+
+439
+00:17:09,200 --> 00:17:11,120
+Everything is getting a little bit,
+
+440
+00:17:11,120 --> 00:17:13,400
+and I'm not mad about the,
+
+441
+00:17:13,400 --> 00:17:15,240
+I mean, I am mad about not being able to go in and stuff,
+
+442
+00:17:15,240 --> 00:17:18,440
+but everything is going a little more of the way of,
+
+443
+00:17:18,440 --> 00:17:21,720
+we wanna, if you could, could you plan everything out
+
+444
+00:17:21,720 --> 00:17:23,720
+down to the T, which I do not like.
+
+445
+00:17:23,720 --> 00:17:26,840
+Even virtual queues, which I like in general,
+
+446
+00:17:26,840 --> 00:17:28,880
+it feels like they're working on a thing for Florida,
+
+447
+00:17:28,880 --> 00:17:31,200
+or I think both parks, what's it called, like Genie, Jason?
+
+448
+00:17:31,200 --> 00:17:32,120
+Do you remember this?
+
+449
+00:17:32,120 --> 00:17:34,400
+Yeah, so Genie is sort of like,
+
+450
+00:17:34,440 --> 00:17:37,960
+I think it's AI, maybe even machine learning based.
+
+451
+00:17:37,960 --> 00:17:40,880
+It's like a program, it's an app that'll tell you,
+
+452
+00:17:40,880 --> 00:17:43,200
+like, you're looking for something to do right now?
+
+453
+00:17:43,200 --> 00:17:44,560
+Here's what's really empty,
+
+454
+00:17:44,560 --> 00:17:46,640
+or here's what a restaurant with no wait.
+
+455
+00:17:46,640 --> 00:17:49,600
+But Genie will like program your fast passes for you.
+
+456
+00:17:49,600 --> 00:17:52,880
+Like, they really would like to get people
+
+457
+00:17:52,880 --> 00:17:56,240
+on a rigid schedule, which is not how the three of us like
+
+458
+00:17:56,240 --> 00:17:58,360
+to do this, unless it's a very long,
+
+459
+00:17:58,360 --> 00:18:00,360
+like somebody's coming in town, you're going with them,
+
+460
+00:18:00,360 --> 00:18:04,200
+or we're doing a full 14 hour day with family or something.
+
+461
+00:18:04,200 --> 00:18:06,320
+If not even Mike likes this,
+
+462
+00:18:06,320 --> 00:18:10,080
+because you do like planning and checking and precision,
+
+463
+00:18:10,080 --> 00:18:12,960
+but if you're saying like, yeah, you don't, like,
+
+464
+00:18:12,960 --> 00:18:15,920
+yeah, I think freedom of, and figuring out your day,
+
+465
+00:18:15,920 --> 00:18:18,520
+it's a nightmare to me, this whole thing of like,
+
+466
+00:18:19,280 --> 00:18:20,320
+when you go to Disney World,
+
+467
+00:18:20,320 --> 00:18:24,640
+make sure that 60 days in advance you're booking,
+
+468
+00:18:24,640 --> 00:18:27,400
+that sucks, I hate it, I want that.
+
+469
+00:18:27,400 --> 00:18:30,920
+Anyone who's excited about that, I do not understand.
+
+470
+00:18:30,920 --> 00:18:33,840
+Yeah, I like, because being in a place
+
+471
+00:18:33,840 --> 00:18:35,640
+where you can like improvise,
+
+472
+00:18:35,640 --> 00:18:37,400
+and I don't know what the day is in store,
+
+473
+00:18:37,400 --> 00:18:40,400
+and not like, well, we better, we gotta be over here
+
+474
+00:18:40,400 --> 00:18:42,000
+by 3.15 or else.
+
+475
+00:18:42,000 --> 00:18:44,760
+Yeah, and fast, we don't even know necessarily
+
+476
+00:18:44,760 --> 00:18:48,360
+what the future of Max Pass or Fast Pass is at this moment.
+
+477
+00:18:48,360 --> 00:18:52,240
+There are signs from other parks, which are not good signs,
+
+478
+00:18:52,240 --> 00:18:57,240
+are scary signs of like per, like, a la carte fast passes,
+
+479
+00:18:57,520 --> 00:18:59,920
+where depending on how busy a ride is,
+
+480
+00:18:59,920 --> 00:19:02,000
+just like Scott, you learned with Orlando's
+
+481
+00:19:02,000 --> 00:19:05,120
+full express pass system, there might be a situation
+
+482
+00:19:05,120 --> 00:19:07,960
+where Toy Story Minimomania is like way crowded,
+
+483
+00:19:07,960 --> 00:19:11,320
+and you have to pay $20 per person to skip the line.
+
+484
+00:19:11,320 --> 00:19:13,920
+Because that's kind of what- I would welcome $20,
+
+485
+00:19:13,920 --> 00:19:17,040
+that Universal situation, that like, again,
+
+486
+00:19:17,040 --> 00:19:19,960
+how are people so mad at the park in Paris
+
+487
+00:19:19,960 --> 00:19:24,160
+that they aren't even at, when here in our country,
+
+488
+00:19:24,160 --> 00:19:27,440
+in the state of Florida, Universal is charging
+
+489
+00:19:27,440 --> 00:19:30,880
+an ungodly amount to, you know,
+
+490
+00:19:30,960 --> 00:19:32,360
+I feel like you break that down,
+
+491
+00:19:32,360 --> 00:19:35,240
+it's like potentially like $40 a ride.
+
+492
+00:19:35,240 --> 00:19:36,240
+Well-
+
+493
+00:19:36,240 --> 00:19:39,960
+Vexed 12 grown adults, a bunch of fathers,
+
+494
+00:19:39,960 --> 00:19:42,480
+didn't understand what they were buying.
+
+495
+00:19:42,480 --> 00:19:43,640
+That's insanity.
+
+496
+00:19:43,640 --> 00:19:45,560
+So let's point the finger at Universal
+
+497
+00:19:45,560 --> 00:19:47,760
+before we start getting mad at Disney.
+
+498
+00:19:47,760 --> 00:19:50,400
+Sure, that's true.
+
+499
+00:19:50,400 --> 00:19:52,720
+But yeah, Disney, I think is headed into,
+
+500
+00:19:52,720 --> 00:19:55,960
+hopefully not as severe of a system as that,
+
+501
+00:19:55,960 --> 00:19:58,720
+but I think we're getting close to that.
+
+502
+00:19:58,720 --> 00:20:02,240
+And yes, the spontaneity, the fun of all of that,
+
+503
+00:20:02,240 --> 00:20:04,320
+I think they would like that to go away.
+
+504
+00:20:04,320 --> 00:20:07,960
+I don't think they can fully push that off the cliff,
+
+505
+00:20:07,960 --> 00:20:09,800
+I'm hoping, fingers crossed.
+
+506
+00:20:09,800 --> 00:20:13,920
+Yeah, Jim and Len had been talking about this
+
+507
+00:20:13,920 --> 00:20:15,240
+on recent episodes where like,
+
+508
+00:20:15,240 --> 00:20:17,840
+there are signs that they're dusting off the FastPass,
+
+509
+00:20:17,840 --> 00:20:21,480
+like queues and stations and stuff in Florida.
+
+510
+00:20:21,480 --> 00:20:26,480
+And all of the like guest comments are, you know,
+
+511
+00:20:26,680 --> 00:20:29,760
+Disney tracks that data meticulously.
+
+512
+00:20:29,760 --> 00:20:33,880
+And it doesn't seem like it's pointing to Florida
+
+513
+00:20:33,880 --> 00:20:37,160
+getting like paid, you know, a la carte FastPasses
+
+514
+00:20:37,160 --> 00:20:41,000
+because people have been coming down there, you know,
+
+515
+00:20:41,000 --> 00:20:45,000
+for decades now doing the FastPass system
+
+516
+00:20:45,000 --> 00:20:47,280
+when it was set at the price of free
+
+517
+00:20:47,280 --> 00:20:49,640
+and suddenly pivoting from going to free
+
+518
+00:20:49,640 --> 00:20:52,520
+to cost a lot of money will piss people off
+
+519
+00:20:52,520 --> 00:20:55,200
+who are already annoyed that they're not available
+
+520
+00:20:55,200 --> 00:20:57,440
+at all at the moment, you know.
+
+521
+00:20:57,440 --> 00:21:00,840
+So I hope there'll be enough pushback on some of this stuff.
+
+522
+00:21:00,840 --> 00:21:04,880
+I loved MaxPass, I mean, that gave me a new thrill
+
+523
+00:21:04,880 --> 00:21:06,640
+as far as Disneyland was concerned,
+
+524
+00:21:06,640 --> 00:21:09,800
+getting to pull FastPasses and if they were ready,
+
+525
+00:21:09,800 --> 00:21:12,880
+like on 9 p.m., I could, you know, frantically
+
+526
+00:21:12,880 --> 00:21:15,120
+keep refreshing for 20 minutes and pull something
+
+527
+00:21:15,120 --> 00:21:16,280
+within the next 10.
+
+528
+00:21:16,280 --> 00:21:17,880
+The biggest people you aren't even with,
+
+529
+00:21:17,880 --> 00:21:19,400
+you're doing it from your apartment.
+
+530
+00:21:19,400 --> 00:21:20,680
+I've done it for my apartment, yeah,
+
+531
+00:21:20,680 --> 00:21:22,640
+I can do it anywhere, it doesn't matter.
+
+532
+00:21:22,640 --> 00:21:26,320
+A little easier sell, 10 or 15 bucks extra a day,
+
+533
+00:21:26,320 --> 00:21:28,560
+then you just do the FastPass on your phone.
+
+534
+00:21:28,560 --> 00:21:30,440
+Oh yeah. That's one sentence,
+
+535
+00:21:30,440 --> 00:21:31,720
+that's an easy. If you're doing a full day
+
+536
+00:21:31,720 --> 00:21:33,920
+no brainer to do that. No brainer, yeah.
+
+537
+00:21:33,920 --> 00:21:35,840
+Yeah, it's well worth it.
+
+538
+00:21:35,840 --> 00:21:38,760
+Florida's has been kind of weird,
+
+539
+00:21:38,760 --> 00:21:41,160
+but there is a good trick with Florida
+
+540
+00:21:41,160 --> 00:21:44,280
+is if you can get all those three FastPasses they give you,
+
+541
+00:21:44,280 --> 00:21:46,280
+if you can stack those very early,
+
+542
+00:21:46,280 --> 00:21:49,000
+then you can surf the thing like MaxPass
+
+543
+00:21:49,000 --> 00:21:51,440
+the rest of the day, which is very fun.
+
+544
+00:21:51,520 --> 00:21:52,760
+Yeah.
+
+545
+00:21:52,760 --> 00:21:55,400
+So we'll see, we don't know exactly
+
+546
+00:21:55,400 --> 00:21:56,720
+how that thing is gonna shape out,
+
+547
+00:21:56,720 --> 00:21:58,560
+cause they're not, I would, I would,
+
+548
+00:21:58,560 --> 00:22:00,880
+spoiler alert, there's no MaxPass,
+
+549
+00:22:00,880 --> 00:22:03,880
+FastPass involved in any four of these.
+
+550
+00:22:04,840 --> 00:22:06,600
+Boy, oh boy. There's no anything,
+
+551
+00:22:06,600 --> 00:22:07,880
+cause they used to be, yeah,
+
+552
+00:22:07,880 --> 00:22:10,600
+it used to be in at least the top two passes,
+
+553
+00:22:10,600 --> 00:22:12,480
+where you'd get MaxPass involved.
+
+554
+00:22:12,480 --> 00:22:14,000
+It was part of it and not anymore.
+
+555
+00:22:14,000 --> 00:22:16,760
+Yeah, so MaxPass is gone,
+
+556
+00:22:17,680 --> 00:22:20,600
+PhotoPass, that was always something that,
+
+557
+00:22:20,920 --> 00:22:22,200
+the top passes would have,
+
+558
+00:22:22,200 --> 00:22:23,880
+I think at least the top passes would have,
+
+559
+00:22:23,880 --> 00:22:26,040
+where you would get, which was really fun,
+
+560
+00:22:26,040 --> 00:22:28,200
+cause you'd never get, like if you go to Disney a lot,
+
+561
+00:22:28,200 --> 00:22:29,560
+I feel like everybody gets out of the habit
+
+562
+00:22:29,560 --> 00:22:32,000
+of ever buying a photo from a ride,
+
+563
+00:22:32,000 --> 00:22:35,720
+but you would get a Tower of Terror or a Guardians photo,
+
+564
+00:22:35,720 --> 00:22:37,920
+and that's fun, it's now I have like years
+
+565
+00:22:37,920 --> 00:22:39,760
+of like ride photos, which is cool,
+
+566
+00:22:39,760 --> 00:22:41,240
+cause I had the pass that had it,
+
+567
+00:22:41,240 --> 00:22:43,680
+but that's gone, that's not in here either.
+
+568
+00:22:43,680 --> 00:22:44,800
+Yeah, I agree, I missed that.
+
+569
+00:22:44,800 --> 00:22:46,600
+Yeah, that was the only thing ever getting me
+
+570
+00:22:46,600 --> 00:22:49,720
+to keep a ride photo.
+
+571
+00:22:49,760 --> 00:22:52,760
+Yeah, and I have like all these fun ride photos now,
+
+572
+00:22:52,760 --> 00:22:54,920
+which I never would have bought, like on my own,
+
+573
+00:22:54,920 --> 00:22:57,400
+so that was kind of a thing that I covertly,
+
+574
+00:22:57,400 --> 00:23:00,920
+I wouldn't have said that before it started,
+
+575
+00:23:00,920 --> 00:23:04,080
+like I need that PhotoPass, but now that that's gone too,
+
+576
+00:23:04,080 --> 00:23:06,800
+I'm like, oh, I missed the PhotoPass,
+
+577
+00:23:06,800 --> 00:23:08,000
+that was fun to have.
+
+578
+00:23:09,720 --> 00:23:11,640
+So yeah, those are gone.
+
+579
+00:23:11,640 --> 00:23:12,720
+We're losing our perks.
+
+580
+00:23:12,720 --> 00:23:14,360
+Yeah, some of the perks.
+
+581
+00:23:14,360 --> 00:23:17,720
+Should we talk about the names of the keys?
+
+582
+00:23:17,720 --> 00:23:20,240
+I think this might be the biggest thing
+
+583
+00:23:20,240 --> 00:23:22,600
+Scott was getting upset about.
+
+584
+00:23:22,600 --> 00:23:26,400
+I think this is 80% of the rage on my part is the names.
+
+585
+00:23:26,400 --> 00:23:28,880
+It's gobbledygook, it's nonsense.
+
+586
+00:23:28,880 --> 00:23:32,760
+Okay, I didn't sense that you guys were enthusiastic
+
+587
+00:23:32,760 --> 00:23:34,000
+about the names.
+
+588
+00:23:34,000 --> 00:23:34,840
+No.
+
+589
+00:23:34,840 --> 00:23:36,600
+I'm not sure anyone is.
+
+590
+00:23:36,600 --> 00:23:39,560
+There's that pile of words that Disney,
+
+591
+00:23:39,560 --> 00:23:42,160
+all levels of Disney corporate has approved,
+
+592
+00:23:42,160 --> 00:23:45,560
+like 20 words, 15 words, they put them in a hat
+
+593
+00:23:45,560 --> 00:23:48,040
+and they pull the name, the words out of a hat
+
+594
+00:23:48,040 --> 00:23:50,440
+when they need something real quick
+
+595
+00:23:50,440 --> 00:23:52,800
+and that kind of seems like what this is.
+
+596
+00:23:52,800 --> 00:23:55,760
+It's unreal how many, we're already doing,
+
+597
+00:23:55,760 --> 00:23:58,040
+now magic is in the main thing
+
+598
+00:23:58,040 --> 00:23:59,880
+and now it's these four others.
+
+599
+00:23:59,880 --> 00:24:02,400
+And maybe like, I don't know if this is one
+
+600
+00:24:02,400 --> 00:24:05,520
+of the quiz questions already, maybe it is,
+
+601
+00:24:05,520 --> 00:24:06,800
+maybe I'm getting ahead of myself,
+
+602
+00:24:06,800 --> 00:24:09,600
+but can it's, and I might know it already,
+
+603
+00:24:09,600 --> 00:24:10,760
+I did just have it in front of me,
+
+604
+00:24:10,760 --> 00:24:14,880
+but can somebody say the four names, not in order,
+
+605
+00:24:14,880 --> 00:24:17,960
+not from most expensive to least expensive
+
+606
+00:24:17,960 --> 00:24:20,720
+and just see if it's possible to figure out
+
+607
+00:24:20,720 --> 00:24:23,480
+based on the, because this is what drives me insane,
+
+608
+00:24:23,480 --> 00:24:27,000
+is that there's no, there's no ranking within the words.
+
+609
+00:24:27,000 --> 00:24:27,840
+Exactly.
+
+610
+00:24:27,840 --> 00:24:29,120
+It's just a bunch of words.
+
+611
+00:24:29,120 --> 00:24:30,960
+Right, because before it was,
+
+612
+00:24:30,960 --> 00:24:34,400
+Southern California Select, Southern California Pass,
+
+613
+00:24:34,400 --> 00:24:38,280
+Deluxe, Premium, Premier.
+
+614
+00:24:38,280 --> 00:24:39,840
+Like there is- Like a car wash.
+
+615
+00:24:39,840 --> 00:24:42,240
+They kind of tell you something a little bit.
+
+616
+00:24:42,240 --> 00:24:44,000
+It's still a little bit confusing,
+
+617
+00:24:44,000 --> 00:24:46,640
+but if you sort of know connotations,
+
+618
+00:24:46,640 --> 00:24:48,440
+you know that if you see the word platinum
+
+619
+00:24:48,440 --> 00:24:50,320
+or something or diamond,
+
+620
+00:24:50,320 --> 00:24:52,120
+that that's gonna be up at the top.
+
+621
+00:24:52,120 --> 00:24:57,120
+But these, I don't know, somebody say them if you got them.
+
+622
+00:24:57,240 --> 00:24:59,240
+Yeah, you want them in a random order?
+
+623
+00:24:59,240 --> 00:25:00,240
+That's what I'm thinking, yeah.
+
+624
+00:25:00,240 --> 00:25:04,120
+Okay, Enchant Key, Dream Key,
+
+625
+00:25:04,120 --> 00:25:07,120
+Believe Key and Imagine Key.
+
+626
+00:25:08,360 --> 00:25:11,160
+Okay, I think I might know it.
+
+627
+00:25:11,160 --> 00:25:13,400
+Let me go up.
+
+628
+00:25:13,400 --> 00:25:14,480
+Okay.
+
+629
+00:25:14,480 --> 00:25:16,760
+And this is only because I just had it in front of me
+
+630
+00:25:16,760 --> 00:25:20,000
+and then I blocked it, but Imagine Key is the lowest.
+
+631
+00:25:20,000 --> 00:25:21,240
+Correct.
+
+632
+00:25:21,240 --> 00:25:23,400
+Then Enchant Key.
+
+633
+00:25:23,400 --> 00:25:24,640
+You got it.
+
+634
+00:25:24,640 --> 00:25:27,680
+Then what's more than Enchant?
+
+635
+00:25:29,120 --> 00:25:30,640
+Believe Key.
+
+636
+00:25:30,640 --> 00:25:31,920
+You got it.
+
+637
+00:25:31,920 --> 00:25:34,400
+And then Dream Key is the most.
+
+638
+00:25:34,400 --> 00:25:35,240
+That's right.
+
+639
+00:25:35,240 --> 00:25:36,200
+We're gonna get you a point of extra credit
+
+640
+00:25:36,200 --> 00:25:37,040
+already on the quiz for that.
+
+641
+00:25:37,040 --> 00:25:40,000
+All right, I voluntarily did a test.
+
+642
+00:25:40,880 --> 00:25:43,760
+Now that said, it's stupid.
+
+643
+00:25:43,760 --> 00:25:47,520
+It's so stupid and particularly Enchant Key.
+
+644
+00:25:47,520 --> 00:25:49,840
+Enchant Key is insane.
+
+645
+00:25:49,840 --> 00:25:51,280
+The other ones I understand.
+
+646
+00:25:51,280 --> 00:25:54,400
+I know that we're going with verbs basically,
+
+647
+00:25:54,400 --> 00:25:59,400
+but when is Enchant used without meant after?
+
+648
+00:26:00,080 --> 00:26:01,840
+When do you in your life say
+
+649
+00:26:01,840 --> 00:26:04,880
+that you're going to enchant someone
+
+650
+00:26:04,880 --> 00:26:08,440
+or that you hope that something enchants you?
+
+651
+00:26:08,440 --> 00:26:10,480
+This is not like I'm gonna,
+
+652
+00:26:10,480 --> 00:26:13,320
+I would like to do some enchanting tonight.
+
+653
+00:26:13,320 --> 00:26:17,760
+It's just not, the word enchant on its own doesn't exist.
+
+654
+00:26:17,760 --> 00:26:21,120
+No, this is never enchanted, maybe,
+
+655
+00:26:21,120 --> 00:26:25,720
+but to enchant, this is not, it looks insane.
+
+656
+00:26:25,720 --> 00:26:26,880
+You don't even know what you're like.
+
+657
+00:26:26,880 --> 00:26:30,200
+I almost wanna read it as ancient
+
+658
+00:26:30,200 --> 00:26:33,760
+as if it's like some obscure car part or something.
+
+659
+00:26:33,760 --> 00:26:35,520
+There's trouble with the ancient.
+
+660
+00:26:35,520 --> 00:26:38,360
+They said it a lot on the TV show, Loki.
+
+661
+00:26:39,280 --> 00:26:41,800
+The one character said it an upsetting amount, but.
+
+662
+00:26:41,800 --> 00:26:43,160
+Oh.
+
+663
+00:26:43,160 --> 00:26:45,360
+Usually it was kind of in a sinister,
+
+664
+00:26:45,360 --> 00:26:48,520
+I'm possessing your body and mind fashion.
+
+665
+00:26:48,520 --> 00:26:49,360
+Yeah, what's that?
+
+666
+00:26:49,360 --> 00:26:51,480
+Is there an example of a sentence
+
+667
+00:26:51,480 --> 00:26:54,680
+with an enchant in it without meant?
+
+668
+00:26:54,680 --> 00:26:56,000
+I'm hoping, okay, how about this?
+
+669
+00:26:56,000 --> 00:27:01,000
+I am hoping for a romantic partner
+
+670
+00:27:01,720 --> 00:27:04,480
+to enchant me tonight with their.
+
+671
+00:27:04,480 --> 00:27:05,320
+Yeah.
+
+672
+00:27:05,320 --> 00:27:07,760
+That is a sentence and that makes sense.
+
+673
+00:27:07,840 --> 00:27:09,800
+And it's weird as hell.
+
+674
+00:27:09,800 --> 00:27:13,200
+That's the only, you're only using enchant
+
+675
+00:27:13,200 --> 00:27:17,720
+when it involves romance and a child's idea
+
+676
+00:27:17,720 --> 00:27:21,720
+of what sex will be like with a bunch of curtains flapping.
+
+677
+00:27:23,400 --> 00:27:26,120
+And you don't really know what the sex is.
+
+678
+00:27:26,120 --> 00:27:27,320
+You just know there's bodies.
+
+679
+00:27:27,320 --> 00:27:28,360
+Something's happening down there.
+
+680
+00:27:28,360 --> 00:27:29,800
+I'll figure it out someday.
+
+681
+00:27:29,800 --> 00:27:32,600
+But that's, yes, oh, please enchant me.
+
+682
+00:27:32,600 --> 00:27:36,120
+Take me away, enchantrix. Enchant.
+
+683
+00:27:36,120 --> 00:27:36,960
+Crazy.
+
+684
+00:27:36,960 --> 00:27:40,760
+And it is like, I think it's completely like
+
+685
+00:27:41,680 --> 00:27:44,640
+weird PG-13 romance is the use of it.
+
+686
+00:27:44,640 --> 00:27:48,080
+So to see it in this Disney list is really weird.
+
+687
+00:27:48,080 --> 00:27:49,760
+I know, I guess it's one of the words
+
+688
+00:27:49,760 --> 00:27:51,760
+in its enchanted tiki room,
+
+689
+00:27:51,760 --> 00:27:54,640
+but something about that pure enchant just weirds me out.
+
+690
+00:27:54,640 --> 00:27:57,280
+Well, look, you're gonna be enchanted by the ability
+
+691
+00:27:57,280 --> 00:28:00,160
+to make up to four park reservation holes at a time,
+
+692
+00:28:00,160 --> 00:28:04,240
+two asterisks, 10% off select merchandise, three asterisks,
+
+693
+00:28:04,240 --> 00:28:08,160
+and 10% off select food and beverage, also three asterisks.
+
+694
+00:28:08,160 --> 00:28:09,560
+Yes. Pretty enchanting.
+
+695
+00:28:09,560 --> 00:28:11,360
+That is very enchanting. Enchant.
+
+696
+00:28:11,360 --> 00:28:13,440
+Can we try to rationalize,
+
+697
+00:28:13,440 --> 00:28:14,920
+and we'll get into the perks and all,
+
+698
+00:28:14,920 --> 00:28:16,360
+can we try to rationalize,
+
+699
+00:28:16,360 --> 00:28:17,840
+let me say the ranking again.
+
+700
+00:28:17,840 --> 00:28:19,560
+Dream is better than believe,
+
+701
+00:28:19,560 --> 00:28:21,000
+which is better than enchant,
+
+702
+00:28:21,000 --> 00:28:22,720
+which is better than imagine.
+
+703
+00:28:22,720 --> 00:28:23,880
+What do you mean?
+
+704
+00:28:23,880 --> 00:28:28,160
+Why is imagine, a dream and imagine are a world apart?
+
+705
+00:28:28,160 --> 00:28:30,320
+To imagine is basically shit.
+
+706
+00:28:30,320 --> 00:28:31,440
+You're in the gutter,
+
+707
+00:28:31,440 --> 00:28:35,760
+but dream is the ultimate height to try to attain.
+
+708
+00:28:35,760 --> 00:28:37,040
+What are you talking about?
+
+709
+00:28:37,040 --> 00:28:40,120
+I'll say my thought, the dream key,
+
+710
+00:28:40,120 --> 00:28:41,960
+it's dream on motherfucker,
+
+711
+00:28:41,960 --> 00:28:45,920
+cause it costs $1,399.
+
+712
+00:28:45,920 --> 00:28:47,200
+Dream on asshole.
+
+713
+00:28:47,200 --> 00:28:48,920
+Speaking of the bad boys of Boston.
+
+714
+00:28:48,920 --> 00:28:50,000
+Wow. Yeah.
+
+715
+00:28:51,280 --> 00:28:54,640
+I think, yes, there's no hierarchy to it.
+
+716
+00:28:54,640 --> 00:28:56,320
+I mean, it should be like,
+
+717
+00:28:56,320 --> 00:28:58,920
+the top one should be like achievement,
+
+718
+00:28:58,920 --> 00:29:01,280
+or like achieved your goal or something,
+
+719
+00:29:02,200 --> 00:29:03,520
+or like the achieve key.
+
+720
+00:29:03,520 --> 00:29:07,560
+Came true, come like fulfilled, the fulfill key.
+
+721
+00:29:07,560 --> 00:29:09,360
+The ever after key.
+
+722
+00:29:09,360 --> 00:29:11,280
+Ever after, okay, now there you go.
+
+723
+00:29:11,280 --> 00:29:12,480
+Now you're onto something.
+
+724
+00:29:12,480 --> 00:29:15,200
+If you start it with the,
+
+725
+00:29:15,200 --> 00:29:18,280
+you know, the basics of a story, like a fairy tale,
+
+726
+00:29:19,360 --> 00:29:20,800
+you know, an ever after.
+
+727
+00:29:20,800 --> 00:29:22,760
+The wish come true key.
+
+728
+00:29:22,760 --> 00:29:24,880
+Wish come true key.
+
+729
+00:29:24,880 --> 00:29:26,760
+Wish the wish come true key.
+
+730
+00:29:26,760 --> 00:29:29,000
+How is it not wish?
+
+731
+00:29:29,000 --> 00:29:30,440
+How is wish not on here?
+
+732
+00:29:31,360 --> 00:29:32,200
+Yeah.
+
+733
+00:29:32,200 --> 00:29:33,040
+Maybe because wish is unattainable.
+
+734
+00:29:33,040 --> 00:29:34,080
+Although imagine.
+
+735
+00:29:34,080 --> 00:29:34,920
+Is that a boat?
+
+736
+00:29:34,920 --> 00:29:36,240
+That's one of their boats.
+
+737
+00:29:36,240 --> 00:29:38,600
+But not all dreams come true.
+
+738
+00:29:38,600 --> 00:29:40,480
+Yeah, most of them don't, let's be honest.
+
+739
+00:29:40,480 --> 00:29:42,040
+Yeah, yeah.
+
+740
+00:29:42,040 --> 00:29:43,520
+But wishes are even more so,
+
+741
+00:29:43,520 --> 00:29:46,480
+like wish, maybe that's too like wishful thinking.
+
+742
+00:29:46,480 --> 00:29:49,920
+It's that's like completely what Jason is saying.
+
+743
+00:29:49,920 --> 00:29:52,200
+Yeah, and you don't have to wish.
+
+744
+00:29:52,200 --> 00:29:56,280
+You just need to put down a $179 down payment,
+
+745
+00:29:56,280 --> 00:29:58,240
+a normal even number,
+
+746
+00:29:58,240 --> 00:30:01,240
+a number we all know and love, $179.
+
+747
+00:30:02,200 --> 00:30:03,880
+And then your monthly payments go up
+
+748
+00:30:03,880 --> 00:30:05,640
+depending on which key you get.
+
+749
+00:30:05,640 --> 00:30:09,280
+And if you have to live in the state of California
+
+750
+00:30:09,280 --> 00:30:12,560
+within a certain range of zip codes.
+
+751
+00:30:12,560 --> 00:30:13,400
+Right.
+
+752
+00:30:13,400 --> 00:30:15,000
+And it's not even every, oh, really?
+
+753
+00:30:15,000 --> 00:30:16,320
+Okay, okay.
+
+754
+00:30:16,320 --> 00:30:19,760
+Southern California residents, not Northern California,
+
+755
+00:30:19,760 --> 00:30:21,760
+Southern California residents.
+
+756
+00:30:21,760 --> 00:30:22,920
+Well, hold on a second.
+
+757
+00:30:22,920 --> 00:30:25,720
+Well, so the imagine, you're kind of right.
+
+758
+00:30:25,720 --> 00:30:27,520
+So the magic key, the lowest level key
+
+759
+00:30:27,520 --> 00:30:29,880
+is only for Southern California residents.
+
+760
+00:30:29,880 --> 00:30:34,240
+Any California resident can do the monthly payment program,
+
+761
+00:30:34,240 --> 00:30:36,040
+but only people who live in California
+
+762
+00:30:36,040 --> 00:30:38,680
+can do the monthly payment program.
+
+763
+00:30:38,680 --> 00:30:42,600
+Oh, so anyone else, if you're coming in from Ohio,
+
+764
+00:30:42,600 --> 00:30:47,080
+you can get a dream key, but it's, you have to pay,
+
+765
+00:30:47,080 --> 00:30:48,800
+it's all at the top.
+
+766
+00:30:48,800 --> 00:30:49,640
+It's all at the top.
+
+767
+00:30:49,640 --> 00:30:52,560
+Yes, so I think that's how they're limiting
+
+768
+00:30:52,560 --> 00:30:53,960
+the installment.
+
+769
+00:30:53,960 --> 00:30:56,080
+They don't want to send their goons to Colorado
+
+770
+00:30:56,080 --> 00:30:56,920
+to get the money.
+
+771
+00:30:56,920 --> 00:30:58,080
+It's basically what it is.
+
+772
+00:30:58,120 --> 00:31:00,320
+California, that's close by,
+
+773
+00:31:00,320 --> 00:31:03,280
+but if they got to go send some goons to Colorado to collect,
+
+774
+00:31:03,280 --> 00:31:05,800
+then that's not cost effective for them.
+
+775
+00:31:05,800 --> 00:31:09,600
+Yeah, so I don't, I mean, part of this is
+
+776
+00:31:09,600 --> 00:31:11,200
+they're looking for people,
+
+777
+00:31:11,200 --> 00:31:12,640
+they want people to come to the parks.
+
+778
+00:31:12,640 --> 00:31:14,360
+They always want people to come to the parks,
+
+779
+00:31:14,360 --> 00:31:16,640
+but they want people who will spend money
+
+780
+00:31:16,640 --> 00:31:21,640
+and be engaged in their, you know, coming to the parks.
+
+781
+00:31:21,800 --> 00:31:23,480
+They also would like guests to do,
+
+782
+00:31:23,480 --> 00:31:26,560
+help them out a little with the work of like metrics
+
+783
+00:31:26,560 --> 00:31:28,040
+and crowd numbers.
+
+784
+00:31:28,040 --> 00:31:31,280
+And that kind of sucks that they're putting
+
+785
+00:31:31,280 --> 00:31:33,920
+a little bit of this work of this, you know.
+
+786
+00:31:33,920 --> 00:31:34,760
+Do you mean with reservations?
+
+787
+00:31:34,760 --> 00:31:35,600
+Is that what you're saying?
+
+788
+00:31:35,600 --> 00:31:37,800
+Yeah, with reservations and like think about,
+
+789
+00:31:37,800 --> 00:31:40,720
+like really think about what day you're coming, you know.
+
+790
+00:31:40,720 --> 00:31:42,760
+Really think about what day you
+
+791
+00:31:42,760 --> 00:31:44,760
+and how many in your party are coming.
+
+792
+00:31:44,760 --> 00:31:46,360
+Here's what I'll say.
+
+793
+00:31:46,360 --> 00:31:48,560
+If we do this reservation thing
+
+794
+00:31:48,560 --> 00:31:50,800
+and we know all the COVID stuff is gone
+
+795
+00:31:50,800 --> 00:31:52,600
+and fingers crossed in a year,
+
+796
+00:31:52,600 --> 00:31:54,760
+we're enjoying the parks in a similar way
+
+797
+00:31:54,760 --> 00:31:56,240
+to the way we have.
+
+798
+00:31:57,120 --> 00:31:58,880
+If the park is pretty like,
+
+799
+00:31:58,880 --> 00:32:02,480
+it's less crowded, it's more spaced out,
+
+800
+00:32:02,480 --> 00:32:05,760
+I will begrudgingly say, okay,
+
+801
+00:32:05,760 --> 00:32:07,640
+the reservation system, fine.
+
+802
+00:32:07,640 --> 00:32:08,800
+It's working.
+
+803
+00:32:08,800 --> 00:32:10,520
+It's making this much more pleasant
+
+804
+00:32:10,520 --> 00:32:12,280
+because sometimes you would go down
+
+805
+00:32:12,280 --> 00:32:13,800
+and the park would be jammed.
+
+806
+00:32:13,800 --> 00:32:15,400
+Like just like, especially New Orleans Square,
+
+807
+00:32:15,400 --> 00:32:16,560
+that would always be where it would be.
+
+808
+00:32:16,560 --> 00:32:19,320
+It's like an insane sea of people.
+
+809
+00:32:19,320 --> 00:32:22,800
+If this thing works and it is able to make
+
+810
+00:32:22,800 --> 00:32:25,040
+that whole experience much more manageable
+
+811
+00:32:25,040 --> 00:32:26,920
+and seem like cool and fun,
+
+812
+00:32:26,920 --> 00:32:29,800
+like make the day a little bit better or breezier,
+
+813
+00:32:29,800 --> 00:32:31,480
+then I will say, all right, fine.
+
+814
+00:32:31,480 --> 00:32:32,600
+That worked.
+
+815
+00:32:32,600 --> 00:32:33,440
+I'm not so bothered.
+
+816
+00:32:33,440 --> 00:32:34,800
+But if we're doing reservations,
+
+817
+00:32:34,800 --> 00:32:35,920
+it's a big pain in the ass.
+
+818
+00:32:35,920 --> 00:32:38,240
+And then we go down and it's just as jammed it
+
+819
+00:32:38,240 --> 00:32:40,160
+as it always was, then this sucks.
+
+820
+00:32:40,160 --> 00:32:41,560
+Then I'm not as happy about it.
+
+821
+00:32:41,560 --> 00:32:42,800
+Yeah.
+
+822
+00:32:42,800 --> 00:32:44,080
+When I had the FlexPass,
+
+823
+00:32:44,080 --> 00:32:47,440
+I never had a problem making a reservation.
+
+824
+00:32:47,440 --> 00:32:50,000
+I think I can remember if I used it
+
+825
+00:32:50,000 --> 00:32:51,760
+for opening day, Galaxy's Edge,
+
+826
+00:32:51,760 --> 00:32:54,360
+or I switched it over right after that.
+
+827
+00:32:55,160 --> 00:32:56,960
+I never had a problem making reservation.
+
+828
+00:32:56,960 --> 00:32:58,800
+I think some people,
+
+829
+00:32:58,800 --> 00:33:01,800
+a lot of the speculation I saw is people going like,
+
+830
+00:33:01,800 --> 00:33:06,800
+maybe get these keys, get your key in the first month or so
+
+831
+00:33:07,400 --> 00:33:09,960
+because as more and more people get used to it
+
+832
+00:33:09,960 --> 00:33:11,520
+and more and more people sign up,
+
+833
+00:33:11,520 --> 00:33:13,280
+the reservations might be harder to get.
+
+834
+00:33:13,280 --> 00:33:16,920
+But there's still a lot of questions about like,
+
+835
+00:33:16,920 --> 00:33:21,280
+how many reservations are they going to make available?
+
+836
+00:33:21,280 --> 00:33:24,400
+How many of any level of pass
+
+837
+00:33:24,400 --> 00:33:25,440
+are they going to sell?
+
+838
+00:33:25,440 --> 00:33:28,640
+I did see something confirming that like,
+
+839
+00:33:28,640 --> 00:33:31,640
+the pool for reservations for single day
+
+840
+00:33:31,640 --> 00:33:33,920
+and multi-day tickets is different
+
+841
+00:33:33,920 --> 00:33:37,120
+than the pool of reservations for the keys.
+
+842
+00:33:37,120 --> 00:33:39,600
+How did any of you look up any of this
+
+843
+00:33:39,600 --> 00:33:41,120
+and not lose your fucking mind?
+
+844
+00:33:41,120 --> 00:33:43,760
+How did you not just like fall asleep,
+
+845
+00:33:43,760 --> 00:33:47,600
+need to like take a big shot of whiskey to keep going?
+
+846
+00:33:48,600 --> 00:33:51,560
+Or just look outside, go do anything else but this?
+
+847
+00:33:51,560 --> 00:33:55,360
+Jason and I both do really enjoy on some level
+
+848
+00:33:55,360 --> 00:33:58,600
+looking through the fine print of,
+
+849
+00:33:58,600 --> 00:34:00,920
+whether it's a new like food event
+
+850
+00:34:00,920 --> 00:34:02,960
+or a new like Disney announcement,
+
+851
+00:34:02,960 --> 00:34:04,840
+or yes, it's a pass system.
+
+852
+00:34:06,120 --> 00:34:08,120
+Jason, I did actually not, did not know that with,
+
+853
+00:34:08,120 --> 00:34:09,640
+I don't know where Jason found that information.
+
+854
+00:34:09,640 --> 00:34:10,480
+I'm trusting him.
+
+855
+00:34:10,480 --> 00:34:12,120
+Again, he's the penny here.
+
+856
+00:34:12,120 --> 00:34:13,880
+I'm the inspector gadget.
+
+857
+00:34:13,880 --> 00:34:15,960
+I'll get the credit, but he did the work.
+
+858
+00:34:17,280 --> 00:34:18,120
+But yeah, yeah.
+
+859
+00:34:18,120 --> 00:34:19,840
+I just start to,
+
+860
+00:34:19,840 --> 00:34:22,560
+I turn into Homer with like turkey in the straw
+
+861
+00:34:22,560 --> 00:34:23,400
+in his head.
+
+862
+00:34:23,400 --> 00:34:24,480
+I like, I can't do it.
+
+863
+00:34:24,480 --> 00:34:27,840
+I cannot focus on these ins and outs.
+
+864
+00:34:27,840 --> 00:34:28,680
+Well, I know.
+
+865
+00:34:28,680 --> 00:34:29,720
+I mean, it's happened when I just was,
+
+866
+00:34:29,720 --> 00:34:32,440
+I was lightly explaining to you what the Disney,
+
+867
+00:34:32,440 --> 00:34:35,280
+what the hotel or the, what's it called?
+
+868
+00:34:35,280 --> 00:34:36,720
+The club, vacation club is.
+
+869
+00:34:36,720 --> 00:34:37,560
+And I wasn't trying to,
+
+870
+00:34:37,560 --> 00:34:38,400
+Oh my God, I can't.
+
+871
+00:34:38,400 --> 00:34:39,240
+And I wasn't trying to even tell you to,
+
+872
+00:34:39,240 --> 00:34:41,160
+I wasn't like, you know, you gotta do the vacation club.
+
+873
+00:34:41,160 --> 00:34:42,000
+I was just saying, well, the video's like,
+
+874
+00:34:42,000 --> 00:34:43,680
+and you're like, well, why would I wanna do that?
+
+875
+00:34:43,680 --> 00:34:44,520
+And I go, I wasn't telling you to do it.
+
+876
+00:34:44,520 --> 00:34:45,780
+I was just telling you what it was.
+
+877
+00:34:45,780 --> 00:34:48,080
+But like, I just gave you some dry facts
+
+878
+00:34:48,080 --> 00:34:49,480
+about a Disney program.
+
+879
+00:34:50,120 --> 00:34:50,960
+And you're just like,
+
+880
+00:34:50,960 --> 00:34:51,800
+there's something in your brain that's just like,
+
+881
+00:34:51,800 --> 00:34:53,120
+get it out.
+
+882
+00:34:53,120 --> 00:34:53,960
+You're like,
+
+883
+00:34:53,960 --> 00:34:54,800
+I think so.
+
+884
+00:34:54,800 --> 00:34:55,640
+No.
+
+885
+00:34:55,640 --> 00:34:57,600
+There's like, you have antibodies that attack.
+
+886
+00:34:58,600 --> 00:35:00,880
+It won't allow, I can't get past, yeah.
+
+887
+00:35:00,880 --> 00:35:05,080
+If there's too much of a fine print load,
+
+888
+00:35:05,080 --> 00:35:08,520
+then my antibodies in my ears work
+
+889
+00:35:08,520 --> 00:35:10,720
+to fight the information away.
+
+890
+00:35:10,720 --> 00:35:14,400
+You have sterilizing immunity when it comes to fine print
+
+891
+00:35:14,400 --> 00:35:17,040
+in as far as a Disney program is concerned.
+
+892
+00:35:17,040 --> 00:35:18,920
+I just, you know, like,
+
+893
+00:35:19,360 --> 00:35:21,200
+I'm one of the hosts of this podcast,
+
+894
+00:35:21,200 --> 00:35:22,880
+but this all teaches me so much.
+
+895
+00:35:22,880 --> 00:35:26,040
+I like going on a ride and saying, we,
+
+896
+00:35:26,040 --> 00:35:29,240
+and I don't like all of this.
+
+897
+00:35:29,240 --> 00:35:31,880
+This all is such a,
+
+898
+00:35:31,880 --> 00:35:34,600
+I think this all is the worst part about being
+
+899
+00:35:34,600 --> 00:35:35,760
+into this stuff.
+
+900
+00:35:36,600 --> 00:35:37,920
+I love logistics.
+
+901
+00:35:37,920 --> 00:35:40,480
+I love like how cities are managed,
+
+902
+00:35:40,480 --> 00:35:41,880
+how like the wisdom of crowds.
+
+903
+00:35:41,880 --> 00:35:44,240
+I did a lot of sociology classes in college.
+
+904
+00:35:44,240 --> 00:35:47,360
+Like, this is extremely my shit.
+
+905
+00:35:47,360 --> 00:35:49,040
+You love to read.
+
+906
+00:35:49,040 --> 00:35:50,440
+You found some stuff I did not find.
+
+907
+00:35:50,440 --> 00:35:52,680
+Crowd flow is your shit.
+
+908
+00:35:52,680 --> 00:35:53,760
+You love crowd flow.
+
+909
+00:35:53,760 --> 00:35:57,720
+The combination of dry statistics and
+
+910
+00:35:59,040 --> 00:36:00,280
+hip hop terminology.
+
+911
+00:36:00,280 --> 00:36:01,120
+That's like a cool,
+
+912
+00:36:01,120 --> 00:36:03,160
+that is the thing a cool teacher would say.
+
+913
+00:36:03,160 --> 00:36:05,400
+That is a thing a cool teacher would say,
+
+914
+00:36:05,400 --> 00:36:06,240
+and no one's cool there.
+
+915
+00:36:06,240 --> 00:36:08,920
+He would turn the chair around and he'd say that, yeah.
+
+916
+00:36:08,920 --> 00:36:11,800
+That assistant professor Jason.
+
+917
+00:36:11,800 --> 00:36:13,280
+If I'm being a student,
+
+918
+00:36:13,280 --> 00:36:14,840
+I'm not being a very well-behaved student.
+
+919
+00:36:14,840 --> 00:36:16,120
+I'm arguing instead of,
+
+920
+00:36:16,120 --> 00:36:18,840
+this is like when all the kids in the choir
+
+921
+00:36:18,840 --> 00:36:22,400
+in Sister Act back in the habit fought Whoopi Goldberg
+
+922
+00:36:22,400 --> 00:36:25,000
+instead of realizing that maybe if we focus,
+
+923
+00:36:25,000 --> 00:36:28,680
+we can be the freshest choir that ever existed.
+
+924
+00:36:28,680 --> 00:36:31,160
+So let me, how about,
+
+925
+00:36:31,160 --> 00:36:34,440
+let's engage with the professors and let me ask,
+
+926
+00:36:34,440 --> 00:36:37,800
+holding reservations, is this me?
+
+927
+00:36:37,800 --> 00:36:39,920
+Is this for other people?
+
+928
+00:36:39,920 --> 00:36:41,560
+This is vexing me.
+
+929
+00:36:41,560 --> 00:36:43,000
+Okay, here's what I assume,
+
+930
+00:36:43,000 --> 00:36:44,480
+because there are still some questions
+
+931
+00:36:44,480 --> 00:36:46,000
+about this reservation system.
+
+932
+00:36:46,880 --> 00:36:48,320
+Every different level gives you
+
+933
+00:36:48,320 --> 00:36:50,600
+a different amount of park reservations.
+
+934
+00:36:50,600 --> 00:36:51,960
+And the way I understand it,
+
+935
+00:36:51,960 --> 00:36:54,640
+so say it's Imagine Key, the lowest key,
+
+936
+00:36:54,640 --> 00:36:57,520
+the shittiest key of all the keys.
+
+937
+00:36:57,520 --> 00:36:58,360
+The Imagine Key.
+
+938
+00:36:58,360 --> 00:36:59,200
+It's fucking Imagineers.
+
+939
+00:36:59,200 --> 00:37:01,600
+Imagine Key is just gross.
+
+940
+00:37:01,600 --> 00:37:04,280
+It's a gross key, if you ask me.
+
+941
+00:37:04,280 --> 00:37:06,120
+No Saturdays.
+
+942
+00:37:06,120 --> 00:37:06,960
+No Saturdays.
+
+943
+00:37:06,960 --> 00:37:07,800
+No one Saturday.
+
+944
+00:37:07,800 --> 00:37:09,800
+There's very few in a chant key as well,
+
+945
+00:37:09,800 --> 00:37:11,720
+but there are some at least on off-season.
+
+946
+00:37:11,720 --> 00:37:13,880
+There's 11 Saturdays on the chant key.
+
+947
+00:37:13,880 --> 00:37:15,320
+Yeah, but imagine, okay,
+
+948
+00:37:15,360 --> 00:37:17,760
+so Imagine Key, it says you can make two park reservations.
+
+949
+00:37:17,760 --> 00:37:20,800
+The way I understand it is two park reservations
+
+950
+00:37:20,800 --> 00:37:22,840
+per one pass.
+
+951
+00:37:22,840 --> 00:37:25,880
+So you, Scott, can say,
+
+952
+00:37:25,880 --> 00:37:27,760
+I think I'm going to go next weekend.
+
+953
+00:37:27,760 --> 00:37:28,640
+You get one for that,
+
+954
+00:37:28,640 --> 00:37:31,200
+and I'd like to go the following weekend.
+
+955
+00:37:31,200 --> 00:37:32,960
+By the way, you couldn't do it,
+
+956
+00:37:32,960 --> 00:37:33,960
+because it's Imagine Key.
+
+957
+00:37:33,960 --> 00:37:36,120
+So you would say, I wanna go on a Wednesday
+
+958
+00:37:36,120 --> 00:37:37,440
+and then off-season.
+
+959
+00:37:37,440 --> 00:37:38,720
+So you'd make that reservation,
+
+960
+00:37:38,720 --> 00:37:40,200
+and you'd say, I wanna go that following Wednesday,
+
+961
+00:37:40,200 --> 00:37:41,040
+and then you could do that.
+
+962
+00:37:41,040 --> 00:37:43,080
+And you'd have two reservations there,
+
+963
+00:37:43,080 --> 00:37:45,000
+and then those two would be the only ones
+
+964
+00:37:45,680 --> 00:37:47,760
+you could make until you either cancel one of those
+
+965
+00:37:47,760 --> 00:37:49,240
+or went on the day,
+
+966
+00:37:49,240 --> 00:37:50,800
+and then I think you could make another.
+
+967
+00:37:50,800 --> 00:37:52,240
+Jason, am I correct with this?
+
+968
+00:37:52,240 --> 00:37:55,640
+Yes, so if you, once you pass through a turnstile,
+
+969
+00:37:55,640 --> 00:37:57,880
+once you claim one of those reservations,
+
+970
+00:37:57,880 --> 00:38:01,200
+you can immediately then make another reservation.
+
+971
+00:38:01,200 --> 00:38:05,480
+Or if you cancel the day before,
+
+972
+00:38:05,480 --> 00:38:08,520
+you have an open slot again.
+
+973
+00:38:08,520 --> 00:38:09,960
+If you no show,
+
+974
+00:38:11,280 --> 00:38:12,120
+careful, careful.
+
+975
+00:38:12,120 --> 00:38:13,720
+You will be penalized
+
+976
+00:38:13,720 --> 00:38:15,360
+if you no show. If you no show.
+
+977
+00:38:15,360 --> 00:38:16,960
+I was told about this.
+
+978
+00:38:16,960 --> 00:38:18,440
+There's a punishment.
+
+979
+00:38:18,440 --> 00:38:21,320
+You're punished by this program.
+
+980
+00:38:21,320 --> 00:38:22,160
+That's right, Scott.
+
+981
+00:38:22,160 --> 00:38:23,520
+If you don't use the reservation.
+
+982
+00:38:23,520 --> 00:38:26,480
+That's right, because nothing says resort,
+
+983
+00:38:26,480 --> 00:38:28,000
+quality amenities,
+
+984
+00:38:28,000 --> 00:38:30,920
+like being punished for doing a no-no.
+
+985
+00:38:30,920 --> 00:38:32,080
+Ta-na-na-ta-ta-ta.
+
+986
+00:38:33,440 --> 00:38:36,080
+If my, I forgot to pay my car lease,
+
+987
+00:38:36,080 --> 00:38:39,240
+I'm getting a car on three strikes, no, no, no.
+
+988
+00:38:41,200 --> 00:38:43,640
+Can Disney actively hurt your credit score
+
+989
+00:38:44,560 --> 00:38:45,400
+if you don't?
+
+990
+00:38:45,400 --> 00:38:47,520
+Can they like harm your ability to rent a nice apartment
+
+991
+00:38:47,520 --> 00:38:49,160
+or buy a nice house?
+
+992
+00:38:49,160 --> 00:38:54,080
+Well, if you stop paying for your monthly payments,
+
+993
+00:38:54,080 --> 00:38:56,360
+I think they could penalize you
+
+994
+00:38:56,360 --> 00:38:58,880
+because it is essentially a no interest alone.
+
+995
+00:38:58,880 --> 00:39:01,920
+For the no show, the restrictions are,
+
+996
+00:39:01,920 --> 00:39:04,840
+if you just don't show up for three reservations
+
+997
+00:39:04,840 --> 00:39:07,560
+within a 90 day window,
+
+998
+00:39:07,560 --> 00:39:09,040
+you're gonna be locked out
+
+999
+00:39:09,040 --> 00:39:11,760
+from making any reservations for 30 days.
+
+1000
+00:39:11,760 --> 00:39:12,600
+That's right.
+
+1001
+00:39:12,920 --> 00:39:15,360
+It takes three, it's a three strikes policy.
+
+1002
+00:39:15,360 --> 00:39:18,000
+It is a three strikes policy, yes.
+
+1003
+00:39:18,000 --> 00:39:19,880
+And it's not three strikes, you're out,
+
+1004
+00:39:19,880 --> 00:39:22,000
+it's three strikes, you're out for a month.
+
+1005
+00:39:22,000 --> 00:39:23,440
+You're in a time out for a month.
+
+1006
+00:39:23,440 --> 00:39:24,920
+You're in a time out for a month.
+
+1007
+00:39:24,920 --> 00:39:27,640
+I guess that's not the worst punishment.
+
+1008
+00:39:27,640 --> 00:39:30,560
+I can't imagine doing that three times.
+
+1009
+00:39:31,400 --> 00:39:33,320
+I guess it sort of makes sense.
+
+1010
+00:39:33,320 --> 00:39:36,440
+As silly as it is that a punishment is anywhere within
+
+1011
+00:39:36,440 --> 00:39:39,040
+something called the Magic Key program.
+
+1012
+00:39:39,040 --> 00:39:41,240
+Jason, when can you cancel?
+
+1013
+00:39:41,240 --> 00:39:42,560
+Do we know?
+
+1014
+00:39:43,520 --> 00:39:46,640
+You can cancel at any time up to the day before.
+
+1015
+00:39:46,640 --> 00:39:49,240
+You can even cancel the day before you have the first one.
+
+1016
+00:39:49,240 --> 00:39:51,840
+So like 11.59 PM the day before.
+
+1017
+00:39:51,840 --> 00:39:53,440
+I think that's right.
+
+1018
+00:39:53,440 --> 00:39:55,480
+Either 11.59 AM or PM.
+
+1019
+00:39:55,480 --> 00:39:56,640
+I don't have it in front of me.
+
+1020
+00:39:56,640 --> 00:39:57,480
+It might be PM.
+
+1021
+00:39:57,480 --> 00:39:59,560
+I would think it would be PM if it's the day before,
+
+1022
+00:39:59,560 --> 00:40:01,240
+but maybe not, maybe they want it earlier.
+
+1023
+00:40:01,240 --> 00:40:02,080
+I don't know.
+
+1024
+00:40:02,080 --> 00:40:03,560
+We'll have to look into it.
+
+1025
+00:40:03,560 --> 00:40:04,480
+I don't mind that.
+
+1026
+00:40:04,480 --> 00:40:06,640
+We're not so far away from,
+
+1027
+00:40:06,640 --> 00:40:08,040
+it's not spur of the moment,
+
+1028
+00:40:08,040 --> 00:40:11,040
+but you're not locked in.
+
+1029
+00:40:11,760 --> 00:40:13,960
+They're not monetarily paying,
+
+1030
+00:40:13,960 --> 00:40:16,640
+they're not like, you're not paying fines to Disney.
+
+1031
+00:40:16,640 --> 00:40:17,480
+Yeah, that's true.
+
+1032
+00:40:17,480 --> 00:40:19,960
+They're not, you're not going to Disney jail.
+
+1033
+00:40:21,360 --> 00:40:25,000
+Bob Chapek is not calling like your family
+
+1034
+00:40:25,000 --> 00:40:27,640
+and complaining about you or anything
+
+1035
+00:40:27,640 --> 00:40:29,680
+or telling your mom and dad what you did.
+
+1036
+00:40:30,920 --> 00:40:34,920
+Forcing me to say pro Disney propaganda on television
+
+1037
+00:40:35,960 --> 00:40:36,960
+at knife point.
+
+1038
+00:40:36,960 --> 00:40:39,240
+Now they haven't said like maybe if you get like
+
+1039
+00:40:39,240 --> 00:40:41,680
+three timeouts in a year, what happens?
+
+1040
+00:40:42,920 --> 00:40:43,800
+We could test that.
+
+1041
+00:40:43,800 --> 00:40:45,000
+We should really be testing that,
+
+1042
+00:40:45,000 --> 00:40:46,640
+like getting a pass and then just
+
+1043
+00:40:46,640 --> 00:40:49,040
+no showing constantly for a year.
+
+1044
+00:40:49,040 --> 00:40:51,080
+Well, could we make up a false person
+
+1045
+00:40:51,080 --> 00:40:52,520
+so that none of this is on us?
+
+1046
+00:40:52,520 --> 00:40:54,840
+We use some of the Patreon funds
+
+1047
+00:40:54,840 --> 00:40:58,800
+to create a fourth host, a bad boy,
+
+1048
+00:40:58,800 --> 00:41:01,120
+the baddest boy who fails to show up
+
+1049
+00:41:01,120 --> 00:41:03,440
+for any of his assigned days.
+
+1050
+00:41:03,440 --> 00:41:04,920
+His name is Alan Smithy.
+
+1051
+00:41:04,920 --> 00:41:07,320
+He's made some of the worst movies of all time.
+
+1052
+00:41:07,320 --> 00:41:10,120
+Uh, I was just going to say,
+
+1053
+00:41:10,120 --> 00:41:12,000
+just use the same name as Nick Mundy.
+
+1054
+00:41:14,160 --> 00:41:15,400
+All right, great.
+
+1055
+00:41:15,400 --> 00:41:19,520
+So if Nick Mundy, who first of all lies
+
+1056
+00:41:19,520 --> 00:41:22,760
+about his residency.
+
+1057
+00:41:22,760 --> 00:41:23,600
+Yes.
+
+1058
+00:41:23,600 --> 00:41:27,920
+And then fails to show up three, yeah.
+
+1059
+00:41:27,920 --> 00:41:29,560
+Like, okay, so we do three no shit.
+
+1060
+00:41:29,560 --> 00:41:31,360
+It would have to get up to four
+
+1061
+00:41:31,360 --> 00:41:33,480
+for us to see what the real punishments are.
+
+1062
+00:41:33,480 --> 00:41:34,320
+Yeah, exactly.
+
+1063
+00:41:34,320 --> 00:41:35,400
+So then see that.
+
+1064
+00:41:35,400 --> 00:41:36,720
+Then in three years,
+
+1065
+00:41:36,720 --> 00:41:38,680
+because we're talking about this behind the paywall,
+
+1066
+00:41:38,680 --> 00:41:41,280
+Mundy doesn't know what we're talking about.
+
+1067
+00:41:41,280 --> 00:41:44,320
+This episode would have lost Mundy within 40 seconds.
+
+1068
+00:41:44,320 --> 00:41:45,640
+You'd be so mad, you'd be furious, yeah.
+
+1069
+00:41:45,640 --> 00:41:46,480
+Yeah, yeah, yeah.
+
+1070
+00:41:46,480 --> 00:41:47,880
+So deep, deep in this episode
+
+1071
+00:41:47,880 --> 00:41:49,800
+that'd be unlistenable to Nick Mundy,
+
+1072
+00:41:49,800 --> 00:41:51,720
+he would not know that he's like,
+
+1073
+00:41:51,720 --> 00:41:53,560
+basically what I'm saying is in four years,
+
+1074
+00:41:53,560 --> 00:41:56,880
+he tries to take his daughter to Disney Land
+
+1075
+00:41:56,880 --> 00:41:58,760
+and it's stopped at the gate
+
+1076
+00:41:58,760 --> 00:42:01,960
+because of something we did years ago.
+
+1077
+00:42:01,960 --> 00:42:03,600
+And put in handcuffs.
+
+1078
+00:42:03,600 --> 00:42:06,880
+Put in handcuffs and dragged to Disney jail.
+
+1079
+00:42:06,880 --> 00:42:11,160
+With a representative from Experian Credit Reporting.
+
+1080
+00:42:12,760 --> 00:42:15,280
+He has to now fight for the custody
+
+1081
+00:42:16,800 --> 00:42:18,520
+against Donald Duck.
+
+1082
+00:42:18,520 --> 00:42:22,400
+And then they bring in Tweedledee and Tweedledum
+
+1083
+00:42:22,400 --> 00:42:23,400
+from the Mad Tea Party,
+
+1084
+00:42:23,400 --> 00:42:24,920
+those two guys that were walking around
+
+1085
+00:42:24,920 --> 00:42:26,880
+to try to rough them up a little bit.
+
+1086
+00:42:28,160 --> 00:42:29,680
+Meet your cellmates.
+
+1087
+00:42:30,720 --> 00:42:32,560
+Like with Danny Ocean in Ocean's Eleven
+
+1088
+00:42:32,560 --> 00:42:33,720
+when they brought that big guy in.
+
+1089
+00:42:33,720 --> 00:42:35,680
+Although Danny Ocean had that guy on the payroll,
+
+1090
+00:42:35,680 --> 00:42:36,920
+so it was okay.
+
+1091
+00:42:38,400 --> 00:42:39,680
+So yeah, we'll do that.
+
+1092
+00:42:39,680 --> 00:42:42,000
+We have to test, we do have to test these systems.
+
+1093
+00:42:42,000 --> 00:42:45,360
+When the systems go live, we will be testing them.
+
+1094
+00:42:45,360 --> 00:42:48,200
+I don't know that we'll all get the same pass level.
+
+1095
+00:42:48,200 --> 00:42:50,280
+We'll be seeing exactly what's going on.
+
+1096
+00:42:50,280 --> 00:42:52,480
+We'll obviously update as we go.
+
+1097
+00:42:52,480 --> 00:42:55,480
+And as someone who rode the last boat of the night
+
+1098
+00:42:55,480 --> 00:42:58,080
+from the Boardwalk Hotel to Disney's Hollywood Studios
+
+1099
+00:42:58,080 --> 00:43:00,880
+to catch the last bus out of there,
+
+1100
+00:43:00,880 --> 00:43:03,400
+you know I'm gonna be love testing these.
+
+1101
+00:43:03,400 --> 00:43:04,720
+I'm gonna be love testing these.
+
+1102
+00:43:04,720 --> 00:43:06,200
+I'm gonna be love testing these.
+
+1103
+00:43:06,200 --> 00:43:07,560
+Did you call it love testing?
+
+1104
+00:43:07,560 --> 00:43:09,560
+I'm gonna be love testing them.
+
+1105
+00:43:09,560 --> 00:43:12,480
+Well yeah, and love, you have to take a love test
+
+1106
+00:43:12,480 --> 00:43:14,520
+to get a Dream Key.
+
+1107
+00:43:14,520 --> 00:43:17,200
+Scott, I'm sorry, do you know,
+
+1108
+00:43:17,200 --> 00:43:19,800
+Scott do you know how to become a charter member
+
+1109
+00:43:19,800 --> 00:43:21,920
+of the Dream Key program by the way?
+
+1110
+00:43:21,920 --> 00:43:23,400
+No.
+
+1111
+00:43:23,400 --> 00:43:25,040
+What's that?
+
+1112
+00:43:25,040 --> 00:43:25,880
+All right, so.
+
+1113
+00:43:25,880 --> 00:43:29,040
+Charter, that doesn't fit within the theme.
+
+1114
+00:43:29,040 --> 00:43:32,280
+Well, key holders, Scott.
+
+1115
+00:43:33,640 --> 00:43:37,840
+To become a charter member, you have to,
+
+1116
+00:43:37,840 --> 00:43:40,240
+charter members become magic key holders
+
+1117
+00:43:40,240 --> 00:43:43,320
+within the first 66 days of the program.
+
+1118
+00:43:44,200 --> 00:43:45,040
+To celebrate the 66th.
+
+1119
+00:43:45,040 --> 00:43:48,600
+So you're a charter member if you're doing it for,
+
+1120
+00:43:48,600 --> 00:43:50,480
+like we could all be charter members.
+
+1121
+00:43:50,480 --> 00:43:54,040
+That's right, celebrating 66 years of the Disneyland Resort.
+
+1122
+00:43:55,960 --> 00:43:58,640
+Who is thinking about it being 66 years?
+
+1123
+00:43:59,240 --> 00:44:00,720
+If it's not like a round number.
+
+1124
+00:44:00,720 --> 00:44:04,080
+We all know 66 is looming large this year.
+
+1125
+00:44:04,080 --> 00:44:06,240
+Oh boy, happy 66.
+
+1126
+00:44:06,240 --> 00:44:08,680
+Just devil, the devil is thinking of it.
+
+1127
+00:44:08,680 --> 00:44:11,040
+The devil himself, well there's an extra six.
+
+1128
+00:44:11,040 --> 00:44:12,760
+He wants an extra six please.
+
+1129
+00:44:12,760 --> 00:44:13,600
+It's quiet.
+
+1130
+00:44:13,600 --> 00:44:17,480
+Shhh, Disney sicko's at it again.
+
+1131
+00:44:17,480 --> 00:44:21,160
+You get stuff too if you're a charter member.
+
+1132
+00:44:21,160 --> 00:44:22,880
+You get a little like package.
+
+1133
+00:44:24,160 --> 00:44:26,240
+Which is. What's in it?
+
+1134
+00:44:26,240 --> 00:44:29,960
+Okay, you get a premium branded pin, normal phrase.
+
+1135
+00:44:29,960 --> 00:44:33,200
+Celebratory button, magnet, and more.
+
+1136
+00:44:34,600 --> 00:44:36,560
+And more, it means you get an envelope
+
+1137
+00:44:37,800 --> 00:44:39,720
+that holds all of those things.
+
+1138
+00:44:39,720 --> 00:44:42,520
+And a handy pin and badge holder.
+
+1139
+00:44:43,560 --> 00:44:48,360
+Also, magic key holders, this is off the Disney Parks blog.
+
+1140
+00:44:48,360 --> 00:44:50,920
+Magic key holders who enter Disneyland Park
+
+1141
+00:44:50,920 --> 00:44:52,760
+will also be celebrated with access
+
+1142
+00:44:52,760 --> 00:44:55,760
+to a limited time experience at Stargate in Tomorrowland,
+
+1143
+00:44:55,760 --> 00:44:57,720
+which begins September 1st,
+
+1144
+00:44:57,720 --> 00:45:00,120
+where they can enjoy charging stations,
+
+1145
+00:45:00,120 --> 00:45:03,640
+a special photo opportunity, and fun surprises.
+
+1146
+00:45:05,560 --> 00:45:07,520
+You get to charge your phone.
+
+1147
+00:45:07,520 --> 00:45:08,360
+That's right.
+
+1148
+00:45:08,360 --> 00:45:10,520
+Is your reward for doing this quickly?
+
+1149
+00:45:10,520 --> 00:45:12,040
+Correct, yes. That's right.
+
+1150
+00:45:13,080 --> 00:45:17,200
+Bring your own cable and power brick, I would say.
+
+1151
+00:45:17,200 --> 00:45:21,360
+Cause I think it's just USB outlets or wall plugs.
+
+1152
+00:45:21,360 --> 00:45:22,840
+I would imagine.
+
+1153
+00:45:22,840 --> 00:45:25,560
+Boy, the charter program seems like
+
+1154
+00:45:25,560 --> 00:45:27,200
+it's too good to be true.
+
+1155
+00:45:28,840 --> 00:45:31,320
+I'd better rush down as soon as I can.
+
+1156
+00:45:31,320 --> 00:45:33,760
+Starting August 25th, if I'm not a member
+
+1157
+00:45:33,760 --> 00:45:36,920
+of the charter program, I will feel like a fool.
+
+1158
+00:45:36,920 --> 00:45:38,880
+Scott, I will also say there's another thing
+
+1159
+00:45:38,880 --> 00:45:41,920
+that will happen when you're a magic key holder.
+
+1160
+00:45:42,920 --> 00:45:47,920
+Your beloved Alfresco tasting terrace is being re-imagined
+
+1161
+00:45:49,640 --> 00:45:52,600
+as the magic key terrace.
+
+1162
+00:45:53,320 --> 00:45:56,640
+The Alfresco, what was it called even?
+
+1163
+00:45:56,640 --> 00:45:58,200
+I love it and I don't know the name.
+
+1164
+00:45:58,200 --> 00:46:00,320
+The Alfresco tasting terrace.
+
+1165
+00:46:00,320 --> 00:46:05,320
+The Alfresco tasting terrace is now the magic key terrace.
+
+1166
+00:46:05,880 --> 00:46:07,200
+That's right.
+
+1167
+00:46:07,200 --> 00:46:09,360
+Oh, magic key terrace.
+
+1168
+00:46:09,360 --> 00:46:12,720
+I mean, I love it up there and whatever I have to do
+
+1169
+00:46:12,720 --> 00:46:13,800
+to get back up there.
+
+1170
+00:46:13,800 --> 00:46:17,320
+I can't remember however many keys I have to get.
+
+1171
+00:46:17,320 --> 00:46:20,320
+And how many, I just, as soon as that,
+
+1172
+00:46:20,320 --> 00:46:21,440
+I don't have to be a charter.
+
+1173
+00:46:21,600 --> 00:46:23,560
+Maybe I'll try to be a charter just in case.
+
+1174
+00:46:23,560 --> 00:46:26,120
+For a charter member, they really should give you
+
+1175
+00:46:26,120 --> 00:46:29,360
+a rusty key on a big key ring,
+
+1176
+00:46:29,360 --> 00:46:32,880
+like what the pirate's dog has in its mouth.
+
+1177
+00:46:32,880 --> 00:46:34,520
+That would be fun, wouldn't it?
+
+1178
+00:46:35,400 --> 00:46:36,240
+That would be better.
+
+1179
+00:46:36,240 --> 00:46:38,480
+You gotta wear it around your neck to get into the park?
+
+1180
+00:46:38,480 --> 00:46:40,480
+Yeah, and then when you go to the magic key terrace,
+
+1181
+00:46:40,480 --> 00:46:43,520
+there's a door and you have to put it in and turn it
+
+1182
+00:46:43,520 --> 00:46:45,480
+like it's an old time key.
+
+1183
+00:46:45,480 --> 00:46:46,320
+That would be fun.
+
+1184
+00:46:46,320 --> 00:46:48,920
+I think a lot of this whole conjuring up keys,
+
+1185
+00:46:48,920 --> 00:46:51,760
+I think there's a real magic to old keys,
+
+1186
+00:46:51,760 --> 00:46:55,160
+but to some thing that's in your wallet, not magical.
+
+1187
+00:46:55,160 --> 00:46:56,360
+Or on your phone. You're right.
+
+1188
+00:46:56,360 --> 00:46:58,520
+I want a big brass key.
+
+1189
+00:46:58,520 --> 00:47:00,840
+Yeah, they should at least for the charter members.
+
+1190
+00:47:00,840 --> 00:47:02,600
+I mean, I think we're probably all gonna be
+
+1191
+00:47:02,600 --> 00:47:04,360
+charter members, I'm guessing.
+
+1192
+00:47:05,520 --> 00:47:08,120
+Oh, I think so, yeah.
+
+1193
+00:47:08,120 --> 00:47:11,960
+So we should all get like a big rusty old key.
+
+1194
+00:47:11,960 --> 00:47:14,520
+But maybe, you know what, let's, you know what I'll do?
+
+1195
+00:47:14,520 --> 00:47:17,720
+I'm gonna find three rusty old keys for us
+
+1196
+00:47:17,760 --> 00:47:22,400
+and we'll carry them around as charter members
+
+1197
+00:47:22,400 --> 00:47:25,760
+just so we kind of know like we were one of the first.
+
+1198
+00:47:25,760 --> 00:47:27,160
+You know, so we'll always get that.
+
+1199
+00:47:27,160 --> 00:47:28,880
+That's gonna get us sent to Disney jail.
+
+1200
+00:47:28,880 --> 00:47:31,800
+Some guys are trying to bring some kind of rusty weapon
+
+1201
+00:47:31,800 --> 00:47:32,640
+in here.
+
+1202
+00:47:32,640 --> 00:47:34,960
+I think that's possibly true.
+
+1203
+00:47:35,880 --> 00:47:38,040
+I think though it'll kind of finally differentiate us
+
+1204
+00:47:38,040 --> 00:47:39,480
+from some of the other Disneyland gangs
+
+1205
+00:47:39,480 --> 00:47:42,360
+and assert kind of our dominance there finally.
+
+1206
+00:47:42,360 --> 00:47:44,960
+We've talked about starting our own for a long time,
+
+1207
+00:47:44,960 --> 00:47:47,240
+but I think these rusty keys will be the start of something
+
+1208
+00:47:47,240 --> 00:47:48,960
+very special.
+
+1209
+00:47:48,960 --> 00:47:49,800
+I think that-
+
+1210
+00:47:49,800 --> 00:47:51,200
+Rusty charters.
+
+1211
+00:47:51,200 --> 00:47:55,400
+The rusty charters, it's, I was gonna say it's
+
+1212
+00:47:55,400 --> 00:47:58,440
+an enchanted idea, but I was trying to use just enchant
+
+1213
+00:47:58,440 --> 00:48:00,360
+without the ED and I can't.
+
+1214
+00:48:00,360 --> 00:48:01,960
+I've been trying by the way for the last 10 minutes
+
+1215
+00:48:01,960 --> 00:48:05,680
+to try to slip in enchant somewhere and it's really hard.
+
+1216
+00:48:05,680 --> 00:48:08,480
+Yeah, it's not a word that anyone uses.
+
+1217
+00:48:08,480 --> 00:48:10,800
+I'm gonna do it by the end of this podcast
+
+1218
+00:48:10,800 --> 00:48:12,160
+and it's gonna make sense.
+
+1219
+00:48:12,160 --> 00:48:15,880
+The rusty charters are here and ready to enchant.
+
+1220
+00:48:15,880 --> 00:48:16,720
+There it is.
+
+1221
+00:48:16,720 --> 00:48:17,560
+Pretty good.
+
+1222
+00:48:17,560 --> 00:48:18,680
+Yeah, that's pretty good.
+
+1223
+00:48:18,680 --> 00:48:20,960
+That's our catchphrase now.
+
+1224
+00:48:20,960 --> 00:48:25,400
+Yeah, we all walk into the park and then say that in unison.
+
+1225
+00:48:26,520 --> 00:48:30,480
+And then we punch out the nearest jean jacket wearing
+
+1226
+00:48:30,480 --> 00:48:35,480
+like, you know, dune buggy boys, like remember we see.
+
+1227
+00:48:38,320 --> 00:48:40,520
+Scott, there's other perks that you don't even
+
+1228
+00:48:40,520 --> 00:48:41,960
+probably know about yet.
+
+1229
+00:48:41,960 --> 00:48:44,400
+I don't, tell me the perks.
+
+1230
+00:48:44,400 --> 00:48:45,840
+Wait, there's more?
+
+1231
+00:48:45,880 --> 00:48:47,520
+There's more, that's right.
+
+1232
+00:48:47,520 --> 00:48:51,360
+Magic Key Holder Month, a whole month celebrating magic.
+
+1233
+00:48:51,360 --> 00:48:52,200
+Holder month.
+
+1234
+00:48:52,200 --> 00:48:53,040
+Magic Key Holder Month.
+
+1235
+00:48:53,040 --> 00:48:56,160
+We're excited to announce it's Holder Month.
+
+1236
+00:48:56,160 --> 00:48:57,440
+That's right.
+
+1237
+00:48:57,440 --> 00:49:01,000
+Magic Key Embroidery, special, you know,
+
+1238
+00:49:01,000 --> 00:49:06,000
+embroidery options just for Magic Key holders.
+
+1239
+00:49:06,040 --> 00:49:07,480
+Embroider, like what do you mean?
+
+1240
+00:49:07,480 --> 00:49:10,000
+I bring in a shirt and they put something in it?
+
+1241
+00:49:10,000 --> 00:49:10,840
+They make it rusty charters?
+
+1242
+00:49:10,840 --> 00:49:13,520
+Like you can buy mouse ears, they'll embroider your name
+
+1243
+00:49:13,520 --> 00:49:15,400
+on the back or something, you know.
+
+1244
+00:49:16,200 --> 00:49:17,960
+I'll put it this way, it's very unclear
+
+1245
+00:49:17,960 --> 00:49:19,600
+what they mean by embroidery.
+
+1246
+00:49:19,600 --> 00:49:21,120
+It's very, they're not saying, they're not saying
+
+1247
+00:49:21,120 --> 00:49:23,920
+if you like, they'll like use a special color for you,
+
+1248
+00:49:23,920 --> 00:49:25,120
+but you have to pay for it.
+
+1249
+00:49:25,120 --> 00:49:27,600
+As far as I saw, I'm not really clear on exactly
+
+1250
+00:49:27,600 --> 00:49:29,160
+what they mean by embroidery.
+
+1251
+00:49:29,160 --> 00:49:30,160
+Yeah, I'm not either.
+
+1252
+00:49:30,160 --> 00:49:34,000
+Or like the Magic Key Photo Pass opportunities,
+
+1253
+00:49:34,000 --> 00:49:36,640
+like different, you know, special photos.
+
+1254
+00:49:36,640 --> 00:49:38,960
+Sell us the rusty keys for God's sake.
+
+1255
+00:49:38,960 --> 00:49:39,800
+I don't, there's no mention of keys.
+
+1256
+00:49:39,800 --> 00:49:41,960
+Yeah, give us some rusty keys.
+
+1257
+00:49:41,960 --> 00:49:45,280
+We're embroidering a special barcode into your wrist.
+
+1258
+00:49:46,160 --> 00:49:47,480
+That way we can track everything
+
+1259
+00:49:47,480 --> 00:49:50,440
+that our most beloved holders do.
+
+1260
+00:49:51,680 --> 00:49:54,960
+We are, the three of us will become beloved holders.
+
+1261
+00:49:54,960 --> 00:49:57,640
+I mean, we were beloved holders before.
+
+1262
+00:49:57,640 --> 00:50:01,440
+We're gonna be the most beloved charter holders.
+
+1263
+00:50:01,440 --> 00:50:05,440
+Yeah, and you know, once we purchase Magic Key Passes
+
+1264
+00:50:05,440 --> 00:50:09,200
+in order to unlock visits, we're gonna be pretty,
+
+1265
+00:50:09,200 --> 00:50:10,760
+you know, charter holders.
+
+1266
+00:50:10,760 --> 00:50:14,120
+You're telling me you still call them Magic Key Pass,
+
+1267
+00:50:14,160 --> 00:50:16,080
+it's still, we've gone all the way, we're not,
+
+1268
+00:50:16,080 --> 00:50:17,560
+no, it's not an annual pass.
+
+1269
+00:50:17,560 --> 00:50:19,440
+It's not, it's a Magic Key.
+
+1270
+00:50:19,440 --> 00:50:22,080
+And with your Magic Key Pass,
+
+1271
+00:50:22,080 --> 00:50:23,440
+what pass is still in there?
+
+1272
+00:50:23,440 --> 00:50:25,240
+You don't call it, so you don't call it a Magic Key,
+
+1273
+00:50:25,240 --> 00:50:26,520
+it's a Magic Key Pass.
+
+1274
+00:50:26,520 --> 00:50:28,880
+It's a Magic Key Pass, and in the fine print,
+
+1275
+00:50:28,880 --> 00:50:30,560
+they're still saying pass holders.
+
+1276
+00:50:30,560 --> 00:50:33,840
+They haven't adjusted the language in some of the fine print
+
+1277
+00:50:33,840 --> 00:50:37,040
+to reflect the new Magic Key, so it is confusing still,
+
+1278
+00:50:37,040 --> 00:50:39,800
+because they are still using pass a lot.
+
+1279
+00:50:39,800 --> 00:50:42,080
+Yeah, I saw multiple people going like,
+
+1280
+00:50:42,800 --> 00:50:44,920
+are they gonna stick with this language?
+
+1281
+00:50:44,920 --> 00:50:47,320
+Everyone's just gonna call it annual passes.
+
+1282
+00:50:47,320 --> 00:50:50,440
+They've been calling it annual passes for decades now.
+
+1283
+00:50:50,440 --> 00:50:53,320
+This is the fine print language on how to purchase
+
+1284
+00:50:53,320 --> 00:50:55,640
+a Magic Key Pass from the parks block.
+
+1285
+00:50:55,640 --> 00:50:59,760
+Starting August 25th, 2021, parentheses,
+
+1286
+00:50:59,760 --> 00:51:02,240
+no earlier than 10 a.m. Pacific time,
+
+1287
+00:51:02,240 --> 00:51:04,000
+guests will be able to purchase
+
+1288
+00:51:04,000 --> 00:51:06,920
+their preferred Magic Key Pass type,
+
+1289
+00:51:06,920 --> 00:51:08,920
+their first opportunity to quote,
+
+1290
+00:51:08,920 --> 00:51:11,200
+to unlock a visit to Disneyland Park
+
+1291
+00:51:11,200 --> 00:51:13,120
+or Disney California Adventure Park
+
+1292
+00:51:13,120 --> 00:51:16,280
+with a theme park reservation will be that same day.
+
+1293
+00:51:17,560 --> 00:51:18,400
+Okay, so.
+
+1294
+00:51:18,400 --> 00:51:21,280
+So, you do it at 10, and then now you're late.
+
+1295
+00:51:21,280 --> 00:51:22,400
+That's not very early.
+
+1296
+00:51:22,400 --> 00:51:25,280
+So, you do it at 10, can you do it at 10 online,
+
+1297
+00:51:25,280 --> 00:51:27,600
+and then immediately make a reservation?
+
+1298
+00:51:27,600 --> 00:51:30,600
+I'm not sure if you can then turn around
+
+1299
+00:51:30,600 --> 00:51:33,040
+and make a reservation to go that same day,
+
+1300
+00:51:33,040 --> 00:51:35,960
+because I'm also not confident that they get processed
+
+1301
+00:51:35,960 --> 00:51:39,880
+that many purchases and that many reservations
+
+1302
+00:51:39,880 --> 00:51:42,680
+in one day back to back.
+
+1303
+00:51:42,680 --> 00:51:47,240
+If their infrastructure cannot handle a few thousand people
+
+1304
+00:51:47,240 --> 00:51:50,480
+buying like Halloween party tickets,
+
+1305
+00:51:50,480 --> 00:51:53,200
+or it's designed not to handle that
+
+1306
+00:51:53,200 --> 00:51:55,800
+to artificially inflate demand.
+
+1307
+00:51:55,800 --> 00:51:57,440
+Oh, conspiracy theory here.
+
+1308
+00:51:57,440 --> 00:52:00,160
+Conspiracy theory, it's also the reality of
+
+1309
+00:52:00,160 --> 00:52:03,360
+they hire a lot of contractors to build websites,
+
+1310
+00:52:03,360 --> 00:52:07,160
+let them all go when the project is done,
+
+1311
+00:52:07,160 --> 00:52:10,200
+and then just let it chug along
+
+1312
+00:52:10,200 --> 00:52:11,680
+at whatever speed it'll go at.
+
+1313
+00:52:11,680 --> 00:52:13,440
+One intern figure out a problem
+
+1314
+00:52:13,440 --> 00:52:14,880
+when the whole thing crashes.
+
+1315
+00:52:14,880 --> 00:52:16,200
+Yeah.
+
+1316
+00:52:16,200 --> 00:52:17,520
+That's interesting, I mean, we'll see.
+
+1317
+00:52:17,520 --> 00:52:19,200
+I mean, as we get closer, you would think
+
+1318
+00:52:19,200 --> 00:52:22,720
+that they would allow you to pre-purchase it before online,
+
+1319
+00:52:22,720 --> 00:52:24,680
+but I don't know, I'm not sure
+
+1320
+00:52:24,680 --> 00:52:29,000
+what they will have the keys, the future holders do.
+
+1321
+00:52:29,000 --> 00:52:31,040
+I guess all those holders are gonna have to wait
+
+1322
+00:52:31,080 --> 00:52:34,600
+until August 25th at 10 a.m. to find out.
+
+1323
+00:52:34,600 --> 00:52:37,640
+I'm looking out my window where we were recording this
+
+1324
+00:52:37,640 --> 00:52:41,280
+and my son is out there playing and learning,
+
+1325
+00:52:41,280 --> 00:52:46,280
+enjoying the daylight, and there's a wall between us,
+
+1326
+00:52:47,000 --> 00:52:49,040
+like a prison wall.
+
+1327
+00:52:49,040 --> 00:52:52,960
+He's saying words, new words, fresh words.
+
+1328
+00:52:52,960 --> 00:52:54,400
+Enchant, imagine.
+
+1329
+00:52:54,400 --> 00:52:57,360
+Enchant, enchant me.
+
+1330
+00:52:57,360 --> 00:52:58,720
+Pass holder type.
+
+1331
+00:52:59,120 --> 00:53:03,840
+Daddy, will I be a holder one day?
+
+1332
+00:53:03,840 --> 00:53:05,920
+Will I be a charter holder?
+
+1333
+00:53:05,920 --> 00:53:07,920
+Well, no, son, you're too young.
+
+1334
+00:53:07,920 --> 00:53:09,200
+No.
+
+1335
+00:53:10,280 --> 00:53:13,280
+I will never forget those charter days with you,
+
+1336
+00:53:13,280 --> 00:53:17,240
+when I was charter holding you for the first time.
+
+1337
+00:53:17,240 --> 00:53:21,600
+The first 66 days of having a precious little baby.
+
+1338
+00:53:23,880 --> 00:53:25,240
+A charter father.
+
+1339
+00:53:25,240 --> 00:53:27,000
+There were so many perks to it.
+
+1340
+00:53:29,280 --> 00:53:32,920
+Lounges and embroidery and generic embroidery.
+
+1341
+00:53:32,920 --> 00:53:34,280
+General embroidery.
+
+1342
+00:53:35,360 --> 00:53:37,640
+At some point, there's gonna have to be a,
+
+1343
+00:53:37,640 --> 00:53:40,320
+because if we're gonna get through 20 questions,
+
+1344
+00:53:40,320 --> 00:53:43,520
+what is the timing that makes that not okay?
+
+1345
+00:53:43,520 --> 00:53:45,760
+We're almost done with the basics of this, I think.
+
+1346
+00:53:45,760 --> 00:53:48,120
+I'm trying to think, yeah, I mean,
+
+1347
+00:53:48,120 --> 00:53:52,440
+as you go up the list, the perks,
+
+1348
+00:53:52,440 --> 00:53:54,920
+it's basically how many reservations at a time
+
+1349
+00:53:54,920 --> 00:53:57,520
+do you wanna hold, do you wanna go on the weekends,
+
+1350
+00:53:57,520 --> 00:53:59,920
+and what discounts or parking do you want?
+
+1351
+00:53:59,920 --> 00:54:01,480
+Because only the top two levels,
+
+1352
+00:54:01,480 --> 00:54:04,360
+the dream key, the most expensive, includes parking.
+
+1353
+00:54:04,360 --> 00:54:06,800
+Believe key throws you for a loop
+
+1354
+00:54:06,800 --> 00:54:10,320
+and gives you half off the bar parking.
+
+1355
+00:54:10,320 --> 00:54:12,600
+Now that I like, I like that there's something,
+
+1356
+00:54:12,600 --> 00:54:14,440
+that it's not just all or nothing,
+
+1357
+00:54:14,440 --> 00:54:17,800
+like a little bit of something ain't so bad.
+
+1358
+00:54:17,800 --> 00:54:18,800
+So yeah, those are the only,
+
+1359
+00:54:18,800 --> 00:54:20,080
+the top two give you something
+
+1360
+00:54:20,080 --> 00:54:22,840
+for as far as parking is concerned.
+
+1361
+00:54:22,840 --> 00:54:24,360
+They used to have the top two passes
+
+1362
+00:54:24,360 --> 00:54:25,960
+would give you free parking.
+
+1363
+00:54:26,000 --> 00:54:28,240
+The parking adds up, because parking is,
+
+1364
+00:54:28,240 --> 00:54:29,960
+it's not as Seaworld expensive yet,
+
+1365
+00:54:29,960 --> 00:54:32,880
+I don't think it's $30, but it is like 25.
+
+1366
+00:54:32,880 --> 00:54:35,280
+It's 25, I think, the last time I was there.
+
+1367
+00:54:35,280 --> 00:54:37,120
+So that stuff adds up, and then depending on
+
+1368
+00:54:37,120 --> 00:54:40,560
+how many times you go, because there's about $400
+
+1369
+00:54:40,560 --> 00:54:42,920
+between the top two passes, is that right?
+
+1370
+00:54:42,920 --> 00:54:44,520
+400, yeah, yeah.
+
+1371
+00:54:44,520 --> 00:54:45,600
+Sorry, go back to it.
+
+1372
+00:54:45,600 --> 00:54:48,880
+So you gotta factor in that $25,
+
+1373
+00:54:48,880 --> 00:54:52,280
+if you're gonna go 32 times, which is a lot,
+
+1374
+00:54:52,280 --> 00:54:54,040
+you may as well just get the top pass.
+
+1375
+00:54:55,000 --> 00:54:57,160
+There's a question I still don't get.
+
+1376
+00:54:57,160 --> 00:54:59,880
+How do I go with people I know?
+
+1377
+00:54:59,880 --> 00:55:02,800
+Well, you make a reservation for yourself,
+
+1378
+00:55:02,800 --> 00:55:05,880
+and then they have to make reservations for their tickets.
+
+1379
+00:55:05,880 --> 00:55:06,840
+You gotta sync it up.
+
+1380
+00:55:06,840 --> 00:55:08,120
+Yeah, I think you just have to sync it up
+
+1381
+00:55:08,120 --> 00:55:10,000
+like the old system, where if they have passes,
+
+1382
+00:55:10,000 --> 00:55:11,720
+you put them in your phone, but if they have tickets,
+
+1383
+00:55:11,720 --> 00:55:13,280
+you can just scan their tickets,
+
+1384
+00:55:13,280 --> 00:55:15,320
+or you get the number and you put it in your phone.
+
+1385
+00:55:15,320 --> 00:55:16,760
+I don't think it's gonna be that hard,
+
+1386
+00:55:16,760 --> 00:55:18,200
+because we kinda did the same system
+
+1387
+00:55:18,200 --> 00:55:20,840
+for when we went the last two times.
+
+1388
+00:55:20,840 --> 00:55:22,600
+That should be relatively simple,
+
+1389
+00:55:22,600 --> 00:55:25,720
+although if it's parents, it'll be easier if you do it.
+
+1390
+00:55:27,080 --> 00:55:28,840
+You just may as well buy them in your app
+
+1391
+00:55:28,840 --> 00:55:31,280
+if they don't have an annual pass.
+
+1392
+00:55:31,280 --> 00:55:34,920
+The people who are gonna be most inconvenienced by this
+
+1393
+00:55:34,920 --> 00:55:39,480
+are less technologically savvy people,
+
+1394
+00:55:39,480 --> 00:55:43,800
+and older people, if they're not tech savvy,
+
+1395
+00:55:43,800 --> 00:55:45,760
+of the people who are like, I have an annual pass
+
+1396
+00:55:45,760 --> 00:55:48,320
+because I like to go to Disneyland with my grandchildren.
+
+1397
+00:55:48,320 --> 00:55:51,920
+It's like, okay, grandma, so we're gonna get believe keys,
+
+1398
+00:55:51,960 --> 00:55:55,640
+and now hop on your phone, hop on your jitterbug,
+
+1399
+00:55:55,640 --> 00:55:58,440
+and you have to make a reservation.
+
+1400
+00:55:58,440 --> 00:56:00,080
+But I thought I had a ticket.
+
+1401
+00:56:00,080 --> 00:56:02,880
+Well, okay, tickets are different than reservations.
+
+1402
+00:56:02,880 --> 00:56:05,120
+And it, so.
+
+1403
+00:56:05,120 --> 00:56:06,600
+You wanna go on Spider-Man, grandma?
+
+1404
+00:56:06,600 --> 00:56:07,760
+We gotta get up early,
+
+1405
+00:56:07,760 --> 00:56:11,800
+because you have to help us pull a virtual queue.
+
+1406
+00:56:11,800 --> 00:56:13,280
+Can we just get in the queue?
+
+1407
+00:56:13,280 --> 00:56:14,520
+Can we just stand in line?
+
+1408
+00:56:14,520 --> 00:56:15,840
+No. Well, no.
+
+1409
+00:56:15,840 --> 00:56:17,120
+No. No.
+
+1410
+00:56:17,120 --> 00:56:20,120
+No standby line for Spider-Man, for web.
+
+1411
+00:56:20,160 --> 00:56:21,360
+Any ride?
+
+1412
+00:56:21,360 --> 00:56:23,320
+Is that for all the rides?
+
+1413
+00:56:23,320 --> 00:56:26,120
+That's the way they want it, but not yet.
+
+1414
+00:56:26,120 --> 00:56:27,960
+Yeah, so.
+
+1415
+00:56:27,960 --> 00:56:28,800
+That's the way it is.
+
+1416
+00:56:28,800 --> 00:56:32,240
+Might be headed, grandma, but we'll see.
+
+1417
+00:56:32,240 --> 00:56:36,240
+Can I cross the Esplanade before 1 p.m. or not?
+
+1418
+00:56:36,240 --> 00:56:37,080
+No.
+
+1419
+00:56:37,080 --> 00:56:38,160
+Well, no.
+
+1420
+00:56:38,160 --> 00:56:42,000
+First off, you've had to make reservations for both parks,
+
+1421
+00:56:42,000 --> 00:56:45,440
+and then at 1 p.m., you're allowed to park hop.
+
+1422
+00:56:45,440 --> 00:56:46,280
+Yes. Wait a minute.
+
+1423
+00:56:46,280 --> 00:56:48,240
+You have to make, wait, I don't think I knew that one.
+
+1424
+00:56:48,920 --> 00:56:50,760
+I'll break out of the grandma character.
+
+1425
+00:56:50,760 --> 00:56:53,600
+You have to, so I have to reserve, among my,
+
+1426
+00:56:53,600 --> 00:56:56,360
+all right, I have six holds in my name,
+
+1427
+00:56:56,360 --> 00:56:59,440
+in my gun, in my hold gun.
+
+1428
+00:56:59,440 --> 00:57:02,560
+In my hold chamber, there's six hold bullets.
+
+1429
+00:57:02,560 --> 00:57:03,400
+Right.
+
+1430
+00:57:03,400 --> 00:57:06,920
+And I fire one of them at Disneyland for next Wednesday.
+
+1431
+00:57:06,920 --> 00:57:09,680
+And I fire, do I also have to fire another one
+
+1432
+00:57:09,680 --> 00:57:12,680
+at California Adventure for next Wednesday?
+
+1433
+00:57:12,680 --> 00:57:15,840
+Probably best to just make reservations for both.
+
+1434
+00:57:15,840 --> 00:57:17,240
+I'm assuming.
+
+1435
+00:57:17,280 --> 00:57:19,520
+Why should I lose two for, that's what?
+
+1436
+00:57:19,520 --> 00:57:20,360
+Oh no, no.
+
+1437
+00:57:20,360 --> 00:57:21,200
+No, no, I don't think you have to do that.
+
+1438
+00:57:21,200 --> 00:57:23,000
+No, no, that's not it.
+
+1439
+00:57:23,000 --> 00:57:24,200
+No, it's not the reservation.
+
+1440
+00:57:24,200 --> 00:57:26,040
+So I only lose one bullet.
+
+1441
+00:57:26,040 --> 00:57:28,440
+Yeah, you only lose one bullet.
+
+1442
+00:57:28,440 --> 00:57:31,360
+It seems like, remember when we were buying tickets
+
+1443
+00:57:31,360 --> 00:57:34,720
+to go down to the Marvel, there was a lot of days
+
+1444
+00:57:34,720 --> 00:57:36,800
+where it's like, okay, you can start at Disney,
+
+1445
+00:57:36,800 --> 00:57:38,040
+you can't start at Disneyland,
+
+1446
+00:57:38,040 --> 00:57:39,600
+you can start at California Adventure.
+
+1447
+00:57:39,600 --> 00:57:40,880
+I think the only concern might be,
+
+1448
+00:57:40,880 --> 00:57:43,040
+and we'll see as the reservations come online,
+
+1449
+00:57:43,040 --> 00:57:45,960
+is if there's maybe like,
+
+1450
+00:57:46,880 --> 00:57:48,320
+and I guess you're saying it's a different pool,
+
+1451
+00:57:48,320 --> 00:57:50,160
+but if it's just like only California Adventure
+
+1452
+00:57:50,160 --> 00:57:51,240
+is available for one day,
+
+1453
+00:57:51,240 --> 00:57:52,840
+we'll see if stuff like that happens,
+
+1454
+00:57:52,840 --> 00:57:55,680
+or if the only stuff we can pull from
+
+1455
+00:57:55,680 --> 00:57:58,680
+in the reservation pool are days with both things open.
+
+1456
+00:57:58,680 --> 00:58:01,000
+Like, I wonder if say like Disneyland
+
+1457
+00:58:01,000 --> 00:58:02,880
+is too full of reservations for one day,
+
+1458
+00:58:02,880 --> 00:58:04,800
+and then does that just shut down
+
+1459
+00:58:04,800 --> 00:58:06,720
+the entire annual pass pool?
+
+1460
+00:58:06,720 --> 00:58:07,560
+That's possible.
+
+1461
+00:58:07,560 --> 00:58:09,160
+We don't know the answer to these questions.
+
+1462
+00:58:09,160 --> 00:58:10,800
+And I assume we won't really know,
+
+1463
+00:58:10,800 --> 00:58:13,160
+because they're not gonna tell us fully all the numbers,
+
+1464
+00:58:13,160 --> 00:58:14,400
+because they never even wanna tell us
+
+1465
+00:58:14,400 --> 00:58:16,160
+like full capacity on the parks.
+
+1466
+00:58:17,080 --> 00:58:17,920
+Yeah.
+
+1467
+00:58:17,920 --> 00:58:20,120
+So we'll see how that's gonna work.
+
+1468
+00:58:20,120 --> 00:58:23,440
+And again, we'll update you as we start to surmise
+
+1469
+00:58:23,440 --> 00:58:25,600
+what is actually going on.
+
+1470
+00:58:25,600 --> 00:58:28,040
+Believe me, there's gonna be a lot of discussion about this.
+
+1471
+00:58:28,040 --> 00:58:30,920
+Believe Key, there's gonna be a lot of discussion on this.
+
+1472
+00:58:30,920 --> 00:58:32,400
+There's gonna be.
+
+1473
+00:58:32,400 --> 00:58:35,520
+So what are you guys thinking about buying?
+
+1474
+00:58:35,520 --> 00:58:37,280
+Because I was originally thinking about
+
+1475
+00:58:37,280 --> 00:58:39,160
+just buying the lowest level pass,
+
+1476
+00:58:39,160 --> 00:58:43,800
+and when I saw it had no like weekend availability,
+
+1477
+00:58:43,800 --> 00:58:44,640
+I was like, all right,
+
+1478
+00:58:44,640 --> 00:58:46,560
+I guess I'll just go back to the Enchant Key.
+
+1479
+00:58:46,560 --> 00:58:49,280
+It's like a one for one almost with the Flex Pass.
+
+1480
+00:58:49,280 --> 00:58:50,720
+I guess I'll just do that.
+
+1481
+00:58:51,960 --> 00:58:55,760
+Well, yeah, I was thinking about Enchant Key,
+
+1482
+00:58:55,760 --> 00:58:57,400
+but then I was looking at like,
+
+1483
+00:58:57,400 --> 00:58:59,760
+and it's not like we're working weekday jobs.
+
+1484
+00:58:59,760 --> 00:59:01,640
+Lindsay and I are now working weekday jobs right now,
+
+1485
+00:59:01,640 --> 00:59:05,840
+but the possibility of that happens, that's possible.
+
+1486
+00:59:05,840 --> 00:59:10,480
+And I was looking and there's no October weekend days,
+
+1487
+00:59:10,480 --> 00:59:11,320
+which I know that's coming up quick.
+
+1488
+00:59:11,320 --> 00:59:13,120
+That's kinda when we're gonna feel pretty good
+
+1489
+00:59:13,120 --> 00:59:14,760
+about being bad weather's gonna be better.
+
+1490
+00:59:14,760 --> 00:59:17,400
+I would love to do a lot of theme parking in October.
+
+1491
+00:59:17,400 --> 00:59:20,880
+And I was like, I would really not like to have to pay
+
+1492
+00:59:20,880 --> 00:59:23,120
+that much money for this obviously,
+
+1493
+00:59:23,120 --> 00:59:25,960
+but that might be the deal breaker
+
+1494
+00:59:25,960 --> 00:59:28,880
+because the Halloween season is so great.
+
+1495
+00:59:28,880 --> 00:59:32,120
+The lighting and all the stuff we like there.
+
+1496
+00:59:32,120 --> 00:59:35,840
+So it's like just for that insurance of like,
+
+1497
+00:59:35,840 --> 00:59:40,280
+just so we can go, say by some miracle,
+
+1498
+00:59:40,280 --> 00:59:43,680
+we both start working like regular jobs,
+
+1499
+00:59:43,680 --> 00:59:44,500
+we'll be able to go.
+
+1500
+00:59:44,500 --> 00:59:47,600
+So I am leaning toward Believe Key.
+
+1501
+00:59:49,160 --> 00:59:50,960
+They have a half off parking, yeah.
+
+1502
+00:59:52,120 --> 00:59:53,880
+Are you gonna buy any?
+
+1503
+00:59:53,880 --> 00:59:54,720
+I don't know.
+
+1504
+00:59:54,720 --> 00:59:58,240
+I think it'll be whenever there is first an opportunity
+
+1505
+00:59:58,240 --> 01:00:00,360
+to go or like we all wanna do something.
+
+1506
+01:00:00,360 --> 01:00:02,280
+I think, let me see.
+
+1507
+01:00:02,280 --> 01:00:04,760
+I might be able to get away with an Imagine Key
+
+1508
+01:00:04,760 --> 01:00:08,960
+cause I'm like, I got the kiddo, it's gonna be less.
+
+1509
+01:00:09,560 --> 01:00:11,600
+I think it's all, I gotta look at blackout dates.
+
+1510
+01:00:11,600 --> 01:00:12,560
+Do you have information?
+
+1511
+01:00:12,560 --> 01:00:15,200
+Do you know amount of blackout dates offhand?
+
+1512
+01:00:15,200 --> 01:00:17,600
+Is that anywhere in your calendar?
+
+1513
+01:00:17,600 --> 01:00:19,160
+There are some questions about that
+
+1514
+01:00:19,160 --> 01:00:21,280
+and we didn't go over that as much as I would have liked to,
+
+1515
+01:00:21,280 --> 01:00:22,680
+but you'll just have to guess
+
+1516
+01:00:22,680 --> 01:00:24,680
+on some of those questions on the quiz.
+
+1517
+01:00:25,800 --> 01:00:30,600
+But I think I would have to make it one of the bottom two.
+
+1518
+01:00:30,600 --> 01:00:34,840
+I think I'll be going sort of seldom enough, unfortunately,
+
+1519
+01:00:34,840 --> 01:00:38,080
+where I would be in the bottom half.
+
+1520
+01:00:38,080 --> 01:00:39,800
+Yeah, and those aren't so bad.
+
+1521
+01:00:39,800 --> 01:00:41,280
+It's just the parking is the only view.
+
+1522
+01:00:41,280 --> 01:00:43,440
+It'd be nice to add parking to one of those.
+
+1523
+01:00:43,440 --> 01:00:45,280
+That's real, but though, honestly that's not.
+
+1524
+01:00:45,280 --> 01:00:47,080
+Well, you know what's the move, oh, sorry, I gotta go.
+
+1525
+01:00:47,080 --> 01:00:48,760
+I was just gonna say it's not so bad
+
+1526
+01:00:48,760 --> 01:00:50,760
+cause I was worried some of these low passes,
+
+1527
+01:00:50,760 --> 01:00:52,560
+especially would just shoot up price wise
+
+1528
+01:00:52,560 --> 01:00:54,080
+and that did not happen.
+
+1529
+01:00:54,080 --> 01:00:55,960
+It's still not what we were paying a decade ago,
+
+1530
+01:00:55,960 --> 01:00:59,600
+but it's not as bad as I was worried it would be.
+
+1531
+01:00:59,600 --> 01:01:03,800
+You maybe do the move, this depends on like if you're,
+
+1532
+01:01:03,800 --> 01:01:07,080
+you know, maybe you and Lindsay are going more together.
+
+1533
+01:01:08,080 --> 01:01:11,200
+I end up maybe like maybe I'm going more with you guys
+
+1534
+01:01:11,200 --> 01:01:14,520
+or for random odds and ends than I am with Aaron, my wife.
+
+1535
+01:01:14,520 --> 01:01:17,960
+So like, I like the move of somebody gets the pass
+
+1536
+01:01:17,960 --> 01:01:20,720
+with parking and the other person does not.
+
+1537
+01:01:20,720 --> 01:01:22,440
+We might be doing that at Universal.
+
+1538
+01:01:22,440 --> 01:01:23,920
+I think that's a good little like.
+
+1539
+01:01:23,920 --> 01:01:24,760
+That's a good hack.
+
+1540
+01:01:24,760 --> 01:01:27,080
+Like you don't have to both get the parking.
+
+1541
+01:01:27,080 --> 01:01:28,520
+That's what Lindsay and I did last time.
+
+1542
+01:01:28,520 --> 01:01:30,680
+She got flex and I got the one with parking.
+
+1543
+01:01:30,680 --> 01:01:32,520
+So we're saving on money overall.
+
+1544
+01:01:32,520 --> 01:01:34,920
+And she might do that actually.
+
+1545
+01:01:34,920 --> 01:01:36,480
+Well, it depends, we gotta talk about it
+
+1546
+01:01:36,480 --> 01:01:37,520
+if we want the Halloween.
+
+1547
+01:01:37,520 --> 01:01:40,680
+So we may have to both do that one, but we'll talk.
+
+1548
+01:01:40,680 --> 01:01:43,040
+Well, there's a lot of discussion to be had
+
+1549
+01:01:43,040 --> 01:01:44,680
+in the household yet.
+
+1550
+01:01:44,680 --> 01:01:46,080
+I don't want to record it.
+
+1551
+01:01:47,080 --> 01:01:48,320
+Put it on the show.
+
+1552
+01:01:48,320 --> 01:01:49,160
+I'll secretly record it.
+
+1553
+01:01:49,160 --> 01:01:50,440
+That is pretty funny.
+
+1554
+01:01:50,440 --> 01:01:51,280
+Yeah.
+
+1555
+01:01:52,720 --> 01:01:53,760
+And guess what?
+
+1556
+01:01:53,760 --> 01:01:55,960
+You're on Hidden Podcast.
+
+1557
+01:01:55,960 --> 01:01:57,640
+Everyone's gonna like that.
+
+1558
+01:01:57,640 --> 01:01:59,680
+This episode became a lot more who's afraid
+
+1559
+01:01:59,680 --> 01:02:01,960
+of Virginia Woolf than I expected.
+
+1560
+01:02:01,960 --> 01:02:04,160
+Screaming matches about the different keys.
+
+1561
+01:02:04,160 --> 01:02:06,480
+Like in the bedroom style plate shattering.
+
+1562
+01:02:06,480 --> 01:02:07,400
+What is going on?
+
+1563
+01:02:08,280 --> 01:02:09,600
+They're just screaming about keys.
+
+1564
+01:02:09,600 --> 01:02:13,120
+I want, just yelling and chant over and over again.
+
+1565
+01:02:14,400 --> 01:02:15,240
+Okay, yeah.
+
+1566
+01:02:15,240 --> 01:02:16,800
+I mean, that's, yeah.
+
+1567
+01:02:16,800 --> 01:02:19,720
+That's tentatively what we're looking at.
+
+1568
+01:02:19,720 --> 01:02:21,120
+Do we want to get to the quiz, Jason?
+
+1569
+01:02:21,120 --> 01:02:21,960
+Do you have anything else?
+
+1570
+01:02:21,960 --> 01:02:23,880
+I know some of the stuff on the quiz we didn't go over,
+
+1571
+01:02:23,880 --> 01:02:25,080
+but Scott, you're just gonna have to do your best.
+
+1572
+01:02:25,080 --> 01:02:26,480
+You're gonna have to guess and that's all right.
+
+1573
+01:02:26,480 --> 01:02:27,800
+Just gonna have to free ball it.
+
+1574
+01:02:27,800 --> 01:02:28,640
+Yeah, yeah.
+
+1575
+01:02:28,640 --> 01:02:29,480
+Process of elimination.
+
+1576
+01:02:29,480 --> 01:02:31,600
+Yeah, I mean, a lot of this is,
+
+1577
+01:02:31,600 --> 01:02:34,040
+some of the language is a little nebulous.
+
+1578
+01:02:34,040 --> 01:02:36,720
+I mean, I don't, there's some,
+
+1579
+01:02:36,720 --> 01:02:39,120
+I found it a little complicated in terms of like,
+
+1580
+01:02:39,120 --> 01:02:41,080
+if you're holding a one day pass,
+
+1581
+01:02:41,080 --> 01:02:43,360
+you can upgrade it to a key.
+
+1582
+01:02:43,360 --> 01:02:44,760
+Can you do that before you go?
+
+1583
+01:02:44,760 --> 01:02:47,120
+Or do you have to do it there at the ticket booths?
+
+1584
+01:02:47,120 --> 01:02:50,560
+There's some scenarios that people have been able
+
+1585
+01:02:50,560 --> 01:02:52,040
+to suss out.
+
+1586
+01:02:52,040 --> 01:02:55,080
+What I was wondering, let's say if I got the enchant key,
+
+1587
+01:02:55,080 --> 01:02:57,080
+and then I wanted more weekends,
+
+1588
+01:02:57,080 --> 01:02:59,240
+could I upgrade that to the believe key
+
+1589
+01:02:59,240 --> 01:03:01,600
+for the difference later on?
+
+1590
+01:03:01,600 --> 01:03:03,520
+Or will they be like, no, you have to wait
+
+1591
+01:03:03,520 --> 01:03:06,520
+until your next year to do that.
+
+1592
+01:03:07,360 --> 01:03:08,480
+Well, in the past, you've been able to upgrade,
+
+1593
+01:03:08,480 --> 01:03:11,080
+but then you're not getting any pro rate there.
+
+1594
+01:03:11,080 --> 01:03:12,560
+You're just all the way.
+
+1595
+01:03:12,560 --> 01:03:13,400
+Yeah.
+
+1596
+01:03:14,640 --> 01:03:16,000
+And you can't go down.
+
+1597
+01:03:16,000 --> 01:03:17,880
+You can't go from dream to believe.
+
+1598
+01:03:17,880 --> 01:03:18,720
+No.
+
+1599
+01:03:18,720 --> 01:03:21,440
+You don't even dream of it or believe that it could happen.
+
+1600
+01:03:22,920 --> 01:03:26,320
+You could probably when it's time to renew,
+
+1601
+01:03:26,320 --> 01:03:28,320
+you could in a way where you would get money
+
+1602
+01:03:28,320 --> 01:03:29,600
+handed back to you.
+
+1603
+01:03:29,600 --> 01:03:31,800
+Usually they're like, oh, you can upgrade.
+
+1604
+01:03:31,800 --> 01:03:33,920
+You're gonna hand us a little more money.
+
+1605
+01:03:33,920 --> 01:03:35,840
+Absolutely, you could do that.
+
+1606
+01:03:35,880 --> 01:03:37,480
+Right, right, right.
+
+1607
+01:03:37,480 --> 01:03:39,560
+Wait, but you are saying, you said in there that,
+
+1608
+01:03:39,560 --> 01:03:42,240
+cause this is my scenario, I do have a one day pass
+
+1609
+01:03:42,240 --> 01:03:44,920
+from when I did not get to go to Marvel with you guys.
+
+1610
+01:03:44,920 --> 01:03:49,920
+And that can go to the, that can be part of the down payment
+
+1611
+01:03:49,920 --> 01:03:51,920
+for my enchant key or more.
+
+1612
+01:03:51,920 --> 01:03:55,760
+I believe so, but you probably wanna call and ask
+
+1613
+01:03:55,760 --> 01:03:57,720
+before the 25th.
+
+1614
+01:03:57,720 --> 01:04:01,280
+Like I wouldn't try to do it immediately on that day.
+
+1615
+01:04:03,440 --> 01:04:04,960
+Call, I think just call.
+
+1616
+01:04:04,960 --> 01:04:05,880
+Yeah. Okay, okay.
+
+1617
+01:04:05,880 --> 01:04:07,600
+I heard some stuff about if you've done this,
+
+1618
+01:04:07,600 --> 01:04:10,760
+they're doing a SoCal pass and you get three days
+
+1619
+01:04:10,760 --> 01:04:15,040
+that you, and you can apply that to the cost of the thing,
+
+1620
+01:04:15,040 --> 01:04:18,440
+but it makes you start from back in July
+
+1621
+01:04:18,440 --> 01:04:21,920
+when you started using those three day passes.
+
+1622
+01:04:23,520 --> 01:04:24,360
+I actually didn't hear this.
+
+1623
+01:04:24,360 --> 01:04:28,200
+So your enchant key starts from whenever you first did
+
+1624
+01:04:28,200 --> 01:04:29,440
+one of those three days.
+
+1625
+01:04:29,440 --> 01:04:30,720
+Oh. That's what my friends told me.
+
+1626
+01:04:30,720 --> 01:04:33,960
+Now the student has become the teacher on the podcast.
+
+1627
+01:04:34,240 --> 01:04:35,480
+I did not hear that at all.
+
+1628
+01:04:35,480 --> 01:04:36,320
+That's interesting.
+
+1629
+01:04:36,320 --> 01:04:37,160
+I don't know.
+
+1630
+01:04:37,160 --> 01:04:38,000
+That's their cat.
+
+1631
+01:04:38,000 --> 01:04:40,280
+I don't know, unless they're getting some wrong info,
+
+1632
+01:04:40,280 --> 01:04:41,120
+but they're not.
+
+1633
+01:04:41,120 --> 01:04:43,120
+That's a very specific scenario.
+
+1634
+01:04:43,120 --> 01:04:45,520
+I mean, that three day Southern California pass
+
+1635
+01:04:45,520 --> 01:04:48,360
+also has the fine print of like,
+
+1636
+01:04:48,360 --> 01:04:51,360
+you have to use these three days within 90 days.
+
+1637
+01:04:51,360 --> 01:04:54,520
+So you have to go, like, I guess that's once a month.
+
+1638
+01:04:54,520 --> 01:04:57,680
+That's not totally unreasonable if you're a local.
+
+1639
+01:04:57,680 --> 01:04:58,960
+Yeah. Yeah.
+
+1640
+01:04:58,960 --> 01:04:59,800
+Huh.
+
+1641
+01:05:01,040 --> 01:05:01,880
+Weird, I don't know.
+
+1642
+01:05:01,880 --> 01:05:04,120
+Okay. So this fine print, the stuff we don't know,
+
+1643
+01:05:04,120 --> 01:05:07,720
+but is it time to put my knowledge to the test
+
+1644
+01:05:07,720 --> 01:05:09,400
+and become a magic key champion?
+
+1645
+01:05:09,400 --> 01:05:10,240
+That's right.
+
+1646
+01:05:10,240 --> 01:05:11,560
+That's right.
+
+1647
+01:05:11,560 --> 01:05:14,280
+So yeah, if there's gonna be a couple of math,
+
+1648
+01:05:14,280 --> 01:05:16,000
+a little light math for you.
+
+1649
+01:05:16,000 --> 01:05:17,680
+I'm gonna make sure I get mine.
+
+1650
+01:05:19,640 --> 01:05:21,960
+Try not to cheat, but that's okay.
+
+1651
+01:05:21,960 --> 01:05:23,280
+I mean, yeah, try not to cheat.
+
+1652
+01:05:23,280 --> 01:05:25,120
+And that goes for everyone listening now.
+
+1653
+01:05:25,120 --> 01:05:28,520
+Get a piece of paper out and just do your best.
+
+1654
+01:05:28,520 --> 01:05:30,040
+And then we can grade.
+
+1655
+01:05:30,040 --> 01:05:30,880
+We'll see.
+
+1656
+01:05:30,880 --> 01:05:31,960
+Can you be a champion?
+
+1657
+01:05:31,960 --> 01:05:34,200
+Can you be a magic key champion?
+
+1658
+01:05:34,200 --> 01:05:35,760
+All right, I found a paper.
+
+1659
+01:05:35,760 --> 01:05:37,080
+Okay, great.
+
+1660
+01:05:37,080 --> 01:05:39,400
+And Jason, I will read each the questions
+
+1661
+01:05:39,400 --> 01:05:40,400
+that we came up with.
+
+1662
+01:05:40,400 --> 01:05:42,320
+I think that's what we've decided we're gonna do
+
+1663
+01:05:42,320 --> 01:05:45,480
+just because we didn't work through the bit that thoroughly.
+
+1664
+01:05:45,480 --> 01:05:47,640
+So Jason, I think you are first here.
+
+1665
+01:05:47,640 --> 01:05:48,480
+I'll start.
+
+1666
+01:05:48,480 --> 01:05:49,600
+I think it's every other one.
+
+1667
+01:05:49,600 --> 01:05:50,920
+I think that's what I tried to do.
+
+1668
+01:05:50,920 --> 01:05:52,120
+Okay.
+
+1669
+01:05:52,120 --> 01:05:53,440
+All right, true or false?
+
+1670
+01:05:53,440 --> 01:05:56,520
+Parking is included at the believe key level.
+
+1671
+01:05:57,360 --> 01:06:02,360
+True half parking.
+
+1672
+01:06:03,320 --> 01:06:04,160
+That's true.
+
+1673
+01:06:04,160 --> 01:06:06,440
+He, oof, I think you gotta give it to him.
+
+1674
+01:06:06,440 --> 01:06:07,280
+I think you gotta give it to him.
+
+1675
+01:06:07,280 --> 01:06:08,120
+Yeah, we gotta give it to him.
+
+1676
+01:06:08,120 --> 01:06:08,960
+You gotta give it to him.
+
+1677
+01:06:08,960 --> 01:06:10,960
+It is false because it's not included,
+
+1678
+01:06:10,960 --> 01:06:12,560
+but you're right, you knew the information.
+
+1679
+01:06:12,560 --> 01:06:13,400
+Yes.
+
+1680
+01:06:13,400 --> 01:06:14,240
+There is parking, yeah.
+
+1681
+01:06:14,240 --> 01:06:15,080
+That's right.
+
+1682
+01:06:15,080 --> 01:06:17,240
+Parking is half off at the believe key.
+
+1683
+01:06:17,240 --> 01:06:18,840
+That is, with that, he gets that one right.
+
+1684
+01:06:18,840 --> 01:06:19,680
+Okay.
+
+1685
+01:06:19,680 --> 01:06:20,520
+All right.
+
+1686
+01:06:20,520 --> 01:06:22,600
+For the new magic key pass, what is the APR on the loan
+
+1687
+01:06:22,600 --> 01:06:25,120
+if you decide to utilize the Disney payment plan?
+
+1688
+01:06:26,640 --> 01:06:27,840
+Sorry, say it again.
+
+1689
+01:06:27,840 --> 01:06:29,760
+What is the APR on the loan
+
+1690
+01:06:29,760 --> 01:06:33,000
+if you decide to utilize the Disney payment plan?
+
+1691
+01:06:33,000 --> 01:06:34,280
+On any of them?
+
+1692
+01:06:34,280 --> 01:06:35,120
+Yes.
+
+1693
+01:06:35,120 --> 01:06:36,200
+It's the same percentage.
+
+1694
+01:06:36,200 --> 01:06:37,040
+Yes.
+
+1695
+01:06:37,040 --> 01:06:37,880
+Yes.
+
+1696
+01:06:37,880 --> 01:06:38,720
+Sorry, yes.
+
+1697
+01:06:38,720 --> 01:06:41,320
+I feel like I've seen this before in these scenarios.
+
+1698
+01:06:41,320 --> 01:06:43,880
+Is it 18%?
+
+1699
+01:06:44,960 --> 01:06:47,120
+No, it is 0%.
+
+1700
+01:06:47,120 --> 01:06:47,960
+Yes.
+
+1701
+01:06:47,960 --> 01:06:50,000
+Well, now that's a steal of a deal.
+
+1702
+01:06:50,000 --> 01:06:50,920
+That's right, and then we did,
+
+1703
+01:06:50,920 --> 01:06:52,800
+Jason briefly went over it on the episode.
+
+1704
+01:06:52,800 --> 01:06:55,080
+He said it's a no interest loan.
+
+1705
+01:06:55,080 --> 01:06:55,920
+Oh.
+
+1706
+01:06:56,200 --> 01:06:57,040
+Yes.
+
+1707
+01:06:57,040 --> 01:06:57,880
+Okay, well I missed that one.
+
+1708
+01:06:57,880 --> 01:06:59,120
+Okay, so that's okay.
+
+1709
+01:06:59,120 --> 01:06:59,960
+That was me looking at it.
+
+1710
+01:06:59,960 --> 01:07:01,480
+That might've been when I was looking longingly
+
+1711
+01:07:01,480 --> 01:07:03,440
+at the window at my side.
+
+1712
+01:07:03,440 --> 01:07:05,280
+And then he got like had his hand against the window
+
+1713
+01:07:05,280 --> 01:07:07,240
+like calling to you.
+
+1714
+01:07:07,240 --> 01:07:09,360
+Please, Daddy.
+
+1715
+01:07:09,360 --> 01:07:12,200
+Holding up like a Beats pill speaker
+
+1716
+01:07:12,200 --> 01:07:14,320
+playing Look Into My Father's Eyes.
+
+1717
+01:07:18,320 --> 01:07:19,560
+All right, Jason.
+
+1718
+01:07:19,560 --> 01:07:20,400
+All right.
+
+1719
+01:07:20,400 --> 01:07:23,320
+Which of these is not a key type?
+
+1720
+01:07:23,320 --> 01:07:26,600
+Imagine, enchant, wish, believe.
+
+1721
+01:07:27,520 --> 01:07:29,000
+Well, this we ended up going over.
+
+1722
+01:07:29,000 --> 01:07:31,520
+We discussed the possibility that there would be wish
+
+1723
+01:07:31,520 --> 01:07:33,960
+and there's not wish, so wish is the answer.
+
+1724
+01:07:33,960 --> 01:07:34,800
+Incorrect, of course.
+
+1725
+01:07:34,800 --> 01:07:36,480
+A good student after all.
+
+1726
+01:07:36,480 --> 01:07:39,120
+A good student if ever there was.
+
+1727
+01:07:39,120 --> 01:07:41,160
+Jason, this is yours too.
+
+1728
+01:07:41,160 --> 01:07:43,840
+Okay, what time can you park hop?
+
+1729
+01:07:46,280 --> 01:07:47,760
+1 p.m. still.
+
+1730
+01:07:47,760 --> 01:07:48,680
+Correct.
+
+1731
+01:07:48,680 --> 01:07:49,520
+Great.
+
+1732
+01:07:49,520 --> 01:07:51,000
+Correct, this is great.
+
+1733
+01:07:51,000 --> 01:07:53,120
+Which, I'll just do this one.
+
+1734
+01:07:53,960 --> 01:07:56,520
+Which level includes photo pass and max pass?
+
+1735
+01:07:56,520 --> 01:07:59,400
+There is no level that includes these things.
+
+1736
+01:07:59,400 --> 01:08:00,400
+Great.
+
+1737
+01:08:00,400 --> 01:08:01,240
+Correct.
+
+1738
+01:08:01,240 --> 01:08:02,080
+Doing pretty good so far.
+
+1739
+01:08:02,080 --> 01:08:03,160
+Pretty good here, yeah.
+
+1740
+01:08:03,160 --> 01:08:04,480
+Yeah, pretty good.
+
+1741
+01:08:04,480 --> 01:08:05,880
+True or false?
+
+1742
+01:08:05,880 --> 01:08:09,720
+Guests under 13 are called Mickey's Little Key Kids.
+
+1743
+01:08:13,560 --> 01:08:14,880
+It's true.
+
+1744
+01:08:14,880 --> 01:08:16,520
+True if you mean us.
+
+1745
+01:08:18,280 --> 01:08:22,480
+We say that, but it's not official park policy, so false.
+
+1746
+01:08:22,520 --> 01:08:23,840
+False, you are right.
+
+1747
+01:08:23,840 --> 01:08:25,160
+That is correct.
+
+1748
+01:08:25,160 --> 01:08:28,080
+Which key is only for Southern California residents?
+
+1749
+01:08:29,680 --> 01:08:31,320
+The imagine key.
+
+1750
+01:08:32,760 --> 01:08:33,840
+That is correct.
+
+1751
+01:08:33,840 --> 01:08:34,680
+Great.
+
+1752
+01:08:34,680 --> 01:08:35,520
+Jason.
+
+1753
+01:08:35,520 --> 01:08:38,720
+Which key is for Northern California residents?
+
+1754
+01:08:42,040 --> 01:08:44,560
+Aren't the rest of them.
+
+1755
+01:08:44,560 --> 01:08:46,720
+Correct, all others are available
+
+1756
+01:08:46,720 --> 01:08:48,680
+to Northern California residents.
+
+1757
+01:08:48,680 --> 01:08:49,520
+You're doing great.
+
+1758
+01:08:49,520 --> 01:08:51,920
+Either in a one time payment or a monthly payment
+
+1759
+01:08:51,960 --> 01:08:54,680
+after $179 down.
+
+1760
+01:08:54,680 --> 01:08:55,520
+This is great.
+
+1761
+01:08:55,520 --> 01:08:56,360
+True or false?
+
+1762
+01:08:56,360 --> 01:08:57,560
+There is a special lounge for key holders
+
+1763
+01:08:57,560 --> 01:08:59,040
+called the Magic Terrace.
+
+1764
+01:09:00,360 --> 01:09:02,320
+False, it's the Magic Key Terrace.
+
+1765
+01:09:02,320 --> 01:09:04,120
+Very good, very good.
+
+1766
+01:09:04,120 --> 01:09:05,080
+Look at this.
+
+1767
+01:09:05,080 --> 01:09:07,720
+Well, that's the only thing I care about in any of this.
+
+1768
+01:09:07,720 --> 01:09:11,480
+So I'm in the details on that one.
+
+1769
+01:09:11,480 --> 01:09:12,760
+Jason, go ahead.
+
+1770
+01:09:12,760 --> 01:09:13,800
+True or false?
+
+1771
+01:09:13,800 --> 01:09:17,400
+Dream key holders who previously held annual passes
+
+1772
+01:09:17,400 --> 01:09:20,280
+and utilized their legacy pass holder status
+
+1773
+01:09:20,280 --> 01:09:22,600
+are now called Golden Keysmiths.
+
+1774
+01:09:24,320 --> 01:09:27,680
+Keysmiths is too much like what Jason would want
+
+1775
+01:09:27,680 --> 01:09:30,000
+and not what they would actually do.
+
+1776
+01:09:30,000 --> 01:09:31,520
+So false.
+
+1777
+01:09:31,520 --> 01:09:32,840
+That is correct.
+
+1778
+01:09:32,840 --> 01:09:33,680
+Great.
+
+1779
+01:09:33,680 --> 01:09:34,520
+I like it.
+
+1780
+01:09:34,520 --> 01:09:36,000
+I would like it to be called that.
+
+1781
+01:09:36,000 --> 01:09:38,080
+Okay, now I'm gonna read these next three.
+
+1782
+01:09:38,080 --> 01:09:40,360
+Does the imagine key allow you to visit the park
+
+1783
+01:09:40,360 --> 01:09:43,440
+on Mickey's birthday, November 18th, 2021?
+
+1784
+01:09:46,280 --> 01:09:49,000
+Am I allowed to look up what day of the month that is?
+
+1785
+01:09:51,120 --> 01:09:53,840
+Yes, I'll say yes, I'll allow you to.
+
+1786
+01:09:53,840 --> 01:09:55,800
+That matters, you know?
+
+1787
+01:09:55,800 --> 01:09:56,800
+It does matter.
+
+1788
+01:09:56,800 --> 01:09:58,680
+Unless they're blacking it out because it is
+
+1789
+01:09:58,680 --> 01:10:01,480
+Mickey's birthday and they know the demand will be high.
+
+1790
+01:10:04,280 --> 01:10:05,800
+We're getting close to Thanksgiving,
+
+1791
+01:10:05,800 --> 01:10:07,560
+but it's not Thanksgiving.
+
+1792
+01:10:08,880 --> 01:10:10,760
+I'm gonna say yes, you can.
+
+1793
+01:10:10,760 --> 01:10:13,560
+You're correct, yes, the answer is yes.
+
+1794
+01:10:13,560 --> 01:10:15,360
+Does the imagine key allow you to visit the park
+
+1795
+01:10:15,360 --> 01:10:19,120
+on Felix the cat's birthday, November 9th, 2021?
+
+1796
+01:10:21,280 --> 01:10:23,480
+That's not election day, is it?
+
+1797
+01:10:23,480 --> 01:10:25,120
+No, okay.
+
+1798
+01:10:25,120 --> 01:10:26,560
+I think you'd be allowed, yes.
+
+1799
+01:10:26,560 --> 01:10:28,200
+You are correct, yes, you are allowed.
+
+1800
+01:10:28,200 --> 01:10:29,840
+Does the imagine key allow you to visit the park
+
+1801
+01:10:29,840 --> 01:10:32,240
+on Hot Stuff the Little Devil's birthday
+
+1802
+01:10:32,240 --> 01:10:35,360
+on October 1st, 2022?
+
+1803
+01:10:35,360 --> 01:10:38,000
+What's Hot Stuff the Little Devil?
+
+1804
+01:10:38,000 --> 01:10:41,200
+The Harvey Comics character Hot Stuff the Little Devil?
+
+1805
+01:10:41,200 --> 01:10:43,280
+Yeah, he's got a slot machine in Las Vegas.
+
+1806
+01:10:43,280 --> 01:10:45,720
+I just played it and I won his wheel bonus.
+
+1807
+01:10:45,720 --> 01:10:48,520
+He's one of Jason and I's favorite character in fiction.
+
+1808
+01:10:50,320 --> 01:10:52,040
+When is it?
+
+1809
+01:10:52,040 --> 01:10:53,160
+April 10th. October 1st.
+
+1810
+01:10:53,160 --> 01:10:55,240
+No, sorry, October 1st.
+
+1811
+01:10:55,240 --> 01:10:57,560
+And by all me, you guys should go to Las Vegas
+
+1812
+01:10:57,560 --> 01:10:59,880
+to celebrate this together.
+
+1813
+01:10:59,880 --> 01:11:01,720
+Go play, both of you put your hands
+
+1814
+01:11:01,720 --> 01:11:04,720
+on the slot machine together to celebrate Hot Stuff.
+
+1815
+01:11:05,920 --> 01:11:07,680
+Sorry, April what?
+
+1816
+01:11:07,680 --> 01:11:11,080
+No, October 1st, 2022.
+
+1817
+01:11:11,080 --> 01:11:12,920
+Oh my God.
+
+1818
+01:11:12,920 --> 01:11:15,880
+Wait, is he not having a birthday this year?
+
+1819
+01:11:15,880 --> 01:11:18,000
+Oh, I forgot, there's an error on the test.
+
+1820
+01:11:18,000 --> 01:11:19,560
+Teacher's mistake, I'll count that.
+
+1821
+01:11:19,560 --> 01:11:20,760
+Teacher's mistake.
+
+1822
+01:11:20,760 --> 01:11:23,760
+I'll keep clicking, I'll keep clicking 2022.
+
+1823
+01:11:25,200 --> 01:11:26,800
+I realize I fucked that up.
+
+1824
+01:11:26,800 --> 01:11:28,600
+That's a Saturday, so no.
+
+1825
+01:11:28,600 --> 01:11:29,840
+No is correct.
+
+1826
+01:11:29,840 --> 01:11:30,880
+No is correct.
+
+1827
+01:11:30,880 --> 01:11:31,720
+Very good.
+
+1828
+01:11:31,720 --> 01:11:33,360
+Although I wasn't being, that was all imagined,
+
+1829
+01:11:33,360 --> 01:11:34,320
+that never changed.
+
+1830
+01:11:34,320 --> 01:11:36,160
+That was just all imagined, yes.
+
+1831
+01:11:36,160 --> 01:11:38,160
+I was lucky I kept tracking that then
+
+1832
+01:11:38,160 --> 01:11:39,760
+because that could have been a way to trick me.
+
+1833
+01:11:39,760 --> 01:11:40,840
+All right, Jason, go ahead.
+
+1834
+01:11:40,840 --> 01:11:42,640
+I think my count is that I have 12,
+
+1835
+01:11:42,640 --> 01:11:43,960
+unless I missed a tally.
+
+1836
+01:11:43,960 --> 01:11:45,120
+I think that's pretty good.
+
+1837
+01:11:45,120 --> 01:11:45,960
+Yes, you have 12.
+
+1838
+01:11:45,960 --> 01:11:48,160
+12 out of 13 and you have that extra credit point
+
+1839
+01:11:48,160 --> 01:11:49,000
+from earlier.
+
+1840
+01:11:49,000 --> 01:11:52,400
+So right now you are actually doing perfectly on this test.
+
+1841
+01:11:52,400 --> 01:11:53,240
+Wow.
+
+1842
+01:11:53,240 --> 01:11:54,080
+Pretty good.
+
+1843
+01:11:54,080 --> 01:11:55,080
+Can't believe it.
+
+1844
+01:11:55,080 --> 01:11:57,440
+All right, the questions start to get a little hard.
+
+1845
+01:11:57,440 --> 01:11:58,600
+Oh boy.
+
+1846
+01:11:58,600 --> 01:12:01,440
+Palm Sprint, Palm Sunday commemorates
+
+1847
+01:12:01,440 --> 01:12:04,560
+Jesus's triumphal entry into Jerusalem.
+
+1848
+01:12:04,560 --> 01:12:07,120
+It is traditionally celebrated the Sunday
+
+1849
+01:12:07,120 --> 01:12:09,040
+before Easter Sunday.
+
+1850
+01:12:09,040 --> 01:12:13,160
+In 2022, it falls on April 10th.
+
+1851
+01:12:13,160 --> 01:12:16,440
+Which keys are valid for April 10th, 2022?
+
+1852
+01:12:19,000 --> 01:12:24,000
+I'm gonna say the, I mean, I almost said magic key.
+
+1853
+01:12:28,120 --> 01:12:29,240
+There's no magic key.
+
+1854
+01:12:30,520 --> 01:12:31,720
+They're all magic keys.
+
+1855
+01:12:33,160 --> 01:12:37,320
+Believe key and,
+
+1856
+01:12:40,480 --> 01:12:43,120
+damn hell is the other one.
+
+1857
+01:12:44,000 --> 01:12:46,320
+Magic, what am I missing?
+
+1858
+01:12:46,320 --> 01:12:48,440
+No, oh, dream, dream.
+
+1859
+01:12:49,880 --> 01:12:50,720
+That's it.
+
+1860
+01:12:51,920 --> 01:12:54,720
+Your final answer is only dream.
+
+1861
+01:12:54,720 --> 01:12:57,080
+No, no, no, dream and believe.
+
+1862
+01:12:57,080 --> 01:12:57,920
+I'm so sorry.
+
+1863
+01:12:57,920 --> 01:12:59,160
+It is only dream.
+
+1864
+01:12:59,160 --> 01:13:00,800
+Only dream is valid.
+
+1865
+01:13:00,800 --> 01:13:02,120
+You were trying to help me in a way.
+
+1866
+01:13:02,120 --> 01:13:02,960
+I missed it.
+
+1867
+01:13:02,960 --> 01:13:04,520
+Oh my God, that's the only one.
+
+1868
+01:13:04,520 --> 01:13:05,360
+Only one.
+
+1869
+01:13:05,360 --> 01:13:09,200
+Spring break and Easter see that thereabouts in the spring.
+
+1870
+01:13:09,200 --> 01:13:11,200
+Very busy time at the theme parks.
+
+1871
+01:13:11,200 --> 01:13:12,040
+Very busy.
+
+1872
+01:13:12,040 --> 01:13:14,000
+I should have thought the entire spring is tough,
+
+1873
+01:13:14,000 --> 01:13:16,440
+regardless, but you shouldn't be in Disneyland.
+
+1874
+01:13:16,440 --> 01:13:20,720
+You should be at church where there is a giveaway of a palm.
+
+1875
+01:13:20,720 --> 01:13:22,120
+Everybody gets a palm to hold.
+
+1876
+01:13:22,120 --> 01:13:23,120
+That's the most,
+
+1877
+01:13:25,040 --> 01:13:28,240
+going to church every Sunday, every year for 18 years.
+
+1878
+01:13:28,240 --> 01:13:30,840
+That, I look forward to that one big time.
+
+1879
+01:13:30,840 --> 01:13:33,480
+Lot of time kills by passing out the palms.
+
+1880
+01:13:33,480 --> 01:13:34,520
+And then after church,
+
+1881
+01:13:34,520 --> 01:13:36,640
+you can just whang each other with those palms.
+
+1882
+01:13:36,640 --> 01:13:39,760
+Children just left and wail on each other with those palms.
+
+1883
+01:13:39,760 --> 01:13:40,600
+They sting.
+
+1884
+01:13:40,600 --> 01:13:41,440
+Yeah, yeah.
+
+1885
+01:13:41,440 --> 01:13:43,640
+Ooh, let's have a palm fight.
+
+1886
+01:13:43,640 --> 01:13:45,200
+Okay.
+
+1887
+01:13:45,200 --> 01:13:46,800
+Next one is also me.
+
+1888
+01:13:46,800 --> 01:13:47,720
+True or false?
+
+1889
+01:13:47,720 --> 01:13:50,320
+When making reservations in the Disneyland app,
+
+1890
+01:13:50,320 --> 01:13:53,200
+you will be asked, how many in your key party?
+
+1891
+01:13:55,320 --> 01:13:57,520
+I think no, because we were saying
+
+1892
+01:13:57,520 --> 01:14:00,040
+you don't get to reserve for other people.
+
+1893
+01:14:00,040 --> 01:14:00,960
+That is false.
+
+1894
+01:14:00,960 --> 01:14:04,680
+Also the term key party is very loaded in popular culture.
+
+1895
+01:14:04,680 --> 01:14:05,520
+Oh, right.
+
+1896
+01:14:09,520 --> 01:14:10,560
+Oh yeah.
+
+1897
+01:14:10,560 --> 01:14:12,400
+They better make sure they stay away from that.
+
+1898
+01:14:12,400 --> 01:14:13,640
+Oh, with this phrasing.
+
+1899
+01:14:14,960 --> 01:14:17,200
+I'll read this next one, even though Jason, I think he's yours.
+
+1900
+01:14:17,200 --> 01:14:20,040
+How do you become a charter member of the program, Scott?
+
+1901
+01:14:21,840 --> 01:14:23,960
+You have to sign up in the first 66 days.
+
+1902
+01:14:23,960 --> 01:14:25,000
+That's correct.
+
+1903
+01:14:25,000 --> 01:14:25,840
+All right, here we go.
+
+1904
+01:14:25,840 --> 01:14:26,880
+This is a tough one.
+
+1905
+01:14:27,840 --> 01:14:29,760
+Okay, you've just been given a briefcase
+
+1906
+01:14:29,760 --> 01:14:31,440
+with $1 million from a good friend
+
+1907
+01:14:31,440 --> 01:14:33,480
+who's recently sold his tequila company.
+
+1908
+01:14:33,480 --> 01:14:35,600
+You take this briefcase to Disneyland ticket booth
+
+1909
+01:14:35,600 --> 01:14:37,520
+and pay for one dream key pass.
+
+1910
+01:14:37,520 --> 01:14:39,360
+You pay in full, no payment plan.
+
+1911
+01:14:39,360 --> 01:14:41,000
+How much do you have left?
+
+1912
+01:14:41,960 --> 01:14:42,800
+Ah.
+
+1913
+01:14:43,920 --> 01:14:45,320
+All right, pencil and paper
+
+1914
+01:14:45,320 --> 01:14:47,240
+are not gonna do it for me on that one.
+
+1915
+01:14:47,240 --> 01:14:48,080
+I'm going- I think you could do it
+
+1916
+01:14:48,080 --> 01:14:49,440
+with a pencil and paper.
+
+1917
+01:14:49,440 --> 01:14:50,920
+To the calculator.
+
+1918
+01:14:52,320 --> 01:14:54,120
+I hope I calculated this correctly.
+
+1919
+01:14:56,440 --> 01:14:57,280
+Okay.
+
+1920
+01:15:00,520 --> 01:15:02,200
+Very important, this scenario.
+
+1921
+01:15:03,480 --> 01:15:07,160
+Now the question gives you the first half of this equation.
+
+1922
+01:15:07,960 --> 01:15:08,800
+Okay.
+
+1923
+01:15:08,800 --> 01:15:09,640
+The first number.
+
+1924
+01:15:11,640 --> 01:15:14,280
+You would have, I believe,
+
+1925
+01:15:14,280 --> 01:15:17,400
+remaining in the special briefcase,
+
+1926
+01:15:17,400 --> 01:15:22,240
+$998,601.
+
+1927
+01:15:22,240 --> 01:15:23,240
+That is correct, yes.
+
+1928
+01:15:23,240 --> 01:15:24,080
+That's right.
+
+1929
+01:15:24,080 --> 01:15:24,920
+That is right.
+
+1930
+01:15:24,920 --> 01:15:26,360
+All right, hey.
+
+1931
+01:15:26,360 --> 01:15:28,240
+Give it up for that.
+
+1932
+01:15:28,240 --> 01:15:29,080
+Got it.
+
+1933
+01:15:29,080 --> 01:15:32,440
+This is a lot of elements for me to not be frustrated by.
+
+1934
+01:15:33,320 --> 01:15:36,520
+Math on top of Casamigos and-
+
+1935
+01:15:36,520 --> 01:15:38,160
+No, this has nothing to do with Casamigos.
+
+1936
+01:15:38,160 --> 01:15:40,360
+This is just a totally random question.
+
+1937
+01:15:40,360 --> 01:15:42,720
+If somebody in a tequila,
+
+1938
+01:15:42,720 --> 01:15:44,560
+you're right, that word is never said.
+
+1939
+01:15:44,560 --> 01:15:46,760
+Nothing to do with, yeah.
+
+1940
+01:15:46,760 --> 01:15:48,000
+Jason, go ahead.
+
+1941
+01:15:48,000 --> 01:15:49,160
+Okay.
+
+1942
+01:15:49,160 --> 01:15:52,960
+David Lowry, director of the critically acclaimed film,
+
+1943
+01:15:52,960 --> 01:15:56,080
+The Green Knight, is directing the live action
+
+1944
+01:15:56,080 --> 01:15:59,240
+Disney movie, Peter Pan and Wendy.
+
+1945
+01:15:59,240 --> 01:16:02,840
+While an exact release date is not yet scheduled,
+
+1946
+01:16:02,840 --> 01:16:06,640
+the film is set to premiere in 2022.
+
+1947
+01:16:06,640 --> 01:16:09,800
+Which Magic Key gives you the best chance
+
+1948
+01:16:09,800 --> 01:16:13,160
+of being able to visit Disneyland on opening day?
+
+1949
+01:16:16,960 --> 01:16:19,160
+Well, it would just be what gives you the most,
+
+1950
+01:16:19,160 --> 01:16:21,360
+which is the dream key.
+
+1951
+01:16:21,360 --> 01:16:25,160
+That's right, and that's some great test taking skills
+
+1952
+01:16:25,160 --> 01:16:26,160
+put to use.
+
+1953
+01:16:26,160 --> 01:16:27,000
+That's right, yeah.
+
+1954
+01:16:27,000 --> 01:16:28,320
+You're just trying to comb through all the details
+
+1955
+01:16:28,320 --> 01:16:31,520
+to find what essentially is the most basic version
+
+1956
+01:16:31,520 --> 01:16:33,360
+of the question. The pertinent info to you.
+
+1957
+01:16:33,360 --> 01:16:34,200
+And you got it.
+
+1958
+01:16:34,200 --> 01:16:35,480
+The pertinent information.
+
+1959
+01:16:35,480 --> 01:16:38,240
+I mean, I know for you, the pertinent information is,
+
+1960
+01:16:38,280 --> 01:16:40,720
+what day is Peter Pan and Wendy coming out?
+
+1961
+01:16:40,720 --> 01:16:41,600
+I wanna know.
+
+1962
+01:16:41,600 --> 01:16:45,840
+It's my most anticipated movie of 2022, said Scott.
+
+1963
+01:16:45,840 --> 01:16:49,320
+I have nothing to look forward to in 2022
+
+1964
+01:16:49,320 --> 01:16:54,320
+until some boy surrounded by a bunch of CGI
+
+1965
+01:16:54,560 --> 01:16:58,960
+weaves his, when he proceeds to enchant me
+
+1966
+01:16:58,960 --> 01:17:03,480
+with his flight and tights.
+
+1967
+01:17:03,480 --> 01:17:07,440
+Starring all your favorite children of Hollywood legend,
+
+1968
+01:17:07,440 --> 01:17:11,120
+Jamie Tobak, Kevin Riefenstahl,
+
+1969
+01:17:11,120 --> 01:17:13,840
+all the children of Hollywood.
+
+1970
+01:17:13,840 --> 01:17:14,840
+Kevin Riefenstahl.
+
+1971
+01:17:18,160 --> 01:17:21,640
+I think that Peter Pan might be a good first theater
+
+1972
+01:17:21,640 --> 01:17:23,880
+movie experience with your son.
+
+1973
+01:17:23,880 --> 01:17:24,720
+Oh God.
+
+1974
+01:17:25,720 --> 01:17:27,840
+Or are you waiting for Zemeckis Pinocchio?
+
+1975
+01:17:27,840 --> 01:17:31,000
+Are you waiting for Zemeckis Pinocchio, maybe?
+
+1976
+01:17:31,000 --> 01:17:32,160
+I could see that happening.
+
+1977
+01:17:32,160 --> 01:17:34,160
+I could see you wanting to do that, yeah.
+
+1978
+01:17:35,160 --> 01:17:38,080
+I say keep the theaters closed.
+
+1979
+01:17:38,080 --> 01:17:39,320
+Too much of a risk.
+
+1980
+01:17:39,320 --> 01:17:40,880
+You were mad about that AMC stock
+
+1981
+01:17:40,880 --> 01:17:43,280
+when they got their stock price boosted.
+
+1982
+01:17:45,080 --> 01:17:45,920
+Okay.
+
+1983
+01:17:45,920 --> 01:17:46,760
+I'm fighting it.
+
+1984
+01:17:46,760 --> 01:17:49,560
+These people doing these shorts on these stocks.
+
+1985
+01:17:49,560 --> 01:17:50,440
+It's not funny.
+
+1986
+01:17:50,440 --> 01:17:51,880
+People pay a price.
+
+1987
+01:17:52,960 --> 01:17:54,520
+Okay, true or false?
+
+1988
+01:17:54,520 --> 01:17:57,880
+The design of the Magic Key Pass is the same design
+
+1989
+01:17:57,880 --> 01:18:00,840
+as the Key Wards and Key Bits,
+
+1990
+01:18:00,840 --> 01:18:03,120
+which are the name of the like end of the key,
+
+1991
+01:18:03,120 --> 01:18:06,720
+that's official names, Key Wards and Key Bits.
+
+1992
+01:18:06,720 --> 01:18:09,840
+They're the same design as the key hanging off
+
+1993
+01:18:09,840 --> 01:18:11,600
+of Ben Franklin's kite string
+
+1994
+01:18:11,600 --> 01:18:14,440
+in the Disney animated classic, Ben and Me.
+
+1995
+01:18:14,440 --> 01:18:16,320
+True or false?
+
+1996
+01:18:16,320 --> 01:18:19,560
+Is the key based on the key from Ben and Me?
+
+1997
+01:18:19,560 --> 01:18:21,400
+One side of it, because one side is Mickey
+
+1998
+01:18:21,400 --> 01:18:23,200
+and the other side is not.
+
+1999
+01:18:23,200 --> 01:18:25,080
+Oh, the War, but it's not the Mickey part.
+
+2000
+01:18:25,080 --> 01:18:28,240
+The wards and bits of the key.
+
+2001
+01:18:28,240 --> 01:18:29,480
+I would love this to be true,
+
+2002
+01:18:29,480 --> 01:18:31,400
+but I don't think anyone is paying attention to this.
+
+2003
+01:18:31,400 --> 01:18:32,320
+I'm gonna say false.
+
+2004
+01:18:32,360 --> 01:18:33,440
+It is false, sadly.
+
+2005
+01:18:33,440 --> 01:18:35,640
+It would have been a great idea to tie that in,
+
+2006
+01:18:35,640 --> 01:18:36,480
+but they did not do it.
+
+2007
+01:18:36,480 --> 01:18:37,600
+Okay, here is the tough one,
+
+2008
+01:18:37,600 --> 01:18:39,800
+because this is the verbal essay question.
+
+2009
+01:18:39,800 --> 01:18:41,360
+Okay, but you're doing fantastic.
+
+2010
+01:18:41,360 --> 01:18:43,720
+You've missed one, I think, on the whole.
+
+2011
+01:18:43,720 --> 01:18:44,560
+I think two.
+
+2012
+01:18:44,560 --> 01:18:46,400
+Sorry, sorry, two.
+
+2013
+01:18:46,400 --> 01:18:47,360
+So it's really only one,
+
+2014
+01:18:47,360 --> 01:18:48,880
+because you have one extra credit point.
+
+2015
+01:18:48,880 --> 01:18:49,720
+Now, if you pass this,
+
+2016
+01:18:49,720 --> 01:18:50,760
+That's right, thank you.
+
+2017
+01:18:50,760 --> 01:18:54,600
+This is gonna be like basically an A plus at this point,
+
+2018
+01:18:54,600 --> 01:18:57,720
+I would say, maybe an A, if you're really being technical.
+
+2019
+01:18:57,720 --> 01:18:59,440
+All right, here we go.
+
+2020
+01:18:59,440 --> 01:19:02,400
+Al G Rhythm has trapped you inside a Disney computer
+
+2021
+01:19:02,400 --> 01:19:05,080
+to compete against a team of basketball playing characters
+
+2022
+01:19:05,080 --> 01:19:06,960
+created by your son.
+
+2023
+01:19:06,960 --> 01:19:08,480
+Which team of Disney characters
+
+2024
+01:19:08,480 --> 01:19:10,400
+do you assemble to play this team,
+
+2025
+01:19:10,400 --> 01:19:12,360
+and which pass do you buy each of them
+
+2026
+01:19:12,360 --> 01:19:14,040
+after successfully winning the game
+
+2027
+01:19:14,040 --> 01:19:16,280
+and earning back the love of your son?
+
+2028
+01:19:17,680 --> 01:19:18,800
+Oh, God, hang on.
+
+2029
+01:19:18,800 --> 01:19:20,080
+There's a lot in this question.
+
+2030
+01:19:20,080 --> 01:19:22,400
+You have to assemble a team of Disney characters,
+
+2031
+01:19:22,400 --> 01:19:25,800
+then we assume you win against the team of characters
+
+2032
+01:19:25,800 --> 01:19:27,240
+created by your son.
+
+2033
+01:19:27,240 --> 01:19:28,280
+You win back your son's love,
+
+2034
+01:19:28,280 --> 01:19:30,080
+and then you have to buy each person,
+
+2035
+01:19:30,080 --> 01:19:32,680
+each character on your team a different pass,
+
+2036
+01:19:32,680 --> 01:19:34,720
+and you have to explain each pass
+
+2037
+01:19:34,720 --> 01:19:36,240
+and why you bought it for them.
+
+2038
+01:19:36,240 --> 01:19:41,240
+Okay, so, all right, so I'm in Disney 3000,
+
+2039
+01:19:41,880 --> 01:19:43,280
+I'm in the Disney server verse.
+
+2040
+01:19:43,280 --> 01:19:44,280
+That's correct.
+
+2041
+01:19:44,280 --> 01:19:48,160
+Which means that I have access to any characters
+
+2042
+01:19:48,160 --> 01:19:49,320
+past and present.
+
+2043
+01:19:49,320 --> 01:19:50,560
+Correct.
+
+2044
+01:19:50,560 --> 01:19:52,440
+Anything that Disney owns.
+
+2045
+01:19:52,440 --> 01:19:57,440
+So that includes Fox, it does not include Casablanca,
+
+2046
+01:19:59,200 --> 01:20:01,680
+or the Clockwork Orange Droogs.
+
+2047
+01:20:01,680 --> 01:20:02,880
+No.
+
+2048
+01:20:02,880 --> 01:20:05,680
+But, and also, just to be clear,
+
+2049
+01:20:05,680 --> 01:20:08,000
+whoever I don't pick, the other characters
+
+2050
+01:20:08,000 --> 01:20:13,000
+will all come to the game and cheer in a looping fashion
+
+2051
+01:20:13,040 --> 01:20:15,400
+that is too sharp and too well-lit
+
+2052
+01:20:15,400 --> 01:20:17,000
+and very distracting from the game
+
+2053
+01:20:17,000 --> 01:20:17,960
+that I'm trying to play.
+
+2054
+01:20:17,960 --> 01:20:18,800
+That is correct.
+
+2055
+01:20:18,800 --> 01:20:20,400
+If you want, I know you wanna get out there
+
+2056
+01:20:20,400 --> 01:20:22,280
+and hang out with your son, but if you want,
+
+2057
+01:20:22,280 --> 01:20:23,760
+you can also name all the characters
+
+2058
+01:20:23,760 --> 01:20:25,640
+that are watching you in the stands.
+
+2059
+01:20:25,640 --> 01:20:28,160
+But I'm not gonna make you do that for this test.
+
+2060
+01:20:29,040 --> 01:20:30,360
+It's just five, you're playing on the team,
+
+2061
+01:20:30,360 --> 01:20:33,640
+and there's four other characters, Disney characters.
+
+2062
+01:20:33,640 --> 01:20:37,040
+If I turn and look and he's like, you know,
+
+2063
+01:20:37,040 --> 01:20:40,200
+diarrhea-ing onto the window or something,
+
+2064
+01:20:40,200 --> 01:20:42,000
+it seems like a mess, I don't want any part of it,
+
+2065
+01:20:42,000 --> 01:20:44,240
+maybe I'll stay here and name everyone in the crowd.
+
+2066
+01:20:44,240 --> 01:20:46,760
+But until then, so, all right.
+
+2067
+01:20:46,760 --> 01:20:49,760
+And who am I playing against, Al G-Rhythm?
+
+2068
+01:20:49,760 --> 01:20:50,680
+Well, no, you're playing against,
+
+2069
+01:20:50,680 --> 01:20:52,600
+your son has come up with characters.
+
+2070
+01:20:52,600 --> 01:20:53,720
+Oh, right, yes.
+
+2071
+01:20:53,720 --> 01:20:55,760
+So he's come up with generic sort of
+
+2072
+01:20:55,760 --> 01:20:57,840
+video game style characters.
+
+2073
+01:20:57,840 --> 01:20:59,920
+And you're playing against that, those characters,
+
+2074
+01:20:59,920 --> 01:21:00,960
+and you're trying to win that.
+
+2075
+01:21:00,960 --> 01:21:03,160
+Everybody's gotta be good at basketball
+
+2076
+01:21:03,160 --> 01:21:06,040
+or bring some other skill to the table,
+
+2077
+01:21:06,040 --> 01:21:08,520
+because I think creativity is part of it in this scenario.
+
+2078
+01:21:08,520 --> 01:21:10,200
+Yes, for sure it is, yeah.
+
+2079
+01:21:10,200 --> 01:21:15,200
+Okay, well, just to get basketball skills in there,
+
+2080
+01:21:15,440 --> 01:21:20,440
+I will get Professor Brainard, the absent-minded professor.
+
+2081
+01:21:20,840 --> 01:21:21,680
+Perfect, great.
+
+2082
+01:21:21,680 --> 01:21:25,240
+To be there and bring, wait, no, not him, wait.
+
+2083
+01:21:25,240 --> 01:21:27,760
+I want, ugh.
+
+2084
+01:21:27,760 --> 01:21:31,440
+Well, maybe he should come and play,
+
+2085
+01:21:31,440 --> 01:21:36,320
+and can he bring Flubber that everyone on the court uses?
+
+2086
+01:21:36,320 --> 01:21:38,640
+As we saw in Space Jam 2,
+
+2087
+01:21:38,640 --> 01:21:40,800
+there are no rules to any of that game.
+
+2088
+01:21:40,800 --> 01:21:42,600
+So yes, you can do almost anything you want.
+
+2089
+01:21:42,600 --> 01:21:43,760
+And yes, he could bring Flubber,
+
+2090
+01:21:43,760 --> 01:21:46,400
+and everybody could be utilizing Flubber, great idea.
+
+2091
+01:21:46,400 --> 01:21:50,600
+Then for sure Brainard's coming with Flubber.
+
+2092
+01:21:50,600 --> 01:21:52,640
+I don't wanna use two slots on Brainard's.
+
+2093
+01:21:52,640 --> 01:21:55,880
+Like, should I use, should I get Robin Williams
+
+2094
+01:21:55,880 --> 01:21:57,240
+and Fred McMurray?
+
+2095
+01:21:57,840 --> 01:21:58,680
+Is that overkill?
+
+2096
+01:21:58,680 --> 01:22:00,400
+There are no rules that say you can't get
+
+2097
+01:22:00,400 --> 01:22:02,840
+two different characters.
+
+2098
+01:22:02,840 --> 01:22:04,800
+Are they both Brainards though?
+
+2099
+01:22:04,800 --> 01:22:07,480
+That's a good question, I don't know.
+
+2100
+01:22:07,480 --> 01:22:11,600
+Let me just make sure on that, absent-minded professor.
+
+2101
+01:22:11,600 --> 01:22:13,040
+Because if they're different characters,
+
+2102
+01:22:13,040 --> 01:22:16,320
+then I think maybe you're covering different ground.
+
+2103
+01:22:16,320 --> 01:22:19,360
+Yeah, Brainard is one, and then that's the,
+
+2104
+01:22:19,360 --> 01:22:21,960
+oh, no, okay, I think it's the same character.
+
+2105
+01:22:21,960 --> 01:22:26,040
+Although there were multiple jokers at the Space Jam game.
+
+2106
+01:22:26,040 --> 01:22:27,200
+That's true.
+
+2107
+01:22:27,240 --> 01:22:28,720
+I don't know, the other one should sit in the crowd.
+
+2108
+01:22:28,720 --> 01:22:32,320
+I should, am I just building out a starting lineup?
+
+2109
+01:22:32,320 --> 01:22:34,240
+Yeah, just build up a starting lineup, yes.
+
+2110
+01:22:34,240 --> 01:22:36,240
+Am I in it?
+
+2111
+01:22:36,240 --> 01:22:38,480
+I was assuming you were, but if you'd like to take
+
+2112
+01:22:38,480 --> 01:22:40,280
+your slot and give it to some other Disney character,
+
+2113
+01:22:40,280 --> 01:22:41,120
+you can.
+
+2114
+01:22:41,120 --> 01:22:43,120
+I'd better, I'm fighting for my son's love.
+
+2115
+01:22:43,120 --> 01:22:48,120
+So Scott Gardner, professor Brainard.
+
+2116
+01:22:49,440 --> 01:22:50,880
+Which one specifically?
+
+2117
+01:22:51,920 --> 01:22:53,160
+I think Fred McMurray's.
+
+2118
+01:22:53,160 --> 01:22:54,000
+The classic.
+
+2119
+01:22:54,000 --> 01:22:55,960
+Yeah, that's the one I'd most wanna meet.
+
+2120
+01:22:55,960 --> 01:22:56,800
+Great.
+
+2121
+01:22:57,520 --> 01:23:01,800
+So, let's see, who else would be good at basketball?
+
+2122
+01:23:01,800 --> 01:23:05,880
+Like who can, oh, maybe Tarzan.
+
+2123
+01:23:05,880 --> 01:23:09,680
+I think, yeah, 99 Tarzan is gonna be there.
+
+2124
+01:23:09,680 --> 01:23:11,720
+That's one of the most fit characters.
+
+2125
+01:23:11,720 --> 01:23:12,960
+I think if you're also talking fit,
+
+2126
+01:23:12,960 --> 01:23:14,680
+you gotta go King Triton.
+
+2127
+01:23:14,680 --> 01:23:18,600
+Great, do you mean Tarzan or Georgia the Jungle?
+
+2128
+01:23:18,600 --> 01:23:19,640
+No, I mean Tarzan.
+
+2129
+01:23:19,640 --> 01:23:20,480
+Oh, animated Tarzan, I'm sorry, go ahead.
+
+2130
+01:23:20,480 --> 01:23:23,120
+The Georgia the Jungle, not a bad thought either.
+
+2131
+01:23:24,320 --> 01:23:25,760
+King Triton, though, he has to like,
+
+2132
+01:23:26,600 --> 01:23:29,360
+well, he can wave his thing and give himself legs, right?
+
+2133
+01:23:29,360 --> 01:23:30,440
+Can he?
+
+2134
+01:23:30,440 --> 01:23:32,880
+Can he wave his thing and give himself legs?
+
+2135
+01:23:32,880 --> 01:23:34,800
+I mean, if it's on the line.
+
+2136
+01:23:34,800 --> 01:23:37,160
+Does he give Ariel legs with his thing?
+
+2137
+01:23:37,160 --> 01:23:38,920
+Is it Triton?
+
+2138
+01:23:38,920 --> 01:23:39,960
+Yeah, he does it, right?
+
+2139
+01:23:39,960 --> 01:23:42,720
+Cause he has all the powers that Ursula has.
+
+2140
+01:23:42,720 --> 01:23:45,960
+What an asshole that he wouldn't just do that immediately.
+
+2141
+01:23:45,960 --> 01:23:48,960
+Can Ursula be there?
+
+2142
+01:23:48,960 --> 01:23:50,440
+And I don't, you know,
+
+2143
+01:23:50,440 --> 01:23:52,280
+now that you wanna be in business with Ursula,
+
+2144
+01:23:52,280 --> 01:23:54,320
+but she could transform herself
+
+2145
+01:23:54,320 --> 01:23:56,960
+into a really good basketball player probably.
+
+2146
+01:23:56,960 --> 01:24:01,160
+Like she just, you know, matches the body of,
+
+2147
+01:24:01,160 --> 01:24:02,000
+I don't know who's a big,
+
+2148
+01:24:02,000 --> 01:24:03,280
+Would she have to make a deal?
+
+2149
+01:24:03,280 --> 01:24:05,120
+Would she like make a deal with Scottie Pippen
+
+2150
+01:24:05,120 --> 01:24:08,400
+and steal his abilities like the original Monstars did?
+
+2151
+01:24:08,400 --> 01:24:13,040
+Or like crossing over Space Jam rules and like voice stealing.
+
+2152
+01:24:13,040 --> 01:24:14,120
+Yeah.
+
+2153
+01:24:14,120 --> 01:24:16,520
+Yeah, she'd be able to, huh.
+
+2154
+01:24:16,520 --> 01:24:20,560
+I mean, can she, can, is Michael Jordan automatically,
+
+2155
+01:24:20,560 --> 01:24:22,840
+no, he's not in the servers,
+
+2156
+01:24:22,880 --> 01:24:24,600
+but he's also not, hmm.
+
+2157
+01:24:24,600 --> 01:24:29,600
+Can Ursula travel out of the server first,
+
+2158
+01:24:30,600 --> 01:24:34,840
+steal Michael Jordan's basketball powers
+
+2159
+01:24:34,840 --> 01:24:36,640
+and then only a true love's kiss
+
+2160
+01:24:36,640 --> 01:24:39,560
+can give Michael Jordan his abilities back?
+
+2161
+01:24:39,560 --> 01:24:40,640
+I don't see why not.
+
+2162
+01:24:40,640 --> 01:24:42,080
+I don't see why not either, yeah.
+
+2163
+01:24:42,080 --> 01:24:45,360
+All right, so King Triton is out
+
+2164
+01:24:45,360 --> 01:24:47,160
+because I don't think he would agree to any of this.
+
+2165
+01:24:47,160 --> 01:24:48,000
+Right.
+
+2166
+01:24:48,000 --> 01:24:49,920
+Like what, I wouldn't, it's preposterous.
+
+2167
+01:24:49,920 --> 01:24:51,280
+Ursula's down with what,
+
+2168
+01:24:51,280 --> 01:24:53,560
+should I maybe not go Jordan though?
+
+2169
+01:24:53,560 --> 01:24:55,640
+Just like who's a current, I mean,
+
+2170
+01:24:55,640 --> 01:24:58,120
+now LeBron's already kind of in league with,
+
+2171
+01:24:59,520 --> 01:25:00,440
+I don't know, Kevin Durant.
+
+2172
+01:25:00,440 --> 01:25:02,920
+Let's go, cause you don't want Jordan now probably.
+
+2173
+01:25:02,920 --> 01:25:07,400
+So let's, Ursula's gonna take Kevin Durant's powers
+
+2174
+01:25:07,400 --> 01:25:10,160
+and bring them back into the server first.
+
+2175
+01:25:10,160 --> 01:25:11,000
+Yes.
+
+2176
+01:25:11,000 --> 01:25:12,960
+And give herself legs, there's a lot of work to be done.
+
+2177
+01:25:12,960 --> 01:25:15,320
+And she'll also get Flubber from Brainerd.
+
+2178
+01:25:15,560 --> 01:25:20,560
+And then, I mean, you want like creativity.
+
+2179
+01:25:21,440 --> 01:25:24,400
+Who's just like gonna like come up with some
+
+2180
+01:25:24,400 --> 01:25:27,000
+like bizarre thing that works out?
+
+2181
+01:25:29,000 --> 01:25:32,560
+That's just like, you know, funny and clever.
+
+2182
+01:25:32,560 --> 01:25:34,600
+Like Goofy, you probably can't depend on.
+
+2183
+01:25:34,600 --> 01:25:37,360
+I mean, do you want just Mickey Mouse just to like?
+
+2184
+01:25:37,360 --> 01:25:39,680
+I mean, you bring star power to the team, certainly.
+
+2185
+01:25:39,680 --> 01:25:42,080
+All around player probably, like playing.
+
+2186
+01:25:42,080 --> 01:25:44,120
+And kind of a motivator.
+
+2187
+01:25:44,120 --> 01:25:44,960
+Yeah.
+
+2188
+01:25:45,800 --> 01:25:48,120
+Unless you want like a Muppet.
+
+2189
+01:25:48,120 --> 01:25:48,960
+You do have the Muppets.
+
+2190
+01:25:48,960 --> 01:25:50,880
+You can get, you got Marvel, you got Star,
+
+2191
+01:25:50,880 --> 01:25:53,880
+you can do Captain Phasma if you want.
+
+2192
+01:25:53,880 --> 01:25:54,720
+What am I saying?
+
+2193
+01:25:54,720 --> 01:25:56,200
+Mazanada.
+
+2194
+01:25:56,200 --> 01:25:58,360
+Bullwhip Griffin, you know,
+
+2195
+01:25:58,360 --> 01:26:00,200
+but basketball may not have been invented
+
+2196
+01:26:00,200 --> 01:26:01,040
+or was just being invented. Jock Lindsay
+
+2197
+01:26:01,040 --> 01:26:02,440
+from Indiana Jones.
+
+2198
+01:26:02,440 --> 01:26:03,280
+Sure.
+
+2199
+01:26:05,080 --> 01:26:06,600
+Mutt Williams.
+
+2200
+01:26:07,600 --> 01:26:09,360
+Mutt Williams is tempting.
+
+2201
+01:26:09,360 --> 01:26:14,360
+Like what if I put in like 20th century Fox basketball movie?
+
+2202
+01:26:14,960 --> 01:26:16,000
+Yeah.
+
+2203
+01:26:16,000 --> 01:26:17,760
+Pretty much the only things you can have
+
+2204
+01:26:17,760 --> 01:26:19,480
+are like butts or cigarettes.
+
+2205
+01:26:19,480 --> 01:26:22,240
+Like those are not existing in the Disney server first.
+
+2206
+01:26:22,240 --> 01:26:23,760
+Those have all been deleted.
+
+2207
+01:26:23,760 --> 01:26:25,560
+Yeah, those are blurred out.
+
+2208
+01:26:25,560 --> 01:26:28,880
+Who's, is like, I've never seen White Men Can't Jump,
+
+2209
+01:26:28,880 --> 01:26:31,040
+but apparently Disney owns that now.
+
+2210
+01:26:31,040 --> 01:26:33,440
+Is, who's a good player?
+
+2211
+01:26:33,440 --> 01:26:36,280
+Is one of them good and one of them isn't?
+
+2212
+01:26:36,280 --> 01:26:37,560
+I assume they're all, they're both good.
+
+2213
+01:26:37,560 --> 01:26:39,880
+I actually have not seen that movie either.
+
+2214
+01:26:39,880 --> 01:26:41,480
+I'm just gonna take a swing
+
+2215
+01:26:41,480 --> 01:26:45,640
+and get Wesley Snipes from White Men Can't Jump.
+
+2216
+01:26:45,640 --> 01:26:46,480
+Okay.
+
+2217
+01:26:46,480 --> 01:26:49,160
+And Woody will obviously be in the audience.
+
+2218
+01:26:49,160 --> 01:26:54,160
+And just to clarify his character's name is Sydney Sid Dean.
+
+2219
+01:26:56,480 --> 01:26:57,320
+Okay, great.
+
+2220
+01:26:57,320 --> 01:27:01,760
+So the team that I have assembled within the servers
+
+2221
+01:27:01,760 --> 01:27:06,760
+is me, Scott Gardner, Professor Brainard, Tarzan, Ursula,
+
+2222
+01:27:06,760 --> 01:27:09,440
+who has stolen Kevin Torrance powers,
+
+2223
+01:27:09,440 --> 01:27:12,280
+and Sid Dean from White Men Can't Jump.
+
+2224
+01:27:12,280 --> 01:27:13,120
+So the team.
+
+2225
+01:27:13,120 --> 01:27:14,280
+And I think that all together,
+
+2226
+01:27:14,280 --> 01:27:15,760
+yeah, that's pretty stacked, right?
+
+2227
+01:27:15,760 --> 01:27:19,600
+And I think regardless of who my son,
+
+2228
+01:27:19,600 --> 01:27:21,960
+whose video game abilities,
+
+2229
+01:27:21,960 --> 01:27:23,600
+which are the greatest of all time,
+
+2230
+01:27:23,600 --> 01:27:26,640
+I deny, I hate them.
+
+2231
+01:27:26,640 --> 01:27:28,040
+I guess, is it because,
+
+2232
+01:27:28,040 --> 01:27:29,280
+I don't want him to be a basketball player.
+
+2233
+01:27:29,280 --> 01:27:32,280
+I want him to be a theme park podcaster.
+
+2234
+01:27:32,280 --> 01:27:33,120
+That's right, yes, yes.
+
+2235
+01:27:33,120 --> 01:27:35,280
+You were upset with him.
+
+2236
+01:27:35,280 --> 01:27:36,120
+Cause he was doing-
+
+2237
+01:27:36,120 --> 01:27:37,360
+And I'm upset that instead,
+
+2238
+01:27:37,400 --> 01:27:39,240
+he's the greatest video game developer
+
+2239
+01:27:39,240 --> 01:27:40,800
+of his or any generation.
+
+2240
+01:27:40,800 --> 01:27:42,200
+So.
+
+2241
+01:27:42,200 --> 01:27:43,360
+Right.
+
+2242
+01:27:43,360 --> 01:27:46,760
+But anyway, so I hate him and like,
+
+2243
+01:27:46,760 --> 01:27:48,480
+fuck that and his video game skills,
+
+2244
+01:27:48,480 --> 01:27:50,560
+but also I love him and I want his love back.
+
+2245
+01:27:50,560 --> 01:27:51,400
+Exactly.
+
+2246
+01:27:51,400 --> 01:27:53,400
+So, and I think this basketball game is gonna go great.
+
+2247
+01:27:53,400 --> 01:27:54,480
+I think it's gonna go great.
+
+2248
+01:27:54,480 --> 01:27:56,760
+Is there a yes, is there a right or wrong answer on this?
+
+2249
+01:27:56,760 --> 01:27:58,320
+Well, you need to also buy each one a pass
+
+2250
+01:27:58,320 --> 01:27:59,720
+now that you've won the game.
+
+2251
+01:27:59,720 --> 01:28:01,400
+Oh, okay.
+
+2252
+01:28:01,400 --> 01:28:03,800
+Well, I will buy, I think, you know,
+
+2253
+01:28:03,800 --> 01:28:05,720
+that's gonna get up there,
+
+2254
+01:28:05,720 --> 01:28:07,560
+but I,
+
+2255
+01:28:09,440 --> 01:28:10,680
+I mean, I could save a little money
+
+2256
+01:28:10,680 --> 01:28:12,960
+by only getting Tarzan the Imagine pass
+
+2257
+01:28:12,960 --> 01:28:14,560
+because like, he lives in the jungle.
+
+2258
+01:28:14,560 --> 01:28:16,000
+He's not gonna know what's going on.
+
+2259
+01:28:16,000 --> 01:28:17,240
+He's gonna be impressed by,
+
+2260
+01:28:17,240 --> 01:28:18,680
+he's just gonna look at the pass itself.
+
+2261
+01:28:18,680 --> 01:28:22,360
+Like, whoa, key turn into card.
+
+2262
+01:28:22,360 --> 01:28:24,880
+But I think I should be nice and just treat everybody,
+
+2263
+01:28:24,880 --> 01:28:27,120
+except for Ursula.
+
+2264
+01:28:27,120 --> 01:28:30,240
+She goes back to the sea.
+
+2265
+01:28:30,240 --> 01:28:32,840
+She only gets the pleasure of getting to have
+
+2266
+01:28:32,840 --> 01:28:34,480
+basketball powers for a little bit.
+
+2267
+01:28:34,520 --> 01:28:36,360
+Okay, so everybody gets the best pass
+
+2268
+01:28:36,360 --> 01:28:38,000
+because of big victory.
+
+2269
+01:28:38,000 --> 01:28:38,840
+Yeah, yeah, yeah.
+
+2270
+01:28:38,840 --> 01:28:40,760
+And I'm gonna wanna hang out at the park with all of them.
+
+2271
+01:28:40,760 --> 01:28:42,560
+So we're all getting the dream key.
+
+2272
+01:28:44,080 --> 01:28:49,080
+Well, I have to say that is an incorrect answer, sadly.
+
+2273
+01:28:50,120 --> 01:28:50,960
+Damn it.
+
+2274
+01:28:50,960 --> 01:28:53,680
+You know, it felt a little weird the whole time.
+
+2275
+01:28:53,680 --> 01:28:55,400
+I mean, there was, there's only one answer.
+
+2276
+01:28:55,400 --> 01:28:56,760
+It's of course the basketball team
+
+2277
+01:28:56,760 --> 01:29:00,400
+from that new John Stamos Disney Plus show,
+
+2278
+01:29:00,400 --> 01:29:03,160
+the high school high schoolers that he coaches.
+
+2279
+01:29:04,160 --> 01:29:06,680
+That's the, Big Shot is the name of the show.
+
+2280
+01:29:06,680 --> 01:29:08,080
+But they're not gonna be better than
+
+2281
+01:29:08,080 --> 01:29:09,400
+what I put together. He plays Marwin.
+
+2282
+01:29:09,400 --> 01:29:11,360
+And Sid Dean.
+
+2283
+01:29:11,360 --> 01:29:12,560
+I mean, that's a, look, it's great.
+
+2284
+01:29:12,560 --> 01:29:14,120
+I like the creativity, but sadly,
+
+2285
+01:29:14,120 --> 01:29:16,560
+you're not gonna get the point for that one.
+
+2286
+01:29:16,560 --> 01:29:18,720
+You have to- What pass am I supposed to get all of them?
+
+2287
+01:29:18,720 --> 01:29:21,200
+Well, they would all be getting the top pass
+
+2288
+01:29:21,200 --> 01:29:22,040
+because they won as well.
+
+2289
+01:29:22,040 --> 01:29:23,480
+So the, I guess, you know what, that was right.
+
+2290
+01:29:23,480 --> 01:29:24,720
+That part of the question was right.
+
+2291
+01:29:24,720 --> 01:29:26,560
+Partial credit, partial credit, yeah.
+
+2292
+01:29:26,560 --> 01:29:28,120
+You get half parking.
+
+2293
+01:29:28,120 --> 01:29:29,080
+Right. Okay.
+
+2294
+01:29:29,080 --> 01:29:32,440
+So do I win, maybe get half of my son's love back?
+
+2295
+01:29:32,440 --> 01:29:33,280
+That's true.
+
+2296
+01:29:33,280 --> 01:29:34,440
+Yeah, you got half of your son's love back.
+
+2297
+01:29:34,440 --> 01:29:35,640
+I'll give you that.
+
+2298
+01:29:35,640 --> 01:29:36,480
+All right.
+
+2299
+01:29:36,480 --> 01:29:39,160
+So he will, I'll have joint custody.
+
+2300
+01:29:39,160 --> 01:29:40,760
+I will be with him half the time.
+
+2301
+01:29:40,760 --> 01:29:42,920
+And the other half he will spend in the server verse
+
+2302
+01:29:42,920 --> 01:29:44,000
+with algae rhythm.
+
+2303
+01:29:44,000 --> 01:29:45,360
+That's correct. Yes.
+
+2304
+01:29:45,360 --> 01:29:48,640
+So anyway, that's still a very, very good showing
+
+2305
+01:29:48,640 --> 01:29:49,480
+on the test.
+
+2306
+01:29:49,480 --> 01:29:51,400
+I wanna see- Thank you.
+
+2307
+01:29:51,400 --> 01:29:53,000
+Everyone at home, show us your work.
+
+2308
+01:29:53,000 --> 01:29:56,280
+Show us who you decided would be on your team.
+
+2309
+01:29:56,280 --> 01:29:57,640
+Oh yeah, poster lineups.
+
+2310
+01:29:57,640 --> 01:29:58,760
+That's pretty good.
+
+2311
+01:29:58,760 --> 01:30:01,640
+Yeah, I would like to see everybody's all star,
+
+2312
+01:30:01,640 --> 01:30:03,720
+your Disney server verse starting lineups.
+
+2313
+01:30:03,720 --> 01:30:06,040
+So be sure to send us those.
+
+2314
+01:30:06,960 --> 01:30:09,560
+I mean, like, is there a, do I get a grade on that?
+
+2315
+01:30:09,560 --> 01:30:14,040
+Is that like, that ends up being like a 17 and a half.
+
+2316
+01:30:14,040 --> 01:30:16,200
+Although when you put it that, I don't know, out of 20,
+
+2317
+01:30:16,200 --> 01:30:17,240
+that's not the greatest.
+
+2318
+01:30:17,240 --> 01:30:19,000
+I mean, it's like a B plus of a team.
+
+2319
+01:30:19,000 --> 01:30:19,920
+Yeah, still pretty good.
+
+2320
+01:30:19,920 --> 01:30:20,760
+Okay, yeah.
+
+2321
+01:30:20,760 --> 01:30:21,760
+Still pretty good.
+
+2322
+01:30:21,760 --> 01:30:24,560
+Especially for somebody who came in and was so upset
+
+2323
+01:30:24,560 --> 01:30:26,080
+about the Magic Key program in general,
+
+2324
+01:30:26,080 --> 01:30:28,920
+you seem kind of like you're pretty close to being an expert.
+
+2325
+01:30:28,920 --> 01:30:29,760
+Wow.
+
+2326
+01:30:29,760 --> 01:30:31,000
+Well, you know what?
+
+2327
+01:30:31,000 --> 01:30:33,560
+It's, when you have good teachers,
+
+2328
+01:30:33,560 --> 01:30:38,560
+you can overcome any anger you have about the topic
+
+2329
+01:30:40,200 --> 01:30:42,440
+or the names that you're talking about.
+
+2330
+01:30:43,640 --> 01:30:47,560
+Yeah, hey, you guys did it.
+
+2331
+01:30:47,560 --> 01:30:50,120
+And my professors, I love you so much.
+
+2332
+01:30:50,120 --> 01:30:55,120
+And I feel like I need to tribute you by saying,
+
+2333
+01:30:56,000 --> 01:31:01,000
+if you wanted the moon, I would try to make a start,
+
+2334
+01:31:02,320 --> 01:31:07,320
+but I would rather you let me give my heart to sirs with love.
+
+2335
+01:31:10,600 --> 01:31:13,040
+That's the thing you sing to professors, right?
+
+2336
+01:31:14,720 --> 01:31:15,560
+Yeah, that is.
+
+2337
+01:31:15,560 --> 01:31:16,400
+That is.
+
+2338
+01:31:16,400 --> 01:31:18,920
+Yeah, well, we did at least when I was younger.
+
+2339
+01:31:18,920 --> 01:31:20,840
+Yeah, you ever at the end of the school year,
+
+2340
+01:31:20,840 --> 01:31:23,240
+the whole class learned to sir with love.
+
+2341
+01:31:24,200 --> 01:31:25,520
+Yeah, for sure.
+
+2342
+01:31:26,680 --> 01:31:27,800
+Well, that's from the heart.
+
+2343
+01:31:27,800 --> 01:31:28,640
+And that's to you guys.
+
+2344
+01:31:28,640 --> 01:31:29,480
+Thank you very much.
+
+2345
+01:31:29,480 --> 01:31:30,320
+Thanks for teaching me.
+
+2346
+01:31:30,320 --> 01:31:31,240
+Thanks for getting me to that B plus.
+
+2347
+01:31:31,240 --> 01:31:33,640
+We're getting me half custody of my son.
+
+2348
+01:31:33,640 --> 01:31:34,560
+Hey, you know what?
+
+2349
+01:31:34,560 --> 01:31:35,400
+Not so bad.
+
+2350
+01:31:35,400 --> 01:31:40,400
+You guys put the medicine, you hid it in a sweet treat,
+
+2351
+01:31:41,280 --> 01:31:42,680
+in a brownie.
+
+2352
+01:31:42,680 --> 01:31:47,240
+And now you've fed the sin, as Jeremy Renner has taught us.
+
+2353
+01:31:49,520 --> 01:31:50,720
+Beautiful.
+
+2354
+01:31:50,720 --> 01:31:51,560
+All right.
+
+2355
+01:31:51,640 --> 01:31:55,640
+You survived podcast the ride, magic key edition.
+
+2356
+01:31:57,920 --> 01:32:02,840
+And you know, the math on these things is all pretty crazy,
+
+2357
+01:32:02,840 --> 01:32:07,840
+but at $5 a month to stay subscribed behind the paywall,
+
+2358
+01:32:08,560 --> 01:32:11,160
+there's no more magic key than this.
+
+2359
+01:32:11,160 --> 01:32:15,080
+And you can hold as many episodes as you want,
+
+2360
+01:32:15,080 --> 01:32:16,800
+three new ones a month,
+
+2361
+01:32:18,080 --> 01:32:20,840
+but you keep all the ones that you have.
+
+2362
+01:32:22,360 --> 01:32:24,120
+Do we have enough perks?
+
+2363
+01:32:24,120 --> 01:32:26,120
+Do we need, I guess, I don't know, free parking,
+
+2364
+01:32:26,120 --> 01:32:28,960
+if we ever give you a place to go.
+
+2365
+01:32:28,960 --> 01:32:31,080
+I would like to announce to become a charter member
+
+2366
+01:32:31,080 --> 01:32:33,920
+of the Patreon, you have to buy a Patreon subscription
+
+2367
+01:32:33,920 --> 01:32:37,720
+within the first 5,000 days that it exists.
+
+2368
+01:32:37,720 --> 01:32:40,320
+And you will be one of our charter Patreon members.
+
+2369
+01:32:41,400 --> 01:32:42,520
+So that's right.
+
+2370
+01:32:42,520 --> 01:32:43,800
+So that's everybody so far.
+
+2371
+01:32:43,800 --> 01:32:46,040
+So everybody so far is a charter member.
+
+2372
+01:32:46,040 --> 01:32:46,880
+Yes.
+
+2373
+01:32:46,880 --> 01:32:47,840
+So you only have a couple,
+
+2374
+01:32:47,840 --> 01:32:51,200
+you only have a few thousand days left to sign up.
+
+2375
+01:32:51,880 --> 01:32:53,360
+You won't hear about it here, I guess,
+
+2376
+01:32:53,360 --> 01:32:54,840
+because if you haven't signed up,
+
+2377
+01:32:54,840 --> 01:32:57,160
+you won't hear this message, but.
+
+2378
+01:32:57,160 --> 01:32:58,480
+It's glowing away fast.
+
+2379
+01:32:58,480 --> 01:33:01,480
+So act now, be sure to become a podcast,
+
+2380
+01:33:01,480 --> 01:33:03,520
+the right charter holder.
+
+2381
+01:33:03,520 --> 01:33:07,800
+And if we can figure out all of this
+
+2382
+01:33:07,800 --> 01:33:11,480
+and how to get our holds, then we'll see you at the park.
+
+2383
+01:33:13,120 --> 01:33:13,960
+Bye bye.
+
+2384
+01:33:13,960 --> 01:33:14,780
+Bye bye.
+
