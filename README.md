@@ -11,7 +11,9 @@ Transcripts were done on ad-free versions of the episodes, available from a comb
 I haven't done any serious verification or corrections. The transcripts definitely have some issues that I've noticed while skimming:
 
 -It's inconsistent around whether it transcribes the Citywalk Saga opening song & narration. I think the background music confuses it. 
+
 -It does an impressive job with proper nouns, but isn't 100%.
+
 -Good luck searching for any specific pronunciation of "buca di beppo"
 
 I'm going to try and keep up with new episodes, likely every couple of months.
