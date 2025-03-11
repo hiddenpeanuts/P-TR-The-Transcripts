@@ -1,0 +1,2940 @@
+1
+00:00:00,000 --> 00:00:26,320
+Welcome to Podcast The Ride The Second Gate where today I want to say first, much like
+
+2
+00:00:26,800 --> 00:00:31,280
+section of a YouTube video or a message board thread or something. I feel like that was an
+
+3
+00:00:31,280 --> 00:00:37,680
+early internet thing, but today I'm saying Mike Carlson first when it comes to the topic we're
+
+4
+00:00:37,680 --> 00:00:42,880
+talking about today. Jason Sheridan is here. He also should say first. You'll not understand
+
+5
+00:00:42,880 --> 00:00:46,960
+what I'm talking about in a second. I'm saying first. I mean, you were first. You clocked this.
+
+6
+00:00:46,960 --> 00:00:52,560
+Yes, I clocked this. So you're seeing this topic right now come up in your second gate feed and
+
+7
+00:00:52,560 --> 00:00:58,160
+you probably don't know what it is, but I just want to say Podcast The Ride, specifically me,
+
+8
+00:00:58,160 --> 00:01:02,800
+Mike Carlson discovered it first. So let's just get that out of the way. We should say that we're
+
+9
+00:01:02,800 --> 00:01:08,480
+Scott free today. Some stuff has happened, good stuff as far as Scott is concerned, and we will
+
+10
+00:01:08,480 --> 00:01:14,960
+be Scott free for a few episodes or so. It's not going to be as long as last time, but he is not
+
+11
+00:01:14,960 --> 00:01:21,680
+here today to enjoy the firstness of it all. That's right. And I'm sure he's kicking himself
+
+12
+00:01:22,320 --> 00:01:28,400
+for missing out on this one. Yeah, I can't tell if this is good that he's not here or he is going
+
+13
+00:01:28,400 --> 00:01:34,400
+to be jealous that he wasn't involved in the firstness of it all. I don't know. I mean,
+
+14
+00:01:34,400 --> 00:01:42,640
+look, I would love if he uncovered something that we missed because I don't know that I could have
+
+15
+00:01:42,640 --> 00:01:48,560
+searched any other thing. No, I don't know how much there is sort of to dig into this, but we should
+
+16
+00:01:48,560 --> 00:01:54,480
+just say now that I keep being vague that today we're going to be talking about a new Disney
+
+17
+00:01:54,480 --> 00:02:01,520
+character. How often, I should say this, park specific Disney character, how often does this
+
+18
+00:02:01,520 --> 00:02:07,760
+happen? It's so often these days. Kind of rare. Kind of rare, especially because all the rides
+
+19
+00:02:07,760 --> 00:02:15,040
+are generally IP based on movies and shows. So it's rare that you get a full original theme park
+
+20
+00:02:15,040 --> 00:02:21,840
+character. And that is what Disney has done literally two months ago. Yes. Two months ago,
+
+21
+00:02:21,840 --> 00:02:26,800
+like around December 13th. I'm not sure we were trying to find the exact date. So maybe this is
+
+22
+00:02:26,800 --> 00:02:30,880
+where Scott would have come in handy. He would know the exact date of this character's creation,
+
+23
+00:02:30,880 --> 00:02:39,600
+but they posted a video of the new character that is supposed to be the mascot of the Disneyland
+
+24
+00:02:39,600 --> 00:02:49,920
+annual passes, AKA the magic key passes. This character is a duck and his name is,
+
+25
+00:02:49,920 --> 00:02:55,680
+let's say it together. Ducky. Now I don't know if it's supposed to be pronounced duck key,
+
+26
+00:02:56,720 --> 00:03:03,360
+but that seems to be the pun, the joke of the name. He has key in his name. He has key in his
+
+27
+00:03:03,360 --> 00:03:09,520
+name. So this is the new character. No one is talking about it. I feel that Disney hasn't done
+
+28
+00:03:09,520 --> 00:03:16,240
+enough to push this character on the public. Yeah. Uh, I would agree because shortly before
+
+29
+00:03:16,240 --> 00:03:25,440
+you got here, uh, I was searching Reddit and the Disney store app and I found, uh, nothing.
+
+30
+00:03:26,320 --> 00:03:34,240
+I literally got this no results found for ducky on the Disney store app with this kind of condescending
+
+31
+00:03:34,240 --> 00:03:38,800
+upside down goofy. Yeah. So when you search for something on the Disney store and you can't find
+
+32
+00:03:38,800 --> 00:03:44,640
+it, goofy is like doing a headstand and he's really like flashing his groin at you. Yeah.
+
+33
+00:03:45,520 --> 00:03:51,040
+It's a little, uh, mocking. Yeah. He's not, obviously he has his pants on. He's not flashing
+
+34
+00:03:51,040 --> 00:03:57,600
+his junk at you, but he does like have his like, he's like man spreading in the air
+
+35
+00:03:58,240 --> 00:04:04,640
+and he's kind of thrusting it at you in that image. Yeah. I, I guess it's meant to be whimsical or
+
+36
+00:04:04,640 --> 00:04:11,040
+foolish as his qualities are. Right. He's not aggressive in general as a character. He's not
+
+37
+00:04:11,040 --> 00:04:16,480
+like a predator or something, but it does feel like put that, put that away, pal. Yeah. Um,
+
+38
+00:04:17,120 --> 00:04:24,160
+ducky has real, uh, if you remember the Mr. Show sketch of pit pat, the non-denominational
+
+39
+00:04:24,160 --> 00:04:31,360
+genderless spokes thing. Right. Yes. Uh, ducky is kind of, he's definitely in the zone of like
+
+40
+00:04:31,360 --> 00:04:36,480
+kind of generic character as far as like, who is this character? What's he supposed to be?
+
+41
+00:04:36,480 --> 00:04:41,200
+I will make the argument though that duffy, the Disney bear ends up being a little more like pit
+
+42
+00:04:41,200 --> 00:04:48,400
+pat to me than this character and ducky. Yeah. Because like duffy and they've given duffy some
+
+43
+00:04:48,400 --> 00:04:52,720
+stuff over the years. He has outfits, he has friends. The friends though seem to have a lot
+
+44
+00:04:52,720 --> 00:04:58,400
+more personality still to this day than duffy. I would say so, uh, duffy is kind of like,
+
+45
+00:04:58,400 --> 00:05:03,440
+do you remember action man? The dolls that you could, he was just kind of a generic
+
+46
+00:05:04,400 --> 00:05:10,080
+GI Joe kind of soldier. Right. But then he would have a scuba suit. He would have space suit.
+
+47
+00:05:10,960 --> 00:05:14,960
+These are characters where you're supposed to like kind of infuse them, I think with your own
+
+48
+00:05:14,960 --> 00:05:20,080
+personality. Yeah. They're kind of ciphers. They're ciphers. So like when you, Jason Sheridan is
+
+49
+00:05:20,080 --> 00:05:27,680
+playing with a duffy doll, duffy is you. Yeah. Right. Well, you sent me earlier, you sent me
+
+50
+00:05:27,680 --> 00:05:35,680
+a limited edition, uh, Donald duck D mu. Is that how it's pronounced? Yes. That's yes. It's a very
+
+51
+00:05:35,680 --> 00:05:42,240
+cute, like cutie doll sort of thing. This is something I wanted to maybe, I was trying to
+
+52
+00:05:42,240 --> 00:05:45,040
+figure out if we were going to bring this up, but this is a whole thing. So there's this company,
+
+53
+00:05:45,040 --> 00:05:50,640
+I believe it's a Chinese company, uh, called pop Mart. Yes. And they have a store in the Glendale
+
+54
+00:05:50,640 --> 00:05:57,360
+Galleria. I like this store a lot. They got a lot of little figurines. They have very cool store.
+
+55
+00:05:57,360 --> 00:06:04,400
+They have a character named Molly. Okay. And I really want to get into buying Molly toys
+
+56
+00:06:04,400 --> 00:06:11,040
+because Molly has a bunch of different series of toy, series of toys. So there's baby Molly.
+
+57
+00:06:11,600 --> 00:06:17,120
+There's like, it says like Molly carb lover, and she's just eating different foods that she likes.
+
+58
+00:06:17,680 --> 00:06:25,440
+Then there's space Molly. Oh, and they have different sizes of the Molly space, Molly toys.
+
+59
+00:06:25,440 --> 00:06:33,040
+And some of the Molly toys have IP characters on the spacesuit. So you can get a space Molly
+
+60
+00:06:33,040 --> 00:06:41,440
+with a Ted spacesuit or a Care Bear spacesuit or a Garfield spacesuit. So when she pulls down the
+
+61
+00:06:41,440 --> 00:06:47,040
+helmet on the spacesuit, it's Garfield's face and ears. That's great. And then you can buy what's
+
+62
+00:06:47,040 --> 00:06:53,520
+called a mega space Molly that is about this big, let's say like a foot, foot and a half of the
+
+63
+00:06:53,520 --> 00:07:01,040
+Garfield of space Molly. Uh, I need to learn more about Molly. Yes, do I. I'm not an expert on Molly
+
+64
+00:07:01,040 --> 00:07:07,280
+yet, but anyway, so I sent you, um, a Pop Mart toy cause they do, they do IP, they do Disney stuff.
+
+65
+00:07:08,080 --> 00:07:14,160
+And they have put out what I can only describe as a nightmarish child that is dressed to look like
+
+66
+00:07:14,160 --> 00:07:20,640
+Donald who was also holding a Donald like plush. Yeah. Sometimes he just kind of looks like one of
+
+67
+00:07:20,640 --> 00:07:26,960
+the love is characters. Uh, if you're listening to the show, you probably know what love is.
+
+68
+00:07:26,960 --> 00:07:33,360
+I would hope so. Yeah. And you might also get the shivers every time you think about it, like I do,
+
+69
+00:07:34,080 --> 00:07:40,320
+but this can be plain like doll wearing Donald duck outfit or you can give him a beak.
+
+70
+00:07:40,960 --> 00:07:46,960
+Yeah. So imagine, um, on the Island of Dr. Moreau, they kidnapped like a child
+
+71
+00:07:47,680 --> 00:07:55,040
+and a Donald duck plush doll and they mutated them together somehow. Yeah. A mutant it's like
+
+72
+00:07:55,120 --> 00:08:01,040
+half boy, half Donald duck doll. And that's what we're talking about here as far as a toy.
+
+73
+00:08:01,040 --> 00:08:05,600
+So I don't think I'm going to buy this. I'm not as into this toy as I am into the, the Molly toys.
+
+74
+00:08:06,240 --> 00:08:10,000
+Okay. But I mean, maybe I could buy it for you for your birthday or something.
+
+75
+00:08:11,200 --> 00:08:15,120
+Yeah. Especially if they have a big version of it. Oh no. Something that you could put in your bed
+
+76
+00:08:15,120 --> 00:08:21,600
+or something. Something you could sleep next to. Yeah. There's a little space between the pillows.
+
+77
+00:08:21,600 --> 00:08:25,920
+Right. You might hit your head on its beak. Sometimes if you toss and turn,
+
+78
+00:08:25,920 --> 00:08:34,080
+there's usually a Snoopy, uh, Squish Malo floating around the bedroom, uh, from Nod's Berry floating
+
+79
+00:08:34,080 --> 00:08:39,280
+around. Oh, you mean like sometimes like I'll fall asleep clutching it. And then sometimes it'll just
+
+80
+00:08:39,280 --> 00:08:44,480
+be at the foot of the bed. Yeah. Do you, do you mean to be like, did you wake up and you go,
+
+81
+00:08:44,480 --> 00:08:49,920
+how did this get here? Or did you start? Well, it's less, you know, when you try to hold a pillow,
+
+82
+00:08:49,920 --> 00:08:56,400
+it's kind of sizable and then try to get on the, like I was, I kept falling asleep like that. It
+
+83
+00:08:56,400 --> 00:09:01,920
+kept taking up so much room. So like it's a body, it's, it's not as big as a body pillow though.
+
+84
+00:09:01,920 --> 00:09:09,680
+No, no. It's like an oval shaped, like very cartoony, very simplified version of Snoopy.
+
+85
+00:09:09,680 --> 00:09:15,600
+This is there, there was a prize booth right at the entrance of Camp Snoopy. Right. And they said
+
+86
+00:09:15,600 --> 00:09:24,960
+every, um, how did they phrase it? Every player wins. Right. And we're like, okay,
+
+87
+00:09:24,960 --> 00:09:31,200
+well, and they're like, well, do you want to play $10 or $15? And we're like, what? And they're like
+
+88
+00:09:32,160 --> 00:09:39,040
+pointing at the prizes. So if you paid, so did you, so $10 would give you a less good prize?
+
+89
+00:09:39,040 --> 00:09:45,360
+Yes. But this is the one I wanted. The, the $15 one was not as good. And I was like, well,
+
+90
+00:09:46,240 --> 00:09:50,640
+want to win that. Well, and they're like, okay, pick up the duck. All right. Picked out the duck
+
+91
+00:09:50,640 --> 00:09:56,560
+and here's your Snoopy. I basically bought a Snoopy for $10. Is it a decent quality?
+
+92
+00:09:56,560 --> 00:10:00,960
+Cause sometimes those carnival games have like really shitty quality plush. It's a,
+
+93
+00:10:00,960 --> 00:10:06,400
+it is an officially branded squish mallow, you know? Okay. I guess those are of a certain quality.
+
+94
+00:10:06,400 --> 00:10:11,120
+Right. And they're like, can you show me on your hands how big it is? Oh, it's very small.
+
+95
+00:10:11,200 --> 00:10:16,800
+Like paper size. Yeah. Okay. Cause I was picturing like a five foot tall Snoopy body pillow.
+
+96
+00:10:16,800 --> 00:10:26,400
+Oh no. I did have like, uh, two or three feet high Snoopy when I was really young and it started,
+
+97
+00:10:26,400 --> 00:10:34,720
+uh, leaking, uh, beanbag beans. Yeah. It started leaking pretty quickly into elementary school
+
+98
+00:10:34,720 --> 00:10:37,600
+and my parents were like, we have to get rid of it. I was like, no,
+
+99
+00:10:38,560 --> 00:10:44,000
+no, we can't throw out Snoopy. Did you end, you had to end up, you did, right? They got rid of it.
+
+100
+00:10:44,000 --> 00:10:48,560
+Yes. We, I finally caved at some point because there was just so many little
+
+101
+00:10:49,200 --> 00:10:54,800
+beanbag beans in my bedroom. Did they make you do it or anything? Was there like a teaching moment?
+
+102
+00:10:54,800 --> 00:10:59,600
+No, it wasn't. It wasn't an old yellow row. Jason, you have to get, you have to become
+
+103
+00:10:59,600 --> 00:11:05,440
+a man one of these days. Please throw out your broken Snoopy plush. Please cut Snoopy's head off.
+
+104
+00:11:07,920 --> 00:11:15,680
+Please set him on fire. Yeah. Woodstock will watch. Uh, well that's good. Uh, uh, yeah. So
+
+105
+00:11:15,680 --> 00:11:20,000
+this is this nightmare toy that I sent you. Um, that's not the thing. There was a lot of other
+
+106
+00:11:20,000 --> 00:11:23,680
+things I was going to maybe bring up at the top of the episode, but I decided to get right into
+
+107
+00:11:23,680 --> 00:11:30,480
+Ducky. Uh, and we'll see what else we talk about in the midst of this. Um, so Ducky the duck,
+
+108
+00:11:31,200 --> 00:11:37,840
+they posted, uh, there's, there's some pictures. There's like, he's in some magic key videos kind
+
+109
+00:11:37,840 --> 00:11:46,320
+of bopping around and it's a very like, like retro-y style video and it's cute. It's a cute
+
+110
+00:11:46,320 --> 00:11:51,120
+duck. I'll say that. You know, we don't talk, we, you really don't get a good look at his seat.
+
+111
+00:11:51,120 --> 00:11:55,680
+If that's what people's head are at when it comes to podcasts to write in duck, like cute ducks,
+
+112
+00:11:55,680 --> 00:11:59,760
+because we talk about, you know, Donald duck seat, but that's not what this is. He's a very
+
+113
+00:11:59,760 --> 00:12:06,000
+much a realistic ish looking duck. He's the right size. He's not walking around talking to Mickey
+
+114
+00:12:06,000 --> 00:12:12,720
+and friends or anything. Right. Yes. He is, uh, seems to be, well, I got a couple of things.
+
+115
+00:12:12,720 --> 00:12:18,480
+First off, Ducky, I don't believe Ducky is not the bird at the end of runaway railway,
+
+116
+00:12:18,480 --> 00:12:24,000
+which I've been meaning. That's an episode I want to do similar, but that was a character that was
+
+117
+00:12:24,000 --> 00:12:31,280
+introduced as a joke of like, this is a character made to sell a plush of it at the store.
+
+118
+00:12:32,080 --> 00:12:38,960
+And I feel like that's a pretty decent, that's a solid joke. Uh, and they abandoned that very
+
+119
+00:12:38,960 --> 00:12:44,080
+quickly. You mean as far as trying to sell the merch? No, I think they still sell it, but in
+
+120
+00:12:44,080 --> 00:12:50,560
+terms of like, he doesn't get a lot of stage time in the ride. You're saying that he should
+
+121
+00:12:50,560 --> 00:12:56,080
+have been more prominent in the ride. Like, like you feel like that was something they initially
+
+122
+00:12:56,720 --> 00:13:03,920
+were pushing with marketing or what do you mean with like marketing and like the, the whatever
+
+123
+00:13:04,800 --> 00:13:10,800
+store plushy booth when you left, but it's like kind of, you only really notice it when you're
+
+124
+00:13:10,800 --> 00:13:18,400
+waiting to like pull up to unloading. He's about to born and like he occasionally tweak tweets, but
+
+125
+00:13:18,400 --> 00:13:24,960
+he isn't as memorable as like Shondu, the tiger and the Sinbad ride in Tokyo Disney Sea. That's
+
+126
+00:13:24,960 --> 00:13:31,520
+true. Yeah. And it's kind of funny because he would fit throughout runaway railway. There's a
+
+127
+00:13:31,520 --> 00:13:37,600
+lot of stuff that goes wrong. I feel like there's a lot of antics. I bet you can track him. I bet
+
+128
+00:13:37,600 --> 00:13:41,760
+he just doesn't sort of register as a character. It could be, he could be in the background and
+
+129
+00:13:41,760 --> 00:13:45,520
+I just have never caught it. Maybe I'll have to, the next time I go on it, all I'm going to be
+
+130
+00:13:45,520 --> 00:13:49,200
+doing is focusing on that bird. On this little yellow bird. I'm not going to look at anything
+
+131
+00:13:49,200 --> 00:13:55,200
+else and I'm going to just keep my eyes on it. Cause I bet he's like doing stuff. He's got to
+
+132
+00:13:55,200 --> 00:13:59,280
+be doing stuff. I would hope he's doing stuff. He's up, he's in the background. Like maybe it's
+
+133
+00:13:59,280 --> 00:14:03,680
+unrelated, but like he's up to, I would say he's up to no good. Maybe he's just enjoying the
+
+134
+00:14:03,680 --> 00:14:09,600
+amenities. He's just enjoying the carnival and the underwater kingdom and the dance class. Oh,
+
+135
+00:14:09,600 --> 00:14:14,000
+he's underwater and he can't breathe, but he's enjoying it. Maybe he has a snorkel on or a
+
+136
+00:14:14,000 --> 00:14:19,600
+breathing tank or something. He's just sort of doing a, um, sort of a deep sea diving expedition.
+
+137
+00:14:19,600 --> 00:14:24,800
+Yeah. Or he's in a sub. He's in like a submersible. Oh, that would be good. Yeah. If he had a
+
+138
+00:14:24,800 --> 00:14:31,840
+personal submersible. Um, the, uh, the other thing, uh, I wanted to bring up with Ducky.
+
+139
+00:14:32,640 --> 00:14:41,040
+Ducky's story has a lot of beats as the little man of Disneyland. Well, okay. Yes. Yeah. Let's
+
+140
+00:14:41,040 --> 00:14:45,520
+get into it. That is, that is if, if they were like, okay, well what else are they going to say?
+
+141
+00:14:45,520 --> 00:14:51,040
+It's a cute little duck, you know, not a lot to it. Mostly what I want to talk about is this
+
+142
+00:14:51,040 --> 00:14:58,560
+video that they posted that explains the lore of Ducky. Yeah. And I'll give them credit because
+
+143
+00:14:59,120 --> 00:15:04,640
+there's a lot of lore packed into a minute. Yeah. So, cause they could have easily just said,
+
+144
+00:15:04,640 --> 00:15:09,600
+oh, it's Ducky. He's the magic key duck, blah, blah, blah. Here's a picture of him. And then
+
+145
+00:15:09,600 --> 00:15:14,560
+every time they post a video like magic keys are on sale or whatever here, you can, you can buy a
+
+146
+00:15:15,200 --> 00:15:19,680
+button or something or whatever. Like here's Ducky. They could have done it. They didn't.
+
+147
+00:15:20,720 --> 00:15:29,200
+No. So kudos to them for developing an origin story for Ducky. Now I think today we're going
+
+148
+00:15:29,200 --> 00:15:34,960
+to dissect, do we like the story? What does the story mean? Yeah. What are the implications
+
+149
+00:15:35,760 --> 00:15:41,440
+of this story for the rest of the Disneyland resort? Right. So I have it here and yes,
+
+150
+00:15:41,440 --> 00:15:48,320
+I agree with you. This is what we need to talk about. Once upon a time, there was a sweet,
+
+151
+00:15:48,320 --> 00:15:53,680
+friendly, curious little duckling who loved the Disneyland resort with all his heart.
+
+152
+00:15:54,320 --> 00:16:00,080
+It all started when as a tiny hatchling, he migrated to a beautiful river that would become
+
+153
+00:16:00,080 --> 00:16:07,520
+the rivers of America. Let's just start right there. Yeah. So Ducky was a little baby
+
+154
+00:16:08,240 --> 00:16:15,920
+before Disneyland was created. Yes. He existed in Anaheim before that. So automatically,
+
+155
+00:16:16,480 --> 00:16:25,680
+Ducky is 70 years old, easily 70 years old. So right there, there's something magical about him.
+
+156
+00:16:25,840 --> 00:16:29,920
+You drew the parallel to The Little Man of Disneyland, which is a little golden book
+
+157
+00:16:30,560 --> 00:16:35,200
+that is like 60 or 70 years old or whatever. It's a similar story where The Little Man of
+
+158
+00:16:35,200 --> 00:16:41,760
+Disneyland supposedly lived in Anaheim before Disneyland existed. Mickey and friends wined and
+
+159
+00:16:41,760 --> 00:16:45,040
+dined him and were like, we're going to build this thing here. You're going to have a house
+
+160
+00:16:45,040 --> 00:16:49,840
+in Disneyland. Bro, don't worry about it. You're going to love it. And he did. He loved it. You
+
+161
+00:16:49,840 --> 00:16:55,440
+can still see the little house over in Adventureland still to this day. In the tree,
+
+162
+00:16:55,440 --> 00:17:04,560
+yeah, by Indiana Jones. So very similar to his origin, Ducky's. So already Ducky is magical
+
+163
+00:17:04,560 --> 00:17:08,720
+because like Little Man of Disneyland, he's already kind of a magical character. Ducky is
+
+164
+00:17:08,720 --> 00:17:14,480
+being presented as just a regular duck, but they've already introduced the wrinkle that Ducky is at
+
+165
+00:17:14,480 --> 00:17:21,520
+least 70 years old. Yeah. Just looking real quick, the average age of a mallard duck,
+
+166
+00:17:22,080 --> 00:17:30,080
+five to 10 years. Yes. So this creature has likely watched his friends and loved ones die around
+
+167
+00:17:30,080 --> 00:17:35,360
+him as he does not age. I think that's true. Now, could there be an implication here
+
+168
+00:17:36,000 --> 00:17:43,120
+that living inside Disneyland keeps you young forever? Well, now we're getting into kingdom
+
+169
+00:17:43,120 --> 00:17:50,960
+keepers, like magic territory, like powers. Ducky likely has powers. Well, he does have
+
+170
+00:17:50,960 --> 00:17:56,000
+powers and then he gains more powers as you learn, but he clearly has some sort of powers.
+
+171
+00:17:56,000 --> 00:18:00,960
+And I'm just wondering, like, if I were to, like, do I age the days I go to Disneyland?
+
+172
+00:18:02,400 --> 00:18:05,840
+Oh, that's good question. You know what I mean? Because like I've been to Disneyland a lot in my
+
+173
+00:18:05,840 --> 00:18:10,880
+life. I'm very lucky. Have I been a hundred times to Disneyland? I don't know. Maybe approaching
+
+174
+00:18:10,880 --> 00:18:16,320
+that. Does that mean, though, that almost like a third, one of the, I'm almost getting back like
+
+175
+00:18:16,320 --> 00:18:25,360
+a third of a year. So I'm not actually the age that I am. I'm a little younger. The touring plans
+
+176
+00:18:25,360 --> 00:18:35,120
+crew must be like ageless. Right. Guy Selga. Guy Selga is 12 years old. No. He's in Disneyland
+
+177
+00:18:35,120 --> 00:18:40,640
+almost every day and he's only 12. Yeah. Yeah. That's interesting. So again, that's what I'm
+
+178
+00:18:40,640 --> 00:18:49,760
+saying. The implications for what it must mean if this Ducky is still young and vibrant seeming
+
+179
+00:18:50,320 --> 00:18:58,320
+and living in Disneyland for 70 years. Yeah. When he gets more powers, it's with the behavior that
+
+180
+00:18:58,320 --> 00:19:02,880
+I don't know that they usually like to encourage in children. What do you mean by that?
+
+181
+00:19:02,880 --> 00:19:14,240
+That's a very good point. Yes. Okay. Hold on. Hold on. We're not racing yet, partner. I think
+
+182
+00:19:14,240 --> 00:19:18,720
+there's like seven things I want to talk about before that happens. We'll see. Okay. Here we go.
+
+183
+00:19:19,680 --> 00:19:23,760
+Growing, he knew it would blossom into a place filled with wonder.
+
+184
+00:19:24,880 --> 00:19:31,760
+Bit by bit, he watched it all being built. He napped underneath the shade of the greenery,
+
+185
+00:19:31,840 --> 00:19:37,760
+dreaming about exploring the entirety of this special place. He played make believe in the
+
+186
+00:19:37,760 --> 00:19:42,560
+minute. So, okay. He's sitting there in this cute little video they have. He's sitting there with,
+
+187
+00:19:42,560 --> 00:19:49,520
+I presume is his mother and they're watching as Disneyland is built. So they're sitting there
+
+188
+00:19:49,520 --> 00:19:56,320
+watching it and there's a clip, a part of it where it's winter time. Yeah. They have winter clothes
+
+189
+00:19:56,320 --> 00:20:01,280
+on and they're watching the castle being constructed. Yes. First of all, what happened
+
+190
+00:20:01,280 --> 00:20:06,000
+to his mother? Well, she might be an ageless one too. I know, but she doesn't show up later
+
+191
+00:20:06,000 --> 00:20:12,880
+in the video. Yeah. Good question. But, you know, who knows? Maybe she left Disneyland because she
+
+192
+00:20:12,880 --> 00:20:18,240
+was ready to go. You're right. She's like, I don't need to be in this park every day. I've got a life
+
+193
+00:20:18,240 --> 00:20:24,080
+to live. I, yeah. I got to go to Universal. The one thing I haven't done is death.
+
+194
+00:20:24,640 --> 00:20:31,840
+So he's so, so then they immediately like, they're watching Disneyland being built. And then they
+
+195
+00:20:31,840 --> 00:20:36,800
+also, Ducky knew this was going to be the greatest place. You're like, how did he know that? Because
+
+196
+00:20:36,800 --> 00:20:43,520
+like the little man of Disneyland, Mickey Mouse told this little guy, hey, this place is going to
+
+197
+00:20:43,520 --> 00:20:49,600
+fucking rule. Well, I, if I remember correctly, they just started building and knocking stuff
+
+198
+00:20:49,600 --> 00:20:55,040
+down. Then he gave them a piece of his mind and they're like, shit, we have to deal with this guy.
+
+199
+00:20:55,040 --> 00:20:59,840
+That is true. Now that is a very interesting change to this type of story because I do feel
+
+200
+00:20:59,840 --> 00:21:06,720
+like that's a difference in modern Disney thinking where you have to make sure that there was never
+
+201
+00:21:06,720 --> 00:21:14,240
+a problem that our product presented. Correct. Yeah. Right. So Ducky just was like, hey,
+
+202
+00:21:14,320 --> 00:21:20,960
+they're building this big thing where I live. Great. No problems versus like decades ago where
+
+203
+00:21:20,960 --> 00:21:24,320
+they were like, oh, wouldn't it be interesting if we started building Disneyland and there was just
+
+204
+00:21:24,320 --> 00:21:28,640
+a little like leprechaun guy that lived there. He would be upset at first and then he would grow
+
+205
+00:21:28,640 --> 00:21:33,920
+to like it. But modern Disney would be like, no, the Disney company has never displaced someone
+
+206
+00:21:33,920 --> 00:21:41,200
+from their home. We've never taken, our parks are not responsible for doing that ever. All they do
+
+207
+00:21:41,200 --> 00:21:51,120
+is good stuff. Once they, do you remember well before we ever went there, there was an RV park
+
+208
+00:21:52,480 --> 00:21:59,600
+by Disneyland and I forget whether it was Disney Run, but people- Disney ran an RV park?
+
+209
+00:21:59,600 --> 00:22:06,480
+Lived there. Like people would park their RVs there and eventually in the late nineties,
+
+210
+00:22:06,480 --> 00:22:11,360
+they're like, we're ending your, we're ending the lease. We're closing the park. Wait,
+
+211
+00:22:11,360 --> 00:22:16,560
+did you say Florida or here? No, here, Anaheim. Really? Yeah. Where was that?
+
+212
+00:22:17,280 --> 00:22:24,560
+I, it was close to Disneyland. And you, you saw it? I've seen, I've seen pictures of it.
+
+213
+00:22:25,120 --> 00:22:29,600
+It came up on Sunday. I think it came up when we were talking about Anaheim. I can't remember
+
+214
+00:22:29,680 --> 00:22:35,600
+the city government or maybe the monorail. Like, but it, you know, it was,
+
+215
+00:22:36,480 --> 00:22:41,360
+I think meant for vacations, but then some people would stay there long-term.
+
+216
+00:22:41,360 --> 00:22:46,720
+Right. But I think there was a pool and an arcade and a general store, like a normal
+
+217
+00:22:46,720 --> 00:22:51,440
+campground, you know? Right, right. Hmm. Yeah. It's worth looking, if Disney owned it, that's
+
+218
+00:22:51,440 --> 00:22:55,680
+worth looking into. Yeah. I mean, it's worth looking into now, even if they don't, because
+
+219
+00:22:56,640 --> 00:23:02,080
+there could be a harbor hoedown eventually. Sure. That might be part of it. Sure. We just
+
+220
+00:23:02,080 --> 00:23:10,160
+started getting to the point where Ducky is now experiencing Disneyland. Yes. Here we go.
+
+221
+00:23:10,160 --> 00:23:28,960
+So Ducky is shitting and pissing in the Sleeping Beauty Castle mode.
+
+222
+00:23:28,960 --> 00:23:31,840
+Yes. Just because he's a duck, that's how it goes.
+
+223
+00:23:31,840 --> 00:23:34,960
+He's being a good boy. He's not sneaky on rides.
+
+224
+00:23:35,920 --> 00:23:38,880
+Right. That's true. He's going on bodies of water
+
+225
+00:23:38,880 --> 00:23:42,960
+that are kind of open for the wildlife. Right. And he's going in the storyboat
+
+226
+00:23:42,960 --> 00:23:47,520
+canals and pretending he's part of the story. Yes.
+
+227
+00:23:47,520 --> 00:23:52,160
+So this is all pretty cute, pretty standard stuff, I feel like at this point.
+
+228
+00:23:52,880 --> 00:23:55,920
+Yeah. He's just, he's just enjoying, he's kind of like,
+
+229
+00:23:55,920 --> 00:24:00,640
+oh, you might see Ducky one of these days, right? It's kind of inevitable that they monetize the
+
+230
+00:24:00,640 --> 00:24:06,960
+wildlife, the ducks, the cats. I haven't seen a lot about the Disneyland cats. I feel like
+
+231
+00:24:06,960 --> 00:24:12,320
+they're still plausible deniability, even though they feed them and spay and neuter them.
+
+232
+00:24:12,320 --> 00:24:16,960
+I'm realizing now, and I should know this before I say it, but I saw some tweets maybe today,
+
+233
+00:24:16,960 --> 00:24:23,520
+even showing that like on Donald's 50th birthday, he was surrounded by a bunch of actual ducks.
+
+234
+00:24:23,520 --> 00:24:29,280
+I think that's right. There's certainly been, it was a Disney World commercials where little
+
+235
+00:24:29,280 --> 00:24:35,920
+duckling stumbles upon a walk around Donald. Yeah. Well, this was like 50 ducks or something
+
+236
+00:24:35,920 --> 00:24:41,520
+surrounding him. So they'd obviously like done something, put seeds around Donald's seat
+
+237
+00:24:41,520 --> 00:24:48,000
+to get a bunch of ducks to take that photo. Sure. So they have used, yeah, you've never seen a
+
+238
+00:24:48,000 --> 00:24:52,960
+picture from Disneyland where there are 50 feral cats surrounding one of the characters.
+
+239
+00:24:52,960 --> 00:24:57,280
+No. I'm trying to think what character. Some of them are very friendly. I have
+
+240
+00:24:57,280 --> 00:25:01,760
+petting some of the cats I feel like. But there's not like honest John from Pinocchio
+
+241
+00:25:01,760 --> 00:25:08,560
+and there's 50 real cats surrounding him. No. Or like Cruella de Vil is surrounded by 50 cats.
+
+242
+00:25:08,560 --> 00:25:18,480
+A little wilder creature is the ducks. Right. I got attacked by a duck like lightly over a jolly
+
+243
+00:25:18,480 --> 00:25:22,960
+holiday. Have I said this on the show? Did you have food on you? Well, I was eating food. Yeah.
+
+244
+00:25:22,960 --> 00:25:27,520
+But the ducks, I just like a beak hit me right in the thigh. Not the thigh. That sounded like the
+
+245
+00:25:27,520 --> 00:25:33,360
+duck was higher up, but like more of the calf, I guess. A duck pecked me in the calf. And I was
+
+246
+00:25:33,360 --> 00:25:38,240
+like, this is crazy. Cause like you could easily nail a duck in the head just by scooting your
+
+247
+00:25:38,240 --> 00:25:43,520
+chair out. Cause it's so close, like such close quarters at jolly holiday. Yeah. And the ducks
+
+248
+00:25:43,520 --> 00:25:47,920
+are just that comfortable. I mean, it kind of, I was like kind of worried. Then I was like really
+
+249
+00:25:47,920 --> 00:25:52,400
+stressed eating cause I was like, I'm going to run over a duck. Yeah. By just standing up or
+
+250
+00:25:52,400 --> 00:25:58,240
+moving a chair. Well, that's what at Sleepy Hollow the last time my family went to Florida
+
+251
+00:25:58,800 --> 00:26:06,640
+and it was just the outdoor seating area just covered in bees. Like all they sell there is
+
+252
+00:26:06,640 --> 00:26:14,800
+waffles, berry waffles, waffles with syrup and butter and sweet and spicy chicken breast
+
+253
+00:26:14,800 --> 00:26:20,320
+waffle sandwiches. So the bees are just having a field day. So they were like, you mean just,
+
+254
+00:26:20,320 --> 00:26:24,320
+they were swarming. There wasn't like a layer of bees on the floor. There wasn't a layer of bees.
+
+255
+00:26:24,320 --> 00:26:31,760
+It just, anywhere you looked, every table was like swarming bees. Yeah. Did you stop and eat there?
+
+256
+00:26:31,760 --> 00:26:38,800
+Yeah. Really? Even though with the bees? Well, we had already ordered. Oh, so you saw the bees
+
+257
+00:26:38,800 --> 00:26:43,440
+after I see. And then our food came up. I thought you were like, yeah, but I really want a waffle.
+
+258
+00:26:44,480 --> 00:26:48,880
+Sure. We all wanted the waffle. We love that waffle sandwich. A thousand bees swarming,
+
+259
+00:26:48,880 --> 00:26:53,360
+but I got to eat in a waffle. So did you just eat farther away from the bees? Yeah. I think we
+
+260
+00:26:53,360 --> 00:27:00,320
+eventually moved or just tried to keep an eye on the bees. Just keep them. One of you were the
+
+261
+00:27:00,320 --> 00:27:05,600
+designated lookout to look out for the bees while you were eating. And it was busy. Like there was
+
+262
+00:27:05,600 --> 00:27:10,640
+a lot of family seating around there. I've never seen that many bees at Disney World or Disneyland
+
+263
+00:27:10,640 --> 00:27:16,000
+in one place. Is that like, is there a conspiracy theory that Disney knows how to control the bees?
+
+264
+00:27:16,960 --> 00:27:22,800
+Well, clearly something was going wrong this day. Well, right. I was going to say. Or they're just
+
+265
+00:27:22,800 --> 00:27:31,040
+trying to turn people over faster. Like don't savor that waffle. Woof it down. So they can get
+
+266
+00:27:31,040 --> 00:27:35,680
+out of here. They can unleash bees on parts of the park when they want people to disperse.
+
+267
+00:27:37,120 --> 00:27:44,880
+So they have a machine to keep the bees away, but they also have a bee machine that shoots bees
+
+268
+00:27:44,880 --> 00:27:50,240
+at part of the park when they want people to leave. Yes. And they were shooting bees
+
+269
+00:27:50,240 --> 00:27:54,800
+at this waffle. They were shooting bees. The demand for waffles was so great that day.
+
+270
+00:27:54,800 --> 00:27:57,840
+Get the hell out. Get to a table service restaurant now.
+
+271
+00:27:59,440 --> 00:28:03,600
+None of this quick service bullshit. They were shooting, yeah. They really that,
+
+272
+00:28:03,600 --> 00:28:08,960
+they should have never done the virtual queues or the like, whatever, the lightning lane stuff to
+
+273
+00:28:09,520 --> 00:28:14,880
+to make the lines smaller. They should have just shot bees at the rides that had long lines.
+
+274
+00:28:14,880 --> 00:28:18,640
+Yeah. People would have gotten out of there. No problem. Okay. So again,
+
+275
+00:28:19,440 --> 00:28:25,280
+this is pretty standard stuff. Yeah. Or, you know, a little mascot.
+
+276
+00:28:26,720 --> 00:28:31,040
+While he was taking a dip, someone dropped a mysterious key into the water.
+
+277
+00:28:31,680 --> 00:28:40,320
+The duckling, ever curious, dove down to follow it. He prodded it, inspected it, and swallowed it
+
+278
+00:28:40,320 --> 00:28:49,440
+whole. Okay. What the fuck? What the fuck? Why? That's Pika. You're not supposed to be eating keys.
+
+279
+00:28:49,440 --> 00:28:57,120
+Why would he eat the key? Why would he eat the key? It's a key to a door. Also, wouldn't a key sink?
+
+280
+00:28:58,080 --> 00:29:04,000
+Yeah, it did sink, I think. It showed in the video. Oh, okay. It did sink. So he was just bobbing
+
+281
+00:29:04,000 --> 00:29:11,200
+down. So he bobbed down and they said he really, this is also what it is that confuses me. If they
+
+282
+00:29:11,200 --> 00:29:16,400
+said, oh, you know, he was sunbathing, someone dropped a key and it fell into his beak and he
+
+283
+00:29:16,400 --> 00:29:23,680
+ate it, like fine. But they really present it as he went down there, prodded it, saw what was going
+
+284
+00:29:23,760 --> 00:29:32,560
+on and then consciously thought, I'm going to eat this key. Right. He didn't. It's hard. It doesn't
+
+285
+00:29:32,560 --> 00:29:38,880
+taste like anything. He probably licked it. He smelled it. It didn't taste or smell like food
+
+286
+00:29:38,880 --> 00:29:45,840
+and this fucking idiot duck ate the key. Why would he eat the key? I'm assuming a certain level of
+
+287
+00:29:45,840 --> 00:29:53,840
+hubris comes with the magic gained of living in Disneyland. Like you're powerful, you know,
+
+288
+00:29:53,840 --> 00:29:59,040
+you're invincible. So you're saying like when we're at the end of a five day vacation and we're just
+
+289
+00:29:59,040 --> 00:30:07,360
+like fucking feel so good. Yeah. I want to eat a key right now. I'm on such a high. I want to eat
+
+290
+00:30:07,360 --> 00:30:12,240
+a key. If somebody were to drop a key right now, I want to smell it. I want to lick it and then I'm
+
+291
+00:30:12,240 --> 00:30:19,760
+swallowing that thing. This is, I was trying to think of this name a while ago when we were
+
+292
+00:30:19,760 --> 00:30:28,640
+recording, but one of the guest stars on Dr. Odyssey is Fred Melamed. Have you talked about
+
+293
+00:30:28,640 --> 00:30:35,040
+this before? Did we get there? I couldn't remember, but his whole thing, his medical condition is he
+
+294
+00:30:35,040 --> 00:30:42,480
+just keeps going around the ship eating objects. Oh, so he is like a key eater. Like Dr. Odyssey
+
+295
+00:30:42,480 --> 00:30:49,360
+has got like, and his wife is in denial. So what does he eat on the show? Like a ring.
+
+296
+00:30:50,320 --> 00:30:56,400
+I think he eats a key or two, cufflinks. So he eats a key. Yeah. And they have to like pump his
+
+297
+00:30:56,400 --> 00:31:01,840
+stomach. Is that something you would develop later or is that something you would have since you were
+
+298
+00:31:01,840 --> 00:31:09,040
+a kid? I don't know much about it. I think it is a thing where it's like, oh, he's had this for a
+
+299
+00:31:09,040 --> 00:31:16,560
+while. He has been sick and they didn't like suss it out in time. Can I ask this? And maybe this is
+
+300
+00:31:16,560 --> 00:31:22,320
+just, this is ignorance. Yeah. Is it a sex thing? No, it's not a sex thing. I think it's like a
+
+301
+00:31:22,320 --> 00:31:29,200
+bullshit thing. Oh, okay. Is it similar to that feeling people get when they're on like a high
+
+302
+00:31:29,200 --> 00:31:34,000
+cliff or they're on the third floor of a mall and you kind of look down and there's this weird thing
+
+303
+00:31:34,000 --> 00:31:39,760
+in the back of your mind that's like, I could just throw myself over this. No, I believe that sensation
+
+304
+00:31:39,760 --> 00:31:45,840
+is normal. Yes, I think that is normal. I think that's healthy to have that thought. Right. But like,
+
+305
+00:31:45,840 --> 00:31:51,280
+I would have a feeling like when I would be in the audience watching a band concert in high school,
+
+306
+00:31:51,280 --> 00:31:55,760
+like, you know, there'd be multiple kinds of bands, symphonic band, concert band. So you'd watch the
+
+307
+00:31:55,760 --> 00:32:01,040
+other bands and then you'd go up and play. Yeah. I would have a weird feeling in a similar way.
+
+308
+00:32:01,040 --> 00:32:07,200
+Like I could just blow my trumpet and ruin this whole song right now from the audience. Yes. Like
+
+309
+00:32:07,200 --> 00:32:13,120
+there's like your brain oftentimes is like kind of like floating ideas that you shouldn't do that
+
+310
+00:32:13,120 --> 00:32:18,000
+you know are bad. Yeah. So it's a, that's what I'm saying. It's like a similar thing to that,
+
+311
+00:32:18,000 --> 00:32:22,560
+but it's so strong that you're like, I know I shouldn't eat this key, but I have to eat.
+
+312
+00:32:22,560 --> 00:32:27,920
+Can't help myself. Right. Right. Interesting. So what, how did that resolve on Dr. Odyssey?
+
+313
+00:32:27,920 --> 00:32:34,080
+Well, I think what happened is they had him for a day and a half because he is not in that many
+
+314
+00:32:34,080 --> 00:32:41,120
+seeds. Do you think his schedule is so demanding? No offense to it. He's great. I'm just saying like
+
+315
+00:32:41,120 --> 00:32:45,840
+if he signs up for a Dr. Odyssey, he should be there for a week. I don't know that it was his
+
+316
+00:32:45,840 --> 00:32:49,280
+problem is what I'm saying. It sounds like the writers didn't give him enough stuff.
+
+317
+00:32:49,920 --> 00:32:59,600
+Well, I'm trying to figure out who the actor who plays his wife, but she, she isn't a much more,
+
+318
+00:32:59,600 --> 00:33:02,800
+she gets more of a starring. But she's not eating everything in sight.
+
+319
+00:33:03,920 --> 00:33:11,920
+No, but she's in denial about like, no, we're basically like we're normal. We organize these
+
+320
+00:33:11,920 --> 00:33:18,240
+crews and like clearly he's doing it out of like stress or something in the thing. I don't know
+
+321
+00:33:18,240 --> 00:33:24,800
+why Ducky is doing it. They don't, they don't flesh that out. Yeah. Does he just not maybe know
+
+322
+00:33:24,800 --> 00:33:32,240
+the concept of keys? I guess, but at this point, okay, so let's start extrapolating here because
+
+323
+00:33:32,240 --> 00:33:38,960
+the magic key program is new in the scheme of things for Disneyland. They've had annual passes
+
+324
+00:33:38,960 --> 00:33:46,880
+for decades, but magic key is a name that just came about a few years ago. So I have to presume
+
+325
+00:33:46,880 --> 00:33:54,480
+that Ducky ate this key a couple years ago, which means that Ducky was in Disneyland for
+
+326
+00:33:54,480 --> 00:34:03,280
+over 60 years, not eating keys, not eating things he found. When it was closed for like a year plus,
+
+327
+00:34:03,280 --> 00:34:08,160
+was he confused? Probably, but I don't know that they did not address that in this minute long
+
+328
+00:34:08,160 --> 00:34:14,400
+video of like what he did. They did not address what he thought about State Fair or Thumper's
+
+329
+00:34:14,400 --> 00:34:21,280
+Easter or the various reigns of CEOs. They did not say what he thought about Michael Eisner or
+
+330
+00:34:22,560 --> 00:34:28,160
+Card Walker, E. Card Walker, whatever. So he ate that key a couple of years ago
+
+331
+00:34:29,120 --> 00:34:33,760
+and it's confusing to me because it just, it's presented in the video as like a positive thing,
+
+332
+00:34:33,760 --> 00:34:38,320
+like, oh great, he ate the key, which I don't understand. It's not like, no, Ducky, what are
+
+333
+00:34:38,320 --> 00:34:43,760
+you doing? No, everyone's like shouting at him. Ducky, no, spit it out. And it's like, and there's
+
+334
+00:34:43,760 --> 00:34:49,440
+not, the next part is not they take Ducky to the vet and give him the like dog throw-up drugs.
+
+335
+00:34:49,440 --> 00:34:55,520
+That's not part of that either. No. It's just presented as a good thing. Now I also ask the
+
+336
+00:34:55,520 --> 00:35:01,360
+question, who dropped that key? Because they're going to reveal that that key is magical,
+
+337
+00:35:01,920 --> 00:35:07,600
+but someone dropped that key. It's also an old fashioned key. It's not like, right. It's not a
+
+338
+00:35:08,000 --> 00:35:12,960
+house key. It's not a house key. It's not like a modern hotel key. It's not a card,
+
+339
+00:35:12,960 --> 00:35:17,680
+like a credit card size. But here, okay, let me just play this a little more and then we'll
+
+340
+00:35:17,680 --> 00:35:24,720
+talk about who dropped this key. It wasn't just any key. It was a magical key that could open
+
+341
+00:35:24,720 --> 00:35:31,920
+doors across the Disneyland resort and it gave the duckling powers that made his dreams come true.
+
+342
+00:35:32,880 --> 00:35:39,600
+Basically, it's a magical key that opens doors and Ducky has swallowed it. Now, first of all,
+
+343
+00:35:39,600 --> 00:35:48,000
+why couldn't he just pocket the key and use it on a practical way to open a door if he needed to?
+
+344
+00:35:48,000 --> 00:35:55,440
+Right. Why did he eat it and become, because also the key is going to kill him or it's just
+
+345
+00:35:55,520 --> 00:36:02,720
+going to sit in there and fuck up his digestion. How is a key that's a practical, real,
+
+346
+00:36:02,720 --> 00:36:07,440
+old school key going to open a door when it's in the duck's stomach?
+
+347
+00:36:09,280 --> 00:36:15,120
+Yeah, or it's just going to shoot out his cloaca. It's going to rock out of there.
+
+348
+00:36:15,120 --> 00:36:19,680
+It could rock it out either side. He could puke it out. He could poop it out.
+
+349
+00:36:20,480 --> 00:36:28,880
+Right. It's very confusing to me. Just say he got a key and he has a little key ring
+
+350
+00:36:28,880 --> 00:36:32,720
+and he puts it in his little duck pocket. That'd be cute.
+
+351
+00:36:32,720 --> 00:36:35,440
+It'd be adorable. If he had a little carabiner.
+
+352
+00:36:35,440 --> 00:36:42,160
+Right. Who dropped the key is also my question. Walt Disney has been dead for a long time. Now,
+
+353
+00:36:42,160 --> 00:36:46,880
+remember, it has to be a couple years ago because that's when Magic Key was introduced.
+
+354
+00:36:47,680 --> 00:36:49,760
+Yes. So it has to be somebody. Is it Bob
+
+355
+00:36:49,760 --> 00:36:58,320
+Chapek? Is it Bob Iger? Is it John Lasseter? Back in the parks for some reason.
+
+356
+00:36:58,320 --> 00:37:05,600
+Is it abandoning his Magic Key? Right. John Lasseter has a Magic Key to Disneyland
+
+357
+00:37:05,600 --> 00:37:10,080
+and he drops it in the water because I'm not going to need this anymore. I don't know. I'm
+
+358
+00:37:10,080 --> 00:37:16,320
+just saying who would drop a key in there and why would it be anonymous? Do they know that
+
+359
+00:37:16,320 --> 00:37:19,200
+Ducky was going to find it? What if a different duck ate it?
+
+360
+00:37:20,240 --> 00:37:26,240
+Yeah, because they also seem to apply that it opens a lot of doors.
+
+361
+00:37:26,240 --> 00:37:34,240
+Yes. That's another thing I'm confused by. I'm just saying my Magic Key is just a tab
+
+362
+00:37:34,800 --> 00:37:43,680
+on an app. It's the simulation of a button on a touch screen and it can't open shit.
+
+363
+00:37:44,320 --> 00:37:50,400
+It gets you in and out of Disneyland and California Adventure, assuming you have a reservation.
+
+364
+00:37:50,400 --> 00:37:52,720
+So that shit's still going on. Right.
+
+365
+00:37:52,720 --> 00:37:58,160
+But I wanted to open locked doors. I wanted Jimmy open doors with it.
+
+366
+00:37:58,800 --> 00:38:05,200
+Right. This doesn't make sense as far as being one to one with your annual pass.
+
+367
+00:38:05,200 --> 00:38:11,120
+It isn't like Ducky dreamed of going to the Disneyland Resort and for 70 years,
+
+368
+00:38:11,120 --> 00:38:16,800
+he was too poor to do it. He was just sitting outside the resort wondering and then one day
+
+369
+00:38:16,800 --> 00:38:23,040
+from the sky up a key dropped. But then Ducky used the key to enter Disney's California Adventure.
+
+370
+00:38:23,040 --> 00:38:29,200
+Don't worry. He reserved a date multiple weeks ago and he made sure that his starting park was
+
+371
+00:38:29,200 --> 00:38:34,000
+Disney's California Adventure and he won't be able to switch until 11 a.m. That would at least make
+
+372
+00:38:34,000 --> 00:38:40,720
+sense for what the actual Magic Key product does. No strikes against Ducky. No strikes on
+
+373
+00:38:40,720 --> 00:38:47,600
+his Magic Key if he lives there. Ducky forgot to go for the third time and now Ducky is blocked
+
+374
+00:38:47,600 --> 00:38:54,640
+for 90 days. You must be punished when everyone's favorite part of purchasing goods and services
+
+375
+00:38:54,640 --> 00:39:01,760
+being punished for being a naughty boy. Ducky is locked into Disney jail for 90 days.
+
+376
+00:39:01,760 --> 00:39:08,240
+Will not be able to enjoy his fun. But he's delighted by the 10% off food and merchandise
+
+377
+00:39:08,240 --> 00:39:13,760
+he receives. Well that's what they're sort of implying that like all these doors that open
+
+378
+00:39:13,760 --> 00:39:20,160
+for you when you're a Magic Key holder is that you get 10% off your food or your plush purchases.
+
+379
+00:39:20,800 --> 00:39:25,360
+That's what the doors opening are. But the way they make it seem is that oh my gosh,
+
+380
+00:39:25,360 --> 00:39:30,640
+you can go in places that other people can't. The regular guests only dream of going through
+
+381
+00:39:30,640 --> 00:39:35,280
+these doors. Yeah. But not you. Yeah. You do the special stuff like Ducky does.
+
+382
+00:39:36,000 --> 00:39:39,760
+So it just it's here. Okay, let's keep going. Let's keep going.
+
+383
+00:39:41,360 --> 00:39:46,560
+Now with a magical click click, he could open the door to the happiest day ever.
+
+384
+00:39:47,600 --> 00:39:52,800
+What is the click click? What is click click? What are you talking about? Even if he had the
+
+385
+00:39:52,800 --> 00:39:59,680
+key out of his digestive system, that's not that is that a noise that turn like an old-fashioned
+
+386
+00:39:59,680 --> 00:40:05,680
+key might make that noise? Sure. Well, click click, I guess you put it is one of the in
+
+387
+00:40:05,680 --> 00:40:10,080
+is that going in once a click and then turning to the left a click. Look, I'm going to be honest.
+
+388
+00:40:10,080 --> 00:40:16,320
+I've mostly seen that kind of key in movies and TV. So I think the click click is put in a post.
+
+389
+00:40:17,120 --> 00:40:22,640
+So I can't say what the actual sound would be. I mean, I guess I've been to Colonial Williamsburg
+
+390
+00:40:22,640 --> 00:40:30,480
+and the presumably it's some name, something different now. The Plymouth Plantation in Plymouth,
+
+391
+00:40:30,480 --> 00:40:39,040
+Massachusetts. Yeah. Learn how candles are made. He doesn't have the key outside his body. Right.
+
+392
+00:40:39,040 --> 00:40:45,040
+Why is it click clicking? It would the door would be like the door opens. Let's just say that
+
+393
+00:40:46,000 --> 00:40:51,840
+the door would open magically. Like let's I'm just trying to logic this out. The door would open for
+
+394
+00:40:51,840 --> 00:40:57,040
+him if it was magic. Oh, the door is magic. It recognizes that the magic is in his belly.
+
+395
+00:40:57,680 --> 00:41:05,840
+Let's just open the door for him. Creek like a magical creek opens the door like smart locks
+
+396
+00:41:05,840 --> 00:41:16,480
+or like electric cars where they play car sound audio to you that it's a car. Yes, that's yes.
+
+397
+00:41:16,480 --> 00:41:23,600
+But I just, again, logic policing this and I wasn't so like hung up. There were too many
+
+398
+00:41:23,600 --> 00:41:28,400
+things in a row in this video for me to let go. That's really what happened. They're just thing
+
+399
+00:41:28,400 --> 00:41:33,120
+one after another keeps making me go. I don't understand what's happening, but this click click
+
+400
+00:41:33,120 --> 00:41:39,760
+thing. My I am wondering if whatever marketing person came up with this, did they get to like
+
+401
+00:41:39,760 --> 00:41:45,920
+day before launch day and go like, Oh fuck, we forgot it. We have a duck. Donald shit.
+
+402
+00:41:46,480 --> 00:41:50,960
+Well, the posts are already scheduled. Let's no one's going to know. Just post it.
+
+403
+00:41:51,600 --> 00:41:57,520
+So somebody is like, I got the perfect character. It's the perfect animal. We don't. Oh shit. Oh,
+
+404
+00:41:57,520 --> 00:42:03,600
+shit. Donald duck is very famous. He's like one of the most famous characters we have. Oh shit.
+
+405
+00:42:03,600 --> 00:42:07,200
+All right. Well, I've done so much work on ducky. There's just no way we can
+
+406
+00:42:07,200 --> 00:42:13,360
+pivot to a different animal. This has been six months of my life. I am not switching it up.
+
+407
+00:42:13,360 --> 00:42:18,400
+I've been working on this video for six months. No, don't tell me goofy start in a series of
+
+408
+00:42:18,400 --> 00:42:24,400
+shorts where he learns how to do things. Yeah, that would have been helpful to know six months ago.
+
+409
+00:42:24,400 --> 00:42:29,200
+Goofy learns how to use his magic key. All right. What if he's ducky the squirrel?
+
+410
+00:42:30,240 --> 00:42:34,640
+Okay. I understand it's confusing, but follow the logic here. He's just, they call him ducky.
+
+411
+00:42:34,640 --> 00:42:41,760
+Okay. Because his nose is sort of shaped like a beak. That's kind of scary.
+
+412
+00:42:41,760 --> 00:42:46,080
+Yeah. It looks kind of like a hybrid there. Okay. All right. God damn it. All right. Well,
+
+413
+00:42:46,080 --> 00:42:50,960
+it's got to be a duck. Just leave it. Just leave it in. Just go home. Leave it in. It's ducky and
+
+414
+00:42:50,960 --> 00:42:56,000
+he's a duck. Okay. People have to fucking deal with it. All right. You would think we're done
+
+415
+00:42:56,000 --> 00:43:00,560
+with this video. We're not done with the video yet. This video, by the way, is like 80 seconds long.
+
+416
+00:43:00,560 --> 00:43:03,680
+It's so short. Yeah. But there's a lot of lore.
+
+417
+00:43:11,280 --> 00:43:17,840
+Okay. Okay. From then on, he was known as ducky. This duck has been nameless for 70 years.
+
+418
+00:43:18,400 --> 00:43:28,080
+This duck didn't have a name. Or he had a name like the other gods in like a Lovecraft story where,
+
+419
+00:43:28,080 --> 00:43:33,840
+oh, if you knew his true name, it would drive you insane. We can't say. Because he is magical
+
+420
+00:43:33,840 --> 00:43:39,200
+already. He's 70 years old before he gets the key. He's 65 years old before he gets the key.
+
+421
+00:43:39,200 --> 00:43:45,200
+Yeah. But like, I guess if it was like, they called him Brian for 70 years and now they called him
+
+422
+00:43:45,200 --> 00:43:54,240
+ducky. Why would they just start calling him a name? Yeah. Just because of the, he's got a key
+
+423
+00:43:54,240 --> 00:43:58,560
+in his belly. So everybody's like kind of making fun of the key that's in his belly.
+
+424
+00:43:58,560 --> 00:44:04,240
+Is he getting rezzed? He's getting rezzed. Like, hey, ducky. Hey, we're calling you ducky now.
+
+425
+00:44:04,240 --> 00:44:09,360
+We're adding an E to the ducky nickname. You idiot. You're not supposed to eat a duck.
+
+426
+00:44:10,320 --> 00:44:16,960
+You're not supposed to eat a key, man. That's for opening doors. Why would you eat that? This wild
+
+427
+00:44:16,960 --> 00:44:23,360
+man, you're ducky from now on. So, and then they have these like, they have cute like pictures of
+
+428
+00:44:23,360 --> 00:44:30,000
+ducky and he's got kind of like, you know, that long, what is it? A grand marshal in a parade.
+
+429
+00:44:30,000 --> 00:44:37,360
+Oh, a baton. Baton. Yeah. He's got Disney ears on and then there are two smaller ducks behind him
+
+430
+00:44:37,360 --> 00:44:42,640
+with Disney ears on as well. And again, I do like the graphics. They're not dissimilar to like the
+
+431
+00:44:42,640 --> 00:44:51,120
+newer Mickey cartoons. Yeah. But okay, so he is now sort of showing his duck friends around the park,
+
+432
+00:44:52,080 --> 00:44:59,120
+but I don't understand what the new way he's, he's experiencing Disney now. He lived in the park.
+
+433
+00:44:59,840 --> 00:45:04,800
+Yeah. He was doing everything for free. Yeah. There's nothing different other than he's getting
+
+434
+00:45:04,800 --> 00:45:11,360
+a discount on Jolly Holiday Bakery items. He can get a muffin for 10% off. But not at the cart.
+
+435
+00:45:11,360 --> 00:45:15,280
+It doesn't work at the carts. It doesn't. The 10% does not work at the carts. It doesn't work at
+
+436
+00:45:15,440 --> 00:45:22,080
+the cart. Maybe it's, is that a little dictator as he sees control of the ducks?
+
+437
+00:45:22,080 --> 00:45:28,080
+Is he a little dictator? Is he too powerful? Is Ducky a little, well, I would say, okay,
+
+438
+00:45:28,080 --> 00:45:37,280
+it depends what the key, what doors the key opens. Like they're showing literal doors in the video.
+
+439
+00:45:37,280 --> 00:45:43,520
+Can Ducky get into the weapons cache? The Disneyland weapons cache? The security,
+
+440
+00:45:43,520 --> 00:45:49,120
+yeah, the security, like. Do you, how many weapons are on the premises of Disneyland?
+
+441
+00:45:50,080 --> 00:45:56,400
+I, that's, I'm legitimately asking. I, well, if there's Anaheim police there, you gotta factor on
+
+442
+00:45:56,400 --> 00:46:07,840
+that. Sure. I feel like the security area backstage, I feel like they have to have something. Do you
+
+443
+00:46:07,840 --> 00:46:14,880
+think it's like a Kingsman closet where it's full of weaponry? I don't know. I don't,
+
+444
+00:46:14,880 --> 00:46:19,840
+I would not think so, but. These theme parks, especially the Disney theme parks, are like
+
+445
+00:46:20,640 --> 00:46:28,160
+national security, like points of interest, you know? So. Right. And there's a lot of
+
+446
+00:46:28,160 --> 00:46:33,360
+plain clothes guys roaming around. We know that. Right, but are those people armed? I don't know
+
+447
+00:46:33,440 --> 00:46:39,120
+they're necessarily armed, but might be backstage. So you think maybe down like in the like corridors
+
+448
+00:46:39,120 --> 00:46:43,760
+or in the Disneyland tunnels or Disney world tunnels, it's like there's a room where you're
+
+449
+00:46:43,760 --> 00:46:49,440
+getting dressed to be goofy in a parade. And then next to it, there's about 500 guns on the wall,
+
+450
+00:46:50,400 --> 00:46:56,640
+just in case. That's a good question. I don't know. I suspect there's not that many. I don't think
+
+451
+00:46:56,640 --> 00:47:01,680
+there's that many weapons there, but according to this video, Ducky can get into those rooms.
+
+452
+00:47:01,920 --> 00:47:09,040
+So Ducky can like watch you change. Well, okay. Without that brings up a question. Is management
+
+453
+00:47:09,040 --> 00:47:14,560
+scared of him? Scared of Ducky? Yeah. Yeah. Well, they should be scared of him because he's got a
+
+454
+00:47:14,560 --> 00:47:21,520
+key that can open any door in the resort. He can open up the bathroom door. He can open up a door
+
+455
+00:47:21,520 --> 00:47:25,440
+if you're having like a meeting with a coworker, like if you're one of the like supervisors or
+
+456
+00:47:25,440 --> 00:47:28,800
+something and you're like, I need to pull you in here and we got to talk about something. Ducky can
+
+457
+00:47:29,760 --> 00:47:35,360
+just walk in. Ducky is essentially the child from the Twilight Zone episode who has powers.
+
+458
+00:47:36,000 --> 00:47:41,440
+Right. Ducky can literally open, like there's the doors that don't go to anywhere on rides
+
+459
+00:47:41,440 --> 00:47:48,000
+can be opened by Ducky. Yeah. He can open up the doors in Indiana Jones that don't work.
+
+460
+00:47:48,560 --> 00:47:54,000
+He can mess the rides up because he can literally open any door with his belly.
+
+461
+00:47:54,000 --> 00:48:00,160
+We are starting to get into the territory of does Ducky ever reality warping powers?
+
+462
+00:48:03,040 --> 00:48:07,520
+You mean like, can he will something into existence? Like if he goes through that door
+
+463
+00:48:07,520 --> 00:48:14,320
+in Indiana Jones, is it just hallway? Is just machinery back there or is it a temple door?
+
+464
+00:48:15,920 --> 00:48:21,360
+What were you picturing? I was picturing just a flat wall. Okay. I was just picturing he's like
+
+465
+00:48:21,360 --> 00:48:24,880
+messing up the ride because he just wanted to see what was back there.
+
+466
+00:48:25,600 --> 00:48:31,440
+Yeah. What do you think? I mean, Ducky lives, they do make it pretty clear because Magic Key
+
+467
+00:48:31,440 --> 00:48:36,240
+is the branding for the Disneyland annual passes. They make it clear that he lives in Disneyland,
+
+468
+00:48:36,240 --> 00:48:43,440
+not Disney World. Right. But what would Ducky do if he found out that they were paving over the
+
+469
+00:48:43,440 --> 00:48:49,360
+rivers of America? Oh, we'd go ballistic. He would probably, because yeah, that's where he like lived
+
+470
+00:48:49,360 --> 00:48:54,480
+most of his whole life. Yeah. Which I assume they didn't want to introduce Ducky living in
+
+471
+00:48:54,480 --> 00:48:59,920
+the place they were paving over in Florida. Yeah. But they don't call the Magic Keys there.
+
+472
+00:48:59,920 --> 00:49:04,880
+Right. That's what I'm saying. Yeah. Yeah. But I'm saying that like they have one cute new character
+
+473
+00:49:04,880 --> 00:49:12,800
+living in basically their version of a waterway. I feel like if the character were to catch on,
+
+474
+00:49:13,680 --> 00:49:17,440
+then it would be like, Oh, well, we destroyed the little man of Disneyland's house. It's the same
+
+475
+00:49:17,440 --> 00:49:23,440
+thing. So they wouldn't want to introduce like that the rivers is the home of one of the characters
+
+476
+00:49:23,440 --> 00:49:28,960
+because then if they decide ever to destroy our rivers of America, like they are doing to Florida,
+
+477
+00:49:29,520 --> 00:49:32,560
+then you're like, well, Ducky doesn't have a place to sleep anymore.
+
+478
+00:49:33,600 --> 00:49:40,080
+Yeah. So I don't know if he could stop it. I mean, when you ask reality warping powers, like he would
+
+479
+00:49:40,080 --> 00:49:45,360
+he would be able to stop something like that, I assume. Yeah. He would be able to open up like
+
+480
+00:49:45,360 --> 00:49:50,720
+a door under one of the construction cranes and it falls through into limbo or something.
+
+481
+00:49:51,520 --> 00:49:58,240
+Yeah. Like, yeah. Does he have chaos magic? Yeah. Why I'm even saying he if he has reality
+
+482
+00:49:58,240 --> 00:50:04,640
+warping, if he's like Dr. Manhattan and Watchmen. Yeah. Or yeah, he's yeah, he can just he can do
+
+483
+00:50:04,640 --> 00:50:10,720
+whatever he wants. But oh, Ducky is for sure tired of these people and their problems and
+
+484
+00:50:10,800 --> 00:50:18,960
+knives. Yeah, that's true. Now, if that's true, then I think Ducky is comfortable with all the
+
+485
+00:50:18,960 --> 00:50:21,920
+different changes that have happened to the Disneyland Resort over the last few years because
+
+486
+00:50:21,920 --> 00:50:28,640
+he would have stopped them if he wasn't. So he's he's on on the team. He's on the corporate team
+
+487
+00:50:28,640 --> 00:50:36,480
+is what I'm saying. Is he a driver of some of the changes? Perhaps he is. So they just wake up one
+
+488
+00:50:36,480 --> 00:50:41,680
+day and the burden, the bride with the axe is gone. Ducky has replaced the bride in the Haunted
+
+489
+00:50:41,680 --> 00:50:46,320
+Mansion and then they have to get Kim Irvine out there to pretend that they did something.
+
+490
+00:50:46,320 --> 00:50:53,200
+In reality, it's just Ducky and he's drawing his wing across his throat and he's like, that's
+
+491
+00:50:53,200 --> 00:50:58,080
+everyone's like, what happened? How does this happen? They just turn and Ducky's just there.
+
+492
+00:50:58,080 --> 00:51:01,600
+Right. And they're like, well, say no more. Ducky has made his decision.
+
+493
+00:51:02,000 --> 00:51:07,200
+Yeah, it's like the Coliseum or something and Ducky kind of gives his thumbs up or thumbs down.
+
+494
+00:51:07,200 --> 00:51:14,800
+Yeah, but there is no Ducky merch, right? No, I've searched all over. There are two or three posts
+
+495
+00:51:14,800 --> 00:51:24,000
+with Ducky on the Instagram. There are one or two articles written by other theme park bloggers
+
+496
+00:51:24,000 --> 00:51:29,680
+that mention Ducky, but there's not been a big push yet for Ducky.
+
+497
+00:51:31,200 --> 00:51:37,520
+And I don't know. It would make a good plush. Yeah. It would make a cute thing, key chain,
+
+498
+00:51:37,520 --> 00:51:41,280
+whatever, pin. It will be interesting to see because I've also heard rumors
+
+499
+00:51:41,840 --> 00:51:51,280
+that they could abandon Magic Key as a title. Okay. And abandon it entirely or just go back
+
+500
+00:51:51,280 --> 00:51:56,960
+to annual pass. Go back to annual passes or passports, whatever they call them at the time,
+
+501
+00:51:56,960 --> 00:52:02,000
+because I think the majority of people call them annual passes. Yeah. I don't think Magic Key is
+
+502
+00:52:02,640 --> 00:52:09,760
+stuck in the minds of parkgoers and the youth of today. I think they call them annual passes
+
+503
+00:52:09,760 --> 00:52:16,800
+still generally, not Magic Key, but we'll see. So will Ducky go away if that terminology goes away?
+
+504
+00:52:16,800 --> 00:52:22,720
+Because they've already changed from the same era, Genie and Genie Plus. They've gotten rid of
+
+505
+00:52:22,720 --> 00:52:29,280
+that Chapec era branding. Yeah. And it will be interesting to see. Yes. Is Ducky already going
+
+506
+00:52:29,280 --> 00:52:34,560
+away, which is almost the feeling I get because most people don't know about this. And is that
+
+507
+00:52:34,560 --> 00:52:39,520
+because they had just finished up all the Ducky stuff and then they're like, yeah, we're going
+
+508
+00:52:39,520 --> 00:52:46,800
+to get rid of the Magic Key thing. So for me, we're going to kind of send Ducky out.
+
+509
+00:52:48,560 --> 00:52:53,440
+I mean, I still, I still say fast pass instead of lightning late. A lot of
+
+510
+00:52:53,440 --> 00:52:58,560
+of course, all these, all these things that were burned in our brains, there's just no reason to
+
+511
+00:52:58,560 --> 00:53:04,880
+change them. Yeah. It's just weird. I fast pass is like, everybody loves saying fast pass.
+
+512
+00:53:05,600 --> 00:53:13,200
+Everybody has such affection. Now on some level, I don't know if it's protecting something beloved
+
+513
+00:53:14,400 --> 00:53:20,800
+to test out if the new version that costs more doesn't work. And then we could go back to the
+
+514
+00:53:20,800 --> 00:53:28,000
+original. You know what I'm saying? Like if max, whenever they change fast pass to max pass,
+
+515
+00:53:28,000 --> 00:53:33,040
+okay, well, if max pass people really won't pay, then we can just say fast passes back.
+
+516
+00:53:33,040 --> 00:53:38,160
+And we haven't soiled the good name of fast pass. I don't know if that's the thinking. Yeah.
+
+517
+00:53:38,880 --> 00:53:42,320
+Like that's why we were saying with Jeannie and Jeannie plus, like, why would you want to risk
+
+518
+00:53:42,960 --> 00:53:47,760
+using one of your most beloved characters for a service that's going to just drive everyone
+
+519
+00:53:47,760 --> 00:53:54,640
+insane? And they did and it did. And now they've rebranded already. There is a little more of this
+
+520
+00:53:54,720 --> 00:54:00,560
+video. A little more, believe it or not. Just play the rest and then we'll chime in.
+
+521
+00:54:00,560 --> 00:54:06,240
+Follow his adventures around the parks. You have the key to the best Disneyland day ever.
+
+522
+00:54:09,200 --> 00:54:15,440
+So that's basically it. They close like it's a storybook and Ducky is walking with his friends
+
+523
+00:54:15,440 --> 00:54:23,040
+or his children. Maybe those are his kids. It's possible too. Sure. Underlings. Underlings. Yeah,
+
+524
+00:54:23,040 --> 00:54:28,720
+it's possible. And yes, that's basically a little short story to tell you, the consumer,
+
+525
+00:54:29,280 --> 00:54:34,080
+that you should get a magic key because so many options open to you at that point.
+
+526
+00:54:34,880 --> 00:54:39,760
+But they don't, they don't describe any of the actual benefits.
+
+527
+00:54:39,760 --> 00:54:45,600
+No, I know. There's no, I don't. It's barely a metaphor. It's barely holding on for an 80 second
+
+528
+00:54:45,600 --> 00:54:49,040
+minute. That's what we were talking about earlier. Yes, I know. It doesn't, it doesn't make sense.
+
+529
+00:54:49,040 --> 00:54:54,560
+You're like, oh, so I get to like go in the back way on Star Tours? Is there a back door on
+
+530
+00:54:54,560 --> 00:54:59,760
+Star Tours? From watching the video, it looks like I can like walk on the Incredicoaster from
+
+531
+00:54:59,760 --> 00:55:08,000
+a secret door. Is that what this is? Yeah. No. There's like, I know someone showed me once
+
+532
+00:55:08,880 --> 00:55:18,240
+the like backstage door by the Grand Californian where the security, the metal detectors are to
+
+533
+00:55:18,240 --> 00:55:23,360
+get to downtown Disney. Right. There's a door, if you didn't turn to go to the metal detectors,
+
+534
+00:55:23,360 --> 00:55:28,720
+there's a door right around there that goes backstage. I think that's where like time clocks
+
+535
+00:55:28,720 --> 00:55:34,160
+and bulletin boards and stuff are. Well, Ducky can get in there. Yeah, he can. He can go in there.
+
+536
+00:55:34,160 --> 00:55:37,760
+He can run havoc and everyone runs scared when they see him coming.
+
+537
+00:55:39,680 --> 00:55:46,720
+So yeah, that's Ducky, like that's Ducky. And I could, do we like Ducky? I think we do.
+
+538
+00:55:47,280 --> 00:55:53,920
+I think so. I like him okay. I like him okay, but he's first of all, look, I hate to be so insulting.
+
+539
+00:55:53,920 --> 00:56:02,880
+He's dumb. He's a dumb duck. Yeah. He ate a key. He shouldn't have eaten that key. Was there moss on
+
+540
+00:56:02,880 --> 00:56:10,080
+it or something or like delicious moss? Like delicious underwater dirt? Does moss smell good?
+
+541
+00:56:10,080 --> 00:56:15,680
+Is moss a good smell? I feel like it smells bad. I feel like if it's mossy, it's like smells bad.
+
+542
+00:56:15,680 --> 00:56:21,360
+Can he only, well, birds don't have teeth. Is that what? Or no, they do have teeth, but they don't.
+
+543
+00:56:21,360 --> 00:56:29,120
+I forget. Yeah. Something about the beak. I guess I like him. I guess I hope for him
+
+544
+00:56:30,080 --> 00:56:35,280
+that he has more mythology that's more confusing even than that. Now that if they like triple down
+
+545
+00:56:35,280 --> 00:56:42,080
+on Ducky being confusing, I would love that more than just sort of pretending he's normal
+
+546
+00:56:42,080 --> 00:56:48,960
+because he's not normal. No, he's not. Ducky is not normal. Duffy is normal. Duffy is a normal
+
+547
+00:56:48,960 --> 00:56:54,800
+bear guy. He's kind of a boring bear. We have to steer him in the right direction though
+
+548
+00:56:55,600 --> 00:57:02,560
+to protect the world that hates and fears him. Sure. Yeah. I mean, I think this episode is going
+
+549
+00:57:02,560 --> 00:57:08,640
+to start doing that. We're going to start that conversation with America as far as what is good.
+
+550
+00:57:08,640 --> 00:57:13,360
+Have we gone too far? No, I think we're right on. I think this is the right amount.
+
+551
+00:57:13,360 --> 00:57:20,240
+Okay. But yeah, go ahead. Yeah. Oh, I was going to say I had something else outside of Ducky,
+
+552
+00:57:20,240 --> 00:57:23,920
+unless you were to say about Ducky. Well, I was just going to say if they can,
+
+553
+00:57:23,920 --> 00:57:30,640
+we could pitch real quick on what extra stuff we want Ducky to do that confuses the hell out
+
+554
+00:57:30,640 --> 00:57:40,480
+of a possible Magic Key buyer. Oh, I would like a full court press of Ducky. I would like shirts
+
+555
+00:57:40,480 --> 00:57:48,160
+and spirit jerseys and pins and keychains. Okay. I think they should go all in on Ducky because then
+
+556
+00:57:48,160 --> 00:57:55,760
+if they pull back really quick, then that stuff becomes rare. So you just want merch of Ducky
+
+557
+00:57:55,760 --> 00:58:00,400
+because then there'll be like a, there's a small window here where we know Magic Key exists
+
+558
+00:58:01,200 --> 00:58:04,560
+and that's when we could get all the Ducky stuff. Like you want, what would you,
+
+559
+00:58:04,560 --> 00:58:12,480
+of all the merch possible in a realistic sense, would you buy a hooded Ducky sweatshirt that had
+
+560
+00:58:12,480 --> 00:58:19,440
+like a duck bill on the hood that you could kind of pull down and it would look like your Ducky?
+
+561
+00:58:19,440 --> 00:58:25,840
+And then over like sort of by the pocket, by the belly, there's a key has been sewn into the
+
+562
+00:58:25,840 --> 00:58:32,320
+sweatshirt. Oh, see, I thought maybe an image of a key on the backside. Yeah, there could be an image
+
+563
+00:58:32,320 --> 00:58:37,680
+of a key on the backside too, but I think they should sew an actual metal key in the lining of
+
+564
+00:58:37,680 --> 00:58:44,080
+the sweatshirt. So when you touch your belly or sit down, you can feel it because you know,
+
+565
+00:58:44,240 --> 00:58:52,240
+like you really like feeling what Ducky feels. I would love to like, there's a little surveillance
+
+566
+00:58:52,240 --> 00:58:59,200
+steady, but if they sewed in like an RFID chip, so then you don't have to get your phone out if
+
+567
+00:58:59,200 --> 00:59:06,720
+you have a Magic Key. So you could wear your Ducky hoodie at the turnstile and that would read.
+
+568
+00:59:06,720 --> 00:59:12,880
+So instead of a Magic band, you're advocating for a Magic sweatshirt. I mean, those bands get
+
+569
+00:59:12,880 --> 00:59:19,760
+more and more expensive. So you may as well have like some practicality to the function.
+
+570
+00:59:20,400 --> 00:59:24,080
+That's okay. Yeah. Magic, it's like a Magic sweat, Magic sweatshirt,
+
+571
+00:59:24,800 --> 00:59:31,520
+and that gets you into the parks, but it's Ducky branded. Okay. Would you, let me think.
+
+572
+00:59:32,880 --> 00:59:40,480
+So it's like every now and then there's limited run vacation club. They can only buy if you're
+
+573
+00:59:40,480 --> 00:59:46,400
+in the vacation club. Supposedly. I bet if you like, we think not that cashier and they're cool
+
+574
+00:59:46,400 --> 00:59:50,320
+about it, you can probably buy it. You think you could do that? I think it can probably be like,
+
+575
+00:59:50,320 --> 00:59:54,560
+where, where, where do they sell it at the vacation club? I mean, like, like on the cruise ship,
+
+576
+00:59:54,560 --> 00:59:58,160
+on the cruise ships, they have some- Right. Oh, you're saying on the cruise ship,
+
+577
+00:59:58,160 --> 01:00:03,360
+you'd have to be a vacation club member to buy it? Or the emporium, like there might be
+
+578
+01:00:03,360 --> 01:00:08,800
+an exclusive vacation club shirt. Okay. And you think if you kind of give them the like the
+
+579
+01:00:08,800 --> 01:00:14,080
+little eye. Hey, you know. Sweet talk them. You know. I don't know. I feel like the opposite.
+
+580
+01:00:14,080 --> 01:00:19,200
+I feel like they are really like restrictive as far as what they do. Now they do have Magic Key,
+
+581
+01:00:19,200 --> 01:00:23,280
+like pins that they're selling. I saw they have an Indiana Jones one today.
+
+582
+01:00:23,840 --> 01:00:27,680
+Okay. I'm not sure there's a pizza Rizzo one that just came out. I'm not sure if that was a,
+
+583
+01:00:28,400 --> 01:00:31,520
+what is it called? What are the passes called in Florida? I don't remember. There's like an
+
+584
+01:00:31,520 --> 01:00:36,240
+Accredited pass. There's like an Accredited pass or something in Florida. There's like a different
+
+585
+01:00:36,880 --> 01:00:42,800
+amount of branding. And there's no platinum pass. There's no both coast pass. There is,
+
+586
+01:00:43,520 --> 01:00:50,640
+but it's not advertised. Oh, okay. I believe. Now you do get one if you're club 33. Yeah.
+
+587
+01:00:50,640 --> 01:00:55,680
+On either coasts, you get a whatever the premier pass. Okay. Whatever they call it. I'm not sure.
+
+588
+01:00:56,240 --> 01:01:01,280
+But, and I think you maybe still can get it. It's just not listed on the website. Oh, I see.
+
+589
+01:01:01,280 --> 01:01:04,640
+That's a wink, wink. You go up to one of the booths and go, give me the special pass.
+
+590
+01:01:05,280 --> 01:01:11,920
+You go up, you find the one ticket booth that still has a person in it. Yeah. That's like
+
+591
+01:01:11,920 --> 01:01:17,760
+dusty and you got to get the cobwebs out of the way so you can see them. They put the premier
+
+592
+01:01:17,760 --> 01:01:24,640
+pass on the table and I pick it up and I eat it. No. I eat it in front of them. No. I sniff it.
+
+593
+01:01:24,640 --> 01:01:30,160
+It's not there yet. I sniff it. I assess what it is and I eat it and it's in my belly forever.
+
+594
+01:01:30,160 --> 01:01:33,120
+You're like, smells like delicious moss.
+
+595
+01:01:35,520 --> 01:01:41,840
+If it smells like moss, I got to eat it because moss smells so good. So yeah,
+
+596
+01:01:41,840 --> 01:01:50,640
+ducky. I would a little ducky plush makes sense. But yeah, I don't know. I would think like, what's
+
+597
+01:01:50,640 --> 01:01:58,320
+the like a ducky corset you could wear? A corset? Is that what you would want to waste? Like a
+
+598
+01:01:58,320 --> 01:02:03,760
+waist trainer? What? You know, like you're trying to cram yourself into a dress or something.
+
+599
+01:02:04,560 --> 01:02:08,320
+Yeah, no, I'm familiar. Or a corset or like a cummerbund. It could be whatever you want. It
+
+600
+01:02:08,320 --> 01:02:12,720
+doesn't have to be. It could be gender. Obviously any gender can wear either of those. A girdle?
+
+601
+01:02:12,720 --> 01:02:20,240
+You want a ducky girdle. It could be a ducky girdle. And again, there's a key sewn into the
+
+602
+01:02:20,240 --> 01:02:26,240
+lining of it. But that would be, I think the ultimate ducky merch is something that really
+
+603
+01:02:26,240 --> 01:02:32,720
+made you feel like you were ducky. And then as the idea you had to use that as your way into the
+
+604
+01:02:32,720 --> 01:02:38,640
+park and on rides and using lightning lane, et cetera. Her universe clothing line is going to
+
+605
+01:02:38,640 --> 01:02:44,240
+make a fortune on the ducky past. The ducky, how much you think a ducky girdle would cost?
+
+606
+01:02:45,680 --> 01:02:53,120
+100? 150? How much is a girdle these days? I don't know that they're that popular nowadays.
+
+607
+01:02:53,120 --> 01:03:00,480
+How are girdle prices doing under Trump? Where is William Frawley's? Like the Smithsonian
+
+608
+01:03:00,480 --> 01:03:04,960
+have his girdle? Yeah, it's the first room with the Smithsonian is William Frawley's girdle.
+
+609
+01:03:04,960 --> 01:03:12,160
+It's by the big pendulum and the ruby slippers. Right. Yeah, they've kept good care of it. They've
+
+610
+01:03:12,160 --> 01:03:16,960
+taken good care of it. So you should do like a national treasure and try to find William
+
+611
+01:03:17,040 --> 01:03:24,080
+Frawley's girdle. Well, Michael, since we are scot-free today, I figured it'd be a good time
+
+612
+01:03:24,640 --> 01:03:32,320
+to give you your Christmas present. Christmas is coming, I was going to say early, but it's
+
+613
+01:03:32,320 --> 01:03:38,000
+coming very late. Very late. Very late. Whoa. It's flat. I see something that's flat. It's flat.
+
+614
+01:03:38,000 --> 01:03:44,160
+Okay. Oh my gosh. Just Christmas present here. Let me open this. It's stuck together. I'm guessing
+
+615
+01:03:44,160 --> 01:03:52,480
+this is a photo of some kind. Is it? Let's see. Is it a photo of the two of us perhaps?
+
+616
+01:03:52,480 --> 01:03:57,520
+An eight by 10 photo of the two of us? You know, you've seen like a headshot before.
+
+617
+01:03:57,520 --> 01:04:04,320
+I am very sentimental. It's a headshot, but it's our two heads. Yeah. So we can go out for
+
+618
+01:04:04,320 --> 01:04:11,120
+rolls together. Oh, there's so many rolls. Oh my gosh. It is a picture of Chuck-O the Clown.
+
+619
+01:04:11,840 --> 01:04:17,520
+Whoa. Is it signed by him or is it just a... No, it's a news file. Oh, wow. It's got notes on the
+
+620
+01:04:17,520 --> 01:04:22,480
+back. So it's old. It says April 20th, 1988. So this says Chuck-O the Clown on the back
+
+621
+01:04:22,480 --> 01:04:29,280
+and it says Randy Runyon. That's right. It's the son. It's Chuck-O's son. It's not the original
+
+622
+01:04:29,280 --> 01:04:34,400
+Chuck-O. Now here's a frame for it, but I want to make sure you could read the back. This is a
+
+623
+01:04:34,400 --> 01:04:40,560
+pretty good... You could use that for like a photo of your daughter or your family. I could use it
+
+624
+01:04:40,560 --> 01:04:44,960
+or I could put this photo of Chuck-O next to where my daughter sleeps. That's right. Now,
+
+625
+01:04:44,960 --> 01:04:52,000
+she could wake up. I originally got you this self-published book, but there's a catch.
+
+626
+01:04:52,000 --> 01:04:57,600
+Are you sure this isn't for Scott? Oh my gosh. This is a used book. It's kind of a dirty book,
+
+627
+01:04:57,600 --> 01:05:03,200
+but it's also... It's like printed. You can tell it's not like a professional printing place
+
+628
+01:05:03,200 --> 01:05:06,960
+because it's a little off center. Correct. Yeah. Oh, so the twist, you want to tell me what it is?
+
+629
+01:05:07,200 --> 01:05:14,560
+It's... I got too excited when I found it and I didn't read the fine print that it's a different
+
+630
+01:05:14,560 --> 01:05:21,120
+Chuck-O. There's a second Chuck-O. Holy shit. So this is a book about Chuck-O the Clown,
+
+631
+01:05:21,120 --> 01:05:28,880
+but it's not the Runyon family bloodline of Chuck-O. Yeah. Chuck-Chuck-O Sidlow has been
+
+632
+01:05:28,960 --> 01:05:35,920
+clowning around. Is this a... This is not a real clown, is it? No, it is. Oh, it is. It's a Barnum
+
+633
+01:05:35,920 --> 01:05:39,760
+Bailey clown. I thought that was fiction. Oh, it is. I thought it was a book. Chuck Sidlow's
+
+634
+01:05:39,760 --> 01:05:48,800
+amazing story as told to Judy Pichelle Van Tegen. So this is Chuck-Chuck-O Sidlow. Yeah.
+
+635
+01:05:48,800 --> 01:05:54,480
+And he's from New Jersey. He became the youngest boss clown of the greatest show on earth.
+
+636
+01:05:54,880 --> 01:05:59,680
+This is about his life after the circus. Yeah. Okay. So he was the boss of the circus. Yes.
+
+637
+01:05:59,680 --> 01:06:06,480
+This Chuck-O. That Chuck-O. But not Randy... So I had to correct myself and I went and I found
+
+638
+01:06:06,480 --> 01:06:10,560
+that file. So you get all of it. I do get the book though, even though it's not about this Chuck-O.
+
+639
+01:06:10,560 --> 01:06:15,600
+Is this... What is this in the... Are you reading it? Why is there a... That was just the packing
+
+640
+01:06:15,600 --> 01:06:19,600
+slip. Oh, I thought it was like a receipt for laundromat or something. You can use it as a
+
+641
+01:06:19,600 --> 01:06:24,160
+bookmark. Okay. I know you love self-published clown literature.
+
+642
+01:06:26,160 --> 01:06:32,720
+It says on the front, it says destiny or a gift from God. And then it's a drawing of a clown with
+
+643
+01:06:32,720 --> 01:06:37,440
+a picture frame and you can see his head through the picture frame. That's what all the clown
+
+644
+01:06:37,440 --> 01:06:43,680
+teachers in Los Angeles say in their first class. Is this destiny or a gift from God?
+
+645
+01:06:43,680 --> 01:06:49,760
+Yeah. And he's really like, he's kind of like hunched over. And it's like, it's like a child
+
+646
+01:06:49,760 --> 01:06:55,280
+drew the front of it. No offense to if this is like, if Judy Pochelle Van Tiegen drew this,
+
+647
+01:06:55,280 --> 01:06:58,960
+I apologize. It does look like an art class painting. Yeah. Yeah. All right. Well, I guess
+
+648
+01:06:58,960 --> 01:07:03,120
+I got a lot of work to do. I mean, we've been... Okay. I don't know if Scott will listen to this
+
+649
+01:07:03,120 --> 01:07:06,400
+at this point. I think this has been a pretty good episode, but... I think so too.
+
+650
+01:07:07,200 --> 01:07:14,880
+I... Well, Chucko will show up this year. I'll declare that. Chucko will be on
+
+651
+01:07:15,600 --> 01:07:21,280
+the podcast again. Not him necessarily. Maybe. I don't think there's been a younger Runyon
+
+652
+01:07:21,280 --> 01:07:27,040
+that's taken up the mantle. Well, they're both long dead. The father and son. I don't think the
+
+653
+01:07:27,040 --> 01:07:35,120
+grandson took it over. Yes. Yes. But okay. So thank you for that. There's one thing and I'm
+
+654
+01:07:35,120 --> 01:07:39,920
+stumbling all over myself because there is one thing else I wanted to bring up and I guess I
+
+655
+01:07:39,920 --> 01:07:45,280
+will. You know, we love our influencers. This is another zone. This is another Scott-free zone,
+
+656
+01:07:45,280 --> 01:07:50,960
+I feel like. Sure. It's sort of internet people making little videos that are not necessarily
+
+657
+01:07:50,960 --> 01:07:55,920
+comedic. They just decide they have a thing and they go for it. There's a lot of food reviewers.
+
+658
+01:07:55,920 --> 01:08:02,320
+Right. We like Costco guys. We like Luke's foods. You know him? Yes, I know him. And dang, it's Wayne.
+
+659
+01:08:03,280 --> 01:08:11,440
+There's the Maryland boys. Yes. What is their thing? They're like doing podcasts now. Okay.
+
+660
+01:08:11,440 --> 01:08:18,240
+But they were talking about different buffalo wing sauces they do or don't like. Okay. I don't know
+
+661
+01:08:18,240 --> 01:08:24,400
+if I follow them. There's of course Shirley Temple King who's been around for a while. He's a little
+
+662
+01:08:24,400 --> 01:08:29,920
+boy that tries the Shirley Temples. But then he does other stuff too. But Shirley Temple is not
+
+663
+01:08:29,920 --> 01:08:36,800
+the child who looks at stores lights turning on and off. No, that's a different one. That's Anthony
+
+664
+01:08:36,800 --> 01:08:41,040
+Geo was the one who told me about him. Okay. And I can't think of what his name is off the top,
+
+665
+01:08:41,040 --> 01:08:48,160
+but he'll wait outside like say a Ross or like a TJ Maxx at a mall and he waits for the lights to
+
+666
+01:08:48,160 --> 01:08:53,920
+turn off. And that's sort of a big moment. But I found a new one and plenty of people have found
+
+667
+01:08:53,920 --> 01:08:59,120
+this. I'm not saying I'm first like I am when it comes to Ducky, but I think you should know
+
+668
+01:08:59,120 --> 01:09:04,400
+specifically about this because I think you should either steal his bit or should go back in time
+
+669
+01:09:04,400 --> 01:09:13,040
+and try it. Okay. I am talking about my new follow on Instagram, Retro Samuel. Retro Samuel
+
+670
+01:09:14,000 --> 01:09:19,120
+looks to be a guy in his maybe early 20s. He could even be late teens. He looks young,
+
+671
+01:09:19,120 --> 01:09:26,960
+but his whole thing is buying old clothing like from the 20s and 30s and wearing it and then
+
+672
+01:09:27,040 --> 01:09:34,480
+posting like him in sort of an old like fedora and long coat looking wistfully into the snow
+
+673
+01:09:34,480 --> 01:09:42,880
+as an old song plays. Wow. And he's even got a picture that he's made black and white with him
+
+674
+01:09:44,400 --> 01:09:50,880
+and a little Mickey Mouse. And I don't know what country he's from. He seems to be European.
+
+675
+01:09:51,840 --> 01:09:58,560
+Somewhere in Europe is what I'm saying is where he's from. But this really should have been what you
+
+676
+01:09:58,560 --> 01:10:04,880
+did maybe with your life in general. And this is different than the like men's wear guy on Twitter,
+
+677
+01:10:04,880 --> 01:10:11,360
+the die work guy who it's a little more straight forward. It's a little more actual historical
+
+678
+01:10:11,360 --> 01:10:17,200
+stuff and modern stuff. Right. This guy will just, Retro Samuel will just put on like high
+
+679
+01:10:17,200 --> 01:10:24,000
+waisted pants and an old dress shirt that you would see like a president in 1920 where.
+
+680
+01:10:24,000 --> 01:10:30,640
+I gotta tell you, I hate high waisted pants. Do you really? My parents both were so like,
+
+681
+01:10:30,640 --> 01:10:37,920
+you wear your, excuse me, you wear your pants around your belly button and I'm like,
+
+682
+01:10:37,920 --> 01:10:43,920
+this is so uncomfortable. Like your natural waist is low. Like that's where I wear my pants,
+
+683
+01:10:43,920 --> 01:10:49,520
+where they sit naturally. Do you have like picture day where you were wearing like your pants up to
+
+684
+01:10:49,520 --> 01:10:57,200
+your belly button? I, well, I don't know. I don't think I have full, um, full body shots in the
+
+685
+01:10:57,200 --> 01:11:05,600
+first grade. No, I, I think it's like a chest up basically. Okay. But I'm, I'm interested because
+
+686
+01:11:05,600 --> 01:11:10,000
+I don't think, I don't remember like having a fight with my parents about how high my pants need
+
+687
+01:11:10,000 --> 01:11:15,440
+to go to my belly button. That didn't, I don't think they were like that. Yeah. So I don't,
+
+688
+01:11:15,440 --> 01:11:22,400
+I think it's just a matter of taste and tailoring and stuff. And I think it's just
+
+689
+01:11:23,120 --> 01:11:30,480
+my mother buying the same dockers at Sears or Boscov's for everyone at the mall. But let me ask
+
+690
+01:11:30,480 --> 01:11:35,040
+you this, would you, would you wear the Retro Samuel like this short tie? Cause that was the
+
+691
+01:11:35,040 --> 01:11:39,360
+style a hundred years ago. So were those short ties? Yeah, I don't mind the tie. I mean, I,
+
+692
+01:11:39,360 --> 01:11:47,680
+pretty slim ties caught on in the 2010s. And yeah, I had a few of them, but like,
+
+693
+01:11:48,480 --> 01:11:54,640
+I feel like there's a common ground now between a fat tie and a skinny. There's a medium tie.
+
+694
+01:11:54,640 --> 01:12:02,160
+There's a medium, you know, and I, I was never really a tie guy. I much would rather wear a
+
+695
+01:12:02,160 --> 01:12:08,080
+jacket and no tie as opposed to a tie and no jacket. I'm trying, I am trying to find,
+
+696
+01:12:08,080 --> 01:12:16,560
+I may have sent you, there is a channel on YouTube where a guy dresses like an old detective sitting
+
+697
+01:12:16,560 --> 01:12:25,680
+at a desk. It introduces like public domain film, the war, even I were sending those back and forth.
+
+698
+01:12:26,640 --> 01:12:33,600
+But it's very much like a old detective version of Svenguli. Right. That's good. I like that gimmick.
+
+699
+01:12:33,600 --> 01:12:39,680
+Yeah. So what I'm hearing from you is that you don't really want to be like Retro Jason on
+
+700
+01:12:39,680 --> 01:12:46,000
+Instagram. Well, no, it seems like he's, you know, got a good thing going. Yeah. But are we funny if
+
+701
+01:12:46,000 --> 01:12:50,800
+all of a sudden, like an older man stole his gimmick. Wren just said, it's a Retro Jason
+
+702
+01:12:51,440 --> 01:12:56,800
+and you start wearing high-waisted pants and then like, well, in the mood played in the background.
+
+703
+01:12:57,840 --> 01:13:02,000
+Like that would be funny. I mean, I guess I don't want to start a fight. He seems like a nice,
+
+704
+01:13:02,000 --> 01:13:06,960
+a nice young man. So I guess I don't want to weird him out. But I appreciate you letting me know.
+
+705
+01:13:08,400 --> 01:13:13,440
+But you should follow Retro Samuel. Yeah, I will. Like he'll come back. Yeah. Follow him right now.
+
+706
+01:13:14,000 --> 01:13:19,920
+And then just, I like, I like his idea because I, what I like about the influencer types and
+
+707
+01:13:19,920 --> 01:13:23,760
+he's got like 180,000 followers. He really doesn't need our help at this point probably.
+
+708
+01:13:23,760 --> 01:13:30,400
+But I like about the followers is they can really just like find a very simple thing and do it.
+
+709
+01:13:30,400 --> 01:13:36,320
+You know, it doesn't, it doesn't need too much to be somebody that I'm going to be obsessive about
+
+710
+01:13:36,320 --> 01:13:42,480
+on Instagram. Yeah. And he looks like he's doing it for fun, you know, for the love of the game.
+
+711
+01:13:42,480 --> 01:13:47,600
+Yeah. He has a Patreon too. Does he? Yes, he does. Does he post exclusive photos?
+
+712
+01:13:48,480 --> 01:13:54,080
+I haven't investigated what, you know, what would be really good for him to do on Patreon is he
+
+713
+01:13:54,080 --> 01:13:59,280
+would post photos in modern clothes. So it's like, yeah, you know, that would be funny. What's free
+
+714
+01:13:59,280 --> 01:14:03,520
+is me in the old clothes, but if you want to see me wearing a Looney Tunes t-shirt, you got to pay.
+
+715
+01:14:04,080 --> 01:14:13,680
+I Looney Tunes with Bugs Bunny wearing a chain and baggy jeans and stuff. Right. Yeah. A supreme
+
+716
+01:14:13,680 --> 01:14:18,480
+shirt is behind the paywall. That's behind the Patreon. Yeah. Oh, it looks like you just get
+
+717
+01:14:18,480 --> 01:14:23,760
+early access to the posts. Like I can see he's wearing like some old sweat, old style sweaters
+
+718
+01:14:23,760 --> 01:14:28,000
+like he's dressed like maybe Jimmy Stewart or something. And it's a wonderful life.
+
+719
+01:14:28,000 --> 01:14:33,120
+That's clever. I mean, it's a miracle that he's found this much in this good of shape.
+
+720
+01:14:33,760 --> 01:14:38,800
+Yeah. Oh, there's some, but he has bloopers too. He's got some bloopers on the Patreon as well.
+
+721
+01:14:38,800 --> 01:14:44,080
+We should do that on our Patreon, have some bloopers, all the mistakes we make that we edit out.
+
+722
+01:14:44,800 --> 01:14:50,160
+Oh yeah. Just tripping over things and hitting our heads on microphones. Yeah.
+
+723
+01:14:52,880 --> 01:14:59,920
+I don't drink seltzer or soda when I record anymore because I feel like it gives me gas.
+
+724
+01:15:00,480 --> 01:15:06,960
+I feel like it makes me burp. I hear that. And I do enough of that to be in with. You're burping
+
+725
+01:15:06,960 --> 01:15:12,880
+enough to be off mic. Yeah. I'm like moving away from the mic. Yeah. Well, look, I've tried to get,
+
+726
+01:15:12,880 --> 01:15:17,440
+yeah, if you have too much soda, I feel like sometimes my stomach these days, I can't have
+
+727
+01:15:17,440 --> 01:15:24,800
+two sodas in a day anymore. That's over. Now I can if I had to. If the fate of the world depended on
+
+728
+01:15:24,800 --> 01:15:31,600
+me having two sodas, I could have two. Yeah. Well, hey, we've got a Cherry Coke Zero and Sprite Zero
+
+729
+01:15:31,600 --> 01:15:36,320
+in the fridge. Help yourself if you want any. Well, we've got another episode to record. So
+
+730
+01:15:36,320 --> 01:15:43,520
+maybe on that second episode we will do it. But as for today's episode, I think you, the listener,
+
+731
+01:15:43,520 --> 01:15:50,320
+have survived podcast the ride at this point. Yes. But follow Retro Samuel. Follow Disneyland Magic
+
+732
+01:15:50,320 --> 01:15:58,000
+Key so you can keep up on what's going on with Ducky. And just keep this in the back of your mind.
+
+733
+01:15:58,000 --> 01:16:04,160
+Chucko is coming. I'm not going to say when. I'm not going to say where. I mean, probably October.
+
+734
+01:16:04,160 --> 01:16:10,240
+But I'm not going to say exactly when or exactly where. But just keep your eyes peeled for
+
+735
+01:16:10,800 --> 01:16:17,680
+Chucko from Los Angeles TV, not Chucko from the Barnum and Bailey Circus. Yeah.
+

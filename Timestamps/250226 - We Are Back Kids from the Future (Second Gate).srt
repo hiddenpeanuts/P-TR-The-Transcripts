@@ -1,0 +1,3556 @@
+1
+00:00:00,000 --> 00:00:21,040
+Five, four, three, two, one.
+
+2
+00:00:21,040 --> 00:00:24,840
+Welcome to Podcast The Ride, The Second Gate.
+
+3
+00:00:24,840 --> 00:00:32,280
+Some episodes and topics we pour over a little bit and we say, oh, is this the right time
+
+4
+00:00:32,280 --> 00:00:37,280
+or is there a better way to do that or is there a better guest for it or you know, like
+
+5
+00:00:37,280 --> 00:00:41,460
+how can we position that the best and you know, and we mull them over and make sure
+
+6
+00:00:41,460 --> 00:00:44,560
+that they get ripe and what have you.
+
+7
+00:00:44,560 --> 00:00:51,200
+Some topics are a text that are sent and we go, yep, put it in and there we are.
+
+8
+00:00:51,640 --> 00:00:58,680
+Sometimes it's just got to go straight wordlessly from episode to topic and I'm thrilled that
+
+9
+00:00:58,680 --> 00:01:01,000
+that is what has happened here.
+
+10
+00:01:01,000 --> 00:01:07,840
+I'm Scott Gardner, Jason Sheridan's over there and I am crediting Mike Carlson with a, that's
+
+11
+00:01:07,840 --> 00:01:12,720
+a grand slam out of the park with what you've texted us, which is what we're talking about.
+
+12
+00:01:12,720 --> 00:01:13,720
+Not dummy-related.
+
+13
+00:01:13,720 --> 00:01:20,680
+Yes, yeah, no, those are bunts that get caught and there's an out immediately.
+
+14
+00:01:20,680 --> 00:01:25,400
+This one to me, I mean, as soon as I actually, it took me actually watching it and maybe
+
+15
+00:01:25,400 --> 00:01:30,240
+it will for the listener too, but as soon as I saw any of it, I was like, oh yeah, alright,
+
+16
+00:01:30,240 --> 00:01:31,240
+here we go.
+
+17
+00:01:31,240 --> 00:01:33,440
+Yeah, we got a weird one.
+
+18
+00:01:33,440 --> 00:01:35,160
+This is a weird one.
+
+19
+00:01:35,160 --> 00:01:40,120
+It was something that just popped up because I've talked about this before, I don't really
+
+20
+00:01:40,120 --> 00:01:46,680
+use Facebook other than to just be a member of various different groups on it and I don't
+
+21
+00:01:47,280 --> 00:01:50,920
+even know if I'm part, there was a Back to the Future group and for whatever reason,
+
+22
+00:01:50,920 --> 00:01:52,800
+this just popped up and was suggested to me.
+
+23
+00:01:52,800 --> 00:01:56,940
+This wasn't even in like, it wasn't from, I assume it was like a YouTube algorithm theme
+
+24
+00:01:56,940 --> 00:01:57,940
+park stuff.
+
+25
+00:01:57,940 --> 00:02:01,040
+Maybe it's on some level, but it was just Back to the Future fans.
+
+26
+00:02:01,040 --> 00:02:06,200
+It was not theme park related and they were just saying, hey, there's like a Back to the
+
+27
+00:02:06,200 --> 00:02:11,440
+Future ride you should be aware of and that's really what it was.
+
+28
+00:02:11,440 --> 00:02:15,640
+Like Back to the Future, the ride is back, whoa, slow down.
+
+29
+00:02:15,640 --> 00:02:20,240
+Let me also say, if you are confused by what you're looking at, if you're looking at the
+
+30
+00:02:20,240 --> 00:02:26,920
+title of this episode, we haven't lost our minds, we didn't let AI write a title, this
+
+31
+00:02:26,920 --> 00:02:38,760
+is the actual name of a ride that exists and the name of the ride is, we are back, kids
+
+32
+00:02:38,760 --> 00:02:41,600
+from the future.
+
+33
+00:02:41,600 --> 00:02:45,220
+We are back, kids from the future, written in English on the sign.
+
+34
+00:02:45,220 --> 00:02:47,420
+In the Back to the Future font.
+
+35
+00:02:47,420 --> 00:02:52,300
+It's hypnotic, I've been saying it over and over to myself like a mantra, like maybe this
+
+36
+00:02:52,300 --> 00:02:56,020
+is my, I've been learning about, I was like, when David Lynch died, I was like, what actually
+
+37
+00:02:56,020 --> 00:02:59,120
+is Transcendental Meditation and will they give you a word and that is that you focus
+
+38
+00:02:59,120 --> 00:03:00,120
+on that word?
+
+39
+00:03:00,120 --> 00:03:04,260
+I'm like, maybe this is it for me, maybe there'll be inner peace if I just keep saying, we are
+
+40
+00:03:04,260 --> 00:03:06,820
+back, kids from the future.
+
+41
+00:03:06,820 --> 00:03:13,100
+We are back, not we're back, we are back, we are back, kids from the future is the name
+
+42
+00:03:13,100 --> 00:03:14,620
+of a ride.
+
+43
+00:03:14,620 --> 00:03:17,420
+It's like a poem.
+
+44
+00:03:17,420 --> 00:03:20,500
+Folks it's time to return to movie land.
+
+45
+00:03:20,500 --> 00:03:21,500
+Hooray!
+
+46
+00:03:21,500 --> 00:03:22,500
+Hooray!
+
+47
+00:03:22,500 --> 00:03:29,580
+So happy about, let's, so broader context here and maybe especially for newer listeners
+
+48
+00:03:29,580 --> 00:03:32,900
+because here we're referring to something that is five years old.
+
+49
+00:03:32,900 --> 00:03:38,700
+I remain very fond of the series that we did, Podcast the Red's European Vacation.
+
+50
+00:03:38,700 --> 00:03:46,740
+I thought we found so much interesting oddity and places that we may never go but that are
+
+51
+00:03:46,740 --> 00:03:55,140
+so fascinating to learn about and the euro of it all really appealed to me and honestly
+
+52
+00:03:55,140 --> 00:03:59,260
+this part might be one of my favorite things we've ever talked about.
+
+53
+00:03:59,260 --> 00:04:04,700
+I'm still, I can't speak to the quality of the episode but in terms of things I still
+
+54
+00:04:04,700 --> 00:04:05,700
+think about a lot.
+
+55
+00:04:05,700 --> 00:04:10,140
+It is that movie land, this was, I re-listened to some of the episode just to like remember
+
+56
+00:04:10,140 --> 00:04:16,140
+what we said and one thing that happened is that I said everyone say out loud what you
+
+57
+00:04:16,140 --> 00:04:20,940
+think the name of the park is and we all said different things because again what did you
+
+58
+00:04:20,940 --> 00:04:21,940
+just say?
+
+59
+00:04:21,940 --> 00:04:25,020
+Well I said movie land.
+
+60
+00:04:25,020 --> 00:04:27,540
+That's for sure.
+
+61
+00:04:27,540 --> 00:04:41,140
+The URL is canavaworld.it Yes, because it's part of like some broader kind of like family
+
+62
+00:04:41,140 --> 00:04:42,140
+of things infrastructure.
+
+63
+00:04:42,140 --> 00:04:47,660
+Vacation place in a place called Lake Garda but I've, sometimes it's movie land studios,
+
+64
+00:04:47,660 --> 00:04:52,420
+I've seen it as movie land the Hollywood park but we actually did all say different things.
+
+65
+00:04:52,420 --> 00:04:54,460
+That's how strange their branding is.
+
+66
+00:04:54,500 --> 00:05:00,900
+It opened in 2002 and it's yeah it's like a general tourist area, I don't know what part
+
+67
+00:05:00,900 --> 00:05:08,420
+of Italy, I don't know it well enough but broad strokes here, this park is just a full
+
+68
+00:05:08,420 --> 00:05:15,380
+tilt ripoff of Universal Studios at every turn from the outside, from the gate, ride
+
+69
+00:05:15,380 --> 00:05:20,900
+by ride, the characters who appear in it, the music that you hear, there is a fully
+
+70
+00:05:21,060 --> 00:05:26,900
+functioning knockoff of Universal Studios and it's not one of those things like oh in
+
+71
+00:05:26,900 --> 00:05:30,940
+China there's this weird decaying fake magic kingdom.
+
+72
+00:05:30,940 --> 00:05:39,540
+It's not that, it's open successful new rides, ride through videos, you know around the clock
+
+73
+00:05:39,540 --> 00:05:46,180
+this place is up and running that is a 100% knockoff, it's like the asylum studios of
+
+74
+00:05:46,180 --> 00:05:47,740
+parks.
+
+75
+00:05:47,740 --> 00:05:49,300
+It's so crazy.
+
+76
+00:05:49,300 --> 00:05:56,900
+It's right, it's like Doc Brown interacting with Spider-Man and interacting with I don't
+
+77
+00:05:56,900 --> 00:05:59,740
+know like not Lucille Ball but like.
+
+78
+00:05:59,740 --> 00:06:00,740
+Maybe.
+
+79
+00:06:00,740 --> 00:06:01,740
+Maybe Charlie.
+
+80
+00:06:01,740 --> 00:06:02,740
+They just don't call her that.
+
+81
+00:06:02,740 --> 00:06:03,740
+Right.
+
+82
+00:06:03,740 --> 00:06:04,740
+Yeah.
+
+83
+00:06:04,740 --> 00:06:05,740
+It feels like Hollywood.
+
+84
+00:06:05,740 --> 00:06:06,740
+Red haired glam queen, get out there.
+
+85
+00:06:06,740 --> 00:06:10,700
+It feels like Hollywood Boulevard where it's like there's Snoopy and Captain Jack Sparrow
+
+86
+00:06:10,700 --> 00:06:13,340
+together like just a mix of characters.
+
+87
+00:06:13,340 --> 00:06:15,340
+Maybe with costumes that aren't of the best care.
+
+88
+00:06:15,740 --> 00:06:20,220
+Intellectual property is not really concerned at this park.
+
+89
+00:06:20,220 --> 00:06:26,740
+Also artificial intelligence might be building some of this website now because these jumping
+
+90
+00:06:26,740 --> 00:06:28,700
+kids don't look quite right.
+
+91
+00:06:28,700 --> 00:06:32,740
+How many fingers on the jumping kids, that's always a tell of the AI.
+
+92
+00:06:32,740 --> 00:06:35,740
+Are we in a Willy Wonka touring show, Glasgow situation.
+
+93
+00:06:35,740 --> 00:06:41,060
+The fingers appear to be right but some of them are kind of fucked up looking.
+
+94
+00:06:41,060 --> 00:06:43,740
+Of course they do AI art for their website, of course.
+
+95
+00:06:44,140 --> 00:06:45,140
+Because that's the whole thing.
+
+96
+00:06:45,140 --> 00:06:51,060
+It's like and I said this in the episode that it's all using the right lenses you could
+
+97
+00:06:51,060 --> 00:06:57,140
+take photos that make it look like Universal Studios but if it's just unadorned YouTube
+
+98
+00:06:57,140 --> 00:07:02,780
+video it's just obvious like the materials of this are weird and it's all jammed together
+
+99
+00:07:02,780 --> 00:07:05,660
+and I surprised myself.
+
+100
+00:07:05,660 --> 00:07:09,540
+I heard myself say that they have a lights motors action show but that's like built into
+
+101
+00:07:09,540 --> 00:07:15,140
+an alley that's like a dangerous amount of space for cars to be doing stunts in front
+
+102
+00:07:15,140 --> 00:07:16,140
+of you.
+
+103
+00:07:16,140 --> 00:07:23,140
+Well a big thing we honed in on was the motor, the boat, the giant boat you could all get
+
+104
+00:07:23,140 --> 00:07:24,140
+in.
+
+105
+00:07:24,140 --> 00:07:25,140
+Yes.
+
+106
+00:07:25,140 --> 00:07:32,140
+That takes you into what is clearly the arena of a water world ripoff show that they don't
+
+107
+00:07:32,140 --> 00:07:35,740
+use anymore.
+
+108
+00:07:35,740 --> 00:07:38,300
+And that is a Knight Rider thing that's a boat.
+
+109
+00:07:38,300 --> 00:07:41,660
+So there's also a lot of like mashups of IP.
+
+110
+00:07:41,660 --> 00:07:43,420
+Well I have some good news.
+
+111
+00:07:43,420 --> 00:07:46,780
+It seems I've found some new stuff before we get to we're back.
+
+112
+00:07:46,780 --> 00:07:47,780
+Oh good.
+
+113
+00:07:47,780 --> 00:07:48,780
+We are back.
+
+114
+00:07:48,780 --> 00:07:49,780
+We are back.
+
+115
+00:07:49,780 --> 00:07:50,780
+We are back.
+
+116
+00:07:50,780 --> 00:07:52,660
+The Horror House.
+
+117
+00:07:52,660 --> 00:07:53,660
+The Horror House.
+
+118
+00:07:53,660 --> 00:07:54,860
+The haunted house.
+
+119
+00:07:54,860 --> 00:08:00,420
+If you remember all the creature, all the like your favorite horror icons were there
+
+120
+00:08:00,420 --> 00:08:02,460
+has been updated.
+
+121
+00:08:02,460 --> 00:08:06,920
+And now it's the Horror House presents Holmes Hotel.
+
+122
+00:08:06,920 --> 00:08:07,920
+That's right.
+
+123
+00:08:08,540 --> 00:08:09,540
+H.H. Holmes.
+
+124
+00:08:09,540 --> 00:08:10,540
+What?
+
+125
+00:08:10,540 --> 00:08:11,540
+It's an H.H. Holmes Hotel.
+
+126
+00:08:11,540 --> 00:08:13,560
+Did you create this from your own imagination?
+
+127
+00:08:13,560 --> 00:08:15,800
+Do we have some listeners?
+
+128
+00:08:15,800 --> 00:08:17,840
+That's what you're that's one of your guys H.H. Holmes.
+
+129
+00:08:17,840 --> 00:08:18,840
+That's one of my guys.
+
+130
+00:08:18,840 --> 00:08:21,280
+You know I was talking about that.
+
+131
+00:08:21,280 --> 00:08:26,400
+I believe he is he was caught in Philadelphia I believe buried in Delaware County.
+
+132
+00:08:26,400 --> 00:08:27,400
+Wow.
+
+133
+00:08:27,400 --> 00:08:28,400
+You're a local hero.
+
+134
+00:08:28,400 --> 00:08:30,000
+You meet H.H. Holmes in Italy?
+
+135
+00:08:30,000 --> 00:08:37,760
+I think the heart needs to like oh this is like his haunted this is murder hotel that
+
+136
+00:08:37,760 --> 00:08:39,320
+he built in Chicago.
+
+137
+00:08:39,320 --> 00:08:40,320
+Wow.
+
+138
+00:08:40,320 --> 00:08:43,520
+To be fair to this place that seems kind of good.
+
+139
+00:08:43,520 --> 00:08:44,880
+Yeah that does seem cool.
+
+140
+00:08:44,880 --> 00:08:53,240
+The thing that confused me was this show just called USA Army Stunt Show and the tagline
+
+141
+00:08:53,240 --> 00:08:58,920
+is I am coming to get you.
+
+142
+00:08:58,920 --> 00:09:03,480
+The brand name is the US Army Stunt Show.
+
+143
+00:09:03,480 --> 00:09:05,680
+I am coming to get you.
+
+144
+00:09:05,680 --> 00:09:06,760
+That's a threat.
+
+145
+00:09:06,760 --> 00:09:07,880
+It's a stunt show.
+
+146
+00:09:07,880 --> 00:09:09,160
+That's a threat.
+
+147
+00:09:09,160 --> 00:09:13,880
+That's the wall up on the that's on the receiving end of that is Greenland.
+
+148
+00:09:13,880 --> 00:09:14,880
+Yeah.
+
+149
+00:09:14,880 --> 00:09:15,880
+Right.
+
+150
+00:09:15,880 --> 00:09:16,880
+Canada and Greenland.
+
+151
+00:09:16,880 --> 00:09:17,880
+Oh yeah.
+
+152
+00:09:17,880 --> 00:09:18,880
+Canada too.
+
+153
+00:09:18,880 --> 00:09:19,880
+Yeah.
+
+154
+00:09:19,880 --> 00:09:25,400
+I you know it's a it's nice that I like that we've done so many of these episodes and some
+
+155
+00:09:25,400 --> 00:09:30,520
+of them are so long ago that I forget about them and it so to be re-listening and not
+
+156
+00:09:30,520 --> 00:09:36,060
+knowing what was coming around the corner and to hear because they also have a rip off
+
+157
+00:09:36,060 --> 00:09:43,320
+Hard Rock Cafe and that I loved like it's me talking but I don't remember what's coming
+
+158
+00:09:43,320 --> 00:09:47,080
+and what it was was I was it was like that they have like Rolling Stones ribs and stuff
+
+159
+00:09:47,080 --> 00:09:52,960
+right but then it gets then it gets to still makes me laugh so much.
+
+160
+00:09:53,000 --> 00:10:02,640
+Jackson Sandwich oh yeah yeah yeah yeah they have Jackson Sandwich there and what was that
+
+161
+00:10:02,640 --> 00:10:06,800
+I don't remember I remember what was in a Jackson I should I still have my I have all
+
+162
+00:10:06,800 --> 00:10:12,920
+my old notes and I should try to find it actually but the thing I the thing that you know go
+
+163
+00:10:12,920 --> 00:10:18,760
+re-learning about movie land the Hollywood Park made me realize like oh my god it's been
+
+164
+00:10:18,760 --> 00:10:26,560
+five years all those European parks might have new attractions yeah yeah even the good
+
+165
+00:10:26,560 --> 00:10:33,320
+one like Efteling redid that whole like haunted castle thing they had oh right right did we
+
+166
+00:10:33,320 --> 00:10:38,880
+find this because you did you found this like flash dance show you like put that was when
+
+167
+00:10:38,880 --> 00:10:45,520
+we were doing a sort of grab bag of shows yeah yeah that might have been the first time
+
+168
+00:10:45,520 --> 00:10:50,400
+we talked about it yeah yeah wait a minute now oh my god look I'm glad I checked the note do
+
+169
+00:10:50,400 --> 00:10:57,880
+you also does anyone remember Dakota stick no Dakota stick is a weird like corn dog looks like
+
+170
+00:10:57,880 --> 00:11:02,400
+a sausage with a roll at the bottom and then a little bit of stick coming out of the top that
+
+171
+00:11:02,400 --> 00:11:10,080
+looks like something it's going into your your your eat through it so it's scary and but then
+
+172
+00:11:10,080 --> 00:11:16,760
+also my notes are showing me I have no further information about Jackson sandwich but I wait
+
+173
+00:11:16,760 --> 00:11:23,200
+Jackson's I don't know Jackson sandwich has like they just like hard-boiled eggs in it that's
+
+174
+00:11:23,200 --> 00:11:29,840
+Jackson sandwich you see an egg salad sandwich oh yeah I got some pizzas there with all the hippo
+
+175
+00:11:29,840 --> 00:11:36,080
+gorilla yes that's right it's all animals that don't match the what the meat is it's so crazy
+
+176
+00:11:36,080 --> 00:11:41,520
+but yeah ripoff hemisphere dancer it's everything this place is just meant for us it's so crazy
+
+177
+00:11:41,520 --> 00:11:53,280
+rock and roll restaurant the margaritaville is called margaritas now my notes have really
+
+178
+00:11:53,280 --> 00:11:57,320
+thrown me for a loop because they've shown me that there already was kind of a ripoff back to
+
+179
+00:11:57,320 --> 00:12:04,000
+the future in a ride called magma 2.0 maybe I think it's called magma 2.0 still going strong
+
+180
+00:12:04,040 --> 00:12:09,480
+it has it is okay okay because apparently the pre-show of that is a yes yes okay so they still
+
+181
+00:12:09,480 --> 00:12:16,400
+have something with Doc Brown but that's not about time travel but they do now have thank
+
+182
+00:12:16,400 --> 00:12:22,880
+God a more fully committed ripoff back to the future ride but a little bit of story to share
+
+183
+00:12:22,880 --> 00:12:29,560
+there too I think that when we did this episode five years ago what they had maybe this had
+
+184
+00:12:30,040 --> 00:12:37,160
+initially it was something called Terminator 5d yeah which then became a weird melded game
+
+185
+00:12:37,160 --> 00:12:43,640
+attraction where a bunch of robots pop up and you blast them with lasers right and then it became
+
+186
+00:12:43,640 --> 00:12:51,080
+a Transformers ripoff called Android the final 3d battle and that from what I could tell has all the
+
+187
+00:12:51,080 --> 00:12:56,680
+same stuff that like it has the like part where you get whipped through the office building that
+
+188
+00:12:56,680 --> 00:13:03,520
+happens but it but it was also still kind of a Terminator ripoff because Terminator type robots
+
+189
+00:13:03,520 --> 00:13:08,680
+would pop up out of the ground and there were real flames in the room which is kind of cool but I
+
+190
+00:13:08,680 --> 00:13:14,000
+also don't really trust this place with flames no that's very alarming there's still some Terminator
+
+191
+00:13:14,000 --> 00:13:19,960
+stuff on the walls in the main show area too yes on the way out yeah there was a low when I was
+
+192
+00:13:19,960 --> 00:13:23,880
+watching it I was like oh look it's the Institute of Future Technology logo and then I thought no
+
+193
+00:13:23,880 --> 00:13:31,560
+that's cyberdine yeah that is yeah just kept it up this place rules sorry I I we don't have time
+
+194
+00:13:31,560 --> 00:13:38,640
+to get into the possibly unlicensed asterix and obelisk or the Fred Flintstone in the wrong
+
+195
+00:13:38,640 --> 00:13:50,640
+colors what but I have to say the ice cream place called ice stone creamery I ran into that late
+
+196
+00:13:50,840 --> 00:13:56,640
+it was late last night of the night before and I was laughing like a maniac to myself that Fred
+
+197
+00:13:56,640 --> 00:14:03,360
+is this horrible he's so huge he's either a messed up Fred or a messed up Barney either of them are
+
+198
+00:14:03,360 --> 00:14:09,040
+messed up he looks like you took a picture of Fred Flintstone yeah clone like stamped the or water
+
+199
+00:14:09,040 --> 00:14:14,280
+there bucketed the color wrong and then stretch it from a hundred percent to five hundred percent
+
+200
+00:14:14,280 --> 00:14:21,480
+with super stretch Fred Flintstone I yeah imagine a miniature golf obstacle and then make it much
+
+201
+00:14:21,480 --> 00:14:31,160
+bigger and put it on someone so anyways there is so they had this space that had it was it was kind
+
+202
+00:14:31,160 --> 00:14:36,520
+of a Terminator 2 3d ripoff and kind of a Transformers ripoff but also there was a chappy on the top and
+
+203
+00:14:36,520 --> 00:14:41,040
+then I was the ride was really hard to parse because it's all in Italian and that parts not
+
+204
+00:14:41,040 --> 00:14:45,760
+subtitled but I was like did they have Mike's favorite thing the moment of intimacy does it
+
+205
+00:14:45,760 --> 00:14:51,640
+have the I'm proud of you right from its prime moment and it does there is a part where a robot
+
+206
+00:14:51,640 --> 00:14:57,160
+at the end means down and talks to you and the thing that we say at the end of the club 3 your
+
+207
+00:14:57,160 --> 00:15:04,680
+bravery saved the planet but here a robot you don't know leans down and says good work guys
+
+208
+00:15:04,680 --> 00:15:11,800
+thanks to you the core is safe humans will have a future after all okay do you get anything from
+
+209
+00:15:11,800 --> 00:15:20,600
+that that a moment if it doesn't have the warmth of Peter Cullen I don't know but it's I like it I
+
+210
+00:15:20,600 --> 00:15:25,400
+like it's there yeah yeah at least they were if they're gonna do a beat-by-beat ripoff transformers
+
+211
+00:15:25,400 --> 00:15:33,760
+yeah that's an important part I'm impressed that they did it um but that was I guess I guess the
+
+212
+00:15:33,760 --> 00:15:39,520
+time for Android the final 3d battle had passed and they needed to step into the future with a
+
+213
+00:15:39,520 --> 00:15:46,200
+whole new concept we are back kids from the future yeah and I don't have myself but my big
+
+214
+00:15:46,200 --> 00:15:55,200
+question is can someone tell me what the hell is going on oh yes I think we will try I've never
+
+215
+00:15:55,200 --> 00:16:01,520
+been more confused with something that is so much exposition this might be I think we've always
+
+216
+00:16:01,520 --> 00:16:09,520
+reveled in sheer volumes of exposition and we were so delighted in a very genuine way I think our
+
+217
+00:16:09,520 --> 00:16:15,120
+feelings about the avatar flight of passage pre-show and the great David Danipour are very
+
+218
+00:16:15,120 --> 00:16:20,960
+clear like big info dumps can be extremely fun this might be the biggest one ever yeah it's much
+
+219
+00:16:20,960 --> 00:16:28,920
+longer than I think I understand it but it's a lot it's a lot and here's what I'm I hate to just
+
+220
+00:16:28,960 --> 00:16:36,600
+come in and say this is the order we must do it in but I feel that we should proceed in ride
+
+221
+00:16:36,600 --> 00:16:45,600
+reveal order and here's why because what this ride does is make some great leaps forward in terms of
+
+222
+00:16:45,600 --> 00:16:52,280
+the back to the future mythology yeah yeah he makes some assertions about what is now in the
+
+223
+00:16:52,280 --> 00:16:58,200
+world of these films bigger than now I don't keep up I don't know what the comic books are that Bob
+
+224
+00:16:58,240 --> 00:17:03,560
+Gale is doing I'm not familiar with the video games there might be like you know astounding
+
+225
+00:17:03,560 --> 00:17:09,600
+expansions of the world that would blow my mind but to me you know rides count the most right and
+
+226
+00:17:09,600 --> 00:17:15,840
+what this ride what movie land in Italy has declared is now part of the back to the future
+
+227
+00:17:15,840 --> 00:17:22,720
+franchise I'm blown away by and I give them a lot of credit yeah they took a big swing or many big
+
+228
+00:17:22,720 --> 00:17:29,240
+swings here and I applaud it yeah because we do like new mythology coming from a ride we've
+
+229
+00:17:29,240 --> 00:17:34,280
+always said that I think yes yeah it's the only ones I know I don't know you look I you guys like
+
+230
+00:17:34,280 --> 00:17:40,120
+comics to me it just doesn't get there's something about like the the visibility of the ride that
+
+231
+00:17:40,120 --> 00:17:44,640
+like because it's kind of where it's gonna like live in the public's hearts the most so if you say
+
+232
+00:17:44,640 --> 00:17:50,880
+guess what this now I think it counts more than anything yes and also yes you know depending on
+
+233
+00:17:51,280 --> 00:17:56,520
+choose your own choose your own mythology for a lot of this stuff now and when rides mean a lot
+
+234
+00:17:56,520 --> 00:18:02,840
+to you so you know that's why that's this is now canon in your back to the future is yeah and it's
+
+235
+00:18:02,840 --> 00:18:08,880
+and back to the future more than a lot you know it's a franchise with a hard cap on it this is not
+
+236
+00:18:08,880 --> 00:18:13,560
+how they do things anymore it's becoming a real relic the fact that it actually ended when the
+
+237
+00:18:13,560 --> 00:18:19,920
+creators of the franchise thought it should be ended and while that was great for everyone and
+
+238
+00:18:19,920 --> 00:18:27,240
+everything and we haven't had some fucking nightmare new CGI back to the future it does
+
+239
+00:18:27,240 --> 00:18:35,600
+yeah yes we are waiting on two people and that will be that but or if he's like if he's bummed
+
+240
+00:18:35,600 --> 00:18:41,920
+enough about how here went over maybe there's yeah start changing I think there's like certain
+
+241
+00:18:41,920 --> 00:18:46,120
+things a couple other movies you would sequel before yeah there's that's good news I think I
+
+242
+00:18:46,120 --> 00:18:55,360
+hope so Marwin too maybe welcome back to Marwin Pinocchio too but I was saying it does you know
+
+243
+00:18:55,360 --> 00:19:01,400
+unlike so many things that have added all of this like back to the future does end in 1990 and it
+
+244
+00:19:01,400 --> 00:19:10,520
+ends with Doc and Clara and but not anymore not anymore it's 2025 and everything has changed I
+
+245
+00:19:11,280 --> 00:19:18,200
+believe it ends with Doc and Clara and Jules and Vern and Einstein the dog doesn't it that's true
+
+246
+00:19:18,200 --> 00:19:23,360
+where we literally end is that way I mean look Marty and Jennifer are gonna go do what they're
+
+247
+00:19:23,360 --> 00:19:26,200
+gonna do but they're probably not gonna time travel anymore it depends on how much you want
+
+248
+00:19:26,200 --> 00:19:31,440
+to count the animated series as anything but you're right who's in the time vehicle is Doc
+
+249
+00:19:31,440 --> 00:19:40,000
+and Clara and Einstein and it's Jules and Vern very interesting and Jules and Vern have always
+
+250
+00:19:40,000 --> 00:19:46,720
+I guess been the key to is there more to the story yeah there was a cartoon that's what you
+
+251
+00:19:46,720 --> 00:19:52,240
+said yes cartoon that yep they are now like precocious little kids who sound like Tommy
+
+252
+00:19:52,240 --> 00:19:56,920
+Pickles and like all the kid voices all the time yeah and I don't really care for that I think
+
+253
+00:19:56,920 --> 00:20:01,840
+that's an ugly looking show looking show yeah don't I've never engaged with despite it having
+
+254
+00:20:01,840 --> 00:20:07,240
+extra Doc Brown shot by Peyton Reed it's still even that it's not really of interest did you
+
+255
+00:20:07,240 --> 00:20:12,080
+watch it as a kid no oh really I might have I think my back to the future fandom came later
+
+256
+00:20:12,080 --> 00:20:17,880
+like I was like 10 show was not I watched it I don't have any memory really of it but I also
+
+257
+00:20:17,880 --> 00:20:21,800
+think I really liked back to the future when I was a little older yeah yeah yeah that's where it
+
+258
+00:20:21,800 --> 00:20:27,280
+really came together for me but I guess like with the animated series is kind of like I had the
+
+259
+00:20:27,280 --> 00:20:33,920
+Burger King or McDonald's toys yeah I had Marty right those were cool those were cool yeah I you
+
+260
+00:20:33,920 --> 00:20:40,040
+know I joked I think I understand what's happening in this ride there was just so much of it by the
+
+261
+00:20:40,040 --> 00:20:47,440
+end oh yeah it's just like an assault it's but a very slow paced assault I know they aren't they
+
+262
+00:20:47,440 --> 00:20:55,640
+are not rushing through no that's for sure and there are some long shots it's five minutes of
+
+263
+00:20:55,640 --> 00:21:04,200
+content with one shot there are some moments like when you are shooting something in front of the
+
+264
+00:21:04,200 --> 00:21:12,680
+camera behind the camera you often will you know keep going what you're doing or like you paw like
+
+265
+00:21:12,680 --> 00:21:19,920
+something for the editors to cut around you know sure and this they left it all on the screen straight
+
+266
+00:21:20,160 --> 00:21:26,680
+yeah yeah but so you know if the key to expanding back to the future has been Jules and Vern maybe
+
+267
+00:21:26,680 --> 00:21:34,080
+this is why the door has been closed because this is a key that no one wants to use Jules and Vern
+
+268
+00:21:34,080 --> 00:21:41,880
+are not enticing to anyone I don't think maybe the animated show kind of got the job done but I for
+
+269
+00:21:41,880 --> 00:21:48,280
+one don't want to know anything more about Jules and Vern the children being raised in the Old West
+
+270
+00:21:48,280 --> 00:21:55,960
+in their starchy coats and I guess mainly I'm saying this because the children who were cast
+
+271
+00:21:55,960 --> 00:22:05,560
+in the film are the casting of those kids was the worst decision in the entire trilogy this is it is
+
+272
+00:22:05,560 --> 00:22:11,960
+a fumble right at the lot like it is it's a fumble at the one yard line they're almost out
+
+273
+00:22:11,960 --> 00:22:17,400
+perfect and then what the nice feelings that you're supposed to have at the end of three
+
+274
+00:22:17,400 --> 00:22:22,840
+wonderful inventive movies are it's all a little bit hurt by that like two of the weirdest little
+
+275
+00:22:22,840 --> 00:22:29,320
+froggiest little kids ever come out and one of them points at his wiener during the lesson of
+
+276
+00:22:29,320 --> 00:22:35,680
+the entire trilogy this weird we all know about this right yeah yeah this kid if you watch it bad
+
+277
+00:22:35,680 --> 00:22:41,120
+like it's but you know Doc bends down and the shots about him but the kid looks into camera and
+
+278
+00:22:41,120 --> 00:22:47,800
+points at his pants and it's the and he looks like he looks like a psycho he looks like he's
+
+279
+00:22:47,800 --> 00:22:53,360
+gonna go Chucky he's gonna leap up and start biting Christopher Lloyd's neck this isn't the
+
+280
+00:22:53,360 --> 00:23:00,640
+scariest shit ever so maybe there's not been a strong desire to like do the continuing adventures
+
+281
+00:23:00,640 --> 00:23:09,600
+of Jules and Vern yeah until now because we enter not the Institute of Future Technology but a new
+
+282
+00:23:09,640 --> 00:23:18,400
+related place Dr. Brown and Sons Enterprises and you immediately go okay well son like we are back
+
+283
+00:23:18,400 --> 00:23:24,280
+kids from the future of course it is it is Jules and Vern and then so you're going through the
+
+284
+00:23:24,280 --> 00:23:31,520
+hallway you see posters of an off-brand Doc Brown another episode that we did and then you're you're
+
+285
+00:23:31,520 --> 00:23:36,520
+going it's you know much like the ride you're trying to find like a lab you know to go get
+
+286
+00:23:36,520 --> 00:23:43,640
+more information interesting that this hallway kind of resembles an Instagram photo zone yes yes
+
+287
+00:23:43,640 --> 00:23:51,560
+it absolutely does oh it's got a selfie area with like a fake like green wall you have to have again
+
+288
+00:23:51,560 --> 00:23:55,800
+like I always say but the milkshake like a milkshake with rice Krispy Kreme on top that's gonna break
+
+289
+00:23:55,800 --> 00:24:02,280
+the internet if whoa how'd you get a picture in front of a neon sign and grass on a wall
+
+290
+00:24:02,760 --> 00:24:10,520
+grass on the ground not on a wall yeah Scott you forget the six years ago world of 2019 was a more
+
+291
+00:24:10,520 --> 00:24:19,160
+simple optimistic place you know experimenting we use the filters more we hadn't pivoted to video
+
+292
+00:24:19,160 --> 00:24:26,720
+you see um but yeah isn't it it's so cheapo it's so it's exactly what I'm illustrating about like
+
+293
+00:24:26,720 --> 00:24:32,040
+it's like technically it kind of has some of the feel of the back to the future ride but also it
+
+294
+00:24:32,040 --> 00:24:37,800
+kind of feels like you're like like walking through a doctor's office yeah it definitely yes it looks
+
+295
+00:24:37,800 --> 00:24:43,400
+like you're like a trendy like West Hollywood coffee shop or something that's what you're the
+
+296
+00:24:43,400 --> 00:24:49,240
+future technology yeah you're going to a bathroom you had to borrow a key to go to the bathroom in
+
+297
+00:24:49,240 --> 00:24:53,880
+a weird like where there's like yeah there's a boutique over here an expensive coffee place
+
+298
+00:24:53,880 --> 00:24:58,120
+over here and you got to get close to people's offices right to use the bathroom yeah I don't
+
+299
+00:24:58,120 --> 00:25:02,920
+that's what this queue feels like baffling choice really weird really weird there's like kind of
+
+300
+00:25:02,920 --> 00:25:07,560
+weird plants stuck on the other side of the hallway that like maybe you could like oh it's
+
+301
+00:25:07,560 --> 00:25:13,320
+an experiment or it's giving fresh oxygen oxygen or something but this clearly like the astroturf
+
+302
+00:25:13,320 --> 00:25:20,120
+wall is an instagram thing why would the why would Jules and Vern need that I don't know anyway
+
+303
+00:25:20,120 --> 00:25:26,680
+then you meet so then sure enough they introduce themselves I'm Dr. Jules Dr. Jules Brown
+
+304
+00:25:28,120 --> 00:25:35,720
+Vern Brown it hurts my brain to put brown after them yeah um and they so again immediately
+
+305
+00:25:35,720 --> 00:25:40,680
+important mythology they are they've followed in their father's footsteps they've gone into business
+
+306
+00:25:40,680 --> 00:25:45,640
+with it they too are time travel scientists and they still wear starchy coats I guess their
+
+307
+00:25:45,640 --> 00:25:52,200
+base of operations stayed in the old west I guess so but they can talk to us now using video and
+
+308
+00:25:52,200 --> 00:25:58,200
+they're what in their late 20s early 30s ish maybe I don't know for sure but they look like
+
+309
+00:25:58,200 --> 00:26:03,880
+they're in that zone yeah I think so yeah so they are grown so we are yes the kids from the future
+
+310
+00:26:03,880 --> 00:26:10,840
+have grown they are so that's interesting right away to see Jules and Vern at uh kind of Marty's
+
+311
+00:26:10,840 --> 00:26:16,920
+age or well I'm not quite I guess I don't know whatever uh but so they uh talk about their
+
+312
+00:26:17,000 --> 00:26:21,800
+experiments and stuff you kind of catch that one's like more straight-laced and one is kooky
+
+313
+00:26:21,800 --> 00:26:29,560
+yeah so they've divided that way they're not um going too hard either way on the delivery
+
+314
+00:26:29,560 --> 00:26:35,000
+of their dialogue it's accurate I'd say yeah I you're kind of you're sussing out those straight
+
+315
+00:26:35,000 --> 00:26:42,520
+laced and kooky based on one is glasses and one has a kind of a head cap thing I don't know how
+
+316
+00:26:42,520 --> 00:26:49,800
+to describe it accurate yes yes um this is all in Italian yeah and that kind of makes me I'm
+
+317
+00:26:49,800 --> 00:26:53,880
+actually like tracking I know that it's because it's a park in Italy but I'm also like you know
+
+318
+00:26:53,880 --> 00:26:58,600
+what maybe this is kind of cool like doc if you're time traveling parents like doc and Clara you can
+
+319
+00:26:58,600 --> 00:27:05,400
+raise your children anywhere and in any time so I choose to think that these boys were raised in
+
+320
+00:27:05,400 --> 00:27:11,400
+renaissance Italy oh interesting that's what I'm going with them on that and I think that is what
+
+321
+00:27:11,960 --> 00:27:16,600
+doc and Clara would do right uh you know wouldn't doc go try to get a hold of
+
+322
+00:27:17,320 --> 00:27:22,120
+DaVinci or something right yeah go try to be his friend freak DaVinci out yeah yeah
+
+323
+00:27:23,080 --> 00:27:27,400
+well he'd be quite cool he knows he doesn't want to cause a space-time continuum disturbance
+
+324
+00:27:27,400 --> 00:27:31,800
+so yeah that's what I think I think Leonardo DaVinci was like a babysitter for Jules and
+
+325
+00:27:31,800 --> 00:27:37,560
+Byrne and that helped that's smart yeah that's good yeah yeah could you imagine if like a
+
+326
+00:27:37,560 --> 00:27:43,800
+mid-century scientist like an archaeologist met like Archimedes or something or
+
+327
+00:27:44,680 --> 00:27:50,520
+you know they had the right kind of dial to go meet him yeah this would be everybody would
+
+328
+00:27:50,520 --> 00:27:56,040
+lose their minds probably not saying the right philosopher or mathematician we just don't know
+
+329
+00:27:56,040 --> 00:28:00,680
+what you're talking about yeah wait are you referencing I was referencing dial of Indiana
+
+330
+00:28:00,680 --> 00:28:05,080
+Jones oh there's your problem I never watched that fucking movie I watched it but I forgot
+
+331
+00:28:06,280 --> 00:28:11,480
+they eventually end up back in time spoiler alert oh oh yeah that is this wait yeah people
+
+332
+00:28:11,480 --> 00:28:17,960
+told I don't know I never saw it that sounds bad um so uh I was almost I was almost going like
+
+333
+00:28:17,960 --> 00:28:22,760
+is this is this like Peabody and Sherman what's he talking about um well yes I've just proven I
+
+334
+00:28:22,760 --> 00:28:29,960
+never saw that film I only I watched it a few months ago I finally finally uh caved and watched
+
+335
+00:28:30,520 --> 00:28:35,640
+it too and I was like I have been looking at this de-aged Harrison for yeah oh they get so
+
+336
+00:28:35,640 --> 00:28:39,880
+cocky with it it does work it definitely works and then you're 40 minutes in and you're like
+
+337
+00:28:39,880 --> 00:28:44,840
+doesn't work that well there's a reason why TV shows only do this for a scene at a time
+
+338
+00:28:44,840 --> 00:28:50,440
+they got so cocky about it and then they flash a flashlight on it in the dark and it's just like
+
+339
+00:28:50,440 --> 00:28:55,160
+the flashlights on and you're like why are you showing me the detail on this yeah don't you're
+
+340
+00:28:55,800 --> 00:29:01,160
+you're pushing your luck I know um so they explain why the lab is open to us the theme park
+
+341
+00:29:01,160 --> 00:29:07,080
+goers because they are opening a new era of tourism uh you where you can be part of the
+
+342
+00:29:07,080 --> 00:29:12,600
+greatest historical events and I'm parsing all of this via Italian video with um English subtitles
+
+343
+00:29:12,600 --> 00:29:18,280
+uh they have a new thing it's not a passenger DeLorean it's the time shuttle they invented the
+
+344
+00:29:18,280 --> 00:29:24,520
+time shuttle and it's interesting when you get in to the the the final room and see that the
+
+345
+00:29:24,520 --> 00:29:31,720
+time shuttle is a a bunch of fucking chairs it's the chairs in a big room it's just a very
+
+346
+00:29:31,720 --> 00:29:37,800
+it's very innovative all right the shuttle could be also a room the shuttle could be all room
+
+347
+00:29:38,440 --> 00:29:45,160
+yeah why not honestly it kind of reminded me of the massive factor ride you did not make it on
+
+348
+00:29:46,040 --> 00:29:51,960
+in great America oh that's right yeah that was big well I did get into the room the ride was
+
+349
+00:29:51,960 --> 00:29:56,680
+shut down once in the room okay yeah it was one of those where yeah you're you just have to go
+
+350
+00:29:56,680 --> 00:30:02,920
+with them that like it's 500 little vehicles and there's an actor yes they're doing a little bit
+
+351
+00:30:02,920 --> 00:30:09,320
+of sneaky business we do get we do get a stage actor who interacts with the film uh so they say
+
+352
+00:30:09,320 --> 00:30:14,680
+that we've invented the time shuttle and we will make our father's dream come true great scott
+
+353
+00:30:15,480 --> 00:30:20,200
+which is what the subtitles say but what they actually say out loud is like grande jove
+
+354
+00:30:21,160 --> 00:30:23,240
+they had to translate great scott
+
+355
+00:30:27,000 --> 00:30:34,360
+so then I don't want to just I don't want to do a recitation but then they say just a they say a
+
+356
+00:30:34,360 --> 00:30:39,080
+bunch of shit you don't need they talk for so long they're talking in front of a robotic arm
+
+357
+00:30:39,080 --> 00:30:45,160
+yeah they start going the lab set up some extras in there yeah they talk to some scientists and
+
+358
+00:30:45,160 --> 00:30:51,000
+then they pause for a while but there are like yeah they like like take a breath they like
+
+359
+00:30:51,000 --> 00:30:54,920
+collect themselves remember their lines they like keep patting the like good job
+
+360
+00:30:56,040 --> 00:31:02,120
+and then it freezes and it cuts to another shot just watching what they're doing keep it up
+
+361
+00:31:02,760 --> 00:31:09,640
+no notes they it's all nonsense too like we're solving the mathematical equation which allows
+
+362
+00:31:09,640 --> 00:31:18,120
+to split the impulses in the quantum tubes oh wow jules and verne you've really made something
+
+363
+00:31:18,120 --> 00:31:25,320
+of yourselves um then one some of this is just somebody didn't have good eyes on these translations
+
+364
+00:31:25,320 --> 00:31:30,680
+because what does this mean somebody comes in with a little bit of panic doctor electrolyte
+
+365
+00:31:30,680 --> 00:31:38,280
+is already reacting to electric shocks under one gigawatt electrolyte is that's not capitalized
+
+366
+00:31:38,280 --> 00:31:42,920
+that's not a person or a robot or anything doctor electrolyte is electing reacting to electric
+
+367
+00:31:42,920 --> 00:31:50,360
+shocks this does feel like ai wrote it ai probably did the translation we know from jason's proof
+
+368
+00:31:50,360 --> 00:31:56,600
+that they're in the ai business right yeah i it's just there's a lot of numbers being thrown around
+
+369
+00:31:56,600 --> 00:32:02,280
+and i am like kind of like i am forgetting the back to the few all i can remember is 88 miles
+
+370
+00:32:02,280 --> 00:32:09,240
+per hour but they're talking about the gigawatts and they're like oh we're not using uh hydrogen
+
+371
+00:32:09,240 --> 00:32:16,040
+and lightning like on the train that my father described we are using plutonium when we went
+
+372
+00:32:16,040 --> 00:32:20,920
+back to it and i'm like well that's one of my favorite they went back that's one of my favorite
+
+373
+00:32:20,920 --> 00:32:27,640
+things is that to be stolen from terrorists the first by the libyans it's plutonium and it's
+
+374
+00:32:27,640 --> 00:32:32,360
+dangerous and it's you know very dangerous material and then the upgrade of course is doc
+
+375
+00:32:32,360 --> 00:32:36,600
+so we can just do this out of uh garbage garbage but that wasn't enough for the show oh my god
+
+376
+00:32:36,600 --> 00:32:40,760
+it's so great and there's a big thing in this they make a big meal out of we're going back to
+
+377
+00:32:40,760 --> 00:32:47,720
+the bad stuff the plutonium this is trump era stuff this back to cool all that shit we did
+
+378
+00:32:47,720 --> 00:32:53,240
+back to square doing like we did it back scenes out they're building up hollywood they're making
+
+379
+00:32:53,400 --> 00:33:00,360
+epic again and it's going to be sylvester salone and mil gibson just two dying men two visibly
+
+380
+00:33:01,240 --> 00:33:05,080
+melting men and it's like they're going to make the movie industry huge again
+
+381
+00:33:06,120 --> 00:33:11,080
+they ran planet hollywood now they're running real hollywood all right yeah they're no we're
+
+382
+00:33:11,080 --> 00:33:16,440
+saying merry christmas again and we're using plutonium again it's yeah no we all right yeah
+
+383
+00:33:16,440 --> 00:33:22,920
+we can power things with trash but well they had a reason it was like hydrogen wasn't stable and
+
+384
+00:33:22,920 --> 00:33:31,080
+it causes explosions so we decided to bring back plutonium charge they want plutonium you want
+
+385
+00:33:31,080 --> 00:33:37,800
+plutonium they want nuclear reactions it's going to be better than just like your newspaper that's
+
+386
+00:33:37,800 --> 00:33:44,440
+so good such a funny choice to do that then why do they need to tell us this no it should make
+
+387
+00:33:44,440 --> 00:33:49,800
+another thing up doc didn't tell us any of this for he told us biff is here but he like i don't
+
+388
+00:33:49,880 --> 00:33:55,560
+need to know one bit of this to go get jostled around by the no why yeah why why or just like
+
+389
+00:33:55,560 --> 00:34:01,480
+make up a new element they need to get yeah we need a new thing and that's modern rare sure
+
+390
+00:34:01,480 --> 00:34:09,160
+yeah plutonium they also it is from the movie though i suppose and they i guess i yeah they
+
+391
+00:34:09,160 --> 00:34:15,480
+may as well just have used like we have an odd tanium wait a minute yeah yeah well that seems
+
+392
+00:34:15,480 --> 00:34:19,800
+like what they would do i mean there there's there is a part of this where i was watching
+
+393
+00:34:19,800 --> 00:34:24,760
+with erin and it cuts to a bunch of rocks and stuff and she said oh so now we're on pandora
+
+394
+00:34:25,480 --> 00:34:35,080
+so it's already it's i think it is almost in the avatar world anyway yeah uh but so yeah this is
+
+395
+00:34:35,080 --> 00:34:38,840
+maybe the best mishmash part because they also they they explained something i'm forgetting
+
+396
+00:34:38,840 --> 00:34:44,280
+another bit of justification they say our father designed a nuclear fusion system using garbage
+
+397
+00:34:44,280 --> 00:34:49,880
+that's news to me i thought mr fusion was something from the future that he oh that he took
+
+398
+00:34:49,880 --> 00:34:54,600
+yeah i didn't think because that's too like nice of a logo how do you like design that and stuff
+
+399
+00:34:54,600 --> 00:35:00,440
+right yeah i thought mr fusion is something that the world uses and he brought it back to us
+
+400
+00:35:00,440 --> 00:35:05,240
+i don't think yeah you're probably right i don't think doc invented mr fusion but the ride knows
+
+401
+00:35:05,240 --> 00:35:10,760
+better than i do the ride is the ride's real and i'm not because he didn't get like rich from doing
+
+402
+00:35:10,760 --> 00:35:17,080
+mr fusion or like there was never any oh my god yeah he'd be loaded right you invented a clean
+
+403
+00:35:17,080 --> 00:35:21,080
+burning you figured out how to make trash run a car right and why wouldn't he live in the future
+
+404
+00:35:21,080 --> 00:35:27,240
+then to reap the rewards made a bunch of money converting trash into gas why the fuck is he
+
+405
+00:35:27,240 --> 00:35:34,440
+helping marty mcfly jr not have to go to a party or whatever the fuck he comes back yeah it is a
+
+406
+00:35:34,520 --> 00:35:41,320
+very utopian idea that like in this set on a larger sense of like look the pizza
+
+407
+00:35:41,320 --> 00:35:46,280
+pizza you just they're real small and then they get real big you know it's like oh isn't the future
+
+408
+00:35:46,280 --> 00:35:54,040
+gonna be great although hill valley 2015 is kind of like shitty looking it's good yeah yeah but
+
+409
+00:35:54,040 --> 00:36:01,000
+it's a little busted just like 1985 and 1950 well it's kind of accurate to our future right yeah it's
+
+410
+00:36:01,000 --> 00:36:04,840
+the way like some of it's nice like the way if you go to tokyo you're like wow the future is
+
+411
+00:36:04,840 --> 00:36:08,680
+incredible and then you go almost anywhere else and you're like wow the future stinks
+
+412
+00:36:10,360 --> 00:36:16,920
+but so uh um something else is going on there oh that's oh sorry i was starting to say our father
+
+413
+00:36:16,920 --> 00:36:21,880
+designed that but unfortunately it turned out to be inefficient with time travels longer than 100
+
+414
+00:36:21,880 --> 00:36:29,240
+years okay even though in the ride we go to the the pat we go to the dinosaurs yeah but i don't
+
+415
+00:36:29,240 --> 00:36:34,360
+think the ride exists i think in this timeline biff didn't steal the eight passenger delorean
+
+416
+00:36:34,360 --> 00:36:38,520
+oh you think they're cutting that out from the actual universal ride yeah i think so i think this
+
+417
+00:36:38,520 --> 00:36:43,880
+is almost maybe entirely because also something else that is not mentioned is marty mcfly right
+
+418
+00:36:43,880 --> 00:36:48,840
+doesn't matter yeah that is confusing because you would think you would have at least nodded to it
+
+419
+00:36:48,840 --> 00:36:56,040
+in a weird let me say this i saw two comments two people try to claim that this was licensed
+
+420
+00:36:57,000 --> 00:37:03,800
+how how that's what i think what in the like the because the i mean let's here's one big thing is
+
+421
+00:37:03,800 --> 00:37:10,440
+that they use the font they use the music they use the music yeah throughout but why would it
+
+422
+00:37:10,440 --> 00:37:15,480
+why would universal i don't know why they just cut like is this just some weird little way to
+
+423
+00:37:15,480 --> 00:37:21,080
+launder money or i well that's what i was trying to figure out i was like is there some weird thing
+
+424
+00:37:21,080 --> 00:37:26,840
+where it's overseas and they sort of quietly take some money because because everybody's like well
+
+425
+00:37:26,840 --> 00:37:31,880
+why isn't why haven't this been shut down why isn't this everything in the park that is the
+
+426
+00:37:31,880 --> 00:37:37,240
+question yeah so i want because like marty isn't very active you don't see marty on the original
+
+427
+00:37:37,240 --> 00:37:43,080
+ride very like you don't hear references to him or anything like clips um but i was like i wonder
+
+428
+00:37:43,080 --> 00:37:47,480
+if there is some weird thing with this it still doesn't make any sense that it would be this
+
+429
+00:37:47,480 --> 00:37:52,600
+shitty yeah but still i would just it all i'll say is it left like a little question in my head
+
+430
+00:37:53,240 --> 00:37:58,600
+of like yeah that is weird that they're allowed to keep doing it do they just like look the other way
+
+431
+00:37:58,600 --> 00:38:02,040
+or i don't know it doesn't matter enough to them and they figure well it's not our branding it's
+
+432
+00:38:02,040 --> 00:38:08,520
+not a universal part so whatever but they also have i mean aren't they building in where are they
+
+433
+00:38:08,520 --> 00:38:15,080
+building there one uh england uh universal yeah right that seems to just get approved they're not
+
+434
+00:38:15,080 --> 00:38:18,760
+gonna want to i was gonna say it's like a different territory so who cares but if they're
+
+435
+00:38:18,760 --> 00:38:24,040
+gonna have a park in england they don't want we are back kids from the future you would think it
+
+436
+00:38:24,040 --> 00:38:29,320
+would be easy to stop we are back kids from the future if you were universal that it would be
+
+437
+00:38:29,320 --> 00:38:35,000
+pretty quick to get a lawyer on the phone and go you have to shut down we are back wait keep going
+
+438
+00:38:35,800 --> 00:38:39,640
+so you have to shut down we are back kids from the future immediately there's a problem i know
+
+439
+00:38:39,640 --> 00:38:45,160
+you're confused when i could it just be yeah what if it is like they pay a small licensing fee and
+
+440
+00:38:45,160 --> 00:38:52,200
+it's like how actors used to go do commercials in japan because they would uh make a bunch of
+
+441
+00:38:52,200 --> 00:38:59,880
+money and then never seeing them i wonder but it's still it's still not enough like could there be
+
+442
+00:38:59,880 --> 00:39:05,960
+limits could there be money exchanged and limits be placed some but some of it in the park seems
+
+443
+00:39:05,960 --> 00:39:12,600
+completely like devoid of any iconography or anything related other than just the concept of
+
+444
+00:39:12,600 --> 00:39:20,920
+big robots and then this has the font it's got the delorean it's got music it does say his name
+
+445
+00:39:22,440 --> 00:39:29,320
+what if late garter is some kind of dark zone that is copyright free maybe what if it's like
+
+446
+00:39:29,320 --> 00:39:34,520
+you know in the way like there's the laws don't apply in this part of the ocean yeah it's like
+
+447
+00:39:34,840 --> 00:39:40,760
+maybe there's so it is somehow a copyright dark spot i'm curious that's why this park was built
+
+448
+00:39:40,760 --> 00:39:46,280
+there well it's not this land of late garter it's not like italy has ever been associated with
+
+449
+00:39:46,280 --> 00:39:53,720
+craft or organized crime or nothing right that's what's happening like oh like oh your lawyers
+
+450
+00:39:53,720 --> 00:39:59,000
+are coming where all our lawyers are paying you a visit as well and then a bunch of mafia dudes
+
+451
+00:39:59,000 --> 00:40:04,280
+show up at the universal gates and just kind of like put their fist in their hands pow pow
+
+452
+00:40:04,280 --> 00:40:09,400
+and then they like oh okay whatever you say or a bunch of just a bunch of tommy guns we've got
+
+453
+00:40:09,400 --> 00:40:14,760
+some lawyers don't you dare try to shut down we are back kids from the future be real shameless
+
+454
+00:40:14,760 --> 00:40:18,600
+something happened to your globe here just because you got a problem with we are back
+
+455
+00:40:18,600 --> 00:40:22,840
+kids from the future like you sleep with the fishes for shutting down we are back kids from
+
+456
+00:40:22,840 --> 00:40:28,600
+the future you know you think we're scared of universal lawyers our lawyers are all our cousins
+
+457
+00:40:28,600 --> 00:40:36,600
+if you follow my drift a lot of sylvios if you follow my drift you fuck with we are back kids
+
+458
+00:40:36,600 --> 00:40:46,200
+from the future maybe you won't be back kids from the past so i don't know i just i was like
+
+459
+00:40:47,160 --> 00:40:53,560
+interesting if somebody out there can tell us i somebody knows i wonder if somebody out there
+
+460
+00:40:53,560 --> 00:40:58,280
+somebody obviously has to know but in our audience i mean well i also think that here's
+
+461
+00:40:58,280 --> 00:41:02,280
+i think somebody i know we have people who work in the people who listen to work in the universal
+
+462
+00:41:02,280 --> 00:41:08,040
+organization sanity if you know a legal if you know someone in the legal department ask them
+
+463
+00:41:08,040 --> 00:41:15,160
+ask if they know because what i don't want to like i want to i'm torn here i i in a way want to
+
+464
+00:41:15,160 --> 00:41:20,840
+protect movie land yes i do i love that it's this wonderful world of ripoffs that exists
+
+465
+00:41:20,840 --> 00:41:27,560
+but wouldn't i'd feel a little bit proud if the history of it became this park operated until
+
+466
+00:41:27,560 --> 00:41:33,880
+podcast the ride told someone about it and then it was sued into the ground i mean but then i'd
+
+467
+00:41:33,880 --> 00:41:42,440
+also kind of feel like uh when bart gets crusty in trouble with the rs yeah like i don't i don't
+
+468
+00:41:42,440 --> 00:41:46,600
+want to get congratulated for that and then go oh my god now i can't have a dakota stick anymore
+
+469
+00:41:46,600 --> 00:41:54,200
+but we don't see we don't see like the complete disney rip off like this brazenly right now
+
+470
+00:41:55,080 --> 00:42:02,520
+and universal and comcast are a big company they have to know yeah they have somebody has to know
+
+471
+00:42:02,520 --> 00:42:08,760
+they have to have known that there was doc brown on their old ride i think but maybe nobody told
+
+472
+00:42:08,760 --> 00:42:14,760
+maybe just somehow it's just like don't everybody forgot maybe it's just like yeah
+
+473
+00:42:15,320 --> 00:42:18,600
+it would cost more to go after them free marketing what are you gonna do
+
+474
+00:42:19,240 --> 00:42:24,040
+maybe anyway you know what all it's gonna do is remind people that there's a better park with
+
+475
+00:42:24,040 --> 00:42:30,040
+the same stuff that's better i do hope they're still doing that streetmasphere show bit uh or
+
+476
+00:42:30,040 --> 00:42:39,560
+little act based on the uh the artist the academy award winning yeah they just had the poster paint
+
+477
+00:42:39,560 --> 00:42:45,080
+at the side of the wall and they were just like doing the charleston and the jitterbug in front
+
+478
+00:42:45,080 --> 00:42:50,280
+of it it looks like movie land also the only place on earth where anyone remembers the artist
+
+479
+00:42:50,280 --> 00:42:59,720
+is that movie that that's french isn't it thanks yeah yeah okay uh oh yeah um uh another interesting
+
+480
+00:42:59,720 --> 00:43:07,080
+thing is that here's why plutonium is because day time shuttle doesn't do 1.21 gigawatts time
+
+481
+00:43:07,080 --> 00:43:15,560
+shuttle does 3.21 oh which that when i heard that that now it's 3.21 gigawatts that felt to me like
+
+482
+00:43:15,560 --> 00:43:21,880
+an indominus rex type i'm like if they did the jurassic world of back to the future that would
+
+483
+00:43:21,880 --> 00:43:27,800
+be one of the things they'd say is like actually for the fans pretty cool because now we're doing
+
+484
+00:43:27,800 --> 00:43:35,800
+3.21 gigawatts and half the fans would go oh that's so fucking cool dude whoa like actually
+
+485
+00:43:35,800 --> 00:43:41,720
+this thing might be pretty good i there is a bit of that in the first chris pratt movie
+
+486
+00:43:41,720 --> 00:43:47,560
+where the owner goes like i don't care how big and deadly it is the shareholders and the guests
+
+487
+00:43:47,560 --> 00:43:55,560
+demand new attractions and then his helicopter gets fucked up yeah yeah uh um i but that seems
+
+488
+00:43:55,560 --> 00:44:00,120
+doesn't that seem like the kind of like weak ass fan service that we'd expect they'd expect us all
+
+489
+00:44:00,120 --> 00:44:06,120
+the orgasm over yeah they'd reveal that like you'd be at comic con and they would say 3.21
+
+490
+00:44:06,120 --> 00:44:11,240
+on the screen right you're supposed to go yeah it would work but yeah that would happen yeah
+
+491
+00:44:13,240 --> 00:44:17,080
+would it work on you maybe yeah yeah it was if i was in the room i've said this before
+
+492
+00:44:17,800 --> 00:44:23,800
+if you're ever in those rooms you they'll get you to pop for almost anything you'll get so excited
+
+493
+00:44:23,800 --> 00:44:27,400
+at the littlest reveal i think you already pop for almost anything me
+
+494
+00:44:27,560 --> 00:44:35,640
+me depends it depends i i did see admittedly i watched the post credit sequence from captain
+
+495
+00:44:35,640 --> 00:44:43,560
+america brave new world and i was just sitting there going who the fuck is he talking to you
+
+496
+00:44:43,560 --> 00:44:51,000
+didn't know who is this man you know i can tell you i i think i put it together by some other
+
+497
+00:44:51,000 --> 00:44:56,920
+leaks online oh well he's a bad guy in the movie yeah it's not a big jules brown it's jules brown
+
+498
+00:44:56,920 --> 00:45:08,200
+dr jules brown dr jules brown doc brown's son is now the godfather of science jules are we still in
+
+499
+00:45:08,200 --> 00:45:13,880
+the first pre-show room not the second i think but yeah okay i got i know we got it we say we
+
+500
+00:45:13,880 --> 00:45:18,680
+keep this one short and look at us now uh so uh they they tell you that you know you could with
+
+501
+00:45:18,680 --> 00:45:24,040
+this you could do all kinds of things you could go see the signing of the declaration of independence
+
+502
+00:45:24,120 --> 00:45:30,520
+they spell like that yeah like uh that's the ai uh yeah uh um the yeah the you could be front row
+
+503
+00:45:30,520 --> 00:45:36,440
+and the eiffel tower is uh opened um you you will see when your favorite team will win the super bowl
+
+504
+00:45:36,440 --> 00:45:43,560
+or the football world cup the football the football world cup but the party you're not
+
+505
+00:45:43,560 --> 00:45:47,400
+supposed to do that you guys know more than anything right you're not supposed to do that
+
+506
+00:45:47,400 --> 00:45:53,800
+um and then uh they say we'll bring you to february 13th 1955 where the first oil wells
+
+507
+00:45:53,800 --> 00:46:00,920
+were built what why that doesn't come back no it doesn't why did they take us to the first oil
+
+508
+00:46:00,920 --> 00:46:06,120
+i don't know wait a minute there were oil wells before 1955 what are you talking about they built
+
+509
+00:46:06,120 --> 00:46:12,760
+in hill valley was that like a sea plot is it a poor translation of something else i don't know
+
+510
+00:46:12,760 --> 00:46:19,320
+and they didn't they didn't translate the date right the first oil wells in 1955 what's wrong
+
+511
+00:46:19,320 --> 00:46:25,240
+with this ride i don't know ride is broken um but then you're also going to go to the london expo
+
+512
+00:46:25,240 --> 00:46:30,600
+hold on to that that sounds like nothing but hold on to it london expo uh then they then things
+
+513
+00:46:30,600 --> 00:46:35,400
+start glitching and you gotta go and you don't you don't really know why then you go to another
+
+514
+00:46:35,400 --> 00:46:39,080
+room and it's them again and now they're in front of the time train they're in front of the train
+
+515
+00:46:39,080 --> 00:46:44,280
+that we saw them on when they were creepy little dick tugging kids and then uh they're talking for
+
+516
+00:46:44,280 --> 00:46:49,480
+a second and then they say something alarming which is that the pressure flow meter which is
+
+517
+00:46:49,480 --> 00:46:56,120
+all one word with no spaces is on red the pressure flow meter is on red and then it cuts out and
+
+518
+00:46:56,120 --> 00:47:04,600
+they're gone and then who appears on screen oh my god but a girl this popped me a young look i don't
+
+519
+00:47:04,600 --> 00:47:11,080
+like to say this stuff it popped me too a new a younger girl appears who we have never seen
+
+520
+00:47:11,080 --> 00:47:18,200
+before she looks a little bit kooky almost like the 2015 back to the future 2 style she's got like
+
+521
+00:47:18,200 --> 00:47:24,760
+a weird little hair uh she's got the vest and a vest she's got marty's marty's vest that's right
+
+522
+00:47:26,040 --> 00:47:31,480
+that actually did i do recognize i was like she's dressed like marty yes it's like well she's kind
+
+523
+00:47:31,480 --> 00:47:38,520
+of like marty jr because it's like like future neon and like like weird up ponytail and and she
+
+524
+00:47:38,520 --> 00:47:48,120
+says am i in am i in but zack are you there zack these who are these funky kids and they explain
+
+525
+00:47:48,120 --> 00:47:57,720
+that they are jesse brown and he is my cousin zack brown zack brown the zack brown i'm zack
+
+526
+00:47:58,200 --> 00:48:08,760
+the unused name zack brown uh and these are jules and verne brown's children we were wrong we are
+
+527
+00:48:08,760 --> 00:48:14,040
+back kids from the future jules and verne weren't the kids not the kids from the future they aren't
+
+528
+00:48:14,040 --> 00:48:19,240
+the kids there's still more kids from the future their kids are from the future their kids are no
+
+529
+00:48:19,240 --> 00:48:24,760
+no no uh well yes we are back from the future but it's our kids our kids are from the future
+
+530
+00:48:24,760 --> 00:48:32,600
+okay we are back doc faints now here's how i interpret this all you walk down a hallway
+
+531
+00:48:32,600 --> 00:48:38,440
+between the first pre-show room the second pre-show room stuff starts to act up i believe
+
+532
+00:48:38,440 --> 00:48:44,040
+there's neon lights on the ceiling between the two rooms and you hear a lot of like
+
+533
+00:48:45,240 --> 00:48:51,400
+like electrical sputtering yeah then you walk into a room what also has a delorean crash through a
+
+534
+00:48:51,400 --> 00:48:57,560
+wall oh right yes there was that yes that is not mentioned for a while is that they take that to
+
+535
+00:48:57,560 --> 00:49:02,760
+get to us okay so we have to watch three more minutes with jules and verne and then they're
+
+536
+00:49:02,760 --> 00:49:10,280
+back to us and i think they came in that delorean that is not mentioned for a while you might be
+
+537
+00:49:10,280 --> 00:49:14,840
+right that's just you figured it out oh wait the next line i'm looking at is we drove here in our
+
+538
+00:49:14,920 --> 00:49:22,440
+delorean and today brown enterprise's first time travel experiment should take place that's exactly
+
+539
+00:49:22,440 --> 00:49:27,720
+what happened they came here now is the day we have to drive we have to whatever it takes if it
+
+540
+00:49:27,720 --> 00:49:34,200
+takes driving into the building that's what we have to do another thing they say is we know it's hard
+
+541
+00:49:34,200 --> 00:49:42,120
+to believe but we come from 2055 that's when they are from jewel so that and they're cousins so
+
+542
+00:49:42,120 --> 00:49:46,600
+because it's separate they aren't so they aren't brother and sister one is jules right kid and one
+
+543
+00:49:46,600 --> 00:49:51,560
+is verne and the other is verne's kid yeah so cousins kids from the future we are back
+
+544
+00:49:52,200 --> 00:49:57,880
+and they drew they came they came here because the first experiment that's open to the public
+
+545
+00:49:57,880 --> 00:50:04,760
+with the time shuttle um then they proceed to tell you the most shit you've ever heard in your life
+
+546
+00:50:05,240 --> 00:50:12,280
+this goes on and on and on and on and i'm interested in all of it but i think there must
+
+547
+00:50:12,280 --> 00:50:16,360
+have been a way that it didn't have to be so much what are they doing are they covering that line
+
+548
+00:50:16,360 --> 00:50:21,400
+that ride doesn't seem that long no i have to do all this they have like they have diagrams they're
+
+549
+00:50:21,400 --> 00:50:27,000
+drawing on a whiteboard they have picked like documents like there's so much info they show
+
+550
+00:50:27,000 --> 00:50:32,280
+you a picture of the flux capacitor let me tell you i know i know that i don't know what you are
+
+551
+00:50:32,280 --> 00:50:40,040
+you're zach and jesse brown this whiteboard does not pay off uh no not really not really and
+
+552
+00:50:40,040 --> 00:50:45,560
+here's the other thing about it it is this is also a nod to the films because it shows you the
+
+553
+00:50:45,560 --> 00:50:50,360
+concept of here's a straight line and this is a timeline then this there's this juncture in time
+
+554
+00:50:50,360 --> 00:50:54,280
+where things skew into an alternate timeline and another one is created this is something
+
+555
+00:50:54,280 --> 00:51:00,840
+that i love when doc brown illustrates this in the future too so they do that again to show you
+
+556
+00:51:00,840 --> 00:51:07,080
+here's where we're from but they put too many dates on it it has more than docs in the movie
+
+557
+00:51:07,080 --> 00:51:11,240
+and you don't need all of them they you kind of understand what's happening from some of the
+
+558
+00:51:11,240 --> 00:51:17,000
+first things they say except not actually though there's a lot this is this becomes a soap opera
+
+559
+00:51:17,000 --> 00:51:22,680
+at this point yeah this be you know what they could have said i could have saved a lot of money
+
+560
+00:51:22,680 --> 00:51:29,960
+you cut the first pre-show you start with these two they explain what's going on it's half as long
+
+561
+00:51:29,960 --> 00:51:35,240
+you had to do as few there's a kurt vonnegut quote he said people ask him how do you start a book
+
+562
+00:51:35,240 --> 00:51:42,840
+he's like oh that's easy you write 15 pages and you throw the first 10 in the garbage there's
+
+563
+00:51:42,840 --> 00:51:48,600
+your start of the book those five so yeah he should have been consulting on we are back if
+
+564
+00:51:48,600 --> 00:51:53,080
+he was still alive and could have fixed all these problems quick we have to go back and get kurt
+
+565
+00:51:53,080 --> 00:51:58,200
+vonnegut to fix the copy of we are back kids from the future he was at look he shows up and back
+
+566
+00:51:58,200 --> 00:52:05,720
+to school around this time you know he himself is in back to school he says like uh rodney dangerfield
+
+567
+00:52:05,720 --> 00:52:12,520
+had a uh a test on kurt vonnegut and he's like i got a tutor and it's like and it's actually kurt
+
+568
+00:52:12,520 --> 00:52:17,560
+vonnegut maybe i'm did they not he was around they call him that i think i'm so uncultured i don't
+
+569
+00:52:17,560 --> 00:52:24,120
+know about that kurt vonnegut was in it um so uh all right what do they tell i'm i'm going to try
+
+570
+00:52:24,120 --> 00:52:28,520
+to only say what's important but i might i just started writing down every line so forgive me i'm
+
+571
+00:52:28,520 --> 00:52:33,800
+gonna go as fast as i can because i don't just to make can you just read all the lines as fast as
+
+572
+00:52:33,800 --> 00:52:40,120
+you could possibly do it right now well that's not true to the spirit but okay yeah they take their
+
+573
+00:52:40,120 --> 00:52:45,400
+time uh without correct data sent to the electric circuit which receives in turn impulses given by
+
+574
+00:52:45,400 --> 00:52:50,840
+the vehicle speed that 88 miles per hour combined with 1.21 gigawatts of electricity what in physics
+
+575
+00:52:50,840 --> 00:52:54,840
+is known as the breakdown of the time symmetry which would allow the opening of space time
+
+576
+00:52:54,840 --> 00:53:00,520
+which can't happen in the mechanism long story now that was probably confusing right but then
+
+577
+00:53:00,520 --> 00:53:06,200
+what it is is that uh uh zach is very mealy-mouthed long-winded jesse comes in and cuts through the
+
+578
+00:53:06,200 --> 00:53:11,000
+clutter so he says all that garbage she comes in and says long story short our parents can make
+
+579
+00:53:11,000 --> 00:53:20,680
+it work but we do great now i got it we have data and technology to solve bugs in the system
+
+580
+00:53:20,920 --> 00:53:26,520
+but it's still a big problem then they get a chart out they now they do the timeline today is the
+
+581
+00:53:26,520 --> 00:53:30,360
+date of the first listeners you're just gonna have to make a chart with us today is the date
+
+582
+00:53:30,360 --> 00:53:36,600
+of the first tourist trip through time so that's this that's 2025 uh on this day our parents did
+
+583
+00:53:36,600 --> 00:53:43,080
+a patrol around in the location we are going to visit using grandpa emmett's train zach and i
+
+584
+00:53:43,080 --> 00:53:50,680
+live here and then went to a year i don't think we didn't know where you live we didn't understand
+
+585
+00:53:50,680 --> 00:53:56,760
+what had happened to our fathers they had simply disappeared so when the red pressure flow meter
+
+586
+00:53:56,760 --> 00:54:01,160
+thing the last we saw jewels and verne that's today that's 2025 and then they disappeared
+
+587
+00:54:01,160 --> 00:54:06,680
+nobody knows what happens they had to come here and they found zach and jesse brown found a letter
+
+588
+00:54:06,680 --> 00:54:12,760
+left by their grandfather doc brown who died when we weren't born yet thanks to this letter we
+
+589
+00:54:12,760 --> 00:54:17,560
+discovered the position of an old garage where we found the remains of an old delorean and the
+
+590
+00:54:17,560 --> 00:54:23,320
+assembles the instructions to reassemble it meanwhile we picked up a signal from the past
+
+591
+00:54:23,320 --> 00:54:30,120
+in our laboratory the message is a distorted sos we had to recode dr jewels and dr verne are stuck
+
+592
+00:54:30,120 --> 00:54:37,160
+to ed in the year 1855 they reached that like don't you live there already what's the fucking
+
+593
+00:54:37,240 --> 00:54:43,000
+problem let them live there that's where they grew up who cares oh here's why because they
+
+594
+00:54:43,000 --> 00:54:49,400
+reached that date coming from today they they damaged the plutonium tank hitting a group of
+
+595
+00:54:49,400 --> 00:54:58,760
+rocks when they were a group this is family of rocks here's what happened okay let me cut
+
+596
+00:54:58,760 --> 00:55:04,360
+through the clutter i think okay i said earlier i'm sorry i was wrong earlier i referred to
+
+597
+00:55:05,320 --> 00:55:10,760
+they jewels and verne mentioned something called the london expo i think i was wrong that's different
+
+598
+00:55:10,760 --> 00:55:16,840
+than something else which is the science world congress the science world congress takes place
+
+599
+00:55:16,840 --> 00:55:26,680
+in the year 2030 and that is where on december 8th 2030 jewels and verne the brothers meet their
+
+600
+00:55:26,680 --> 00:55:33,400
+wives yes zach and jesse's mothers mothers and that's how zach and jesse come along
+
+601
+00:55:33,400 --> 00:55:40,040
+in 2030 yes different than the london expo london expo is nothing it didn't need to be said
+
+602
+00:55:40,040 --> 00:55:47,480
+science world congress is where jewels and verne meet separate eligible lady scientists to marry
+
+603
+00:55:47,480 --> 00:55:53,960
+and have children with and this happens in 2030 so if they're stuck in the past in 1855
+
+604
+00:55:53,960 --> 00:56:02,040
+they can't go forward and make zach and jesse their children so this is now you know what i
+
+605
+00:56:02,040 --> 00:56:07,240
+just realized why this is throwing me off is because zach rito and jess mckenna are oh and
+
+606
+00:56:07,240 --> 00:56:13,720
+i started getting weird at the same time because they're both from saved by the bell oh yeah dude
+
+607
+00:56:13,720 --> 00:56:18,920
+yeah yeah that too i was like why is this it was i know it was bugging me out in the same way it was
+
+608
+00:56:19,000 --> 00:56:24,840
+for two different reasons okay i think partly what's happening here i remember reading once
+
+609
+00:56:24,840 --> 00:56:33,160
+about like the way they translate french comic books or japanese manga sometimes is that there
+
+610
+00:56:33,160 --> 00:56:39,800
+is a translator who will write the raw translation of like here's what the story is here's the
+
+611
+00:56:39,800 --> 00:56:46,520
+dialogue and then there's someone who goes through and fine tunes it and changes all the the
+
+612
+00:56:47,320 --> 00:56:52,280
+characters into english language things about different context and that joke makes no sense
+
+613
+00:56:52,280 --> 00:56:58,680
+in this language so it's an equivalent yeah yeah yeah i think maybe what happened here is they
+
+614
+00:56:58,680 --> 00:57:05,720
+didn't do that step where someone fine tunes the translation for the subtitles that uh uh behind
+
+615
+00:57:05,720 --> 00:57:12,920
+the scenes story about my uh ongoing product tiny puppets i used to do it with google translate
+
+616
+00:57:12,920 --> 00:57:18,360
+yeah and then people would say i speak portuguese and this is fucking horseshit and which is fine
+
+617
+00:57:18,360 --> 00:57:23,560
+because whatever it's supposed to be a bad ripoff thing but then i started hiring translators to do
+
+618
+00:57:23,560 --> 00:57:29,560
+it and it got i'd say five percent better then the problem just became my pronunciation which
+
+619
+00:57:29,560 --> 00:57:36,760
+is and will always be dog shit uh my apologies uh so i've experienced this and i do the i think
+
+620
+00:57:36,760 --> 00:57:45,640
+we're in a google translate world or an ai but separate issue here now we're doing the we i won't
+
+621
+00:57:45,640 --> 00:57:53,400
+be born plot of back to the future one right using kids from the future we have been we here meet
+
+622
+00:57:53,400 --> 00:58:00,520
+zach and jesse make them be born because other characters you don't really know meet at science
+
+623
+00:58:00,520 --> 00:58:06,680
+world congress they have to go there you don't get to go there you have to go where they are
+
+624
+00:58:07,480 --> 00:58:16,040
+to find them so that they can still fuck our moms to make us it's pretty genius i'm gonna say as a
+
+625
+00:58:16,040 --> 00:58:23,640
+back this is like a real stab at what's back to the future four right it's about no it's it's about
+
+626
+00:58:23,720 --> 00:58:29,400
+your moms who we also don't see back the future four is about hooking up
+
+627
+00:58:30,040 --> 00:58:35,160
+our moms i'm just glad i mean look well you know hey the first little i think little verne was
+
+628
+00:58:35,160 --> 00:58:41,480
+horny to begin with well yeah i like skipping over jewels and verne as the real like stars of the
+
+629
+00:58:41,480 --> 00:58:47,640
+movie they're fake yeah they're fake out yeah you know i think i like that too because as i said i
+
+630
+00:58:47,640 --> 00:58:51,320
+don't want to hear more about jewels and verne they're from the past they stuck they're they're
+
+631
+00:58:51,320 --> 00:58:57,880
+creepy little kids i'm glad they do what their dad does but that's not different that's it's all
+
+632
+00:58:57,880 --> 00:59:05,720
+boring until some funky teens show up named jesse and zach and they throw the whole thing they they
+
+633
+00:59:05,720 --> 00:59:12,360
+bring a fresh hip energy that the franchise needs i got i was so excited when their kids showed up
+
+634
+00:59:12,360 --> 00:59:17,480
+i was like oh this is good now we're cooking that's like i remember yes i was like all right and
+
+635
+00:59:17,480 --> 00:59:22,120
+this if you i don't want to see they can make whoever they want jewels and verne but if this
+
+636
+00:59:22,120 --> 00:59:27,640
+is the path do they need to buy the rights to this yes and then this becomes like sydney sweeney
+
+637
+00:59:28,440 --> 00:59:32,840
+uh i don't know i don't i don't got a zach picked out i mean glenn powell these kids look younger
+
+638
+00:59:32,840 --> 00:59:38,920
+than sydney sweeney though these are you gotta get some tiktok stars yes yes i don't know i don't
+
+639
+00:59:38,920 --> 00:59:44,280
+know the young stars in there you might not even know the possible eligible i think the saturation
+
+640
+00:59:44,280 --> 00:59:50,840
+i feel like i have seen some funny like decent short sketches on instagram and tiktok i don't
+
+641
+00:59:50,840 --> 00:59:56,360
+remember any of the accounts but i'm like oh it might be getting saturated so much you start to
+
+642
+00:59:56,360 --> 01:00:02,920
+get some interesting weirdos ah like you end up you end up where you started where you essentially
+
+643
+01:00:02,920 --> 01:00:09,800
+have made like second city ucbio and people just figured out stuff on their own and they end up
+
+644
+01:00:09,800 --> 01:00:16,280
+like moldable anyway oh that's okay that's good all right well let's find the hottest tiktok stars
+
+645
+01:00:16,280 --> 01:00:24,440
+to play the plum rolls yeah of zach and jesse uh i mean i've i think i'm down i think we found her
+
+646
+01:00:24,440 --> 01:00:31,400
+four yeah as long as she's got a funky ponytail this is great sure um let's get bob gale on the
+
+647
+01:00:31,400 --> 01:00:37,400
+phone does he know about does bob gale know yeah that's a good question does he know i would
+
+648
+01:00:37,400 --> 01:00:44,040
+really love to know if he knows he's i mean look is he gettable yeah i think should we get him i
+
+649
+01:00:44,040 --> 01:00:50,680
+think he might know because he has like a google like right anything auto send about right movie
+
+650
+01:00:50,680 --> 01:00:56,360
+he's got to have a cease like a cease and desist ready to go um yeah you'd think yeah yeah because
+
+651
+01:00:56,360 --> 01:01:03,560
+he'd be mad if it wasn't money in his pocket but then isn't it like just to expand like do you think
+
+652
+01:01:04,520 --> 01:01:11,720
+uh like do you end up doing the same stuff like are jules and verne awkward with women is it the way
+
+653
+01:01:11,720 --> 01:01:16,840
+that like george has trouble connecting do you have to then go to 2030 and create the florence
+
+654
+01:01:16,840 --> 01:01:24,920
+nightingale effect to make the mod did like did that also happen like did the did jules and verne
+
+655
+01:01:24,920 --> 01:01:30,440
+get hurt which made two women say we'll take care of you and that's why they fell in love
+
+656
+01:01:31,160 --> 01:01:36,120
+right you're honing in on that but remember it is a thing that young boys do when they're nervous
+
+657
+01:01:36,120 --> 01:01:41,720
+like mike's karaoke holding his crotch oh yes point to your but is it point do they get point
+
+658
+01:01:41,720 --> 01:01:46,040
+to their penis when they're nervous or they put their hand over it i mean i when i was yeah i was
+
+659
+01:01:46,040 --> 01:01:50,760
+just full on put my hand in my pants i would yeah i did a lot of that too yeah yeah but i'm saying
+
+660
+01:01:50,760 --> 01:01:55,800
+pointing it seems different actually it seems more aggressive no it's weirder like right here
+
+661
+01:01:55,800 --> 01:02:01,800
+right here baby like a nerd like a nasty kid like a yeah it's like a nasty kid behavior
+
+662
+01:02:01,800 --> 01:02:06,760
+behavior baby yeah you're saying are you going to see actually the because because in the original
+
+663
+01:02:06,760 --> 01:02:12,920
+back the future it's like you know george that has to that moment where he punches biff has to
+
+664
+01:02:12,920 --> 01:02:17,960
+happen there's no shot you'll ever like george because he's such a loser i think you have to do
+
+665
+01:02:17,960 --> 01:02:24,200
+this but with two characters now who were both on both have women that they're trying to hook up
+
+666
+01:02:24,200 --> 01:02:32,120
+with so wait so zach and jesse have to separately be marty one has to go into one car and try to
+
+667
+01:02:32,120 --> 01:02:40,440
+right hand like get handy with their own mom and then they're not the right yeah but no but if but
+
+668
+01:02:40,440 --> 01:02:47,960
+if jesse's if jesse brown's mom is bi then it's fine then you can do it i don't know the math on
+
+669
+01:02:48,600 --> 01:02:54,280
+wait math on that i don't know the social worries of 2030 jason do you have a good pitch because i
+
+670
+01:02:54,280 --> 01:02:59,160
+have a good pitch i think i have a solve here i don't have a good pitch okay i mean i'm confused
+
+671
+01:02:59,160 --> 01:03:03,400
+myself too but i think you see what i'm saying though i know you're saying jesse brown has to
+
+672
+01:03:03,400 --> 01:03:08,200
+be marty so that means she has to try to fake get handsy with her own mother yeah but she's like
+
+673
+01:03:08,200 --> 01:03:17,000
+14 but marty was marty was yeah but they were the same age yes oh well yeah wait oh wait how well
+
+674
+01:03:17,000 --> 01:03:20,120
+how old were the moms at the science world congress that's a good question i guess we
+
+675
+01:03:20,120 --> 01:03:24,520
+haven't established that they might have been they might have been 17 i guess that's possible
+
+676
+01:03:24,520 --> 01:03:32,680
+so it's okay if jesse brown's mom is bi and so i see we're gonna need a whiteboard to figure the
+
+677
+01:03:32,680 --> 01:03:39,640
+math on this out let's find one this is we need to figure it out so then so she's pretending to be a
+
+678
+01:03:39,640 --> 01:03:47,720
+butch femme but then we get a femme man and uh is this allowed should we be doing this on this
+
+679
+01:03:47,720 --> 01:03:55,880
+chalkboard uh i was gonna pitch she just builds a robot i'm gonna a handsy robot oh yes she's
+
+680
+01:03:55,880 --> 01:04:01,080
+probably an inventor type this is what kids from the future bring to the table i'm so uncomfortable
+
+681
+01:04:01,080 --> 01:04:07,320
+for marty to have to make moves on his own mother so instead you send a robot to do a rapist's work
+
+682
+01:04:07,320 --> 01:04:13,000
+that's correct so that i think solves all the problems and then you get a fun robot in there
+
+683
+01:04:13,000 --> 01:04:17,640
+and the robot she'd have to program an evil robot but still well but she'd have to program
+
+684
+01:04:18,200 --> 01:04:23,800
+if the robot hits someone she'd have to program the robot like don't kill them so that'd be a fun
+
+685
+01:04:23,800 --> 01:04:27,160
+scene in the thing where like the robot like punches through the wall it's like oh tomb was
+
+686
+01:04:27,160 --> 01:04:31,640
+too strong oh yeah yeah no it's just got to like jostle a little bit right so you can't yeah yeah
+
+687
+01:04:31,640 --> 01:04:37,800
+yeah you can't smash the entire car sorry megan you're just too strong for this job
+
+688
+01:04:38,520 --> 01:04:44,520
+no yeah megan level strength would not work no 3.21 gigawatts is too much to power the
+
+689
+01:04:46,280 --> 01:04:52,040
+the assault bot yeah yeah so i mean i guess it doesn't have to be an assault it could be also
+
+690
+01:04:52,040 --> 01:04:56,040
+a different thing they could figure i'm just going by what i know i know you're trying to go one to
+
+691
+01:04:56,040 --> 01:04:59,880
+one from the perspective because the movie is all about mirroring which is also why i believe
+
+692
+01:04:59,880 --> 01:05:06,040
+that all of this needs to happen before the big science world congress conclusion enchantment
+
+693
+01:05:06,040 --> 01:05:12,040
+under the sea dance every year side the science world congress ends in a big dance where all the
+
+694
+01:05:12,040 --> 01:05:18,280
+scientists have to do couples slow dances i and if you're left alone well sorry you gotta go back
+
+695
+01:05:18,280 --> 01:05:25,720
+to your country or time after a three hour presentation on deep sea fish well in 2025
+
+696
+01:05:25,720 --> 01:05:32,120
+why did that anglerfish come up to the surface they're still asking uh uh it's an interesting
+
+697
+01:05:32,120 --> 01:05:37,240
+congress besides all of this yeah have i brought this up before there's a youtube channel i watch
+
+698
+01:05:37,240 --> 01:05:42,120
+sometimes that's that i'll talk about like movies that were never made like back man five or like
+
+699
+01:05:42,120 --> 01:05:46,680
+the stuff superman lives or whatever the cover smith version of it but there's a bat back to
+
+700
+01:05:46,680 --> 01:05:50,440
+the future 2 the original version of back to the future 2 have you seen any of this or i've never
+
+701
+01:05:50,440 --> 01:05:55,400
+heard any of this um is this where it was the 60s was the 60s and then marty was gonna like his
+
+702
+01:05:56,040 --> 01:06:03,240
+his conception was the thing in this the original version oh no yes so he had to make them like okay
+
+703
+01:06:03,240 --> 01:06:08,920
+they are together and in love but now they have to have sex at the right moment because it wouldn't
+
+704
+01:06:08,920 --> 01:06:14,920
+be marty if it doesn't happen at that right moment they have to have unprotected sex at just this
+
+705
+01:06:14,920 --> 01:06:21,080
+moment so it's marty not craig yes exactly like just another god like right would be a different
+
+706
+01:06:21,400 --> 01:06:25,800
+look a little different or whatever yeah yes but it was in the 60s but it's unlike the original
+
+707
+01:06:25,800 --> 01:06:30,280
+version of back to the future was completely the mapped they like their original their first
+
+708
+01:06:30,280 --> 01:06:34,120
+thought was just like well let's do the exact same thing but now instead of getting together
+
+709
+01:06:34,120 --> 01:06:39,080
+it was their conception so the absence of george and chrispon actually made them have to get
+
+710
+01:06:39,080 --> 01:06:43,400
+creative which maybe results in the skewing as you know an alternate timeline where it's the
+
+711
+01:06:43,400 --> 01:06:48,040
+big confusing movie that i love today yes that's what it sounded like that sounds like dog shit
+
+712
+01:06:48,360 --> 01:06:52,040
+they didn't want to make it they they put the thing at the end of the first one is like a joke
+
+713
+01:06:52,040 --> 01:06:56,200
+and then they got threatened that somebody else would make it or something so i guess we got to
+
+714
+01:06:56,200 --> 01:07:00,840
+make it oh just to like land grab so we gotta do something so let's just do woodstock so it's
+
+715
+01:07:00,840 --> 01:07:08,520
+gonna be that like that uh uh what george and lorraine they get like they like as we all know
+
+716
+01:07:08,520 --> 01:07:15,400
+they got really randy during uh you know country joe's performance at woodstock uh-huh and they
+
+717
+01:07:15,800 --> 01:07:22,200
+went and fucked in the mud george how marty was born they already have two children so
+
+718
+01:07:22,200 --> 01:07:29,160
+them two parents uh already have to go to woodstock i don't know if i'm making up woodstock but i think
+
+719
+01:07:29,160 --> 01:07:32,280
+there was something like that i think it was something i think it was that lorraine is like
+
+720
+01:07:32,280 --> 01:07:37,560
+a revolutionary or some shit yeah yeah it's something like that george really wanted to
+
+721
+01:07:37,560 --> 01:07:46,440
+watch so they couldn't do it then but then you get like back to the future this is like sleazy
+
+722
+01:07:46,440 --> 01:07:52,280
+back to the future one where they were going to be smoking weed and selling illegal videotapes or
+
+723
+01:07:52,280 --> 01:07:56,840
+whatever what's that in the first what are you talking there was an early script to back to the
+
+724
+01:07:56,840 --> 01:08:02,680
+future where they were gonna be they were like marty and doc were dirtbag like they were smoking
+
+725
+01:08:03,400 --> 01:08:10,040
+they were copying movies of vhs's and reselling them whoa i don't know that i don't think this
+
+726
+01:08:10,040 --> 01:08:14,120
+ever got very far they were doing a be kind rewind i know there were different like yeah
+
+727
+01:08:14,120 --> 01:08:19,480
+incarnations of like what their relationship was yeah like it was but i actually don't i don't know
+
+728
+01:08:19,480 --> 01:08:25,880
+what strap this is i just heard like oh there's a sleazier idea for this that's really weird like
+
+729
+01:08:25,880 --> 01:08:31,880
+closer to like more in the bill and ted uh uh wow geez well we're learning a lot is this like my
+
+730
+01:08:31,880 --> 01:08:38,680
+aunt who would give us like here's a lion king of vhs or here's sleepless in seattle and vhs
+
+731
+01:08:38,680 --> 01:08:43,880
+add a homemade label and she's like oh no my friend he's allowed to go in the theater and
+
+732
+01:08:43,880 --> 01:08:50,280
+tape these oh wow really you had somebody who really wow you got stolen we got handed well you
+
+733
+01:08:50,280 --> 01:08:55,480
+got like a true bootleg of like somebody with a camcorder in a movie theater yeah we had some
+
+734
+01:08:55,480 --> 01:08:59,560
+bootleg i thought what you meant was just like oh they taped like because sometimes you'd have like
+
+735
+01:08:59,560 --> 01:09:03,720
+the vhs machines where you could do too and you would take from a blockbuster but you're talking
+
+736
+01:09:03,720 --> 01:09:11,320
+about true blue i think with bootlegs it didn't seem like copy that is tremendous i don't think
+
+737
+01:09:11,320 --> 01:09:16,840
+i ever had a bootleg from a movie theater tape growing up you're like why it's like i like the
+
+738
+01:09:16,840 --> 01:09:23,240
+song of kuna matata but why is it so shaky it was and i was like i gotta wait him for christmas
+
+739
+01:09:23,400 --> 01:09:30,680
+man king this rules i've never heard this before this is some great jason mythology wow wow i i
+
+740
+01:09:30,680 --> 01:09:36,200
+think um he's allowed i think the same he's monitoring screen quality he's allowed and we're
+
+741
+01:09:36,200 --> 01:09:42,200
+all like license an operating license the vhs i think that same on went to a taping in new york
+
+742
+01:09:42,200 --> 01:09:49,320
+of the rose o donald show and there there we got borrowed vhs they were giving out freebies that
+
+743
+01:09:49,720 --> 01:09:55,960
+and i think it was was a i think we got mission impossible because she loved tom cruise and that
+
+744
+01:09:55,960 --> 01:10:01,400
+was in a real and that was one of the options mission impossible or wow i was gonna say now
+
+745
+01:10:01,400 --> 01:10:05,480
+see i don't understand there's these there's this moment that's so tense but why does somebody just
+
+746
+01:10:05,480 --> 01:10:11,160
+start coughing when he's trying to diffuse the god starts coughing at a certain point why don't all
+
+747
+01:10:11,160 --> 01:10:17,080
+these blurry figures walk in front of tom cruise they're so shaken by the coughing and there's a
+
+748
+01:10:17,080 --> 01:10:20,680
+part where just the uh you can't see the screen where someone's going to the bathroom
+
+749
+01:10:21,880 --> 01:10:28,440
+i didn't understand the cinematography the cinematographer's choice to leave tom walk
+
+750
+01:10:28,440 --> 01:10:34,920
+into a lobby stand in front of the urinal when he's hanging on the cable what falls off him is
+
+751
+01:10:34,920 --> 01:10:42,360
+it a knife oh that's in the trailer for the new one too it kind of i know all about but it's like
+
+752
+01:10:42,360 --> 01:10:49,240
+oh the knife just startled that person so much they started coughing the knife falls on the desk
+
+753
+01:10:49,800 --> 01:10:56,280
+right as he's leaving yeah and then the guy does see the knife there right yes um i the we've
+
+754
+01:10:57,480 --> 01:11:02,120
+we gotta wrap this up but i but i really just you know and here's what i'm gonna say i don't
+
+755
+01:11:02,120 --> 01:11:08,120
+really have a lot to say about the ride everything i had to say was about this yeah and i will not
+
+756
+01:11:08,120 --> 01:11:13,160
+stop anyone from getting their ride thoughts out i just the fact that it is such a mythology
+
+757
+01:11:13,160 --> 01:11:17,960
+expander that is so bold just to quote them officially um it what does this mean it means
+
+758
+01:11:17,960 --> 01:11:21,880
+that our parents are never going to meet which will activate a new timeline in which my cousin
+
+759
+01:11:21,880 --> 01:11:27,960
+and i don't exist which will create a space time imbalance other person says long story short all
+
+760
+01:11:27,960 --> 01:11:33,960
+of you will end existing too so we have to hurry up that's why we need our parents to meet at the
+
+761
+01:11:33,960 --> 01:11:38,920
+science congress but also you're all gonna die so all of that at once and that is all the back
+
+762
+01:11:38,920 --> 01:11:44,920
+story on which you go into a really mediocre simulator ride that looks like old video games
+
+763
+01:11:45,640 --> 01:11:51,480
+but i'm this blew my mind and is i think actually kind of a funny plausible premise
+
+764
+01:11:52,280 --> 01:11:59,320
+at least one i just i do wish i would like to hand this to ai like make make zach and jesse
+
+765
+01:11:59,320 --> 01:12:06,600
+back to the future 4 for me don't waste anyone's time don't bother christopher loyd and michael j
+
+766
+01:12:06,600 --> 01:12:13,400
+fox their health is not great don't you dare make them come be part of this make ai do the work on
+
+767
+01:12:13,400 --> 01:12:20,120
+this shit but i just want to know what the insane rest of that story would be uh i will say the
+
+768
+01:12:20,120 --> 01:12:26,520
+it's okay so the ride room has some weird stuff in it too one there's someone in the yellow hazmat
+
+769
+01:12:26,520 --> 01:12:33,240
+suit obviously obscuring their face so it can be a man or a woman they i guess get the plutonium
+
+770
+01:12:33,800 --> 01:12:41,640
+briefly take it off stage on screen it sure enough it is basically worse simulator footage
+
+771
+01:12:41,640 --> 01:12:47,720
+than the back to the future ride because it goes in prehistoric times it goes to the future
+
+772
+01:12:47,720 --> 01:12:54,760
+it's all the same stuff it's all the same stuff and then it ends at 1855 and everyone is so far
+
+773
+01:12:54,760 --> 01:13:02,120
+away from the camera there there's no subtitles at this point and they just have like emotionless
+
+774
+01:13:02,120 --> 01:13:08,840
+conversation the hazmat person walks on screen for a second i believe to give them the plutonium
+
+775
+01:13:09,400 --> 01:13:15,480
+and then maybe take the bad one back they walk off screen then they walk into the audience again and
+
+776
+01:13:15,480 --> 01:13:21,880
+they walk back and the other the guys go like i guess they go like let's get out of let's get to
+
+777
+01:13:21,880 --> 01:13:29,080
+the conference and then it it closes like a fake shutter and it says to be continued
+
+778
+01:13:30,040 --> 01:13:36,920
+but i don't and then immediately after exit and an arrow of where you have to exit so i guess it's
+
+779
+01:13:36,920 --> 01:13:44,840
+continued in that oh jules and verne can go have sex at a conference now they can meet wives
+
+780
+01:13:44,840 --> 01:13:50,760
+separate that also the idea of two brothers going to the science world congress and both of them
+
+781
+01:13:50,760 --> 01:13:54,760
+meeting their wives wait okay and when you have you do have to ask the question
+
+782
+01:13:56,360 --> 01:14:00,920
+did it all happen in the same room was the was this a was this a double brother
+
+783
+01:14:00,920 --> 01:14:05,640
+you have no wait a minute we're messing up the time okay so they go to the science conference in
+
+784
+01:14:05,640 --> 01:14:13,240
+2030 but jesse and zach come back and say they're from 2055 correct but they appear to only be
+
+785
+01:14:13,800 --> 01:14:19,640
+15 yeah they're not 25 years old so that means jules and verne have to meet the mother they both
+
+786
+01:14:19,640 --> 01:14:26,520
+spend about 10 years together oh right good point then they have the kids yeah oh yeah so
+
+787
+01:14:26,520 --> 01:14:32,680
+it's not necessary that they have sex at the congress it depends on their degree of comfort
+
+788
+01:14:32,680 --> 01:14:38,680
+with the women that they meet uh maybe jules takes his time maybe he does it on the 10th date
+
+789
+01:14:38,680 --> 01:14:43,880
+but verne i know from his weird little dick points is getting on right away he cannot wait
+
+790
+01:14:43,880 --> 01:14:48,920
+verne is pouncing on his wife they don't they don't say if they have any other siblings either
+
+791
+01:14:48,920 --> 01:14:54,440
+though uh no i bet the older ones yeah and if they don't is it just are they just lazy
+
+792
+01:14:54,440 --> 01:14:58,280
+or not scientists they're not scientists yeah like like can you take care of it
+
+793
+01:14:59,080 --> 01:15:05,880
+no can you go help me still be born thank you yeah it's really something uh the dinosaur can
+
+794
+01:15:05,880 --> 01:15:12,760
+i talk about yes yes of course there's a dinosaur that attacks the time uh time room the time shuttle
+
+795
+01:15:13,240 --> 01:15:20,120
+and this dinosaur looks like it's from like a windows 96 screensaver it is so funny it's i
+
+796
+01:15:20,120 --> 01:15:25,240
+mean it's very much in the mold of jurassic park classic t-rex that just bites into the into a
+
+797
+01:15:25,240 --> 01:15:31,560
+delorean and shakes it around like a dog it's a playstation 1 graphics nintendo 64 graphics
+
+798
+01:15:31,560 --> 01:15:36,920
+the jump in like frame rate it takes a bite toward you and it looks like it's it like you
+
+799
+01:15:37,000 --> 01:15:44,520
+missed three seconds of movement it goes from like 50 yards away to 10 yards away in a jolt
+
+800
+01:15:44,520 --> 01:15:50,440
+you're like wait wait wait hold on it looks so funny and bad it is a 3d movie and we're watching
+
+801
+01:15:50,440 --> 01:15:56,360
+it around and his big goofy teeth are right in your face it like there is i will say i actually
+
+802
+01:15:56,360 --> 01:16:02,360
+like i'm happy that it looks bad it looks like it's funny bad yeah it looks charming yeah it gets
+
+803
+01:16:02,360 --> 01:16:07,800
+the geography incredibly correct because they go to they call it the lone pine mall yes and i've
+
+804
+01:16:07,800 --> 01:16:12,600
+been to this mall and i'm like oh this is exactly this is exactly the space of that and then they
+
+805
+01:16:12,600 --> 01:16:16,760
+recreate it is perfectly the back lot it's perfectly courthouse square yes and then they
+
+806
+01:16:16,760 --> 01:16:20,680
+turn left and i'm like oh they go over there they show us what the movie doesn't show us
+
+807
+01:16:20,680 --> 01:16:26,760
+that's kind of cool but yeah it's it is just extremely video gamey back to the future stuff
+
+808
+01:16:26,760 --> 01:16:31,400
+and then yeah that ending that might be the most anticlimactic right ending i've ever seen
+
+809
+01:16:31,400 --> 01:16:37,560
+the ending is crazy you just the ride stops moving you just stare at a still shot of a very
+
+810
+01:16:38,280 --> 01:16:45,560
+snail paced plutonium exchange and nobody celebrates or says thanks you did it but thanks to you
+
+811
+01:16:45,560 --> 01:16:49,880
+we get to go make a family and the future is what you make of it they just they don't even
+
+812
+01:16:49,880 --> 01:16:57,720
+include us in it they could have said like you don't understand i'm your kid from the future
+
+813
+01:16:57,800 --> 01:17:03,800
+it's your parents you have to go back to the future like they could have just done that and
+
+814
+01:17:03,800 --> 01:17:12,280
+cut away really quick with the done done done you also never see zack and jesse again never yeah
+
+815
+01:17:12,280 --> 01:17:16,520
+yeah it's not like they get reunited like they're just like completely divorced from what part of
+
+816
+01:17:16,520 --> 01:17:22,040
+that we are back kids from the future don't they understand when you show us kids from the future
+
+817
+01:17:22,040 --> 01:17:28,360
+i expect them to be back and stay back we are back indicates that they're back they've been
+
+818
+01:17:28,360 --> 01:17:36,920
+there before we are we are back we are back but if it's 2025 and they need their parents to meet in
+
+819
+01:17:36,920 --> 01:17:43,000
+20 they ever been here well you know you know who's getting google alerts about this ride
+
+820
+01:17:43,560 --> 01:17:50,520
+is the writer of the children's storybook and the screenwriter of we're back a dinosaur story
+
+821
+01:17:51,080 --> 01:17:56,440
+surely they put in we're back we are back that's probably why it is we are back they had to avoid
+
+822
+01:17:56,440 --> 01:18:03,880
+that yeah right too many lawsuits going right um well let's talk this out it's called back to the
+
+823
+01:18:03,880 --> 01:18:10,360
+future wait no okay that is him going back i was gonna say when marty goes to 1955 that's not back
+
+824
+01:18:10,360 --> 01:18:17,880
+because he's never been there he's going back home for 1985 yeah you have found one and only one
+
+825
+01:18:17,880 --> 01:18:23,240
+logical hell yeah entire operation we are back kids from the future the kids have never been
+
+826
+01:18:23,960 --> 01:18:28,840
+to the present as far as we know or they have and there was an that was an important detail to tell
+
+827
+01:18:28,840 --> 01:18:36,520
+us right maybe they have been yeah we are back because like back to the future is pushing it
+
+828
+01:18:36,520 --> 01:18:43,000
+because look back to the future i guess it's a it does make sense but really it should be the
+
+829
+01:18:43,000 --> 01:18:48,520
+title probably should be more about going to the past that is what most of the but it's about
+
+830
+01:18:48,520 --> 01:18:54,760
+him getting back to the future it's kind of the goal of the movie yeah that's true but the mission
+
+831
+01:18:54,760 --> 01:19:01,160
+takes place in the ride is this track then we are back kids from the future so they're well i think
+
+832
+01:19:01,160 --> 01:19:06,920
+it does because the goal is for them to keep being kids from the future right that's true if their
+
+833
+01:19:06,920 --> 01:19:11,880
+parents still meet they won't be kids they won't be anything i'm awfully tuggered out i could really
+
+834
+01:19:11,880 --> 01:19:20,600
+go for some ice stone ice stone ice stone ice stone creamery or would you rather go to rock
+
+835
+01:19:20,600 --> 01:19:24,840
+and roll restaurant and get a jackson sandwich here's probably some real food here's where i go
+
+836
+01:19:24,840 --> 01:19:30,120
+crazy on the ice stone one of the things that has really not happened from doing the show that i
+
+837
+01:19:30,120 --> 01:19:34,760
+thought would happen is that someone would reach out at any place theme park company place around
+
+838
+01:19:34,760 --> 01:19:39,960
+the world this is what i wanted they would ask us to help write a ride and now that i think about
+
+839
+01:19:39,960 --> 01:19:45,240
+it the place i would want to make a ride the most is movie land you're right because it's
+
+840
+01:19:45,240 --> 01:19:52,120
+totally open canvas of anything you ever wanted to yeah right that's where you do that's where
+
+841
+01:19:52,120 --> 01:19:57,960
+back that's where we could really happens as a ride they should give us a whole land we should
+
+842
+01:19:57,960 --> 01:20:05,960
+each have our own ride your script for minecraft meets roblox yeah sure we can have anybody william
+
+843
+01:20:05,960 --> 01:20:13,160
+frolly can show up on where we are back kids from the future it doesn't matter anything goes
+
+844
+01:20:13,160 --> 01:20:20,040
+at this place it's lawless and truly there's no place i would rather write dialogue for a ride
+
+845
+01:20:20,040 --> 01:20:26,120
+than this place i you could have more right you could have et doc brent i'm sorry i'm not even
+
+846
+01:20:26,120 --> 01:20:33,640
+fuck doc fuck doc i'm not even using him zach and jesse brown are going to take et and robocop back
+
+847
+01:20:33,640 --> 01:20:39,320
+to dinosaur times and make them joust on velociraptor sure great and it's going to look
+
+848
+01:20:39,320 --> 01:20:46,840
+like that t-rex in the video it's going to be top of the line quality for 2001 yes uh i was
+
+849
+01:20:46,840 --> 01:20:52,760
+thinking chris for loyd got me thinking about the movie nobody because he has cameo in that
+
+850
+01:20:52,760 --> 01:20:59,240
+well not more than a cameo well yeah i don't want to spoil it but he's in it he's one of the actors
+
+851
+01:20:59,240 --> 01:21:10,120
+in the film i'm spoiling this five six year old movie so we've got loyd and we've got rizza we
+
+852
+01:21:10,120 --> 01:21:16,600
+got odinkirk but i bet odinkirk and rizza's grandfather william frolly would love to help
+
+853
+01:21:16,600 --> 01:21:22,280
+them out wait so your choice of all the ip in the world you were pitching the unauthorized ride of
+
+854
+01:21:22,280 --> 01:21:29,880
+nobody in which william in which is exactly the same except william frolly's and it's and it's a
+
+855
+01:21:29,880 --> 01:21:36,040
+ride that's different no you're right like hey you have your own ride to do this is great wait jason
+
+856
+01:21:36,040 --> 01:21:45,480
+go nuts put dj quals in there okay all my character actor papers yeah i mean and look anything
+
+857
+01:21:45,480 --> 01:21:50,360
+anything goes here i guess you know if now that jason's put that out there you know what if we
+
+858
+01:21:50,360 --> 01:21:58,360
+just um let's say we do the teenage moon ninja turtles but uh grandpa monster now is their mentor
+
+859
+01:21:58,360 --> 01:22:03,880
+instead of splinter oh man great why not like just we can do anything we want now the turtles
+
+860
+01:22:03,880 --> 01:22:11,960
+are not raised by splinter they were raised by a vampire uh and it's hell louis and but then you
+
+861
+01:22:11,960 --> 01:22:18,600
+then it has to also become a ride so just make that that also you go through the sewers in indiana
+
+862
+01:22:18,600 --> 01:22:25,080
+jones jeeps that don't work very well right yes that's true and then um my name is earl is there
+
+863
+01:22:27,000 --> 01:22:31,880
+he's also hanging out with the turtles and he's got to make good on all of the problem
+
+864
+01:22:31,880 --> 01:22:35,720
+oh i think she's done wrong just making sure everything's safe right yeah you guys good you
+
+865
+01:22:35,720 --> 01:22:42,520
+need anything i want a beer my name is earl what are you doing here imagine you're on indiana jones
+
+866
+01:22:42,520 --> 01:22:47,960
+jeep then you go spinning out and suddenly where are you pointing my name is earl yeah
+
+867
+01:22:47,960 --> 01:22:53,000
+hey your brain your bravery saved the sewer thanks well done freedom fighters thanks my name
+
+868
+01:22:53,000 --> 01:23:00,520
+is earl thanks my name is earl we're back my name is earl's kids from the future whoa and then right
+
+869
+01:23:00,520 --> 01:23:08,200
+at the end ant man jumped out of his mouth yeah anything goes wow wow that's why we need to get
+
+870
+01:23:08,200 --> 01:23:14,120
+in touch beauty of the i the intellectual property theft dark spot that is lake garda this is a
+
+871
+01:23:14,120 --> 01:23:19,160
+precious place forget what i said don't ever tell universal studios about this place don't tell us
+
+872
+01:23:19,160 --> 01:23:24,600
+we need to get there we need to make our things we need to crash our car into the walls must like
+
+873
+01:23:24,600 --> 01:23:30,680
+much like it was really important for jesse and zach to do let's send an email that's been
+
+874
+01:23:30,680 --> 01:23:36,760
+translated from our english to italian we won't double check it we'll send it to the company that
+
+875
+01:23:36,760 --> 01:23:43,160
+owns this place greetings fellow mister and pitch and pitch ourselves how is your acquaintance day
+
+876
+01:23:43,160 --> 01:23:51,240
+we'll pitch ourselves as writers who have a very popular podcast in america that we would love
+
+877
+01:23:51,240 --> 01:23:57,240
+big you know kiss kiss bang bang we'll say that we'll say that jason we are show business titanians
+
+878
+01:23:57,240 --> 01:24:03,560
+right yeah we'll send a picture of you and chris pratt jason uh we'll really try to like play it
+
+879
+01:24:03,560 --> 01:24:09,480
+up that this would be a big get for them to have us work on their future rides and let's again not
+
+880
+01:24:09,480 --> 01:24:14,040
+double check the translation but we'll send it out there with just mostly pictures of jason and famous
+
+881
+01:24:14,040 --> 01:24:23,560
+people mike mitchell griffin newman yep that's all we need three those three hollywood legends
+
+882
+01:24:23,560 --> 01:24:31,000
+will give you much love and money explosion right uh hell yeah we're getting there we belong there
+
+883
+01:24:31,000 --> 01:24:38,120
+we should be so lucky to be there where the the true theme park innovation is happening thank you
+
+884
+01:24:38,680 --> 01:24:45,640
+godspeed makers of we are back kids from the future oh my god you survived podcast the ride
+
+885
+01:24:45,640 --> 01:24:49,560
+thanks for subscribing to the second gate if you want to dig even deeper join us in our vap patreon
+
+886
+01:24:49,560 --> 01:24:53,880
+tier club three where you get one more bonus episode every month and our regular episodes ad
+
+887
+01:24:53,880 --> 01:25:00,360
+free i don't want to undersell the deeper tier of the patreon but you know who's not there kids
+
+888
+01:25:00,360 --> 01:25:07,160
+from the future it's just fucking us there's no kids from the future and they are not back
+
+889
+01:25:07,720 --> 01:25:10,520
+we gotta work on that we'll fix it
+
